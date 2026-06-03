@@ -1,0 +1,40 @@
+---
+type: concept
+title: Portfolio Rebalancing
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- personal-finance
+- investing
+- risk-management
+sources:
+- The Index Card Rules.md
+related:
+- index-card-rules
+- low-cost-index-funds
+- risk-management
+- retirement-planning
+---
+-
+# Portfolio Rebalancing
+
+The practice of periodically adjusting portfolio allocation back to target percentages. Rebalancing maintains age-appropriate risk levels and enforces a "sell high, buy low" discipline.
+
+## Recommended Approach
+
+- Pick a date (birthday, New Year's)
+- Check allocation percentages
+- Sell high, buy low to restore target allocation
+- Alternatively, use target-date funds which auto-rebalance
+
+## Sample Allocation by Age
+
+- **20s**: 90% stocks, 10% bonds
+- **30s**: 80% stocks, 20% bonds
+- **40s**: 70% stocks, 30% bonds
+- **50s**: 60% stocks, 40% bonds
+- **60s**: 50% stocks, 50% bonds
+
+## See Also
+[[index-card-rules]] | [[low-cost-index-funds]] | [[risk-management]] | [[retirement-planning]]
+---

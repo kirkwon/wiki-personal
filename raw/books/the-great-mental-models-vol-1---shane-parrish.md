@@ -1,0 +1,103 @@
+---
+source_type: book
+title: The Great Mental Models (Vol. 1) - Shane Parrish
+author: Shane Parrish
+year: 2024
+category: general
+tags: []
+chapters: 8
+concepts: 7
+ingested: 2026-05-03
+sha256: ee4607e7bdca111d074e6eb4c4121a715914d9931a1b048708a8ce44e49a7e6f
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+--
+
+
+# The Great Mental Models (Vol. 1) - Shane Parrish
+
+{
+  "metadata": {
+    "title": "The Great Mental Models (Vol. 1) - Shane Parrish",
+    "author": "Shane Parrish",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "the-great-mental-models-vol-1-shane-parrish",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction to Mental Models",
+        "summary": "Brief description of the chapter's main concepts and key points. This introduction establishes the importance of mental models in decision-making, offering a foundation for understanding how they influence our perceptions and choices.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "The Evolutionary Mindset",
+        "summary": "Brief description of the chapter's main concepts and key points. Parrish explains that evolution shaped our brains to prioritize immediate concerns over long-term gains, which impacts how we approach problem-solving and innovation.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Power of Metaphors",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter examines metaphors as mental tools that help us comprehend complex ideas by relating them to familiar experiences, thereby shaping our thinking patterns.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Cognitive Biases and Heuristics",
+        "summary": "Brief description of the chapter's main concepts and key points. Parrish explores cognitive biases and heuristics that commonly distort our judgment, emphasizing their importance in understanding why we make irrational decisions despite having access to vast information.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Precision vs. Power Conflict",
+        "summary": "Brief description of the chapter's main concepts and key points. This section discusses the tension between precision (accuracy) and power (efficiency) in our thinking processes, as well as strategies to balance these competing demands for improved decision-making.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "The Value Proposition Mental Model",
+        "summary": "Brief description of the chapter's main concepts and key points. Parrish introduces the Value Proposition mental model, which helps us evaluate decisions based on their potential impact on our life goals, priorities, and values.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "Understanding Others Through Their Mental Models",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter focuses on empathy as a tool to understand other people\u2019s perspectives and actions by considering their underlying mental models, thus fostering better communication and collaboration.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "The Role of Mental Models in Innovation",
+        "summary": "Brief description of the chapter's main concepts and key points. Parrish examines how mental models shape our approach to innovation, highlighting their impact on both incremental improvements and breakthrough ideas.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Evolutionary Mindset",
+    "The Power of Metaphors",
+    "Cognitive Biases and Heuristics",
+    "The Precision vs. Power Conflict",
+    "The Value Proposition Mental Model",
+    "Understanding Others Through Their Mental Models",
+    "The Role of Mental Models in Innovation"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

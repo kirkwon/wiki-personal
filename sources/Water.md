@@ -1,0 +1,21 @@
+---
+type: source
+title: Water (mental model source)
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+sources:
+- Water.md
+---
+-
+# Water Source
+
+Mental model source documenting Water as a conceptual tool for navigating complex situations through pattern and relationship recognition. Draws on Sun Tzu's Art of War as a cross-source reference.
+
+## Key Claims
+- Water functions as a universal mental shortcut for understanding patterns and relationships in complex situations.
+- Applicability: universal across general domains.
+- Confidence: 0.7 (conceptual/vague, relies on metaphor rather than empirical grounding).
+- Reviewed 2026-04-18, next review 2026-07-17.
+---

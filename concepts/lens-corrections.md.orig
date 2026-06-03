@@ -1,0 +1,23 @@
+---
+title: Lens Corrections
+created: 2026-04-24
+updated: 2026-04-24
+type: concept
+tags:
+- photography
+- editing
+- post-processing
+sources:
+- post-processing.md
+related:
+- post-processing
+- photography-fundamentals
+---
+# Lens Corrections
+
+Lens corrections fix optical issues introduced by camera lenses: distortion (barrel/pincushion), vignette (darker corners), and chromatic aberration (color fringing).
+
+Most editing software includes automatic lens correction that detects the lens and applies fixes. These are typically applied early in the post-processing workflow.
+
+Related to [[Post-Processing]] and [[Photography Fundamentals]].
+---

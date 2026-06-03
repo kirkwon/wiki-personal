@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "bda01e6f3279109a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b5eee34236f2679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "882c5313215a4126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2d9d33d4b9c1e32",
+    "type": "split",
+    "children": [
+      {
+        "id": "6147c6c52966691f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f7d60ce3cd093a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7eddfc30d8a4284e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4bebbd6278936c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abfb33beaa7cf0ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d81d228b781a2ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94917bce255874a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "5c424bc417ff36bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "3bfce75f2fe768b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da41dbfd6e8edbed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d19f699fcebacb32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "882c5313215a4126",
+  "lastOpenFiles": [
+    "sources/The Live Like No One Else Commitment.md",
+    "sources/Number Sorting Advantage.md",
+    "sources/Time-delay decisions.md",
+    "concepts/optimism-principle-application.md",
+    "sources/Optimism principle application.md",
+    "sources/Process First, AI Second.md",
+    "concepts/ai-augmentation-not-replacement.md",
+    "sources/AI as Augmentation, Not Replacement.md",
+    "sources/The No Clothes Call.md",
+    "concepts/letters-from-a-stoic-seneca.md",
+    "concepts/time-management-and-priority-setting.md",
+    "concepts/audit-apply-iterate-scale-framework.md",
+    "sources/Time management and priority setting.md",
+    "sources/Food Budget Upgrade.md",
+    "sources/False Positive Detection.md",
+    "sources/LLM Fit — Local Model Compatibility.md",
+    "concepts/range-david-epstein.md",
+    "concepts/cross-training.md",
+    "sources/Cross-training in different skills or disciplines.md",
+    "sources/Budget Tracking.md",
+    "concepts/internal-trigger-mapping.md",
+    "sources/Internal trigger mapping.md",
+    "sources/Energy Alignment Quiz.md",
+    "sources/Multi-Agent + Worktree + Hooks + Skills.md",
+    "sources/Present-moment awareness practices.md",
+    "sources/Domain Expertise Importance.md"
+  ]
+}

@@ -1,0 +1,17 @@
+---
+type: concept
+title: Working Backwards in Problem-Solving
+created: 2026-05-03
+updated: 2026-05-03
+tags: [problem-solving, heuristics, reasoning]
+related: [how-to-solve-it---george-polya, heuristic-problem-solving, polya-four-steps, real-options-analysis, scenario-planning]
+sources: ["how-to-solve-it---george-polya.md"]
+---
+# Working Backwards in Problem-Solving
+
+Working backwards—also called "taking the problem as solved"—is a heuristic where you start from the desired outcome and reason backward to the given information. Instead of moving from data to conclusion, you invert the direction: assume the solution is known and ask what must be true for it to hold.
+
+Polya describes this as one of the most powerful strategies in the "devising a plan" phase. It is particularly useful when the path from given to unknown is unclear, but the structure of the solution is more transparent.
+
+This technique connects to [[real-options-analysis]], which treats decisions as flexible options and reasons about future states before committing. It also relates to [[scenario-planning]], where you construct plausible futures and work backward to identify what actions would be required.
+---

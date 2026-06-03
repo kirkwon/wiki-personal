@@ -1,0 +1,60 @@
+---
+created: '2026-04-24'
+sources:
+- raw/ingested/Portals/Gastronomy.md
+tags:
+- general
+title: 'Portal: Gastronomy'
+type: entity
+updated: '2026-04-24'
+---
+-
+
+
+# Portal: Gastronomy
+
+**Welcome to the Gastronomy Portal**
+
+> *"One cannot think well, love well, sleep well, if one has not dined well."* — Virginia Woolf
+
+## Quick Navigation
+
+### Core Areas
+- [[Wok Cooking]] - High-heat stir-fry techniques
+- [[Salmon Collars]] - Premium preparation methods
+- [[Flavor Theory]] - Understanding taste combinations
+- [[Ingredient Pairings]] - What works with what
+
+### Signature Dishes
+- [[Recipe: Perfect Stir-Fry]]
+- [[Recipe: Glazed Salmon Collars]]
+- [[Recipe: Umami Building Blocks]]
+
+### Techniques
+- [[Wok Hei]] - Breath of the wok
+- [[Maillard Reaction]] - Browning for flavor
+- [[Resting Meat]] - Juiciness maximization
+
+### Learning Resources
+- [[Resource:Salt Fat Acid Heat]]
+- [[Resource:The Flavor Bible]]
+- [[Resource:Wok Cooking Masterclass]]
+
+## Featured Ingredients
+- [[Salmon]] - Cuts, preparation, cooking methods
+- [[Aromatics]] - Ginger, garlic, scallion mastery
+- [[Seasonings]] - Soy sauce, oyster sauce, sesame oil
+
+## Categories
+- [[Category:Cooking Techniques]]
+- [[Category:Recipes]]
+- [[Category:Ingredients]]
+- [[Category:Flavor Profiles]]
+
+### Explore More
+[[Portal:Local Interests]] | [[Index]]
+
+---
+*Portal page • Last updated: 2026-04-20*
+
+---

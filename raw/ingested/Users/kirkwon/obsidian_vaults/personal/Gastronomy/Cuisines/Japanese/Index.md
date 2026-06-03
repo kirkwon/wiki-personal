@@ -1,0 +1,256 @@
+---
+source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Japanese/Index.md
+ingested: 2026-04-24
+sha256: efc55c9ceb56ae9bfefa6598448704e402dfaf13502e1965177057eea78b3f09
+title: Japanese Cuisine
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+
+
+---
+type: index
+domain: Gastronomy
+cuisine: Japanese
+created: 2025-04-15
+---
+
+
+# Japanese Cuisine
+
+## Overview
+
+Japanese cuisine (日本料理, Nihon ryōri) is celebrated for its emphasis on fresh, seasonal ingredients, precise preparation, and aesthetic presentation. Rooted in harmony with nature and Buddhist principles, Japanese cooking ranges from elegant kaiseki to casual ramen, from refined sushi to hearty comfort food.
+
+## Core Philosophy
+
+### Washoku (和食) - Japanese Food Culture
+
+**UNESCO Intangible Cultural Heritage (2013)**
+
+**Key principles:**
+1. **Seasonality** - Use ingredients at their peak
+2. **Presentation** - Harmony, balance, beauty
+3. **Respect for ingredients** - Minimal manipulation, natural flavors
+4. **Umami** - The fifth taste, savory depth
+5. **Health and nutrition** - Balanced, light, seasonal
+
+### The Art of Simplicity
+
+**"Less is more"**
+
+Japanese cooking emphasizes:
+- **Natural flavors** - Enhance, don't mask
+- **Precise technique** - Perfection in simple actions
+- **Seasonal ingredients** - What's in season, what's local
+- **Harmonious balance** - Flavors, textures, colors
+
+## Key Concepts
+
+### Staple Foods
+- **Rice (ご飯, Gohan)** - Short-grain, sticky, perfect foundation
+- **Noodles (麺, Men)** - Soba, udon, ramen, somen
+- **Miso soup (味噌汁)** - Fermented soybean soup, daily staple
+
+### Cooking Techniques
+- [[Japanese Cuisine/Concepts/sushi-sashimi]] - Raw fish, vinegared rice
+- [[Japanese Cuisine/Concepts/ramen]] - Noodle soup culture
+- [[Japanese Cuisine/Concepts/tempura]] - Light, crispy batter
+- [[Japanese Cuisine/Concepts/yakitori]] - Grilled skewers
+- [[Japanese Cuisine/Concepts/kaiseki]] - Multi-course dining
+
+### Flavor Foundations
+- [[Japanese Cuisine/Concepts/dashi]] - Umami-rich stock base
+- [[Japanese Cuisine/Concepts/soy-sauce-mirin]] - Seasoning essentials
+
+## Regional Cuisines
+
+| Region | Style | Characteristics |
+|--------|-------|-----------------|
+| **Tokyo (Edo)** | Sushi, tempura | Refined, urban |
+| **Osaka (Kansai)** | Street food, okonomiyaki | Hearty, casual |
+| **Kyoto** | Kaiseki, tofu | Elegant, traditional |
+| **Hokkaido** - Seafood, dairy | Rich, fresh |
+| **Okinawa** - Tropical, longevity | Unique, health-focused |
+
+## Classic Dishes
+
+### Rice Dishes
+- **Sushi (寿司)** - Vinegared rice with toppings
+- **Onigiri (おにぎり)** - Rice balls wrapped in nori
+- **Donburi (丼)** - Rice bowls (gyudon, katsudon, oyakodon)
+- **Chazuke (茶漬け)** - Rice soaked in tea
+
+### Noodle Dishes
+---
+- **Ramen (ラーメン)** - Noodle soup
+- **Udon (うどん)** - Thick wheat noodles
+- **Soba (蕎麦)** - Buckwheat noodles
+- **Somen (素麺)** - Very thin noodles, summer
+
+### Main Dishes
+- **Tempura (天ぷら)** - Battered and fried
+- **Yakitori (焼き鳥)** - Grilled chicken skewers
+- **Tonkatsu (豚カツ)** - Breaded pork cutlet
+- **Sukiyaki (すき焼き)** - Hot pot with sweet-salty broth
+- **Shabu-shabu (しゃぶしゃぶ)** - Hot pot with dipping sauces
+- **Oden (おでん)** - Winter hot pot, fish cakes
+
+### Soups and Stews
+- **Miso soup (味噌汁)** - Daily staple
+- **Tonjiru (豚汁)** - Miso soup with pork
+- **Chawanmushi (茶碗蒸し)** - Steamed egg custard
+
+## Seasonal Eating
+
+### Spring (春)
+- Bamboo shoots (たけのこ)
+- Wild vegetables (山菜, sansai)
+- Cherry blossoms (桜, sakura)
+- Strawberries (いちご)
+
+### Summer (夏)
+- Unagi (eel) - Traditional for stamina
+- Cold noodles (hiyashi somen)
+- Grilled fish (salted mackerel)
+- Summer vegetables (eggplant, peppers)
+
+### Autumn (秋)
+- Sanma (saury)
+- Matsutake mushrooms (松茸)
+- Sweet potatoes (さつまいも)
+- Chestnuts (栗)
+
+### Winter (冬)
+- Nabe (hot pot dishes)
+- Crab (かに)
+- Fugu (blowfish)
+- Oysters (かき)
+
+## Staple Ingredients
+
+### Rice
+- **Short-grain white rice** - Everyday
+- **Short-grain brown rice** - Healthier
+- **Sticky rice** - For special occasions
+- **Sprouted brown rice** - For health
+
+### Noodles
+| Type | Characteristics |
+|------|----------------|
+| **Udon** - Thick, chewy, white |
+| **Soba** - Buckwheat, nutty flavor |
+| **Ramen** - Wheat, alkaline water |
+| **Somen** - Very thin, summer |
+
+### Protein
+- **Fish** - Tuna, salmon, yellowtail, mackerel
+- **Seafood** - Shrimp, scallops, octopus, squid
+- **Poultry** - Chicken (yakitori, karaage)
+- **Pork** - Tonkatsu, ramen pork
+- **Beef** - Sukiyaki, shabu-shabu
+- **Tofu** - Various textures
+
+### Vegetables
+- Daikon (大根) - White radish
+- Napa cabbage (白菜)
+- Spinach (ほうれん草)
+- Komatsuna (小松菜)
+- Japanese eggplant (茄子)
+- Shiitake mushrooms (椎茸)
+- Enoki mushrooms (えのき)
+
+### Seasoning
+- **Soy sauce (醤油, Shōyu)** - Light and dark
+- **Mirin (みりん)** - Sweet rice wine
+- **Miso (味噌)** - Fermented soybean paste
+- **Dashi (出汁)** - Umami stock
+- **Rice vinegar (穀物酢)** - Mild vinegar
+- **Sake (日本酒)** - Rice wine for cooking
+- **Wasabi (わさび)** - Japanese horseradish
+- **Ginger (生姜)** - Fresh, pickled
+
+## Equipment
+
+| Equipment | Use |
+|-----------|-----|
+| **Rice cooker** - Perfect rice every time |
+| **Donabe** - Earthenware pot for hot pot |
+| **Hangiri** - Wooden tub for sushi rice |
+| **Makisu** - Bamboo rolling mat |
+| **Nabe pot** - Hot pot pot |
+| **Grill** - For yakitori, fish |
+| **Knives** - Deba, usuba, yanagiba |
+| **Oshibori** - Wet towel for hands |
+
+## Eating Traditions
+
+### Itadakimasu (いただきます)
+
+**"I humbly receive"**
+
+- Said before eating
+- Expresses gratitude
+- Acknowledges effort of growers, cooks, and nature
+
+### Gochisousama (ごちそうさま)
+
+**"It was a feast"**
+
+- Said after eating
+- Expresses gratitude to host
+- Acknowledges good meal
+
+### Chopstick Etiquette
+
+| Rule | Description |
+|------|-------------|
+| Don't point chopsticks at people | Rude gesture |
+| Don't stick vertically in rice | Funeral offering |
+| Don't pass food chopstick to chopstick | Funeral rite |
+| Don't rub disposable chopsticks | Insulting |
+| Use chopstick rest | When not eating |
+
+### Meal Structure
+
+**Traditional meal:**
+1. **Rice** - Always present
+2. **Miso soup** - Always present
+3. **Main dish** - Fish, meat, tofu
+4. **Side dishes** - 2-3 tsukemono (pickles)
+5. **Pickles** - Tsukemono for digestion
+
+**Modern meal:**
+- Donburi (rice bowl) for quick meal
+- Ramen for casual dining
+- Sushi for special occasions
+- Kaiseki for formal dining
+
+## Common Mistakes
+
+| Mistake | How to Fix |
+|---------|------------|
+| Over-seasoning | Start light, add more if needed |
+| Overcooking fish | Cook until just done, still translucent in center |
+| Not resting rice | Let rice rest 10-15 minutes after cooking |
+| Not making proper dashi | Dashi is foundation - use kombu and katsuobushi |
+
+## Related Concepts
+
+- [[Gastronomy/Concepts/Salmon Collars]] - Japanese-style grilled fish collar
+
+## Further Reading
+
+- "Japanese Cooking: A Simple Art" by Shizuo Tsuji
+- "The Japanese Kitchen" by Hiroko Shimbo
+- "Washoku: Recipes from the Japanese Home Kitchen" by Elizabeth Andoh
+
+## Practice
+
+1. **Make dashi** - Foundation of Japanese cooking
+2. **Master rice cooking** - Perfect short-grain rice
+3. **Try sushi** - Start with maki rolls
+4. **Host Japanese dinner** - Rice, miso soup, pickles, main dish
+
+**Remember:** Japanese cuisine is about respect - respect for ingredients, for seasonality, and for those who will eat.

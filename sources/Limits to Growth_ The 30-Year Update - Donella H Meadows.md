@@ -1,0 +1,60 @@
+---
+type: source
+title: 'Limits to Growth: The 30-Year Update'
+author: Donella H. Meadows
+year: 2024
+reading_time: 2 minutes
+confidence: 1.0
+tags:
+- book
+- meadows
+sources:
+- Limits to Growth_ The 30-Year Update - Donella H Meadows.md
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+-
+
+# Limits to Growth: The 30-Year Update
+
+**Author**: Donella H. Meadows
+**Year**: 2024
+**Difficulty**: advanced
+
+## Why It Matters
+This book provides actionable frameworks for understanding limits, growth trajectories, and global trends through a systemic lens, connecting long-term planetary constraints to societal and economic planning.
+
+## The Big Picture
+The foreword reflects on three decades of global change, reassessing the original 1972 "Limits to Growth" predictions against empirical data. Meadows and colleagues demonstrate that many concerning trends identified in the original work have continued or accelerated, while also acknowledging areas of progress.
+
+## Core Concepts
+- [[limits-to-growth]]
+- [[world3-model]]
+- [[planetary-boundaries]]
+- [[sustainability-frameworks]]
+- [[scenario-planning]]
+- [[resource-depletion]]
+- [[system-dynamics]]
+
+## Key Takeaways
+- Original 1972 predictions have largely held up: global trends align with concerning scenarios
+- Resource depletion and environmental degradation continue despite technological advances
+- Societal transformation in consumption patterns and values is necessary
+- Political systems must actively address environmental governance
+- Economic models must integrate ecological constraints
+- Education, culture, and communication are critical for sustainable behavior change
+- Increased global interconnectedness and system complexity make future planning more difficult
+
+## Chapters Summary
+1. Foreword - Reflections on Three Decades of Global Change
+2. Introduction to Limits to Growth Revisited
+3. The World We Face Today
+4. Assessing Our Progress Against Predictions
+5. Beyond Limits - New Perspectives on Sustainability
+6. Resource Depletion and Technological Innovations
+7. Social Transformation for Sustainable Futures
+8. Political Structures and Environmental Governance
+9. Economic Models Adapted to Sustainability Goals
+10. The Role of Education, Culture, and Communication
+11. Challenges Ahead - Navigating Complexity in a Dynamic World
+---

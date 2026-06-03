@@ -1,0 +1,38 @@
+---
+title: Extraction Control
+created: 2026-04-24
+updated: 2026-04-24
+type: concept
+tags:
+- coffee
+- brewing
+- technique
+sources:
+- Pour Over.md
+related:
+- pour-over-coffee
+- bloom-technique-闷蒸技术
+- channeling
+---
+--
+# Extraction Control
+
+Extraction control is the ability to precisely manage how much flavor is pulled from coffee grounds during brewing. Pour-over coffee offers the greatest manual control over extraction among common brewing methods.
+
+## Target Range
+- Ideal extraction: 18-22%
+- Under-extraction: Sour, weak, missing complexity
+- Over-extraction: Bitter, harsh, astringent
+
+## Key Variables
+- **Grind size**: Finer = faster extraction, coarser = slower
+- **Water temperature**: Higher = faster extraction
+- **Pour rate**: Faster = more extraction, slower = less
+- **Bloom time**: Longer bloom = more CO2 release
+- **Total time**: Controls overall extraction percentage
+
+## Measurement
+Precise extraction measurement requires a refractometer, though experienced brewers can assess extraction quality through taste and visual cues like color and draining speed.
+
+## Connection to Brewers
+Different brewers (V60, Chemex, Kalita Wave) produce meaningfully different cup profiles due to their physical design affecting drainage rate and extraction dynamics.

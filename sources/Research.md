@@ -1,0 +1,15 @@
+---
+type: source
+title: Research.md
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Research.md
+---
+--
+# Research.md Source Summary
+
+Source document introducing "Research" as a universal mental model—a conceptual tool for navigating complex situations through pattern and relationship recognition. Cross-references David Epstein's *The Sports Gene* as supporting evidence for how scientific research reveals underlying patterns in athletic excellence. Confidence level: 0.7. Priority: medium.

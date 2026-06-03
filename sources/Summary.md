@@ -1,0 +1,23 @@
+---
+type: source
+title: Summary
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- meta
+sources:
+- Summary.md
+---
+-
+# Summary
+
+This source defines "Summary" as a universal mental model — a conceptual tool for navigating complex situations through patterns and relationships. It provides a mental shortcut for making sense of complexity.
+
+The model is referenced in Donella H. Meadows' Limits to Growth, which is already covered in the wiki under [[limits-to-growth]]. The definition is generic and circular, offering no specific mechanism or distinct insight beyond what existing mental models like [[overview]], [[planning]], and [[solutions]] already capture.
+
+No substantive cross-source elaboration is provided.
+---
+
+---FILE: wiki/log.md---
+## [2026-04-29] ingest | Summary.md

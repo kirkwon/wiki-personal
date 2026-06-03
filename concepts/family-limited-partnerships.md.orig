@@ -1,0 +1,48 @@
+---
+
+type: concept
+title: Family Limited Partnerships
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- personal-finance
+- estate-planning
+- business-entity
+sources:
+- Company Structure Guide.md
+related:
+- step-up-in-basis
+- trusts-guide
+- multi-entity-structuring
+----
+# Family Limited Partnerships (FLPs)
+
+A Family Limited Partnership is a limited partnership structure used for estate planning and wealth transfer among family members.
+
+## Structure
+- **General Partners**: Usually parents — control the partnership, have management rights
+- **Limited Partners**: Usually children — liability limited to investment amount, no management control
+- **Purpose**: Controlled wealth transfer, estate planning, asset protection
+
+## Formation Requirements
+- Certificate of Limited Partnership filed with state
+- Written partnership agreement
+- EIN and state registration
+- Family member contributions to partnership
+
+## Key Benefits
+- **Valuation Discounts**: Partnership interests can receive valuation discounts for gift tax purposes
+- **Step-Up in Basis**: Potential for step-up in basis on inherited partnership interests
+- **Controlled Transfers**: General partners maintain control while transferring economic value
+- **Estate Planning**: Facilitates multi-generational wealth preservation
+
+## Risks and Limitations
+- Limited partners risk losing liability protection if they participate in management
+- Transfer restrictions for partnership interests
+- FBAR/FATCA reporting may apply for certain structures
+- Requires proper documentation and formalities
+
+## Related Pages
+- [[step-up-in-basis]] for tax benefits
+- [[trusts-guide]] for broader estate planning
+- [[multi-entity-structuring]] for layered wealth structures

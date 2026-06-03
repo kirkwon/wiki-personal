@@ -1,0 +1,30 @@
+---
+title: Readers
+created: 2026-04-29
+updated: 2026-04-29
+type: concept
+tags:
+- mental-model
+- productivity
+- learning
+related:
+- world-disclosure
+- personal-knowledge-vault
+- how-to-take-smart-notes---snke-ahrens
+- the-para-method---tiago-forte
+- readers
+sources:
+- Readers.md
+---
+--
+# Readers
+
+Readers is a mental model that functions as a conceptual tool for navigating complex situations through reading. It provides a framework for making sense of patterns and relationships by leveraging knowledge obtained from sources.
+
+It connects to several existing knowledge management concepts:
+- [[world-disclosure]] – Forms of world disclosure through learning
+- [[personal-knowledge-vault]] – Organizing personal knowledge
+- [[how-to-take-smart-notes---snke-ahrens]] – Progressive summarization and smart notes
+- [[the-para-method---tiago-forte]] – PARA organization method
+
+The model is applicable universally with a confidence level of 0.7.

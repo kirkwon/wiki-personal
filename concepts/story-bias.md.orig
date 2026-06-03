@@ -1,0 +1,31 @@
+---
+type: concept
+title: Story Bias
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- cognitive-bias
+- decision-making
+sources:
+- The Art of Thinking Clearly - Rolf Dobelli.md
+related:
+- cognitive-biases-library
+- confirmation-bias
+- narrative-fallacy
+---
+# Story Bias
+
+The preference for coherent narratives over statistical truth, leading to simplified and often inaccurate explanations. Humans are wired to construct stories, which means we favor compelling narratives even when the data tells a different story.
+
+## Key Points
+- Coherent stories feel more true than statistical evidence
+- This leads to oversimplification and false causality
+- Connects to [[confirmation-bias]] — we seek information that fits the narrative
+- Experts are particularly susceptible when they have rehearsed explanations
+
+## Practical Impact
+In business and investing, story bias causes us to over-weight anecdotal evidence and under-weight base rates. A compelling founder story can override objective metrics.
+
+## Guardrail
+When presented with a narrative explanation, ask: "What does the data say? How many cases contradict this story?"
+---

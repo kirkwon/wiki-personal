@@ -1,0 +1,278 @@
+---
+created: '2026-04-24'
+sources:
+- raw/ingested/Gastronomy/Cuisines/Chinese/Concepts/sichuan-cuisine.md
+tags:
+- general
+title: Sichuan Cuisine
+type: query
+updated: '2026-04-24'
+---
+-
+
+
+# Sichuan Cuisine
+
+## Infobox
+
+| Attribute | Value |
+|-----------|-------|
+| **Region** | Sichuan Province, Southwest China |
+| **Flavor Profile** | Numbing (má), Spicy (là), Aromatic |
+| **Spice Level** | High - very spicy |
+| **Key Ingredients** | Sichuan peppercorns, chilies, fermented broad bean paste |
+| **Related Concepts** | [[Chinese Cuisine/Concepts/mapo-tofu]], [[Gastronomy/Concepts/Wok Hei]] |
+| **Practice** | Cook mapo tofu, hot pot, kung pao chicken |
+
+## Overview
+
+Sichuan cuisine (川菜, Chuān cài) is famous for its bold, spicy, and numbing flavors. Characterized by the "má là" (麻辣) flavor profile - numbing (má) from Sichuan peppercorns and spicy (là) from chilies - it's one of China's most popular regional cuisines.
+
+## Flavor Profile
+
+### The Má Là Experience
+
+| Component | Source | Sensation |
+|-----------|--------|-----------|
+| **Má (numbing)** | Sichuan peppercorns | Tingling, electric, anesthetic |
+| **Là (spicy)** | Dried chilies, chili oil | Heat, burning, warming |
+| **Xiāng (aromatic)** | Fermented bean paste, ginger, garlic | Deep, umami-rich aroma |
+| **Xiān (savory)** | Stock, soy sauce, cooking wine | Umami, salty depth |
+
+### The 7 Flavors (七味)
+
+Sichuan cuisine is known for seven distinct flavor profiles:
+
+| Flavor | Description | Example Dishes |
+|--------|-------------|---------------|
+| **Má là** | Numbing and spicy | Mapo tofu, hot pot |
+| **Yú xiāng** | Fish fragrance (garlic, ginger, scallion, sugar, vinegar) | Yuxiang eggplant |
+| **Hóng shāo** | Red-braised (soy sauce, sugar) | Red-braised pork |
+| **Jiāng dǔ** | Strong ginger flavor | Ginger fish |
+| **Yán sù** | Salty and savory | Twice-cooked pork |
+| **Qīng dàn** | Light and mild | Steamed fish with ginger |
+| **Suān là** | Sour and spicy | Sour and spicy fish |
+
+## Key Ingredients
+
+### Sichuan Peppercorns (花椒, Huājiāo)
+
+**The soul of Sichuan cooking**
+
+**Characteristics:**
+- Citrusy, floral aroma
+- Intense numbing sensation (má)
+- Not a true pepper (closely related to citrus)
+- Two main varieties:
+  - **Red** - More numbing, classic
+  - **Green** - More floral, less numbing
+
+**Use:**
+- Toast whole peppercorns before grinding
+- Ground in wok oil at beginning of cooking
+- Key component of **Five-Spice Powder**
+
+### Dried Chilies (干辣椒, Gān làjiāo)
+
+**Characteristics:**
+- Provides là (spiciness)
+- Added to hot oil at start of cooking
+- Left in dish for continuous heat
+- Varieties: Erjingtiao (Sichuan variety), Tianjin, Chaotian
+
+### Fermented Broad Bean Paste (豆瓣酱, Dòubànjiàng)
+
+**"The soul of Sichuan cuisine"** - Liao Fan, 19th century chef
+
+**Characteristics:**
+- Fermented broad beans with chilies and salt
+- Deep, earthy, umami flavor
+- Base for many Sichuan dishes
+- Brands: Pixian is most famous
+
+**Use:**
+- Sauté in oil until red oil separates
+- Base for mapo tofu, twice-cooked pork
+
+### Other Key Ingredients
+
+| Ingredient | Use | Dish Examples |
+|------------|-----|---------------|
+| **Ginger** | Aromatic base, heat | Almost all dishes |
+| **Garlic** | Aromatic base, depth | Almost all dishes |
+| **Scallions/Green onions** | Aromatic, garnish | Almost all dishes |
+| **Soy sauce** | Salty, umami, color | Light and dark |
+| **Cooking wine** | Deglazing, aroma | Shaoxing rice wine |
+| **Chili oil** - Red oil, finishing | Drizzled on finished dishes |
+| **Vinegar** - Chinkiang (black), red | Acidic balance | |
+
+## Classic Dishes
+
+### Mapo Tofu (麻婆豆腐, Mápó dòufu)
+
+**The iconic Sichuan dish**
+
+**Characteristics:**
+- Silken tofu in spicy, numbing sauce
+- Rich, red, aromatic
+- Comfort food with bold flavors
+
+**Key components:**
+- Silken tofu (preserved in cubes)
+- Ground pork (optional)
+- Dried chilies (facing skyward)
+- Fermented broad bean paste
+- Sichuan peppercorns
+
+### Kung Pao Chicken (宫保鸡丁, Gōngbǎo jīdīng)
+
+**Sweet, sour, spicy, savory**
+
+**Characteristics:**
+- Diced chicken, peanuts, vegetables
+- Stir-fried quickly
+- Perfect balance of flavors
+
+**Key components:**
+- Chicken (breast or thigh)
+- Peanuts
+- Dried chilies
+- Soy sauce, vinegar, sugar
+
+### Hot Pot (火锅, Huǒguō)
+
+**Communal dining experience**
+
+**Broth base:**
+- Spicy broth (chili oil, Sichuan peppercorns)
+- Mild broth (bone stock, goji berries)
+
+**Dipping items:**
+- Thinly sliced beef, lamb
+- Tofu, bean curd sheets
+- Vegetables (bok choy, lotus root, mushrooms)
+- Meatballs, fish balls
+---
+
+**Dipping sauce:**
+- Sesame oil, garlic, cilantro, vinegar, soy sauce
+
+### Twice-Cooked Pork (回锅肉, Huíguōròu)
+
+**"The dish that won't let you stop"**
+
+**Characteristics:**
+- Pork belly boiled then stir-fried
+- Leeks, fermented beans
+- Wok hei aroma
+
+### Fish-Fragrant Eggplant (鱼香茄子, Yúxiāng qiézi)
+
+**No fish, but fish fragrance**
+
+**Flavor profile:**
+- Spicy, sweet, sour, savory
+- Garlic, ginger, scallion, sugar, vinegar
+- Soft, silky eggplant
+
+## Regional Variations
+
+| City/Area | Style | Characteristics |
+|-----------|-------|-----------------|
+| **Chengdu** | Home cooking | Less spicy, more complex |
+| **Chongqing** | Bold, intense | Very spicy, simpler |
+
+## Cooking Techniques
+
+### Stir-Frying with Wok Hei
+
+- Preheat wok until smoking
+- Add oil, aromatics
+- Add ingredients, quick toss
+- Maintain high heat throughout
+- See [[Gastronomy/Concepts/Wok Hei]] for detailed technique
+
+### Dry-Frying (干煸, Gānbiān)
+
+- No oil added initially
+- Ingredients release own moisture
+- Concentrates flavors
+- Example: Green beans, pork
+
+### Red-Braising (红烧, Hóng shāo)
+
+- Soy sauce, sugar, aromatics
+- Long, slow cooking
+- Deep red color
+- Example: Pork belly, beef
+
+## Menu Planning
+
+### Traditional Sichuan Meal Structure
+
+1. **Cold dish** - Sliced beef with chili oil, cucumber with garlic
+2. **Soup** - Sour and spicy fish soup
+3. **Main dishes** - Mapo tofu, kung pao chicken, twice-cooked pork
+4. **Vegetable** - Dry-fried green beans, braised greens
+5. **Starch** - Rice or noodles
+
+### Flavor Balance
+
+- Mix numbing and non-numbing dishes
+- Include something mild to palate cleanse
+- Vary cooking techniques (stir-fry, braise, steam)
+
+## Common Mistakes
+
+| Mistake | How to Fix |
+|---------|------------|
+| Not toasting Sichuan peppercorns | Toast in dry wok until fragrant before grinding |
+| Using too much fermented bean paste | Start with 1-2 tbsp, adjust to taste |
+| Not achieving wok hei | Preheat wok until smoking, work quickly |
+| Overcooking tofu | Add last, gentle heat |
+| Not balancing flavors | Always include something non-spicy |
+
+## Pairings
+
+### Beverages
+- **Chinese tea** - Pu'er, green tea (neutralizes heat)
+- **Chinese beer** - Tsingtao, Snow (refreshing)
+- **Water** - Avoid cold water (worsens spice sensation)
+
+### Side Dishes
+- **Steamed rice** - Balances spice
+- **Cold cucumber** - Refreshing contrast
+- **Plain congee** - Soothing after spice
+
+## Where to Eat
+
+**In China:**
+- Chengdu and Chongqing for authentic experience
+- Night markets for variety
+
+**Internationally:**
+- Look for restaurants with Sichuan in name
+- Ask about regional specialties
+- Authentic places have woks visible
+
+## Related Concepts
+
+- [[Chinese Cuisine/Concepts/mapo-tofu]] - Detailed mapo tofu recipe
+- [[Gastronomy/Concepts/Wok Hei]] - Stir-fry technique
+- [[Chinese Cuisine/Concepts/hot-pot]] - Communal hot pot experience
+
+## Further Reading
+
+- "Land of Plenty" by Fuchsia Dunlop
+- "Shark's Fin and Sichuan Pepper" by Fuchsia Dunlop
+- "The Food of Sichuan" by Fuchsia Dunlop
+- "Every Grain of Rice" by Fuchsia Dunlop
+
+## Practice
+
+1. **Make mapo tofu** - Master má là flavors
+2. **Try kung pao chicken** - Learn balance of flavors
+3. **Host hot pot** - Experience communal dining
+4. **Explore regional variations** - Chengdu vs Chongqing
+
+**Remember:** Sichuan cuisine is not just spicy - it's a complex dance of numbing, aromatic, spicy, and savory flavors that creates an addictive eating experience.

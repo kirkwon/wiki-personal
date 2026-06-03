@@ -1,0 +1,243 @@
+---
+created: '2026-04-24'
+sources:
+- raw/ingested/Gastronomy/Cuisines/French/Index.md
+tags:
+- general
+title: French Cuisine
+type: concept
+updated: '2026-04-24'
+---
+-
+
+
+# French Cuisine
+
+## Overview
+
+French cuisine (Cuisine française) is the foundation of Western culinary arts, celebrated for its technique, elegance, and regional diversity. From the refined sauces of Escoffier to the rustic charm of provincial cooking, French cuisine emphasizes quality ingredients, precise methods, and the joy of dining.
+
+## Core Philosophy
+
+### Mise en Place
+
+**"Everything in its place"**
+
+- **Preparation is everything** - Organized, efficient
+- **Quality ingredients** - No shortcuts
+- **Respect for technique** - Methods matter
+- **Seasonal eating** - What's fresh, what's local
+
+### The Five Mother Sauces
+
+**Foundation of French cooking:**
+
+| Sauce | Base | Thickener | Use |
+|-------|------|----------|-----|
+| **Béchamel** | Milk | Roux | Gratins, lasagna |
+| **Velouté** | Stock | Roux | Soups, sauces |
+| **Espagnole** - Brown stock | Roux | Rich sauces |
+| **Hollandaise** | Butter, eggs | Emulsion | Eggs, vegetables |
+| **Tomato** - Tomatoes | Roux | Pasta, dishes |
+
+### Regional Diversity
+
+**20 regions, 20 cuisines:**
+
+| Region | Style | Characteristics |
+|--------|-------|-----------------|
+| **Provence** - Mediterranean, olive oil | Ratatouille, bouillabaisse |
+| **Burgundy** - Wine, beef | Boeuf bourguignon, coq au vin |
+| **Brittany** - Seafood, butter | Crepes, galettes |
+| **Alsace** - German influence | Choucroute, flammekueche |
+| **Lyon** - Bouchon cuisine | Pork, offal |
+| **Southwest** - Duck, foie gras | Confit, cassoulet |
+
+## Key Concepts
+
+### Classical Techniques
+- [[French Cuisine/Concepts/mother-sauces]] - The five foundations
+
+### Regional Specialties
+- **Provencal** - Mediterranean, herbs, olive oil
+- **Burgundian** - Wine-based, rich
+- **Norman** - Apple, dairy, seafood
+- **Alsatian** - German-influenced, hearty
+
+## Staple Ingredients
+
+### Dairy
+
+| Item | Use |
+|------|-----|
+| **Butter** - Unsalted for cooking, salted for finishing |
+| **Cream** - Heavy for sauces |
+| **Cheeses** - Camembert, brie, gruyère, roquefort |
+
+### Fats
+---
+
+| Item | Use |
+|------|-----|
+| **Butter** | Cooking, finishing |
+| **Olive oil** - Provencal cooking |
+| **Duck fat** - Confit, southwestern cooking |
+| **Lard** - Rustic dishes |
+
+### Herbs (Fines Herbes)
+
+| Herb | Use |
+|------|-----|
+| **Parsley** | Garnish, cooking |
+| **Chives** | Garnish |
+| **Tarragon** - Classic herb |
+| **Chervil** - Delicate herb |
+| **Basil** - Summer herb |
+
+### Other Essentials
+
+| Item | Use |
+|------|-----|
+| **Wine** - Cooking, reduction |
+| **Shallots** - Aromatic base |
+| **Garlic** - Provencal cooking |
+| **Mustard** - Dijon, whole grain |
+
+## Classic Dishes
+
+### Soups and Stews
+
+| Dish | Region |
+|------|--------|
+| **Bouillabaisse** - Provence | Fish stew |
+| **Pot-au-feu** - Nationwide | Boiled beef |
+| **Coq au vin** - Burgundy | Chicken in wine |
+| **Boeuf bourguignon** - Burgundy | Beef in wine |
+| **Cassoulet** - Southwest | Bean and meat casserole |
+| **Onion soup** - Nationwide | Caramelized onions |
+
+### Bistro Classics
+
+| Dish | Description |
+|------|-------------|
+| **Steak frites** - Steak with fries |
+| **Croque monsieur** - Grilled ham and cheese |
+| **Steak tartare** - Raw beef |
+| **Escargots** - Snails in garlic butter |
+| **French onion soup** - Caramelized onion soup |
+
+### Provincial Dishes
+
+| Dish | Region |
+|------|--------|
+| **Ratatouille** - Provence | Stewed vegetables |
+| **Niçoise salad** - Nice | Tuna, vegetables |
+| **Cassoulet** - Southwest | Bean casserole |
+| **Coq au vin** - Burgundy | Chicken in wine |
+| **Confit de canard** - Southwest | Duck confit |
+
+### Baked Goods
+
+| Item | Use |
+|------|-----|
+| **Baguette** - Everyday bread |
+| **Croissant** - Breakfast pastry |
+| **Pain au chocolat** - Chocolate pastry |
+| **Tarte Tatin** - Upside-down apple tart |
+
+## Cooking Techniques
+
+### Sautéing
+
+- Quick cooking in hot pan
+- High heat, little fat
+- Browning flavor
+
+### Braising
+
+- Slow cooking in liquid
+- Tough cuts become tender
+- Rich, deep flavor
+
+### Roasting
+
+- Oven cooking
+- Whole birds, large cuts
+- Crispy skin, juicy meat
+
+### Confit
+
+- Slow cooking in fat
+- Duck, goose, pork
+- Preservation method
+
+## Equipment
+
+| Equipment | Use |
+|-----------|-----|
+| **Saucier pan** - Making sauces |
+| **Dutch oven** - Braising, soups |
+| **French oven** - Braising, baking |
+| **Mandoline** - Thin slicing |
+
+## Common Mistakes
+
+| Mistake | How to Fix |
+|---------|------------|
+| Not using quality butter | Use French or European-style butter |
+| Overcooking sauces | Cook gently, reduce slowly |
+| Not seasoning properly | Salt and pepper in stages |
+| Not resting meat | Rest before carving |
+
+## Eating Traditions
+
+### Course Structure
+
+**Formal meal:**
+1. **Apéritif** - Pre-dinner drink
+2. **Entrée** - Appetizer
+3. **Plat principal** - Main course
+4. **Fromage** - Cheese course
+5. **Dessert** - Sweet
+6. **Café** - Coffee
+
+### Wine Pairing
+
+**Regional wines with regional food**
+
+## Where to Eat
+
+### In France
+
+**For authentic:**
+- Regional restaurants
+- Bistros
+- Brasseries
+- Cafes
+
+### Internationally
+
+**Look for:**
+- French-trained chefs
+- Classic techniques
+- Regional specialties
+- Proper wine list
+
+## Related Concepts
+
+- [[Gastronomy/Concepts/Aromatics]] - Mirepoix base
+
+## Further Reading
+
+- "Mastering the Art of French Cooking" by Julia Child
+- "Larousse Gastronomique" - Encyclopedia of French cooking
+- "The Food of France" by Waverley Root
+
+## Practice
+
+1. **Master béchamel** - First mother sauce |
+| **Try coq au vin** - Classic Burgundian dish |
+| **Make ratatouille** - Provencal vegetables |
+| **Host French dinner** - Soup, main, cheese, dessert |
+
+**Remember:** French cuisine is about technique and respect for ingredients. Master the basics, then explore regions.

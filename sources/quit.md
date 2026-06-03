@@ -1,0 +1,17 @@
+---
+type: source
+title: Quit - The Power of Knowing When to Walk Away
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- decision-making
+- quitting
+- commitment
+sources:
+- Outcomes.md
+---
+-
+# Quit
+
+Annie Duke's exploration of the power of knowing when to walk away, referenced as part of the Outcomes mental model framework alongside her other decision-making works.
+---

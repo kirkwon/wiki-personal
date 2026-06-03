@@ -1,0 +1,34 @@
+---
+type: concept
+title: Flavor Building Layers
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- cooking-techniques
+- gastronomy
+sources:
+- Aromatics.md
+related:
+- aromatics-the-holy-trinity
+- stir-fry-technique
+- flavor-theory
+---
+--
+# Flavor Building Layers
+
+风味分层构建是烹饪中通过分阶段加入食材来创造复杂风味的策略。
+
+## 三阶段加入策略
+
+### 早期加入——基底风味
+芳香基底首先下锅，在热油中释放基础风味。姜、蒜、葱白是最典型的基底芳香料。
+
+### 中期烹饪——融合风味
+芳香基底与蛋白质结合，产生新的风味层次。不同蛋白质与不同芳香料的搭配会产生独特效果。
+
+### 后期加入——新鲜冲击
+蒜和葱绿最后30秒加入，提供清新感和最后的芳香冲击。这一步防止芳香料过度烹饪失去活力。
+
+## 实践应用
+
+在爆炒中，这一策略具体体现为：热锅→加油→加芳香基底→翻炒15-20秒→加主料→最后加葱绿和蒜。这一流程确保每一层风味都得到最佳表现。

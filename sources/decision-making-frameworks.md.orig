@@ -1,0 +1,53 @@
+---
+
+type: source
+title: 'Source: decision-making-frameworks.md'
+created: 2026-05-09
+updated: 2026-05-09
+sources:
+- decision-making-frameworks.md
+tags: []
+related: []
+----
+
+# Source: decision-making-frameworks.md
+
+## Avainhenkilöt ja tahot
+- Ei konkreettisia henkilöitä mainittu lähteessä
+- Chip Heath, Dan Heath, Annie Duke, Mikael Krogerus, Roman Tschäppeler, John Hammond, Ralph Keeney, Howard Raiffa – viitteissä mainitut kirjailijat (teokset esiintyvät jo wikissä, esim. Annie Duke, decision-making-frameworks jo on olemassa wiki-sivulla)
+
+## Avainkäsitteet
+- **Systemaattinen päätöksentekomenetelmä** (General Decision Framework) – 7 vaiheen malli: määrittele päätös → vaihtoehdot → kriteerit → arvioi → epävarmuus → päästä päätökseen → seuranta
+- **10-10-10-sääntö** – lyhyt-, keskit-, pitkäaikainen tunteiden arviointi
+- **Tapahtumakustannuskehys** (Opportunity Cost Framework) – vertailu seuraavan parhaan vaihtoehdon kanssa
+- **Regret Minimization Framework** – ennakkokehys (Bezos-esimerkki)
+- **First Principles Framework** – oletusten purkaminen perus totuuksiin
+- **Bayesian Decision Framework** – todennäköisyys ja odotusarvon laskeminen
+- **Eisenhower-matriisi** – urgency/importance-jako
+- **Pros-Cons Framework** – edut/haitat painotettuna
+- **Pre-Mortem Analysis** – ennustamalla epäonnistuminen etukäteen
+- **Reversibility Test** – kaksisuuntainen vs. yksisuuntainen päätös
+- **Bounded Rationality**, **Prospect Theory**, **Behavioral Economics**, **Normative Decision Theory**, **Heuristics**, **Group Decision-Making** – akateemiset kehykset viitteessä
+
+Useimmat näistä käsitteistä on jo olemassa wikissä (esim. [[bayesian-thinking]], [[prospect-theory]], [[decision-making-frameworks]], [[pre-mortem-analysis]] – viittaukset löytyvät jo laajasti).
+
+## Pääargumentit ja tulokset
+- Systemaattiset kehykset vähentävät kognitiivisia harhoja ja selventävät trade-offeja.
+- 7-vaiheinen yleismalli toimii kaikenkattavana pohjana.
+- Useita erityistyyppejä (10-10-10, regret minimization, pre-mortem, jne.) tarjoaa työkaluja eri tilanteisiin.
+- Todistus perustuu enimmäkseen menetelmälliseen opiskeluun ja harjoitteluun; empiiristä todistetta on vähän.
+- Tapahtumakustannuskehys ja reversibility-testi ovat keskeisiä päätöksentekoa koskevia sisäistä logiikkaa.
+
+## Yhteys olemassa olevaan wikiin
+- Lähinnä laajentaa jo olemassa olevia sivuja: [[decision-making-frameworks]] on jo wikissä, samoin [[cognitive-biases-library]], [[bayesian-thinking]], [[pre-mortem-analysis]], [[mental-models]].
+- Lähentää [[thinking-in-bets---annie-duke]]:n sisältöä (todennäköisyyspohjainen päätöksenteko).
+- Yhdistää [[decision-tracking]]:in ajatus – päätösten dokumentointi ja seuranta.
+- Sisältää viittauksen [[decision-quality-vs-outcome-quality]]:hin (prosessin ja tuloksen erottaminen).
+- Laajentaa [[heuristic-problem-solving]]:ia heuristiikkakaavoin (mukaanlukien kognitiiviset heuristikot).
+- **Ei aiheuta ristiriitoja** olemassa olevan wikin kanssa.
+
+## Ristiriidat ja jännitteet
+- Lähde ei tunnista ristiriitoja; sisäiset jännitteet ovat vähäisiä.
+- Yksittäiset kehykset (esim. Bayesian framework) ovat yksinkertaistettuja verrattuna akateemiseen kirjallisuuteen, mutta toimivat käytännössä.
+
+## Suositukse

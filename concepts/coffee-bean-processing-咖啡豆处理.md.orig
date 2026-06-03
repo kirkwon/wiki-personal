@@ -1,0 +1,82 @@
+---
+
+type: concept
+title: Coffee Bean Processing
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- coffee
+- arabica
+- processing
+- technique
+sources:
+- Arabica.md
+- Bean Processing.md
+related:
+- arabica-coffee-coffea-arabica
+- robusta-coffee-coffea-canephora
+- coffee-roasting-咖啡烘焙
+- pour-over-coffee
+- coffee
+- french-press-coffee-法压壶咖啡
+- robusta-vs-arabica
+- specialty-coffee-grading
+----
+# Coffee Bean Processing
+
+Coffee bean processing is the key post-harvest step that transforms coffee fruit into raw beans ready for roasting, decisively influencing final flavor, aroma, and quality. Processing method is a major lever in determining coffee flavor, body, and acidity. Processing choice is one of the most impactful decisions a producer makes, shaping how origin character expresses itself in the cup. Different processing methods create distinctly different flavor characteristics, from washed coffee's bright clarity to natural coffee's intense fruit notes.
+
+## Five Main Processing Methods
+
+### Washed Processing (水洗处理)
+
+Remove cherry pulp immediately after picking, then wash. Produces cleaner, brighter flavors with more focused acidity and lighter body. Fermentation period: 12-48 hours; drying: 7-14 days. Total processing: 2-3 weeks. Best for single-origin specialty coffee. Best origins include Ethiopia, Colombia, Costa Rica, and Kenya.
+
+### Natural Processing (日晒处理)
+
+Dry whole cherry on the beans, then remove. Produces fruitier, sweeter flavors with fuller body and lower acidity, sometimes with fermented notes. Drying: 2-4 weeks, with daily turning to prevent mold. Total processing: 3-4 weeks. Best for fruit-forward, sweet profiles. Best origins include Ethiopia, Brazil, Yemen, and Indonesia.
+
+### Honey Processing (蜜处理)
+
+Partial pulp removal, leaving sticky beans with retained mucilage to dry. Creates balanced fruit sweetness with a clean finish, medium body, and balanced acidity. Best for sweetness complexity and body. Four grades based on mucilage retention:
+- **Black Honey**: most mucilage
+- **Red Honey**: medium mucilage
+- **Yellow Honey**: least mucilage
+- **White Honey**: minimal mucilage
+Drying time: 8-15 days. Total processing: 1-2 weeks.
+
+### Pulped Natural Processing (湿法日晒)
+
+Only the skin is removed, with partial mucilage retained. Combines characteristics of washed and natural methods. Drying: 7-12 days. Flavor sits between washed and natural profiles. Best origins include Brazil, Colombia, Peru, and Mexico.
+
+### Anaerobic Fermentation
+
+Sealed container controls fermentation under anaerobic conditions. Temperature: 75-85°F; time: 24-72 hours. Produces unique fermented flavors with complex wine and fruit-floral aromas. Quality control requirements are extremely high; often small-batch processing. Best origins include Costa Rica, Colombia, Kenya, and Guatemala.
+
+## Core Quality Factors
+
+- **Harvest maturity**: deep red cherries, firm flesh, stem easily detached
+- **Moisture management**: target moisture content 10-12%
+- **Drying control**: must dry evenly to prevent mold
+- **Fermentation management**: time, temperature, and pressure must be precisely controlled
+
+## Quality Defects
+
+- **Primary Defects**: Black, sour, foreign matter
+- **Secondary Defects**: Floater, broken, insect damage
+- **Quakers**: Underdeveloped beans with no flavor
+- **Stinkers**: Fermented beans with off-flavors
+
+## Innovation Trends
+
+Carbonic maceration, IoT real-time monitoring, AI defect detection, and blockchain traceability are transforming the coffee processing industry. Sustainability efforts include water saving, pulp composting, and solar drying.
+
+## See Also
+- [[arabica-coffee-coffea-arabica]]
+- [[robusta-coffee-coffea-canephora]]
+- [[coffee-roasting-咖啡烘焙]]
+- [[pour-over-coffee]]
+- [[coffee]]
+- [[french-press-coffee-法压壶咖啡]]
+- [[robusta-vs-arabica]]
+- [[specialty-coffee-grading]]

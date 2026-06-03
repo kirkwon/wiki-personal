@@ -1,0 +1,37 @@
+---
+type: source
+title: The Winner's Curse - Richard Thaler
+created: 2024-04-17
+updated: 2024-04-17
+tags:
+- books
+- behavioral-economics
+- decision-making
+sources:
+- The Winner's Curse - Richard Thaler.md
+related:
+- richard-thaler
+- mental-accounting
+- planning-fallacy
+- libertarian-paternalism
+- easterlin-paradox
+---
+--
+# The Winner's Curse - Richard Thaler
+
+Richard Thaler's *The Winner's Curse* synthesizes decades of behavioral economics research into a cohesive framework showing that human economic behavior is systematically irrational in predictable ways.
+
+## Key Chapters and Concepts
+
+- **Winner's Curse**: Winners in auctions and competitive bidding systematically overpay due to overoptimistic estimates against other biased bidders.
+- **Biases in Judgment**: Overconfidence, anchoring, and the planning fallacy lead to suboptimal decisions.
+- **Mental Accounting**: People treat money non-fungibly, categorizing income and spending in ways that lead to irrational choices.
+- **Framing and Choice Architecture**: How choices are presented dramatically affects decisions; preferences are constructed, not stable.
+- **Fairness and Social Norms**: People reject unfair offers and cooperate more than standard theory predicts.
+- **Self-Control**: Hyperbolic discounting leads to procrastination and under-saving; commitment devices help.
+- **Financial Markets**: Overconfidence, excessive trading, disposition effect, and herd behavior create market anomalies.
+- **Labor Markets**: Wage rigidity, fairness concerns, reference point effects, and money illusion shape behavior.
+- **Libertarian Paternalism**: Nudging through choice architecture improves outcomes while preserving freedom.
+- **Economics of Happiness**: Hedonic adaptation and the Easterlin paradox challenge the link between income and happiness.
+- **Behavioral Game Theory**: Fairness, reciprocity, and social norms contradict standard game theory.
+- **Thaler's Law**: Economic behavior is systematically irrational but predictably so, enabling better institutional design.

@@ -1,0 +1,36 @@
+---
+type: concept
+title: Culture as Product of Choices
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- leadership
+- organizational-culture
+sources:
+- Leaders Eat Last - Simon Sinek.md
+related:
+- leaders-eat-last---simon-sinek
+- triple-bottom-line
+- service-over-profit-leadership
+- physical-space-shaping-culture
+---
+-
+# Culture as Product of Choices
+
+Sinek argues that organizational culture is not something that happens to a company—it is the direct result of choices leaders make. Specifically, leaders shape culture by making deliberate choices that prioritize employees over competitors.
+
+## Key Insight
+Every decision a leader makes—how to allocate resources, whom to hire, how to structure communication—either builds or erodes the culture. The most important choice is whether to put people first.
+
+## Practical Implications
+- Hiring decisions reflect cultural values
+- Communication patterns shape social structure
+- Physical environments either promote or hinder collaboration
+- Shared purpose must be actively maintained, not assumed
+
+## Related Concepts
+- [[service-over-profit-leadership]]
+- [[physical-space-shaping-culture]]
+- [[social-structure-in-organizations]]
+- [[shared-purpose-leadership]]
+---

@@ -1,0 +1,26 @@
+---
+type: concept
+title: Making
+created: 2026-04-29
+updated: 2026-04-29
+tags: [mental-model, thinking]
+sources: ["Making.md"]
+related: [algorithms-to-live-by---brian-christian-tom-griffiths, thinking-mental-model, patterns-mental-model]
+---
+# Making
+
+Making is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.^[raw/articles/Making.md]
+
+## Definition
+Making functions as a universal mental model with applicability across all domains. It is characterized as a mental shortcut for making sense of patterns and relationships, enabling individuals to navigate complexity through pattern and relationship recognition.^[raw/articles/Making.md]
+
+## Confidence
+The confidence level for this model is 0.7, indicating moderate certainty in its distinctiveness and value as a standalone mental model.^[raw/articles/Making.md]
+
+## Connection to Algorithms to Live By
+This mental model is explicitly attributed to *Algorithms to Live By* by Brian Christian and Tom Griffiths.^[raw/articles/Making.md] It relates to the broader set of frameworks in that book covering optimization, scheduling, and resource allocation.
+
+## Related Concepts
+- [[thinking-mental-model]] — Thinking as a universal mental model for pattern and relationship recognition
+- [[patterns-mental-model]] — Patterns as a conceptual tool for navigating complexity
+- [[algorithms-to-live-by---brian-christian-tom-griffiths]] — The source book for this model

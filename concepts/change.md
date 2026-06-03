@@ -1,0 +1,48 @@
+---
+type: concept
+title: Change
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Change.md
+related:
+- planning
+- tendency
+- effort
+- brain-mental-model
+- patterns-and-relationships
+- personal-knowledge-vault
+- framework-template
+---
+-
+# Change
+
+Change is a universal mental model that serves as a conceptual tool for understanding and navigating complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world. Rather than being a single theory, it integrates perspectives from habit formation, organizational redesign, systems thinking, purpose-driven leadership, and high-leverage interventions in complex systems.
+
+## Cross-Source Perspectives
+
+Change is referenced across five major frameworks:
+
+- **Habit-based change** (James Clear, *Atomic Habits*): Change through small incremental habit formation, focusing on identity-based behavioral shifts and environment design.
+- **Organizational change** (Charles Duhigg, *Smarter Faster Better*): Change via motivation, teams, and process redesign, emphasizing how information flow and psychological safety drive transformation.
+- **Systems-based change** (Donella Meadows, *Thinking in Systems*): Change through identifying high-leverage interventions in complex systems, including leverage points that shift system behavior at fundamental levels.
+- **Purpose-driven change** (Stephen Covey, *The 8th Habit*): Change driven by finding one's voice and purpose, moving from effectiveness to greatness through disciplined passion.
+- **Systemic learning** (Peter Senge, *The Fifth Discipline*): Change through organizational learning disciplines, where shared vision and mental models enable teams to adapt to complexity.
+
+## Relationship to Other Mental Models
+
+Change connects to [[planning]] through the recognition that adaptive planning requires embracing change rather than resisting it. It relates to [[tendency]] by examining how humans tend toward status quo bias and how change models address overcoming that inertia. The [[effort]] mental model shares ground with habit-based change, though Change broadens the lens to include systemic and organizational dimensions. Change also intersects with [[brain-mental-model]] in understanding how cognitive patterns either facilitate or resist transformation.
+
+## Open Questions
+
+- What distinguishes "Change" as a mental model from existing mental models like [[effort]] or [[tendency]]?
+- Is it sufficiently distinct to warrant its own entry, or is it an integration of existing frameworks?
+- How does the confidence rating of 0.7 reflect the uncertainty in treating Change as a standalone mental model?
+
+## Confidence
+
+The confidence rating is moderate (0.7) given that the source is a meta-summary listing sources rather than presenting original analysis or evidence.
+---

@@ -1,0 +1,29 @@
+---
+source_url: null
+ingested: 2026-04-29
+sha256: null
+title: Rates
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+-
+
+type: mental-model
+model_name: "Rates"
+applicability: universal
+confidence: 0.7
+domains:
+- general
+tags:
+- mental-model
+review:
+  last_reviewed: 2026-04-18
+  next_review: 2026-07-17
+  priority: medium
+---
+# Rates
+
+Rates is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+This mental model is referenced in Ray Dalio's How the Economic Machine Works, where rates—such as interest rates, credit growth rates, returns on investment, and inflation rates—serve as central drivers of economic cycles. In Dalio's framework, the rates at which money and credit flow through an economy determine whether that economy expands or contracts.

@@ -1,0 +1,81 @@
+---
+type: source
+title: 'Source: MIGRATION_PLAN.md'
+created: 2026-05-12
+updated: 2026-05-12
+sources:
+- MIGRATION_PLAN.md
+tags: []
+related: []
+---
+
+# Source: MIGRATION_PLAN.md
+
+### **Analysis of the Personal Vault Content Migration Plan**
+
+---
+
+#### **1. Overview of the Migration Plan**
+The document outlines a structured approach to migrating content into a **Personal Knowledge Vault**, emphasizing **sensitivity classification**, **content categorization**, and **task prioritization**. Key objectives include:
+- Consolidating **sensitive/personal data** (e.g., client info, workflows).
+- Curating **gastronomy knowledge** (recipes, techniques).
+- Documenting **local interests** and **discoveries**.
+- Ensuring **security** by separating private vs. public content.
+
+---
+
+#### **2. Key Components of the Plan**
+
+##### **A. Migration Scope**
+- **Content Types to Migrate:**
+  1. **Sensitive/Personal Content** (e.g., client data, private workflows).
+  2. **Gastronomy Knowledge** (recipes, techniques, flavor theory).
+  3. **Local Interests** (businesses, venues, routines).
+  4. **Red-Teaming Skills** (conditional inclusion based on sensitivity).
+
+- **Excluded Content:**
+  - API keys, credentials, financial data, legal documents.
+
+##### **B. Content Sources & Migration Strategy**
+- **Source 1: Gastronomy Content**
+  - **Tasks:** Create frameworks for recipes, document techniques, and build ingredient profiles.
+  - **Outcome:** A structured "Gastronomy Portal" with technical and practical knowledge.
+
+- **Source 2: Personal Clients**
+  - **Search Locations:** Hermes logs, project directories, personal files.
+  - **Audit Goals:** Identify client workflows, deliverables, and project status.
+
+- **Source 3: Local Interests**
+  - **Focus:** Document Bay Area discoveries, local businesses, and personal routines.
+
+- **Source 4: Sensitive Content**
+  - **Red-Teaming Skills:** Requires manual review to determine public vs. private placement.
+  - **Internal Workflows:** Generalize for public use or retain as private.
+
+##### **C. Sensitivity Classification**
+- **Acceptable in Personal Vault:**
+  - Client data, gastronomy knowledge, local business info, workflows.
+- **Private/Excluded:**
+  - Financial data, credentials, legal documents, highly sensitive info.
+
+##### **D. Migration Status**
+- **Completed:**
+  - Vault structure, templates, gastronomy portal, and initial categories.
+- **In Progress:**
+  - Gastronomy documentation, client content search, sensitive content review.
+- **Pending:**
+  - Local interests documentation, workflows, red-teaming content review.
+
+---
+
+#### **3. Strengths of the Plan**
+- **Clear Sensitivity Rules:** Explicitly separates private vs. public content, reducing security risks.
+- **Structured Categorization:** Assigns specific tasks to content types (e.g., gastronomy as frameworks).
+- **Search-Driven Approach:** Uses targeted queries (e.g., Hermes logs, project directories) to locate client data.
+- **Scalability:** Allows for organic growth of gastronomy content and local interests.
+
+---
+
+#### **4. Potential Risks & Improvements**
+- **Risk 1: Incomplete Sensitive Content Review**
+  - **Improvement:** Add a **checklist

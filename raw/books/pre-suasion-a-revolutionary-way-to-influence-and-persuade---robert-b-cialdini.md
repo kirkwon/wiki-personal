@@ -1,0 +1,107 @@
+---
+source_type: book
+title: 'Pre-Suasion: A Revolutionary Way to Influence and Persuade - Robert B. Cialdini'
+author: Robert B. Cialdini
+year: 2024
+category: general
+tags: []
+chapters: 9
+concepts: 9
+ingested: 2026-05-03
+sha256: e28de0e6be7923023122b09aa4ea27a58c3aba9d228dcc1f594dd7a68de04c97
+---
+--
+
+# Pre-Suasion: A Revolutionary Way to Influence and Persuade - Robert B. Cialdini
+
+{
+  "metadata": {
+    "title": "Pre-Suasion: A Revolutionary Way to Influence and Persuade - Robert B. Cialdini",
+    "author": "Robert B. Cialdini",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "pre-suasion_-a-revolutionary-way-to-influence-and-persuade-robert-b-cialdini",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "The Subtle Art of Pre-Suasion",
+        "summary": "Brief description of the chapter's main concepts, introducing pre-suasion as an approach that leverages subtle cues and factors before persuading to influence decision making effectively. Highlighting its contrast with traditional methods.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "The Influence Puzzle - Six Principles for Predictable Power",
+        "summary": "Brief description of the chapter's main concepts, exploring Cialdini's six principles (reciprocation, commitment/consistency, social proof, authority, liking, and scarcity) as foundational elements in understanding pre-suasion.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Power of First Impressions",
+        "summary": "Brief description of the chapter's main concepts, explaining how initial impressions shape subsequent perceptions and decision making processes crucial to effective pre-suasion strategies.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Building Trust Through Rapport",
+        "summary": "Brief description of the chapter's main concepts, focusing on the importance of establishing a connection with individuals before attempting persuasion, highlighting techniques for building rapport and trust.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Persuasive Advantage",
+        "summary": "Brief description of the chapter's main concepts, discussing how pre-suasion can create an advantage in influencing outcomes by subtly positioning oneself favorably before engaging with others.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "Pre-Suasion Through Cognitive Economy",
+        "summary": "Brief description of the chapter's main concepts, emphasizing on minimizing cognitive load and optimizing mental resources for efficient pre-suasion strategies while avoiding overwhocing or manipulative tactics.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Power of Likability",
+        "summary": "Brief description of the chapter's main concepts, examining how likable individuals are more likely to be persuaded and exploring factors that influence perceived likability within pre-suasion frameworks.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "Pre-Suasion in Action: Real World Applications",
+        "summary": "Brief description of the chapter's main concepts, providing real-world examples where pre-suasion techniques can be employed effectively across various contexts like marketing, politics, and personal interactions to influence outcomes.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "The Ethics of Pre-Suasion",
+        "summary": "Brief description of the chapter's main concepts, exploring ethical considerations in implementing pre-suasion strategies while distinguishing between legitimate persuasion techniques and manipulative practices.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Subtle Art of Pre-Suasion",
+    "The Influence Puzzle - Six Principles for Predictable Power",
+    "The Power of First Impressions",
+    "Building Trust Through Rapport",
+    "The Persuasive Advantage",
+    "Pre-Suasion Through Cognitive Economy",
+    "The Power of Likability",
+    "Pre-Suasion in Action: Real World Applications",
+    "The Ethics of Pre-Suasion"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

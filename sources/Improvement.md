@@ -1,0 +1,14 @@
+---
+type: source
+title: Improvement
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+sources:
+- Improvement.md
+---
+--
+# Improvement Source Summary
+
+The source defines "Improvement" as a conceptual tool or principle for navigating complex situations through pattern and relationship recognition. It claims cross-source references from Cal Newport (Slow Productivity), Nassim Nicholas Taleb (Skin in the Game), Ryan Holiday (The Obstacle Is the Way), Barry Schwartz (The Paradox of Choice), and Philip E. Tetlock & Dan Gardner (Superforecasting), plus 27 additional unnamed sources. However, the source is a stub with no substantive content beyond the definition and no actual sources listed.

@@ -1,0 +1,48 @@
+---
+type: concept
+title: Flavor Preservation Strategies
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- technique
+- cooking
+- herbs
+sources:
+- Basil.md
+related:
+- basil-ocimum-basilicum
+- heat-sensitivity-of-herbs
+- chiffonade
+---
+-
+# Flavor Preservation Strategies
+
+Preserving the flavor of fresh herbs like basil requires understanding how different methods affect volatile aromatic compounds.
+
+## Methods Compared
+
+### Freezing
+- Chopped in ice cube trays with oil or water
+- Retains flavor for 6 months
+- Best for soups, sauces, stews
+- Superior to drying for flavor retention
+
+### Drying
+- Air dry or dehydrate quickly to preserve color
+- Flavor diminishes significantly
+- Mainly retains color, not aroma
+
+### Refrigerator Storage
+- Stems in water, loose plastic bag
+- 3-5 days with daily water changes
+- Flavor peaks in first 1-2 days
+
+## Key Takeaway
+Freezing whole or in oil preserves flavor better than drying. Adding herbs late in cooking maintains fresh flavor. Basil should not be stored near ethylene-producing fruits.
+
+## See Also
+- [[basil-ocimum-basilicum]]
+- [[heat-sensitivity-of-herbs]]
+- [[chiffonade]]
+---
+## Output: wiki/concepts/flavor-preservation-strategies.md

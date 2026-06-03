@@ -1,0 +1,202 @@
+---
+source_type: book
+title: The Power of Habit - Charles Duhigg
+author: Charles Duhigg
+year: 2024
+category: general
+tags: []
+chapters: 15
+concepts: 15
+ingested: 2026-05-03
+sha256: 3e199db3048af33ef7ee64c9d40676ccda467f61dbe3c73886f4434314bb14c7
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+--
+
+
+# The Power of Habit - Charles Duhigg
+
+{
+  "metadata": {
+    "title": "The Power of Habit - Charles Duhigg",
+    "author": "Charles Duhigg",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "the-power-of-habit-charles-duhigg",
+    "when_to_use_trigger": [
+      "When you want to create a new habit",
+      "When you need to break a bad habit",
+      "When you're trying to change a specific behavior",
+      "When you're stuck in automatic patterns you want to change",
+      "When you're designing organizational processes or culture",
+      "When you want to understand why you do what you do",
+      "When you're coaching others on behavior change",
+      "When you're analyzing why systems or people behave certain ways",
+      "When you're creating marketing or behavior change programs",
+      "When you need to build keystone habits that transform other areas"
+    ],
+    "tools_used": [
+      "Habit loop analysis (cue, routine, reward)",
+      "Cue identification techniques",
+      "Routine experimentation and substitution",
+      "Reward mapping and craving analysis",
+      "Habit stacking (linking new habits to existing ones)",
+      "Keystone habit identification",
+      "Implementation intentions",
+      "Habit tracking and monitoring",
+      "Environmental design for habit support",
+      "Community and social proof for habit reinforcement"
+    ],
+    "timeline_behavior": {
+      "immediate": "Identify the habit loop (cue, routine, reward)",
+      "short_term": "Experiment with routine variations",
+      "medium_term": "Solidify new habit through repetition",
+      "long_term": "Maintain habit as automatic behavior",
+      "continuous": "Monitor and adjust habits as needed"
+    },
+    "how_to_measure_improve": [
+      "Track habit consistency (days completed)",
+      "Measure automaticity (how effortless is the habit?)",
+      "Assess impact of keystone habits on other areas",
+      "Count successful habit loop identifications",
+      "Monitor reduction in unwanted habits",
+      "Track energy and willpower depletion",
+      "Evaluate environmental support for habits",
+      "Measure social reinforcement effectiveness",
+      "Assess overall behavior change progress",
+      "Track triggers and successful responses to cues"
+    ],
+    "when_to_stop": [
+      "When habit tracking becomes obsession",
+      "When you're judging yourself for every missed day",
+      "When habits become rigid and prevent flexibility",
+      "When you're changing too many habits at once",
+      "When you're using habits to avoid dealing with underlying issues",
+      "When you're focusing on habits to the detriment of values",
+      "When you're forcing habits that don't align with your personality",
+      "When you're using guilt and shame rather than support",
+      "When you're becoming rigid about optimal habit timing"
+    ]
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "The Habit Loop",
+        "summary": "Explains the habit loop: cue, routine, reward - the framework for understanding how habits work.",
+        "part": "Part I: The Habits of Individuals"
+      },
+      {
+        "chapter": 2,
+        "title": "The Craving Brain",
+        "summary": "Explores the science of craving and how habits become encoded in the brain.",
+        "part": "Part I: The Habits of Individuals"
+      },
+      {
+        "chapter": 3,
+        "title": "The Golden Rule of Habit Change",
+        "summary": "Details how to change habits by keeping the cue and reward but changing the routine.",
+        "part": "Part I: The Habits of Individuals"
+      },
+      {
+        "chapter": 4,
+        "title": "Keystone Habits and the Art of Small Wins",
+        "summary": "Discusses keystone habits - habits that spark change in other areas of life.",
+        "part": "Part I: The Habits of Individuals"
+      },
+      {
+        "chapter": 5,
+        "title": "Starbucks and the Habit of Success",
+        "summary": "Examines how companies use habit principles to train employees and create successful organizations.",
+        "part": "Part I: The Habits of Individuals"
+      },
+      {
+        "chapter": 6,
+        "title": "The Power of a Crisis",
+        "summary": "Explores how crises can become opportunities for organizational habit change.",
+        "part": "Part I: The Habits of Individuals"
+      },
+      {
+        "chapter": 7,
+        "title": "How Target Knows What You Want Before You Do",
+        "summary": "Discusses how companies predict and influence consumer habits through data analysis.",
+        "part": "Part I: The Habits of Individuals"
+      },
+      {
+        "chapter": 8,
+        "title": "The Power of Movement",
+        "summary": "Explores how social movements grow through community habits and social proof.",
+        "part": "Part II: The Habits of Successful Organizations"
+      },
+      {
+        "chapter": 9,
+        "title": "The Habit of Listening",
+        "summary": "Details how leaders can build habits of listening and feedback.",
+        "part": "Part II: The Habits of Successful Organizations"
+      },
+      {
+        "chapter": 10,
+        "title": "The Habit of Empathy",
+        "summary": "Discusses how organizations build empathy habits to better understand customers and employees.",
+        "part": "Part II: The Habits of Successful Organizations"
+      },
+      {
+        "chapter": 11,
+        "title": "The Habit of Trust",
+        "summary": "Explains how trust habits create resilient organizations and teams.",
+        "part": "Part II: The Habits of Successful Organizations"
+      },
+      {
+        "chapter": 12,
+        "title": "The Power of Social Networks",
+        "summary": "Explores how habits spread through social networks and influence society.",
+        "part": "Part III: The Habits of Societies"
+      },
+      {
+        "chapter": 13,
+        "title": "The Habit of Moral Courage",
+        "summary": "Discusses how moral habits can lead to social change and justice.",
+        "part": "Part III: The Habits of Societies"
+      },
+      {
+        "chapter": 14,
+        "title": "The Habit of Faith",
+        "summary": "Details how faith habits shape individuals and communities.",
+        "part": "Part III: The Habits of Societies"
+      },
+      {
+        "chapter": 15,
+        "title": "The Habit of Family",
+        "summary": "Explores how family habits are transmitted across generations.",
+        "part": "Part III: The Habits of Societies"
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Habit Loop",
+    "The Craving Brain",
+    "The Golden Rule of Habit Change",
+    "Keystone Habits and the Art of Small Wins",
+    "Starbucks and the Habit of Success",
+    "The Power of a Crisis",
+    "How Target Knows What You Want Before You Do",
+    "The Power of Movement",
+    "The Habit of Listening",
+    "The Habit of Empathy",
+    "The Habit of Trust",
+    "The Power of Social Networks",
+    "The Habit of Moral Courage",
+    "The Habit of Faith",
+    "The Habit of Family"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

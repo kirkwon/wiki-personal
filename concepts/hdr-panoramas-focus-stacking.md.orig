@@ -1,0 +1,37 @@
+---
+title: HDR, Panoramas, Focus Stacking, and Compositing
+created: 2026-04-24
+updated: 2026-04-24
+type: concept
+tags:
+- photography
+- editing
+- post-processing
+- advanced
+sources:
+- post-processing.md
+related:
+- post-processing
+---
+# HDR, Panoramas, Focus Stacking, and Compositing
+
+Advanced multi-image techniques for extending what a single capture can achieve.
+
+## HDR (High Dynamic Range)
+
+Combine multiple bracketed exposures (-2, 0, +2 EV) for extended dynamic range. Best for high contrast scenes like landscapes with bright sky and dark foreground. Merge in HDR software, then tone map for a natural look.
+
+## Panoramas
+
+Stitch multiple overlapping photos (30-50% overlap) for wide views. Keep camera level with a tripod. Merge in Lightroom, Photoshop, or PTGui.
+
+## Focus Stacking
+
+Combine multiple photos at different focus distances for extended depth of field. Best for macro photography and landscapes.
+
+## Compositing
+
+Combine elements from multiple photos. Requires Photoshop. Examples: replace sky, add moon, combine people.
+
+Related to [[Post-Processing]].
+---

@@ -1,0 +1,108 @@
+---
+type: concept
+title: New England Seafood
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- seafood
+- american
+- new-england
+- cuisine
+- gastronomy
+sources:
+- new-england-seafood.md
+related:
+- american-cuisine
+- gastronomy
+- clam-chowder
+- lobster-roll
+- fried-clams
+- seafood-shack-culture
+- southern-soul-food
+- cantonese-cuisine
+- italian-cuisine
+- pasta
+---
+--
+# New England Seafood
+
+New England seafood cuisine celebrates the bounty of the Atlantic Ocean — clams, lobsters, cod, and scallops. Hearty, comforting, and rooted in maritime tradition, it is defined by clam chowder, lobster rolls, and fried seafood shacks.
+
+## Philosophy
+
+The guiding principle is **"fresh from the sea"**: what's in season, what's local. New England cooking emphasizes hearty portions, simple preparations that let seafood shine, and comfort through chowders, rolls, and fried dishes.
+
+### Regional Comparison
+
+| Aspect | New England | Pacific Northwest | Gulf Coast |
+|--------|-------------|-------------------|------------|
+| **Clams** | Quahogs (hard shell), razor clams, geoduck | Geoduck, oysters | Oysters |
+| **Lobster** | Maine lobster | Dungeness crab | Gulf shrimp |
+| **Chowder** | Creamy, white | Clear, tomato-based | Gumbo |
+
+## Classic Dishes
+
+### New England Clam Chowder
+
+The creamy classic, not to be confused with Manhattan clam chowder (tomato-based). Key ingredients include quahogs or canned clams, bacon (salt pork), onions, Yukon Gold potatoes, milk or cream, thyme, bay leaf. Preparation involves rendering bacon fat, sautéing onions, adding potatoes, then clams and milk, simmering 20-30 minutes. Critical: don't overcook clams or they become tough. Served with oyster crackers.
+
+### Lobster Roll
+
+Two regional styles exist:
+- **Maine (Butter)**: lobster chunks, melted clarified butter, toasted split-top bun, optional celery.
+- **Connecticut (Mayo)**: lobster chunks, mayonnaise, lemon juice, celery, toasted split-top bun.
+
+Legend holds lobster rolls originated in 1918 at Perry's in Milford, CT.
+
+### Fried Clams
+
+Seafood shack classic. Clam bellies and strips dredged in seasoned cornmeal or flour, fried at 350°F (175°C) for 2-3 minutes until golden, served with tartar sauce.
+
+### Fried Scallops
+
+Sea or bay scallops dredged in seasoned flour or panko, fried 2-3 minutes per side. Critical: don't overcook or they become tough. Served with lemon wedges.
+
+### New England Boiled Dinner
+
+Hearty comfort meal: corned beef brisket boiled 2-3 hours with cabbage wedges, potatoes, carrots, turnips, served with mustard and horseradish.
+
+### Fish and Chips
+
+British-influenced New England version: cod or haddock in beer batter (flour, baking powder, light beer, salt), fried at 375°F (190°C) for 4-6 minutes, served with French fries and tartar sauce.
+
+## Staple Ingredients
+
+### Seafood by Season
+
+| Item | Season | Preparation |
+|------|--------|-------------|
+| **Clams** (quahogs) | Year-round | Chowder, steamed, fried |
+| **Lobster** (Maine) | Summer | Boiled, rolls |
+| **Cod** (Atlantic) | Winter | Fried, baked |
+| **Haddock** | Winter | Fried |
+| **Scallops** (sea) | Year-round | Fried, seared |
+| **Mussels** (blue) | Winter | Steamed |
+
+### Sides and Condiments
+
+Common sides: clam cakes, corn on the cob, coleslaw, French fries, potato salad. Condiments: tartar sauce, lemon wedges, melted butter, oyster crackers, hot sauce.
+
+## Common Mistakes
+
+- Overcooking clams — cook just until open
+- Overcooking scallops — 2-3 minutes max
+- Chowder too thick — adjust milk/cream ratio
+- Undercooking lobster — cook until bright red, meat opaque
+
+## Where to Eat
+
+Seafood shacks are concentrated in Gloucester and Cape Cod (Massachusetts), Portland and Boothbay Harbor (Maine), and Providence (Rhode Island). Internationally, look for "New England" on menus with creamy clam chowder, lobster rolls, and fried seafood.
+
+## Related Concepts
+
+[[american-cuisine]] | [[gastronomy]] | [[clam-chowder]] | [[lobster-roll]] | [[fried-clams]] | [[seafood-shack-culture]] | [[southern-soul-food]] | [[cantonese-cuisine]] | [[pasta]]
+
+## Further Reading
+
+- "The New England Cookbook" by Brooke Dojny
+- "The Maine Lobster Cookbook" by Virginia Elverson

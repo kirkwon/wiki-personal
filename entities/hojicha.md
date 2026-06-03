@@ -1,0 +1,33 @@
+---
+type: entity
+title: Hojicha (ほうじ茶)
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- tea
+- green-tea
+- japanese-cuisine
+sources:
+- Green Tea.md
+related:
+- tea
+- 绿茶-lǚ-chá
+---
+--
+# Hojicha (ほうじ茶)
+
+Hojicha is a Japanese roasted green tea from the Kyoto region. The roasting process gives it a toasted, nutty flavor and lower caffeine content compared to other green teas.
+
+## Key Facts
+- **Origin**: Kyoto region
+- **Processing**: Roasted green tea leaves
+- **Flavor**: Toasted, nutty, low caffeine
+- **Appearance**: Brownish-green leaves
+- **Best Brew**: 195-212°F (90-100°C), 2-3 minutes
+
+## Processing
+Leaves are roasted after standard green tea processing, which reduces bitterness and caffeine while adding toasted, nutty notes.
+
+## See Also
+- [[绿茶-lǚ-chá]] for green tea overview
+- [[tea]] for tea taxonomy

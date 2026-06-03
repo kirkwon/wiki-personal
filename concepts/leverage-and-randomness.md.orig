@@ -1,0 +1,15 @@
+---
+
+type: concept
+title: Leverage and Risk
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- finance
+- risk
+- decision-making
+sources:
+- fooled-by-randomness
+- Leverage and Risk
+----nassim-nicholas-taleb.md"]
+related: [bet-sizing, kelly-criterion, skin-in-the-game, black-swan-events, fooled-by-randomness---nassim-nicholas-taleb]

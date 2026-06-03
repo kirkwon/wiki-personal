@@ -1,0 +1,46 @@
+---
+
+type: entity
+title: REITs
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- personal-finance
+- investing
+- real-estate
+sources:
+- Alternative Investments.md
+related:
+- real-estate-investment
+- alternative-investments
+- vnq
+- schh
+----
+# REITs (Real Estate Investment Trusts)
+
+REITs are companies that own or finance income-producing real estate. They trade like stocks on public exchanges and are required to distribute at least 90% of taxable income as dividends.
+
+## Types
+
+- **Equity REITs**: Own properties (office, retail, residential)
+- **Mortgage REITs**: Finance mortgages (riskier)
+- **Hybrid REITs**: Both ownership and financing
+
+## Key Characteristics
+
+- Liquid (trade daily like stocks)
+- Diversified across many properties
+- Regular dividends
+- Professional management
+- Interest rate sensitivity
+- Leverage on balance sheet
+
+## Major REIT ETFs
+
+- [[VNQ]] (Vanguard Real Estate ETF)
+- [[SCHH]] (Schwab U.S. REIT ETF)
+- [[RWO]] (iShares S&P Developed Intl. Property ETF)
+
+## See Also
+- [[real-estate-investment]]
+- [[alternative-investments]]

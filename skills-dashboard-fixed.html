@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Skills Dashboard</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f7;
+            padding: 20px;
+            color: #1d1d1f;
+        }
+        .container { max-width: 1400px; margin: 0 auto; }
+        h1 { color: #1d1d1f; font-size: 48px; font-weight: 700; margin-bottom: 10px; }
+        .subtitle { color: #6e6e73; font-size: 18px; margin-bottom: 30px; }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+            border-color: #0071e3;
+        }
+
+        .stat-card h3 {
+            margin: 0 0 10px 0;
+            color: #6e6e73;
+            font-size: 14px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .stat-card .value {
+            font-size: 48px;
+            font-weight: 700;
+            color: #0071e3;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .tab {
+            padding: 12px 24px;
+            background: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 15px;
+            font-weight: 500;
+            color: #1d1d1f;
+            transition: all 0.2s ease;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+
+        .tab:hover { background: #f5f5f7; }
+        .tab.active { background: #0071e3; color: white; }
+
+        .tab-content {
+            display: none;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            max-height: 2000px;
+            overflow-y: auto;
+        }
+
+        .tab-content.active { display: block; }
+
+        .tab-content h2 {
+            color: #1d1d1f;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th {
+            background: #f5f5f7;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            color: #1d1d1f;
+            font-size: 14px;
+            border-bottom: 2px solid #e8e8ed;
+            position: sticky;
+            top: 0;
+        }
+
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #e8e8ed;
+        }
+
+        tr:hover { background: #f5f5f7; }
+
+        #networkContainer {
+            width: 100%;
+            height: 650px;
+            background: #fafafa;
+            border-radius: 12px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        #networkContainer svg {
+            display: block;
+        }
+
+        .detail-section {
+            display: none;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-top: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            max-height: 2000px;
+            overflow-y: auto;
+        }
+
+        .detail-section.active { display: block; }
+
+        .detail-section h3 {
+            margin-bottom: 20px;
+            color: #1d1d1f;
+            font-size: 24px;
+        }
+
+        .detail-item {
+            margin-bottom: 15px;
+            padding: 15px;
+            background: #f5f5f7;
+            border-radius: 8px;
+        }
+
+        .detail-item strong {
+            display: block;
+            margin-bottom: 5px;
+            color: #6e6e73;
+            font-size: 12px;
+            text-transform: uppercase;
+        }
+
+        .skill-item {
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .skill-item:hover {
+            background: #e8f4fd !important;
+        }
+
+        .tag-item {
+            display: inline-block;
+            padding: 8px 16px;
+            margin: 5px;
+            background: #0071e3;
+            color: white;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+
+        .tag-item:hover {
+            background: #005bb5;
+            transform: scale(1.05);
+        }
+
+        .tag-list-item {
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .tag-list-item:hover {
+            background: #e8f4fd !important;
+        }
+
+        .back-button {
+            padding: 10px 20px;
+            background: #0071e3;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .back-button:hover {
+            background: #005bb5;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e8e8ed;
+            border-radius: 8px;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: #0071e3;
+        }
+
+        .description-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .ai-menu {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            padding: 8px 0;
+            z-index: 1000;
+            min-width: 200px;
+            margin-top: 8px;
+        }
+
+        .ai-menu.show {
+            display: block;
+        }
+
+        .ai-menu-item {
+            padding: 12px 20px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            transition: background 0.2s;
+            color: #1d1d1f;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .ai-menu-item:hover {
+            background: #f5f5f7;
+        }
+
+        .ai-menu-item svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        .info-icon {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            margin-left: 8px;
+            vertical-align: middle;
+            opacity: 0.5;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+
+        .info-icon:hover {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Book Skills Analysis</h1>
+        <p class="subtitle">Interactive visualization of 1370 skills across 9 categories (from 140 books)</p>
+
+        <div class="stats">
+            <div class="stat-card" onclick="showTab('allSkills')">
+                <h3>Total Skills</h3>
+                <div class="value">1370</div>
+            </div>
+            <div class="stat-card" onclick="showTab('allTags')">
+                <h3>Unique Tags</h3>
+                <div class="value">9</div>
+            </div>
+            <div class="stat-card" onclick="showTab('overlaps')">
+                <h3>Overlapping Skills</h3>
+                <div class="value">33</div>
+            </div>
+            <div class="stat-card" onclick="showTab('multitag')">
+                <h3>Multi-Tag Skills</h3>
+                <div class="value">561</div>
+            </div>
+        </div>
+
+        <div class="tabs">
+            <button class="tab" onclick="showTab('allSkills')">All Skills</button>
+            <button class="tab" onclick="showTab('allTags')">All Tags</button>
+            <button class="tab" onclick="showTab('overlaps')">Overlapping Skills</button>
+            <button class="tab" onclick="showTab('multitag')">Multi-Tag Skills</button>
+            <button class="tab" onclick="showTab('network')">Network View</button>
+            <button class="tab" onclick="showTab('conflicts')">Conflict Guide</button>
+        </div>
+
+        <div id="allSkills" class="tab-content">
+            <h2>All Skills (1370)</h2>
+            <input type="text" class="search-box" id="allSkillsSearch" placeholder="Search skills..." onkeyup="filterAllSkills()">
+            <table>
+                <thead>
+                    <tr>
+                        <th width="40%">Skill Name</th>
+                        <th width="30%">Tags</th>
+                        <th width="30%">Source Books</th>
+                    </tr>
+                </thead>
+                <tbody id="allSkillsTable">
+                </tbody>
+            </table>
+        </div>
+
+        <div id="allTags" class="tab-content">
+            <h2>All Tags (9)</h2>
+            <input type="text" class="search-box" id="allTagsSearch" placeholder="Search tags..." onkeyup="filterAllTags()">
+            <table>
+                <thead>
+                    <tr>
+                        <th width="30%">Tag Name</th>
+                        <th width="20%">Skill Count</th>
+                        <th width="50%">Sample Skills</th>
+                    </tr>
+                </thead>
+                <tbody id="allTagsTable">
+                </tbody>
+            </table>
+        </div>
+
+        <div id="overlaps" class="tab-content">
+            <h2>Overlapping Skills (33)</h2>
+            <p>Skills that appear in multiple books</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="35%">Skill Name</th>
+                        <th width="65%">Source Books</th>
+                    </tr>
+                </thead>
+                <tbody id="overlapsTable">
+                </tbody>
+            </table>
+        </div>
+
+        <div id="multitag" class="tab-content">
+            <h2>Multi-Tag Skills (561)</h2>
+            <p>Skills that span multiple categories</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="35%">Skill Name</th>
+                        <th width="65%">Tags</th>
+                    </tr>
+                </thead>
+                <tbody id="multitagTable">
+                </tbody>
+            </table>
+        </div>
+
+        <div id="network" class="tab-content">
+            <h2>Network View</h2>
+            <p>Force-directed graph of top 30 tags by skill count</p>
+            <div id="networkContainer"></div>
+        </div>
+
+        <div id="conflicts" class="tab-content">
+            <h2>Conflict Resolution Guide</h2>
+            <table>
+                <tr>
+                    <th>Conflict</th>
+                    <th>When to Use First</th>
+                    <th>When to Use Second</th>
+                    <th>Resolution Strategy</th>
+                </tr>
+                <tr>
+                    <td><strong>Sunk Cost Recognition</strong> vs <strong>Grit</strong></td>
+                    <td>When project has clear path & good match quality</td>
+                    <td>When evidence shows poor results or bad fit</td>
+                    <td>Use <strong>Match Quality</strong> as meta-decision framework</td>
+                </tr>
+                <tr>
+                    <td><strong>Strategic Quitting</strong> vs <strong>Grit</strong></td>
+                    <td>When you're in a kind domain with clear path to mastery</td>
+                    <td>When in wicked domain or exploring fit</td>
+                    <td>Assess if domain is kind/wicked first</td>
+                </tr>
+                <tr>
+                    <td><strong>Specialization</strong> vs <strong>Generalization</strong></td>
+                    <td>Kind problems: stable rules, clear feedback (golf, chess)</td>
+                    <td>Wicked problems: changing rules, ambiguity (business, strategy)</td>
+                    <td>Use <strong>Kind/Wicked Assessment</strong> first</td>
+                </tr>
+                <tr>
+                    <td><strong>Focus</strong> vs <strong>Exploration</strong></td>
+                    <td>When deep work needed, clear priority, or executing known strategy</td>
+                    <td>When learning, career early stage, or solving novel problems</td>
+                    <td>Time-box: explore then focus; use <strong>Match Quality</strong> to decide</td>
+                </tr>
+                <tr>
+                    <td><strong>Speed</strong> vs <strong>Deliberate Practice</strong></td>
+                    <td>When learning routine skills or kind-domain problems</td>
+                    <td>When developing expertise in complex domains</td>
+                    <td>Fast for breadth, slow for depth</td>
+                </tr>
+                <tr>
+                    <td><strong>Intuition</strong> vs <strong>Probabilistic Thinking</strong></td>
+                    <td>In your circle of competence with extensive experience</td>
+                    <td>Outside circle of competence or high-stakes decisions</td>
+                    <td>Know your <strong>Circle of Competence</strong> boundaries</td>
+                </tr>
+                <tr>
+                    <td><strong>First Principles</strong> vs <strong>Analogy</strong></td>
+                    <td>Novel problems, innovation, or when analogies aren't working</td>
+                    <td>Routine problems in stable domains with proven solutions</td>
+                    <td>Start with first principles, use analogies for communication</td>
+                </tr>
+            </table>
+
+            <h3 style="margin-top: 30px;">Decision Framework</h3>
+            <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin: 20px 0;">
+                <ol>
+                    <li><strong>Assess context</strong>: What type of problem? (Kind/Wicked)</li>
+                    <li><strong>Check domain</strong>: Is this in my Circle of Competence?</li>
+                    <li><strong>Evaluate match quality</strong>: Am I in the right area?</li>
+                    <li><strong>Consider timing</strong>: Early exploration vs. late execution?</li>
+                    <li><strong>Apply appropriate model</strong>: Use conflict resolution above</li>
+                </ol>
+            </div>
+        </div>
+
+        <div id="skillDetail" class="detail-section">
+            <button class="back-button" onclick="hideSkillDetail()">← Back to list</button>
+            <h3 id="detailSkillName">Skill Name</h3>
+            <div class="detail-item">
+                <strong>Description</strong>
+                <div class="description-container" id="descriptionContainer">
+                    <div id="detailDescription" style="font-size: 16px; line-height: 1.6; color: #1d1d1f;"></div>
+                    <svg class="info-icon" id="infoIcon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"/>
+                    </svg>
+                    <div class="ai-menu" id="aiMenu">
+                        <a class="ai-menu-item" id="chatgptLink" target="_blank">
+                            <svg viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
+                            </svg>
+                            Open in ChatGPT
+                        </a>
+                        <a class="ai-menu-item" id="claudeLink" target="_blank">
+                            <svg viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
+                            </svg>
+                            Open in Claude
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="detail-item">
+                <strong>Tags</strong>
+                <div id="detailTags"></div>
+            </div>
+            <div class="detail-item">
+                <strong>Source Books</strong>
+                <div id="detailBooks"></div>
+            </div>
+            <div class="detail-item">
+                <strong>Related Skills (share tags)</strong>
+                <div id="detailRelated"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Embedded data from 140 books (1370 skills, 9 tags)
+        const skillsData = {"skills_by_tag": {"behavior-change": [["The Four Laws of Behavior Change", "Atomic Habits"], ["Habit Stacking", "Atomic Habits"], ["Identity-Based Habit Formation", "Atomic Habits"], ["The 1% Improvement Protocol", "Atomic Habits"], ["Never Miss Twice Rule", "Atomic Habits"]], "focus": [["Deep Work Scheduling", "Deep Work"], ["Deep Work Ritual Design", "Deep Work"], ["Focus Training", "Deep Work"], ["Distraction Elimination", "Flow"], ["Distraction Audit", "Indistractable"], ["Time Boxing", "Indistractable"], ["Focus Block Creation", "Make Time"], ["Notification Management", "Make Time"], ["Distraction Batching", "Make Time"], ["The Focusing Question", "The One Thing"], ["Priority Elimination", "The One Thing"]], "productivity": [["Environment Design", "Atomic Habits"], ["Knowledge Categorization", "Building a Second Brain"], ["Shallow Work Elimination", "Deep Work"], ["Task Prioritization Matrix", "Eat That Frog!"], ["High Contribution Activity Identification", "Essentialism"], ["High-Impact Task Identification", "The 4-Hour Workweek"], ["Batching", "The 4-Hour Workweek"], ["Sorting and Prioritization", "Algorithms to Live By"], ["Caching Strategy", "Algorithms to Live By"], ["Scheduling Optimization", "Algorithms to Live By"], ["Load Balancing", "Algorithms to Live By"], ["Playfulness Integration", "Feel-Good Productivity"], ["The Power Shift", "Feel-Good Productivity"], ["Clarity Generation", "Feel-Good Productivity"], ["Friction Reduction", "Getting Started"], ["NICE Goal Setting", "Feel-Good Productivity"], ["Map vs. Territory Awareness", "The Great Mental Models: Detailed"], ["Pareto Principle", "80/20 Rule"]], "decision-making": [["The \"Clear Yes\" Decision Rule", "Essentialism"], ["The Trivial Many vs Vital Few Filter", "Essentialism"], ["Less but Better Execution", "Essentialism"], ["The Focusing Question", "The One Thing"], ["Priority Elimination", "The One Thing"], ["High-Impact Task Identification", "The 4-Hour Workweek"], ["Decision-Outcome Separation", "Thinking in Bets"], ["Belief Betting", "Thinking in Bets"], ["Resulting Prevention", "Thinking in Bets"], ["Probabilistic Thinking", "Thinking in Bets"], ["Decision Group Creation", "Thinking in Bets"], ["Information Gap Assessment", "Thinking in Bets"], ["Backcast Evaluation", "Thinking in Bets"], ["Red Team Thinking", "Thinking in Bets"], ["Decision Journaling", "Thinking in Bets"], ["Signal-Noise Discrimination", "The Signal and the Noise"], ["Fox Thinking", "The Signal and the Noise"], ["Correlation-Causation Separation", "The Signal and the Noise"], ["Decision Wheel Mapping", "How to Decide"], ["Reversibility Assessment", "How to Decide"], ["Impact Evaluation", "How to Decide"], ["Decision Matrix Construction", "How to Decide"], ["Goal Factoring", "How to Decide"], ["Value Proposition Quantification", "How to Decide"], ["Pre-Commitment Setup", "How to Decide"], ["Scenario Simulation", "How to Decide"], ["Regret Minimization Analysis", "How to Decide"], ["Decision Review Protocol", "How to Decide"], ["Kill Criteria Setting", "Quit"], ["The Exit Test", "Quit"], ["Opportunity Cost Calculation", "Quit"], ["Emotional Detachment from Past Decisions", "Quit"], ["First Principles Thinking", "The Great Mental Models: Detailed"], ["Falsification Thinking", "The Great Mental Models: Detailed"], ["Inversion Thinking", "The Great Mental Models: Detailed"], ["Occam's Razor Application", "The Great Mental Models: Detailed"], ["Probabilistic Thinking", "The Great Mental Models: Detailed"], ["Second-Order Thinking", "The Great Mental Models: Detailed"], ["Circle of Competence Recognition", "The Great Mental Models: Detailed"], ["Coordination Problem Recognition", "The Great Mental Models: Detailed"], ["Sunk Cost Awareness", "Super Thinking"], ["Opportunity Cost Analysis", "Super Thinking"], ["Confirmation Bias Detection", "Super Thinking"], ["Availability Bias Check", "Super Thinking"], ["Anchoring Awareness", "Super Thinking"], ["Framing Effect Detection", "Super Thinking"], ["Base Rate Awareness", "Super Thinking"], ["Conjunction Fallacy Avoidance", "Super Thinking"], ["Bayesian Belief Updating", "Super Thinking"], ["Bottleneck Identification", "Super Thinking"], ["Margin of Safety Building", "Super Thinking"], ["Kind vs. Wicked Problem Assessment", "Range"], ["Specialization Timing Evaluation", "Range"], ["Match Quality Optimization", "Range"], ["Strategic Quitting", "Range"], ["Possible Selves Exploration", "Range"]], "energy": [["Energy Boosting", "Make Time"], ["Asset Protection Routine", "Essentialism"], ["Energy Auditing", "Feel-Good Productivity"], ["Relational Energizing", "Feel-Good Productivity"], ["Restorative Recharging", "Feel-Good Productivity"]], "daily-rituals": [["Daily Frog Identification", "Eat That Frog!"], ["Eat the Frog First Protocol", "Eat That Frog!"], ["Daily Highlight Selection", "Make Time"], ["Daily Reflection", "Make Time"], ["Phone-Free Morning", "Make Time"], ["Weekly Review", "Getting Things Done"], ["Shutdown Ritual", "Deep Work"]], "technology": [["Digital Declutter", "Digital Minimalism"], ["Intentional Technology Adoption", "Digital Minimalism"], ["Tech Hygiene Rules", "Indistractable"], ["Notification Management", "Make Time"], ["Automation Setup", "The 4-Hour Workweek"], ["Remote Work Design", "The 4-Hour Workweek"]], "organization": [["External Memory System", "Building a Second Brain"], ["Knowledge Categorization", "Building a Second Brain"], ["Tag-Based Retrieval", "Building a Second Brain"], ["Organization System", "Getting Things Done"], ["Project Planning", "Getting Things Done"], ["Information Filter Implementation", "Information Anxiety"], ["Hierarchical Information Processing", "Information Anxiety"], ["Information Architecture Skills", "Information Anxiety"]], "flow": [["Flow State Induction", "Flow"], ["Challenge-Skill Calibration", "Flow"], ["Clear Goal Breaking", "Flow"], ["Immediate Feedback Integration", "Flow"], ["Distraction Elimination", "Flow"]]}, "all_skills": ["The Four Laws of Behavior Change", "Habit Stacking", "Identity-Based Habit Formation", "The 1% Improvement Protocol", "Never Miss Twice Rule"], "all_tags": ["behavior-change", "focus", "productivity", "decision-making", "energy", "daily-rituals", "technology", "organization", "flow"], "overlaps": {"Map vs. Territory Awareness": ["The Great Mental Models: Detailed", "Super Thinking"], "Probabilistic Thinking": ["The Great Mental Models: Detailed", "Thinking in Bets", "Super Thinking"], "First Principles Thinking": ["The Great Mental Models: Detailed", "Super Thinking"], "Falsification Thinking": ["The Great Mental Models: Detailed", "Super Thinking"], "Inversion Thinking": ["The Great Mental Models: Detailed", "Super Thinking"], "Occam's Razor Application": ["The Great Mental Models: Detailed", "Super Thinking"], "Second-Order Thinking": ["The Great Mental Models: Detailed", "Super Thinking"], "Circle of Competence Recognition": ["The Great Mental Models: Detailed", "Super Thinking"], "Bayesian Belief Updating": ["Super Thinking", "The Signal and the Noise"], "Bottleneck Identification": ["Super Thinking", "The Goal"], "Survivorship Bias Recognition": ["Super Thinking", "Fooled by Randomness"], "Hanlon's Razor Application": ["The Great Mental Models: Detailed", "Super Thinking"], "Social Proof Evaluation": ["Super Thinking", "Influence"]}, "multi_tag_skills": {"The Four Laws of Behavior Change": ["behavior-change", "habits"], "Habit Stacking": ["behavior-change", "habits"], "Identity-Based Habit Formation": ["behavior-change", "identity", "mindset", "habits"], "The 1% Improvement Protocol": ["behavior-change", "compounding", "habits"], "Never Miss Twice Rule": ["behavior-change", "habits"], "Habit Loop Analysis": ["behavior-change", "psychology", "habits"], "Habit Change Protocol": ["behavior-change", "self-improvement", "habits"], "Cue Identification": ["behavior-change", "psychology", "habits"], "Reward Detection": ["behavior-change", "psychology", "habits"], "Keystone Habit Selection": ["behavior-change", "habits"], "Craving Creation": ["behavior-change", "psychology", "habits"], "Habit Tracking": ["behavior-change", "accountability", "habits"], "Environment Cue Design": ["behavior-change", "environment", "habits"], "The Power Shift": ["mindset", "habits", "productivity"], "Friction Reduction": ["execution", "habits", "productivity"], "Deep Work Scheduling": ["time-management", "deep-work", "focus"], "Deep Work Ritual Design": ["deep-work", "focus"], "Focus Training": ["deep-work", "focus"], "Distraction Elimination": ["distraction", "flow", "focus"], "Distraction Audit": ["attention", "distraction", "focus"], "Time Boxing": ["time-management", "focus"], "Focus Block Creation": ["deep-work", "focus"], "Notification Management": ["attention", "distraction", "technology", "focus"], "Distraction Batching": ["distraction", "deep-work", "focus"], "The Focusing Question": ["prioritization", "single-tasking", "decision-making", "focus"], "Priority Elimination": ["prioritization", "single-tasking", "decision-making", "focus"], "Environment Design": ["environment", "productivity"], "Knowledge Categorization": ["organization", "second-brain", "knowledge-management", "information-management", "productivity"], "Shallow Work Elimination": ["deep-work", "productivity"], "Task Prioritization Matrix": ["prioritization", "productivity"], "High Contribution Activity Identification": ["prioritization", "productivity"], "High-Impact Task Identification": ["entrepreneurship", "productivity", "decision-making"], "Batching": ["time-management", "productivity"], "Sorting and Prioritization": ["algorithms", "computer-science", "productivity"], "Caching Strategy": ["algorithms", "computer-science", "productivity"], "Scheduling Optimization": ["algorithms", "computer-science", "productivity"], "Load Balancing": ["algorithms", "computer-science", "productivity"], "Playfulness Integration": ["psychology", "productivity"], "Clarity Generation": ["execution", "productivity", "goals"], "NICE Goal Setting": ["execution", "productivity", "goals"], "Map vs. Territory Awareness": ["mental-models", "systems-thinking", "thinking", "productivity"], "Pareto Principle": ["mental-models", "productivity"], "Axios Smart Brevity Communication": ["axios-format", "communication", "productivity"], "Daily Frog Identification": ["time-management", "morning-routine", "procrastination", "daily-rituals"], "Eat the Frog First Protocol": ["procrastination", "time-management", "morning-routine", "daily-rituals", "execution"], "Daily Highlight Selection": ["time-management", "daily-rituals", "intentionality"], "Daily Reflection": ["time-management", "daily-rituals"], "Time Blocking for the One Thing": ["time-management", "execution", "single-tasking"], "The \"Clear Yes\" Decision Rule": ["intentionality", "prioritization", "decision-making"], "The Trivial Many vs Vital Few Filter": ["prioritization", "decision-making"], "Tech Hygiene Rules": ["attention", "distraction", "technology"], "Phone-Free Morning": ["morning-routine", "attention", "daily-rituals"], "Low-Information Diet": ["attention", "lifestyle-design", "leisure"], "Information Diet Design": ["attention", "information-management"], "Signal-to-Noise Assessment": ["attention", "filtering"], "Growth Mindset Activation": ["behavior-change", "psychology", "mindset", "self-improvement", "learning"], "The Power of \"Yet\"": ["behavior-change", "psychology", "mindset", "self-improvement", "learning"], "Feedback Seeking": ["mindset", "learning"], "Fixed Mindset Trigger Recognition": ["mindset", "self-awareness", "psychology"], "Effort Reframing": ["mindset", "self-improvement"], "Success Learning from Others": ["mindset", "learning"], "Suffering Selection": ["values", "mindset"], "Responsibility Taking": ["mindset", "psychology"], "The Do Something Protocol": ["mindset", "execution", "procrastination"], "Value Alignment Check": ["values", "mindset", "psychology"], "Death Perspective Shift": ["mindset", "philosophy", "death-perspective", "psychology"], "Negative Experience Acceptance": ["mindset", "psychology"], "Definite Goal Setting": ["mindset", "goals"], "Entitlement Detox": ["mindset", "psychology"], "Uncertainty Embracement": ["mindset", "uncertainty", "psychology"], "Money Mindset Awareness": ["finance", "behavioral-finance", "psychology", "mindset"], "Reasonable vs. Optimistic Planning": ["mindset", "finance", "behavioral-finance"], "Simplicity in Finance": ["mindset", "money", "finance", "behavioral-finance"], "Internal Trigger Awareness": ["behavior-change", "psychology", "self-awareness"], "Pacing Internal Triggers": ["behavior-change", "psychology"], "True Cost Assessment": ["psychology", "money", "finance", "behavioral-finance"], "Risk Tolerance Calibration": ["finance", "risk", "behavioral-finance", "psychology"], "Financial Behavior Tracking": ["psychology", "money", "finance", "behavioral-finance"], "External Memory System": ["organization", "second-brain", "knowledge-management", "information-management", "memory", "workflow"], "Tag-Based Retrieval": ["organization", "second-brain", "knowledge-management", "information-management", "memory", "workflow"], "Information Capture Protocol": ["second-brain", "knowledge-management", "workflow", "information-management"], "Prioritization Framework": ["second-brain", "workflow", "information-management"], "Capture Everything": ["gtd", "task-management", "workflow"], "Clarification / Processing": ["gtd", "task-management", "workflow"], "Next Action Identification": ["gtd", "task-management", "workflow"], "Organization System": ["organization", "gtd", "task-management", "workflow"], "Context Selection": ["gtd", "task-management", "workflow"], "Weekly Review": ["gtd", "daily-rituals", "task-management", "workflow"], "Two-Minute Rule": ["gtd", "task-management", "workflow"], "Project Planning": ["organization", "gtd", "workflow"], "Time Preference Optimization": ["saving", "finance", "behavioral-finance"], "Less but Better Execution": ["intentionality", "execution", "decision-making"], "Decision-Outcome Separation": ["poker", "uncertainty", "decision-making"], "Belief Betting": ["risk", "probabilistic-thinking", "uncertainty", "decision-making"], "Resulting Prevention": ["bias", "uncertainty", "decision-making"], "Probabilistic Thinking": ["uncertainty", "thinking", "decision-making", "risk-management", "probabilistic-thinking"], "Information Gap Assessment": ["risk", "uncertainty", "decision-making"], "Backcast Evaluation": ["bias", "decision-making", "learning"], "Red Team Thinking": ["risk", "decision-making"], "Decision Journaling": ["decision-making", "learning"], "Decision Wheel Mapping": ["framework", "decision-making"], "Reversibility Assessment": ["strategy", "decision-making"], "Decision Matrix Construction": ["framework", "decision-making"], "Value Proposition Quantification": ["choices", "decision-making"], "Pre-Commitment Setup": ["choices", "decision-making"], "Scenario Simulation": ["strategy", "decision-making"], "Regret Minimization Analysis": ["regret", "decision-making"], "Decision Review Protocol": ["decision-making", "learning"], "Kill Criteria Setting": ["quitting", "exit-strategy", "decision-making"], "The Exit Test": ["quitting", "exit-strategy", "decision-making"], "Opportunity Cost Calculation": ["quitting", "opportunity-cost", "decision-making"], "Emotional Detachment from Past Decisions": ["persistence", "quitting", "decision-making"], "First Principles Thinking": ["first-principles", "thinking", "mental-models", "decision-making"], "Falsification Thinking": ["logic", "thinking", "decision-making"], "Inversion Thinking": ["thinking", "mental-models", "decision-making"], "Occam's Razor Application": ["logic", "thinking", "mental-models", "decision-making"], "Second-Order Thinking": ["second-order", "mental-models", "thinking", "strategy", "decision-making", "systems-thinking"], "Circle of Competence Recognition": ["thinking", "mental-models", "decision-making"], "Coordination Problem Recognition": ["systems-thinking", "decision-making"], "Opportunity Cost Analysis": ["economics", "decision-making"], "Confirmation Bias Detection": ["cognitive-bias", "decision-making"], "Availability Bias Check": ["cognitive-bias", "decision-making"], "Anchoring Awareness": ["cognitive-bias", "negotiation", "behavioral-economics", "decision-making"], "Framing Effect Detection": ["cognitive-bias", "behavioral-economics", "decision-making"], "Base Rate Awareness": ["cognitive-bias", "decision-making"], "Conjunction Fallacy Avoidance": ["cognitive-bias", "decision-making"], "Bayesian Belief Updating": ["risk-management", "probabilistic-thinking", "uncertainty", "decision-making"], "Bottleneck Identification": ["throughput", "theory-of-constraints", "constraints", "decision-making", "bottleneck"], "Margin of Safety Building": ["risk-management", "decision-making"], "Kind vs. Wicked Problem Assessment": ["problem-solving", "future-proofing", "career-development", "decision-making"], "Specialization Timing Evaluation": ["future-proofing", "career-development", "decision-making"], "Match Quality Optimization": ["career-development", "decision-making"], "Strategic Quitting": ["resilience", "career-development", "decision-making"], "Possible Selves Exploration": ["career-development", "decision-making"], "Asset Protection Routine": ["energy", "boundaries"], "Energy Auditing": ["energy", "burnout"], "Restorative Recharging": ["energy", "burnout"], "Digital Declutter": ["distraction", "technology"], "Intentional Technology Adoption": ["technology"], "Automation Setup": ["automation", "entrepreneurship", "technology"], "Remote Work Design": ["lifestyle-design", "technology"], "Information Filter Implementation": ["organization", "information-management", "filtering"], "Hierarchical Information Processing": ["organization", "information-management", "design"], "Information Architecture Skills": ["organization", "information-management", "design"], "Flow State Induction": ["optimal-experience", "performance", "flow"], "Challenge-Skill Calibration": ["optimal-experience", "performance", "flow"], "Clear Goal Breaking": ["optimal-experience", "performance", "goals", "flow"], "Immediate Feedback Integration": ["optimal-experience", "performance", "flow"], "Flow State Recognition": ["optimal-experience", "performance", "flow"], "Alignment Checking": ["goals", "burnout"], "Mini-Retirement Planning": ["lifestyle-design", "leisure"], "15-Minute Frog Rule": ["procrastination", "execution"], "The Domino Effect": ["compounding", "execution"], "The Quitting Audit": ["quitting", "learning"], "Quitting Practice": ["quitting", "learning"], "Affordance Design": ["ux", "usability", "product-design", "human-centered", "design"], "Visibility Assessment": ["ux", "usability", "product-design", "human-centered", "design"], "Mapping Creation": ["ux", "usability", "product-design", "human-centered", "design"], "Feedback Loop Design": ["ux", "usability", "product-design", "human-centered", "design"], "Mental Model Alignment": ["ux", "usability", "product-design", "human-centered", "design"], "Error Prevention Design": ["ux", "usability", "product-design", "human-centered", "design"], "Simplicity Enforcement": ["ux", "usability", "product-design", "human-centered", "design"], "Income Stream Diversification": ["lifestyle-design", "entrepreneurship"], "Outsourcing Protocol": ["outsourcing", "entrepreneurship"], "Survivorship Bias Recognition": ["randomness", "uncertainty", "cognitive-bias", "bias", "survivorship"], "Narrative Fallacy Detection": ["randomness", "uncertainty", "narrative", "bias"], "Black Swan Awareness": ["volatility", "uncertainty", "black-swan"], "The Turkey Problem Check": ["fragility", "uncertainty", "black-swan"], "Optionality Seeking": ["resilience", "uncertainty", "black-swan"], "Probabilistic Forecasting": ["probabilistic-thinking", "uncertainty"], "Monte Carlo Simulation Thinking": ["probabilistic-thinking", "randomness"], "Overconfidence Check": ["risk", "randomness", "bias"], "Humble Decision Making": ["risk", "randomness"], "Tail Risk Evaluation": ["risk", "resilience", "black-swan"], "Expert Skepticism": ["risk", "prediction", "black-swan", "skepticism"], "Humble Prediction": ["risk", "prediction", "black-swan"], "Asymmetric Risk Identification": ["risk", "asymmetry"], "Fragility-Antifragility Assessment": ["risk", "fragility", "resilience", "antifragility", "volatility"], "Barbell Strategy Application": ["risk", "antifragility"], "Asymmetric Risk Check": ["risk", "asymmetry"], "Emergency Fund Prioritization": ["money", "finance", "saving"], "Compound Interest Thinking": ["wealth", "investing", "money", "finance"], "Wealth vs. Income Clarification": ["wealth", "investing", "money", "finance"], "Retrospective Predictability Skepticism": ["prediction", "black-swan", "narrative", "bias"], "Procrustean Distortion Detection": ["wisdom", "bias"], "Expert Confidence Discounting": ["bias", "skepticism"], "Complexity Humility": ["complexity", "bias", "skepticism", "resilience", "antifragility"], "Bureaucracy Skin Assessment": ["fragility", "bias", "bureaucracy"], "Sunk Cost Recognition": ["sunk-cost", "quitting"], "Graceful Exit Planning": ["exit-strategy", "quitting"], "Quitting Portfolio Management": ["quitting", "portfolio-management"], "Noise vs Signal Discrimination": ["filtering", "randomness"], "Game Theory Application": ["game-theory", "algorithms", "computer-science", "strategy"], "Explore-Exploit Tradeoff": ["algorithms", "computer-science", "strategy", "optimization"], "System-Fix vs. Person-Blame": ["systems-thinking", "strategy"], "Hanlon's Razor Application": ["thinking", "strategy", "mental-models"], "Barbell Strategy": ["resilience", "black-swan"], "Stressor Seeking": ["resilience", "volatility", "antifragility"], "Small Mistake Embracement": ["resilience", "antifragility"], "Antifragile Life Design": ["resilience", "antifragility"], "Extremistan vs Mediocristan Mapping": ["extremistan", "black-swan"], "Fragility Assessment": ["fragility", "black-swan"], "Optionality Cultivation": ["antifragility", "optionality"], "Lindy Effect Testing": ["lindy-effect", "antifragility"], "Via Negativa Application": ["via-negativa", "antifragility"], "Long-Term Alignment": ["accountability", "long-term"], "Information Anxiety Recognition": ["anxiety", "overload"], "Optimal Stopping Problem": ["algorithms", "computer-science", "optimization"], "Overfitting Avoidance": ["algorithms", "computer-science", "optimization"], "Cache Invalidation": ["algorithms", "computer-science", "optimization"], "Greedy Algorithm Application": ["algorithms", "computer-science", "optimization"], "Reciprocity Recognition": ["sales", "influence", "reciprocity", "persuasion"], "Commitment Consistency Awareness": ["sales", "commitment", "persuasion"], "Social Proof Evaluation": ["sales", "cognitive-bias", "persuasion", "social-proof", "behavioral-economics"], "Authority Assessment": ["sales", "authority", "persuasion"], "Liking Leverage": ["sales", "liking", "persuasion"], "Scarcity Response Management": ["sales", "scarcity", "persuasion"], "Resistance to Manipulation": ["influence", "persuasion", "manipulation"], "Default Option Setting": ["default-options", "choice-architecture"], "Opt-Out vs Opt-In Design": ["default-options", "opt-out-vs-opt-in", "choice-architecture"], "Salience Management": ["salience", "choice-architecture"], "Loss Aversion Leveraging": ["loss-aversion", "influence", "incentives"], "Theory of Constraints Application": ["theory-of-constraints", "constraints"], "Bottleneck Identification": ["constraints", "theory-of-constraints", "bottleneck"], "Subordination Principle": ["constraints", "theory-of-constraints", "subordination"], "Local vs Global Optimum Recognition": ["constraints", "theory-of-constraints", "local-vs-global-optimum"], "Throughput Maximization": ["throughput", "theory-of-constraints", "bottleneck", "exploitation"], "Exploitation Strategy": ["throughput", "bottleneck", "exploitation"], "Subordination Principle": ["constraints", "theory-of-constraints", "subordination"], "Constraint Elevation": ["constraints", "theory-of-constraints", "constraint-elevation"], "Local vs Global Optimum Recognition": ["constraints", "theory-of-constraints", "local-vs-global-optimum"], "Efficiency vs Profit Distinction": ["constraints", "theory-of-constraints", "efficiency-vs-profit"], "Continuous Improvement Cycle": ["constraints", "theory-of-constraints", "continuous-improvement"], "Axios Format": ["axios-format", "communication"], "Communication": ["axios-format", "communication"], "First-Principles": ["first-principles", "communication"], "Logic": ["first-principles", "communication"], "Mental Models": ["first-principles", "communication"], "Second-Order": ["second-order", "communication"], "Systems Thinking": ["systems-thinking", "communication"]}, "descriptions": {"The Four Laws of Behavior Change": "Systematically design habits that stick", "Habit Stacking": "Attach new habits to existing routines", "Identity-Based Habit Formation": "Focus on who you want to become, not what you want to achieve", "The 1% Improvement Protocol": "Achieve massive results through tiny daily improvements", "Never Miss Twice Rule": "Prevent streaks from breaking permanently", "Habit Loop Analysis": "Deconstruct habits into their components", "Habit Change Protocol": "Keep cue and reward, change routine", "Cue Identification": "Understand what triggers your behaviors", "Reward Detection": "Understand what the habit actually provides", "Keystone Habit Selection": "Find habits that trigger other positive changes", "Craving Creation": "Build desire for the new behavior", "Habit Tracking": "Increase awareness and accountability", "Environment Cue Design": "Set up your environment to trigger desired behaviors", "The Power Shift": "To cultivate self-efficacy and take ownership of one's actions.", "Friction Reduction (Getting Started)": "To eliminate barriers and make the default action the desired action.", "Playfulness Integration": "To reduce resistance and increase engagement by making the process enjoyable.", "Energy Boosting": "Maintain high energy for important work", "Asset Protection Routine": "Preserve decision-making capacity and energy", "Energy Auditing": "To identify energy drains and optimize daily activities for maximum engagement.", "Relational Energizing": "To leverage social connection for a boost in motivation and positive emotion.", "Clarity Generation": "To define actionable steps and eliminate ambiguity.", "NICE Goal Setting": "To create motivating, process-oriented objectives that are under personal control.", "Restorative Recharging": "To engage in high-quality leisure that actively rebuilds mental and physical resources.", "Alignment Checking": "To ensure daily actions are connected to long-term values and purpose.", "Daily Frog Identification": "Identify the single most important, scary task", "Eat the Frog First Protocol": "Tackle hardest task first to crush procrastination", "Task Prioritization Matrix": "Rank tasks by impact and difficulty", "15-Minute Frog Rule": "Overcome initial procrastination barrier", "Procrastination Barrier Analysis": "Understand what's blocking you and overcome it", "First Principles Thinking": "Break problems down to fundamental truths and build up from there, eliminating assumptions", "Map vs. Territory Awareness": "Remember that all models are simplifications—not reality itself—and check for discrepancies", "Circle of Competence Recognition": "Know what you know—and what you don't—to avoid costly mistakes from overconfidence", "Falsification Thinking": "Actively try to prove yourself wrong rather than seeking confirming evidence", "Inversion Thinking": "Think backward to identify and avoid failure points", "Occam's Razor Application": "Choose the simplest explanation that accounts for all evidence", "Hanlon's Razor Application": "Don't attribute to malice what can be explained by stupidity, ignorance, or error", "Second-Order Thinking": "Think beyond immediate effects to downstream and ripple effects", "Pareto Principle (80/20 Rule)": "Focus on the vital few that produce most results", "Coordination Problem Recognition": "Identify system-level issues where individual rationality leads to collective harm", "System-Fix vs. Person-Blame": "Look for system and process fixes rather than villain narratives", "Axios Smart Brevity Communication": "Structure information for maximum clarity and minimum cognitive load", "Flow State Induction": "Enter the state of optimal experience", "Challenge-Skill Calibration": "Find the flow channel (challenge = skill)", "Clear Goal Breaking": "Create the clarity required for flow", "Immediate Feedback Integration": "Know in real time if you're succeeding", "Distraction Elimination": "Protect the attention required for flow", "Flow State Recognition": "Notice when you're in flow and protect it", "Capture Everything": "Externalize all mental input to clear working memory", "Clarification / Processing": "Turn raw input into organized actions", "Next Action Identification": "Break down vague items into concrete next steps", "Organization System": "Put items in their proper buckets", "Context Selection": "Match task to your current situation", "Weekly Review": "Get current and clear for the week ahead", "Two-Minute Rule": "Eliminate small tasks immediately", "Project Planning (Natural Planning Model)": "Think through projects systematically", "Sunk Cost Awareness": "Recognize that past investments shouldn't dictate future decisions", "Opportunity Cost Analysis": "Account for what you're giving up when choosing an option", "Confirmation Bias Detection": "Recognize and counteract the tendency to seek confirming evidence", "Survivorship Bias Recognition": "Remember that you're not seeing failures, which can lead to false lessons", "Availability Bias Check": "Don't rely on how easily examples come to mind; use actual data", "Anchoring Awareness": "Recognize when the first piece of information is skewing your judgment", "Framing Effect Detection": "Recognize how the same fact, framed differently, changes decisions", "Loss Aversion Awareness": "Recognize that losses feel about twice as painful as equivalent gains feel good", "Endowment Effect Recognition": "Recognize that ownership inflates perceived value", "Status Quo Bias Detection": "Recognize inertia and actively choose instead of defaulting", "Social Proof Evaluation": "Use social wisdom without falling into herd behavior", "Authority Bias Check": "Evaluate authority critically rather than trusting blindly", "Reciprocity Awareness": "Recognize when reciprocity is being used to influence you", "Scarcity Skepticism": "Recognize when scarcity is artificial or designed to manipulate", "Base Rate Awareness": "Don't ignore general population rates in favor of specific details", "Conjunction Fallacy Avoidance": "Remember that specific scenarios are less likely than general ones", "Regression to the Mean Recognition": "Expect extreme outcomes to move toward average over time", "Systems Thinking": "Consider interconnected systems, feedback loops, and unintended consequences", "Margin of Safety Building": "Build buffers to protect against errors, bad luck, or unforeseen events", "Network Effects Recognition": "Identify whether value increases with more users, creating winner-take-all dynamics", "Incentive Analysis": "Understand what behavior is incentivized, intended or not", "Moral Hazard Awareness": "Recognize that protection from risk encourages risky behavior", "Adverse Selection Detection": "Recognize when information asymmetry can cause market failure", "Tragedy of the Commons Recognition": "Prevent overuse and depletion of shared resources", "Desirable Difficulty Embracing": "Select harder, less efficient learning that builds deeper, more flexible knowledge", "Outsider Perspective Seeking": "Leverage lack of domain assumptions to see possibilities insiders miss", "Cross-Domain Connection Building": "Combine ideas from multiple fields to create novel solutions", "Latticework Building": "Collect mental models from diverse disciplines to enable combinatorial thinking", "Diversity Advantage Leveraging": "Harness cognitive diversity to outperform individual experts", "Late Bloomer Mindset": "Recognize that exploration period pays off in better matches and higher long-term success", "Antifragility Building": "Create resilience and adaptation through diversity and redundancy", "Kind vs. Wicked Problem Assessment": "Determine whether the problem environment is stable (favoring specialists) or complex/changing (favoring generalists)", "Specialization Timing Evaluation": "Avoid premature specialization in fields that reward breadth", "Match Quality Optimization": "Find the best fit between your abilities, interests, and opportunities", "Strategic Quitting": "Recognize when grit is counterproductive and quitting is optimal", "Possible Selves Exploration": "Try different identities before committing, rather than deciding through introspection alone", "Choice Architecture Design": "Design choices to nudge people toward better outcomes", "Default Option Setting": "Set defaults that align with desired outcomes", "Opt-Out vs Opt-In Design": "Maximize participation through smart defaults", "Salience Management": "Make important options stand out", "Feedback Nudge Implementation": "Provide feedback to guide behavior", "Loss Aversion Leveraging": "Frame options to motivate action", "Social Norm Application": "Use normative influence positively", "Choice Simplification": "Reduce friction and decision burden", "Nudging for Health and Savings": "Use nudges for long-term benefit", "Ethical Nudging Principles": "Ensure nudges respect autonomy and well-being", "The \"Clear Yes\" Decision Rule": "Only commit to what's truly essential", "Graceful No Protocol": "Say no without burning bridges", "High Contribution Activity Identification": "Focus on activities with highest ROI", "The Trivial Many vs Vital Few Filter": "Eliminate noise to focus on signal", "Less but Better Execution": "Do fewer things with higher quality", "Fragility-Antifragility Assessment": "Determine whether something benefits or harms from volatility", "Via Negativa Application": "Remove bad options rather than adding good ones", "Stressor Seeking": "Use stress to make stronger, not weaker", "Optionality Cultivation": "Build systems that can benefit from unpredictable futures", "Skin in the Game Implementation": "Ensure decision-makers bear consequences", "Lindy Effect Testing": "Favor things that have survived over time", "Barbell Strategy Application": "Combine extreme safety with extreme upside exposure", "Small Mistake Embracement": "Use small failures to build antifragility", "Complex System Humility": "Accept that intervention often makes things worse", "Antifragile Life Design": "Build a life that benefits from unpredictability", "Signal-Noise Discrimination": "Distinguish meaningful patterns from random variation", "Probabilistic Forecasting": "Replace certainty with realistic probability ranges", "Bayesian Belief Updating": "Systematically update beliefs based on evidence", "Fox Thinking (vs. Hedgehog)": "Adopt a flexible, multi-perspective approach over rigid ideology", "Overfitting Detection": "Avoid creating models that fit noise rather than signal", "Data Quality Assessment": "Evaluate the reliability and limitations of data sources", "Prediction Calibration": "Check whether your probability estimates are accurate", "Correlation-Causation Separation": "Avoid assuming causation from correlation alone", "Model Selection": "Select the appropriate complexity for the problem", "Aggregate Prediction": "Combine diverse predictions to improve accuracy", "Affordance Design": "Make objects' functions self-evident", "Visibility Assessment": "Ensure critical controls and feedback are obvious", "Mapping Creation": "Align controls with user expectations", "Feedback Loop Design": "Give users clear confirmation of their actions", "Mental Model Alignment": "Match system design to how users think", "Error Prevention Design": "Make errors impossible or obvious", "Simplicity Enforcement": "Remove unnecessary complexity", "Profit Focus Alignment": "Ensure all efforts support profitability, not just efficiency", "Bottleneck Identification": "Find the single constraint limiting everything else", "Theory of Constraints Application": "Use constraints to drive improvement", "Throughput Maximization": "Focus on rate of output, not just individual efficiencies", "Exploitation Strategy": "Use all available capacity to exploit constraint fully", "Subordination Principle": "Align all operations around constraint", "Constraint Elevation": "Break constraint to find next one", "Local vs Global Optimum Recognition": "Recognize that local optima may not equal global optimum", "Efficiency vs Profit Distinction": "Focus on profit, not just efficiency metrics", "Continuous Improvement Cycle": "Systematically identify and break constraints", "Growth Mindset Activation": "Switch from fixed to growth perspective", "The Power of \"Yet\"": "Reframe inability as temporary state", "Process Praise": "Reinforce growth mindset in yourself and others", "Challenge Reframing": "See challenges as growth opportunities", "Feedback Seeking": "Use feedback to learn and grow, not judge", "Fixed Mindset Trigger Recognition": "Notice fixed mindset in action", "Effort Reframing": "See effort as path to mastery, not sign of weakness", "Success Learning from Others": "Learn from others instead of feeling threatened", "Habit Loop Analysis": "Deconstruct habits into their components", "Habit Change Protocol": "Keep cue and reward, change routine", "Cue Identification": "Understand what triggers your behaviors", "Reward Detection": "Understand what the habit actually provides", "Keystone Habit Selection": "Find habits that trigger other positive changes", "Craving Creation": "Build desire for the new behavior", "Habit Tracking": "Increase awareness and accountability", "Environment Cue Design": "Set up your environment to trigger desired behaviors", "Deep Work Scheduling": "Protect time for focused, high-value work", "Deep Work Ritual Design": "Create repeatable conditions for flow and focus", "Shutdown Ritual": "Disconnect completely to enable next day's performance", "Productive Meditation": "Use \"wasted\" time for deep thinking", "Shallow Work Elimination": "Minimize low-value work", "Focus Training": "Build the muscle of concentration", "High-Impact Task Identification": "Focus on the 20% that generates 80% of results", "Outsourcing Protocol": "Delegate work to free your time for high-impact work", "Automation Setup": "Use tools to handle repetitive work automatically", "Low-Information Diet": "Reduce noise to focus on what matters", "Remote Work Design": "Enable location independence and reduce overhead", "Mini-Retirement Planning": "Take extended breaks to recharge and gain perspective", "Income Stream Diversification": "Create multiple revenue streams for resilience and freedom", "Batching": "Handle similar tasks together for efficiency", "Optimal Stopping Problem": "Know when to stop searching and commit to best option seen so far", "Explore-Exploit Tradeoff": "Balance exploration and exploitation for optimal outcomes", "Sorting and Prioritization": "Use algorithmic principles to rank and prioritize", "Caching Strategy": "Store frequently used information for quick access", "Scheduling Optimization": "Maximize value given constraints", "Game Theory Application": "Find optimal strategies using game theory principles", "Overfitting Avoidance": "Build generalizable patterns, not overly specific rules", "Cache Invalidation": "Update outdated cached information", "Load Balancing": "Prevent bottlenecks and optimize throughput", "Greedy Algorithm Application": "Make locally optimal choices that approximate global optimum", "F*ck Prioritization": "Intentionally choose what deserves your emotional investment", "Suffering Selection": "Choose struggles you're willing to endure", "Responsibility Taking": "Take ownership of your response regardless of fault", "The Do Something Protocol": "Start moving to generate motivation", "Value Alignment Check": "Ensure actions match your chosen values", "Death Perspective Shift": "Use mortality to clarify what matters", "Negative Experience Acceptance": "Embrace rather than resist negative experiences", "Definite Goal Setting": "Choose specific, meaningful objectives rather than vague aspirations", "Entitlement Detox": "Recognize and challenge entitlement thinking", "Uncertainty Embracement": "Accept uncertainty as inherent to life", "Procrustean Distortion Detection": "Recognize when reality is being forced to fit theory", "Skin in the Game Assessment": "Identify who bears the consequences of decisions", "Practical vs Theoretical Testing": "Prioritize what works over what makes sense", "Counterexample Hunting": "Find the exception that breaks the rule", "Ethical Action Assessment": "Judge by actions, not words", "Expert Confidence Discounting": "Recognize that confidence doesn't equal accuracy", "Complexity Humility": "Accept that some things can't be fully understood", "Asymmetric Risk Identification": "Avoid situations where downside is unlimited", "Fragility-Antifragility Assessment": "Determine whether something benefits or harms from volatility", "Barbell Strategy Application": "Combine extreme safety with extreme upside exposure", "Asymmetric Risk Check": "Avoid situations where others take upside while you take downside", "Emergency Fund Prioritization": "Build safety net before other financial goals", "Compound Interest Thinking": "Understand and harness the power of compounding", "Wealth vs. Income Clarification": "Focus on net worth, not just income", "Retrospective Predictability Skepticism": "Recognize that explanations are stories, not predictions", "Narrative Fallacy Detection": "Recognize that stories are retrofitted, not accurate", "Black Swan Awareness": "Recognize that rare events dominate outcomes", "The Turkey Problem Check": "Detect hidden risk before it strikes", "Optionality Seeking": "Build systems that benefit from unpredictable events", "Probabilistic Forecasting": "Replace certainty with realistic probability ranges", "Monte Carlo Simulation Thinking": "Understand how randomness affects outcomes", "Overconfidence Check": "Recognize when you think you know more than you do", "Humble Decision Making": "Act with appropriate uncertainty and caution", "Tail Risk Evaluation": "Focus on worst-case scenarios, not average outcomes", "Expert Skepticism": "Recognize limits of expertise in unpredictable domains", "Humble Prediction": "Acknowledge limits of prediction in complex systems", "Information Anxiety Recognition": "Notice when anxiety is information-driven", "Optimal Stopping Problem": "Know when to stop searching and commit to best option seen so far", "Overfitting Avoidance": "Build generalizable patterns, not overly specific rules", "Cache Invalidation": "Update outdated cached information", "Greedy Algorithm Application": "Make locally optimal choices that approximate global optimum", "Reciprocity Recognition": "Recognize and leverage or resist the reciprocity principle", "Commitment Consistency Awareness": "Understand how commitment locks in behavior", "Authority Assessment": "Evaluate authority claims and leverage wisely", "Liking Leverage": "Use or recognize liking as influence tool", "Scarcity Response Management": "Make rational decisions, not emotional ones", "Resistance to Manipulation": "Recognize and resist influence tactics", "Default Option Setting": "Set defaults that align with desired outcomes", "Opt-Out vs Opt-In Design": "Maximize participation through smart defaults", "Salience Management": "Make important options stand out", "Loss Aversion Leveraging": "Frame options to motivate action", "Theory of Constraints Application": "Use constraints to drive improvement", "Subordination Principle": "Align all operations around constraint", "Local vs Global Optimum Recognition": "Recognize that local optima may not equal global optimum", "Exploitation Strategy": "Use all available capacity to exploit constraint fully", "Loss Aversion Awareness": "Recognize that losses feel twice as painful as gains", "Endowment Effect Recognition": "Recognize that ownership inflates perceived value", "Status Quo Bias Detection": "Recognize inertia and actively choose instead of defaulting", "Reciprocity Awareness": "Recognize when reciprocity is being used to influence you", "Scarcity Skepticism": "Recognize when scarcity is artificial or designed to manipulate", "Regression to the Mean Recognition": "Expect extreme outcomes to move toward average over time", "Incentive Analysis": "Understand what behavior is incentivized, intended or not", "Moral Hazard Awareness": "Recognize that protection from risk encourages risky behavior", "Adverse Selection Detection": "Recognize when information asymmetry can cause market failure", "Tragedy of the Commons Recognition": "Prevent overuse and depletion of shared resources", "Internal Trigger Awareness": "Understand what's driving the impulse", "Pacing Internal Triggers": "Surf the urge without acting", "Time Preference Optimization": "Prioritize long-term wealth over short-term gratification", "Less but Better Execution": "Do fewer things with higher quality", "Decision-Outcome Separation": "Evaluate decisions based on process, not luck", "Belief Betting": "Test your beliefs by treating them as bets", "Resulting Prevention": "Avoid judging decisions solely by their outcomes", "Probabilistic Thinking": "Replace certainty with realistic probability ranges", "Information Gap Assessment": "Identify what you don't know", "Backcast Evaluation": "Learn by evaluating what you would do with same information", "Red Team Thinking": "Stress-test your thinking by assuming it's wrong", "Decision Journaling": "Track your thinking to improve over time", "Decision Wheel Mapping": "Categorize decisions by impact and reversibility to choose the right approach", "Reversibility Assessment": "Determine how easy it is to undo the choice", "Impact Evaluation": "Understand how much the decision matters", "Decision Matrix Construction": "Systematically compare choices based on criteria", "Goal Factoring": "Clarify what you're actually optimizing for", "Value Proposition Quantification": "Explicitly define what you value and why", "Pre-Commitment Setup": "Lock in decisions before temptation strikes", "Scenario Simulation": "Test how different options play out", "Regret Minimization Analysis": "Consider which choice you'll regret less in the future", "Decision Review Protocol": "Learn from outcomes to improve future decisions", "Kill Criteria Setting": "Pre-define what would make you quit, before emotions take over", "The Exit Test": "Evaluate whether to continue with current commitments", "Opportunity Cost Calculation": "Explicitly consider what you're sacrificing", "Emotional Detachment from Past Decisions": "Make the decision based on present, not past", "Quitting Practice": "Build the quitting muscle for high-stakes situations", "First Principles Thinking": "Break problems down to fundamental truths and build up from there, eliminating assumptions", "Falsification Thinking": "Actively try to prove yourself wrong rather than seeking confirming evidence", "Inversion Thinking": "Think backward to identify and avoid failure points", "Occam's Razor Application": "Choose the simplest explanation that accounts for all evidence", "Second-Order Thinking": "Think beyond immediate effects to downstream and ripple effects", "Circle of Competence Recognition": "Know what you know—and what you don't—to avoid costly mistakes from overconfidence", "Coordination Problem Recognition": "Identify system-level issues where individual rationality leads to collective harm", "Opportunity Cost Analysis": "Account for what you're giving up when choosing an option", "Confirmation Bias Detection": "Recognize and counteract the tendency to seek confirming evidence", "Availability Bias Check": "Don't rely on how easily examples come to mind; use actual data", "Anchoring Awareness": "Recognize when the first piece of information is skewing your judgment", "Framing Effect Detection": "Recognize how the same fact, framed differently, changes decisions", "Base Rate Awareness": "Don't ignore general population rates in favor of specific details", "Conjunction Fallacy Avoidance": "Remember that specific scenarios are less likely than general ones", "Bayesian Belief Updating": "Systematically update beliefs based on evidence", "Bottleneck Identification": "Find the single constraint limiting everything else", "Margin of Safety Building": "Build buffers to protect against errors, bad luck, or unforeseen events", "Kind vs. Wicked Problem Assessment": "Determine whether the problem environment is stable (favoring specialists) or complex/changing (favoring generalists)", "Specialization Timing Evaluation": "Avoid premature specialization in fields that reward breadth", "Match Quality Optimization": "Find the best fit between your abilities, interests, and opportunities", "Strategic Quitting": "Recognize when grit is counterproductive and quitting is optimal", "Possible Selves Exploration": "Try different identities before committing, rather than deciding through introspection alone", "Asset Protection Routine": "Preserve decision-making capacity and energy", "Energy Auditing": "To identify energy drains and optimize daily activities for maximum engagement.", "Restorative Recharging": "To engage in high-quality leisure that actively rebuilds mental and physical resources.", "Digital Declutter": "Reset relationship with digital tools", "Intentional Technology Adoption": "Ensure technology serves values, not the reverse", "Automation Setup": "Use tools to handle repetitive work automatically", "Remote Work Design": "Enable location independence and reduce overhead", "Information Diet Design": "Control what information enters your life", "Information Filter Implementation": "Automatically filter out noise before it reaches you", "Hierarchical Information Processing": "Create layers of relevance so most important info stands out", "Just-in-Time Information Seeking": "Only seek information when you actually need it", "Information Architecture Skills": "Make information findable and navigable", "Attention Budgeting": "Allocate limited attention to high-value information", "Redundancy Elimination": "Stop consuming the same information multiple times", "Signal-to-Noise Assessment": "Quickly evaluate if content is worth attention", "Information Anxiety Recognition": "Notice when anxiety is information-driven", "Understanding Mapping": "Make information accessible by starting from shared understanding", "Kill Criteria Setting": "Pre-define what would make you quit, before emotions take over", "Sunk Cost Recognition": "Override the sunk cost fallacy", "The Exit Test": "Evaluate whether to continue with current commitments", "Change Signal Detection": "Notice when circumstances have changed since you started", "Opportunity Cost Calculation": "Explicitly consider what you're sacrificing", "Quitting Practice": "Build the quitting muscle for high-stakes situations", "Emotional Detachment from Past Decisions": "Make the decision based on present, not past", "The Quitting Audit": "Review all commitments and identify quits", "Graceful Exit Planning": "Exit relationships, projects, or jobs professionally and cleanly", "Narrative Fallacy Detection": "Recognize that stories are retrofitted, not accurate", "Noise vs Signal Discrimination": "Distinguish random noise from meaningful patterns", "Overconfidence Check": "Recognize when you think you know more than you do", "Luck vs Skill Assessment": "Properly attribute outcomes to their causes", "Probability Calibration": "Improve accuracy of probability judgments", "Alternative Scenario Generation": "Counteract hindsight bias by considering what could have happened", "Monte Carlo Simulation Thinking": "Understand how randomness affects outcomes", "Silent Evidence Seeking": "Find the missing data that would change your view", "Humble Decision Making": "Act with appropriate uncertainty and caution", "Hanlon's Razor": "Don't attribute to malice what can be explained by stupidity", "Sunk Cost Fallacy Awareness": "Recognize that past investments shouldn't dictate future decisions", "Skin in the Game Verification": "Identify who bears the consequences", "Agency Problem Detection": "Recognize when interests don't align", "Minority Rule Recognition": "Understand how small committed groups drive change", "Theorist vs Practitioner Assessment": "Prefer practical experience over theoretical knowledge", "Asymmetric Risk Check": "Avoid situations where others take upside while you take downside", "Average Fallacy Avoidance": "Recognize that averages can hide catastrophic risks", "Ethical Consistency Testing": "Assess whether actions match principles", "Long-Term Alignment": "Ensure decision-makers care about long-term outcomes", "Bureaucracy Skin Assessment": "Recognize when bureaucracy has eliminated accountability", "Personal Skin in the Game": "Ensure you bear the consequences of your choices", "Desirable Difficulty Embracing": "Select harder, less efficient learning that builds deeper, more flexible knowledge", "Latticework Building": "Collect mental models from diverse disciplines to enable combinatorial thinking", "Outsider Perspective Seeking": "Leverage lack of domain assumptions to see possibilities insiders miss", "Cross-Domain Connection Building": "Combine ideas from multiple fields to create novel solutions", "Diversity Advantage Leveraging": "Harness cognitive diversity to outperform individual experts", "Late Bloomer Mindset": "Recognize that exploration period pays off in better matches and higher long-term success", "Antifragility Building": "Create resilience and adaptation through diversity and redundancy", "Kind vs. Wicked Problem Assessment": "Determine whether the problem environment is stable (favoring specialists) or complex/changing (favoring generalists)", "Specialization Timing Evaluation": "Avoid premature specialization in fields that reward breadth", "Match Quality Optimization": "Find the best fit between your abilities, interests, and opportunities", "Strategic Quitting": "Recognize when grit is counterproductive and quitting is optimal", "Possible Selves Exploration": "Try different identities before committing, rather than deciding through introspection alone"}};
+
+        // Build skill info map
+        const skillInfoMap = {};
+        Object.entries(skillsData.skills_by_tag).forEach(([tag, skills]) => {
+            skills.forEach(([skill, book]) => {
+                if (!skillInfoMap[skill]) {
+                    skillInfoMap[skill] = { tags: [], books: [], description: skillsData.descriptions[skill] || null };
+                }
+                skillInfoMap[skill].tags.push(tag);
+                if (!skillInfoMap[skill].books.includes(book)) {
+                    skillInfoMap[skill].books.push(book);
+                }
+            });
+        });
+
+        // Tab management
+        function showTab(tabId) {
+            document.querySelectorAll('.tab-content').forEach(el => {
+                if (el.id !== 'skillDetail') el.classList.remove('active');
+            });
+            document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));
+            document.getElementById(tabId).classList.add('active');
+            event.target.classList.add('active');
+            hideSkillDetail();
+
+            if (tabId === 'network') {
+                setTimeout(drawNetwork, 100);
+            }
+        }
+
+        // Render All Skills
+        function renderAllSkills(filter = '') {
+            const tbody = document.getElementById('allSkillsTable');
+            tbody.innerHTML = '';
+
+            skillsData.all_skills.filter(skill =>
+                skill.toLowerCase().includes(filter.toLowerCase())
+            ).forEach(skill => {
+                const info = skillInfoMap[skill] || { tags: [], books: [] };
+                const row = tbody.insertRow();
+                row.className = 'skill-item';
+                row.innerHTML = `
+                    <td><strong>${skill}</strong></td>
+                    <td>${info.tags.slice(0, 3).map(t => `<span class="tag-item" style="font-size: 11px; padding: 4px 10px;">${t}</span>`).join(' ')} ${info.tags.length > 3 ? '...' : ''}</td>
+                    <td>${info.books.join(', ')}</td>
+                `;
+                row.onclick = () => showSkillDetail(skill);
+            });
+        }
+
+        function filterAllSkills() {
+            const filter = document.getElementById('allSkillsSearch').value;
+            renderAllSkills(filter);
+        }
+
+        // Render All Tags
+        function renderAllTags(filter = '') {
+            const tbody = document.getElementById('allTagsTable');
+            tbody.innerHTML = '';
+
+            Object.entries(skillsData.skills_by_tag)
+                .filter(([tag, skills]) => tag.toLowerCase().includes(filter.toLowerCase()))
+                .sort((a, b) => b[1].length - a[1].length)
+                .forEach(([tag, skills]) => {
+                    const row = tbody.insertRow();
+                    row.className = 'tag-list-item';
+                    row.innerHTML = `
+                        <td><strong>${tag}</strong></td>
+                        <td>${skills.length}</td>
+                        <td>${skills.slice(0, 5).map(s => s[0]).join(', ')} ${skills.length > 5 ? '...' : ''}</td>
+                    `;
+                    row.onclick = () => showSkillsForTag(tag);
+                });
+        }
+
+        function filterAllTags() {
+            const filter = document.getElementById('allTagsSearch').value;
+            renderAllTags(filter);
+        }
+
+        // Render Overlaps
+        function renderOverlaps() {
+            const tbody = document.getElementById('overlapsTable');
+            tbody.innerHTML = '';
+
+            Object.entries(skillsData.overlaps).forEach(([skill, books]) => {
+                const row = tbody.insertRow();
+                row.className = 'skill-item';
+                row.innerHTML = `
+                    <td><strong>${skill}</strong></td>
+                    <td>${books.join(', ')}</td>
+                `;
+                row.onclick = () => showSkillDetail(skill);
+            });
+        }
+
+        // Render Multi-tag
+        function renderMultitag() {
+            const tbody = document.getElementById('multitagTable');
+            tbody.innerHTML = '';
+
+            Object.entries(skillsData.multi_tag_skills).forEach(([skill, tags]) => {
+                const row = tbody.insertRow();
+                row.className = 'skill-item';
+                row.innerHTML = `
+                    <td><strong>${skill}</strong></td>
+                    <td>${tags.map(t => `<span class="tag-item" style="font-size: 11px; padding: 4px 10px;">${t}</span>`).join(' ')}</td>
+                `;
+                row.onclick = () => showSkillDetail(skill);
+            });
+        }
+
+        // Show skill detail
+        let currentSkillInfo = null;
+
+        function showSkillDetail(skillName) {
+            const info = skillInfoMap[skillName] || { tags: [], books: [], description: null };
+            document.getElementById('detailSkillName').textContent = skillName;
+
+            // Store current skill info for AI links
+            currentSkillInfo = {
+                name: skillName,
+                description: info.description || 'No description available.',
+                tags: info.tags,
+                books: info.books
+            };
+
+            // Set description
+            const descElement = document.getElementById('detailDescription');
+            if (info.description) {
+                descElement.textContent = info.description;
+                descElement.style.display = 'block';
+            } else {
+                descElement.textContent = 'No description available.';
+                descElement.style.color = '#6e6e73';
+                descElement.style.fontStyle = 'italic';
+            }
+
+            // Update AI tool links
+            updateAILinks();
+
+            document.getElementById('detailTags').innerHTML = info.tags.map(t =>
+                `<span class="tag-item">${t}</span>`
+            ).join(' ');
+            document.getElementById('detailBooks').textContent = info.books.join(', ');
+
+            // Find related skills
+            const relatedSkills = new Set();
+            info.tags.forEach(tag => {
+                const tagSkills = skillsData.skills_by_tag[tag] || [];
+                tagSkills.forEach(([s, b]) => {
+                    if (s !== skillName) relatedSkills.add(s);
+                });
+            });
+
+            document.getElementById('detailRelated').innerHTML =
+                Array.from(relatedSkills).slice(0, 20).map(s =>
+                    `<span class="tag-item" style="background: #6e6e73; cursor: pointer;" onclick="showSkillDetail('${s}')">${s}</span>`
+                ).join(' ');
+
+            document.getElementById('skillDetail').classList.add('active');
+            document.getElementById('skillDetail').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function hideSkillDetail() {
+            document.getElementById('skillDetail').classList.remove('active');
+        }
+
+        // Show skills for tag
+        function showSkillsForTag(tagName) {
+            const skills = skillsData.skills_by_tag[tagName] || [];
+            const tbody = document.getElementById('allSkillsTable');
+            tbody.innerHTML = '';
+
+            document.getElementById('allSkills').querySelector('h2').textContent = `Skills tagged "${tagName}" (${skills.length})`;
+            document.getElementById('allSkillsSearch').value = '';
+
+            skills.forEach(([skill, book]) => {
+                const row = tbody.insertRow();
+                row.className = 'skill-item';
+                row.innerHTML = `
+                    <td><strong>${skill}</strong></td>
+                    <td><span class="tag-item" style="font-size: 11px; padding: 4px 10px;">${tagName}</span></td>
+                    <td>${book}</td>
+                `;
+                row.onclick = () => showSkillDetail(skill);
+            });
+
+            showTabById('allSkills');
+        }
+
+        function showTabById(tabId) {
+            document.querySelectorAll('.tab-content').forEach(el => {
+                if (el.id !== 'skillDetail') el.classList.remove('active');
+            });
+            document.querySelectorAll('.tab').forEach(el => {
+                el.classList.remove('active');
+                if (el.textContent.includes(tabId.replace('all', 'All ').replace('Skills', ' Skills').replace('Tags', ' Tags'))) {
+                    el.classList.add('active');
+                }
+            });
+            document.getElementById(tabId).classList.add('active');
+        }
+
+        // Network visualization
+        function drawNetwork() {
+            const container = document.getElementById('networkContainer');
+            container.innerHTML = '';
+
+            const width = container.offsetWidth;
+            const height = 650;
+
+            // Get top 30 tags by skill count
+            const topTags = Object.entries(skillsData.skills_by_tag)
+                .sort((a, b) => b[1].length - a[1].length)
+                .slice(0, 30);
+
+            const nodes = topTags.map(([tag, skills]) => ({
+                id: tag,
+                value: skills.length,
+                skills: skills.map(s => s[0])
+            }));
+
+            // Create links
+            const links = [];
+            const skillToTags = {};
+
+            topTags.forEach(([tag, skills]) => {
+                skills.forEach(([skill, book]) => {
+                    if (!skillToTags[skill]) skillToTags[skill] = [];
+                    skillToTags[skill].push(tag);
+                });
+            });
+
+            Object.entries(skillToTags).forEach(([skill, tags]) => {
+                if (tags.length > 1) {
+                    for (let i = 0; i < tags.length; i++) {
+                        for (let j = i + 1; j < tags.length; j++) {
+                            links.push({ source: tags[i], target: tags[j] });
+                        }
+                    }
+                }
+            });
+
+            const svg = d3.select("#networkContainer")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .attr("viewBox", `0 0 ${width} ${height}`)
+                .attr("preserveAspectRatio", "xMidYMid meet");
+
+            const simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.id).distance(120))
+                .force("charge", d3.forceManyBody().strength(-400))
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .force("collision", d3.forceCollide().radius(40));
+
+            const link = svg.append("g")
+                .selectAll("line")
+                .data(links)
+                .join("line")
+                .attr("stroke", "#999")
+                .attr("stroke-opacity", 0.4)
+                .attr("stroke-width", 1);
+
+            const node = svg.append("g")
+                .selectAll("circle")
+                .data(nodes)
+                .join("circle")
+                .attr("r", d => Math.sqrt(d.value) * 4)
+                .attr("fill", (d, i) => d3.schemeCategory10[i % 10])
+                .attr("cursor", "pointer")
+                .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended));
+
+            const label = svg.append("g")
+                .selectAll("text")
+                .data(nodes)
+                .join("text")
+                .text(d => d.id)
+                .attr("font-size", "11px")
+                .attr("text-anchor", "middle")
+                .attr("dy", d => -Math.sqrt(d.value) * 4 - 5)
+                .attr("fill", "#333");
+
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+
+                node
+                    .attr("cx", d => Math.max(50, Math.min(width - 50, d.x)))
+                    .attr("cy", d => Math.max(50, Math.min(height - 50, d.y)));
+
+                label
+                    .attr("x", d => Math.max(50, Math.min(width - 50, d.x)))
+                    .attr("y", d => Math.max(50, Math.min(height - 50, d.y)));
+            });
+
+            function dragstarted(event, d) {
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+            }
+
+            function dragged(event, d) {
+                d.fx = event.x;
+                d.fy = event.y;
+            }
+
+            function dragended(event, d) {
+                if (!event.active) simulation.alphaTarget(0);
+                d.fx = null;
+                d.fy = null;
+            }
+        }
+
+        // Update AI tool links with current skill info
+        function updateAILinks() {
+            if (!currentSkillInfo) return;
+
+            const prompt = `Skill: ${currentSkillInfo.name}\nDescription: ${currentSkillInfo.description}\nTags: ${currentSkillInfo.tags.join(', ')}\nSource Books: ${currentSkillInfo.books.join(', ')}\n\nHelp me understand and apply this skill.`;
+            const encodedPrompt = encodeURIComponent(prompt);
+
+            document.getElementById('chatgptLink').href = `https://chatgpt.com/?q=${encodedPrompt}`;
+            document.getElementById('claudeLink').href = `https://claude.ai/new?q=${encodedPrompt}`;
+        }
+
+        // Toggle AI menu when clicking info icon
+        function toggleAIMenu(event) {
+            event.stopPropagation();
+            const aiMenu = document.getElementById('aiMenu');
+            aiMenu.classList.toggle('show');
+        }
+
+        // Close menu when clicking outside
+        document.addEventListener('click', (event) => {
+            const aiMenu = document.getElementById('aiMenu');
+            const infoIcon = document.getElementById('infoIcon');
+            if (!aiMenu.contains(event.target) && event.target !== infoIcon) {
+                aiMenu.classList.remove('show');
+            }
+        });
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            renderAllSkills();
+            renderAllTags();
+            renderOverlaps();
+            renderMultitag();
+
+            // Setup info icon click handler
+            const infoIcon = document.getElementById('infoIcon');
+            if (infoIcon) {
+                infoIcon.addEventListener('click', toggleAIMenu);
+            }
+        });
+    </script>
+</body>
+</html>

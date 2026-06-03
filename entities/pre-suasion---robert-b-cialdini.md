@@ -1,0 +1,37 @@
+---
+type: entity
+title: 'Pre-Suasion: A Revolutionary Way to Influence and Persuade'
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- books
+- psychology
+- communication
+- mental-model
+sources:
+- Factors.md
+related:
+- factors
+- supercommunicators-charles-duhigg
+- communication-skills
+- mental-models
+---
+--
+# Pre-Suasion: A Revolutionary Way to Influence and Persuade
+
+*Pre-Suasion: A Revolutionary Way to Influence and Persuade* is a book by Robert B. Cialdini that explores the concept of pre-suasion — the idea that the moments before we communicate are as important as the communication itself. The book argues that environmental and contextual factors shape persuasion before it even begins.
+
+## Key Concepts
+
+- **Pre-suasion** – The process of guiding someone's attention before delivering a message, which influences how the message is received.
+- **Environmental factors** – Physical and psychological conditions that shape persuasion outcomes.
+- **Contextual priming** – How the setup of a situation primes people to respond in certain ways.
+
+## Connection to Factors
+
+Cialdini's pre-suasion framework is one of the source inspirations for the [[factors]] mental model. The Factors model generalizes Cialdini's insight that contextual variables matter as a universal lens for navigating complexity.
+
+## Relationship to Other Works
+
+- [[supercommunicators-charles-duhigg]] – Both explore what makes communication effective, but Cialdini focuses on the pre-message phase while Duhigg examines the dynamics of connection during communication.
+- [[communication-skills]] – Pre-suasion provides a foundational concept for understanding how context shapes interpersonal communication.

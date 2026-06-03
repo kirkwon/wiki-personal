@@ -1,0 +1,37 @@
+---
+source_url: ''
+ingested: 2026-05-03
+sha256: 0c85986d7c8f94f6f39fe2aebe67ce95c8f1666cc083320242700bdc88623554
+title: The Five Dysfunctions of a Team - Patrick Lencioni
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+-
+
+# The Five Dysfunctions of a Team - Patrick Lencioni
+
+Summary of Patrick Lencioni's 2024 book on team dysfunction. The book presents a hierarchical model of five dysfunctions: Absence of Trust, Fear of Conflict, Lack of Commitment, Avoidance of Accountability, and Inattention to Results. It uses a fable format (Part I) to illustrate the problem, then explicitly maps the model (Part II) and provides prescriptive steps (Part III) for building cohesive teams.
+
+## Core Model
+- Dysfunction 1: Absence of Trust — unwillingness to be vulnerable with each other
+- Dysfunction 2: Fear of Conflict — inability to engage in passionate debate
+- Dysfunction 3: Lack of Commitment — failure to buy into decisions and create clarity
+- Dysfunction 4: Avoidance of Accountability — unwillingness to call out peers
+- Dysfunction 5: Inattention to Results — focusing on personal success over team results
+
+Each dysfunction is a prerequisite for the next, with trust as the root cause.
+
+## Prescriptive Steps
+1. Build Trust — vulnerability-based trust exercises
+2. Master Conflict — constructive, task-focused debate
+3. Achieve Commitment — clarity and buy-in on decisions
+4. Embrace Accountability — peer accountability systems
+5. Focus on Results — collective over individual outcomes
+
+## Related Sources
+- [[how-to-decide---annie-duke]]
+- [[thinking-fast-and-slow---daniel-kahneman]]
+- [[decisions-in-teams]]
+- [[building-a-decision-culture]]
+---

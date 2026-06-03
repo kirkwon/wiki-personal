@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Knowledge Pipeline Architecture</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'JetBrains Mono', monospace; background: #020617; min-height: 100vh; padding: 2rem; color: white; }
+    .container { max-width: 1200px; margin: 0 auto; }
+    .header { margin-bottom: 2rem; }
+    .header-row { display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem; }
+    .pulse-dot { width: 12px; height: 12px; background: #34d399; border-radius: 50%; animation: pulse 2s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+    h1 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.025em; }
+    .subtitle { color: #94a3b8; font-size: 0.875rem; margin-left: 1.75rem; }
+    .diagram-container { background: rgba(15, 23, 42, 0.5); border-radius: 1rem; border: 1px solid #1e293b; padding: 1.5rem; overflow-x: auto; }
+    svg { width: 100%; min-width: 900px; display: block; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-top: 2rem; }
+    .card { background: rgba(15, 23, 42, 0.5); border-radius: 0.75rem; border: 1px solid #1e293b; padding: 1.25rem; }
+    .card-header { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem; }
+    .card-dot { width: 8px; height: 8px; border-radius: 50%; }
+    .card-dot.cyan { background: #22d3ee; }
+    .card-dot.emerald { background: #34d399; }
+    .card-dot.violet { background: #a78bfa; }
+    .card-dot.amber { background: #fbbf24; }
+    .card-dot.rose { background: #fb7185; }
+    .card h3 { font-size: 0.875rem; font-weight: 600; }
+    .card ul { list-style: none; color: #94a3b8; font-size: 0.75rem; }
+    .card li { margin-bottom: 0.375rem; }
+    .footer { text-align: center; margin-top: 1.5rem; color: #475569; font-size: 0.75rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="header-row">
+        <div class="pulse-dot"></div>
+        <h1>Knowledge Pipeline Architecture</h1>
+      </div>
+      <p class="subtitle">End-to-end flow: Raw sources -&gt; Unified format -&gt; GBrain semantic graph -&gt; Searchable knowledge</p>
+    </div>
+    <div class="diagram-container">
+      <svg viewBox="0 0 1100 820">
+        <defs>
+          <marker id="ah" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/></marker>
+          <marker id="ah-cyan" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#22d3ee"/></marker>
+          <marker id="ah-violet" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#a78bfa"/></marker>
+          <marker id="ah-amber" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#fbbf24"/></marker>
+          <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.5"/></pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#grid)"/>
+        <!-- Title bar -->
+        <rect x="20" y="12" width="1060" height="48" rx="8" fill="rgba(6, 78, 59, 0.3)" stroke="#34d399" stroke-width="1.5"/>
+        <text x="550" y="34" fill="#34d399" font-size="10" font-weight="600" text-anchor="middle">AUTOMATED KNOWLEDGE INGESTION PIPELINE</text>
+        <text x="550" y="52" fill="white" font-size="20" font-weight="700" text-anchor="middle">Source -&gt; Convert -&gt; Enrich -&gt; Index -&gt; Embed -&gt; Search</text>
+        <!-- LAYER 1: SOURCES -->
+        <rect x="20" y="75" width="1060" height="100" rx="8" fill="rgba(120, 53, 15, 0.15)" stroke="#fbbf24" stroke-width="1"/>
+        <text x="40" y="98" fill="#fbbf24" font-size="11" font-weight="600">LAYER 1: SOURCES (Raw Input)</text>
+        <rect x="35" y="108" width="130" height="55" rx="6" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+        <text x="100" y="128" fill="white" font-size="9" text-anchor="middle" font-weight="600">Book Summaries</text>
+        <text x="100" y="142" fill="#94a3b8" font-size="7" text-anchor="middle">.txt | 108 files</text>
+        <text x="100" y="154" fill="#fbbf24" font-size="7" text-anchor="middle">~/book_summaries/</text>
+        <rect x="175" y="108" width="130" height="55" rx="6" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+        <text x="240" y="128" fill="white" font-size="9" text-anchor="middle" font-weight="600">YouTube</text>
+        <text x="240" y="142" fill="#94a3b8" font-size="7" text-anchor="middle">Watch Later</text>
+        <text x="240" y="154" fill="#fbbf24" font-size="7" text-anchor="middle">~764 videos</text>
+        <rect x="315" y="108" width="130" height="55" rx="6" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+        <text x="380" y="128" fill="white" font-size="9" text-anchor="middle" font-weight="600">Evernote</text>
+        <text x="380" y="142" fill="#94a3b8" font-size="7" text-anchor="middle">Historical</text>
+        <text x="380" y="154" fill="#fbbf24" font-size="7" text-anchor="middle">One-time export</text>
+        <rect x="455" y="108" width="130" height="55" rx="6" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+        <text x="520" y="128" fill="white" font-size="9" text-anchor="middle" font-weight="600">Obsidian</text>
+        <text x="520" y="142" fill="#94a3b8" font-size="7" text-anchor="middle">Markdown vault</text>
+        <text x="520" y="154" fill="#fbbf24" font-size="7" text-anchor="middle">Vault export</text>
+        <rect x="595" y="108" width="130" height="55" rx="6" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+        <text x="660" y="128" fill="white" font-size="9" text-anchor="middle" font-weight="600">Pinterest</text>
+        <text x="660" y="142" fill="#94a3b8" font-size="7" text-anchor="middle">Bookmarks</text>
+        <text x="660" y="154" fill="#fbbf24" font-size="7" text-anchor="middle">Historical</text>
+        <rect x="735" y="108" width="130" height="55" rx="6" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+        <text x="800" y="128" fill="white" font-size="9" text-anchor="middle" font-weight="600">Apple Notes</text>
+        <text x="800" y="142" fill="#94a3b8" font-size="7" text-anchor="middle">Ongoing</text>
+        <text x="800" y="154" fill="#fbbf24" font-size="7" text-anchor="middle">Continuous</text>
+        <rect x="875" y="108" width="130" height="55" rx="6" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+        <text x="940" y="128" fill="white" font-size="9" text-anchor="middle" font-weight="600">Wiki kb.md</text>
+        <text x="940" y="142" fill="#94a3b8" font-size="7" text-anchor="middle">Markdown</text>
+        <text x="940" y="154" fill="#fbbf24" font-size="7" text-anchor="middle">~/wiki-personal/</text>
+        <!-- LAYER 2: STAGING -->
+        <rect x="20" y="190" width="1060" height="100" rx="8" fill="rgba(8, 51, 68, 0.15)" stroke="#22d3ee" stroke-width="1"/>
+        <text x="40" y="213" fill="#22d3ee" font-size="11" font-weight="600">LAYER 2: STAGING (Convert &amp; Unify)</text>
+        <rect x="35" y="223" width="160" height="55" rx="6" fill="rgba(8, 51, 68, 0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+        <text x="115" y="243" fill="white" font-size="9" text-anchor="middle" font-weight="600">detect_changes.py</text>
+        <text x="115" y="257" fill="#94a3b8" font-size="7" text-anchor="middle">Hash-based detection</text>
+        <text x="115" y="269" fill="#22d3ee" font-size="7" text-anchor="middle">Compares file hashes</text>
+        <rect x="205" y="223" width="160" height="55" rx="6" fill="rgba(8, 51, 68, 0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+        <text x="285" y="243" fill="white" font-size="9" text-anchor="middle" font-weight="600">convert_to_unified.py</text>
+        <text x="285" y="257" fill="#94a3b8" font-size="7" text-anchor="middle">unify-document-formats</text>
+        <text x="285" y="269" fill="#22d3ee" font-size="7" text-anchor="middle">txt/json/yaml/md -&gt; unified</text>
+        <rect x="375" y="223" width="160" height="55" rx="6" fill="rgba(8, 51, 68, 0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+        <text x="455" y="243" fill="white" font-size="9" text-anchor="middle" font-weight="600">enrich_wisdom.py</text>
+        <text x="455" y="257" fill="#94a3b8" font-size="7" text-anchor="middle">extract-wisdom skill</text>
+        <text x="455" y="269" fill="#22d3ee" font-size="7" text-anchor="middle">Ollama phi3 ~0.5-1s/file</text>
+        <rect x="545" y="223" width="160" height="55" rx="6" fill="rgba(8, 51, 68, 0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+        <text x="625" y="243" fill="white" font-size="9" text-anchor="middle" font-weight="600">update_index.py</text>
+        <text x="625" y="257" fill="#94a3b8" font-size="7" text-anchor="middle">Rebuild index.json</text>
+        <text x="625" y="269" fill="#22d3ee" font-size="7" text-anchor="middle">Track all unified files</text>
+        <rect x="715" y="223" width="160" height="55" rx="6" fill="rgba(8, 51, 68, 0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+        <text x="795" y="243" fill="white" font-size="9" text-anchor="middle" font-weight="600">record_hash.py</text>
+        <text x="795" y="257" fill="#94a3b8" font-size="7" text-anchor="middle">Store file hashes</text>
+        <text x="795" y="269" fill="#22d3ee" font-size="7" text-anchor="middle">Incremental sync</text>
+        <text x="970" y="243" fill="#475569" font-size="8">staging/</text>
+        <text x="970" y="257" fill="#475569" font-size="8">unified YAML/MD</text>
+        <text x="970" y="269" fill="#475569" font-size="8">index.json + hashes</text>
+        <line x1="550" y1="175" x2="550" y2="188" stroke="#fbbf24" stroke-width="1.5" marker-end="url(#ah-amber)"/>
+        <!-- LAYER 3: IMPORT -->
+        <rect x="20" y="305" width="1060" height="100" rx="8" fill="rgba(76, 29, 149, 0.15)" stroke="#a78bfa" stroke-width="1"/>
+        <text x="40" y="328" fill="#a78bfa" font-size="11" font-weight="600">LAYER 3: IMPORT (GBrain Knowledge Graph)</text>
+        <rect x="35" y="338" width="200" height="55" rx="6" fill="rgba(76, 29, 149, 0.4)" stroke="#a78bfa" stroke-width="1.5"/>
+        <text x="135" y="358" fill="white" font-size="9" text-anchor="middle" font-weight="600">gbrain import --no-embed</text>
+        <text x="135" y="372" fill="#94a3b8" font-size="7" text-anchor="middle">Import unified files</text>
+        <text x="135" y="384" fill="#a78bfa" font-size="7" text-anchor="middle">redirect &lt; not --content</text>
+        <rect x="245" y="338" width="200" height="55" rx="6" fill="rgba(76, 29, 149, 0.4)" stroke="#a78bfa" stroke-width="1.5"/>
+        <text x="345" y="358" fill="white" font-size="9" text-anchor="middle" font-weight="600">gbrain embed --stale</text>
+        <text x="345" y="372" fill="#94a3b8" font-size="7" text-anchor="middle">Background embedding</text>
+        <text x="345" y="384" fill="#a78bfa" font-size="7" text-anchor="middle">Vector generation</text>
+        <rect x="455" y="338" width="200" height="55" rx="6" fill="rgba(76, 29, 149, 0.4)" stroke="#a78bfa" stroke-width="1.5"/>
+        <text x="555" y="358" fill="white" font-size="9" text-anchor="middle" font-weight="600">gbrain dream</text>
+        <text x="555" y="372" fill="#94a3b8" font-size="7" text-anchor="middle">Nightly maintenance</text>
+        <text x="555" y="384" fill="#a78bfa" font-size="7" text-anchor="middle">Synthesize connections</text>
+        <rect x="665" y="338" width="200" height="55" rx="6" fill="rgba(76, 29, 149, 0.4)" stroke="#a78bfa" stroke-width="1.5"/>
+        <text x="765" y="358" fill="white" font-size="9" text-anchor="middle" font-weight="600">gbrain doctor --json</text>
+        <text x="765" y="372" fill="#94a3b8" font-size="7" text-anchor="middle">Health monitoring</text>
+        <text x="765" y="384" fill="#a78bfa" font-size="7" text-anchor="middle">Link density / score</text>
+        <text x="970" y="358" fill="#475569" font-size="8">GBrain DB</text>
+        <text x="970" y="372" fill="#475569" font-size="8">PGLite + vector</text>
+        <text x="970" y="384" fill="#475569" font-size="8">Health: 75/100</text>
+        <line x1="550" y1="290" x2="550" y2="303" stroke="#22d3ee" stroke-width="1.5" marker-end="url(#ah-cyan)"/>
+        <!-- LAYER 4: SEARCH -->
+        <rect x="20" y="420" width="1060" height="100" rx="8" fill="rgba(6, 78, 59, 0.15)" stroke="#34d399" stroke-width="1"/>
+        <text x="40" y="443" fill="#34d399" font-size="11" font-weight="600">LAYER 4: SEARCH &amp; ACCESS</text>
+        <rect x="35" y="453" width="230" height="55" rx="6" fill="rgba(6, 78, 59, 0.4)" stroke="#34d399" stroke-width="1.5"/>
+        <text x="150" y="473" fill="white" font-size="9" text-anchor="middle" font-weight="600">knowledge-connect search</text>
+        <text x="150" y="487" fill="#94a3b8" font-size="7" text-anchor="middle">Unified: 4 systems</text>
+        <text x="150" y="499" fill="#34d399" font-size="7" text-anchor="middle">--limit --format json</text>
+        <rect x="275" y="453" width="230" height="55" rx="6" fill="rgba(6, 78, 59, 0.4)" stroke="#34d399" stroke-width="1.5"/>
+        <text x="390" y="473" fill="white" font-size="9" text-anchor="middle" font-weight="600">gbrain search</text>
+        <text x="390" y="487" fill="#94a3b8" font-size="7" text-anchor="middle">Semantic search</text>
+        <text x="390" y="499" fill="#34d399" font-size="7" text-anchor="middle">Vector similarity</text>
+        <rect x="515" y="453" width="230" height="55" rx="6" fill="rgba(6, 78, 59, 0.4)" stroke="#34d399" stroke-width="1.5"/>
+        <text x="630" y="473" fill="white" font-size="9" text-anchor="middle" font-weight="600">NotebookLM</text>
+        <text x="630" y="487" fill="#94a3b8" font-size="7" text-anchor="middle">Research &amp; synthesis</text>
+        <text x="630" y="499" fill="#34d399" font-size="7" text-anchor="middle">gbrain-to-notebooklm</text>
+        <rect x="755" y="453" width="230" height="55" rx="6" fill="rgba(6, 78, 59, 0.4)" stroke="#34d399" stroke-width="1.5"/>
+        <text x="870" y="473" fill="white" font-size="9" text-anchor="middle" font-weight="600">Wiki Browser</text>
+        <text x="870" y="487" fill="#94a3b8" font-size="7" text-anchor="middle">Direct markdown</text>
+        <text x="870" y="499" fill="#34d399" font-size="7" text-anchor="middle">~/wiki-personal/</text>
+        <line x1="550" y1="405" x2="550" y2="418" stroke="#a78bfa" stroke-width="1.5" marker-end="url(#ah-violet)"/>
+        <!-- LAYER 5: MONITORING -->
+        <rect x="20" y="535" width="1060" height="100" rx="8" fill="rgba(136, 19, 55, 0.1)" stroke="#fb7185" stroke-width="1"/>
+        <text x="40" y="558" fill="#fb7185" font-size="11" font-weight="600">LAYER 5: MONITORING &amp; MAINTENANCE</text>
+        <rect x="35" y="568" width="190" height="55" rx="6" fill="rgba(136, 19, 55, 0.3)" stroke="#fb7185" stroke-width="1.5"/>
+        <text x="130" y="588" fill="white" font-size="9" text-anchor="middle" font-weight="600">book-pipeline status</text>
+        <text x="130" y="602" fill="#94a3b8" font-size="7" text-anchor="middle">4 pipeline health</text>
+        <text x="130" y="614" fill="#fb7185" font-size="7" text-anchor="middle">Every 15 min</text>
+        <rect x="235" y="568" width="190" height="55" rx="6" fill="rgba(136, 19, 55, 0.3)" stroke="#fb7185" stroke-width="1.5"/>
+        <text x="330" y="588" fill="white" font-size="9" text-anchor="middle" font-weight="600">Log monitoring</text>
+        <text x="330" y="602" fill="#94a3b8" font-size="7" text-anchor="middle">Per-stage logging</text>
+        <text x="330" y="614" fill="#fb7185" font-size="7" text-anchor="middle">Alert on backlog</text>
+        <rect x="435" y="568" width="190" height="55" rx="6" fill="rgba(136, 19, 55, 0.3)" stroke="#fb7185" stroke-width="1.5"/>
+        <text x="530" y="588" fill="white" font-size="9" text-anchor="middle" font-weight="600">gbrain export backup</text>
+        <text x="530" y="602" fill="#94a3b8" font-size="7" text-anchor="middle">PGLite snapshot</text>
+        <text x="530" y="614" fill="#fb7185" font-size="7" text-anchor="middle">Daily 3AM</text>
+        <rect x="635" y="568" width="190" height="55" rx="6" fill="rgba(136, 19, 55, 0.3)" stroke="#fb7185" stroke-width="1.5"/>
+        <text x="730" y="588" fill="white" font-size="9" text-anchor="middle" font-weight="600">Vault defrag</text>
+        <text x="730" y="602" fill="#94a3b8" font-size="7" text-anchor="middle">Fix broken links</text>
+        <text x="730" y="614" fill="#fb7185" font-size="7" text-anchor="middle">Weekly Mon 9AM</text>
+        <rect x="835" y="568" width="190" height="55" rx="6" fill="rgba(136, 19, 55, 0.3)" stroke="#fb7185" stroke-width="1.5"/>
+        <text x="930" y="588" fill="white" font-size="9" text-anchor="middle" font-weight="600">Conversation review</text>
+        <text x="930" y="602" fill="#94a3b8" font-size="7" text-anchor="middle">Log compression</text>
+        <text x="930" y="614" fill="#fb7185" font-size="7" text-anchor="middle">Weekly Sun 9PM</text>
+        <!-- CRON -->
+        <rect x="20" y="650" width="1060" height="80" rx="8" fill="rgba(15, 23, 42, 0.5)" stroke="#475569" stroke-width="1"/>
+        <text x="40" y="673" fill="#94a3b8" font-size="11" font-weight="600">CRON SCHEDULE (12 Jobs)</text>
+        <rect x="35" y="683" width="100" height="35" rx="4" fill="rgba(136, 19, 55, 0.3)" stroke="#fb7185" stroke-width="1"/>
+        <text x="85" y="700" fill="#fb7185" font-size="8" text-anchor="middle" font-weight="600">*/15 * * * *</text>
+        <text x="85" y="712" fill="#94a3b8" font-size="6" text-anchor="middle">3 jobs</text>
+        <rect x="140" y="683" width="100" height="35" rx="4" fill="rgba(120, 53, 15, 0.3)" stroke="#fbbf24" stroke-width="1"/>
+        <text x="190" y="700" fill="#fbbf24" font-size="8" text-anchor="middle" font-weight="600">0 */6 * * *</text>
+        <text x="190" y="712" fill="#94a3b8" font-size="6" text-anchor="middle">AI/ML</text>
+        <rect x="245" y="683" width="210" height="35" rx="4" fill="rgba(6, 78, 59, 0.3)" stroke="#34d399" stroke-width="1"/>
+        <text x="350" y="700" fill="#34d399" font-size="8" text-anchor="middle" font-weight="600">0 2,3,9 * * *</text>
+        <text x="350" y="712" fill="#94a3b8" font-size="6" text-anchor="middle">Dream, Backup, Check</text>
+        <rect x="460" y="683" width="210" height="35" rx="4" fill="rgba(76, 29, 149, 0.3)" stroke="#a78bfa" stroke-width="1"/>
+        <text x="565" y="700" fill="#a78bfa" font-size="8" text-anchor="middle" font-weight="600">0 6,9 * * 1</text>
+        <text x="565" y="712" fill="#94a3b8" font-size="6" text-anchor="middle">Health, Defrag</text>
+        <rect x="675" y="683" width="210" height="35" rx="4" fill="rgba(8, 51, 68, 0.3)" stroke="#22d3ee" stroke-width="1"/>
+        <text x="780" y="700" fill="#22d3ee" font-size="8" text-anchor="middle" font-weight="600">0 21 * * 0</text>
+        <text x="780" y="712" fill="#94a3b8" font-size="6" text-anchor="middle">Conv Review</text>
+        <rect x="890" y="683" width="170" height="35" rx="4" fill="rgba(30, 41, 59, 0.3)" stroke="#64748b" stroke-width="1"/>
+        <text x="975" y="700" fill="#94a3b8" font-size="8" text-anchor="middle" font-weight="600">Manual</text>
+        <text x="975" y="712" fill="#94a3b8" font-size="6" text-anchor="middle">On-demand</text>
+      </svg>
+    </div>
+    <div class="cards">
+      <div class="card">
+        <div class="card-header"><div class="card-dot amber"></div><h3>Data Sources</h3></div>
+        <ul>
+          <li>Book summaries: 108 .txt files</li>
+          <li>YouTube Watch Later: ~764 videos</li>
+          <li>Evernote, Obsidian, Pinterest: Historical</li>
+          <li>Apple Notes, Wiki kb.md: Ongoing</li>
+        </ul>
+      </div>
+      <div class="card">
+        <div class="card-header"><div class="card-dot cyan"></div><h3>Staging Pipeline</h3></div>
+        <ul>
+          <li>detect_changes.py: Hash-based</li>
+          <li>convert_to_unified.py: Format normalization</li>
+          <li>enrich_wisdom.py: Ollama phi3 extraction</li>
+          <li>update_index.py + record_hash.py</li>
+        </ul>
+      </div>
+      <div class="card">
+        <div class="card-header"><div class="card-dot violet"></div><h3>GBrain Import</h3></div>
+        <ul>
+          <li>import --no-embed (redirect &lt;)</li>
+          <li>embed --stale (background vectors)</li>
+          <li>dream (nightly synthesis)</li>
+          <li>doctor --json (health: 75/100)</li>
+        </ul>
+      </div>
+      <div class="card">
+        <div class="card-header"><div class="card-dot emerald"></div><h3>Search Layer</h3></div>
+        <ul>
+          <li>knowledge-connect: 4-system unified</li>
+          <li>gbrain search: Semantic vectors</li>
+          <li>NotebookLM: Research synthesis</li>
+          <li>Wiki: Direct markdown access</li>
+        </ul>
+      </div>
+      <div class="card">
+        <div class="card-header"><div class="card-dot rose"></div><h3>Monitoring</h3></div>
+        <ul>
+          <li>12 cron jobs across 5 schedules</li>
+          <li>Per-stage logging + alerting</li>
+          <li>Daily backup + weekly defrag</li>
+          <li>Conversation log compression</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer">Knowledge Pipeline Architecture | Generated by OWL | 2026-05-10</div>
+  </div>
+</body>
+</html>

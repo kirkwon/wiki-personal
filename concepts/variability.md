@@ -1,0 +1,52 @@
+---
+type: concept
+title: Variability
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- cognitive-science
+- decision-making
+sources:
+- Variability.md
+related:
+- antifragility
+- noise-judgment-variability
+- thinking-fast-and-slow---daniel-kahneman
+- decision-making-under-uncertainty
+confidence: medium
+---
+-
+# Variability
+
+Variability is a universal mental model for understanding patterns and relationships in complex situations. It recognizes that variability in outcomes, judgments, and systems is a fundamental feature of reality rather than noise to be eliminated.
+
+## Core Idea
+
+Variability provides a mental shortcut for navigating complexity by acknowledging that dispersion and inconsistency are inherent in the world. This applies across domains—from human judgment and expert assessments to biological systems and economic markets.
+
+## Taleb's Perspective: Variability as Generative
+
+Nassim Nicholas Taleb, in *Antifragile*, argues that some systems benefit from variability and disorder. Antifragile systems—those that gain from shocks—thrive precisely because of variability. This reframes variability from a problem to be minimized into a resource to be leveraged.
+
+## Kahneman's Perspective: Variability as Noise
+
+Daniel Kahneman, in *Noise: A Flaw in Human Judgment*, identifies irreducible variability in human judgment. Even among experts, assessments of the same case diverge measurably. This variability is distinct from bias—it is noise, and it is quantifiable and real.
+
+## Synthesis
+
+The mental model of variability synthesizes these two perspectives: variability is both a source of insight (recognizing patterns through dispersion) and a source of noise (unwanted randomness in judgments). The key insight is that recognizing variability helps navigate complexity more effectively than pretending it does not exist.
+
+## Related Concepts
+
+- [[antifragility]] — Systems that benefit from variability
+- [[noise-judgment-variability]] — Irreducible variability in expert judgment
+- [[decision-making-under-uncertainty]] — Navigating uncertain outcomes
+- [[cognitive-biases-library]] — Sources of systematic error and variability in thinking
+
+## Open Questions
+
+- How does variability differ from randomness, uncertainty, or noise?
+- What specific patterns does variability reveal that uniformity would obscure?
+- When should variability be leveraged and when should it be managed?
+---

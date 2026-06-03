@@ -1,0 +1,44 @@
+---
+type: concept
+title: Exit Timing
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- decision-making
+- skill
+sources:
+- Exit Timing.md
+related:
+- decision-making-frameworks
+- decision-quality-vs-outcome-quality
+- thinking-in-bets---annie-duke
+- superforecasting
+- real-options-analysis
+- expected-value-ev
+- kelly-criterion
+---
+--
+# Exit Timing
+
+Exit timing is the skill of recognizing when to leave a situation — whether an investment, job, project, relationship, or commitment. It sits at the intersection of decision-making under uncertainty, opportunity cost analysis, and knowing when a situation has run its course.
+
+## Key Considerations
+- **Opportunity cost**: Staying too long in a suboptimal situation often costs more than the perceived risk of leaving.
+- **Expected value**: Continuously reassess whether the remaining expected value justifies continued commitment.
+- **Convexity and asymmetry**: Some situations have favorable exit structures where losses are bounded but upside is open (drawing on [[skin-in-the-game]] and [[antifragility]]).
+- **Signal detection**: Recognizing deteriorating signals or shifting conditions that indicate the time to exit has arrived.
+- **Real options thinking**: Knowing when to exercise or abandon an option before it expires worthless.
+
+## Connections to Existing Frameworks
+- [[thinking-in-bets---annie-duke]]: Framing decisions as bets helps evaluate exit timing through expected value and probability.
+- [[real-options-analysis]]: Provides a structured approach to valuing the option to exit.
+- [[kelly-criterion]]: Offers a mathematical framework for optimal bet sizing and when to scale down or exit positions.
+- [[superforecasting]]: Probabilistic thinking helps calibrate when forecasts turn against a commitment.
+- [[decision-quality-vs-outcome-quality]]: Exit timing is ultimately about making a high-quality decision, regardless of short-term outcomes.
+
+## Open Questions
+- What specific signals indicate the right moment to exit?
+- How does one balance sunk cost fallacy with legitimate reasons to persist?
+- How does exit timing apply across domains — finance, career, relationships, projects?
+
+This concept remains underdeveloped in the wiki due to limited source material. Further reading on decision-making frameworks, real options theory, and behavioral economics would strengthen this page.^[raw/articles/Exit Timing.md]

@@ -1,0 +1,58 @@
+---
+type: concept
+title: Self-Employment Tax Optimization
+created: 2026-04-22
+updated: 2026-04-22
+tags:
+- tax-planning
+- business-structure
+- entity-selection
+sources:
+- Company Structure Guide.md
+related:
+- llc-vs-s-corp
+- s-corporation
+- entity-selection-framework
+---
+-
+# Self-Employment Tax Optimization
+
+Self-employment tax optimization involves structuring your business entity and compensation to minimize the 15.3% self-employment tax (Social Security and Medicare) while remaining compliant with IRS requirements.
+
+## S Corp Strategy
+
+The primary strategy is converting from an LLC (or sole proprietorship) to an **S Corporation** and optimizing the salary vs. distribution split:
+
+- Pay yourself a **reasonable salary** (subject to payroll taxes)
+- Take the remainder as **distributions** (not subject to self-employment tax)
+- File **Form 2553** for S Corp election
+
+## Key Considerations
+
+- Salary must be "reasonable" — the IRS scrutinizes low salaries
+- Must document the compensation decision with business rationale
+- Some states impose additional taxes on S Corp income
+- The optimization benefit increases with higher income levels
+
+## Tax Treatment Comparison
+
+| Structure | Self-Employment Tax Base |
+|-----------|------------------------|
+| Sole Proprietorship | Net earnings (92.35% of gross) |
+| LLC (pass-through) | Net earnings (92.35% of gross) |
+| S Corporation | Salary only (distributions exempt) |
+| C Corporation | No self-employment tax (but double taxation) |
+
+## Related Pages
+
+- [[s-corporation]] for S Corp formation and requirements
+- [[llc-vs-s-corp]] for entity comparison
+- [[entity-selection-framework]] for decision framework
+---
+## Principle
+
+S Corp optimization through reasonable compensation vs. distributions is one of the most impactful tax strategies for small business owners.
+---
+## Tags
+
+tax-planning, business-structure, entity-selection

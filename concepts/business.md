@@ -1,0 +1,24 @@
+---
+type: concept
+title: Business
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- business
+sources:
+- Business.md
+related:
+- the-four---scott-galloway
+- platform-dominance
+- mental-models
+---
+-
+# Business
+
+Business is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+As a mental model, Business offers a universal lens for recognizing how organizations, markets, and competitive dynamics interact. It draws on frameworks like [[the-four---scott-galloway]], which identifies Apple, Google, Amazon, and Meta as dominant platform titans shaping modern economic life.
+
+The model is applicable across domains and provides a way to think about strategy, competitive positioning, and systemic patterns rather than isolated events. Confidence in this model is moderate (0.7) due to its thin definitional content at this stage.
+---

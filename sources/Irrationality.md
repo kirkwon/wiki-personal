@@ -1,0 +1,28 @@
+---
+type: source
+title: Irrationality
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- cognitive-science
+- decision-making
+sources:
+- Irrationality.md
+---
+-
+# Irrationality
+
+Irrationality is defined as a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+Cross-source perspective: Dan Ariely's *The Upside of Irrationality* frames irrationality not merely as a flaw but as a predictable, exploitable feature of human behavior with potential upside when understood systematically.
+
+## Related Concepts
+- [[cognitive-biases-library]]
+- [[thinking-fast-and-slow---daniel-kahneman]]
+- [[dual-process-theory]]
+- [[prospect-theory]]
+- [[the-art-of-thinking-clearly---rolf-dobelli]]
+- [[decision-quality-vs-outcome-quality]]
+- [[superforecasting]]
+---

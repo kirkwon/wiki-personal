@@ -1,0 +1,193 @@
+---
+type: source
+title: Others
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Others.md
+---
+# Others
+
+"Others" is a mental model positioned as a universal conceptual tool for understanding and navigating complex situations through awareness of patterns and relationships involving other people. It draws cross-source perspectives from leadership literature (Simon Sinek's "Leaders Eat Last" and "Find Your Why"), productivity/communication literature (Charles Duhigg's "Supercommunicators"), cognitive bias awareness (Rolf Dobelli's "The Art of Thinking Clearly"), and leadership amplification (Greg McKeown's "Multipliers").
+
+The model serves as a mental shortcut for social navigation, emphasizing empathy, perspective-taking, and awareness of others' motivations and patterns. It aggregates insights from these five sources under one unifying framework.
+
+## Cross-Source Perspectives
+- **Simon Sinek** — "Leaders Eat Last" and "Find Your Why" emphasize understanding why people do what they do and creating environments where people feel safe to take risks.
+- **Greg McKeown** — "Multipliers" focuses on amplifying the intelligence and capability of others rather than diminishing it.
+- **Charles Duhigg** — "Supercommunicators" provides frameworks for understanding how people communicate and what they actually mean beneath surface messages.
+- **Rolf Dobelli** — "The Art of Thinking Clearly" highlights cognitive biases that distort our perception of others and social situations.
+- **Applicability**: Universal across all domains
+- **Confidence**: 0.7
+<response>
+---FILE: wiki/concepts/others-mental-model.md---
+---
+type: concept
+title: Others Mental Model
+created: 2026-04-29
+updated: 2026-04-29
+tags: [mental-model, communication, leadership, cognitive-bias]
+sources: ["Others.md"]
+related: [supercommunicators-charles-duhigg, the-art-of-thinking-clearly---rolf-dobelli, communication-skills, effective-listening, decision-culture, simon-sinek]
+---
+# Others Mental Model
+
+The "Others" mental model is a universal conceptual tool for understanding and navigating complex situations by paying close attention to patterns and relationships involving other people. It functions as a mental shortcut for social navigation — encouraging empathy, perspective-taking, and awareness of others' motivations, communication styles, and cognitive biases that distort perception.
+
+## Core Idea
+
+Rather than treating social situations as unpredictable or chaotic, the Others model provides a framework for reading people and systems of interaction. It draws together insights from leadership theory, communication science, and cognitive bias awareness to create a unified lens for social complexity.
+
+## Key Sources
+
+- [[Leaders Eat Last - Simon Sinek]] — Understanding why people do what they do and creating environments of trust and safety
+- [[Find Your Why - Simon Sinek]] — Discovering personal and organizational purpose to align with others
+- [[Multipliers - Greg McKeown]] — Amplifying others' intelligence and capability rather than diminishing it
+- [[Supercommunicators - Charles Duhigg]] — Understanding what people actually mean beneath their messages
+- [[The Art of Thinking Clearly - Rolf Dobelli]] — Recognizing cognitive biases that distort how we perceive others
+
+## Applications
+
+- Navigating team dynamics and decision-making cultures
+- Improving communication by listening for underlying meaning
+- Recognizing biases that lead to misreading social situations
+- Building trust through understanding others' motivations and fears
+- Amplifying team capability through leadership practices
+
+## Related Concepts
+
+This model connects to [[communication-skills]], [[effective-listening]], [[decision-culture]], and broader themes of empathy and social awareness. It extends the cognitive bias content from Dobelli with actionable frameworks for leadership and communication.
+
+## Confidence Level
+
+Moderate (0.7) — the model is well-supported by well-known sources but remains broadly defined. It overlaps with existing concepts like [[communication-skills]] and [[effective-listening]], and its specific distinguishing insights warrant further development.
+<response>
+---FILE: wiki/entities/simon-sinek.md---
+---
+type: entity
+title: Simon Sinek
+created: 2026-04-29
+updated: 2026-04-29
+tags: [person, leadership, books]
+sources: ["Others.md"]
+related: [the-infinite-game---simon-sinek, leaders-eat-last---simon-sinek, find-your-why---simon-sinek, multipliers---greg-mckeown, supercommunicators-charles-duhigg]
+---
+# Simon Sinek
+
+Simon Sinek is a leadership author and motivational speaker known for popularizing the concept of "Start With Why." His work emphasizes understanding the motivations and needs of others as a foundation for effective leadership.
+
+## Key Works Referenced
+
+- **Leaders Eat Last** — Focuses on creating environments of trust and safety where people feel empowered to take risks and support one another
+- **Find Your Why** — Guides individuals and organizations in discovering their purpose to better align with and understand others
+- **The Infinite Game** — Frames leadership as an infinite game rather than a finite one, connecting to the existing [[simon-sinek]] page
+
+## Connections
+
+Sinek's ideas about understanding others' motivations connect to the [[Others]] mental model, [[leaders-eat-last---simon-sinek]], and [[find-your-why---simon-sinek]]. His work on trust and purpose aligns with themes in [[communication-skills]] and [[decision-culture]].
+<response>
+---FILE: wiki/entities/greg-mckeown.md---
+---
+type: entity
+title: Greg McKeown
+created: 2026-04-29
+updated: 2026-04-29
+tags: [person, leadership, books]
+sources: ["Others.md"]
+related: [multipliers---greg-mckeown, others-mental-model, simon-sinek]
+---
+# Greg McKeown
+
+Greg McKeown is the author of *Multipliers: How the Best Leaders Make Everyone Smarter*, which focuses on leadership practices that amplify the intelligence and capability of others rather than diminishing them.
+
+## Key Ideas
+
+- The best leaders are "Multipliers" who extract more from people than they knew they had
+- Opposite approach is the "Diminisher" who creates an environment of intellectual intimidation
+- Empowering others leads to better decisions, deeper thinking, and stronger teams
+
+## Connection to Others Model
+
+McKeown's work contributes to the [[Others]] mental model by providing a concrete leadership framework for understanding and amplifying others' capabilities, connecting to themes of empathy and social awareness in [[communication-skills]] and [[decision-culture]].
+<response>
+---FILE: wiki/entities/leaders-eat-last---simon-sinek.md---
+---
+type: entity
+title: Leaders Eat Last - Simon Sinek
+created: 2026-04-29
+updated: 2026-04-29
+tags: [books, leadership]
+sources: ["Others.md"]
+related: [simon-sinek, find-your-why---simon-sinek, others-mental-model, communication-skills]
+---
+# Leaders Eat Last - Simon Sinek
+
+*Leaders Eat Last: Why Some Teams Pull Together and Others Don't* by Simon Sinek explores how great leaders create environments of trust and cooperation. The central thesis is that when people feel safe — when they trust that the group will look out for them — they are more willing to take risks, cooperate, and support one another.
+
+## Key Themes
+
+- The biology of trust and the role of neurotransmitters like oxytocin in team cohesion
+- Creating a "circle of safety" where people feel protected
+- The cost of leaders who prioritize their own status over their team's wellbeing
+- How vulnerability and empathy from leaders unlock collective performance
+
+## Connection to Others Model
+
+This book contributes to the [[Others]] mental model by emphasizing that understanding others' need for safety and belonging is foundational to effective social navigation and leadership.
+<response>
+---FILE: wiki/entities/find-your-why---simon-sinek.md---
+---
+type: entity
+title: Find Your Why - Simon Sinek
+created: 2026-04-29
+updated: 2026-04-29
+tags: [books, leadership, purpose]
+sources: ["Others.md"]
+related: [simon-sinek, leaders-eat-last---simon-sinek, others-mental-model]
+---
+# Find Your Why - Simon Sinek
+
+*Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team* by Simon Sinek is a follow-up to *Start With Why* that provides a step-by-step guide for individuals and organizations to discover their core purpose.
+
+## Key Themes
+
+- Purpose is not something you find — it is something you build
+- Understanding your personal "Why" helps you align with and understand others
+- Organizations with a clear "Why" create stronger connections with customers and employees
+- The relationship between cause, belief, and action
+
+## Connection to Others Model
+
+Finding one's purpose enables deeper understanding of others' motivations, contributing to the [[Others]] mental model's emphasis on reading patterns and relationships in social situations.
+<response>
+---FILE: wiki/entities/multipliers---greg-mckeown.md---
+---
+type: entity
+title: Multipliers - Greg McKeown
+created: 2026-04-29
+updated: 2026-04-29
+tags: [books, leadership]
+sources: ["Others.md"]
+related: [greg-mckeown, others-mental-model, simon-sinek]
+---
+# Multipliers - Greg McKeown
+
+*Multipliers: How the Best Leaders Make Everyone Smarter* by Greg McKeown identifies two types of leaders: Multipliers and Diminishers. Multipliers create an environment where people do their best thinking and stretch themselves, while Diminishers inadvertently suppress talent and intelligence.
+
+## Key Themes
+
+- Multipliers attract talent and release it through challenging work
+- Diminishers create a tense environment that suppresses intellectual contribution
+- The leader's mindset directly shapes the team's capacity for thought and action
+- Five key disciplines: Attract and optimize talent, create intensity, extend challenges, debate decisions, and instill ownership
+
+## Connection to Others Model
+
+McKeown's framework provides a practical lens for understanding how leaders' awareness of others directly amplifies or diminishes collective intelligence, a core insight of the [[Others]] mental model.
+<response>
+---FILE: wiki/log.md---
+## [2026-04-29] ingest | Others.md
+Added "Others" mental model concept page synthesizing leadership, communication, and cognitive bias perspectives on understanding others. Created entity pages for Simon Sinek's "Leaders Eat Last" and "Find Your Why," Greg McKeown's "Multipliers," and updated Simon Sinek entity.

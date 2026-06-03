@@ -1,0 +1,50 @@
+---
+type: entity
+title: Adrift - Scott Galloway
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- book
+- capitalism
+- consumerism
+sources:
+- Adrift - Scott Galloway.md
+related:
+- scott-galloway
+- the-four
+- the-algebra-of-happiness---scott-galloway
+- responsible-capitalism
+---
+-
+# Adrift - Scott Galloway
+
+Scott Galloway's book *Adrift* examines capitalism, consumerism, and their effects on society while proposing practical solutions for a better future.
+
+## Overview
+The book explores the historical development of consumerism, the ideology behind capitalism, and how the shift from serving customers and employees toward prioritizing shareholder interests has repercussions on businesses and society.
+
+## Chapters
+- The Rise of Consumerism
+- Capitalist Dreams
+- The Triumph of Shares Over People
+- The Price of Progress
+- The Pursuit of Happiness
+- Redefining Corporate Social Responsibility (CSR)
+- The Digital Divide
+- Building a Better Capitalism
+
+## Key Themes
+- [[consumerism-concept]] and its historical development
+- [[shareholder-vs-stakeholder]] prioritization shift
+- [[redefining-success-metrics]] beyond GDP
+- [[digital-divide]] and technology's role
+- [[corporate-social-responsibility]] effectiveness
+- [[responsible-capitalism]] as a path forward
+- [[b-corporations]] as alternative models
+
+## Connection to Galloway's Other Work
+Related to [[the-four]] on corporate titans and [[the-algebra-of-happiness---scott-galloway]] on well-being and success.
+
+## Source
+^[Adrift - Scott Galloway.md]
+---

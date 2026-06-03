@@ -1,0 +1,44 @@
+---
+
+type: concept
+title: The Greeks
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- personal-finance
+- options
+- derivatives
+- risk-management
+sources:
+- Options Trading.md
+related:
+- options-trading
+- delta-hedging
+- implied-volatility
+- time-decay
+- risk-management
+----
+# The Greeks
+
+The Greeks είναι τα βασικά μέτρα ευαισθησίας που περιγράφουν πώς επηρεάζεται η τιμή ενός option από αλλαγές στις μεταβλητές της αγοράς.
+
+## Δέλτα (Delta)
+Ευαισθησία στην αλλαγή τιμής της μετοχής. Πλάτος 0-1 για calls, -1 έως 0 για puts. Χρησιμοποιείται ως αναλογία ασφαλείας (hedge ratio) — το πλήθος μετοχών που απαιτούνται για hedging.
+
+## Γάμμα (Gamma)
+Ευαισθησία στη αλλαγή του delta. Υψηλό gamma σημαίνει ότι το delta αλλάζει γρήγορα (κοντά στην expiration ή κοντά στο strike). Κίνδυνος: το position delta αλλάζει αναπάντεχα.
+
+## Θήτα (Theta)
+Ημερήσια απώλεια αξίας λόγω κίνησης χρόνου. Είναι εχθρός του αγοραστή (time is premium seller's friend, buyer's enemy). Τυπικές τιμές: -$0.01/ημέρα μακρινά από expiration, -$0.10/ημέρα κοντά στην expiration.
+
+## Βήτα (Vega)
+Ευαισθησία στην αλλαγή του 1% στην μεταβλητότητα. Υψηλό vega σημαίνει μεγάλη ευαισθησία σε αλλαγές vol. Στρατηγική: συναλλάγεστε μεταβλητότητα, όχι μόνο κατεύθυνση.
+
+## Ρο (Rho)
+Ευαισθησία στις αλλαγές επιτοκίου. Γενικά χαμηλή σημασία, πιο σημαντικό για LEAPS (μακροπρόθεσμα options).
+
+## Σχέσεις
+- [[delta-hedging]]
+- [[implied-volatility]]
+- [[time-decay]]
+- [[options-trading]]

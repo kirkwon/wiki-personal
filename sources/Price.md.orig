@@ -1,0 +1,27 @@
+---
+type: source
+title: Price
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+sources:
+- Price.md
+---
+# Price
+
+Price is a mental model that functions as a conceptual tool for navigating complexity through pattern recognition. It highlights how value, cost, and perception interact to shape decisions and judgments.
+
+This model draws on Dan Ariely's research in behavioral economics, particularly from his book Predictably Irrational, which demonstrates systematic irrationality in how people respond to prices—including anchoring effects, zero-price effects, and decoy pricing strategies.
+## Cross-Source Perspectives
+- [[Predictably Irrational - Dan Ariely]] provides the primary source for this mental model, documenting experiments on how price cues distort judgment.
+## Related Concepts
+- [[framing-effects]] - How context shapes decisions
+- [[cognitive-biases-library]] - Library of cognitive biases
+- [[decision-making-frameworks]] - Decision-making frameworks
+- [[prospect-theory]] - How people evaluate gains and losses
+## Key Findings
+- Price serves as a universal mental shortcut for interpreting complex situations.
+- Ariely's experiments show that people respond irrationally to price cues, including arbitrary coherence, decoy effects, and the power of "free."
+- The gap between perceived value and actual cost is a consistent source of behavioral distortion.
+---

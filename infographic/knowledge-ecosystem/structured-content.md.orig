@@ -1,0 +1,130 @@
+---
+type: note
+title: Personal Knowledge Ecosystem — Structured Content
+created: 2026-05-14
+updated: 2026-05-14
+tags: []
+sources: []
+---
+
+# Personal Knowledge Ecosystem — Structured Content
+
+## Title
+Personal Knowledge Ecosystem: System Overview
+
+## Learning Objectives
+1. Understand the scale of the knowledge base (2,500+ pages)
+2. See the automated pipeline architecture at a glance
+3. Identify the tooling and scheduling layer
+
+---
+
+## Section 1: Knowledge Wiki — The Core
+
+**Key Concept**: A Wikipedia-style personal knowledge base organized into 6 categories
+
+**Content**:
+- 1,755 concept pages — interconnected ideas and frameworks
+- 347 entity pages — people, books, places, things
+- 410 source documents — raw reference material
+- 26 comparison pages — side-by-side analyses
+- 20 query pages — saved research questions
+- 36 top-level markdown files — overview and meta pages
+
+**Visual Element**: Large numeral "2,500+" as hero number, with category breakdown as smaller tiles
+
+**Text Labels**: Concepts 1,755 | Entities 347 | Sources 410 | Comparisons 26 | Queries 20
+
+---
+
+## Section 2: Knowledge Domains
+
+**Key Concept**: Wiki covers 6 major domains
+
+**Content**:
+- Cooking & Gastronomy (coffee, wok, regional cuisines)
+- Photography (composition, lighting, post-processing)
+- Personal Finance (investing, retirement, tax strategy)
+- Decision Science (cognitive biases, Bayesian thinking, mental models)
+- Jazz & Music Theory (bebop, Miles Davis, Thelonious Monk)
+- Botany & Urban Ecology
+
+**Visual Element**: 6 domain icons in a grid
+
+**Text Labels**: Cooking | Photography | Finance | Decision Science | Jazz | Botany
+
+---
+
+## Section 3: Automated Ingestion Pipeline
+
+**Key Concept**: 4 pipelines automatically process knowledge from raw sources to searchable format
+
+**Content**:
+1. Books Pipeline: .txt → unified_books/ → skills
+2. Videos Pipeline: YouTube Watch Later → unified_videos_improved/
+3. GBrain Export Pipeline: kb.md → GBrain database
+4. NotebookLM Sync Pipeline: wiki updates → NotebookLM notebooks
+
+**Visual Element**: Flow diagram with 4 stages, arrows showing direction
+
+**Text Labels**: Source → Convert → Enrich → Index → Embed
+
+---
+
+## Section 4: Tooling Layer
+
+**Key Concept**: 3 custom CLI tools provide unified interfaces
+
+**Content**:
+- knowledge-connect: Unified search across GBrain, books, NotebookLM, videos
+- book-pipeline: Health monitoring for all 4 knowledge pipelines
+- gbrain-notebooklm-bridge: Bidirectional sync between GBrain and NotebookLM
+
+**Visual Element**: 3 tool cards with icons
+
+**Text Labels**: knowledge-connect | book-pipeline | gbrain-notebooklm-bridge
+
+---
+
+## Section 5: Automation Schedule
+
+**Key Concept**: 12 cron jobs run on schedules from every 15 minutes to weekly
+
+**Content**:
+- Every 15 min: GBrain Live Sync, LLM-wiki delta sync, Pipeline status check
+- Every 6 hours: AI/ML Notebook update
+- Daily (2AM): GBrain Dream Cycle
+- Daily (3AM): GBrain PGLite export backup
+- Daily (9AM): GBrain update check
+- Weekly (Mon 6AM): GBrain health check + Vault defrag
+- Weekly (Sun 9PM): Conversation review
+
+**Visual Element**: Timeline or clock visualization with job frequency
+
+**Text Labels**: 12 cron jobs | 15min → weekly | 4 pipelines | 3 CLI tools
+
+---
+
+## Section 6: System Health
+
+**Key Concept**: GBrain knowledge graph health monitoring
+
+**Content**:
+- GBrain health score: 75/100 (unhealthy)
+- Issue: vector extension missing ($libdir/vector)
+- Schema version: 2
+- Wiki index: 515 lines, last updated 2026-04-29
+- Activity log: 1,251 lines of tracked changes
+
+**Visual Element**: Health score gauge or meter
+
+**Text Labels**: Health: 75/100 | Schema v2 | Vector extension: missing
+
+---
+
+## Design Instructions
+- Use vibrant, clean flat vector style
+- Emphasize large numbers for scale metrics
+- Show flow/pipeline as connected stages
+- Keep text minimal — let numbers and icons carry the message
+- Color code: Wiki (blue), Pipeline (green), Tools (orange), Cron (purple)

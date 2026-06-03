@@ -1,0 +1,29 @@
+---
+
+type: concept
+title: Misbehaving - Richard H. Thaler
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- book
+- behavioral-economics
+- choice-architecture
+sources:
+- Behavior.md
+related:
+- richard-h-thaler
+- choice-overload
+- decision-making-frameworks
+- cognitive-biases-library
+----
+# Misbehaving: The Making of Behavioral Economics
+
+*Misbehaving* by Richard H. Thaler chronicles the development of behavioral economics and how people systematically deviate from the predictions of traditional economic models. The book explores choice architecture, nudges, and how understanding irrational behavior can improve policy and decision-making.
+
+## Key Themes
+- People are not rational actors — they exhibit systematic biases
+- Choice architecture shapes outcomes without restricting freedom
+- Nudges can guide better decisions through environmental design
+- The gap between economic theory and actual human behavior
+
+This work connects to [[choice-overload]] and [[decision-making-frameworks]], showing how the design of choices matters as much as the choices themselves.

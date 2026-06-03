@@ -1,0 +1,37 @@
+---
+type: concept
+title: Biases in Investing
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- cognitive-bias
+- investing
+- decision-making
+sources:
+- cognitive-biases-library.md
+related:
+- cognitive-biases-library
+- loss-aversion
+- confirmation-bias
+- overconfidence-and-certainty
+- prospect-theory
+---
+--
+# Biases in Investing
+
+Common cognitive biases that affect investment decisions, drawn from the cognitive biases library.
+
+## Key Biases
+- **Loss Aversion**: Hold losers too long, sell winners too early
+- **Recency Bias**: Overweight recent performance in forecasts
+- **Confirmation Bias**: Research only bullish news on owned stocks
+- **Overconfidence**: Believe you can beat the market
+
+## Mitigation
+- Frame decisions symmetrically (gains and losses equally)
+- Actively seek disconfirming evidence
+- Use checklists and written rationale
+- Track predictions and outcomes over time
+
+## Connection to Other Concepts
+Relates to [[loss-aversion]], [[prospect-theory]], and [[decision-quality-vs-outcome-quality]].

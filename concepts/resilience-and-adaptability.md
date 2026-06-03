@@ -1,0 +1,38 @@
+---
+type: concept
+title: Resilience and Adaptability
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- decision-making
+- psychology
+- risk
+sources:
+- Skin in the Game - Nassim Nicholas Taleb.md
+related:
+- skin-in-the-game
+- antifragility
+- black-swan-events
+---
+-
+# Resilience and Adaptability
+
+Resilience is the capacity for individuals, communities, and organizations to cope with crises while maintaining their values and integrity. Taleb emphasizes adaptability with skin in the game during times of uncertainty and disruption. Those who have a personal stake in outcomes are better positioned to adapt effectively because they bear the consequences of their decisions.
+
+This connects to [[antifragility]]—systems that improve under stress—but focuses more on the human and organizational capacity to endure and adapt rather than actively strengthening through exposure to volatility.
+
+## Key Points
+
+- Resilience enables coping with crises while maintaining values and integrity
+- Adaptability with skin in the game during uncertainty and disruption
+- Personal stake ensures better adaptation to changing circumstances
+- Communities strengthen through transparency and accountability
+- Connects to [[antifragility]] and [[black-swan-events]]
+
+## Related Concepts
+
+- [[skin-in-the-game]]
+- [[antifragility]]
+- [[black-swan-events]]
+- [[resilience-and-adaptability]]
+---

@@ -1,0 +1,44 @@
+---
+type: entity
+title: 叉烧
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- chinese
+- cantonese
+- recipe
+- meat
+- cuisine
+sources:
+- cantonese-cuisine.md
+related:
+- cantonese-cuisine
+- dim-sum
+- wok-hei
+- roast-duck
+- yum-cha
+---
+--
+# 叉烧 (Char Siu)
+
+叉烧（Char Siu，叉烧，Chā shāo）是粤菜经典烧腊菜品，即中式烧烤猪肉。
+
+## 特征
+
+- 使用猪肩肉、腹部或里脊
+- 以叉烧酱、蛋黄酱、酱油、蜂蜜腌制
+- 烤至表面上釉，呈现红色外观
+- 口味精甜咸适中
+
+## 制作要点
+
+叉烧的关键在于腌制和烤制过程，使猪肉表面形成甜咸交织的釉面，内部保持多汁鲜嫩。烤制时需注意火候控制，确保外脆内嫩。
+
+## 用途
+
+- 作为主菜
+- 用于炒饭
+- 用于包子（叉烧包）
+- 用于面汤
+
+叉烧是粤式饮茶文化的核心组成部分，也是烧鸭店和点心店的热门菜品。^[raw/articles/cantonese-cuisine.md]

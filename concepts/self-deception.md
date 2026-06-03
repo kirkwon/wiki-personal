@@ -1,0 +1,35 @@
+---
+type: concept
+title: Self-Deception
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- cognitive-bias
+- psychology
+- mental-model
+sources:
+- Deception.md
+related:
+- deception
+- dan-ariely
+- the-honest-truth-about-dishonesty
+- confirmation-bias
+- illusion-of-control
+- morality-and-decision-making
+---
+-
+# Self-Deception
+
+Self-deception is the process by which people construct false beliefs about themselves to maintain a positive self-image while still engaging in dishonest or unethical behavior. It is central to Ariely's research on dishonesty and connects to broader themes in cognitive bias and motivated reasoning.
+
+## Key Aspects
+
+- People cheat not because they are inherently dishonest but because they can rationalize the behavior
+- Self-deception allows individuals to maintain a moral self-concept while still benefiting from dishonest acts
+- The mechanism parallels [[confirmation-bias]]—seeking information that supports the desired self-narrative
+- Tied to [[illusion-of-control]], where people overestimate their ethical boundaries
+
+## Connection to Deception Model
+
+Self-deception is the core mechanism underlying the [[deception]] mental model. Dan Ariely's experiments demonstrate that self-deception is not rare but widespread, and that it operates below conscious awareness for many people.
+---

@@ -1,0 +1,50 @@
+---
+source_url: https://example.com/the-systems-bible-john-gall
+ingested: 2026-04-17
+sha256: a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2
+title: The Systems Bible - John Gall
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+
+# The Systems Bible - John Gall
+
+**The Systems Bible** by John Gall is a foundational text on systems thinking, offering practical frameworks for understanding why complex systems behave in predictable, often frustrating ways. The book's central insight is **Gall's Law**: "A complex system that works is invariably found to have evolved from a simple system that worked." Rather than designing complexity upfront, Gall advocates for evolving systems incrementally from simple, working foundations.
+
+## Core Concepts
+
+### The Fundamental Theorem of Systems
+"New systems generate new problems." Every system change or creation inevitably introduces new challenges and unintended consequences. This theorem underscores the need for humility and ongoing monitoring when building or modifying systems.
+
+### Gall's Law
+The central prescription of the book. Complex working systems must evolve from simple working systems—they cannot be designed whole. This directly informs approaches to system design, software development, organizational management, and any domain involving emergent complexity.
+
+### System Replacement vs. Repair
+Gall argues that the only effective fix for a broken system is often replacement, not patching. Incremental fixes tend to fail and accumulate technical debt. The book provides a framework for deciding when to abandon a system entirely versus when incremental repair is sufficient.
+
+### Systems Don't Do What You Want Them To
+Systems inevitably fail to meet expectations and produce unintended consequences. This is not a flaw to be eliminated but a fundamental property of systems behavior.
+
+### Unintended Consequences
+Every system change generates outcomes beyond its intended purpose. Unintended consequence analysis is a key tool for anticipating and managing these emergent behaviors.
+
+## Key Chapters
+
+- **Chapter 1: The Systems Primer** — Introduces the fundamental nature of systems
+- **Chapter 2: The Fundamental Theorem of Systems** — "New systems generate new problems"
+- **Chapter 3: Systems Don't Do What You Want Them To** — Expectations vs. reality
+- **Chapter 4: Systems Don't Know They're Systems** — Lack of self-awareness in systems
+- **Chapter 5: Systems Are Always Running Late** — Temporal degradation
+- **Chapter 6: Systems Always Get Worse** — Gall's Law
+- **Chapter 7: Systems Are Never Fixed, They're Always Being Fixed** — Perpetual maintenance
+- **Chapter 8: The Only Way to Fix a System Is to Replace It** — Replacement over repair
+- **Chapter 9: Systems Don't Have a Point of No Return** — Abandonment as option
+- **Chapter 10: The Grand System of Systems** — Meta-systems and interactions
+
+## When to Stop Applying Systems Thinking
+The book warns against over-application: when analysis becomes an excuse for inaction, when simple problems are over-analyzed, when Gall's Law is used to justify never building complex systems, or when "systems thinking" becomes a buzzword.
+
+## Connections to Other Sources
+This work connects to [[antifragility]], [[infinite-game-mindset]], [[systematic-decision-making]], [[decomposing-and-recombining]], and [[decision-making-frameworks]].
+---

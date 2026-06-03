@@ -1,0 +1,55 @@
+---
+type: concept
+title: Organization as a Mental Model
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Organization.md
+related:
+- management
+- planning
+- recipes-mental-model
+- environment
+- the-five-dysfunctions-of-a-team
+- leaders-eat-last---simon-sinek
+- the-fifth-discipline---peter-m-senge
+confidence: medium
+---
+-
+# Organization as a Mental Model
+
+Organization is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.^[raw/articles/Organization.md]
+
+This mental model is positioned as universal in applicability, applicable across all domains where complex systems and relationships need to be understood. It differs from narrower concepts like management or planning by emphasizing pattern recognition across the entire structure of a situation rather than prescribing specific actions.^[raw/articles/Organization.md]
+
+## Cross-Source Perspectives
+
+### Peter M. Senge – Systems Thinking
+Senge's work in *The Fifth Discipline* approaches organizations as dynamic, learning systems. His systems thinking framework emphasizes feedback loops, interdependencies, and the importance of seeing the whole rather than isolated parts. This aligns with organization as a mental model by treating organizations as complex adaptive systems where patterns emerge from interactions.^[raw/articles/Organization.md]
+
+### Simon Sinek – Leadership and Culture
+Sinek's *Leaders Eat Last* focuses on how leaders build cultures of trust and cooperation within organizations. His emphasis on creating safe environments where people feel valued connects to the organizational dimension of this mental model—how structure and culture shape behavior and outcomes.^[raw/articles/Organization.md]
+
+## Relationship to Existing Mental Models
+
+Organization sits alongside other universal mental models in the wiki such as [[planning]], [[management]], and [[recipes-mental-model]]. While planning emphasizes forward-looking pattern recognition and management focuses on execution and control, organization as a mental model emphasizes the structural and relational patterns that underlie complex situations. It is closely related to [[environment]] as both concern the conditions and context that shape outcomes.^[raw/articles/Organization.md]
+
+## Open Questions
+
+- How does organization differ from management as a mental model in practice?
+- What specific patterns should one look for when applying this model?
+- How does this model interact with team dynamics concepts like [[the-five-dysfunctions-of-a-team]]?
+
+## See Also
+
+- [[the-fifth-discipline---peter-m-senge]]
+- [[leaders-eat-last---simon-sinek]]
+- [[management]]
+- [[planning]]
+- [[recipes-mental-model]]
+- [[environment]]
+- [[the-five-dysfunctions-of-a-team]]
+---

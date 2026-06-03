@@ -1,0 +1,25 @@
+---
+type: source
+title: Delegation Source
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- productivity
+sources:
+- Delegation.md
+---
+-
+# Delegation Source
+
+## Summary
+Delegation is identified as a universal mental model applicable across domains. The source references David Allen's "Making It All Work" as the primary source for this framework. The entry is minimal, providing a conceptual definition of delegation as a tool for navigating complexity through pattern recognition.
+
+## Key Claims
+- Delegation functions as a mental shortcut for making sense of patterns and relationships in complex situations.
+- Applicable universally across domains.
+- Cross-referenced with David Allen's productivity work.
+
+## Assessment
+Confidence: 0.7 — very thin source with limited elaboration.
+---

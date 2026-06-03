@@ -1,0 +1,88 @@
+---
+type: concept
+title: IRMAA
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- personal-finance
+- taxes
+- retirement
+- medicare
+- healthcare
+sources:
+- Tax Torpedoes.md
+- Healthcare Costs in Retirement.md
+related:
+- tax-torpedoes-in-retirement
+- provisional-income
+- social-security-taxation
+- tax-torpedoes
+- healthcare-costs-in-retirement
+- retirement-planning
+---
+--
+# IRMAA — Income-Related Monthly-Adjusted Amount
+
+IRMAA is an income-based surcharge on Medicare premiums for Part B (medical) and Part D (prescription drug). Higher income directly increases Medicare costs, making it a key component of tax torpedo risk in retirement.^[Tax Torpedoes.md] It can add thousands of dollars annually to healthcare costs in retirement.
+
+## How IRMAA Works
+
+Higher income results in higher Medicare premiums. The surcharge is determined by Modified Adjusted Gross Income (MAGI), which includes taxable income, tax-exempt interest, and Social Security benefits (but not Roth conversions from after-tax contributions).
+
+- Applied to Part B and Part D premiums based on Modified Adjusted Gross Income (MAGI)
+- Higher income → higher surcharge tier
+- Can add thousands of dollars per year for couples
+
+## 2024 IRMAA Thresholds
+
+| Filing Status | Part B/D Surcharge Starts |
+|---------------|---------------------------|
+| Single | $103,000 |
+| Joint | $206,000 |
+| Higher brackets | $137,700 (single), $275,400 (joint) |
+
+## Premium Increases by Income Bracket (2024)
+
+| Income Range | Part B Surcharge | Part D Surcharge | Total Annual |
+|--------------|------------------|------------------|--------------|
+| $103,000–$129,000 | $174.70 | $12.90 | $2,251.20 |
+| $129,000–$161,000 | $348.40 | $35.60 | $4,716.00 |
+| $161,000–$193,000 | $522.10 | $70.80 | $7,181.20 |
+| $193,000–$500,000 | $697.20 | $99.90 | $9,573.60 |
+| $500,000+ | $697.20 | $99.90 | $9,573.60 |
+
+## IRMAA Impact Example
+
+**Scenario**: 68-year-old couple, joint income $220,000
+- Standard Part B: $174.70 × 2 = $349.40/month
+- IRMAA Tier 2 surcharge: +$348.40 × 2 = $696.80/month extra
+- Total Part B: $1,046.20/month ($12,554/year)
+- Without IRMAA: $4,193/year
+- **IRMAA cost**: $8,361/year additional
+- **Lifetime impact over 20 years**: $167,000+ in extra premiums
+
+## IRMAA as a Tax Torpedo
+
+Roth conversions or large RMDs that push income into IRMAA brackets can increase Medicare premiums by $500–$1,000+ per month and create higher taxable income that pushes into higher tax brackets, potentially negating the tax benefits of Roth conversions.^[Tax Torpedoes.md]
+
+## Strategies to Minimize IRMAA
+
+- Monitor income levels carefully and use Roth conversions strategically to stay below IRMAA thresholds.
+- Time income sources to stay below IRMAA thresholds.
+- Consider partial Roth conversions spread across multiple years.
+- Plan for healthcare cost increases as premiums escalate with age.
+- Roth conversions before retirement — keep income low.
+- Qualified charitable distributions (QCDs) from IRAs.
+- Tax-loss harvesting in taxable accounts.
+- Timing of capital gains.
+- HSA distributions for qualified medical expenses (tax-free).
+- Consider timing of income sources relative to Medicare eligibility.
+
+## See Also
+- [[tax-torpedoes-in-retirement]]
+- [[tax-torpedoes]]
+- [[provisional-income]]
+- [[social-security-taxation]]
+- [[Tax Torpedoes]]
+- [[Healthcare Costs in Retirement]]
+- [[Health Savings Account Strategy]]

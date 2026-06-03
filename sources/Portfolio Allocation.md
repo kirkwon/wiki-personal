@@ -1,0 +1,16 @@
+---
+type: source
+title: Portfolio Allocation
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- personal-finance
+sources:
+- Portfolio Allocation.md
+---
+--
+# Portfolio Allocation
+
+This source is a minimal metadata stub with no substantive content. It references a skill entry titled "Portfolio Allocation" with confidence 0.7, low priority, last reviewed April 2026, and no sources or datasets attached.
+
+No specific entities, concepts, or frameworks are documented in this source. The topic relates to existing wiki content on personal finance, investment strategies, and decision-making frameworks.

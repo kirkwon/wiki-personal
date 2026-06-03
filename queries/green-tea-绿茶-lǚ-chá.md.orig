@@ -1,0 +1,409 @@
+---
+created: '2026-04-24'
+sources:
+- raw/ingested/Gastronomy/Beverages/Tea/Types/Green Tea.md
+tags:
+- general
+- tea
+title: Green Tea (绿茶 - Lǚ Chá)
+type: query
+updated: '2026-04-24'
+---
+
+
+# Green Tea (绿茶 - Lǚ Chá)
+
+
+## Quick Reference
+
+### Field**: [[Beverages/Tea]]
+### Type**: Tea Category
+### Oxidation Level**: 0-10% (minimal)
+### Processing**: Heat-treated to prevent oxidation
+### Caffeine Level**: Low-Medium (20-45mg per 8oz)
+### Color Profile**: Green to yellow-green, clear liquor
+### Best For**: Daily drinking, health benefits, light refreshment
+
+
+
+## Summary
+
+Green tea is the least processed tea category, made by heating fresh tea leaves immediately after picking to prevent oxidation. This preserves the natural compounds and delicate flavors that make green tea famous for its health benefits and refreshing taste. From Chinese dragon wells to Japanese sencha, green tea offers incredible diversity within its minimal processing framework.
+
+## Processing Method
+
+### Traditional Process
+```yaml
+Steps:
+1. **Plucking**: Harvest young, tender leaves and buds
+2. **Withering**: Brief withering (1-4 hours) to reduce moisture
+3. **Fixation**: Heat treatment to kill enzymes and prevent oxidation
+4. **Rolling**: Shape the leaves and break cell walls
+5. **Drying**: Final drying to remove remaining moisture
+6. **Sorting**: Grade by quality, size, and appearance
+
+Key Technique: Fixation timing and temperature control
+```
+
+### Fixation Methods
+```yaml
+China (Stir-frying):
+- Method: Wok or pan heated to high temperature
+- Temperature: 212-302°F (100-150°C)
+- Time: Short, 5-10 minutes
+- Effect: More complex, slightly roasted flavors
+- Best For: Dragon Well, Biluochun
+
+Japan (Steaming):
+- Method: Steam leaves at high temperature
+- Temperature: 176-212°F (80-100°C) 
+- Time: 30-90 seconds
+- Effect: More vegetal, fresh, bright
+- Best For: Sencha, Gyokuro, Matcha
+```
+
+## Flavor Profile
+
+### Primary Characteristics
+- **Freshness**: Delicate, new growth flavors
+- **Vegetal**: Grass, spinach, asparagus notes
+- **Floral**: Lily, orchid, light floral notes
+- **Nutty**: Toasted almond, chestnut
+- **Umami**: Savory, brothy quality
+
+### Taste Spectrum
+```yaml
+Light & Delicate:
+- Notes: Fresh grass, lettuce, young shoots
+- Body: Light, crisp
+- Acidity: Bright, refreshing
+- Teas: Baihao Yinzhen, Early Spring Dragon Well
+
+Nutty & Toasted:
+- Notes: Almond, chestnut, roasted grains
+- Body: Medium, smooth
+- Acidity: Balanced
+- Teas: Gunpowder, Hojicha (roasted)
+
+Marine & Seaweed:
+- Notes: Seaweed, ocean, mineral
+- Body: Medium-light, clean
+- Acidity: Brisk, lively
+- Teas: Sencha, Fukamushi
+```
+
+## Major Varieties by Origin
+### Major Varieties by Origin
+
+**Dragon Well (Longjing)**
+- **Origin**: Hangzhou, Zhejiang Province
+- **Processing**: Pan-fired, flattened leaves
+- **Flavor**: Chestnut, vegetal, smooth, complex
+- **Appearance**: Flat, green leaves, pale liquor
+- **Best Brew**: 160-175°F (71-80°C), 2-3 minutes
+- **Special Note**: Considered one of China's finest green teas, famous for its "four wonders": flat leaves, emerald color, fresh aroma, mellow taste
+
+**Biluochun**
+- **Origin**: Jiangsu Province
+- **Processing**: Hand-rolled into spiral shape
+- **Flavor**: Fruity, floral, delicate
+- **Appearance**: Spiral-shaped green leaves
+- **Best Brew**: 160-170°F (71-77°C), 2-3 minutes
+
+**Gunpowder**
+- **Origin**: Zhejiang Province
+- **Processing**: Rolled into small pellets
+- **Flavor**: Toasted, nutty, strong
+- **Appearance**: Small pellets, unfurl when brewed
+- **Best Brew**: 180-190°F (82-88°C), 3-4 minutes
+
+**Pi Lo Chun (Baihao Yinzhen)**
+- **Origin**: Jiangsu Province
+- **Processing**: Minimal processing, downy buds
+- **Flavor**: Delicate, floral, sweet
+- **Appearance**: Silvery down, white-tipped
+- **Best Brew**: 160-165°F (71-74°C), 1-2 minutes
+
+### Japanese Green Teas
+**Sencha**
+- **Origin**: All major tea-growing regions
+- **Processing**: Steamed, then rolled
+- **Flavor**: Marine, seaweed, grassy
+- **Appearance**: Long, needle-shaped leaves
+- **Best Brew**: 175-185°F (79-85°C), 1-2 minutes
+
+**Gyokuro**
+- **Origin**: Uji, Kyoto Prefecture
+- **Processing**: Shade-grown, steamed
+- **Flavor**: Deep umami, sweet, complex
+- **Appearance**: Dark green, needle-like
+- **Best Brew**: 140-160°F (60-71°C), 2-3 minutes
+
+**Matcha**
+- **Origin**: Uji, Kyoto Prefecture
+- **Processing**: Shade-grown, stone-ground powder
+- **Flavor**: Rich, creamy, umami-forward
+- **Appearance**: Fine green powder
+- **Best Brew**: 175°F (80°C), whisked to froth
+
+**Hojicha**
+- **Origin**: Kyoto region
+- **Processing**: Roasted green tea leaves
+- **Flavor**: Toasted, nutty, low caffeine
+- **Appearance**: Brownish-green leaves
+- **Best Brew**: 195-212°F (90-100°C), 2-3 minutes
+
+### Other Green Teas
+**Vietnamese Green Tea**
+- **Origin**: Northern Vietnam
+- **Processing**: Traditional steaming methods
+- **Flavor**: Light, slightly floral, refreshing
+- **Appearance**: Long, twisted leaves
+- **Best Brew**: 180-190°F (82-88°C), 3-4 minutes
+
+**Indian Green Tea**
+- **Origin**: Darjeeling, Assam
+- **Processing**: Light oxidation, minimal processing
+- **Flavor**: Malty, slightly floral, light
+- **Appearance**: Dark green, tippy
+- **Best Brew**: 175-185°F (79-85°C), 2-3 minutes
+
+## Brewing Recommendations
+
+### Western Style Brewing
+```yaml
+Equipment:
+- Teapot or mug (preferably glass)
+- Teaspoon measuring spoon
+- Kettle with temperature control
+- Timer
+
+Parameters:
+- Water Temperature: 160-180°F (71-82°C)
+- Tea Amount: 1 tsp per 8 oz water
+- Steeping Time: 2-3 minutes
+- Multiple Infusions: Possible, reduces time with each
+
+Process:
+1. Pre-warm vessel
+2. Add tea leaves
+3. Pour water at correct temperature
+4. Set timer
+5. Remove leaves when time is up
+6. Serve immediately
+```
+
+### Japanese Style Brewing
+```yaml
+For Sencha:
+- Temperature: 175-185°F (79-85°C)
+- Amount: 2 tsp per 6 oz water
+- Time: 1-2 minutes
+- Technique: Pour gently, avoid agitation
+
+For Gyokuro:
+- Temperature: 140-160°F (60-71°C)
+- Amount: 2-3 tsp per 6 oz water
+- Time: 2-3 minutes
+- Technique: Lower temperature, longer steep
+
+For Matcha:
+- Temperature: 175°F (80°C)
+- Amount: 2 tsp matcha per 6 oz water
+- Technique: Whisk vigorously to froth
+```
+
+### Gongfu Style Brewing
+```yaml
+Equipment:
+- Gaiwan or small teapot
+- Strainer
+- Small cups
+- Gaiwan tray
+
+Parameters:
+- Tea Amount: 4-6g per 100ml water
+- Water Temperature: 160-180°F (71-82°C)
+- Infusion Times: 30 seconds, increasing by 15s each time
+- Total Infusions: 3-5 times possible
+
+Process:
+1. Rinse tea briefly with hot water
+2. First infusion: 30 seconds
+3. Subsequent infusions: 45s, 1m, 1.5m, etc.
+4. Serve in small cups
+5. Enjoy the changing flavor profile
+```
+
+## Health Benefits
+
+### Key Compounds
+```yaml
+Catechins:
+- Epigallocatechin gallate (EGCG): Powerful antioxidant
+- Epicatechin: Heart health benefits
+- Catechins: Cancer-fighting properties
+
+L-theanine:
+- Amino acid promoting relaxation
+- Improves focus without drowsiness
+- Counterbalances caffeine effects
+
+Polyphenols:
+- Anti-inflammatory properties
+- May help with weight management
+- Support cardiovascular health
+```
+
+### Scientific Evidence
+- **Antioxidant**: High ORAC value, free radical scavenging
+- **Heart Health**: Associated with reduced cardiovascular risk
+- **Brain Health**: L-theanine improves cognitive function
+- **Cancer Prevention**: Some studies suggest reduced risk
+- **Weight Management**: May aid metabolism and fat burning
+
+## Storage & Freshness
+
+### Optimal Storage Conditions
+```yaml
+Environment:
+- Airtight container: Glass or ceramic with tight lid
+- Cool temperature: 50-70°F (10-21°C)
+- Dark place: Away from light exposure
+- Dry conditions: Low humidity environment
+
+Shelf Life:
+- Loose leaf: 6-12 months maximum
+- Vacuum sealed: 12-18 months
+- Refrigerated: 12-24 months (slight improvement)
+- Freezing: Not recommended (can damage leaves)
+```
+
+### Freshness Indicators
+```yaml
+Visual:
+- Color: Vibrant green, not dull or brown
+- Leaves: Intact, not broken or dusty
+- Texture: Flexible, not brittle
+
+Olfactory:
+- Aroma: Fresh, vegetal, not musty
+- Intensity: Should release fragrance when handled
+
+Taste:
+- First infusion: Fresh, bright, not stale
+- Aftertaste: Clean, lingering freshness
+- Complexity: Should have multiple flavor notes
+```
+
+## Serving Suggestions
+
+### Food Pairings
+```yaml
+Light Meals:
+- Seafood: Grilled fish, sushi
+- Salads: Green salads, vegetable dishes
+- Eggs: Soft boiled, omelets
+- Rice: Light rice dishes
+
+Desserts:
+- Fruit: Fresh berries, melon
+- Light sweets: Green tea mochi, matcha desserts
+- Ice cream: Green tea ice cream
+
+---
+Avoid:
+- Heavy, fatty foods
+- Strongly spiced dishes
+- Very sweet desserts
+```
+
+### Seasonal Serving
+```yaml
+Spring:
+- Serve chilled for refreshment
+- Pair with light meals
+- Enjoy in garden settings
+
+Summer:
+- Iced green tea preparation
+- Add citrus or mint
+- Serve in tall glasses
+
+Fall:
+- Warm brewing method
+- Pair with light pastries
+- Enjoy in comfortable settings
+
+Winter:
+- Hearty brewing with longer steeping
+- Pair with simple desserts
+- Serve in warm teapots
+```
+
+## Cultural Significance
+
+### China: Tea as Art
+- **History**: 4,000+ years of tradition
+- **Philosophy**: Tea as meditation, art form
+- **Ceremony**: Gongfu tea tradition
+- **Respect**: Connection to nature and tradition
+
+### Japan: Tea Culture
+- **Zen Influence**: Tea ceremony (Chanoyu)
+- **Precision**: Meticulous preparation
+- **Aesthetics**: Beauty in simplicity and imperfection
+- **Mindfulness**: Present moment awareness
+
+### Global Influence
+- **Health Movement**: Western wellness focus
+- **Cultural Exchange**: Global tea traditions
+- **Sustainability**: Ethical production practices
+- **Innovation**: New processing methods and products
+
+## Common Mistakes
+
+### Brewing Errors
+```yaml
+Water Temperature:
+- Too Hot: Burns delicate leaves, creates bitterness
+- Too Cold: Under-extracts, weak flavor
+- Solution: Use thermometer, proper kettle technique
+
+Steeping Time:
+- Too Long: Extracts bitter compounds, loses balance
+- Too Short: Under-extracts, weak flavor
+- Solution: Use timer, adjust based on taste amount
+
+Water Quality:
+- Tap Water: Chlorine affects flavor
+- Hard Water: Minerals interfere with extraction
+- Solution: Use filtered water, proper pH
+```
+
+### Storage Issues
+```yaml
+Exposure to Light:
+- UV rays degrade tea compounds
+- Color fade indicates quality loss
+- Solution: Airtight, opaque containers
+
+Moisture Exposure:
+- Mold growth, flavor contamination
+- Premature aging
+- Solution: Dry storage, airtight containers
+
+Temperature Fluctuations:
+- Condensation damage
+- Quality degradation
+- Solution: Consistent, cool storage
+```
+
+## See Also
+- [[Tea Types/White Tea]] - Minimal processing, even less than green
+- [[Tea Types/Black Tea]] - Fully oxidized, completely different
+- [[Tea Preparation/Western Brewing]] - Brewing methods for green tea
+- [[Beverages/Tea/Index]] - Complete tea overview
+
+---
+*Green tea page created: 2026-04-21*

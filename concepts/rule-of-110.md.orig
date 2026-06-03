@@ -1,0 +1,33 @@
+---
+
+type: concept
+title: Rule of 110 (Asset Allocation)
+created: 2026-04-29
+updated: 2026-05-09
+tags:
+- personal-finance
+- investing
+sources:
+- I Will Teach You to Be Rich.md
+related:
+- index-fund-investing-passive
+- i-will-teach-you-to-be-rich-ramit-sethi
+- personal-finance
+- investing-strategies-for-life-satisfaction
+----
+# Rule of 110 (Asset Allocation)
+
+A simple heuristic for determining stock and bond allocation: subtract your age from 110 to get the percentage of your portfolio to hold in stocks.
+
+## Examples
+- Age 25: 85% stocks, 15% bonds
+- Age 35: 75% stocks, 25% bonds
+- Age 45: 65% stocks, 35% bonds
+- Age 55: 55% stocks, 45% bonds
+
+## Alternative
+Use a target-date fund (e.g., VTTHX for 2055 retirement) which automatically adjusts allocation as you age, requiring zero maintenance.
+
+## See Also
+[[index-fund-investing-passive]] | [[i-will-teach-you-to-be-rich-ramit-sethi]] | [[personal-finance]]
+^[raw/articles/I Will Teach You to Be Rich.md]

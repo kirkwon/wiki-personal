@@ -1,0 +1,51 @@
+---
+type: concept
+title: Deception
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- cognitive-bias
+- decision-making
+sources:
+- Deception.md
+related:
+- dan-ariely
+- the-honest-truth-about-dishonesty
+- cognitive-biases-library
+- confirmation-bias
+- illusion-of-control
+- ascription-bias
+- morality-and-decision-making
+- self-deception
+confidence: medium
+---
+# Deception
+
+Deception is a universal mental model—a conceptual tool for navigating complex situations through pattern recognition. It provides a mental shortcut for making sense of patterns and relationships in the world, particularly around dishonesty, self-deception, and motivated reasoning.
+
+## Core Idea
+
+People are not purely selfish but engage in motivated reasoning to maintain a positive self-image while still cheating or being dishonest. Small dishonest acts escalate when rationalization is possible, and the distance from money or consequences reduces ethical friction.
+
+## Ariely's Contributions
+
+Dan Ariely's experiments in *The Honest Truth About Dishonesty* provide empirical grounding:
+- **Rubber band experiment**: People cheat more when they can rationalize the act
+- **Distance from money**: Physical and psychological distance from money makes dishonesty easier
+- **Cheating spectrum**: Dishonesty is not all-or-nothing; people find a "sweet spot" where they can deceive without fully breaking their self-concept
+
+## Connections
+
+This model connects to several existing wiki concepts:
+- [[cognitive-biases-library]] — self-deception as a bias
+- [[confirmation-bias]] — motivated reasoning parallels
+- [[illusion-of-control]] — overestimating one's ethical boundaries
+- [[ascription-bias]] — attributing different standards to self vs others
+- [[morality-and-decision-making]] — ethical dimensions of choices
+- [[self-deception]] — core mechanism of the model
+
+## Limitations
+
+The current source is a stub with only one cross-reference. The model is underdeveloped relative to its claimed universal applicability, and would benefit from additional sources and deeper empirical grounding.
+---

@@ -1,0 +1,17 @@
+---
+type: summary
+title: Signal-to-Noise Control
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- skill
+sources:
+- Signal-to-Noise Control.md
+---
+-
+# Signal-to-Noise Control
+
+This source is a metadata stub — a placeholder skill card with no substantive content, no sources, and no description. It names a skill ("Signal-to-Noise Control"), assigns low priority and moderate confidence (0.7), but provides no domain, no explanation, and no references.
+
+No claims, evidence, or findings exist in this file. No connections to existing wiki pages are established.
+---

@@ -1,0 +1,60 @@
+---
+
+source_url: ''
+ingested: 2026-05-03
+sha256: 7e343fc69c8a3ec4714c33b6208c6367daa0177d9f4fd8c8a860bc2f79dc0248
+title: The Lean Startup - Eric Ries
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+----
+
+# The Lean Startup - Eric Ries
+
+## Summary
+
+Eric Ries's *The Lean Startup* (2024) introduces a methodology for building products and businesses under conditions of extreme uncertainty. The core idea is that traditional business planning fails when the future is unknowable, so startups should instead run rapid experiments to validate assumptions. The central mechanism is the Build-Measure-Learn feedback loop: build a Minimum Viable Product (MVP), measure customer response, learn from the data, and iterate.
+
+Key concepts include:
+- **Validated learning**: Structured learning through experiments rather than intuition or vanity metrics.
+- **MVP**: The smallest version of a product that enables validated learning with real customers.
+- **Build-Measure-Learn loop**: Rapid cycle of building, measuring, and learning.
+- **Innovation accounting**: Alternative metrics that track meaningful progress (customer retention, engagement) rather than vanity metrics.
+- **Pivot or Persevere**: Decision framework for when to change direction based on evidence vs. when to stay the course.
+- **Small batch production**: Doing work in small increments to shorten feedback cycles and reduce waste.
+- **Startup as experiment**: Treating a new venture as a series of hypotheses to be tested rather than a plan to be executed.
+
+The book is organized into three parts: Vision (chapters 1-8), Steer (chapters 9-13), and Accelerate (chapters 14-20). It emphasizes speed, iteration, and learning from failure while warning against experimentation becoming procrastination or pivoting without learning.
+
+## Core Concepts
+
+The methodology treats all startup activities as experiments. Each feature, campaign, or initiative is a hypothesis to be tested. The goal is not just to build things but to learn what customers actually want. This connects to broader themes of decision-making under uncertainty, probabilistic thinking, and real-options analysis—treating decisions as flexible options rather than fixed commitments.
+
+## When to Use
+
+- Starting a new business or product
+- Validating assumptions before building
+- Making decisions under uncertainty
+- Innovating within an existing organization
+- Reducing risk in new ventures
+
+## Key Tools
+
+- Build-Measure-Learn feedback loop
+- Minimum Viable Product (MVP) development
+- Validated learning experiments
+- Customer development interviews
+- Innovation accounting
+- Pivot or persevere decision framework
+- Small batch production
+- A/B testing and experimentation
+- Continuous deployment and iteration
+- Customer discovery and validation
+
+## Measurement
+
+Track validated learning progress, customer engagement and retention, experiments conducted and insights gained, pivot decisions and outcomes, iteration speed and efficiency, and sustainable growth metrics—rather than just output or vanity metrics.
+
+## When to Stop
+
+Stop when the MVP becomes an excuse for poor quality, iteration becomes chaotic, you're constantly pivoting without learning, experimentation becomes procrastination, or you're optimizing for metrics that don't matter.

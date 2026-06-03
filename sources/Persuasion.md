@@ -1,0 +1,21 @@
+---
+type: source
+title: Persuasion Source
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Persuasion.md
+---
+--
+# Persuasion Source
+
+This source defines persuasion as a universal mental model for navigating complex situations. It references Robert B. Cialdini's book *Influence: The Psychology of Persuasion* as the foundational source for this conceptual tool.
+
+## Cross-Source Perspectives
+The persuasion mental model is linked to Cialdini's work, which outlines six key principles of influence: reciprocity, commitment and consistency, social proof, authority, liking, and scarcity.
+
+## Sources Referenced
+- [[influence-the-psychology-of-persuasion---robert-b-cialdini]]

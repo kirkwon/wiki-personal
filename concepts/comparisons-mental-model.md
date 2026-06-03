@@ -1,0 +1,54 @@
+---
+type: concept
+title: Comparisons (mental model)
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- comparison
+- decision-making
+sources:
+- Comparisons.md
+related:
+- framing-effects
+- decision-making-frameworks
+- cognitive-biases-library
+- biases
+- decision-quality-vs-outcome-quality
+- decision-tracking
+- dual-process-theory
+confidence: medium
+---
+--
+# Comparisons (mental model)
+
+Comparisons is a universal mental model that serves as a conceptual tool for understanding and navigating complex situations. It provides a cognitive shortcut or framework for making sense of patterns and relationships in the world.^[raw/articles/Comparisons.md]
+
+## Definition
+
+Comparisons help people evaluate options, make decisions, and understand complex systems by relating new information to existing knowledge, prior experiences, or other reference points. This mental model recognizes that much of human judgment is inherently comparative rather than absolute.
+
+## Core Principles
+
+- **Relativity in judgment**: People evaluate things relatively rather than absolutely. Dan Ariely's research in Predictably Irrational demonstrates that valuation is shaped by what options are available for comparison, not by intrinsic worth.^[Predictably Irrational - Dan Ariely]
+- **Anchoring effect**: Initial comparisons serve as anchors that bias subsequent evaluations and decisions.
+- **Distortion through comparison**: Poor or misleading comparison bases can lead to distorted preferences, suboptimal choices, and misaligned priorities.
+
+## Connections to Other Concepts
+
+- [[framing-effects]] — Comparison is closely related to how options are framed; both shape perception
+- [[decision-making-frameworks]] — Effective decision frameworks often explicitly manage comparisons
+- [[cognitive-biases-library]] — Comparison-related biases include anchoring, relativity bias, and contrast effects
+- [[decision-quality-vs-outcome-quality]] — Comparing decision quality (process) vs outcome quality highlights the difference between good processes and lucky results
+- [[decision-tracking]] — Tracking decisions raises the question of whether one is tracking against good comparison bases
+- [[dual-process-theory]] — Comparative shortcuts may operate more in fast, intuitive thinking
+
+## Open Questions
+
+- How does reliance on comparisons interact with [[inattention-to-results]]?
+- Does using comparison-based reasoning lead to tracking poor comparison bases?
+- When should one deliberately avoid comparisons to make more objective judgments?
+
+## Sources
+
+- Dan Ariely, Predictably Irrational

@@ -1,0 +1,1308 @@
+#!/usr/bin/env python3
+"""
+Create Skills Dashboard Pro - Modern Dark Theme with Sidebar
+Based on design reference: ~/Downloads/0000.png
+"""
+
+import json
+import re
+from datetime import datetime
+from pathlib import Path
+
+print("🎨 CREATING MODERN DARK DASHBOARD WITH SIDEBAR")
+print("=" * 80)
+
+# Load the rich data
+data_file = Path("skills_data_fixed.json")
+with open(data_file, 'r') as f:
+    data = json.load(f)
+
+print(f"✅ Loaded data: {len(data['all_skills'])} skills")
+
+# Prepare data
+total_skills = len(data['all_skills'])
+total_tags = len(data['all_tags'])
+total_books = len(set(book for skills in data['skills_by_tag'].values() for _, book in skills))
+multi_tag = len(data['multi_tag_skills'])
+overlaps = len(data['overlaps'])
+
+# Create the HTML with modern dark theme
+html = f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Dashboard Pro</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }}
+
+        body {{
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #1a1f36;
+            color: #e2e8f0;
+            display: flex;
+            min-height: 100vh;
+            line-height: 1.6;
+            letter-spacing: -0.01em;
+        }}
+
+        /* Reading Progress Indicator */
+        #progress-container {{
+            position: fixed;
+            top: 0;
+            left: 280px;
+            right: 0;
+            height: 3px;
+            background: rgba(99, 102, 241, 0.1);
+            z-index: 1001;
+        }}
+
+        #progress-bar {{
+            height: 100%;
+            background: linear-gradient(90deg, #6366f1 0%, #8b5cf6 50%, #a78bfa 100%);
+            width: 0%;
+            transition: width 0.1s ease-out;
+            box-shadow: 0 0 10px rgba(99, 102, 241, 0.5);
+        }}
+
+        /* Sidebar */
+        .sidebar {{
+            width: 280px;
+            background: rgba(30, 37, 64, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-right: 1px solid rgba(255, 255, 255, 0.08);
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            z-index: 100;
+        }}
+
+        .sidebar-header {{
+            padding: 32px 24px 24px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }}
+
+        .sidebar-brand {{
+            font-family: 'Space Grotesk', 'Inter', sans-serif;
+            font-size: 22px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 6px;
+            letter-spacing: -0.02em;
+            text-transform: none;
+            background: linear-gradient(135deg, #fff 0%, #a78bfa 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }}
+
+        .sidebar-tagline {{
+            font-size: 11px;
+            font-weight: 500;
+            color: #94a3b8;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+        }}
+
+        .nav-section {{
+            padding: 20px 0;
+        }}
+
+        .nav-header {{
+            font-family: 'Space Grotesk', 'Inter', sans-serif;
+            font-size: 10px;
+            font-weight: 700;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            padding: 0 24px;
+            margin-bottom: 12px;
+        }}
+
+        .nav-item {{
+            display: flex;
+            align-items: center;
+            padding: 14px 24px;
+            color: #cbd5e1;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border-left: 3px solid transparent;
+            font-weight: 500;
+            font-size: 14px;
+            letter-spacing: -0.01em;
+            position: relative;
+            overflow: hidden;
+        }}
+
+        .nav-item::before {{
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 100%;
+            background: linear-gradient(90deg, rgba(99, 102, 241, 0.1) 0%, rgba(139, 92, 246, 0.05) 100%);
+            transition: width 0.3s ease;
+        }}
+
+        .nav-item:hover::before {{
+            width: 100%;
+        }}
+
+        .nav-item:hover {{
+            background: rgba(255, 255, 255, 0.05);
+            color: #fff;
+            padding-left: 28px;
+            transform: translateX(2px);
+        }}
+
+        .nav-item.active {{
+            background: linear-gradient(90deg, rgba(99, 102, 241, 0.2) 0%, rgba(139, 92, 246, 0.1) 100%);
+            color: #fff;
+            border-left-color: #a78bfa;
+            font-weight: 600;
+            box-shadow: inset 0 0 20px rgba(99, 102, 241, 0.1);
+        }}
+
+        .nav-item.active::before {{
+            display: none;
+        }}
+
+        .nav-icon {{
+            width: 18px;
+            height: 18px;
+            margin-right: 14px;
+            opacity: 0.85;
+        }}
+
+        /* Main Content */
+        .main-content {{
+            flex: 1;
+            margin-left: 280px;
+            padding: 40px;
+            background: radial-gradient(circle at top right, rgba(99, 102, 241, 0.05), transparent 400px),
+                        radial-gradient(circle at bottom left, rgba(139, 92, 246, 0.05), transparent 400px);
+        }}
+
+        .content-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 40px;
+        }}
+
+        .header-title {{
+            font-family: 'Space Grotesk', 'Inter', sans-serif;
+            font-size: 36px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 8px;
+            letter-spacing: -0.03em;
+            line-height: 1.2;
+        }}
+
+        .header-subtitle {{
+            font-size: 14px;
+            font-weight: 500;
+            color: #94a3b8;
+            letter-spacing: 0.02em;
+        }}
+
+        .search-box {{
+            background: rgba(45, 55, 72, 0.6);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 12px 18px;
+            color: #e2e8f0;
+            font-size: 14px;
+            font-weight: 500;
+            width: 300px;
+            outline: none;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            letter-spacing: -0.01em;
+        }}
+
+        .search-box:focus {{
+            border-color: rgba(99, 102, 241, 0.5);
+            background: rgba(45, 55, 72, 0.8);
+            box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.1);
+            width: 340px;
+        }}
+
+        .search-box::placeholder {{
+            color: #64748b;
+            font-weight: 400;
+        }}
+
+        /* Stats Grid */
+        .stats-grid {{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+            margin-bottom: 40px;
+        }}
+
+        .stat-card {{
+            background: rgba(30, 37, 64, 0.6);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 28px;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+        }}
+
+        .stat-card:hover {{
+            transform: translateY(-6px);
+            background: rgba(30, 37, 64, 0.8);
+            border-color: rgba(99, 102, 241, 0.3);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3),
+                        0 0 20px rgba(99, 102, 241, 0.1);
+        }}
+
+        .stat-card::before {{
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at top left, rgba(255, 255, 255, 0.05), transparent 70%);
+            pointer-events: none;
+        }}
+
+        .stat-label {{
+            font-family: 'Space Grotesk', 'Inter', sans-serif;
+            font-size: 11px;
+            font-weight: 700;
+            color: #94a3b8;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }}
+
+        .stat-value {{
+            font-family: 'Space Grotesk', 'Inter', sans-serif;
+            font-size: 48px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 6px;
+            letter-spacing: -0.04em;
+            line-height: 1;
+            background: linear-gradient(135deg, #fff 0%, #cbd5e1 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }}
+
+        .stat-change {{
+            font-size: 12px;
+            font-weight: 500;
+            color: #10b981;
+            letter-spacing: 0.02em;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }}
+
+        /* Content Sections */
+        .section {{
+            background: rgba(30, 37, 64, 0.4);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 28px;
+            margin-bottom: 24px;
+        }}
+
+        .section-title {{
+            font-family: 'Space Grotesk', 'Inter', sans-serif;
+            font-size: 22px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 24px;
+            letter-spacing: -0.02em;
+            text-transform: none;
+        }}
+
+        /* Tables */
+        table {{
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin-top: 8px;
+        }}
+
+        th {{
+            background: rgba(45, 55, 72, 0.4);
+            padding: 16px 20px;
+            text-align: left;
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 700;
+            color: #94a3b8;
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        }}
+
+        th:first-child {{
+            border-top-left-radius: 12px;
+        }}
+
+        th:last-child {{
+            border-top-right-radius: 12px;
+        }}
+
+        td {{
+            padding: 16px 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+            color: #cbd5e1;
+            font-size: 14px;
+            transition: all 0.2s;
+        }}
+
+        tr {{
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }}
+
+        tr:hover td {{
+            background: rgba(255, 255, 255, 0.03);
+            color: #fff;
+        }}
+
+        tr:last-child td:first-child {{
+            border-bottom-left-radius: 12px;
+        }}
+
+        tr:last-child td:last-child {{
+            border-bottom-right-radius: 12px;
+        }}
+
+        .skill-link {{
+            color: #6366f1;
+            text-decoration: none;
+            font-weight: 600;
+            cursor: pointer;
+            letter-spacing: -0.01em;
+            position: relative;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }}
+
+        .skill-link::after {{
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 2px;
+            bottom: -2px;
+            left: 0;
+            background: linear-gradient(90deg, #6366f1, #8b5cf6);
+            transform: scaleX(0);
+            transform-origin: right;
+            transition: transform 0.3s ease;
+        }}
+
+        .skill-link:hover {{
+            color: #a78bfa;
+            transform: translateY(-1px);
+        }}
+
+        .skill-link:hover::after {{
+            transform: scaleX(1);
+            transform-origin: left;
+        }}
+
+        .tag-badge {{
+            display: inline-block;
+            padding: 6px 16px;
+            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+            color: #fff;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-right: 8px;
+            margin-bottom: 6px;
+            cursor: pointer;
+            letter-spacing: 0.02em;
+            text-transform: uppercase;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }}
+
+        .tag-badge::before {{
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+            transition: left 0.5s ease;
+        }}
+
+        .tag-badge:hover::before {{
+            left: 100%;
+        }}
+
+        .tag-badge:hover {{
+            background: linear-gradient(135deg, #818cf8 0%, #a78bfa 100%);
+            transform: translateY(-2px) scale(1.05);
+            box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4);
+            padding: 6px 18px;
+        }}
+
+        /* Network Container */
+        #networkContainer {{
+            width: 100%;
+            height: 500px;
+            background: rgba(26, 31, 54, 0.5);
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }}
+
+        /* View switching */
+        .view {{
+            display: none;
+            animation: fadeIn 0.4s ease-out;
+        }}
+
+        @keyframes fadeIn {{
+            from {{ opacity: 0; transform: translateY(10px); }}
+            to {{ opacity: 1; transform: translateY(0); }}
+        }}
+
+        .view.active {{
+            display: block;
+        }}
+
+        /* Detail Modal */
+        .modal {{
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(10, 14, 28, 0.8);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }}
+
+        .modal.active {{
+            display: flex;
+        }}
+
+        .modal-content {{
+            background: rgba(30, 37, 64, 0.9);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            padding: 40px;
+            max-width: 800px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 40px 100px rgba(0, 0, 0, 0.6);
+            position: relative;
+        }}
+
+        .modal-title {{
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 32px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 24px;
+            letter-spacing: -0.03em;
+            line-height: 1.2;
+            background: linear-gradient(135deg, #fff 0%, #a78bfa 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }}
+
+        .modal-section {{
+            margin-bottom: 32px;
+        }}
+
+        .modal-label {{
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 10px;
+            font-weight: 800;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            margin-bottom: 12px;
+        }}
+
+        .modal-text {{
+            color: #cbd5e1;
+            line-height: 1.8;
+            font-size: 15px;
+        }}
+
+        .close-btn {{
+            position: absolute;
+            top: 24px;
+            right: 24px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #fff;
+            width: 36px;
+            height: 36px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }}
+
+        .close-btn:hover {{
+            background: rgba(239, 68, 68, 0.2);
+            border-color: rgba(239, 68, 68, 0.3);
+            transform: rotate(90deg);
+        }}
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {{
+            width: 8px;
+        }}
+
+        ::-webkit-scrollbar-track {{
+            background: #1a1f36;
+        }}
+
+        ::-webkit-scrollbar-thumb {{
+            background: #475569;
+            border-radius: 4px;
+        }}
+
+        ::-webkit-scrollbar-thumb:hover {{
+            background: #64748b;
+        }}
+
+        /* Responsive */
+        @media (max-width: 1024px) {{
+            .sidebar {{
+                width: 240px;
+            }}
+            .main-content {{
+                margin-left: 240px;
+            }}
+        }}
+
+        @media (max-width: 768px) {{
+            .sidebar {{
+                width: 100%;
+                position: relative;
+                height: auto;
+            }}
+            .main-content {{
+                margin-left: 0;
+            }}
+            .stats-grid {{
+                grid-template-columns: 1fr;
+            }}
+        }}
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <div class="sidebar-brand">Skills Dashboard Pro</div>
+            <div class="sidebar-tagline">{total_skills} skills from {total_books} books</div>
+        </div>
+
+        <div class="nav-section">
+            <div class="nav-header">Overview</div>
+            <div class="nav-item active" onclick="showView('dashboard')">
+                <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+                </svg>
+                📊 Dashboard
+            </div>
+            <div class="nav-item" onclick="showView('network')">
+                <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                </svg>
+                🕸️ Network View
+            </div>
+        </div>
+
+        <div class="nav-section">
+            <div class="nav-header">Browse</div>
+            <div class="nav-item" onclick="showView('skills')">
+                <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+                </svg>
+                📚 All Skills
+            </div>
+            <div class="nav-item" onclick="showView('categories')">
+                <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>
+                </svg>
+                🏷️ By Category
+            </div>
+            <div class="nav-item" onclick="showView('overlaps')">
+                <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+                🔄 Overlapping Skills
+            </div>
+            <div class="nav-item" onclick="showView('multitag')">
+                <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>
+                </svg>
+                🔗 Multi-Tag Skills
+            </div>
+        </div>
+
+        <div class="nav-section">
+            <div class="nav-header">Insights</div>
+            <div class="nav-item" onclick="showView('conflicts')">
+                <svg class="nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                </svg>
+                💡 Conflict Guide
+            </div>
+        </div>
+    </div>
+
+    <!-- Progress Bar -->
+    <div id="progress-container">
+        <div id="progress-bar"></div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content" id="mainContent">
+        <div class="content-header">
+            <div>
+                <h1 class="header-title">📊 Dashboard</h1>
+                <p class="header-subtitle">Overview of your skills library</p>
+            </div>
+            <input type="text" class="search-box" id="globalSearch" placeholder="Search skills..." onkeyup="globalSearchHandler()">
+        </div>
+
+        <!-- Dashboard View -->
+        <div id="dashboardView" class="view active">
+            <div class="stats-grid">
+                <div class="stat-card" onclick="showView('skills')" style="cursor: pointer;">
+                    <div class="stat-label">📚 Total Skills</div>
+                    <div class="stat-value">{total_skills}</div>
+                    <div class="stat-change">✨ Actionable skills</div>
+                </div>
+                <div class="stat-card" onclick="showView('categories')" style="cursor: pointer;">
+                    <div class="stat-label">🏷️ Categories</div>
+                    <div class="stat-value">{total_tags}</div>
+                    <div class="stat-change">📌 Tag categories</div>
+                </div>
+                <div class="stat-card" onclick="showView('multitag')" style="cursor: pointer;">
+                    <div class="stat-label">🔗 Multi-Disciplinary</div>
+                    <div class="stat-value">{multi_tag}</div>
+                    <div class="stat-change">🎯 Skills across categories</div>
+                </div>
+                <div class="stat-card" onclick="showView('overlaps')" style="cursor: pointer;">
+                    <div class="stat-label">🔄 Cross-Book</div>
+                    <div class="stat-value">{overlaps}</div>
+                    <div class="stat-change">📖 Skills in multiple books</div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">🔥 Top Skills</h2>
+                <table id="topSkillsTable">
+                    <thead>
+                        <tr>
+                            <th>Skill Name</th>
+                            <th>Categories</th>
+                            <th>Books</th>
+                        </tr>
+                    </thead>
+                    <tbody id="topSkillsBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Network View -->
+        <div id="networkView" class="view">
+            <div class="section">
+                <h2 class="section-title">🕸️ Network Visualization</h2>
+                <div id="networkContainer"></div>
+            </div>
+        </div>
+
+        <!-- All Skills View -->
+        <div id="skillsView" class="view">
+            <div class="section">
+                <h2 class="section-title">📚 All Skills</h2>
+                <input type="text" class="search-box" id="skillsSearch" placeholder="Filter skills..." style="width: 100%; margin-bottom: 16px;" onkeyup="filterSkills()">
+                <table id="skillsTable">
+                    <thead>
+                        <tr>
+                            <th>Skill Name</th>
+                            <th>Categories</th>
+                            <th>Books</th>
+                        </tr>
+                    </thead>
+                    <tbody id="skillsBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Categories View -->
+        <div id="categoriesView" class="view">
+            <div class="section">
+                <h2 class="section-title">🏷️ By Category</h2>
+                <table id="categoriesTable">
+                    <thead>
+                        <tr>
+                            <th>Category</th>
+                            <th>Skills</th>
+                            <th>Sample Skills</th>
+                        </tr>
+                    </thead>
+                    <tbody id="categoriesBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Overlaps View -->
+        <div id="overlapsView" class="view">
+            <div class="section">
+                <h2 class="section-title">🔄 Overlapping Skills</h2>
+                <table id="overlapsTable">
+                    <thead>
+                        <tr>
+                            <th>Skill Name</th>
+                            <th>Source Books</th>
+                        </tr>
+                    </thead>
+                    <tbody id="overlapsBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Conflicts View -->
+        <div id="conflictsView" class="view">
+            <div class="section">
+                <h2 class="section-title">💡 Conflict Resolution Guide</h2>
+                <table>
+                    <tr>
+                        <th>Conflict</th>
+                        <th>When to Use First</th>
+                        <th>When to Use Second</th>
+                        <th>Resolution Strategy</th>
+                    </tr>
+                    <tr>
+                        <td>💸 <strong>Sunk Cost Recognition</strong> vs 🧗 <strong>Grit</strong></td>
+                        <td>When project has clear path & good match quality</td>
+                        <td>When evidence shows poor results or bad fit</td>
+                        <td>Use <strong>Match Quality</strong> as meta-decision framework</td>
+                    </tr>
+                    <tr>
+                        <td>🛑 <strong>Strategic Quitting</strong> vs 🧗 <strong>Grit</strong></td>
+                        <td>When you're in a kind domain with clear path to mastery</td>
+                        <td>When in wicked domain or exploring fit</td>
+                        <td>Assess if domain is kind/wicked first</td>
+                    </tr>
+                    <tr>
+                        <td>🎯 <strong>Specialization</strong> vs 🌐 <strong>Generalization</strong></td>
+                        <td>Kind problems: stable rules, clear feedback (golf, chess)</td>
+                        <td>Wicked problems: changing rules, ambiguity (business, strategy)</td>
+                        <td>Use <strong>Kind/Wicked Assessment</strong> first</td>
+                    </tr>
+                    <tr>
+                        <td>🔍 <strong>Focus</strong> vs 🧭 <strong>Exploration</strong></td>
+                        <td>When deep work needed, clear priority, or executing known strategy</td>
+                        <td>When learning, career early stage, or solving novel problems</td>
+                        <td>Time-box: explore then focus; use <strong>Match Quality</strong> to decide</td>
+                    </tr>
+                    <tr>
+                        <td>⚡ <strong>Speed</strong> vs 🧘 <strong>Deliberate Practice</strong></td>
+                        <td>When learning routine skills or kind-domain problems</td>
+                        <td>When developing expertise in complex domains</td>
+                        <td>Fast for breadth, slow for depth</td>
+                    </tr>
+                    <tr>
+                        <td>🧠 <strong>Intuition</strong> vs 🎲 <strong>Probabilistic Thinking</strong></td>
+                        <td>In your circle of competence with extensive experience</td>
+                        <td>Outside circle of competence or high-stakes decisions</td>
+                        <td>Know your <strong>Circle of Competence</strong> boundaries</td>
+                    </tr>
+                    <tr>
+                        <td>🧱 <strong>First Principles</strong> vs 🌉 <strong>Analogy</strong></td>
+                        <td>Novel problems, innovation, or when analogies aren't working</td>
+                        <td>Routine problems in stable domains with proven solutions</td>
+                        <td>Start with first principles, use analogies for communication</td>
+                    </tr>
+                </table>
+
+                <h3 style="margin-top: 40px; color: #fff; font-family: 'Space Grotesk', sans-serif;">🛠️ Decision Framework</h3>
+                <div style="background: rgba(99, 102, 241, 0.05); backdrop-filter: blur(8px); padding: 32px; border-radius: 16px; margin: 24px 0; border: 1px solid rgba(99, 102, 241, 0.2); box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+                    <ol style="color: #cbd5e1; line-height: 2;">
+                        <li><strong style="color: #fff;">1. Assess context</strong>: What type of problem? (Kind/Wicked)</li>
+                        <li><strong style="color: #fff;">2. Check domain</strong>: Is this in my Circle of Competence?</li>
+                        <li><strong style="color: #fff;">3. Evaluate match quality</strong>: Am I in the right area?</li>
+                        <li><strong style="color: #fff;">4. Consider timing</strong>: Early exploration vs. late execution?</li>
+                        <li><strong style="color: #fff;">5. Apply appropriate model</strong>: Use conflict resolution above</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+        <!-- Multi-Tag Skills View -->
+        <div id="multitagView" class="view">
+            <div class="section">
+                <h2 class="section-title">🔗 Multi-Disciplinary Skills ({multi_tag})</h2>
+                <p style="color: #94a3b8; margin-bottom: 20px;">Skills that span multiple categories, showing interdisciplinary connections.</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Skill Name</th>
+                            <th>Tags</th>
+                        </tr>
+                    </thead>
+                    <tbody id="multitagBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Skill Detail Modal -->
+    <div id="skillModal" class="modal">
+        <div class="modal-content" style="position: relative;">
+            <button class="close-btn" onclick="closeModal()">&times;</button>
+            <h2 class="modal-title" id="modalTitle">Skill Name</h2>
+            <div class="modal-section">
+                <div class="modal-label">Description</div>
+                <div class="modal-text" id="modalDescription">Description here...</div>
+            </div>
+            <div class="modal-section">
+                <div class="modal-label">AI Help</div>
+                <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+                    <a href="#" id="chatgptLink" target="_blank" style="padding: 8px 16px; background: #10a37f; color: white; text-decoration: none; border-radius: 6px; font-size: 14px;">
+                        Open in ChatGPT
+                    </a>
+                    <a href="#" id="claudeLink" target="_blank" style="padding: 8px 16px; background: #6366f1; color: white; text-decoration: none; border-radius: 6px; font-size: 14px;">
+                        Open in Claude
+                    </a>
+                </div>
+            </div>
+            <div class="modal-section">
+                <div class="modal-label">Tags</div>
+                <div id="modalTags"></div>
+            </div>
+            <div class="modal-section">
+                <div class="modal-label">Source Books</div>
+                <div class="modal-text" id="modalBooks"></div>
+            </div>
+            <div class="modal-section">
+                <div class="modal-label">Related Skills</div>
+                <div id="modalRelated"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Data
+        const skillsData = {json.dumps(data, indent=2)};
+
+        // Build skill info map
+        const skillInfoMap = {{}};
+        Object.entries(skillsData.skills_by_tag).forEach(([tag, skills]) => {{
+            skills.forEach(([skill, book]) => {{
+                if (!skillInfoMap[skill]) {{
+                    skillInfoMap[skill] = {{ tags: [], books: [], description: skillsData.descriptions[skill] || null }};
+                }}
+                skillInfoMap[skill].tags.push(tag);
+                if (!skillInfoMap[skill].books.includes(book)) {{
+                    skillInfoMap[skill].books.push(book);
+                }}
+            }});
+        }});
+
+        // View switching
+        function showView(viewName) {{
+            // Hide all views
+            document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+            // Show selected view
+            document.getElementById(viewName + 'View').classList.add('active');
+            // Update nav
+            document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+            event.currentTarget.classList.add('active');
+
+            if (viewName === 'network') {{
+                setTimeout(drawNetwork, 100);
+            }}
+        }}
+
+        // Render top skills
+        function renderTopSkills() {{
+            const tbody = document.getElementById('topSkillsBody');
+            const skills = skillsData.all_skills.slice(0, 10);
+
+            tbody.innerHTML = skills.map(skill => {{
+                const info = skillInfoMap[skill];
+                if (!info) return '';
+                return `
+                    <tr>
+                        <td><a class="skill-link" onclick="showSkill('${{skill}}')">${{skill}}</a></td>
+                        <td>${{info.tags.slice(0, 2).map(t => `<span class="tag-badge">${{t}}</span>`).join('')}} ${{info.tags.length > 2 ? `+${{info.tags.length - 2}}` : ''}}</td>
+                        <td>${{info.books.length}}</td>
+                    </tr>
+                `;
+            }}).join('');
+        }}
+
+        // Render all skills
+        function renderSkills() {{
+            const tbody = document.getElementById('skillsBody');
+            tbody.innerHTML = skillsData.all_skills.map(skill => {{
+                const info = skillInfoMap[skill];
+                if (!info) return '';
+                return `
+                    <tr>
+                        <td><a class="skill-link" onclick="showSkill('${{skill}}')">${{skill}}</a></td>
+                        <td>${{info.tags.slice(0, 2).map(t => `<span class="tag-badge">${{t}}</span>`).join('')}} ${{info.tags.length > 2 ? `+${{info.tags.length - 2}}` : ''}}</td>
+                        <td>${{info.books.length}}</td>
+                    </tr>
+                `;
+            }}).join('');
+        }}
+
+        // Filter skills
+        function filterSkills() {{
+            const search = document.getElementById('skillsSearch').value.toLowerCase();
+            const filtered = skillsData.all_skills.filter(s => s.toLowerCase().includes(search));
+            const tbody = document.getElementById('skillsBody');
+
+            tbody.innerHTML = filtered.map(skill => {{
+                const info = skillInfoMap[skill];
+                return `
+                    <tr>
+                        <td><a class="skill-link" onclick="showSkill('${{skill}}')">${{skill}}</a></td>
+                        <td>${{info.tags.slice(0, 2).map(t => `<span class="tag-badge">${{t}}</span>`).join('')}} ${{info.tags.length > 2 ? `+${{info.tags.length - 2}}` : ''}}</td>
+                        <td>${{info.books.length}}</td>
+                    </tr>
+                `;
+            }}).join('');
+        }}
+
+        // Global search
+        function globalSearchHandler() {{
+            const search = document.getElementById('globalSearch').value.toLowerCase();
+            if (search.length > 0) {{
+                showView('skills');
+                document.getElementById('skillsSearch').value = search;
+                filterSkills();
+            }}
+        }}
+
+        // Render categories
+        function renderCategories() {{
+            const tbody = document.getElementById('categoriesBody');
+            const tags = Object.entries(skillsData.skills_by_tag).sort((a, b) => b[1].length - a[1].length);
+
+            tbody.innerHTML = tags.map(([tag, skills]) => `
+                <tr>
+                    <td><span class="tag-badge">${{tag}}</span></td>
+                    <td>${{skills.length}}</td>
+                    <td>${{skills.slice(0, 3).map(s => s[0]).join(', ')}} ${{skills.length > 3 ? '...' : ''}}</td>
+                </tr>
+            `).join('');
+        }}
+
+        // Render overlaps
+        function renderOverlaps() {{
+            const tbody = document.getElementById('overlapsBody');
+
+            tbody.innerHTML = Object.entries(skillsData.overlaps).map(([skill, books]) => `
+                <tr>
+                    <td><a class="skill-link" onclick="showSkill('${{skill}}')">${{skill}}</a></td>
+                    <td>${{books.join(', ')}}</td>
+                </tr>
+            `).join('');
+        }}
+
+        // Render multi-tag skills
+        function renderMultitag() {{
+            const tbody = document.getElementById('multitagBody');
+
+            tbody.innerHTML = Object.entries(skillsData.multi_tag_skills)
+                .filter(([skill, tags]) => tags.length > 1)
+                .map(([skill, tags]) => `
+                    <tr>
+                        <td><a class="skill-link" onclick="showSkill('${{skill}}')">${{skill}}</a></td>
+                        <td>${{tags.map(t => `<span class="tag-badge">${{t}}</span>`).join(' ')}}</td>
+                    </tr>
+                `).join('');
+        }}
+
+        // Show skill modal
+        function showSkill(skillName) {{
+            const info = skillInfoMap[skillName];
+            if (!info) {{
+                alert('Skill not found: ' + skillName);
+                return;
+            }}
+
+            document.getElementById('modalTitle').textContent = skillName;
+            document.getElementById('modalDescription').textContent = info.description || 'No description available.';
+            document.getElementById('modalTags').innerHTML = info.tags.map(t => `<span class="tag-badge">${{t}}</span>`).join('');
+            document.getElementById('modalBooks').textContent = info.books.join(', ');
+
+            // AI Integration - Update links
+            const promptText = `Help me understand and apply this skill: ${{skillName}}\\n\\nDescription: ${{info.description || 'N/A'}}\\n\\nTags: ${{info.tags.join(', ')}}\\n\\nSource Books: ${{info.books.join(', ')}}`;
+            const encodedPrompt = encodeURIComponent(promptText);
+            document.getElementById('chatgptLink').href = `https://chatgpt.com/?prompt=${{encodedPrompt}}`;
+            document.getElementById('claudeLink').href = `https://claude.ai/new?prompt=${{encodedPrompt}}`;
+
+            // Related Skills - Find skills with shared tags
+            const relatedSkills = skillsData.all_skills
+                .filter(s => s !== skillName && skillInfoMap[s] && skillInfoMap[s].tags.some(t => info.tags.includes(t)))
+                .slice(0, 20);
+
+            document.getElementById('modalRelated').innerHTML = relatedSkills.length > 0
+                ? relatedSkills.map(s => `<span class="tag-badge" style="cursor: pointer;" onclick="showSkill('${{s}}')">${{s}}</span>`).join(' ')
+                : '<span style="color: #94a3b8;">No related skills found.</span>';
+
+            document.getElementById('skillModal').classList.add('active');
+        }}
+
+        function closeModal() {{
+            document.getElementById('skillModal').classList.remove('active');
+        }}
+
+        // Network visualization with enhanced styling
+        function drawNetwork() {{
+            const container = document.getElementById('networkContainer');
+            container.innerHTML = '';
+
+            const width = container.offsetWidth;
+            const height = 500;
+
+            const tags = Object.entries(skillsData.skills_by_tag)
+                .sort((a, b) => b[1].length - a[1].length);
+
+            const nodes = tags.map(([tag, skills]) => ({{
+                id: tag,
+                value: skills.length,
+                skills: skills.map(s => s[0])
+            }}));
+
+            const links = [];
+            const skillToTags = {{}};
+
+            tags.forEach(([tag, skills]) => {{
+                skills.forEach(([skill, book]) => {{
+                    if (!skillToTags[skill]) skillToTags[skill] = [];
+                    skillToTags[skill].push(tag);
+                }});
+            }});
+
+            Object.entries(skillToTags).forEach(([skill, tags]) => {{
+                if (tags.length > 1) {{
+                    for (let i = 0; i < tags.length; i++) {{
+                        for (let j = i + 1; j < tags.length; j++) {{
+                            links.push({{ source: tags[i], target: tags[j] }});
+                        }}
+                    }}
+                }}
+            }});
+
+            // Enhanced color palette with transparency
+            const colorScale = d3.scaleOrdinal()
+                .domain(nodes.map(d => d.id))
+                .range([
+                    'rgba(99, 102, 241, 0.7)',   // Purple
+                    'rgba(236, 72, 153, 0.7)',   // Pink
+                    'rgba(59, 130, 246, 0.7)',   // Blue
+                    'rgba(16, 185, 129, 0.7)',   // Green
+                    'rgba(245, 158, 11, 0.7)',   // Orange
+                    'rgba(139, 92, 246, 0.7)',   // Violet
+                    'rgba(239, 68, 68, 0.7)',    // Red
+                    'rgba(20, 184, 166, 0.7)',   // Teal
+                    'rgba(249, 115, 22, 0.7)',   // Amber
+                    'rgba(168, 85, 247, 0.7)',   // Purple
+                    'rgba(34, 197, 94, 0.7)',    // Green
+                    'rgba(6, 182, 212, 0.7)',    // Cyan
+                    'rgba(234, 179, 8, 0.7)',    // Yellow
+                    'rgba(244, 63, 94, 0.7)',    // Rose
+                    'rgba(99, 102, 241, 0.7)'    // Indigo
+                ]);
+
+            const svg = d3.select("#networkContainer")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .style("background", "linear-gradient(135deg, #1a1f36 0%, #2d3748 100%)")
+                .style("border-radius", "8px");
+
+            // Add gradient defs
+            const defs = svg.append("defs");
+
+            simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.id).distance(120))
+                .force("charge", d3.forceManyBody().strength(-300))
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .force("collision", d3.forceCollide().radius(45));
+
+            // Draw links with gradient
+            const link = svg.append("g")
+                .selectAll("line")
+                .data(links)
+                .join("line")
+                .attr("stroke", "rgba(71, 85, 105, 0.3)")
+                .attr("stroke-width", 1.5);
+
+            // Create node groups
+            const nodeGroups = svg.append("g")
+                .selectAll("g")
+                .data(nodes)
+                .join("g")
+                .attr("cursor", "pointer")
+                .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended));
+
+            // Outer semi-transparent circles (main nodes)
+            nodeGroups.append("circle")
+                .attr("r", d => Math.sqrt(d.value) * 5)
+                .attr("fill", d => colorScale(d.id))
+                .attr("stroke", d => colorScale(d.id).replace('0.7', '1'))
+                .attr("stroke-width", 2)
+                .attr("opacity", 0.8);
+
+            // Small transparent circles in the middle
+            nodeGroups.append("circle")
+                .attr("r", d => Math.sqrt(d.value) * 2.5)
+                .attr("fill", d => colorScale(d.id).replace('0.7', '0.3'))
+                .attr("stroke", "rgba(255, 255, 255, 0.5)")
+                .attr("stroke-width", 1);
+
+            // Inner center circle (most transparent)
+            nodeGroups.append("circle")
+                .attr("r", d => Math.sqrt(d.value) * 0.8)
+                .attr("fill", "rgba(255, 255, 255, 0.2)")
+                .attr("stroke", "rgba(255, 255, 255, 0.6)")
+                .attr("stroke-width", 1.5);
+
+            // Labels
+            const label = svg.append("g")
+                .selectAll("text")
+                .data(nodes)
+                .join("text")
+                .text(d => d.id)
+                .attr("font-size", "11px")
+                .attr("font-weight", "500")
+                .attr("text-anchor", "middle")
+                .attr("fill", "#e2e8f0")
+                .attr("dy", d => -Math.sqrt(d.value) * 5 - 8)
+                .attr("text-shadow", "0 1px 3px rgba(0,0,0,0.5)");
+
+            // Skill count badges
+            const badges = svg.append("g")
+                .selectAll("text")
+                .data(nodes)
+                .join("text")
+                .text(d => d.value)
+                .attr("font-size", "10px")
+                .attr("font-weight", "700")
+                .attr("text-anchor", "middle")
+                .attr("fill", "#ffffff")
+                .attr("dy", 4)
+                .attr("text-shadow", "0 1px 2px rgba(0,0,0,0.8)");
+
+            simulation.on("tick", () => {{
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+
+                nodeGroups
+                    .attr("transform", d => `translate(${{d.x}},${{d.y}})`);
+
+                label
+                    .attr("x", d => d.x)
+                    .attr("y", d => d.y);
+
+                badges
+                    .attr("x", d => d.x)
+                    .attr("y", d => d.y);
+            }});
+
+            function dragstarted(event, d) {{
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+            }}
+
+            function dragged(event, d) {{
+                d.fx = event.x;
+                d.fy = event.y;
+            }}
+
+            function dragended(event, d) {{
+                if (!event.active) simulation.alphaTarget(0);
+                d.fx = null;
+                d.fy = null;
+            }}
+        }}
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {{
+            renderTopSkills();
+            renderSkills();
+            renderCategories();
+            renderOverlaps();
+            renderMultitag();
+        }});
+    </script>
+</body>
+</html>'''
+
+# Save the file
+output_file = Path("skills-dashboard-ux.html")
+with open(output_file, 'w') as f:
+    f.write(html)
+
+print(f"✅ Created modern dark dashboard: {output_file}")
+print(f"\n🎨 Design Features:")
+print(f"   • Dark theme with navy background")
+print(f"   • Fixed sidebar navigation")
+print(f"   • Purple accent colors")
+print(f"   • Modern card design")
+print(f"   • Statistics grid (2×2)")
+print(f"   • All views working")
+print(f"\nOpen: file://{output_file.absolute()}")

@@ -1,0 +1,30 @@
+---
+
+type: concept
+title: Bounded Rationality
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- decision-making
+- behavioral-economics
+- cognitive-science
+sources:
+- decision-making-frameworks.md
+related:
+- satisficing
+- cognitive-biases-library
+- decision-making-frameworks
+----
+# Bounded Rationality
+
+Rajattu rationaalisuus on kehyksessä, joka tunnistaa päätöksentekijöiden rajoituksia ajassa, resursseissa ja tiedossa. Sen sijaan että tehtäisiin täydellisesti rationaalisia päätöksiä, päätökset tehdään satisficingin mukaan – valitsemalla ensimmäinen tyydyttävä vaihtoehto.
+
+## Käsittely
+- Päätöksentekijöillä on rajoitukset
+- Täydellistä rationaalisuutta ei voi saavuttaa
+- Satisficing on käytännöllinen lähestymistapa
+
+## Yhteydet
+- [[satisficing]] – Tyydyttävä ratkaisu
+- [[cognitive-biases-library]] – Mitä voi mennä vääriin
+- [[decision-making-frameworks]] – Teoreettinen viitekehystelmä

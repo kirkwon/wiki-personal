@@ -1,0 +1,37 @@
+---
+title: Presets and Style Consistency
+created: 2026-04-24
+updated: 2026-04-24
+type: concept
+tags:
+- photography
+- editing
+- post-processing
+sources:
+- post-processing.md
+related:
+- post-processing
+---
+-
+# Presets and Style Consistency
+
+Presets are saved adjustment sets that can be applied to other photos to achieve a consistent look across a body of work.
+
+## Developing Style
+
+Consistency is achieved through:
+1. **Use presets**: Create starting points for different situations
+2. **Consistent adjustments**: Similar contrast, color treatment
+3. **Aspect ratio**: Use the same ratio consistently
+4. **Color palette**: Prefer certain color treatments
+5. **Vignetting**: Use or avoid consistently
+
+## Tips
+
+- Create multiple presets for different situations
+- Tweak presets for each photo (don't rely entirely)
+- Share and learn from others' presets
+- Popular preset packages: Visual Supply Co. (VSCO), Mastin Labs, Pretty Presets
+
+Related to [[Post-Processing]].
+---

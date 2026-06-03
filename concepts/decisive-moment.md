@@ -1,0 +1,51 @@
+---
+type: concept
+title: Decisive Moment
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- photography
+- street
+- composition
+sources:
+- street-photography.md
+related:
+- street-photography
+- henri-cartier-bresson
+- composition-techniques
+- zone-focusing
+- photography-fundamentals
+- f8-and-be-there
+---
+--
+
+# Decisive Moment
+
+The decisive moment is a concept in photography, coined by [[henri-cartier-bresson]], referring to the perfect instant when all visual elements in a scene come together — when composition, subject action, and light align to create a compelling image. Capturing the decisive moment is considered the highest achievement in street photography. It is the intersection of anticipation and timing.
+
+## Definition
+
+The decisive moment is the exact moment when all elements of a scene converge: a subject's action, the surrounding environment, light, and composition create a complete narrative or emotional impact.
+
+## How to Capture the Decisive Moment
+
+1. **Anticipate**: Watch behavior and predict the next action of a subject
+2. **Position yourself**: Move to the best vantage point before the moment arrives
+3. **Wait**: Be patient for the moment to unfold naturally
+4. **Shoot**: Capture quickly when the moment happens
+
+### Examples
+- A pedestrian stepping into a pattern of shadows
+- A woman's hat catching the wind at just the right angle
+- A fleeting interaction between strangers
+
+## Connection to Street Photography
+
+The decisive moment is central to street photography philosophy. It transforms ordinary scenes into storytelling images by freezing a single instant that conveys narrative or emotion. This concept emphasizes observation and presence over technical perfection. The technique combines zone focusing (being pre-focused and ready) with active observation, allowing the photographer to react instantly when the decisive moment occurs.
+
+## Related Concepts
+
+- [[street-photography]] — The practice built around capturing such moments
+- [[zone-focusing]] — Technique that enables quick capture of fleeting moments
+- [[f8-and-be-there]] — Philosophy that prioritizes presence over technicality
+- [[photography-fundamentals]] — Foundational concepts that support capturing decisive moments

@@ -1,0 +1,174 @@
+---
+source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Concepts/Salmon Collars.md
+ingested: 2026-04-24
+sha256: 2d42c75931209bccd80876292e1e22b5c1dd3ad7856be1d1a2f1483adf0d8d47
+title: Salmon Collars
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+
+
+---
+type: concept
+category:
+- Gastronomy
+created: 2026-04-20
+modified: 2026-04-20
+tags:
+- cut
+- seafood
+- salmon
+- high-collagen
+- fatty
+- premium
+related: []
+status: complete
+---
+
+
+# Salmon Collars
+
+
+## Quick Reference
+
+### Field**: [[Gastronomy]]
+### Type**: Fish Cut
+### Source**: Salmon neck area
+### Texture**: Fatty, rich, gelatinous
+### Best Cooking Methods**: Grilling, broiling, roasting
+### Related Concepts**: [[Salmon Preparation]], [[Collagen-Rich Cuts]], [[Seafood]]
+
+
+
+## Summary
+Salmon collar (also called kama in Japanese) is the cut from behind the fish's head, encompassing the collarbone and surrounding flesh. It's prized for its high fat content, rich flavor, and gelatinous texture from collagen. Often called the "best part of the fish" by enthusiasts.
+
+## Why It's Special
+
+### Characteristics
+- **High fat content** - Marbled with healthy omega-3s
+- **Collagen-rich** - Becomes gelatinous when cooked
+- **Flavorful** - More intense than filet or tail
+- **Moist** - Fat keeps it juicy even with high heat
+- **Affordable luxury** - Premium cut, often cheaper than filets
+
+### Structure
+- Two collars per salmon (left and right)
+- Includes: Collarbone, pectoral fin, surrounding flesh
+- Size: 6-12 oz per collar
+- Fat content: 30-40% (vs ~15% in filet)
+
+## Preparation
+
+### Purchasing
+- **Ask your fishmonger** for "salmon collars"
+- **Asian markets** often stock them (popular in Japanese cuisine)
+- **Whole salmon** - cut collars yourself
+- **Seasonal availability** - Best winter-spring (fat content peaks)
+
+### Cleaning
+1. Remove scales (if present)
+2. Rinse with cold water
+3. Pat completely dry
+4. Trim excess fat (optional)
+5. Score skin (helps cooking)
+
+## Cooking Methods
+
+### 1. Grilling (Best)
+**Method:**
+- Heat grill to medium-high (400°F)
+- Season with salt, pepper, citrus
+- Place skin-side down
+- Grill 4-5 minutes per side
+- Internal temp: 125-130°F (medium)
+
+**Why works:** Charred skin + rendered fat = intense flavor
+
+### 2. Broiling
+**Method:**
+- Set broiler to high
+- Season generously
+- Broil 4-5 minutes per side, 4-6 inches from heat
+- Watch closely - fat will drip and flare
+
+**Why works:** High heat renders fat quickly
+
+### 3. Roasting
+**Method:**
+- Oven at 425°F
+- Season and oil
+- Roast 12-15 minutes
+- Finish under broiler for crispy skin
+
+**Why works:** Even cooking, easy to make large batches
+
+### 4. Japanese-Style (Yakitori)
+**Method:**
+- Cut into 2" pieces
+- Skewer for easy handling
+- Glaze with teriyaki during cooking
+- Grill over charcoal if possible
+
+**Why works:** Charcoal adds smoky depth
+
+## Flavor Pairings
+
+### Classic
+- Soy sauce + mirin + ginger (teriyaki)
+- Lemon + butter + dill
+- Miso + sake + sugar
+- Salt + pepper only (let fish shine)
+
+### Modern
+- Yuzu kosho + soy
+- Gochujang + sesame oil
+- Harissa + honey
+- Maple + bourbon
+
+### Aromatics
+- Ginger (fresh, grated)
+- Garlic (minced, crushed)
+- Scallions (whole, sliced)
+- Lemon (wedges, juice)
+- Herbs (dill, parsley, cilantro)
+
+## Serving
+
+### Presentation
+- Whole collar (impressive)
+- Cut into sections (easier eating)
+- On platter with wedges
+- With rice and miso soup (traditional)
+
+### Accompaniments
+- Steamed rice
+- Miso soup
+- Pickled vegetables (tsukemono)
+- Grilled vegetables
+- Asian greens (bok choy, gai lan)
+
+## Best Practices
+
+- **Bring to room temp** before cooking (even cooking)
+- **Pat completely dry** (prevents steaming, ensures crispy skin)
+- **Score the skin** (allows fat to render, prevents curling)
+- **Don't overcook** - Collar stays moist longer than filet
+- **Rest briefly** (3-5 minutes) before serving
+- **Eat the skin** - most flavorful part!
+
+## Where to Find
+
+- **Japanese markets** (often sold as "salmon kama")
+- **Whole fish markets** (ask fishmonger)
+- **Asian grocery stores**
+- **High-end seafood counters** (sometimes)
+
+## See Also
+[[Wok Hei]] | [[Salmon Preparation]] | [[Grilling Seafood]] | [[Japanese Cuisine]]
+
+---
+*Added: 2026-04-20*
+
+---

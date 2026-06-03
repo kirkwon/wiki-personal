@@ -1,0 +1,21 @@
+---
+type: source
+title: Culture
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Culture.md
+---
+--
+# Culture
+
+Culture is a mental model referenced in Cal Newport's *Slow Productivity*. It is defined as a conceptual tool or principle that helps understand and navigate complex situations, providing a mental shortcut for making sense of patterns and relationships in the world.
+
+## Cross-Source Perspectives
+- **Cal Newport** references Culture as a mental model with universal applicability in *Slow Productivity*.
+
+## Notes
+This source provides a generic definition of culture as a mental model. The concept is underdeveloped and relies on a single cross-source reference.

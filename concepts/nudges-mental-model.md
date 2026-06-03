@@ -1,0 +1,38 @@
+---
+type: concept
+title: Nudges Mental Model
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- behavioral-economics
+- decision-making
+sources:
+- Insights.md
+related:
+- insights-mental-model
+- choice-architecture
+- decision-making-frameworks
+- cognitive-biases
+---
+-
+# Nudges Mental Model
+
+A nudge is a concept from behavioral economics, primarily associated with Richard H. Thaler and Cass R. Sunstein, referring to a subtle change in how choices are presented that influences behavior without restricting options. Nudges leverage insights about human cognitive patterns to design better decision environments.
+
+## Definition
+
+Nudges are interventions that alter the choice architecture to guide behavior in predictable ways. Unlike mandates or bans, nudges preserve freedom of choice while steering people toward better outcomes by understanding and exploiting patterns in decision-making.
+
+## Connection to Insights
+
+The *Nudge* framework is referenced as a cross-source perspective for the [[insights-mental-model]], illustrating how insights about human behavior inform the design of choice environments. Insights help identify the patterns that nudges exploit.
+
+## Related Concepts
+
+- [[insights-mental-model]] — recognizing patterns and relationships
+- [[choice-architecture]] — how choices are structured
+- [[decision-making-frameworks]] — systematic approaches to decisions
+- [[cognitive-biases]] — the cognitive patterns nudges leverage
+- [[seeing-the-unseen]] — identifying hidden influences on behavior
+---

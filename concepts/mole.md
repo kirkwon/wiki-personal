@@ -1,0 +1,84 @@
+---
+type: concept
+title: Mole
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- mexican
+- mole
+- complex-sauce
+- chiles
+- mexican-cuisine
+- sauce
+- gastronomy
+related:
+- mexican-cuisine
+- tex-mex
+- flavor-theory
+- ingredient-pairings
+- los-siete-moles-de-oaxaca
+- mole-poblano
+- mole-verde
+- qi-wei-flavors
+- wok-hei
+sources:
+- mole.md
+---
+--
+# Mole
+
+El mole es la salsa más compleja y celebrada de México, originaria del náhuatl "molli" (salsa). Es una obra maestra laboriosa que combina más de 20 ingredientes —chiles, especias, nueces, semillas y a veces chocolate— en salsas ricas y armónicas que definen la cocina regional mexicana. El proceso completo toma 2-3 horas y requiere paciencia.
+
+## Los Siete Moles de Oaxaca
+
+Oaxaca es la capital del mole, reconocida por "Los Siete Moles":
+
+- **Mole Negro**: chiles, chocolate, nueces. Rico, complejo, amargo-dulce.
+- **Mole Colorado**: ancho, guajillo. Frutal, picante.
+- **Mole Verde**: tomatillos, hierbas. Fresco, herbal.
+- **Mole Amarillo**: achiote, chiles amarillos. Suave, aromático.
+- **Mole Rojo**: guajillo, ancho. Picante, ahumado.
+- **Mole Chichilo**: chiles, hoja de aguacate. Único, aromático.
+- **Mole Manchamanteles**: chiles, fruta. Dulce, picante.
+
+Ver también [[los-siete-moles-de-oaxaca]] y [[mole-verde]].
+
+## Mole Poblano
+
+Puebla es la cuna del mole poblano, la variante más famosa. Se atribuye a monjas de un convento que lo crearon como plato sorpresa para un arzobispo visitante. Características: oscuro, rico, con chocolate, 20-30 ingredientes, picante pero no abrumador. Se sirve tradicionalmente con pollo o pavo.
+
+Ver también [[mole-poblano]].
+
+## Clave del Éxito y Errores Comunes
+
+La clave está en el tostado adecuado de chiles y especias, y en el equilibrio entre amargor, dulzor y picor.
+
+Errores comunes:
+- Quemar los chiles (amargor)
+- No mezclar lo suficiente (textura)
+- Demasiado espeso (agregar caldo o agua)
+- Demasiado amargo (equilibrar con más chocolate o azúcar)
+- Poco sazonado (agregar sal, ajustar especias)
+
+## Técnicas Fundamentales
+
+La preparación del mole exige técnicas específicas:
+
+- **Tostado por separado**: chiles, especias y nueces se tuestan individualmente para liberar aceites y fragancia sin quemar.
+- **Rehidratación**: los chiles secos se remojan en agua tibia durante 30 minutos tras retirar semillas y tallos.
+- **Licuado progresivo**: se van incorporando los ingredientes (chiles, especias, nueces, aromáticos) y se licúa hasta lograr textura uniforme.
+- **Hervido a fuego lento**: 30-60 minutos para integrar sabores, con ajuste de sal y consistencia.
+
+## Ingredientes Clave
+
+Los chiles son la base: [[ancho]] (poblano seco, suave y frutal), [[mulato]] (dulce, sabor a chocolate), [[pasilla]] (ahumado), [[guajillo]] (suave, frutal) y [[chipotle]] (ahumado, picante). Las especias incluyen [[canela]], [[comino]], [[cilantro]], clavo y anís. Las nueces y semillas aportan riqueza y textura.
+
+## Conexiones
+
+El mole conecta con [[flavor-theory]] por su enfoque en armonía de sabores y con [[ingredient-pairings]] por las combinaciones sofisticadas de ingredientes. Se relaciona directamente con [[mexican-cuisine]] y [[tex-mex]].
+
+## Lectura Adicional
+
+- "Oaxaca al Gusto" de [[diana-kennedy]]
+- "The Art of Mexican Cooking" de Diana Kennedy
+- "My Mexico" de Diana Kennedy

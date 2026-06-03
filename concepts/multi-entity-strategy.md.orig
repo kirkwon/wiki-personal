@@ -1,0 +1,78 @@
+---
+type: concept
+title: Multi-Entity Strategy
+created: 2026-04-22
+updated: 2026-04-22
+tags:
+- business-structure
+- entity-selection
+- asset-protection
+- real-estate-investment
+sources:
+- Company Structure Guide.md
+related:
+- real-estate-entity-structures
+- multi-entity-strategy
+- charging-order-protection
+- trusts-guide
+---
+# Multi-Entity Strategy
+
+A multi-entity strategy involves structuring multiple business entities in layers to optimize liability protection, tax efficiency, and operational flexibility. This approach is particularly valuable for real estate investors and family wealth planning.
+
+## Real Estate Investment Structure
+
+**Level 1: Holding Company**
+- Entity Type: LLC or C Corp
+- Purpose: Own and manage multiple properties
+- Liability Protection: Asset protection from individual property risks
+- Tax Treatment: Pass-through (LLC) or corporate (C Corp)
+
+**Level 2: Property-Specific Entities**
+- Entity Type: Separate LLCs for each major property
+- Purpose: Isolate risk for individual properties
+- Liability Protection: Limited to individual property assets
+- Tax Treatment: Pass-through taxation
+
+**Level 3: Operating Company**
+- Entity Type: LLC (member-managed)
+- Purpose: Property management and operations
+- Relationship: Contractual relationship with holding companies
+
+## Business Operating Entity Structure
+
+**Primary Operating Entity**: LLC or S Corp for day-to-day operations.
+
+**Intellectual Property Holding Entity**: Separate LLC or C Corp to hold patents, trademarks, copyrights, licensed to operating entity.
+
+**Employee Benefits Entity**: Separate LLC to hold health insurance, retirement plans, providing benefits to operating entity employees.
+
+## Family Wealth Structure
+
+**Level 1: Family Holding Company** — Dynasty Trust or Family LLC for long-term wealth preservation across generations.
+
+**Level 2: Operating Companies** — LLCs or corporations for specific businesses, owned by family holding company.
+
+**Level 3: Individual Entities** — Separate LLCs or trusts for family members' individual wealth protection.
+
+## Key Benefits
+
+- **Asset Protection**: Multiple LLCs separate different asset classes
+- **Liability Isolation**: Bankruptcy remote entities, creditor isolation
+- **Tax Optimization**: Different entity types for different purposes
+- **Estate Planning**: Controlled transfers, valuation discounts
+- **Scalability**: Professional management across entities
+
+## Related Pages
+
+- [[real-estate-entity-structures]] for real estate-specific applications
+- [[charging-order-protection]] for legal protections within this structure
+- [[trusts-guide]] for trust-based wealth preservation
+---
+## Principle
+
+Multi-entity layering optimizes risk isolation and liability protection while supporting tax efficiency and operational flexibility.
+---
+## Tags
+
+business-structure, entity-selection, asset-protection, real-estate-investment

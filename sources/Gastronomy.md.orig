@@ -1,0 +1,44 @@
+---
+
+type: source
+title: 'Source: Gastronomy.md'
+created: 2026-05-09
+updated: 2026-05-09
+sources:
+- Gastronomy.md
+tags: []
+related: []
+----
+
+# Source: Gastronomy.md
+
+## Key Entities
+- **Gastronomy Portal** — Navigation hub for food/cooking content (central, new)
+- **Wok Cooking, Wok Hei, Maillard Reaction, Flavor Theory, Ingredient Pairings, Aromatics, Seasonings, Salmon Collars** — Core concepts/pages linked from portal (central, most already exist in wiki)
+- **Recipe: Perfect Stir-Fry, Recipe: Glazed Salmon Collars, Recipe: Umami Building Blocks** — Recipe pages likely not yet in wiki (peripheral, new)
+- **Resource: Salt Fat Acid Heat, Resource:The Flavor Bible, Resource:Wok Cooking Masterclass** — Learning resources, likely new (peripheral, new)
+- **Salmon** — Ingredient page, likely new (peripheral, new)
+
+## Key Concepts
+- **Wok Hei** — "Breath of the wok," the charred flavor from high-heat wok cooking (already exists)
+- **Maillard Reaction** — Browning reaction that builds flavor (already exists)
+- **Flavor Theory** — Understanding taste combinations (already exists)
+- **Ingredient Pairings** — What ingredients work together (already exists)
+- **Resting Meat** — Juiciness maximization technique (new)
+- **Umami Building Blocks** — Likely a concept about foundational umami flavor construction (new)
+
+## Main Arguments & Findings
+This is a navigation portal, not a source with arguments. It organizes existing and anticipated cooking knowledge into categories (Techniques, Recipes, Ingredients, Flavor Profiles). No empirical claims.
+
+## Connections to Existing Wiki
+Strong overlap with existing pages: [[wok-cooking]], [[wok-hei]], [[maillard-reaction]], [[flavor-theory]], [[ingredient-pairings]], [[aromatics]], [[aromatics-the-holy-trinity]], [[salmon-collars]], [[category-cooking-techniques]], [[rice-varieties-index]] (implied), and several cuisine pages. The portal consolidates scattered food content into a single entry point.
+
+## Contradictions & Tensions
+None. This is a neutral organizing structure.
+
+## Recommendations
+- **Create/update**: The portal page itself is new and should be added as a hub. Several linked recipe and resource pages need creation (Recipe: Perfect Stir-Fry, Recipe: Glazed Salmon Collars, Recipe: Umami Building Blocks, Resource: Salt Fat Acid Heat, etc.).
+- **Emphasize**: The connection to existing flavor theory, wok techniques, and Maillard reaction content. The portal strengthens the food/cooking knowledge cluster.
+- **Flag**: Resting Meat and Umami Building Blocks are novel concepts not yet in the wiki — worth developing. Also check whether [[aromatics-the-holy-trinity]] should be linked from the portal since it exists.
+- **De-emphasize**: Nothing here conflicts with existing content.
+- **Open questions**: Are the recipe and resource pages intended to be authored, or are they placeholder links?

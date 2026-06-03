@@ -1,0 +1,64 @@
+---
+type: concept
+title: 火锅
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- chinese
+- cuisine
+- asian
+- technique
+- gastronomy
+sources:
+- hot-pot.md
+related:
+- sichuan-cuisine
+- chinese-regional-cuisines
+- malar-flavor
+- sichuan-peppercorns-huajiao
+- doubanjiang
+- wok-cooking
+- yum-cha
+---
+-
+# 火锅
+
+火锅（Hot Pot, Huǒguō）是一种以"火锅"为名的中式 communal dining 方式，食客在桌上将新鲜食材放入沸腾的汤底中煮熟，强调社交互动与共同烹饪的用餐体验。
+
+## 概述
+
+火锅源自中国北方游牧民族，最初作为便携式烹饪方式用于蒙古等游牧部落，后逐渐演变为覆盖全国各区域的大规模传统。其核心要素包括滚沸的汤底、新鲜薄切的食材和个性化的蘸料。
+
+## 地区差异
+
+- **四川/重庆**：麻辣锅底，花椒带来的 numbness 和辣椒带来的 spiciness 是核心特征
+- **广东**：清淡海鲜汤底，注重食材本味
+- **北京/上海**：温和肉食为主
+- **云南**：野生菌菇和草本植物
+- **满洲**：大量内脏和肉类的浓厚风格
+
+## 汤底类型
+
+- **麻辣锅底**：花椒、辣椒油、八角、桂皮、丁香等香料，颜色鲜红，味道浓郁
+- **清汤**：牛骨、鸡汤、猪骨汤等，温和鲜美
+- **菌汤**：以干香菇、木耳、平菇为主，素食友好
+- **海鲜汤底**：鱼骨、虾壳熬制，清淡鲜香
+
+## 蘸料体系
+
+经典蘸料包括芝麻油、蒜末、葱花、香菜、辣椒油、酱油和醋的调配。广东蘸料偏清淡芳香，海鲜蘸料则强调姜和醋。现代火锅常设置自助蘸料吧，让食客自由组合。
+
+## 分锅设计
+
+鸳鸯锅（split pot）是常见的双锅设计，一边麻辣一边清汤，满足不同口味需求。
+
+## 烹饪顺序
+
+推荐的烹饪顺序为：先加入姜葱等增味食材，再下薄切肉类，然后海鲜、豆制品，最后蔬菜和碳水化合物（面条、米饭），避免过度烹饪导致肉质变老。
+
+## 延伸阅读
+
+- Fuchsia Dunlop《Land of Plenty》
+- Hsiao-Ching Chou《Hot Pot》
+- Christine Liu《The Hot Pot Cookbook》
+---

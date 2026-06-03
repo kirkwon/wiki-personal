@@ -1,0 +1,19 @@
+---
+type: source
+title: Perspective
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Perspective.md
+---
+--
+# Perspective
+
+Perspective is a mental model defined as a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+This source references Peter M. Senge's *The Fifth Discipline Fieldbook* as its sole cross-source. The model is described as universal in applicability and applicable across general domains.
+
+The definition closely overlaps with existing wiki mental models such as [[overview]], [[seeing-the-unseen]], and [[thinking-mental-model]], suggesting it may be subsumed into broader pattern-recognition frameworks rather than standing as a standalone concept.

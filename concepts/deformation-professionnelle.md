@@ -1,0 +1,33 @@
+---
+type: concept
+title: Deformation Professionnelle
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- cognitive-bias
+- expertise
+- blind-spots
+sources:
+- The Art of Thinking Clearly - Rolf Dobelli.md
+related:
+- chauffeur-knowledge
+- expert-illusion
+- not-invented-here-syndrome
+---
+-
+# Deformation Professionnelle
+
+The tendency for professional training and experience to create blind spots in thinking. When we are highly trained in one approach, we see all problems through that lens and miss alternative perspectives.
+
+## Key Points
+- Expertise creates cognitive tunnel vision
+- Connects to [[chauffeur-knowledge]] — superficial expert knowledge
+- Connects to [[expert-illusion]] — experts overestimating their knowledge
+- Connects to [[not-invented-here-syndrome]] — resistance to external ideas
+
+## Example
+A surgeon sees every problem as requiring surgery. An economist sees every problem as a market failure. A lawyer sees every problem as a legal issue.
+
+## Guardrail
+Actively seek perspectives from outside your profession. Use [[devil-s-advocate-perspective]] to challenge your professional assumptions.
+---

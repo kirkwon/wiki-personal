@@ -1,0 +1,23 @@
+---
+type: entity
+title: The Fifth Discipline
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- book
+- organizational-learning
+- systems-thinking
+sources:
+- The Fifth Discipline - Peter M Senge.md
+related:
+- peter-m-senge
+- learning-organizations
+- systems-thinking
+- the-fifth-discipline-fieldbook
+---
+--
+# The Fifth Discipline
+
+A book by Peter M. Senge that introduces the concept of learning organizations and the discipline of systems thinking. The book argues that traditional management approaches fail for complex, interdependent issues and that organizations must adopt systemic thinking to navigate change effectively.
+
+Key chapters cover the three laws of systems thinking, patterns that program the future, balancing short-term and long-term goals, quality management transformation, and practical examples of learning organizations in action.

@@ -1,0 +1,146 @@
+---
+source_type: book
+title: Principles - Ray Dalio
+author: Ray Dalio
+year: 2024
+category: general
+tags: []
+chapters: 14
+concepts: 14
+ingested: 2026-05-03
+sha256: 1fe9704843de9433f3b10cb66096a7cf1561daa56e7a7ad7b6ed1ece17c52142
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+--
+
+
+# Principles - Ray Dalio
+
+{
+  "metadata": {
+    "title": "Principles - Ray Dalio",
+    "author": "Ray Dalio",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "principles-ray-dalio",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Life's Simple Lessons",
+        "summary": "Brief description of the chapter's main concepts and key points: The first chapter introduces core principles derived from life experiences that serve as a foundation for success, focusing on embracing failure, cultivating relationships, and managing expectations.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "Understanding Ourselves and Our Environment",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter emphasizes self-awareness, emotional intelligence, and understanding external factors that can impact our lives.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Basics of Thinking Clearly",
+        "summary": "Brief description of the chapter's main concepts and key points: Dalio explores various thinking methods such as critical analysis, decision making processes, and effective communication to help readers make sound judgments in complex situations.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Building Relationships for Success",
+        "summary": "Brief description of the chapter's main concepts and key points: Focusing on interpersonal relationships, this chapter provides strategies for building strong connections with others while maintaining authenticity.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Power of Goals",
+        "summary": "Brief description of the chapter's main concepts and key points: Dalio underscores the importance of setting realistic goals that are aligned with personal values to achieve success, emphasizing SMART criteria (specific, measurable, achievable, relevant, time-bound).",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "Embracing Change and Resilience",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter discusses how embracing change can lead to personal growth and success while providing practical steps for developing resilience.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Art of Decision Making",
+        "summary": "Brief description of the chapter's main concepts and key points: By incorporating systems thinking and risk management, Dalio presents a structured approach to decision making in complex environments with multiple variables.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "Creating Effective Organizations",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter discusses how effective organizational structures can improve communication, innovation, and employee engagement while promoting adaptability and growth.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "The Importance of Culture in Business",
+        "summary": "Brief description of the chapter's main concepts and key points: Dalio highlights the role culture plays within a business context and offers guidance on fostering a positive work environment to encourage productivity and collaboration.",
+        "part": ""
+      },
+      {
+        "chapter": 10,
+        "title": "Developing Market Understanding",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter focuses on gaining insight into market dynamics, customer behavior, competitor analysis, and risk assessment to make informed investments.",
+        "part": ""
+      },
+      {
+        "chapter": 11,
+        "title": "Managing Risk in Portfolio Diversification",
+        "summary": "Brief description of the chapter's main concepts and key points: Dalio presents principles for diversifying a portfolio across various asset classes and geographies while mitigating risk exposure to achieve better long-term investment results.",
+        "part": ""
+      },
+      {
+        "chapter": 12,
+        "title": "The Value of Honesty, Humility, and Hard Work",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter underlines core values such as honesty, humility, hard work, and focus on continuous improvement to achieve success in personal and professional life.",
+        "part": ""
+      },
+      {
+        "chapter": 13,
+        "title": "Investing Wisely with Principles-Driven Portfolios",
+        "summary": "Brief description of the chapter's main concepts and key points: Dalio provides insights into creating principles-driven investment portfolios that prioritize understanding markets, minimizing losses while maximizing long-term growth potential.",
+        "part": ""
+      },
+      {
+        "chapter": 14,
+        "title": "The Role of Continuous Learning in Success",
+        "summary": "Brief description of the chapter's main concepts and key points: This final chapter encourages lifelong learning, adaptability, and openness to new ideas as critical factors for ongoing personal and professional development.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "Life's Simple Lessons",
+    "Understanding Ourselves and Our Environment",
+    "The Basics of Thinking Clearly",
+    "Building Relationships for Success",
+    "The Power of Goals",
+    "Embracing Change and Resilience",
+    "The Art of Decision Making",
+    "Creating Effective Organizations",
+    "The Importance of Culture in Business",
+    "Developing Market Understanding",
+    "Managing Risk in Portfolio Diversification",
+    "The Value of Honesty, Humility, and Hard Work",
+    "Investing Wisely with Principles-Driven Portfolios",
+    "The Role of Continuous Learning in Success"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

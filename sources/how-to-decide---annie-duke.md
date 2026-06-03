@@ -1,0 +1,33 @@
+---
+source_url: ''
+ingested: 2026-05-03
+sha256: 667b9e87535d4b42c5d1a7bd6c0edf819133edd50996aeeeb9e494e139c10c78
+title: How to Decide - Annie Duke
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+-
+
+# How to Decide - Annie Duke
+
+## Summary
+
+Annie Duke's 2024 book [[how-to-decide---annie-duke]] presents a comprehensive framework for improving decision quality by focusing on the process rather than outcomes. Drawing from her experience as a professional poker player and behavioral science research, Duke argues that better decisions come from evaluating the quality of your decision process, not just results. Good process combined with uncertainty can still produce bad outcomes, while bad process with good outcomes is misleading.
+
+The book is organized into eight chapters covering: the art of decision making, understanding uncertainty, the role of emotion and intuition, strategic vs reactive thinking, decisions in teams, the power of choice framing, decision-making under pressure, and building a decision culture.
+
+## Key Concepts
+
+- [[decision-quality-vs-outcome-quality]] — The core thesis that decision quality must be separated from outcome quality
+- [[decision-making-under-uncertainty]] — Probabilities, expectations, and framing uncertainties
+- [[framing-effects-in-decision-making]] — How choices are presented dramatically alters decisions
+- [[strategic-vs-reactive-thinking]] — Long-term vs short-term decision orientation
+- [[building-a-decision-culture]] — Organizational cultures that support good decisions
+- [[emotion-and-intuition-in-decisions]] — Integrating emotional intelligence with rational analysis
+
+## Connections
+
+Strongly connects to [[two-views-of-decision-kahneman-vs-klein]], [[cognitive-biases-library]], [[dual-process-theory]], [[prospect-theory]], and [[recognition-primed-decision-model]].
+
+---

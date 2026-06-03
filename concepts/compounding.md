@@ -1,0 +1,42 @@
+---
+type: concept
+title: Compounding
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- investing
+- personal-finance
+- retirement
+related:
+- retirement-planning
+- 4-percent-rule
+- asset-allocation-by-age
+sources:
+- Retirement Planning.md
+---
+--
+# Compounding
+
+Compounding is the process by which investment returns generate their own returns over time. It is the single most powerful force in building retirement wealth.
+
+## Time Value Example (7% annual return)
+
+| Age Started | Monthly | Total by Age 65 | Total Contributed | Earnings |
+|-------------|--------|------------------|------------------|----------|
+| 25 | $500 | $1,204,000 | $240,000 | $964,000 |
+| 35 | $1,000 | $1,228,000 | $360,000 | $868,000 |
+| 45 | $2,000 | $1,025,000 | $480,000 | $545,000 |
+| 55 | $5,000 | $832,000 | $600,000 | $232,000 |
+
+**Key insight**: Starting early beats starting later with higher amounts. Every 10 years of delay roughly doubles the required savings.
+
+## Best Practices
+- Start early — time is more valuable than money
+- Automate contributions
+- Maximize tax-advantaged accounts to keep compounding tax-free longer
+- Increase contributions when income rises
+
+## Related
+- [[retirement-planning]] — Compounding drives the savings strategy
+- [[4-percent-rule]] — Portfolio growth supports sustainable withdrawals
+- [[asset-allocation-by-age]] — Allocation affects long-term compounding returns

@@ -1,0 +1,37 @@
+---
+type: source
+title: Stoicism
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- philosophy
+- mental-model
+- decision-making
+sources:
+- Stoicism.md
+---
+-
+# Stoicism Source
+
+This source introduces Stoicism as a universal mental model for navigating complex situations. It frames Stoicism as a conceptual tool providing mental shortcuts for understanding patterns and relationships in the world. The primary reference is Ryan Holiday's *The Daily Stoic*, which positions Stoicism as broadly applicable across domains.
+
+Key claim: Stoicism serves as a mental shortcut or framework for making sense of complexity.
+- Applicability: Universal
+- Confidence: 0.7
+- Domains: General
+- Tags: mental-model
+---
+## Cross-Source Perspectives
+
+Referenced by Ryan Holiday in *The Daily Stoic* as a universal mental model applicable across all domains.
+
+## Related Concepts
+
+- [[stoicism-mental-model]]
+- [[ryan-holiday]]
+- [[the-obstacle-is-the-way]]
+- [[stillness]]
+- [[emotion-and-intuition-in-decisions]]
+- [[satisfaction-under-constraints]]
+- [[effort]]
+- [[care]]

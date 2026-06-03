@@ -1,0 +1,113 @@
+---
+source_type: book
+title: 'The 8th Habit: From Effectiveness to Greatness - Stephen R. Covey'
+author: Stephen R. Covey
+year: 2024
+category: general
+tags: []
+chapters: 10
+concepts: 9
+ingested: 2026-05-03
+sha256: d12996e6ca13768d78ac51e0c381c863337bde05b29e6618e0ef1d256ff6d518
+---
+--
+
+# The 8th Habit: From Effectiveness to Greatness - Stephen R. Covey
+
+{
+  "metadata": {
+    "title": "The 8th Habit: From Effectiveness to Greatness - Stephen R. Covey",
+    "author": "Stephen R. Covey",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "the-8th-habit_-from-effectiveness-to-greatness-stephen-r-covey",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction - The Paradox of Power",
+        "summary": "Brief description of how greatness is achievable through a paradoxical approach, challenging traditional views on power and leadership.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "Embracing Contradiction",
+        "summary": "Brief description of the importance of embracing contradictions to unlock personal potential and drive change in both personal and professional life.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Sequence of Greatness",
+        "summary": "Brief summary of Covey's seven-step framework for cultivating greatness, starting with creating win-win situations through effective communication.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Mastering the \"Begin With\" Principle",
+        "summary": "Brief description of how focusing on \"beginning with\" rather than \"ending at\" helps in accomplishing tasks and achieving goals efficiently.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Power of Purposeful Habits",
+        "summary": "Brief explanation of why purpose-driven habits are the foundation for building greatness, along with examples of how these habits can transform one's life.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "Overcoming Fear and Distortion",
+        "summary": "Brief discussion on understanding and overcoming fears by recognizing distorted thinking patterns that often hinder progress in personal growth and relationships.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Greatness of Relationships",
+        "summary": "Brief insights into the importance of cultivating healthy, mutually beneficial relationships through empathy, appreciation, and understanding others' perspect Points on maintaining strong connections while pursuing greatness.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "Mastering Confrontation and Negotiation",
+        "summary": "Brief explanation of how to effectively manage conflict, confront with integrity, and develop winning negotiation skills that contribute to success in both personal and professional contexts.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "The Greatness Habit - Proactive Influence",
+        "summary": "Brief description of the importance of proactive influence in driving change and overcoming resistance within organizations or society at large while maintaining ethical standards.",
+        "part": ""
+      },
+      {
+        "chapter": 10,
+        "title": "Leveraging Change for Greater Good",
+        "summary": "Brief summary of how to use greatness as a tool for creating positive, lasting impacts on the world by leveraging personal development and influence.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "Embracing Contradiction",
+    "The Sequence of Greatness",
+    "Mastering the \"Begin With\" Principle",
+    "The Power of Purposeful Habits",
+    "Overcoming Fear and Distortion",
+    "The Greatness of Relationships",
+    "Mastering Confrontation and Negotiation",
+    "The Greatness Habit - Proactive Influence",
+    "Leveraging Change for Greater Good"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

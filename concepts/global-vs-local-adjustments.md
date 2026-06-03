@@ -1,0 +1,38 @@
+---
+title: Global vs Local Adjustments
+created: 2026-04-24
+updated: 2026-04-24
+type: concept
+tags:
+- photography
+- editing
+- post-processing
+sources:
+- post-processing.md
+related:
+- post-processing
+- tone-curve
+- hsl
+---
+-
+# Global vs Local Adjustments
+
+Post-processing adjustments fall into two categories: global adjustments applied to the entire image, and local adjustments targeting specific areas.
+
+## Global Adjustments
+
+Applied to the entire image: exposure, contrast, highlights, shadows, whites, blacks, clarity, vibrance, saturation, texture. These are the first corrections made in the workflow.
+
+## Local Adjustments
+
+Targeted edits using specific tools:
+- **Adjustment brush**: Paint adjustments on specific areas
+- **Gradient filter**: Apply adjustments linearly (sky, foreground)
+- **Radial filter**: Apply adjustments circularly (subject, vignette)
+- **Color range mask**: Select by color
+- **Luminance mask**: Select by brightness
+
+Common uses include brightening a subject's face, darkening a bright sky, enhancing eyes, and reducing highlights on skin.
+
+Related to [[Post-Processing]], [[Tone Curve]], and [[HSL]].
+---

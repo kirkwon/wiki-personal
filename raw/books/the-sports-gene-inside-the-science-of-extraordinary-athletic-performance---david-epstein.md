@@ -1,0 +1,121 @@
+---
+source_type: book
+title: 'The Sports Gene: Inside the Science of Extraordinary Athletic Performance
+  - David Epstein'
+author: David Epstein
+year: 2024
+category: general
+tags: []
+chapters: 11
+concepts: 10
+ingested: 2026-05-03
+sha256: ba3c35d4b3f524dee613da129874f603702cdceb7d02a51d687689bd33c5cb12
+---
+--
+
+# The Sports Gene: Inside the Science of Extraordinary Athletic Performance - David Epstein
+
+{
+  "metadata": {
+    "title": "The Sports Gene: Inside the Science of Extraordinary Athletic Performance - David Epstein",
+    "author": "David Epstein",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "the-sports-gene_-inside-the-science-of-extraordinary-athletic-performance-david-epstein",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction to Genetics in Athletics",
+        "summary": "Brief description of how genetic research has shaped our understanding of athletic performance and sets up for a broader exploration into the subject.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "The Myth of Race and Athletic Performance",
+        "summary": "Examination of common misconceptions regarding racial differences in sports, discussing scientific evidence on genetics versus environment's impact.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "Genetic Foundations of Elite Ability",
+        "summary": "Exploration of the biological underpinnings that contribute to elite athletic performance and a brief look into specific genes involved.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Early Sports Specialization Versus Broad Athletic Development",
+        "summary": "Comparison between specializing early in sports vs. diverse training experiences, backed by research findings on long-term effects on performance.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Role of Training Intensity and Frequency",
+        "summary": "Analysis of how variations in athletic training impact genetic expression and influence overall performance outcomes.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "Nutrition, Metabolism, and Performance",
+        "summary": "Investigation into the interplay between diet, metabolism, and their collective role in optimizing an athlete's genetic potential.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Impact of Psychology on Genetic Expression in Sports",
+        "summary": "Overview of psychological factors that can enhance or hinder athletic performance through the lens of gene-environment interactions.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "Socioeconomic Factors and Their Influence on Athletic Success",
+        "summary": "Examination of how socioeconomic status contributes to accessibility to resources, training quality, and ultimately affects genetic expression in sports performance.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "The Importance of Genetic Diversity in Sports Teams",
+        "summary": "The benefits of genetic diversity within teams for overall success and adaptability in various competitive scenarios.",
+        "part": ""
+      },
+      {
+        "chapter": 1,
+        "title": "inas the world of professional sports today, but their influence on developing talent is often underestimated.",
+        "summary": "",
+        "part": ""
+      },
+      {
+        "chapter": 11,
+        "title": "Looking Forward - The Future of Sports Genetics",
+        "summary": "Speculations on how advancing genetic technologies may impact athletic training and selection in the future, along with ethical considerations surrounding it.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Myth of Race and Athletic Performance",
+    "Genetic Foundations of Elite Ability",
+    "Early Sports Specialization Versus Broad Athletic Development",
+    "The Role of Training Intensity and Frequency",
+    "Nutrition, Metabolism, and Performance",
+    "The Impact of Psychology on Genetic Expression in Sports",
+    "Socioeconomic Factors and Their Influence on Athletic Success",
+    "The Importance of Genetic Diversity in Sports Teams",
+    "inas the world of professional sports today, but their influence on developing talent is often underestimated.",
+    "Looking Forward - The Future of Sports Genetics"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

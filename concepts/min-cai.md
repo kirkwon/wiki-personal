@@ -1,0 +1,44 @@
+---
+type: concept
+title: 闽菜
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- chinese
+- regional
+- cuisine
+sources:
+- regional-overview.md
+related:
+- chinese-regional-cuisines
+- fujian-cuisine
+---
+-
+# 闽菜
+
+闽菜是中国八大菜系之一，以福建省为中心，以海鲜和清淡鲜味著称。
+
+## 地理与哲学
+- **地区**：福建省，东南部
+- **哲学**：清淡、鲜味、海鲜为主
+
+## 风味特征
+- 清淡、鲜味、鲜香
+- 辣度：温和
+
+## 代表菜品
+- 佛跳墙
+- 炖鲍鱼
+
+## 烹饪技法
+- 海鲜专长
+- 清淡的高汤
+- 微妙调味
+- 发酵食品
+
+## 特点
+- 海鲜专长
+- 清淡高汤
+- 微妙调味
+- 发酵食品
+---

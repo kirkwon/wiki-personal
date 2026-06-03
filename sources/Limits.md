@@ -1,0 +1,14 @@
+---
+type: source
+title: Limits.md
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+sources:
+- Limits.md
+---
+--
+# Limits.md Source Summary
+
+A mental model page defining "Limits" as a conceptual tool for understanding patterns and relationships in complex situations. References Donella H. Meadows' *Limits to Growth: The 30-Year Update* as the cross-source authority. The model is described as a universal shortcut applicable across general domains.

@@ -1,0 +1,40 @@
+---
+
+type: concept
+title: ISO
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- photography
+- exposure
+- fundamentals
+- sensor
+sources:
+- photography-fundamentals.md
+related:
+- exposure-triangle
+- aperture
+- shutter-speed
+- post-processing
+- sensor-noise
+----
+# ISO
+
+ISO is the camera sensor's sensitivity to light, measured in numbers: 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600.
+
+## How It Works
+
+- **Lower ISO (100)**: LESS sensitive, CLEAN images, needs more light
+- **Higher ISO (6400)**: MORE sensitive, NOISY images, needs less light
+
+## Common Uses
+
+| ISO | Use Case | Effect |
+|-----|----------|--------|
+| 100 – 200 | Bright daylight, tripod | Cleanest images |
+| 400 – 800 | Overcast, indoor | Good balance |
+| 1600 – 3200 | Low light, indoor | Acceptable noise |
+| 6400 – 12800 | Very low light | Visible noise |
+| 25600+ | Extreme low light | Heavy noise |
+
+ISO is the third pillar of the [[exposure-triangle]], alongside [[aperture]] and [[shutter-speed]]. Higher ISO values can introduce noise that may require correction in [[post-processing]]. See [[exposure-triangle]] for how ISO interacts with aperture and shutter speed.

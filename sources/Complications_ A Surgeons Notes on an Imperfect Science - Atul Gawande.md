@@ -1,0 +1,42 @@
+---
+type: source
+title: 'Source: Complications_ A Surgeons Notes on an Imperfect Science - Atul Gawande.md'
+created: 2026-05-11
+updated: 2026-05-11
+sources:
+- Complications_ A Surgeons Notes on an Imperfect Science - Atul Gawande.md
+tags: []
+related: []
+---
+--
+
+# Source: Complications_ A Surgeons Notes on an Imperfect Science - Atul Gawande.md
+
+## Key Entities
+- **Atul Gawande** (person) – Author of *Complications*, central to this source. Already exists in wiki via [[being-mortal]] and [[the-checklist-manifesto---atul-gawande]].
+- **Complications: A Surgeon's Notes on an Imperfect Science** (book) – The source document itself. Not currently in wiki index.
+- **Surgeons, Surgery, Challenges, Field, Nature, Medicine, Patients, Families** (concepts/mental models) – Tagged as mental models from the book. Most are generic and not independently in the wiki.
+
+## Key Concepts
+- **The imperfect nature of medicine** – Surgery as blend of science and art; failures inherent but improvable through reflection, collaboration, empathy. Core theme.
+- **Failure as learning opportunity** – Chapter 4's claim that surgical failures are both inevitable and instructive. Relates to [[embracing-failure-for-personal-growth]] and [[inattention-to-results]].
+- **Surgical safety and teamwork** – Chapter 7 on standardized procedures, communication, reducing errors. Connects to [[checklists]] (Gawande's Checklist Manifesto already in wiki).
+- **Storytelling for learning** – Chapter 8 on sharing experiences. Relates to [[communication-skills]] and [[extracted-wisdom-text-to-speech]].
+- **Emotional/psychological toll on practitioners** – Chapter 3 on guilt, responsibility, cost to surgeons and families. Ties to [[morality-and-decision-making]].
+
+## Main Arguments & Findings
+- Core claim: Medicine and surgery are inherently imperfect; continuous improvement through reflection, collaboration, and empathy yields better outcomes.
+- Evidence: Anecdotal case studies from Gawande's surgical practice (as described in summaries).
+- Strength: Anecdotal; compelling but not empirically rigorous. Consistent with broader literature on medical error and human factors.
+
+## Connections to Existing Wiki
+- Directly extends [[the-checklist-manifesto---atul-gawande]] and [[being-mortal]] — same author, related themes of medical complexity and human fallibility.
+- Relates to [[checklists]] mental model, [[decision-quality-vs-outcome-quality]], [[group-decision-polarization]], [[communication-skills]], [[embracing-failure-for-personal-growth]].
+- The "Hermes" productivity framing (habit tracking, time blocking, Eisenhower Matrix) is a significant stretch — the book is about surgical practice, not productivity optimization. This mapping appears to be a generic skill-assignment artifact rather than a faithful thematic connection.
+
+## Contradictions & Tensions
+- The source tags this book as a productivity tool (habit tracking, time blocking, Deep Work) which conflicts with the book's actual subject matter: surgical complexity, failure, human cost. This misalignment should be flagged.
+- Chapter 7's emphasis on standardized procedures and teamwork contrasts with Chapter 5's point that real patients defy standard protocols — tension between standardization and individualization that the wiki doesn't currently capture.
+
+## Recommendations
+- **Creat

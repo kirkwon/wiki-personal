@@ -1,0 +1,53 @@
+---
+
+type: concept
+title: Common Biases by Domain
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- cognitive-bias
+- decision-making
+- investing
+- management
+- psychology
+related:
+- cognitive-biases-library
+- decision-making-frameworks
+sources:
+- cognitive-biases-library.md
+----
+# Common Biases by Domain
+
+How cognitive biases manifest differently across key life domains.
+
+## Investing
+
+- **Loss Aversion**: Hold losers too long, sell winners too early
+- **Recency Bias**: Overweight recent performance in projections
+- **Confirmation Bias**: Research only bullish news on owned stocks
+- **Overconfidence**: Believe you can beat the market
+
+## Management
+
+- **Planning Fallacy**: Underestimate project timelines and budgets
+- **Sunk Cost**: Continue failing projects due to past investment
+- **Halo Effect**: Assume charismatic leader is competent in all areas
+- **Survivorship Bias**: Copy only successful companies, ignoring failures
+
+## Relationships
+
+- **Fundamental Attribution Error**: Blame personality rather than circumstances
+- **Halo Effect**: Physical attractiveness equated with being a good person
+- **Confirmation Bias**: Notice only behaviors confirming beliefs about partner
+
+## Health
+
+- **Availability Heuristic**: Overweight vivid risks (sharks) over common ones (heart disease)
+- **Optimism Bias**: Think you're less likely than average to get sick
+- **Sunk Cost**: Continue ineffective treatments because you started them
+
+## Related Concepts
+
+- [[cognitive-biases-library]] — source taxonomy
+- [[decision-making-frameworks]] — structured approaches
+- [[loss-aversion]] — connected to prospect theory

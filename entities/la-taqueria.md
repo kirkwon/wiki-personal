@@ -1,0 +1,27 @@
+---
+type: entity
+title: La Taqueria
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- local
+- sf
+- restaurants
+sources:
+- san-francisco-city-guide.md
+related:
+- mission-district
+- favorite-restaurants
+---
+-
+# La Taqueria
+
+Taqueria emblématique du Mission District, connue pour ses burritos exceptionnels.
+
+## Points clés
+- Dans le Mission District
+- Meilleurs burritos de San Francisco selon le guide
+- Recommandation : « manger comme un local »
+- Alternative : El Farolito
+
+---

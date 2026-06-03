@@ -1,0 +1,325 @@
+---
+created: '2026-04-24'
+sources:
+- raw/ingested/Quant Strategy/momentum-strategy.md
+tags:
+- general
+- quant
+title: Momentum Strategy
+type: comparison
+updated: '2026-04-24'
+---
+
+
+# Momentum Strategy
+
+## Infobox
+
+| Attribute | Value |
+|-----------|-------|
+| **Difficulty** | Intermediate |
+| **Prerequisites** | [[Factor Investing]], [[Technical Analysis Basics]] |
+| **Related Concepts** | [[Mean Reversion]], [[Trend Following]], [[Breakout Trading]] |
+| **Holding Period** | 1-12 months (typical 3-6 months) |
+| **Risk Profile** | High |
+
+## Overview
+
+Momentum is the tendency for assets that have performed well in the past to continue performing well in the near future. It's one of the most robust market anomalies, persisting across asset classes, geographies, and time periods.
+
+## The Momentum Effect
+
+### Definition
+
+**Momentum** = "Stocks that have gone up recently will continue to go up."
+
+- Look-back period: 3-12 months (most common: 12 months)
+- Skip recent month (to avoid reversals)
+- Holding period: 1-12 months (typically 3-6 months)
+
+### Why It Works
+
+| Explanation | Theory |
+|-------------|--------|
+| **Underreaction** | Prices react slowly to new information |
+| **Behavioral bias** | Herding, extrapolation of past trends |
+| **Risk compensation** | Momentum stocks are riskier than value stocks |
+| **Liquidity** | Less liquid stocks show stronger momentum |
+
+### Evidence
+
+- **Academic research**: Jegadeesh and Titman (1993) - first to document
+- **Persistence**: Has worked for 90+ years
+- **Global**: Works in US, Europe, Asia, emerging markets
+- **Cross-asset**: Works in stocks, bonds, commodities, currencies
+
+## Momentum Metrics
+
+### Price Momentum
+
+**12-Month Minus 1-Month (12-1)**
+```
+Momentum = (Price today / Price 12 months ago) - (Price today / Price 1 month ago)
+```
+
+**Implementation:**
+1. Calculate 12-month return (excluding most recent month)
+2. Rank all stocks by this metric
+3. Buy top decile (or top 20%)
+4. Hold for 3-6 months
+5. Rebalance monthly
+
+### Cross-Sectional Momentum
+
+Compare stocks to each other within the same universe.
+
+**Example:**
+- Stock A: +20% in past 12 months
+- Stock B: +5% in past 12 months
+- Stock C: -10% in past 12 months
+
+→ Buy Stock A, avoid Stock C
+
+### Time-Series Momentum
+
+Compare an asset to its own past performance.
+
+**Example:**
+- S&P 500: +15% in past 12 months
+- Buy S&P 500
+
+→ Different from cross-sectional (compare S&P to other indices)
+
+## Momentum Strategies
+
+### Simple Momentum (12-1)
+
+**Rules:**
+1. Look back 12 months (exclude last month)
+2. Buy top 20% of stocks by return
+3. Hold for 3 months
+4. Rebalance monthly
+
+**Pros:** Simple, well-researched, easy to implement
+**Cons:** High turnover, can crash suddenly
+
+### Momentum + Quality
+
+Combine momentum with quality to reduce crashes:
+
+**Rules:**
+1. Filter for high-quality stocks (ROE > 15%, low debt)
+2. From quality stocks, pick top 20% by momentum
+3. Hold 3-6 months
+
+**Pros:** Less prone to value traps, smoother returns
+**Cons:** Limits opportunity set
+
+### Momentum + Value
+
+Use momentum to time value purchases:
+
+**Rules:**
+1. Filter for cheap stocks (low P/E, P/B)
+2. From value stocks, buy those with positive momentum
+3. Hold until momentum turns negative
+
+**Pros:** Avoids "value traps" (falling knives)
+**Cons:** Misses turnaround stories
+
+### Dual Momentum
+
+Apply momentum to asset allocation:
+
+**Rules:**
+1. Compare S&P 500 vs. Treasuries over past 12 months
+2. If S&P 500 > Treasuries: Buy S&P 500
+3. If Treasuries > S&P 500: Buy Treasuries
+4. Rebalance monthly
+
+**Pros:** Simpler, lower transaction costs, better risk-adjusted returns
+**Cons:** Misses sector rotation opportunities
+
+### Trend Following (Long-Term Momentum)
+
+Use longer look-back periods for asset allocation:
+
+**Rules:**
+1. Calculate 200-day moving average for S&P 500
+2. If price > 200-day MA: Buy stocks
+3. If price < 200-day MA: Buy bonds/cash
+4. Rebalance monthly
+---
+
+**Pros:** Avoids major bear markets, simple
+**Cons:** Whipsaws (frequent buy/sell signals)
+
+## Momentum Crashes
+
+### What Are They?
+
+Momentum crashes are sudden, sharp reversals where momentum stocks underperform dramatically.
+
+**Historical Examples:**
+- **2008**: Momentum -30% vs market -40% (still underperformed)
+- **2009**: Momentum -50% while market recovered
+- **2020 (COVID)**: Momentum -40% vs market -34%
+
+### When Do Crashes Occur?
+
+| Condition | Why Crashes Happen |
+|-----------|-------------------|
+| Bear market start | Momentum stocks are high-beta, fall faster |
+| Sharp reversal | Trend followers all sell at once |
+| High valuations | Momentum stocks become overpriced |
+| Low volatility | Complacency before crash |
+
+### Mitigation Strategies
+
+1. **Diversify across timeframes** (3-month, 6-month, 12-month momentum)
+2. **Combine with value** (momentum + value = lower volatility)
+3. **Use stop losses** (exit when momentum turns negative)
+4. **Volatility targeting** (reduce position size when vol spikes)
+5. **Dual momentum** (add safe assets when stocks weak)
+
+## Backtesting Results
+
+### Historical Performance (US Stocks, 1927-2023)
+
+| Strategy | Annual Return | Volatility | Sharpe Ratio |
+|----------|---------------|------------|--------------|
+| Market (S&P 500) | 10.2% | 18.5% | 0.55 |
+| Value | 13.5% | 22.3% | 0.61 |
+| Momentum | 16.8% | 25.1% | 0.67 |
+| Momentum + Value | 15.2% | 19.8% | 0.77 |
+
+**Takeaways:**
+- Momentum has highest returns, but also highest volatility
+- Momentum + Value has best risk-adjusted returns
+- All strategies beat market over long term
+
+### Drawdowns
+
+| Strategy | Max Drawdown | Worst Period |
+|----------|--------------|--------------|
+| Market | -86% (Great Depression) | 1929-1932 |
+| Momentum | -72% (2008-2009) | 2008-2009 |
+| Value | -81% (1929-1932) | 1929-1932 |
+| Momentum + Value | -58% (2008) | 2007-2009 |
+
+## Implementation
+
+### Stock Picking Approach
+
+**Monthly Rebalancing:**
+```python
+# Pseudocode
+universe = All US stocks (market cap > $500M)
+momentum_scores = calculate_12_1_momentum(universe)
+top_20_percentile = momentum_scores.quantile(0.8)
+buy_stocks = universe[momentum_scores > top_20_percentile]
+equal_weight_portfolio = 1 / len(buy_stocks)
+```
+
+**Pros:** Full control, no fees
+**Cons:** High transaction costs, time-intensive
+
+### ETF Approach
+
+**Momentum ETFs:**
+| ETF | Universe | Expense Ratio |
+|-----|----------|---------------|
+| MTUM | US Large Cap | 0.15% |
+| QMOM | US Mid Cap | 0.45% |
+| UMOM | International | 0.30% |
+| DMOM | Developed Markets | 0.35% |
+
+**Pros:** Simple, low effort, diversified
+**Cons:** Management fees, tracking error
+
+### Factor Portfolio
+
+Combine momentum with other factors:
+
+**Allocation:**
+- 30% Value
+- 30% Momentum
+- 20% Quality
+- 20% Low Volatility
+
+**Rebalance quarterly**
+
+**Pros:** Diversified, smoother returns
+**Cons:** May dilute momentum effect
+
+## Risk Management
+
+### Position Sizing
+
+**Volatility-Based Sizing:**
+```
+Position Size = (Target Risk / Stock Volatility) × (1 / Number of Stocks)
+```
+
+**Example:**
+- Target portfolio risk: 15%
+- Average stock volatility: 30%
+- Number of stocks: 50
+- Position size: 1% each
+
+### Stop Losses
+
+**Trailing Stop Loss:**
+```
+Stop Loss = Highest Price × (1 - Stop Percentage)
+```
+
+**Example:**
+- Stock bought at $100
+- Highest price reached: $120
+- Stop percentage: 15%
+- Stop loss: $120 × 0.85 = $102
+
+### Volatility Targeting
+
+**Reduce position when vol spikes:**
+```
+New Position = Old Position × (Target Volatility / Current Volatility)
+```
+
+**Example:**
+- Current portfolio volatility: 25%
+- Target volatility: 15%
+- Reduce position size by 40%
+
+## Common Mistakes
+
+| Mistake | How to Fix |
+|---------|------------|
+| Using only price momentum (no filters) | Add quality, sector, size filters |
+| Rebalancing too frequently | Balance responsiveness vs. costs |
+| Ignoring transaction costs | Estimate costs in backtest |
+| No risk management | Use stop losses, volatility targeting |
+| Overfitting to recent data | Use walk-forward testing |
+| Not accounting for taxes | Tax-loss harvest, use tax-efficient funds |
+
+## Related Concepts
+
+- [[Factor Investing]] - Momentum as a factor
+- [[Mean Reversion Strategy]] - Opposite of momentum
+- [[Trend Following]] - Longer-term momentum
+- [[Technical Analysis Basics]] - Identifying trends
+- [[Statistical Arbitrage]] - More advanced strategies
+
+## Further Reading
+
+- "Expected Returns" by Antti Ilmanen
+- "Your Complete Guide to Factor-Based Investing" by Larry Swedroe
+- "Trend Following" by Michael Covel
+
+## Data Sources
+
+- **Historical Price Data**: Yahoo Finance, Quandl, Kaggle
+- **Factor Data**: AQR, Kenneth French Data Library
+- **Screening Tools**: Portfolio123, Stock Rover
+- **Backtesting**: QuantConnect, Backtrader (Python)

@@ -1,0 +1,32 @@
+---
+type: concept
+title: Body Transformation
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- health
+- fitness
+- lifestyle
+sources:
+- The 4-Hour Body - Timothy Ferriss.md
+related:
+- the-4-hour-body
+- metabolic-flexibility
+- hiit
+- intermittent-fasting
+---
+--
+# Body Transformation
+
+Body transformation encompasses the holistic process of changing one's physique and health through integrated strategies in nutrition, exercise, sleep, supplementation, mindset, and habit formation. Ferriss's framework treats transformation as a systems-level endeavor rather than a single-variable problem.
+
+## Key Components
+- **Nutrition**: Strategic food selection and intermittent fasting
+- **Exercise**: HIIT and time-efficient training
+- **Recovery**: Sleep optimization and stress management
+- **Supplementation**: Targeted vitamins, minerals, adaptogens
+- **Mindset**: Positive self-talk, reframing challenges
+- **Habits**: Consistent, specific routines with positive reinforcement
+
+## Related Concepts
+[[the-4-hour-body]], [[metabolic-flexibility]], [[hiit]], [[intermittent-fasting]], [[sleep-optimization]], [[supplementation]], [[habit-loop]]

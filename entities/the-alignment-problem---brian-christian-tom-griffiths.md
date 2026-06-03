@@ -1,0 +1,28 @@
+---
+type: entity
+title: The Alignment Problem - Brian Christian & Tom Griffiths
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- books
+- ai
+- mental-model
+sources:
+- Problem.md
+related:
+- brian-christian
+- tom-griffiths
+- the-most-human-human
+- problem-mental-model
+- emotions-and-ai
+---
+-
+# The Alignment Problem - Brian Christian & Tom Griffiths
+
+*The Alignment Problem* is a book by Brian Christian and Tom Griffiths that explores the challenges of aligning artificial intelligence systems with human values and intentions. It examines how AI systems can behave in ways that diverge from their designers' goals, and the difficulty of ensuring that AI "wants" what humans want.
+
+Christian and Griffiths are also co-authors of [[the-most-human-human]], which explores human-AI interaction through the lens of the Turing test.
+
+The book connects to broader themes in the wiki including [[emotions-and-ai]], [[ethics-and-decision-making]], and the question of how to define and recognize problems in complex systems.
+
+---

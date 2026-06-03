@@ -1,0 +1,114 @@
+---
+type: note
+title: Infographic
+created: 2026-05-14
+updated: 2026-05-14
+tags: []
+sources: []
+
+Create a professional infographic following these specifications:
+
+## Image Specifications
+
+- **Type**: Infographic
+- **Layout**: bento-grid — modular grid with varied cell sizes (1x1, 2x1, 1x2, 2x2), hero cell for main point, supporting cells around it, clear cell boundaries, visual hierarchy through size
+- **Style**: corporate-memphis — flat vector illustration, vibrant saturated colors (purple, orange, teal, yellow), white background, clean sans-serif typography, bold headings, geometric fills, plant and object accents
+- **Aspect Ratio**: 16:9
+- **Language**: en
+
+## Core Principles
+
+- Follow the layout structure precisely for information architecture
+- Apply style aesthetics consistently throughout
+- Keep information concise, highlight keywords and core concepts
+- Use ample whitespace for visual clarity
+- Maintain clear visual hierarchy
+
+## Text Requirements
+
+- All text must match the specified style treatment
+- Main titles should be prominent and readable
+- Key concepts should be visually emphasized
+- Labels should be clear and appropriately sized
+- Use English for all text content
+
+## Layout Guidelines
+
+Modular grid layout with varied cell sizes, like a bento box. Grid of rectangular cells with mixed sizes (1x1, 2x1, 1x2, 2x2). No strict symmetry required. Hero cell for main point. Supporting cells around it. Clear cell boundaries with varied cell backgrounds. Icons or illustrations per cell. Consistent padding/margins. Visual hierarchy through size.
+
+## Style Guidelines
+
+Flat vector people with vibrant geometric fills. Primary colors: bright saturated purple, orange, teal, yellow. Background: white or light pastels. Accents: gradient fills, geometric patterns. Flat vector illustration with disproportionate human figures, abstract body shapes, floating geometric elements. No outlines, solid fills. Plant and object accents. Clean sans-serif typography, bold headings, professional but friendly, minimal decoration.
+
+---
+
+Generate the infographic based on the content below:
+
+## Title: Personal Knowledge Ecosystem — System Overview
+
+### Hero Cell (2x2): Scale of the Knowledge Base
+- "2,500+ Pages" as giant bold number
+- Subtitle: "Across 6 categories, interconnected"
+- Background: deep purple with white text
+
+### Cell 1 (1x1): Concepts
+- "1,755" large number
+- "Concept Pages"
+- Light blue background, brain/network icon
+
+### Cell 2 (1x1): Entities
+- "347" large number
+- "Entity Pages"
+- Teal background, person/book icon
+
+### Cell 3 (1x1): Sources
+- "410" large number
+- "Source Documents"
+- Orange background, document icon
+
+### Cell 4 (1x1): Comparisons
+- "26" large number
+- "Comparison Pages"
+- Yellow background, scale/balance icon
+
+### Cell 5 (2x1): Knowledge Domains
+- 6 domains listed: Cooking, Photography, Finance, Decision Science, Jazz, Botany
+- Small icons for each domain
+- Light pastel background
+
+### Cell 6 (2x1): Automated Pipeline
+- Flow: Source → Convert → Enrich → Index → Embed
+- 4 pipeline labels: Books, Videos, GBrain Export, NotebookLM Sync
+- Green-tinted background with connected arrows
+
+### Cell 7 (1x1): CLI Tools
+- "3" large number
+- "Custom CLI Tools"
+- knowledge-connect, book-pipeline, gbrain-notebooklm-bridge
+- Orange background, terminal icon
+
+### Cell 8 (1x1): Cron Jobs
+- "12" large number
+- "Scheduled Cron Jobs"
+- "Every 15min → Weekly"
+- Purple background, clock/calendar icon
+
+### Cell 9 (2x1): System Health
+- "Health Score: 75/100" with gauge visualization
+- "GBrain Schema v2"
+- "Vector extension: needs attention"
+- Warning yellow/orange background
+
+### Cell 10 (1x1): Wiki Index
+- "515" lines in index
+- "1,251" lines in activity log
+- Last updated: 2026-04-29
+- Light gray background
+
+### Cell 11 (1x1): Active Projects
+- "4" project directories
+- automated-knowledge-pipeline, knowledge-connect, gbrain-notebooklm-bridge, NotebookLM-results
+- Teal background, folder icon
+
+Text labels (in en):
+"2,500+ Pages" | "1,755 Concepts" | "347 Entities" | "410 Sources" | "26 Comparisons" | "3 CLI Tools" | "12 Cron Jobs" | "4 Pipelines" | "Health: 75/100" | "Source → Convert → Enrich → Index → Embed" | "Cooking | Photography | Finance | Decision Science | Jazz | Botany" | "Every 15min → Weekly"

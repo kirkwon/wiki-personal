@@ -1,0 +1,53 @@
+---
+
+type: concept
+title: Nudge
+created: 2026-05-04
+updated: 2026-05-10
+tags: ["behavioral-economics", "decision-making", "policy-design", "book", "choice-architecture", "mental-model", "cognitive-bias"]
+sources: ["Misbehaving - Richard H Thaler.md", "Economics.md", "Nudge.md"]
+related: ["choice-architecture", "framing-effect", "mental-accounting", "decision-making-frameworks", "cognitive-biases-library", "richard-h-thaler", "cass-r-sunstein", "economics-mental-model", "framing-effects", "libertarian-paternalism", "thinking-fast-and-slow
+---daniel-kahneman"]
+---
+# Nudge
+
+*Nudge* by Richard H. Thaler and Cass R. Sunstein introduces the concept of choice architecture and libertarian paternalism—the idea that institutions can design choice environments that steer people toward better decisions without restricting freedom. The book argues that understanding how people actually behave (rather than how they should behave in theory) is essential for effective policy and design.
+
+Nudge is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world. Unlike cognitive biases which describe errors in thinking, nudges are deliberate interventions that leverage known patterns in human decision-making to improve outcomes. This distinction is important: nudges are prescriptive rather than merely descriptive.
+
+## Definition
+A nudge changes the environment in which decisions are made—through defaults, framing, or presentation—without forbidding options or changing economic incentives. The goal is to steer behavior toward better outcomes based on an understanding of human cognitive biases.
+
+## Core Idea
+
+The philosophical foundation of nudge theory is libertarian paternalism — the idea that it is acceptable to influence behavior through environmental design while preserving individual freedom of choice. Defaults, opt-in vs opt-out framing, and the arrangement of options all constitute nudges. Since humans are predictably irrational, designing choice environments that account for this irrationality leads to better collective outcomes than assuming rational behavior.
+
+## Key Concepts
+- **Defaults**: The path of least resistance often determines outcomes. The status quo bias makes default options powerful.
+- **Choice architecture**: The presentation of options shapes decisions. A choice architect is anyone who designs the environment in which decisions are made.
+- **Libertarian paternalism**: Nudges preserve freedom while improving welfare.
+- **Opt-in vs opt-out**: Changing framing from requiring active enrollment to requiring active cancellation dramatically increases participation.
+- **Default placement**: Where options appear in a list affects selection rates.
+
+## Characteristics
+- Preserves freedom of choice — no option is removed.
+- Leverages predictable biases rather than relying on rational persuasion.
+- Often low-cost or costless to implement.
+- Can be reversed if preferences change.
+
+## Examples
+- Default enrollment in retirement savings plans.
+- Putting healthy food at eye level in cafeterias.
+- Simplifying government forms to increase completion rates.
+- Default opt-out organ donation policies.
+
+## Relationship to Other Concepts
+Nudging builds directly on [[choice-architecture]] and [[framing-effect]]. It addresses the same biases documented in [[cognitive-biases-library]], particularly loss aversion and mental accounting. Thaler's work connects to [[decision-quality-vs-outcome-quality]] by improving decision environments rather than trying to make people more rational. *Nudge* connects to [[economics-mental-model]] by demonstrating how economic thinking about incentives can be applied to real-world design problems. Nudge connects to [[framing-effects]] (how presentation changes perception), [[decision-making-frameworks]] (as a prescriptive tool), and [[thinking-fast-and-slow---daniel-kahneman]] (shared cognitive science roots). The unique contribution of nudge theory is the intervention/policy angle — deliberately leveraging cognitive tendencies rather than just documenting them.
+
+## Open Questions
+- Should nudge be classified as a mental model for individual thinking or a design framework for organizations?
+- How does nudge theory interact with [[superforecasting]], which emphasizes agentic probabilistic thinking?
+- Where does the boundary lie between helpful nudging and manipulative design?
+
+## Key Insight
+Since humans are predictably irrational, designing choice environments that account for this irrationality leads to better collective outcomes than assuming rational behavior.

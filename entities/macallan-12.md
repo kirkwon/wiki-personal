@@ -1,0 +1,50 @@
+---
+type: entity
+title: Macallan 12
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- spirits
+- scotch
+- whisky
+- tasting
+- beverages
+sources:
+- Whisky Tasting Notes.md
+related:
+- spirits-index
+- scotch
+- whisky-tasting-notes
+- whisky-tasting-methodology
+---
+-
+# Macallan 12
+
+Highland Single Malt Scotch aged 12 years. Rated as a benchmark for aged Scotch in the personal collection.
+
+## Key Details
+
+- **Type**: Highland Single Malt Scotch
+- **Age**: 12 years
+- **Price**: $70-80
+- **Proof**: 86
+- **Rating**: ⭐⭐⭐⭐⭐
+
+## Tasting Notes
+
+- **Nose**: Sherry oak, dried fruit, subtle spice
+- **Palate**: Classic sherry malt, balanced sweetness
+- **Finish**: Medium-long, elegant
+- **Verdict**: Benchmark for aged Scotch
+
+## Comparison
+
+- Sweetness: ★★★
+- Complexity: ★★★★★
+- Spice: ★★ (moderate)
+- Value: ★★★
+
+## Related
+
+See [[spirits-index]] for broader spirits context.
+---

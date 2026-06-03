@@ -1,0 +1,47 @@
+---
+type: note
+title: 'Expertise OS: User Improvement Stories'
+created: 2026-05-14
+updated: 2026-05-14
+tags: []
+sources: []
+---
+-
+
+# Expertise OS: User Improvement Stories
+
+This document outlines the core user stories driving the evolution of the Skills Dashboard into a proactive productivity tool.
+
+## 🌟 Implemented / In-Progress Stories
+
+### 1. The Favorites List (Persistent Library)
+**As a user**, I want to "star" my favorite or most relevant skills so that I can quickly access them in a dedicated view without searching.
+- **Requirement**: Stars next to skill names in all tables.
+- **Requirement**: "⭐ Favorites" sidebar item.
+- **Requirement**: Persist data in the browser's `localStorage`.
+
+### 2. The Situation Solver (Contextual Surfacing)
+**As a user**, I want to describe a problem or situation and have the app suggest skills that might help resolve it.
+- **Requirement**: A dedicated "Expertise AI" or "Solver" view.
+- **Requirement**: Text input for the situation.
+- **Requirement**: Keyword-based mapping between situations and skill tags/descriptions.
+
+---
+
+## 🚀 Future Roadmap Stories
+
+### 3. The Daily Focus (Deliberate Practice)
+**As a user**, I want to see 3 randomly selected "High Leverage" skills each day so that I can practice them and keep my library top-of-mind.
+- **Potential UI**: A "Daily Focus" card on the dashboard.
+
+### 4. Skill Synergy (Interdisciplinary Convergence)
+**As a user**, I want to know which skills from different books complement each other (e.g., "Deep Work" + "Atomic Habits").
+- **Potential UI**: A "Synergy Map" or indicators in the skill detail modal.
+
+### 5. Source Deep Dive (Book Intelligence)
+**As a user**, I want to click on a book title and see every skill I've extracted from that specific source.
+- **Potential UI**: Interactive source names in tables leading to a filtered book-centric view.
+
+### 6. The Decision Journal Integration
+**As a user**, I want to log a decision I made using a specific skill and track the outcome.
+- **Potential UI**: A "Usage Log" section in the skill detail modal.

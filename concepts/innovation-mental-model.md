@@ -1,0 +1,36 @@
+---
+type: concept
+title: Innovation (mental model)
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- creativity
+- problem-solving
+sources:
+- Innovation.md
+related:
+- zero-to-one-peter-thiel-blake-masters
+- the-great-mental-models-vol-1-shane-parrish
+- problem-solving
+- decomposing-and-recombining
+- inventor-s-paradox
+---
+-
+# Innovation (mental model)
+
+Innovation is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+As a universal mental model, innovation is not domain-specific. It functions as a lens for sense-making across contexts, enabling individuals to recognize patterns and relationships that might otherwise remain obscured.
+
+This model draws on two authoritative perspectives:
+
+- **Peter Thiel & Blake Masters' *Zero to One*** frames innovation through contrarian thinking—vertical progress (creating something new) versus horizontal progress (copying what works). Thiel argues that competition is for losers and that monopolistic thinking drives true innovation.
+- **Shane Parrish's *The Great Mental Models Vol 1*** situates innovation within a broader taxonomy of mental models, treating it as one of many frameworks for navigating complexity through pattern recognition.
+
+## Key Considerations
+
+- Innovation differs from invention: invention creates something new, while innovation involves the diffusion and adoption of that new thing into meaningful practice.
+- The model intersects with existing wiki concepts like [[inventor-s-paradox]], [[problem-solving]], and [[decomposing-and-recombining]], raising open questions about how these frameworks overlap or complement each other.
+- Confidence in this model is moderate (0.7), suggesting ongoing refinement of its scope and applicability.
+---

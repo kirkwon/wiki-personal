@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(open:*)",
+      "Bash(pip3 install:*)",
+      "Bash(ls -la /Users/kirkwon/wiki-personal/skills-dashboard*.html)",
+      "Bash(yes)",
+      "Bash(chmod +x build_dashboard.py)",
+      "Bash(grep -l \"Active Revision Techniques\" /Users/kirkwon/Downloads/book_summaries/unified_books_improved/*.json)",
+      "Bash(ls -lh skills-dashboard*.html)",
+      "Bash(pip3 list:*)",
+      "Bash(playwright install:*)",
+      "Bash(cp:*)",
+      "Bash(grep -B 5 -A 100 \"Conflict Resolution Guide\" /Users/kirkwon/wiki-personal/dashboard-backups/skills-dashboard-v6.0-*.html)"
+    ]
+  }
+}

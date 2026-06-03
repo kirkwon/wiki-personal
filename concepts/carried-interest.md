@@ -1,0 +1,31 @@
+---
+type: concept
+title: Carried Interest
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- personal-finance
+- investing
+- taxation
+sources:
+- Alternative Investments.md
+related:
+- private-equity
+- alternative-investments
+- k-1-form
+---
+--
+# Carried Interest
+
+Carried interest is a performance allocation structure common in private equity and hedge funds. The fund manager receives a share of the profits (typically 20%) in addition to management fees.
+
+## Key Characteristics
+
+- **Structure**: Manager invests nothing but receives 20% of profits above a hurdle rate
+- **Tax treatment**: Carried interest is taxed as capital gains rather than ordinary income
+- **Controversy**: Critics argue this is a tax loophole allowing high-income managers to pay lower rates
+
+## See Also
+- [[private-equity]]
+- [[k-1-form]]
+- [[alternative-investments]]

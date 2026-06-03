@@ -1,0 +1,256 @@
+---
+created: 2026-04-24
+sources:
+- Pu-erh Tea.md
+tags:
+- tea
+- beverages
+title: Tea
+type: concept
+updated: 2026-05-09
+related:
+- 普洱茶
+- 生普洱
+- 熟普洱
+- 黑茶
+- 红茶
+- 乌龙茶
+- 功夫茶
+---
+-
+
+# Tea
+
+茶是一种由茶树叶片加工而成的饮料，全球消费最广泛的饮品之一。中国是茶的故乡，茶类按加工程度分为绿茶、白茶、黄茶、乌龙茶、红茶和黑茶等。Tea is one of the world's oldest and most diverse beverages, offering thousands of varieties based on tea plant type, processing method, origin, and preparation technique. From delicate green teas to robust black teas, from traditional Japanese matcha to herbal infusions, this comprehensive guide covers the entire spectrum of tea knowledge.
+
+## Quick Reference Guide
+
+### Tea Types by Processing
+| Tea Type | Processing Method | Flavor Profile | Caffeine Level | Best Brewing |
+|----------|------------------|----------------|---------------|--------------|
+| **Green** | Minimal oxidation, heat-treated | Fresh, grassy, vegetal | Low-Medium | 160-180°F, 2-3 min |
+| **White** | Minimal processing, sun-dried | Delicate, floral, sweet | Low | 160-175°F, 3-5 min |
+| **Yellow** | Slight oxidation, sealed yellowing | Mellow, smooth, mild | Low-Medium | 160-175°F, 2-3 min |
+| **Oolong** | Partial oxidation (8-80%) | Complex, fruity, floral | Medium | 180-195°F, 3-5 min |
+| **Black** | Full oxidation | Bold, malty, astringent | Medium-High | 200-212°F, 3-5 min |
+| **Pu-erh** | Post-fermented, aged | Earthy, mellow, complex | Low | 200-212°F, multiple infusions |
+| **Herbal** | No tea plant (tisanes) | Variable by botanical | Caffeine-free | 170-212°F, 5-10 min |
+
+### Preparation Methods
+| Method | Equipment | Best For | Characteristic |
+|--------|----------|----------|---------------|
+| **Gongfu** | Gaiwan, small teapot | Oolong, Pu-erh | Multiple short infusions |
+| **Western** | Teapot, mug | Black, Green, Herbal | Longer infusion, larger volume |
+| **Kyusu** | Japanese teapot | Sencha, Gyokuro | Controlled pouring |
+| **Matcha** | Bowl, whisk, sifter | Matcha powder | Whisked to froth |
+
+## Navigation
+
+### Tea Types by Processing
+- [[Tea Types/Green Tea]] - Fresh, unoxidized teas from China, Japan, and beyond
+- [[Tea Types/White Tea]] - Minimal processing, delicate, floral
+- [[Tea Types/Yellow Tea]] - Slight oxidation, sealed yellowing, smooth and mild
+- [[Tea Types/Oolong Tea]] - Partially oxidized, complex, artisanal teas from China and Taiwan
+- [[Tea Types/Black Tea]] - Fully oxidized, robust, malty teas from India, Sri Lanka, and China
+- [[Tea Types/Pu-erh Tea]] - Post-fermented, aged teas from Yunnan, China; includes 生普洱 (raw) and 熟普洱 (ripe)
+- [[Tea Types/Darjeeling Tea]] - Premium Indian teas with distinctive muscatel character
+
+### Tea Origins & Varieties
+- [[Tea Origins/China]] - Birthplace of tea, diverse varieties
+- [[Tea Origins/Japan]] - Refined tradition, focus on ceremony
+- [[Tea Origins/India]] - Bold black teas, major producer
+- [[Tea Origins/Sri Lanka]] | Ceylon, high-quality black teas
+- [[Tea Origins/Taiwan]] - Formosa oolongs, unique processing
+
+### Preparation Techniques
+- [[Tea Preparation/Gongfu Cha]] - Traditional Chinese method, 95-100°C water, short-time multi-infusion extraction
+- [[Tea Preparation/Western Brewing]] - Standard Western method
+- [[Tea Preparation/Matcha Preparation]] - Japanese powdered tea
+- [[Tea Preparation/Cold Tea]] - Iced tea preparation
+- [[Tea Preparation/Blending]] - Creating custom tea blends
+
+### Tea Culture & Ceremony
+- [[Tea Ceremony/Japanese Tea Ceremony]] - Chanoyu
+- [[Tea Ceremony/Chinese Tea Ceremony]] - Gongfu tradition
+- [[Tea Ceremony/Afternoon Tea]] - British tradition
+- [[Tea Ceremony/Taiwanese Gongfu]] - Modern variations
+
+## Pu-erh Tea
+
+普洱茶是黑茶类中独特的后发酵茶，来自云南，分为生普洱和熟普洱两种。通过微生物发酵和长期陈化获得复杂风味，可陈化数十年。Pu-erh is a unique post-fermented tea within the 黑茶 (dark tea) category, originating from Yunnan, China. It is divided into 生普洱 (raw/sheng pu-erh) and 熟普洱 (ripe/shou pu-erh). Complex flavors are developed through microbial fermentation and long-term aging, and pu-erh can improve over decades.
+
+## Learning Path
+
+### Beginner
+1. **Start with basic types**: Green, black, herbal
+2. **Master Western brewing**: Simple teapot method
+3. **Learn basic ratios**: 1 tsp tea per 8 oz water
+4. **Understand temperatures**: Different teas need different heat
+
+### Intermediate
+1. **Explore specialty teas**: Oolong, pu-erh, white teas, yellow teas
+2. **Try multiple methods**: Gongfu, kyusu, cold brew
+3. **Learn tasting**: Flavor notes, mouthfeel, aroma
+4. **Experiment with water**: Temperature effects on extraction
+
+### Advanced
+1. **Master tea ceremony**: Traditional methods and philosophy
+2. **Aging tea**: Understanding pu-erh and aged oolongs
+3. **Blending**: Creating signature tea blends
+4. **Terroir**: Understanding growing conditions and quality
+
+## Quick Start: 5 Essential Brewing Methods
+
+### 1. Western Green Tea
+```yaml
+Equipment: Teapot or mug, thermometer
+Tea: 1 tsp loose leaf per 8 oz water
+Temperature: 170°F (76°C)
+Time: 2-3 minutes
+Result: Bright, fresh, vegetal flavor
+```
+
+### 2. Black Tea Western Style
+```yaml
+Equipment: Teapot or mug
+Tea: 1 tsp loose leaf or 1 bag per 8 oz water
+Temperature: 200°F (93°C)
+Time: 3-5 minutes
+Result: Strong, malty, full-bodied
+```
+
+### 3. Gongfu Oolong
+```yaml
+Equipment: Gaiwan or small teapot, strainer
+Tea: 7-8g per 100ml water
+Temperature: 195°F (90°C)
+Time: 15-30 seconds, multiple infusions
+Result: Complex, layered, evolving flavors
+```
+
+### 4. Matcha Preparation
+```yaml
+Equipment: Bowl, bamboo whisk, sifter
+Tea: 2g (1-2 tsp) matcha powder
+Temperature: 175°F (80°C) water
+Time: Whisk vigorously 15-30 seconds
+Result: Smooth, creamy, frothy
+```
+
+### 5. Cold Brew Tea
+```yaml
+Equipment: Large jar or pitcher, strainer
+Tea: 2x normal amount per water
+Temperature: Room temperature
+Time: 8-12 hours refrigerated
+Result: Smooth, low-acidity, refreshing
+```
+
+## Tea Chemistry & Science
+
+### Key Compounds
+- **Catechins**: Antioxidants (especially in green tea)
+- **Theaflavins & Thearubigins**: Oxidation products (black tea)
+- **L-theanine**: Amino acid, promotes relaxation
+- **Caffeine**: Natural stimulant (varies by type)
+- **Flavonoids**: Plant compounds, health benefits
+
+### Oxidation Process
+- **Enzymatic**: Enzymes convert catechins to darker compounds
+- **Temperature**: Heat stops oxidation in green tea
+- **Time**: Longer oxidation = darker tea, different flavors
+- **Environment**: Oxygen exposure during processing
+- **Microbial fermentation**: Post-fermentation in pu-erh and dark teas develops unique compounds over time
+
+## Storage & Freshness
+
+### Tea Storage Principles
+- **Airtight**: Prevents oxidation and moisture absorption
+- **Light-tight**: UV rays degrade tea compounds
+- **Cool**: Room temperature ideal, avoid heat
+- **Dry**: Moisture causes mold and flavor loss
+
+### Shelf Life by Type
+- **Green Tea**: 6-12 months maximum (best when fresh)
+- **White Tea**: 1-2 years (some improve with age)
+- **Yellow Tea**: 1-2 years (mellow character develops)
+- **Oolong Tea**: 1-3 years (some benefit from aging)
+- **Black Tea**: 2-3 years (stays stable longer)
+- **Pu-erh**: Improves with age (can be 10+ years)
+
+## Regional Tea Cultures
+
+### China: Birthplace of Tea
+- **Focus**: Diversity, processing mastery
+- **Famous Types**: Longjing (Dragon Well), Pu-erh, Tieguanyin
+- **Preparation**: Gongfu style, multiple infusions
+- **Philosophy**: Tea as art, medicine, and social ritual
+
+### Japan: Tea Ceremony Culture
+- **Focus**: Precision, ceremony, mindfulness
+- **Famous Types**: Sencha, Matcha, Gyokuro
+- **Preparation**: Traditional ceremony (Chanoyu)
+- **Philosophy**: Wabi-sabi, impermanence, presence
+
+### India: British Influence
+- **Focus**: Strong, bold flavors, milk tea
+- **Famous Types**: Assam, Darjeeling, Nilgiri
+- **Preparation**: Masala chai, milk additions
+- **Style**: Everyday beverage, social drink
+
+### Taiwan: Modern Innovation
+- **Focus**: High mountain oolongs, craftsmanship
+- **Famous Types**: Dong Ding, Alishan, Oriental Beauty
+- **Preparation**: Modern gongfu style
+- **Innovation**: Traditional methods with contemporary flair
+
+## Tea Pairing Guide
+
+### Food Pairings
+- **Green Tea**: Light seafood, steamed vegetables, delicate desserts
+- **Black Tea**: Breakfast foods, dairy desserts, hearty meals
+- **Oolong Tea**: Medium dishes, poultry, Chinese cuisine
+- **Pu-erh**: Rich foods, dim sum, aged cheeses
+- **Herbal Tea**: No food needed, standalone enjoyment
+
+### Seasonal Pairings
+- **Spring**: Light green teas, floral teas
+- **Summer**: Iced teas, herbal infusions
+- **Fall**: Black teas, spiced teas, oolongs
+- **Winter**: Heavily oxidized teas, pu-erh, chai
+
+## Practice Ideas
+
+### Weekly Projects
+1. **Monday**: Try a new tea type from a different region
+2. **Tuesday**: Practice a different brewing method
+3. **Wednesday**: Conduct a tea tasting comparison
+4. **Thursday**: Create a tea blend experiment
+5. **Friday**: Explore tea and food pairing
+
+### Monthly Challenges
+- **Tea Journey**: Sample teas from 5 different regions
+- **Method Mastery**: Learn 3 different brewing techniques
+- **T Development**: Train palate to identify tea notes
+- **Ceremony Practice**: Traditional tea preparation
+- **Tea Meditation**: Mindful tea drinking sessions
+
+## Health Benefits
+- **Antioxidants**: Rich in polyphenols and catechins
+- **Heart Health**: Linked to reduced cardiovascular risk
+- **Cognitive Function**: L-theanine improves focus without jitters
+- **Digestive Aid**: Helps with digestion after meals
+- **Hydration**: Contributes to daily fluid intake
+
+## Related Content
+- [[Gastronomy/Concepts/Maillard Reaction]] - Flavor development concepts (tea contains similar compounds)
+- [[Gastronomy/Beverages/Coffee/Index]] - Comprehensive coffee guide
+- [[Herbs & Spices]] - Botanical relationships with tea plants
+- [[普洱茶]] — Pu-erh tea detailed说明
+- [[black-tea-红茶-hóng-chá]] — Black tea
+- [[oolong-tea-乌龙茶-wūlóng-chá]] — Oolong tea
+- [[咖啡]] — Parallel content under coffee category
+
+---
+*Tea index created: 2026-04-21 | Updated: 2026-04-29 | Next: Create tea type pages*
+---

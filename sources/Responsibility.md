@@ -1,0 +1,22 @@
+---
+source_url: null
+ingested: 2026-04-29
+sha256: a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2
+title: Responsibility Source
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+-
+
+# Responsibility Source
+
+## Summary
+Responsibility is defined as a conceptual tool or principle for navigating complex situations through pattern and relationship recognition. The sole cross-source is Nassim Nicholas Taleb's "Skin in the Game," linking responsibility to accountability and having consequences tied to one's actions.
+
+## Key Points
+- Functions as a universal mental model
+- Provides a mental shortcut for making sense of patterns and relationships
+- Confidence level: 0.7 (moderate uncertainty)
+- Directly connects to Taleb's skin-in-the-game principle
+---

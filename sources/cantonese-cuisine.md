@@ -1,0 +1,38 @@
+---
+type: source
+title: Cantonese Cuisine Source
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- chinese
+- cantonese
+- cuisine
+- gastronomy
+sources:
+- cantonese-cuisine.md
+---
+--
+# Cantonese Cuisine Source
+
+## 摘要
+
+本源文档详细介绍了粤菜（Cantonese Cuisine）的核心特征、烹饪哲学、经典菜品和饮食传统。粤菜以鲜、清淡、注重食材本味为核心理念，强调新鲜食材和温和调味。文中提出了粤菜五项烹饪原则：鲜、清淡、嫩、滑、芳香。经典菜品包括点心、烧鸭、叉烧、咕噜肉、干炒牛河等。饮茶（Yum Cha）是粤式早茶文化的核心。推荐阅读包括 Fuchsia Dunlop 的《Every Grain of Rice》。
+
+## Overview
+
+Source document covering Cantonese cuisine philosophy, techniques, ingredients, and classic dishes. Key topics include the five cooking principles (Fresh, Light, Tender, Smooth, Aromatic), steaming as the quintessential technique, soup culture, yum cha traditions, and classic dishes such as char siu, roast duck, and dim sum.
+
+## 关键信息
+
+- **地区**：广东省，中国南方
+- **风味特征**：温和、新鲜、鲜味、清淡
+- **核心技法**：蒸、炒、烤、焖
+- **五项烹饪原则**：鲜、清淡、嫩、滑、芳香
+- **经典菜品**：点心、烧鸭、叉烧、咕噜肉、干炒牛河
+- **饮茶文化**：Yum Cha 是粤式早茶文化的核心
+
+## 推荐阅读
+
+- "The Wisdom of the Chinese Kitchen" by Grace Young
+- "Mastering the Art of Chinese Cooking" by Eileen Yin-Fei Lo
+- "Every Grain of Rice" by Fuchsia Dunlop

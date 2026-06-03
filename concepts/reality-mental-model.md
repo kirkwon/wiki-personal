@@ -1,0 +1,57 @@
+---
+type: concept
+title: Reality (mental model)
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- philosophy
+- cognitive-science
+confidence: medium
+sources:
+- Reality.md
+related:
+- world-disclosure
+- solutions-mental-model
+- stillness
+- settings
+- environment
+- care
+- minimalism
+- management
+- recipes-mental-model
+- overview
+- thinking-mental-model
+- markets
+- effort
+- tendency
+- humanity
+- biases
+- ideas-mental-model
+- business
+- david-mental-model
+- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+---
+-
+# Reality (mental model)
+
+Reality functions as a universal mental model applicable across all domains. It provides a mental shortcut for making sense of patterns and relationships in complex situations, serving as a conceptual tool for navigating complexity through pattern and relationship recognition.
+
+Rather than treating reality as a static fact, this model positions it as an active cognitive framework—something actively constructed through exploratory engagement. This aligns with Sönke Ahrens' concept of world-disclosure, where we reveal or disclose aspects of reality through experimentation and exploration rather than passively receiving them.
+
+## Key aspects
+
+- **Universal applicability**: Functions across all domains as a navigational principle
+- **Constructivist angle**: Reality is actively disclosed through engagement rather than passively received
+- **Pattern recognition**: Serves as a shortcut for identifying relationships and structures in complex situations
+- **Confidence**: 0.7 — moderate certainty, grounded primarily in Ahrens' work
+
+## Connections
+
+This model relates to other mental models in the wiki including [[solutions-mental-model]], [[stillness]], [[settings]], [[environment]], [[care]], [[minimalism]], [[management]], [[recipes-mental-model]], [[overview]], [[thinking-mental-model]], [[markets]], [[effort]], [[tendency]], [[humanity]], [[biases]], [[ideas-mental-model]], and [[business]].
+
+## Open questions
+
+- How does this model interact with concepts of truth or perception?
+- What distinguishes this constructivist framing from more realist-oriented models like [[antifragility]] or [[skin-in-the-game]]?
+---

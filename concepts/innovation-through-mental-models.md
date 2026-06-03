@@ -1,0 +1,27 @@
+---
+type: concept
+title: Innovation Through Mental Models
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-models
+- innovation
+- creativity
+sources:
+- The Great Mental Models Vol 1 - Shane Parrish.md
+related:
+- inventors-paradox
+- creativity-mental-model
+- ideas-mental-model
+---
+--
+# Innovation Through Mental Models
+
+## Definition
+How mental models shape approaches to innovation, influencing both incremental improvements and breakthrough ideas.
+
+## Explanation
+Parrish examines the role mental models play in innovation — how the frameworks we use constrain and enable creative solutions. Understanding these models helps us identify when incremental changes are sufficient versus when breakthrough thinking is needed.
+
+## Related
+Connects to [[inventors-paradox]] and broader creativity frameworks in the wiki.

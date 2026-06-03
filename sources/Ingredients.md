@@ -1,0 +1,16 @@
+---
+type: source
+title: Ingredients Source
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- cooking
+sources:
+- Ingredients.md
+---
+-
+# Ingredients Source
+
+Cross-source reference to the Ingredients mental model, sourced from Timothy Ferriss's *The 4-Hour Chef*. The model frames ingredients as a universal conceptual tool for navigating complexity through pattern and relationship recognition.
+---

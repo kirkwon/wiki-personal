@@ -1,0 +1,44 @@
+---
+created: 2026-04-24
+sources:
+- raw/ingested/Personal Finance/Trusts Guide.md
+tags:
+- estate-planning
+- trusts
+- wealth-management
+- legal
+title: Trusts Guide
+type: concept
+updated: '2026-04-24'
+---
+
+# Trusts Guide
+
+Comprehensive guide to trust planning, creation, and administration. This page provides an overview with links to detailed sub-topics.
+
+## Quick Reference
+
+**Purpose**: Estate planning, asset protection, wealth transfer, tax planning  
+**Scope**: Revocable, irrevocable, and special purpose trusts  
+**Jurisdiction**: Primarily US federal and state trust law
+
+## Trust Fundamentals
+
+- [[trust-fundamentals]] - Core concepts, structure, and creation process
+- [[trust-administration]] - Managing trusts as a trustee
+
+## Types of Trusts
+
+- [[revocable-living-trusts]] - Flexible trusts modifiable during lifetime
+- [[irrevocable-trusts]] - Permanent trusts for asset protection
+- [[special-purpose-trusts]] - Trusts for specific purposes (charitable, special needs)
+
+## Related Topics
+
+- [[estate-planning]]
+- [[wealth-management]]
+- [[asset-protection]]
+- [[tax-planning]]
+
+---
+*Summary page created during wiki cleanup. Original 1053-line guide split into focused sub-pages.*

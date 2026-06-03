@@ -1,0 +1,44 @@
+---
+type: concept
+title: Hyperfocus
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- productivity
+- attention
+- mental-models
+sources:
+- Hyperfocus - Chris Bailey.md
+related:
+- scatterfocus
+- attention-residue
+- attention-budget
+- thinking-fast-and-slow---daniel-kahneman
+- quadrant-2-focus
+---
+--
+# Hyperfocus
+
+Hyperfocus is a state of deep, intense concentration where an individual is fully absorbed in a task, experiencing high engagement and minimal distraction. Introduced by Chris Bailey in his book *Hyperfocus*, it is one of two complementary attention modes, the other being [[scatterfocus]].
+
+## Key Characteristics
+- Deep absorption in a single task
+- Heightened engagement and productivity
+- Minimal awareness of external distractions
+- Often associated with flow states
+
+## Cultivation Techniques
+- Identify peak attention hours
+- Design a focused environment (physical and digital)
+- Practice single-tasking
+- Use time blocking to protect hyperfocus periods
+- Reduce attention residue from previous tasks
+
+## Relationship to Other Concepts
+Hyperfocus connects to [[quadrant-2-focus]] and [[time-management-matrix]] by prioritizing deep work during high-energy periods. It contrasts with [[attention-residue]], which describes the mental carryover from task-switching that disrupts focus. Bailey emphasizes that hyperfocus should not become an obsession, and that rigid optimization can lead to burnout or an inability to enjoy leisure time.
+
+## See Also
+- [[scatterfocus]]
+- [[attention-residue]]
+- [[attention-budget]]
+- [[single-tasking-advantage]]

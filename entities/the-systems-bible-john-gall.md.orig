@@ -1,0 +1,63 @@
+---
+
+type: entity
+title: The Systems Bible - John Gall
+created: 2026-04-17
+updated: 2026-05-10
+tags:
+- book
+- systems-thinking
+- books
+- mental-model
+sources:
+- The Systems Bible - John Gall.md
+- Ways.md
+- Implications.md
+related:
+- john-gall
+- gall-s-law
+- fundamental-theorem-of-systems
+- system-replacement-vs-repair
+- unintended-consequence-analysis
+- ways-mental-model
+- group
+- planning
+- implications-mental-model
+----
+# The Systems Bible — John Gall
+
+*The Systems Bible* by John Gall is a foundational text in systems theory that examines how complex systems function, fail, and produce unexpected outcomes. The book provides insights into the behavior of complex systems and how implications arise from their structure. It is referenced as one of two sources for the [[ways-mental-model]] and contributes to the [[implications-mental-model]].
+
+## Core Takeaways
+- **Gall's Law**: A complex system that works evolved from a simple system that worked
+- **Fundamental Theorem**: New systems generate new problems
+- **Systems don't do what you want them to** — expectations vs. reality
+- **The only way to fix a system is to replace it** — replacement over endless repair
+- **Systems are always running late and always getting worse** — temporal degradation
+- **Unintended consequences** are the norm, not the exception
+
+## Key Themes
+
+- Systems exhibit behaviors that are not predictable from understanding individual components
+- The importance of recognizing patterns and relationships within complex systems
+- Practical wisdom about navigating complexity through observation and humility
+- How implications arise from the structure of complex systems
+
+## Connection to Ways and Implications
+
+Gall's systems thinking provides the foundational perspective for Ways as a conceptual tool for navigating complexity through pattern and relationship recognition. The book also contributes to the [[implications-mental-model]] by illuminating how complex systems produce unexpected outcomes from their inherent structure.
+
+## Chapters Summary
+1. The Systems Primer — Introduces fundamental nature of systems
+2. The Fundamental Theorem of Systems — "New systems generate new problems"
+3. Systems Don't Do What You Want Them To — Expectations vs. reality
+4. Systems Don't Know They're Systems — Lack of self-awareness
+5. Systems Are Always Running Late — Temporal degradation
+6. Systems Always Get Worse — Gall's Law
+7. Systems Are Never Fixed — Perpetual maintenance
+8. The Only Way to Fix a System Is to Replace It — Replacement over repair
+9. Systems Don't Have a Point of No Return — Abandonment as option
+10. The Grand System of Systems — Meta-systems and interactions
+
+## When to Stop Applying
+The book warns against over-application: when analysis becomes an excuse for inaction, when simple problems are over-analyzed, or when "systems thinking" becomes a buzzword.

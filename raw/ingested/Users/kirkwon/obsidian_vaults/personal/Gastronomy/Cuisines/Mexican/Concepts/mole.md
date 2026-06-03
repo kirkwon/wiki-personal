@@ -1,0 +1,252 @@
+---
+source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Mexican/Concepts/mole.md
+ingested: 2026-04-24
+sha256: f5759e8b5a6c04956279bd53483366f70b936bb1fed1deee03036578075ccdff
+title: Mole
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+
+
+---
+type: concept
+domain: Gastronomy
+cuisine: Mexican
+category: Mole
+tags:
+- mexican
+- mole
+- complex-sauce
+- chiles
+created: 2025-04-15
+---
+
+
+# Mole
+
+## Overview
+
+Mole (from Nahuatl "molli" = sauce) is Mexico's most complex and celebrated sauce. A labor-intensive masterpiece with 20+ ingredients, mole balances chilies, spices, nuts, seeds, and sometimes chocolate into rich, harmonious sauces that define regional Mexican cuisine.
+
+## The Seven Moles of Oaxaca
+
+Oaxaca is the mole capital, famous for "Los Siete Moles":
+
+| Mole | Color | Key Ingredients | Flavor Profile |
+|------|-------|----------------|----------------|
+| **Mole Negro** - Black | Chiles, chocolate, nuts | Rich, complex, bitter-sweet |
+| **Mole Colorado** - Red | Ancho, guajillo | Fruity, spicy |
+| **Mole Verde** - Green | Tomatillos, herbs | Fresh, herbal |
+| **Mole Amarillo** - Yellow | Achiote, yellow chiles | Mild, aromatic |
+| **Mole Rojo** - Red | Guajillo, ancho | Spicy, smoky |
+| **Mole Chichilo** - Dark | Chiles, avocado leaf | Unique, aromatic |
+| **Mole Manchamanteles** - Red | Chiles, fruit | Sweet, spicy |
+
+## Mole Poblano (Puebla)
+
+**The most famous mole**
+
+**Characteristics:**
+- Dark, rich, chocolate
+- 20-30 ingredients
+- Spicy but not overwhelming
+- Served with chicken or turkey
+
+**Legend:**
+- Created by nuns in Puebla convent
+- Surprise dish for visiting archbishop
+- "Mole" = "mix" (mixed ingredients)
+
+## Essential Ingredients
+
+### Chiles (The Foundation)
+
+| Chili | Role |
+|-------|------|
+| **Ancho** (dried poblano) | Mild, fruity, earthy |
+| **Mulato** - Sweet, chocolatey |
+| **Pasilla** - Smoky, raisin-like |
+| **Guajillo** - Mild, fruity |
+| **Chipotle** - Smoky, spicy |
+
+**Selection:**
+- Toast chiles to release oils
+- Remove seeds and stems
+- Rehydrate in warm water
+
+### Spices
+
+| Spice | Role |
+|-------|------|
+| **Cinnamon (Canela)** - Sweet warmth |
+| **Cumin** - Earthy |
+| **Coriander** - Floral |
+| **Black pepper** - Heat |
+| **Cloves** - Warmth |
+| **Anise** - Licorice-like |
+
+### Nuts and Seeds
+
+| Item | Role |
+|------|-----|
+| **Almonds** - Richness |
+| **Peanuts** - Creaminess |
+| **Sesame seeds** - Garnish, texture |
+| **Pumpkin seeds** - Richness |
+
+### Fruits and Vegetables
+
+| Item | Role |
+|------|-----|
+| **Tomatoes** - Body, acidity |
+| **Tomatillos** - For verde mole |
+| **Onion** - Base |
+| **Garlic** - Aromatic |
+| **Plantains** - Sweetness (some moles) |
+| **Raisins** - Sweetness |
+
+### Other Essentials
+
+| Item | Role |
+|------|-----|
+| **Mexican chocolate** - Bitter-sweet |
+| **Bread or crackers** - Thickener |
+| **Lard or oil** - Richness |
+| **Chicken stock** - Liquid |
+| **Salt** - Seasoning |
+
+## Making Mole Poblano (Simplified)
+
+### Ingredients (20+ items)
+
+**Chiles (3-4 types, total 10-15):**
+- 3 ancho chiles
+- 3 mulato chiles
+- 3 pasilla chiles
+
+**Spices:**
+- 1 cinnamon stick
+- 1 tsp cumin seeds
+- 1 tsp coriander seeds
+- 5 cloves
+- 2 anise stars
+
+**Nuts and seeds:**
+- 1/2 cup almonds
+- 1/4 cup peanuts
+- 2 tbsp sesame seeds
+
+**Other:**
+- 1 onion, chopped
+- 4 garlic cloves
+- 2 tomatoes
+- 1 slice bread, toasted
+- 2 oz Mexican chocolate
+- 4 cups chicken stock
+- Salt to taste
+
+### Process (2-3 hours)
+---
+
+**1. Toast chiles:**
+- Toast dried chiles in dry pan
+- Don't burn (bitter)
+- Remove seeds, stems
+- Rehydrate in warm water (30 min)
+
+**2. Toast spices:**
+- Toast whole spices separately
+- Toast until fragrant
+- Grind to powder
+
+**3. Toast nuts:**
+- Toast almonds, peanuts
+- Toast sesame seeds (separately)
+
+**4. Sauté aromatics:**
+- Cook onion, garlic
+- Add tomatoes
+
+**5. Blend:**
+- Blend chiles with soaking water
+- Blend spices, nuts, aromatics
+- Blend chocolate last
+
+**6. Simmer:**
+- Simmer mixture in chicken stock
+- Season with salt
+- Simmer 30-60 minutes
+- Add water if too thick
+
+**7. Strain (optional):**
+- Strain for smooth texture
+- Or leave chunky
+
+## Serving Mole
+
+**Traditionally with:**
+- Chicken (whole or pieces)
+- Turkey (for special occasions)
+- Rice (white)
+- Warm tortillas
+- Sprinkled sesame seeds
+
+**Presentation:**
+- Generously sauce meat
+- Garnish with sesame seeds
+- Serve with rice
+
+## Mole Verde (Green Mole)
+
+**Lighter, fresher**
+
+**Key ingredients:**
+- Tomatillos (instead of tomatoes)
+- Pumpkin seeds (pepitas)
+- Fresh herbs (cilantro, epazote)
+- Mild chiles (poblano, jalapeño)
+- Lettuce (thickener)
+
+## Common Mistakes
+
+| Mistake | How to Fix |
+|---------|------------|
+| Burning chiles | Toast gently, watch closely |
+| Not blending smoothly | Blend longer, strain |
+| Too thick | Add more stock or water |
+| Too bitter | Balance with more chocolate or sugar |
+| Under-seasoned | Add salt, adjust spices |
+
+## Where to Eat
+
+### In Mexico
+
+**Oaxaca City:**
+- Market mole vendors
+- Restaurants specializing in mole
+
+**Puebla:**
+- Birthplace of mole poblano
+
+### Internationally
+
+**Look for:**
+- "Mole poblano" on menu
+- Regional Mexican restaurants
+- House-made moles (not canned)
+
+## Further Reading
+
+- "Oaxaca al Gusto" by Diana Kennedy
+- "The Art of Mexican Cooking" by Diana Kennedy
+- "My Mexico" by Diana Kennedy
+
+## Practice
+
+1. **Start simple** - Mole verde (fewer ingredients)
+2. **Try mole poblano** - The classic
+3. **Experiment** - Different chile combinations
+4. **Host mole dinner** - Chicken, mole, rice, tortillas
+
+**Remember:** Mole is patience. It takes time, but the result is extraordinary.

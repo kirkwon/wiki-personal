@@ -1,0 +1,118 @@
+---
+ingested: '2026-04-24'
+sha256: c330fcd398183d849275caa80ebc7a050d524ac9c439f42f09546516e7ec4dab
+source_path: Gastronomy/Social Media Food References.md
+title: Social Media Food References
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+-
+
+
+
+# Social Media Food References
+
+
+## Quick Reference
+
+### Source**: Apple Notes Migration
+### Type**: Social Media Links
+### Platform**: Facebook
+### Content Type**: Recipe videos and tutorials
+### Total References**: 123 notes (food-related)
+
+
+
+## Summary
+
+Collection of food-related content saved from social media, primarily Facebook videos and reels featuring recipes and cooking techniques.
+
+## Extracted References
+
+### Dim Sum
+- **Source**: Facebook video
+- **Link**: https://www.facebook.com/lyannakeaa/videos/1187926816110269/
+- **Type**: Video
+- **Tags**: [dim-sum, chinese, dim-sum]
+
+### Turkish Mackerel Wrap
+- **Source**: Facebook reel
+- **Link**: https://www.facebook.com/reel/874750878475202/
+- **Type**: Reel
+- **Tags**: [turkish, mackerel, wrap, seafood]
+
+### Tuna Larb
+- **Source**: Facebook reel
+- **Links**: 
+  - https://www.facebook.com/reel/930718266340328/
+  - https://www.facebook.com/reel/1184307650315496/
+- **Type**: Reel
+- **Tags**: [thai, larb, tuna, salad]
+
+## Categories Found in Notes
+
+Based on the full search (123 food-related notes):
+
+| Category | Count | Sample Topics |
+|----------|-------|---------------|
+| **Global Street Food** | High | Festival references, various cuisines |
+| **SF Local Food** | High | Roasted Crab, Garlic Noodles, Rainbow Grocery |
+| **Seafood** | Medium | Crab, noodles, fish wraps |
+| **Quick Recipes** | Medium | Tuna larb, wraps, dim sum |
+| **Food Shopping** | Medium | Bulk food, discount supermarkets |
+
+## Migration Strategy
+
+### Phase 1: Extract Links → URLs Documented
+✅ Completed - URLs saved with metadata
+
+### Phase 2: Watch & Summarize
+- [ ] Watch videos and extract recipes
+- [ ] Create structured recipe cards
+- [ ] Add to appropriate cuisine category
+- [ ] Tag with technique and difficulty
+
+### Phase 3: Cross-Reference
+- Connect to existing Gastronomy vault entries
+- Link to related cuisines (Chinese dim sum, Thai larb, Turkish seafood)
+- Add "social media inspiration" section to relevant concepts
+
+## Integration with Vault
+
+### Dim Sum Note
+- Current: Video link only
+- Target: Expand `[[Gastronomy/Cuisines/Chinese/Concepts/dim-sum.md]]`
+- Add video reference to "Further Resources"
+
+### Larb Note
+- Current: Video links
+- Target: Add to `[[Gastronomy/Cuisines/Thai/Concepts/Thai Salads.md]]` or similar
+- Add modern interpretation (tuna larb) as variation
+
+### Turkish Mackerel
+- Current: Reel link
+- Target: Create new seafood concept or add to Turkish cuisine
+- Document technique for mackerel wraps
+
+## Dataview Query
+
+```dataview
+TABLE
+  platform,
+  content_type,
+  tags
+FROM "Gastronomy/Social Media References"
+SORT category ASC
+```
+
+## See Also
+
+- [[Gastronomy/Index]] - Full gastronomy domain
+- [[Gastronomy/Cuisines/Chinese/Index]] - Chinese cuisine
+- [[Gastronomy/Cuisines/Thai/Index]] - Thai cuisine
+
+---
+*Migrated from Apple Notes • Created: 2025-04-20*
+
+---

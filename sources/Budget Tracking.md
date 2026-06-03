@@ -1,0 +1,22 @@
+---
+type: source
+title: Budget Tracking
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- personal-finance
+- skill
+sources:
+- Budget Tracking.md
+---
+--
+# Budget Tracking
+
+This source document is a minimal stub with no substantive content. It references the skill of budget tracking with low confidence and no supporting sources, methods, or frameworks.
+
+## Analysis
+The document contains only metadata: a skill name ("Budget Tracking"), a confidence level of 0.7, a review schedule (last reviewed 2026-04-18, next review 2026-10-15), and a priority of low. No definitions, tools, methods, or frameworks are provided.
+
+## Recommendations
+- Merge into or expand within [[personal-finance]] since it adds no distinct value as a standalone skill page.
+- If kept separate, it needs actual content: tools (spreadsheets, apps), frameworks (50/30/20 rule, zero-based budgeting, envelope method), habits, and review cadence.

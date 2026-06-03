@@ -1,0 +1,34 @@
+---
+type: concept
+title: Herb Blends
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- herbs
+- cuisine
+- french-cuisine
+related:
+- herbs-spices
+- rosemary
+- french-cuisine
+- herbes-de-provence
+sources:
+- Rosemary.md
+---
+-
+# Herb Blends
+
+Herb blends combine multiple herbs to create balanced, complex flavors suited to specific cuisines. Herbes de Provence is a classic French blend that includes rosemary alongside thyme, basil, marjoram, and other herbs. These blends are used in roasts, stuffings, pastries, and stocks across French, Mediterranean, and Italian cooking.
+
+## Notable Blends
+
+- **Herbes de Provence**: Rosemary, thyme, basil, marjoram — used in French roasts, stuffings, and pastries
+- **Italian seasoning**: Rosemary, basil, oregano — used in Italian roasts and grilled dishes
+
+## Related
+
+- [[rosemary]] - Rosemary in herb blends
+- [[herbs-spices]] - Herbs & Spices category
+- [[french-cuisine]] - French culinary traditions
+- [[herbes-de-provence]] - French herb blend
+---

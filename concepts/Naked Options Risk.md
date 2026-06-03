@@ -1,0 +1,31 @@
+---
+type: concept
+title: Naked Options Risk
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- personal-finance
+- risk-management
+- derivatives
+sources:
+- Options Trading.md
+related:
+- options
+- risk-management
+- position-sizing
+---
+-
+# Naked Options Risk
+
+Selling naked options (calls or puts without adequate hedging) exposes traders to unlimited or substantial risk. This is one of the most dangerous practices in options trading.
+
+## Τύποι Κινδύνου
+- **Naked Calls**: Πωλείτε κλήσεις χωρίς να κατέχετε μετοχές (απλώς τραυματικός κίνδυνος)
+- **Naked Puts**: Πωλείτε puts χωρίς ρευστό (σημαντικές απαιτήσεις μαργινάς)
+- **Binary Options**: All-or-nothing, casino-like odds
+
+## Οδηγίες Αποφυγής
+- Αποφεύγετε την πώληση γυμνών διαφορών
+- Χρειάζεστε σημαντικό κεφάλαιο
+- Πρέπει να γνωρίζετε τον κίνδυνο των Ελληνικών πριν πωλήσετε
+---

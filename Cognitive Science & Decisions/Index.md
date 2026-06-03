@@ -1,0 +1,25 @@
+---
+type: index
+domain: Cognitive Science & Decisions
+created: &id001 2025-04-15
+title: Cognitive Science & Decisions
+updated: *id001
+---
+-
+
+# Cognitive Science & Decisions
+
+## Overview
+
+This domain covers topics related to cognitive science & decisions.
+
+## Concepts
+
+- [[cognitive-biases-library]]
+- [[decision-making-frameworks]]
+
+## Related Domains
+
+- [[Quant Strategy]] - Rational decision-making frameworks
+- [[Music Theory & Jazz]] - Perception and pattern recognition
+--- 

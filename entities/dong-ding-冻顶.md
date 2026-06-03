@@ -1,0 +1,32 @@
+---
+type: entity
+title: 冻顶 (Dong Ding)
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- tea
+- oolong
+- taiwan
+sources:
+- Oolong Tea.md
+related:
+- oolong-tea-乌龙茶
+- ali-shan-阿里山
+- jinxuan-金萱
+---
+--
+# 冻顶 (Dong Ding - Frozen Summit)
+
+冻顶产自台湾南投，中浅发酵乌龙，风味平衡、花香、坚果、甜美。
+
+## 特征
+
+- **产地**: 台湾南投
+- **加工**: 中等氧化，轻烘焙
+- **风味**: 平衡、花香、坚果、甜美
+- **外观**: 紧卷，绿褐色
+- **最佳冲泡**: 195-205°F（90-96°C），多次冲泡，发展甜味
+
+## 风味谱系
+
+中等乌龙类型，口感圆润平衡。

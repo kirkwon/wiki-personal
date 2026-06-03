@@ -1,0 +1,28 @@
+---
+type: concept
+title: World3 Model
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- systems-thinking
+- simulation
+- sustainability
+- mental-models
+sources:
+- Limits to Growth_ The 30-Year Update - Donella H Meadows.md
+related:
+- limits-to-growth
+- planetary-boundaries
+- scenario-planning
+---
+-
+# World3 Model
+
+The World3 model is a computer simulation developed at MIT in the early 1970s as the analytical foundation for *The Limits to Growth*. It models the interactions between population, industrial output, food production, resource depletion, and pollution within a single planetary system.
+
+The model uses system dynamics—a methodology pioneered by Jay Forrester—to capture feedback loops, time delays, and nonlinear relationships. It produces multiple scenarios based on different assumptions about technology, resource availability, and policy choices.
+
+In the 30-Year Update, Meadows and colleagues compared the model's original scenarios against actual data from 1972 to 2004. The results showed that the real-world trajectory most closely matched the "standard run" scenario, which projected overshoot and collapse without significant policy intervention.
+
+The World3 model remains influential as a demonstration of how [[scenario-planning]] can illuminate long-term risks and trade-offs, even when the model itself simplifies a vastly complex reality.
+---

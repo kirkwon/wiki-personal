@@ -1,0 +1,34 @@
+---
+type: entity
+title: James Surowiecki
+created: 2026-04-29
+updated: 2026-05-10
+tags:
+- person
+- author
+- decision-making
+sources:
+- Conditions.md
+- Groups.md
+related:
+- the-wisdom-of-crowds
+- superforecasting
+- prediction-markets
+- group
+- collective-intelligence
+---
+--
+# James Surowiecki
+
+James Surowiecki is a journalist and author known for his work on collective intelligence and decision-making. He is best known for *The Wisdom of Crowds*, which explores how large groups can make better decisions than individual experts under certain conditions. His work connects to broader themes in the wiki around [[superforecasting]], [[prediction-markets]], and decision-making frameworks.
+
+## Key Work
+
+- *The Wisdom of Crowds* — explores collective intelligence, crowd wisdom, and the conditions under which groups outperform individuals.
+
+## Related Concepts
+
+- [[group]] — Groups as a mental model for pattern and relationship recognition
+- [[the-wisdom-of-crowds]] — Collective intelligence principle
+- [[superforecasting]] — Probabilistic prediction through diverse perspectives
+- [[prediction-markets]] — Markets for aggregating distributed predictions

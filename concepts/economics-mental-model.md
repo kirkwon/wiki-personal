@@ -1,0 +1,54 @@
+---
+type: concept
+title: Economics as a Mental Model
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- economics
+- behavioral-economics
+sources:
+- Economics.md
+- Misbehaving - Richard H Thaler
+- Nudge - Richard H Thaler  Cass R Sunstein
+related:
+- markets
+- rates
+- leverage
+- how-the-economic-machine-works
+---
+--
+# Economics as a Mental Model
+
+Economics is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world. Framed as a mental model, economics is not merely an academic discipline but a universal cognitive tool applicable across domains.
+
+## Core Idea
+
+Economics as a mental model emphasizes pattern recognition in complex systems—identifying how incentives, scarcity, trade-offs, and marginal thinking shape behavior and outcomes. It connects to existing mental models like [[markets]], [[rates]], and [[leverage]], providing a lens for understanding how resources flow and decisions are made under constraints.
+
+## Behavioral Economics Integration
+
+Richard H. Thaler's work in [[Misbehaving]] and [[Nudge]] demonstrates how people systematically deviate from rational-agent predictions. Key behavioral insights include:
+
+- **Mental accounting**: People treat money differently depending on subjective categories rather than objective value.
+- **Loss aversion**: Losses loom larger than equivalent gains, influencing risk-taking behavior.
+- **Choice architecture**: The design of options and defaults significantly shapes decisions, as explored in [[Nudge]].
+
+These insights bridge classical economic thinking with [[prospect-theory]] and the [[cognitive-biases-library]], showing that human decision-making is predictably irrational in ways economics can model and exploit constructively.
+
+## Choice Architecture and Nudging
+
+The concept of choice architecture—how choices are presented—relates to [[framing-effects]] and [[decision-making-frameworks]]. Thaler and Sunstein's libertarian paternalism suggests that institutions can nudge people toward better outcomes without restricting freedom, connecting to [[effective-listening]] and the idea that environmental design influences behavior.
+
+## Relationship to Other Mental Models
+
+- [[how-the-economic-machine-works---ray-dalio]] provides a simplified model of how economies function at a macro level.
+- [[markets]] and [[leverage]] are specific economic mental models for understanding resource allocation and amplification effects.
+- [[rates]] captures rate-of-change dynamics central to economic thinking.
+- [[prospect-theory]] explains the psychological mechanisms behind economic decision-making under uncertainty.
+
+## Open Questions
+
+- How does economics as a mental model differ from [[markets]] or [[how-the-economic-machine-works---ray-dalio]] as specific applications?
+- What specific economic principles (e.g., opportunity cost, marginal utility, comparative advantage) belong in this framework?
+- How can Thaler's behavioral insights be integrated more deeply with existing decision-making content?

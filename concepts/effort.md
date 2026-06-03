@@ -1,0 +1,34 @@
+---
+type: concept
+title: Effort
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- productivity
+sources:
+- Effort.md
+related:
+- deep-work - Cal Newport
+- hyperfocus---chris-bailey
+- scatterfocus
+- attention-residue
+- attention-budget
+confidence: medium
+---
+--
+# Effort
+
+Effort is a conceptual tool or principle for navigating complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.^[raw/articles/Effort.md]
+
+Effort is referenced in Cal Newport's [[Deep Work - Cal Newport]], which emphasizes focused, undistracted work as a pathway to producing value in an age of distraction.^[raw/articles/Effort.md]
+
+## Relationship to Existing Concepts
+
+Effort connects to several existing attention and productivity concepts:
+- [[hyperfocus---chris-bailey]] — deep, intense concentration mode
+- [[scatterfocus]] — mind-wandering, unfocused attention mode
+- [[attention-residue]] — leftover mental focus from a previous task
+- [[attention-budget]] — treating attention as a finite resource
+
+The distinction between Effort as a mental model and these existing concepts remains underdeveloped in the current source material.^[raw/articles/Effort.md]

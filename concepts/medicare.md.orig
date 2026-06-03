@@ -1,0 +1,39 @@
+---
+
+type: concept
+title: Medicare
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- healthcare
+- retirement
+- personal-finance
+related:
+- healthcare-costs-in-retirement
+- retirement-planning
+- hsa
+sources:
+- Retirement Planning.md
+----
+# Medicare
+
+Federal health insurance program for people age 65 and older.
+
+## Parts
+- **Part A**: Hospital insurance (generally premium-free if eligible)
+- **Part B**: Medical insurance (monthly premium + deductible)
+- **Part D**: Prescription drug coverage (monthly premium)
+
+## What Medicare Doesn't Cover
+- Long-term care (nursing home)
+- Most dental, vision, and hearing care
+- Prescription drugs fully (Part D has gaps)
+- Deductibles and co-pays
+
+## Planning Considerations
+Medicare is not comprehensive — significant out-of-pocket costs remain. Fidelity estimates a couple retiring at 65 faces $315,000 in lifetime healthcare costs, with $140,000 in Medicare premiums and $175,000 out-of-pocket.
+
+## Related
+- [[healthcare-costs-in-retirement]] — Cost estimates and strategies
+- [[hsa]] — Triple tax advantage for medical savings
+- [[retirement-planning]] — Overall retirement framework

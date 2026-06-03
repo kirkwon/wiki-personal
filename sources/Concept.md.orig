@@ -1,0 +1,79 @@
+---
+type: source
+title: 'Source: Concept.md'
+created: 2026-05-12
+updated: 2026-05-12
+sources:
+- Concept.md
+tags: []
+related: []
+---
+
+# Source: Concept.md
+
+The provided document is a **concept template** for creating structured documentation in an Obsidian vault. Here's a breakdown of its structure and purpose:
+
+---
+
+### **Template Overview**
+- **Purpose**: A reusable framework for defining and organizing knowledge about specific concepts (e.g., "Wok Hei," "Street Photography," or "Risk Management").
+- **Status**: Draft (indicated by `status: draft`), suggesting it's a work-in-progress template.
+
+---
+
+### **Key Sections**
+1. **Quick Reference**  
+   - Placeholder fields for metadata:  
+     - `Field`: Category (e.g., "Cuisine," "Finance")  
+     - `Type`: Concept type (e.g., "Technique," "Framework")  
+     - `Also Known As`: Alternative names  
+     - `Key Contributors`: Pioneers or influencers  
+     - `Related Concepts`: Linked ideas  
+
+2. **Summary**  
+   - A 1-2 sentence definition (e.g., "Wok hei is the umami-rich flavor developed through high-heat stir-frying in a wok").
+
+3. **Definition**  
+   - Formal explanation with sources (e.g., "Wok hei (Chinese: 火候) refers to the 'breath of the wok'...").
+
+4. **Key Concepts**  
+   - Bullet points for core ideas (e.g., "High-heat searing," "Stir-frying techniques").
+
+5. **How It Works**  
+   - Mechanism/process (e.g., "Wok hei is achieved by rapid stir-frying over high heat...").
+
+6. **Applications**  
+   - Real-world use cases (e.g., "Used in Sichuan cuisine to enhance flavor").
+
+7. **Examples**  
+   - Concrete instances (e.g., "Mapo Tofu," "Kung Pao Chicken").
+
+8. **Advantages & Limitations**  
+   - Pros (e.g., "Enhances flavor") and cons (e.g., "Requires skill to master").
+
+9. **Related Concepts**  
+   - Auto-linked pages (e.g., "Sichuan Cuisine," "Wok Hei").
+
+10. **See Also**  
+    - Manual cross-references (e.g., "Compare with French Press Coffee").
+
+11. **References**  
+    - Sources (e.g., books, papers, or links).
+
+---
+
+### **Analysis**
+- **Empty Fields**: All sections are empty except the markdown structure, indicating it's a template awaiting content.  
+- **Flexibility**: The template is designed for adaptability, allowing users to fill in details for any concept (e.g., "Street Photography," "Risk Assessment Framework").  
+- **Integration**: The `related` and `tags` fields suggest future linking to other vault pages for knowledge organization.  
+- **Status**: The `draft` status implies it’s a starting point for creating concept pages, which could later be marked as `complete` once populated.
+
+---
+
+### **Suggestions for Use**
+1. **Populate with Content**: Fill in sections like "Definition," "Key Concepts," and "Examples" for specific topics (e.g., "Mole Sauce" or "French Press Coffee").  
+2. **Link Related Concepts**: Use the `related` field to connect to other pages (e.g., "Mole Sauce" → "Mexican Cuisine").  
+3. **Add References**: Include citations for sources (e.g., "The Art of Thinking Clearly" for cognitive biases).  
+4. **Tagging**: Use `tags` to categorize (e.g., `#Cuisine`, `#Finance`).  
+
+This template is ideal for systematically docu

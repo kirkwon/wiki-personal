@@ -1,0 +1,49 @@
+---
+
+type: concept
+title: Single Property Analysis Template
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- template
+- real-estate
+- investing
+sources:
+- Financial Reporting Templates.md
+related:
+- net-operating-income
+- cap-rate
+- cash-on-cash-return
+- debt-coverage-ratio
+- break-even-ratio
+- depreciation-schedule
+- real-estate-investment-templates
+----
+# Single Property Analysis Template
+
+A comprehensive template for analyzing individual investment properties, tracking cash flow, returns, and tax implications.
+
+## Sections
+
+### Property Overview
+- Property address, type, purchase details, financing information, LTV ratio
+
+### Monthly Cash Flow Analysis
+- Monthly income (rent, parking, laundry, other)
+- Monthly expenses (mortgage, taxes, insurance, HOA, management, maintenance, repairs, utilities, vacancy, CapEx reserve)
+- Net Operating Income (NOI), debt service, net cash flow, cash on cash return
+
+### Annual Performance Metrics
+- Gross rental income, operating income, NOI
+- Cap rate, cash on cash return, total return
+- Break-even ratio, debt coverage ratio
+- Depreciation analysis (27.5-year schedule, tax shield)
+
+### Tax Analysis
+- Annual depreciation, mortgage interest, property taxes, operating expenses
+- Total deductible expenses, taxable income
+- Federal and state tax savings
+
+## Related Templates
+- [[multi-property-portfolio-template]]
+- [[investment-property-acquisition-template]]

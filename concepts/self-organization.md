@@ -1,0 +1,35 @@
+---
+type: concept
+title: Self-organization
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- systems-thinking
+- mental-models
+sources:
+- Thinking in Systems - Donella H. Meadows.md
+related:
+- complex-adaptive-systems
+- feedback-loops
+- resilience
+- leverage-points
+---
+-
+# Self-organization
+
+Self-organization is the process by which systems form order, structure, and patterns without external control or centralized direction. It is a hallmark of complex adaptive systems and emerges from local interactions among agents.
+
+## Key Characteristics
+
+- Order arises from simple rules and local feedback, not from top-down design.
+- Diversity of agents and strategies enhances the self-organizing capacity.
+- Self-organization can produce both beneficial and pathological patterns depending on system conditions.
+
+## Key Insight
+
+Meadows emphasizes that self-organization is essential for resilience and adaptability. Systems that suppress self-organization—through rigid control, monoculture, or elimination of diversity—become brittle and vulnerable to disruption.
+
+## Connections
+
+Self-organization connects to [[complex-adaptive-systems]], [[feedback-loops]], [[resilience]], and [[leverage-points]]. It relates to [[building-a-cohesive-team]] by suggesting that effective teams often emerge from enabling conditions rather than rigid structures.
+---

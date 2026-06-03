@@ -1,0 +1,42 @@
+---
+type: entity
+title: Classic Pico de Gallo
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- recipe
+- mexican-cuisine
+- salsa
+- cilantro
+sources:
+- Cilantro-Coriander.md
+related:
+- cilantrocoriander-coriandrum-sativum
+- mexican-cuisine
+- herbs-spices
+---
+--
+# Classic Pico de Gallo
+
+Salsa fresca mexicana que combina tomate, cebolla, cilantro y chile jalapeño.
+
+## Ingredientes
+
+- Tomates: 2 tazas (picados)
+- Cebolla: 1/2 taza (finamente picada)
+- Cilantro: 1/2 taza (picado)
+- Jugo de lima: 2 cucharadas
+- Jalapeño: 1 (picado, semillas retiradas para versión suave)
+- Sal: 1 cucharadita
+- Pimienta: 1/4 cucharadita
+
+## Método
+
+1. Mezclar todos los ingredientes excepto el cilantro.
+2. Añadir el cilantro al final.
+3. Dejar reposar 15 minutos para que los sabores se integren.
+4. Servir con chips, tacos o carnes a la parrilla.
+
+## Notas
+
+El cilantro se añade al final para preservar su frescura y sabor cítrico. Esta salsa es un ejemplo clásico de la aplicación del cilantro en la [[mexican-cuisine]].

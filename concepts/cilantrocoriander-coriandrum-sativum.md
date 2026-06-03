@@ -1,0 +1,363 @@
+---
+created: '2026-04-24'
+sources:
+- raw/ingested/Gastronomy/Herbs & Spices/Herbs/Cilantro-Coriander.md
+tags:
+- general
+- herbs
+title: Cilantro/Coriander (Coriandrum sativum)
+type: concept
+updated: '2026-04-24'
+---
+-
+
+
+# Cilantro/Coriander (Coriandrum sativum)
+
+
+## Quick Reference
+
+### Field**: [[Herbs & Spices]]
+### Type**: Fresh Herb
+### Family**: Apiaceae (carrot family)
+### Flavor Profile**: Citrusy, bright, slightly soapy (for some)
+### Primary Cuisines**: Mexican, Indian, Thai, Vietnamese, Middle Eastern
+### Best Uses**: Salsas, curries, garnish, marinades
+### Storage**: Refrigerate, stems trimmed
+### Complements**: Lime, cumin, garlic, chilies
+### Pairs With**: Avocado, tomatoes, beans, seafood
+### Avoid**: Overcooking (loses flavor), heat-sensitive
+
+
+
+## Summary
+
+Cilantro (the fresh leaves and stems) and coriander (the dried seeds) come from the same plant but offer completely different flavor profiles. Cilantro is essential in Mexican, Indian, and Southeast Asian cuisines for its bright, citrusy flavor that cuts through rich and spicy dishes.
+
+## The Plant: Two Parts, One Plant
+
+### Cilantro (Fresh Leaves & Stems)
+- **Flavor**: Bright, citrusy, slightly pungent
+- **Characteristics**: Refreshing, clean, brightening
+- **Uses**: Raw applications, finishing, garnishes
+- **Storage**: Highly perishable, use within 3-5 days
+
+### Coriander (Seeds)
+- **Flavor**: Earthy, citrusy, warm, nutty
+- **Characteristics**: More complex, deeper flavor
+- **Uses**: Grinding, toasting, spice blends
+- **Storage**: Whole seeds last 1-2 years
+
+## Flavor Profile & Science
+
+### Genetic Sensitivity
+**Cilantro Controversy**: Up to 15% of people perceive cilantro as "soapy" or "bug-like" due to genetic variations in olfactory receptors.
+
+### Primary Notes
+- **Citrus**: Bright, fresh lemon/lime notes
+- **Grassy**: Fresh, green flavor
+- **Pungent**: Slightly spicy, clean bite
+- **Earthy**: Underlying soil-like notes
+- **Soapy**: Perceived by some (genetic variation)
+
+### Why the Difference
+- **Aldehydes**: Main flavor compounds in cilantro
+- **Genetic Variation**: OR6A2 receptor affects perception
+- **Adaptation**: Some develop tolerance over time
+- **Cooking**: Changes chemical composition
+
+## Culinary Applications
+
+### Mexican Cuisine
+- **Salsa**: Fresh cilantro in salsas and pico de gallo
+- **Garnish**: Tacos, nachos, soups, beans
+- **Marinades**: Adobos, ceviche, carne asada
+- **Guanabana**: Fresh drinks and agua frescas
+
+### Indian Cuisine
+- **Garnish**: Curries, dals, biryanis
+- **Chutneys**: Coriander-mint chutney
+- **Raita**: Yogurt dips with cilantro
+- **Fresh Paratha**: Added to breads
+
+### Southeast Asian Cuisine
+- **Vietnamese**: Pho garnish, spring rolls, salads
+- **Thai**: Tomyum soup, salads, stir-fries
+- **Malaysian**: Laksa, salads, curries
+- **Filipino**: Kinilaw (ceviche), fresh dishes
+
+### Middle Eastern Cuisine
+- **Tahini**: Cilantro in tahini sauces
+- **Tabbouleh**: Lebanese parsley salad with cilantro
+- **Grilled Meats**: Marinades and garnishes
+- **Dips**: Hummus and other bean dips
+
+## Growing & Selection
+
+### Growing Tips
+- **Sun**: Full to partial sun
+- **Soil**: Well-drained, fertile
+- **Water**: Consistent moisture
+- **Succession Plant**: Every 2-3 weeks for continuous harvest
+- **Bolting**: Happens in heat (bitter flavor)
+- **Harvest**: Morning when cool, before bolting
+
+### Selection Guide
+- **Leaves**: Deep green, vibrant, no yellowing
+- **Stems**: Firm, not slimy
+- **Smell**: Fresh, citrusy (not musty)
+- **Size**: Medium leaves preferred (larger can be bitter)
+- **Avoid**: Yellowing, wilting, flowering plants
+
+### Storage Methods
+```yaml
+Refrigerator:
+  Method: Stems trimmed, wrapped in damp paper towel
+  Duration: 3-5 days
+  Tip: Change paper towel every 2 days
+
+Freezing:
+  Method: Chopped in ice cube trays with water
+  Duration: 3-4 months
+  Uses: Soups, stews, cooked dishes
+
+Drying:
+  Method: Air dry or dehydrate quickly
+  Duration: 1-2 weeks
+  Note: Loses most flavor, becomes different herb
+```
+
+## Cooking Techniques
+
+### Preparation Methods
+1. **Chiffonade**: Stack leaves, roll, slice thin ribbons
+2. **Chopped**: Fine chop for salsas and marinades
+3. **Whole**: Large leaves for garnish (Thai, Vietnamese)
+4. **Pounded**: In mortar for pestos and pastes
+5. **Minced**: Fine for uniform distribution
+
+### Handling Tips
+- **Add Late**: In cooking to preserve fresh flavor
+- **Wash Gently**: Sand and dirt cling to leaves
+- **Dry Thoroughly**: Water dilutes flavor, causes spoilage
+- **Remove Stems**: Usually (except in some cuisines)
+
+### Heat Sensitivity
+- **High Heat**: Loses flavor quickly, becomes bitter
+- **Medium Heat**: Add in last minute
+- **Raw**: Best for maximum flavor and color
+- **Acid**: Works well with lime, lemon, vinegar
+
+## Recipes & Applications
+
+### Classic Pico de Gallo
+```yaml
+Ingredients:
+- Tomatoes: 2 cups (diced)
+- Onion: 1/2 cup (finely diced)
+- Cilantro: 1/2 cup (chopped)
+- Lime juice: 2 tbsp
+- Jalapeño: 1 (minced, seeds removed for mild)
+- Salt: 1 tsp
+- Pepper: 1/4 tsp
+
+Method:
+1. Mix all ingredients except cilantro
+2. Add cilantro last
+3. Let sit 15 minutes for flavors to meld
+4. Serve with chips, tacos, grilled meats
+```
+
+### Coriander-Cumin Marinade
+```yaml
+Ingredients:
+- Cilantro: 1 cup (chopped)
+- Garlic: 4 cloves (minced)
+- Ginger: 1 tbsp (grated)
+- Lime juice: 1/4 cup
+- Soy sauce: 2 tbsp
+- Toasted cumin: 1 tsp
+- Salt: 1 tsp
+- Pepper: 1/2 tsp
+
+Method:
+1. Mix all ingredients in blender
+2. Marinate protein for 30 minutes
+3. Grill or sauté as desired
+```
+
+### Thai Cilantro Salad
+```yaml
+Ingredients:
+- Cilantro: 1 cup (torn)
+- Mint: 1/4 cup (torn)
+- Lettuce: 2 cups (shredded)
+- Cherry tomatoes: 1 cup (halved)
+- Dressing: Fish sauce, lime juice, sugar, garlic
+- Optional: Chicken, tofu, shrimp
+
+Method:
+1. Toss vegetables with dressing
+2. Add fresh herbs last
+3. Serve immediately
+```
+
+### Coriander-Orange Relish
+```yaml
+Ingredients:
+- Coriander seeds: 1 tbsp (crushed)
+- Orange zest: 1 tbsp
+- Orange juice: 1/4 cup
+- Honey: 1 tbsp
+- Chilies: 1 (minced)
+- Salt: 1/2 tsp
+
+Method:
+1. Toast coriander seeds until fragrant
+2. Mix all ingredients
+3. Use with fish, poultry, or vegetables
+```
+
+## Pairing Guide
+
+### Vegetables
+- **Excellent**: Tomatoes, avocado, onion, cucumber, corn
+- **Good**: Bell peppers, zucchini, beans, potatoes
+- **Use Sparingly**: Root vegetables (overpowering)
+
+### Proteins
+- **Excellent**: Fish, shellfish, chicken, pork
+- **Good**: Beef, lamb (when balanced)
+- **Avoid**: Very strong-flavored proteins
+
+### Other Ingredients
+- **Perfect**: Lime, garlic, cumin, chilies, tomatoes
+- **Good**: Ginger, fish sauce, soy, mint
+- **Use With**: Citrus, acidic ingredients, spicy foods
+
+## Substitutions
+
+### When Cilantro is Unavailable
+```yaml
+Salsa Applications:
+- Substitutes: Parsley (milder), basil (different profile)
+- Ratio: 1:1 for parsley, 1:1 for basil
+- Effect: Different flavor, less bright
+
+Curry Garnish:
+- Substitutes: Mint (cooling), parsley (mild)
+- Ratio: 1:1 for mint, 1:1 for parsley
+- Effect: Cooling vs bright, different character
+
+General:
+- Substitute: Mix parsley and dill for approximation
+- Ratio: 2:1 parsley to dill
+- Effect: Captures some freshness, missing citrus
+
+### When Coriander Seeds are Unavailable
+```yaml
+Ground Coriander:
+- Substitutes: Cumin (similar earthiness), fennel (anise)
+- Ratio: 1:1 for cumin, 1:2 for fennel
+- Effect: Similar earthiness, different finish
+
+Whole Spices:
+- Substitutes: Caraway (similar), fennel seeds
+- Ratio: 1:1 for caraway, 1:1 for fennel
+- Effect: Different aromatic profile
+```
+
+## Common Mistakes
+
+### ❌ Overcooking Cilantro
+- **Problem**: Bitter flavor, loss of brightness
+- **Solution**: Add in last 1-2 minutes of cooking
+- **Exception**: Braised dishes where herbs break down
+
+### ❌ Using Old/Slimey Cilantro
+- **Problem**: Musty flavor, poor texture
+- **Solution**: Always use fresh, vibrant cilantro
+- **Test**: Should have crisp leaves, not slimy stems
+
+### ❌ Too Much Cilantro
+- **Problem**: Overpowering, soapy flavor for some
+- **Solution**: Start with small amounts, taste and adjust
+- **Rule**: Let cilantro enhance, not dominate
+
+### ❌ Improper Storage
+- **Problem**: Wilts quickly, becomes bitter
+- **Solution**: Refrigerate with stems in water or wrapped in damp towel
+- **Tip**: Change water/damp towel every 2 days
+
+## Seasonal Variations
+
+### Spring Cilantro
+- **Character**: Tender leaves, mild flavor
+- **Uses**: Raw applications, salads, garnishes
+- **Storage**: More delicate, use quickly
+
+### Summer Cilantro
+- **Character**: Stronger flavor, may bolt
+- **Uses**: Cooking, marinades, salsas
+- **Tip**: Plant succession crops to avoid bolting
+
+### Fall Cilantro
+- **Character**: Similar to spring, cooler weather
+- **Uses**: All applications, less prone to bolting
+- **Storage**: Good keeping quality
+
+## Health Benefits
+- **Antioxidants**: Rich in flavonoids and polyphenols
+- **Digestive Aid**: Traditional use for digestion
+- **Detoxification**: Supports liver function
+- **Anti-inflammatory**: Contains quercetin
+- **Vitamins**: Vitamin A, K, C, folate
+
+## Flavor Science
+- **Main Compounds**: Aldehydes (coriander, decanal)
+- **Odor Threshold**: Very low concentration detected
+- **Temperature Sensitivity**: Heat destroys flavor compounds
+- **Acid Stability**: Works well with citrus and vinegar
+
+## Cultural Preferences
+```yaml
+Love It:
+- Cultures: Mexican, Indian, Thai, Vietnamese, Middle Eastern
+- Usage: Generous amounts, primary flavor component
+
+Tolerate It:
+- Cultures: European, American, some Asian
+- Usage: Moderate amounts, background flavor
+
+Dislike It:
+- Percentage: 4-14% of population (genetic)
+- Perception: Soapy, metallic, unpleasant
+```
+
+## Storage Timeline
+```yaml
+Fresh:
+- 1-2 days: Peak flavor and texture
+- 3-5 days: Good but diminishing
+- 6-7 days: Marginal, likely slimy
+
+Frozen (chopped):
+- 1 month: Good for cooked dishes
+- 2 months: Acceptable
+- 3 months+: Poor texture, flavor diminished
+
+Dried:
+- 1 week: Acceptable for some applications
+- 2 weeks+: Poor flavor, mainly color
+```
+---
+
+## See Also
+- [[Herbs & Spices/Herbs/Fresh Herbs]] - Other fresh herbs guide
+- [[Herbs & Spices/Spices/Coriander]] - Coriander seed information
+- [[Gastronomy/Cuisines/Mexican/Index]] - Mexican cuisine applications
+- [[Gastronomy/Cuisines/Indian/Index]] - Indian cuisine applications
+- [[Gastronomy/Cuisines/Thai/Index]] - Thai cuisine applications
+
+---
+*Cilantro/Coriander page created: 2026-04-21 | Next: Create rosemary page*

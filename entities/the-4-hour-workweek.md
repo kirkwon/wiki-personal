@@ -1,0 +1,29 @@
+---
+type: entity
+title: The 4-Hour Workweek
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- book
+- productivity
+- lifestyle-design
+- habits
+sources:
+- Habits.md
+related:
+- habits
+- timothy-ferriss
+- tools-of-titans
+---
+--
+# The 4-Hour Workweek
+
+*The 4-Hour Workweek* by Timothy Ferriss advocates for lifestyle design—eliminating non-essential work, outsourcing tasks, and focusing on what truly matters. The book reframes productivity around freedom rather than output metrics.
+
+## Key Concepts
+- The DEAL framework: Definition, Elimination, Automation, Liberation
+- Parkinson's Law — work expands to fill the time available
+- Eliminating bad habits before building good ones
+
+## Relevance
+Ferriss contributes to the Habits mental model by emphasizing environment design and the elimination of counterproductive routines.

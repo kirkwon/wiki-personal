@@ -1,0 +1,119 @@
+---
+title: Black Rice/Forbidden Rice (黑米)
+created: 2026-04-24
+updated: 2026-04-24
+type: concept
+tags:
+- rice
+- black-rice
+- forbidden-rice
+- dessert
+- antioxidant
+sources: []
+---
+-
+
+# Black Rice/Forbidden Rice (黑米)
+
+## Quick Reference
+
+| Attribute | Value |
+|-----------|-------|
+| **Origin** | China (historically forbidden for commoners) |
+| **Grain Type** | Medium-grain |
+| **Aroma** | Nutty, slightly sweet |
+| **Texture** | Chewy, firm, turns purple when cooked |
+| **Amylose Content** | Medium |
+| **Best For** | Desserts, specialty dishes, color contrast |
+| **Preparation** | Soak 1 hour, 1:2 ratio, simmer 30-35 min |
+| **Common Dishes** | Black rice pudding, mango black rice, mixed grain rice |
+
+## Overview
+
+Black Rice/Forbidden Rice (黑米) is China (historically forbidden for commoners)'s signature rice variety, known for its nutty, slightly sweet aroma and chewy, firm, turns purple when cooked texture. This rice is essential for desserts, specialty dishes, color contrast.
+
+## Geographic Origin
+
+### Growing Region
+
+```yaml
+Region: China (historically forbidden for commoners)
+Climate: Tropical/Subtropical (varies by origin)
+Soil: Alluvial, clay-loam (varies by region)
+Cultivation: Paddy fields, flooded cultivation
+Harvest: 1-3 times per year depending on variety
+```
+
+### Terroir Influence
+
+The unique characteristics of Black Rice/Forbidden Rice (黑米) come from:
+
+- **Soil Composition**: Mineral-rich alluvial soil
+- **Water Quality**: Clean irrigation water
+- **Climate**: Appropriate temperature and rainfall
+- **Traditional Varieties**: Heirloom cultivars preserved over generations
+
+## Characteristics
+
+### Grain Structure
+
+- **Grain Length**: Medium-grain
+- **Amylose/Amylopectin Ratio**: Medium
+- **Aroma Compound**: Nutty, slightly sweet
+- **Color**: Natural (white, brown, black, or red depending on variety)
+
+### Flavor Profile
+
+- **Raw**: Nutty, slightly sweet
+- **Cooked**: Chewy, firm, turns purple when cooked
+- **Aftertaste**: Clean, slightly sweet (varies by variety)
+
+## Preparation Methods
+
+### Standard Method
+
+Soak 1 hour, 1:2 ratio, simmer 30-35 min.
+
+### Alternative Methods
+
+1. **Rice Cooker**: Most reliable for consistent results
+2. **Absorption Method**: Traditional stovetop cooking
+3. **Steaming**: For sticky rice and dim sum applications
+4. **Pilaf Method**: Toast first, then simmer in broth
+
+### Tips for Best Results
+
+- Rinse rice until water runs clear (except for risotto)
+- Use appropriate water ratio for variety
+- Let rest 10 minutes after cooking before fluffing
+- Don't lift lid during cooking (traps steam)
+
+## Common Dishes
+
+### Signature Dishes
+
+Black rice pudding, mango black rice, mixed grain rice.
+
+### Other Applications
+
+- Grain bowls and Buddha bowls
+- Fried rice variations
+- Rice salads
+- Rice pudding and desserts
+- Side dish for curries and stews
+
+## Storage
+
+- **Uncooked**: Airtight container, cool dry place, 1-2 years
+- **Brown/Colored Rice**: Refrigerate for longer shelf life (oils in bran)
+- **Cooked**: Refrigerate up to 4 days, freeze up to 1 month
+
+## See Also
+
+- [[rice-varieties-index]]
+- [[cooking-techniques]]
+- [[gastronomy]]
+- [[grain-preparation]]
+
+---
+*Part of the rice varieties knowledge base*

@@ -1,0 +1,66 @@
+---
+type: source
+title: How to Solve It - George Polya
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- book
+- problem-solving
+- heuristics
+sources:
+- How to Solve It - George Polya.md
+---
+-
+# How to Solve It - George Polya
+
+George Polya's *How to Solve It* (1945) is a foundational text on problem-solving methodology. The book presents a four-step framework for approaching problems: Understanding the Problem, Devising a Plan, Carrying Out the Plan, and Looking Back. It includes a comprehensive "Dictionary of Heuristic" covering tactics such as analogy, decomposition, working backward, specialization, and generalization. The text emphasizes that problem-solving is a learnable skill and stresses reflective practice, the value of insight, and the importance of knowing when to stop.
+
+## Key Concepts
+- [[polya-four-steps]] - The four-phase problem-solving process
+- [[heuristic-proproblem-solving]] - General problem-solving strategies
+- [[analogy-in-problem-solving]] - Using related problems as templates
+- [[decomposing-and-recombining]] - Breaking complex problems into simpler parts
+- [[working-backwards-in-problem-solving]] - Working from the goal backward
+- [[generalization-in-problem-solving]] - Extending solutions to broader cases
+- [[specialization-and-generalization]] - Examining specific cases to understand general principles
+- [[inventor-s-paradox]] - More ambitious problems can sometimes be easier
+- [[bright-idea-insight]] - Moment of insight when a solution becomes clear
+- [[pedantry-and-mastery]] - Distinction between rule-following and deep understanding
+- [[subconscious-work]] - Incubation of problems unconsciously
+- [[what-is-the-unknown]] - Clarifying what needs to be found or proven
+- [[signs-of-progress]] - Indicators of moving toward a solution
+- [[looking-back-reflection]] - Examining the solution and learning from the process
+- [[teaching-problem-solving]] - Developing problem-solving skills in others
+
+## When to Stop
+- When the problem is not worth the time investment
+- When systematic problem-solving becomes procrastination
+- When over-analysis prevents learning from mistakes
+- When rigidly applying frameworks without thinking
+- When avoiding creative intuition for systematic approaches
+- When the problem has no known solution
+- When stuck and need to seek help or collaboration
+- When neglecting other important areas
+- When problem-solving becomes a source of anxiety rather than growth
+
+## Hermes Triggers
+- When facing difficult problems (mathematical or otherwise)
+- When stuck and don't know how to proceed
+- When learning new subjects or concepts
+- When teaching others problem-solving skills
+- When designing algorithms or solutions
+- When debugging complex issues
+- When approaching unfamiliar challenges
+
+## Metrics
+- Count problems solved successfully
+- Track time from understanding to solution
+- Measure ability to explain solutions clearly
+- Assess recognition of problem patterns
+- Count alternative approaches discovered
+- Monitor ability to teach problem-solving to others
+- Evaluate solutions for elegance and correctness
+- Track reduction in getting stuck
+- Measure transfer of skills to new domains
+- Assess confidence in tackling unfamiliar problems
+---

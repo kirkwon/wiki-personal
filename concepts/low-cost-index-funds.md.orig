@@ -1,0 +1,48 @@
+---
+type: concept
+title: Low-Cost Index Funds
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- personal-finance
+- investing
+- index-funds
+- fees
+sources:
+- The Index Card Rules.md
+related:
+- index-card-rules
+- fee-drag
+- portfolio-rebalancing
+- vanguard
+- fidelity
+- schwab
+---
+# Low-Cost Index Funds
+
+The core investment vehicle recommended by the Index Card Rules framework. Broad-market index funds offer instant diversification, minimal fees, and consistent long-term performance that exceeds most actively managed funds.
+
+## Why Index Funds Win
+
+- **Instant diversification** — owning hundreds or thousands of companies
+- **Low fees** — 0.03-0.04% expense ratios vs 1%+ for active funds
+- **Outperform most professionals** — over long time horizons
+- **No stock picking required** — set and forget
+
+## Example Funds
+
+- **VTSAX** — Vanguard Total Stock Market (0.04%)
+- **VFIAX** — Vanguard S&P 500 (0.04%)
+- **FXAIX** — Fidelity S&P 500 (0.015%)
+- **SWTSX** — Schwab Total Stock Market (0.03%)
+- **VTTHX** — Vanguard 2055 Target Date (auto-adjusts allocation by age)
+
+## The Math of Fees
+
+- 0.04% fee: keep 99.96% of returns
+- 1% fee: keep 99% of returns
+- Over 30 years, a 1% fee costs 25%+ of your final balance
+
+## See Also
+[[index-card-rules]] | [[fee-drag]] | [[portfolio-rebalancing]] | [[tax-advantaged-accounts-priority]]
+---

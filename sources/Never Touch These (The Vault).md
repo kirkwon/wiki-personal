@@ -1,0 +1,16 @@
+---
+type: summary
+title: Never Touch These (The Vault)
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- skill
+sources:
+- Never Touch These (The Vault).md
+confidence: low
+---
+-
+# Never Touch These (The Vault)
+
+This source file is a placeholder skill card with no substantive content. It contains only metadata: a skill name, confidence score of 0.7, and review schedule. No sources, entities, or concepts are defined.
+---

@@ -1,0 +1,66 @@
+---
+type: concept
+title: Influence as a Mental Model
+created: 2026-04-29
+updated: 2026-05-10
+tags:
+- mental-model
+- psychology
+- decision-making
+- cognitive-bias
+- cognitive-science
+sources:
+- Cialdini.md
+- Influence.md
+related:
+- biases
+- framing-effects
+- decision-making-frameworks
+- cialdinis-six-principles-of-influence
+- pre-suasion
+- cognitive-biases-library
+- dual-process-theory
+- thinking-fast-and-slow ---daniel-kahneman
+- perspective
+---
+-
+# Influence as a Mental Model
+
+Influence is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world, particularly around persuasion, compliance, and decision-making driven by social forces.
+
+As a mental model, influence is universal in applicability, meaning it can be applied across any domain where persuasion, decision-making, or pattern recognition plays a role. It draws on two major theoretical perspectives: Cialdini's persuasion psychology and Kahneman's dual process theory of cognition.
+
+## Cross-Source Perspectives
+
+### Robert B. Cialdini
+
+Cialdini's work in "Influence: The Psychology of Persuasion" identifies key principles that drive human compliance and persuasion, including reciprocity, commitment and consistency, social proof, authority, liking, and scarcity. These principles describe how external social dynamics shape decisions and behavior. As a mental model, influence helps identify:
+- When and why people are susceptible to persuasion
+- How environmental and social cues shape choices before conscious deliberation
+- The role of reciprocity, social proof, authority, and other triggers in everyday interactions
+
+### Daniel Kahneman
+
+Kahneman's "Thinking, Fast and Slow" describes how internal cognitive processes—particularly the interplay between System 1 (fast, intuitive) and System 2 (slow, deliberate) thinking—create biases and heuristics that influence judgment. This internal lens complements Cialdini's external focus.
+
+## Integration
+
+Together, these perspectives provide a unified framework: influence operates both from the outside (through social and environmental pressures) and from the inside (through cognitive biases and automatic responses). Recognizing these patterns is a powerful mental shortcut for understanding why people decide, act, and respond as they do.
+
+This model complements existing frameworks in the wiki such as [[biases]], [[framing-effects]], and [[decision-making-frameworks]], offering a specific lens on social influence that intersects with but extends beyond individual cognitive biases.
+
+## Connections to Related Concepts
+
+- [[dual-process-theory]] — Kahneman's framework for understanding fast vs. slow thinking
+- [[cognitive-biases-library]] — The catalog of systematic errors that influence judgment
+- [[decision-making-frameworks]] — Practical tools for improving decision quality
+- [[biases]] — Biases as a mental shortcut for navigating complexity
+- [[perspective]] — Perspective as a conceptual tool for pattern recognition
+
+## Open Questions
+
+- How does this mental model connect to [[superforecasting]] and [[prediction-markets]], which also deal with influence on judgment?
+- How does Cialdini's framework interact with Kahneman's dual-process theory?
+- Where does pre-suasion fit within the existing mental model taxonomy?
+- Cialdini's six specific principles are not yet fully documented in the wiki—consider adding them as a subtopic.
+- The tension between external persuasion tactics and internal cognitive biases remains an area for exploration.

@@ -1,0 +1,26 @@
+---
+type: concept
+title: Genetic Individuality in Health
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- health
+- genetics
+- personalization
+sources:
+- The 4-Hour Body - Timothy Ferriss.md
+related:
+- the-4-hour-body
+---
+--
+# Genetic Individuality in Health
+
+Genetic individuality refers to the principle that each person's physiology — metabolism, fat storage patterns, muscle growth potential, and hormonal responses — is shaped by their unique genetic blueprint. Ferriss argues that effective health optimization requires understanding and working with one's individual genetics rather than applying universal protocols.
+
+## Key Points
+- Genes influence metabolism, fat storage, and muscle growth in ways that vary person to person.
+- Personalized approaches yield better results than one-size-fits-all health advice.
+- Self-experimentation and measurement help identify which strategies work for an individual's biology.
+
+## Related
+[[the-4-hour-body]]

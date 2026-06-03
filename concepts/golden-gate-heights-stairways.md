@@ -1,0 +1,38 @@
+---
+type: concept
+title: Golden Gate Heights Stairways
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- local
+- sf
+- neighborhoods
+- urban-hiking
+sources:
+- golden-gate-heights.md
+related:
+- golden-gate-heights
+- grandview-park
+- sixteen-avenue-tiled-steps
+- sunset-district
+---
+--
+# Golden Gate Heights Stairways
+
+The stairways of Golden Gate Heights are a distinctive feature of the neighborhood, combining urban hiking, public art, and community identity. The steep terrain makes stairways both a practical necessity and a cultural landmark.
+
+## Key Stairways
+
+The neighborhood features multiple notable stairways, with the 16th Avenue Tiled Steps being the most famous—a 163-step mosaic installed in 2005 as a community art project. Other stairways include the 14th Avenue Steps (access to Grandview Park), Moraga Street Steps (residential access with garden views), and 15th Avenue Steps (a hillside shortcut).
+
+## Urban Hiking
+
+The stairways serve as a form of urban hiking, providing built-in fitness and a unique way to explore the neighborhood. Residents describe the stairs as "great exercise" and a defining characteristic of daily life in the area. Some homes are accessible only by stairs, with no car access due to extremely steep streets.
+
+## Viewing Opportunities
+
+From the tops of stairways and hilltop parks, visitors can see panoramic views of Ocean Beach, Golden Gate Park, the Pacific Ocean, and the San Francisco skyline on clear days. The best viewing times are fall (September-October) and clear days when fog dissipates.
+
+## Photography
+
+The tiled steps and hilltop views are popular photography spots, with the 16th Avenue Tiled Steps being particularly iconic for its colorful mosaic. Fog effects and hillside neighborhood scenes also provide interesting photographic subjects.

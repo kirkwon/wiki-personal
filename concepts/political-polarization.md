@@ -1,0 +1,31 @@
+---
+type: concept
+title: Political Polarization
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- geopolitics
+- governance
+- populism
+sources:
+- Principles for Dealing with the Changing World Order - Ray Dalio.md
+related:
+- decision-culture
+- scenario-planning
+- dynamics
+---
+-
+# Political Polarization
+
+Political polarization refers to the increasing division within societies along ideological, cultural, and economic lines, often manifesting as populist movements, governance paralysis, and challenges to established international norms. In Dalio's analysis, rising polarization is both a symptom and driver of broader world order shifts.
+
+Key dimensions include:
+- **Populist movements**: Grassroots or nationalist movements challenging established elites and institutions
+- **Governance challenges**: Difficulty in reaching consensus on policy, leading to instability
+- **Impact on international relations**: Polarized domestic politics complicates diplomatic relationships and trade agreements
+- **Economic stability**: Political gridlock can undermine economic policy effectiveness and investor confidence
+
+Dalio identifies polarization as one of the internal conflict patterns that historically precedes or accompanies the decline phase of an empire's cycle. Addressing it requires understanding its root causes—inequality, loss of trust in institutions, cultural displacement—rather than merely reacting to its symptoms.
+
+Related: [[decision-culture]], [[scenario-planning]], [[dynamics]]
+---

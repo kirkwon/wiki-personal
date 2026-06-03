@@ -1,0 +1,125 @@
+---
+
+source_type: book
+title: Mindset - Carol S. Dweck
+author: Carol S. Dweck
+year: 2024
+category: general
+tags: []
+chapters: 11
+concepts: 11
+ingested: 2026-05-03
+sha256: 22dae35cd3ce1b4e155eb0c0291f78be8843dc0f3ddf9126872fc43c4f012e75
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+----
+
+
+# Mindset - Carol S. Dweck
+
+{
+  "metadata": {
+    "title": "Mindset - Carol S. Dweck",
+    "author": "Carol S. Dweck",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "mindset-carol-s-dweck",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "The Growth Mindset Begins at Home",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter discusses how parents can instill a growth mindset in their children through praise, encouragement, and creating an environment that values effort over innate talent.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "The Myth of Innate Talent",
+        "summary": "Brief description of the chapter's main concepts and key points: Dweck debunks the myth that success is solely determined by natural ability, emphasizing instead the importance of hard work and perseverance in achieving goals.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Challenges We Face Today",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter examines how fixed mindsets impede problem-solving, innovation, and progress in various domains such as education, business, and politics.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "The Brain That Changes Itself",
+        "summary": "Brief description of the chapter's main concepts and key points: Dweck explores neuroplasticity and how embracing a growth mindset can lead to changes in brain structure that support lifelong learning and adaptability.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Power of Praise",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter delves into the importance of effective praise in nurturing a growth mindset, discussing how different types of feedback can either promote or hinder learning and development.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "The Role of Challenges and Failure",
+        "summary": "Brief description of the chapter's main concepts and key points: Dweck examines how embracing challenges and viewing failure as a natural part of the growth process are vital for developing resilience, creativity, and problem-solving skills.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Benefits of a Growth Mindset in Schools",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter discusses how educators can foster growth mindsets among students through teaching practices that promote learning, collaboration, and self-improvement.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "The Power of a Growth Mindset in Organizations",
+        "summary": "Brief description of the chapter's main concepts and key points: Dweck explores how organizations can cultivate a culture of continuous improvement by embracing change, innovation, and employee development through adopting growth mindsets.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "The Growth Mindset in Relationships",
+        "summary": "Brief description of the chapter's main concepts and key points: This chapter focuses on how individuals can enhance their relationships by fostering a growth mindset that prioritizes understanding, empathy, and forgiveness.",
+        "part": ""
+      },
+      {
+        "chapter": 1,
+        "title": "Written for School-Age Children",
+        "summary": "Brief description of the chapter's main concepts and key points: Dweck presents an accessible version of her ideas tailored to school-age children, emphasizing how they can adopt a growth mindset in their academic pursuits and personal development.",
+        "part": ""
+      },
+      {
+        "chapter": 10,
+        "title": "The Growth Mindset for Adult Learners",
+        "summary": "Brief description of the chapter's main concepts and key points: This final chapter discusses how adult learners can harness the power of a growth mindset to continually develop new skills, adapt to change, and achieve their personal and professional goals.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Growth Mindset Begins at Home",
+    "The Myth of Innate Talent",
+    "The Challenges We Face Today",
+    "The Brain That Changes Itself",
+    "The Power of Praise",
+    "The Role of Challenges and Failure",
+    "The Benefits of a Growth Mindset in Schools",
+    "The Power of a Growth Mindset in Organizations",
+    "The Growth Mindset in Relationships",
+    "Written for School-Age Children",
+    "The Growth Mindset for Adult Learners"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

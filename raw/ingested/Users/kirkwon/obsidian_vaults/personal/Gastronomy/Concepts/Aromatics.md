@@ -1,0 +1,207 @@
+---
+source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Concepts/Aromatics.md
+ingested: 2026-04-24
+sha256: e3b01cf9f9e5eb4395d63d4538233e275501efe570b255092603fd7ce3e52bda
+title: Aromatics - The Holy Trinity
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+
+
+---
+type: concept
+category:
+- Gastronomy
+created: 2026-04-20
+modified: 2026-04-20
+tags:
+- cooking-technique
+- seasoning
+- aromatics
+- asian-cuisine
+- flavor-base
+related: []
+status: complete
+---
+
+
+# Aromatics - The Holy Trinity
+
+
+## Quick Reference
+
+### Field**: [[Gastronomy]]
+### Type**: Ingredient Group
+### Purpose**: Base flavors for cooking
+### Also Known As**: The Holy Trinity, Aromatics
+### Key Elements**: Ginger, Garlic, Scallion (Chinese)
+### Related Concepts**: [[Wok Hei]], [[Stir-Fry]], [[Flavor Building]]
+
+
+
+## Summary
+Aromatics are vegetables and herbs cooked at the beginning of a dish to build its flavor foundation. In Chinese cuisine, this is the "Holy Trinity": ginger, garlic, and scallion (also called "old ginger, young ginger, green onion" or simply GGS). Other cuisines have their own aromatic bases (mirepoix in French, sofrito in Spanish, refogado in Portuguese).
+
+## The Chinese Holy Trinity
+
+### 1. Ginger (老姜 - Old Ginger)
+- **Flavor**: Spicy, warm, slightly sweet, earthy
+- **Best uses**: Stir-fries, marinades, braises, seafood
+- **Preparation**: Peeled, sliced (thin for stir-fry, chunks for braising)
+- **Tip**: Young ginger is milder, skin is edible
+
+### 2. Garlic (大蒜)
+- **Flavor**: Pungent, savory, aromatic
+- **Best uses**: Stir-fries, sauces, marinades, everything
+- **Preparation**: Minced (fine), sliced (for aroma), crushed (intense flavor)
+- **Tip**: Add at different times for depth: some early, some late
+
+### 3. Scallions/Green Onions (葱)
+- **Flavor**: Mild onion, fresh, slightly sweet
+- **Best uses**: Garnish, final seasoning, aromatic base
+- **Parts used**: White part (aromatic), green part (garnish)
+- **Preparation**: Sliced diagonally, chopped, or whole (small ones)
+
+## Using the Holy Trinity
+
+### Stir-Fry Technique
+1. **Heat wok** to smoking point
+2. **Add oil** (neutral, high smoke point)
+3. **Add aromatics first** (ginger, garlic, white scallion)
+4. **Toss 15-20 seconds** until fragrant (don't burn)
+5. **Proceed with main ingredients**
+
+### Flavor Building Layers
+- **Early addition**: Base flavor (aromatics first)
+- **Mid-cooking**: Infused flavor (aromatics with proteins)
+- **Late addition**: Fresh hit (garlic, green scallion last 30 sec)
+
+### Ratios (General Guidelines)
+| Dish | Ginger | Garlic | Scallion |
+|-------|---------|---------|-----------|
+| Stir-fry | 1:1 | 2:1 | 3:1 |
+| Seafood | 2:1 | 1:1 | 2:1 |
+| Braises | 2:1 | 1:1 | 1:1 |
+| Noodles | 1:1 | 2:1 | 2:1 |
+
+## Other Cultural Aromatics
+
+### French Mirepoix
+- **Components**: Onion, carrot, celery
+- **Ratio**: 2:1:1 (onion dominant)
+- **Uses**: Soups, stews, sauces, braises
+- **Cut**: Small dice (uniform cooking)
+
+### Spanish Sofrito
+- **Components**: Onion, garlic, tomato, peppers
+- **Ratio**: Varies by region
+- **Uses**: Rice dishes, stews, bases
+- **Cooking**: Slow sauté until reduced
+
+### Portuguese Refogado
+- **Components**: Onion, garlic, sometimes tomato/bell pepper
+- **Uses**: Base for many Portuguese dishes
+- **Cooking**: Sautéed until golden
+
+### Louisiana Holy Trinity
+- **Components**: Onion, celery, bell pepper
+- **Ratio**: Equal parts
+- **Uses**: Gumbo, jambalaya, étouffée
+- **Cut**: Chopped or diced
+
+## Best Practices
+
+### Chinese Cooking
+- **Hot oil** when adding aromatics (prevents sticking, ensures sizzling)
+- **Don't burn** garlic (bitter) - 15-20 seconds max
+- **Vary the cut** - Sliced for aroma, minced for flavor
+- **Save some for finish** - Add half at start, half at end for freshness
+- **Match to protein** - More ginger for seafood, more garlic for meats
+
+### General Rules
+- **Fresh is best** - Aromatics lose potency quickly
+- **Store properly** - Ginger room temp, garlic cool, scallions refrigerated
+- **Prep ahead** - Mince garlic, slice ginger, wash scallions
+- **Work quickly** - Heat wok, add oil, aromatics in 30 seconds
+- **Adjust to taste** - Like garlic? Add double. Hate it? Skip.
+
+## Substitutions
+
+### No Ginger
+- **Fresh galangal** (Thai, piney)
+- **Dried ginger powder** (less vibrant)
+- **Wasabi** (different heat profile)
+- **Skip** and rely on garlic/scallion
+
+### No Garlic
+- **Shallots** (milder, sweeter)
+- **Garlic scapes** (if in season)
+- **Garlic powder** (last resort)
+- **More ginger** to compensate
+
+### No Scallions
+- **Chives** (similar mild onion)
+- **Leeks** (white part only)
+- **Small onions** (shallots, pearl onions)
+- **More garlic/ginger**
+
+## Common Mistakes
+
+### ❌ Burning Garlic
+- **Symptom**: Bitter, dark brown bits
+- **Fix**: Lower heat, add later, use garlic powder for very high heat
+
+### ❌ Too Little Aromatic Base
+- **Symptom**: Bland, one-dimensional flavor
+- **Fix**: Double the ginger/garlic/scallion amount
+
+### ❌ Adding All at Once
+- **Symptom**: Burned garlic, undercooked ginger
+- **Fix**: Add in stages - ginger first, garlic 10s later
+
+### ❌ Using Old Scallions
+- **Symptom**: Slimy, wilted, no crunch
+- **Fix**: Store properly, use within 3-5 days
+
+## Pairings
+
+### Protein + Aromatic Match
+- **Chicken**: All three (balanced)
+- **Pork**: More garlic, less ginger
+- **Beef**: More ginger, moderate garlic
+- **Seafood**: More ginger, less garlic, lots of scallion
+- **Tofu**: All three (tofu absorbs everything)
+
+### Flavor Combinations
+- **Ginger + Scallion** (no garlic): Light, fresh
+- **Garlic + Scallion** (no ginger): Mellow, savory
+- **Ginger + Garlic** (no scallion): Intense, spicy
+- **All three**: Classic Chinese balance
+
+## Shopping Tips
+
+### Ginger
+- **Look for**: Smooth skin, firm, no wrinkles
+- **Avoid**: Mold, shriveled, soft spots
+- **Storage**: Room temp, paper bag, lasts 1-2 weeks
+- **Freeze**: Grate and freeze in ice cube trays
+
+### Garlic
+- **Look for**: Tight skins, no sprouting, firm
+- **Avoid**: Green sprouts, soft cloves, mold
+- **Storage**: Cool, dark, ventilated (mesh bag)
+- **Avoid fridge** - Too cold, causes sprouting
+
+### Scallions
+- **Look for**: Bright green tops, firm white roots
+- **Avoid**: Yellowing, wilted, slimy
+- **Storage**: Fridge, plastic bag, 3-5 days
+- **Revive**: Soak in ice water 15 minutes
+
+## See Also
+[[Wok Hei]] | [[Stir-Fry Technique]] | [[Marinades]] | [[Chinese Cuisine]]
+---
+
+---
+*Added: 2026-04-20*

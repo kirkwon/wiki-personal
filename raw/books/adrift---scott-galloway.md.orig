@@ -1,0 +1,104 @@
+---
+
+source_type: book
+title: Adrift - Scott Galloway
+author: Scott Galloway
+year: 2024
+category: general
+tags: []
+chapters: 8
+concepts: 8
+ingested: 2026-05-03
+sha256: afd321c302611e9c6aa8ea8e6b09cfae5ae22e8491ea34eb28621eba06a46600
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+----
+
+
+# Adrift - Scott Galloway
+
+{
+  "metadata": {
+    "title": "Adrift - Scott Galloway",
+    "author": "Scott Galloway",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "adrift-scott-galloway",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "The Rise of Consumerism",
+        "summary": "Brief description of the chapter's main concepts and key points. This opening chapter explores the historical development of consumerism and how it has shaped modern society, setting the stage for a discussion on its influence in businesses today.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "Capitalist Dreams",
+        "summary": "Brief description of the chapter's main concepts and key points. In this chapter, Galloway delves into the ideology behind capitalism and how it has driven innovation but also led to unsustainable practices within companies.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Triumph of Shares Over People",
+        "summary": "Brief description of the chapter's main concepts and key points. This section examines the shift in focus from serving customers and employees towards prioritizing shareholder interests, and its repercussions on businesses and society at large.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "The Price of Progress",
+        "summary": "Brief description of the chapter's main concepts and key points. Galloway discusses how relentless pursuit of profit has led to environmental degradation and widened social inequalities, calling for a reevaluation of business success metrics.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Pursuit of Happiness",
+        "summary": "Brief description of the chapter's main concepts and key points. In this segment, Galloway explores how companies have begun to prioritize employee well-be Written by AI language model.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "Redefining Corporate Social Responsibility (CSR)",
+        "summary": "Brief description of the chapter's main concepts and key points. The author examines modern CSR initiatives, analyzing their effectiveness in addressing systemic issues and creating meaningful change within corporations and society.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Digital Divide",
+        "summary": "Brief description of the chapter's main concepts and key points. Galloway delves into the impact of technology on our lives and how it has deepened social divides, calling for responsible innovation practices in businesses.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "Building a Better Capitalism",
+        "summary": "Brief description of the chapter's main concepts and key points. In this final section, Galloway offers potential solutions to the problems he highlighted throughout the book, including rethinking corporate success metrics and promoting more sustainable business practices.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Rise of Consumerism",
+    "Capitalist Dreams",
+    "The Triumph of Shares Over People",
+    "The Price of Progress",
+    "The Pursuit of Happiness",
+    "Redefining Corporate Social Responsibility (CSR)",
+    "The Digital Divide",
+    "Building a Better Capitalism"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

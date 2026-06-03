@@ -1,0 +1,30 @@
+---
+type: entity
+title: 'Recipe: Perfect Stir-Fry'
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- recipe
+- cooking
+- stir-fry
+- wok
+sources:
+- Gastronomy.md
+related:
+- wok-cooking
+- wok-hei
+- flavor-theory
+- ingredient-pairings
+---
+# Recipe: Perfect Stir-Fry
+
+A signature stir-fry recipe that demonstrates core wok cooking principles: high heat, rapid cooking, and balanced seasoning. This dish serves as a foundational technique for building flavor through proper ingredient sequence and heat management.
+
+Key steps include:
+- Preparing and organizing ingredients before heating the wok
+- Achieving [[wok-hei]] through proper wok temperature
+- Adding aromatics first, followed by proteins and vegetables in sequence
+- Finishing with seasonings like soy sauce, oyster sauce, and sesame oil
+
+This recipe connects to [[wok-cooking]] as a practical demonstration of high-heat technique and to [[ingredient-pairings]] for understanding how flavors layer during cooking.
+---

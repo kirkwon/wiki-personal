@@ -1,0 +1,46 @@
+---
+source_type: book
+title: VIDEO_CATEGORIES_INDEX - Unknown
+author: Unknown
+year: 2024
+category: general
+tags: []
+chapters: 0
+concepts: 0
+ingested: 2026-05-03
+sha256: 411d212cfff64b871c3f783a935992dc23f603e5c73f9829ddfecbea5beefa00
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+--
+
+
+# VIDEO_CATEGORIES_INDEX - Unknown
+
+{
+  "metadata": {
+    "title": "VIDEO_CATEGORIES_INDEX - Unknown",
+    "author": "Unknown",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2024-04-17"
+  },
+  "agent_structure": {
+    "skill_name": "video_categories_index-unknown",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": []
+  },
+  "core_concepts": [],
+  "key_principles": [],
+  "actionable_methods": []
+}

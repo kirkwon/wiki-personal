@@ -1,0 +1,221 @@
+---
+created: '2026-04-24'
+sources:
+- raw/ingested/Gastronomy/Cuisines/Thai/Index.md
+tags:
+- general
+title: Thai Cuisine
+type: concept
+updated: '2026-04-24'
+---
+-
+
+
+# Thai Cuisine
+
+## Overview
+
+Thai cuisine (อาหารไทย, Àhǎan Thai) is renowned for its complex balance of flavors - sweet, sour, salty, spicy, and bitter. A harmonious blend of Southeast Asian, Chinese, and Indian influences, Thai food emphasizes fresh ingredients, aromatic herbs, and perfect flavor balance.
+
+## Core Philosophy
+
+### The Balance of Flavors
+
+**Five flavors in harmony:**
+
+| Flavor | Ingredient | Purpose |
+|--------|------------|---------|
+| **Sweet (Wāan)** - Palm sugar, coconut milk | Rounds out spices |
+| **Sour (Priew)** - Lime, tamarind | Brightens |
+| **Salty (Khem)** - Fish sauce, soy sauce | Umami base |
+| **Spicy (Phet)** - Chilies | Heat |
+| **Bitter (Khao)** - Bitter melon, herbs | Balance |
+
+**Perfect dish = All five flavors in balance**
+
+### Herb-Forward Cooking
+
+**Fresh herbs are essential:**
+
+| Herb | Flavor | Use |
+|------|--------|-----|
+| **Thai basil** - Sweet, anise-like | Curries, stir-fries |
+| **Holy basil** - Peppery, spicy | Pad krapow |
+| **Lime** - Acid, bright | Garnish, curries |
+| **Kaffir lime leaves** - Citrus, aromatic | Curries, soups |
+| **Lemongrass** - Citrus, floral | Soups, curries |
+| **Galangal** - Pine-like, spicy | Tom yum, curries |
+| **Cilantro (coriander)** - Fresh, citrus | Garnish |
+
+## Staple Ingredients
+
+### Proteins
+
+| Item | Use |
+|------|-----|
+| **Chicken** - Gai | Curries, stir-fries |
+| **Pork** - Mu | Stir-fries, soups |
+| **Beef** - Nua | Stir-fries |
+| **Shrimp** - Kung | Curries, stir-fries |
+| **Fish** - Pla | Whole fish, curries |
+| **Tofu** - Tao hu | Vegetarian dishes |
+
+### Rice
+
+| Type | Use |
+|------|-----|
+| **Jasmine rice** - Fragrant, sticky | Everyday |
+| **Sticky rice** - Glutinous | Northern, desserts |
+| **Noodles** - Rice, egg, glass | Pad Thai, soups |
+
+### Paste Base (Khrueang Gaeng)
+
+**Curry pastes:**
+
+| Paste | Ingredients | Heat Level |
+---
+|-------|-------------|------------|
+| **Green curry** - Green chilies, kaffir lime | High |
+| **Red curry** - Red chilies | High |
+| **Yellow curry** - Turmeric, cumin | Medium |
+| **Panang** - Peanuts, kaffir lime | Medium |
+| **Massaman** - Cardamom, cinnamon | Mild |
+
+### Essential Ingredients
+
+| Item | Use |
+|------|-----|
+| **Fish sauce (Nam pla)** - Salty, umami | Seasoning |
+| **Coconut milk** - Richness | Curries, desserts |
+| **Palm sugar** - Sweetness | Marinades, sauces |
+| **Tamarind paste** - Sour | Pad Thai, sauces |
+| **Bird's eye chilies** - Heat | Garnish |
+
+## Classic Dishes
+
+### Curries
+
+| Dish | Description |
+|------|-------------|
+| **Green Curry** - Coconut milk, green curry paste |
+| **Red Curry** - Coconut milk, red curry paste |
+| **Massaman Curry** - Muslim influence, potatoes, peanuts |
+| **Panang Curry** - Thick, rich, peanuts |
+| **Khao Soi** - Northern curry noodle soup |
+
+### Stir-Fries
+
+| Dish | Region | Characteristics |
+|-------|--------|----------------|
+| **Pad Thai** - Nationwide | Rice noodles, sweet-sour |
+| **Pad Krapow** - Nationwide | Holy basil, spicy |
+| **Pad See Ew** - Street food | Wide noodles, soy sauce |
+
+### Soups
+
+| Dish | Description |
+|------|-------------|
+| **Tom Yum Goong** - Hot and sour soup with shrimp |
+| **Tom Kha Gai** - Coconut chicken soup |
+| **Tom Yum Talay** - Seafood hot and sour soup |
+
+### Salads
+
+| Dish | Description |
+|------|-------------|
+| **Som Tum** - Green papaya salad |
+| **Yum Nua** - Beef salad |
+| **Yum Som O** - Pomelo salad |
+
+### Noodle Dishes
+
+| Dish | Description |
+|------|-------------|
+| **Pad Thai** - Stir-fried rice noodles |
+| **Pad See Ew** - Wide noodles in soy sauce |
+| **Rad Na** - Wide noodles in gravy |
+
+### Street Food
+
+| Dish | Description |
+|------|-------------|
+| **Satay** - Grilled skewered meat |
+| **Gai Yang** - Grilled chicken |
+| **Sai Oua** - Northern sausage |
+
+## Regional Variations
+
+| Region | Style | Characteristics |
+|--------|-------|-----------------|
+| **Central** | Refined, royal influence | Palace cuisine |
+| **Northern** - Sticky rice, curries | Khao soi, sai oua |
+| **Northeastern (Isaan)** - Sticky rice, spicy | Som tum, laap |
+| **Southern** - Spicy, Muslim influence | Curry dishes |
+
+## Cooking Techniques
+
+### Stir-Frying (Phat)
+
+- High heat, wok preferred
+- Constant stirring
+- Add ingredients in stages
+- Wok hei desired
+
+### Steaming (Neung)
+
+- Gentle, healthy
+- Fish, custards, vegetables
+
+### Grilling (Yang)
+
+- Charcoal grilling
+- Satay, gai yang
+
+## Common Mistakes
+
+| Mistake | How to Fix |
+|---------|------------|
+| Not balancing flavors | Taste and adjust, add missing flavor |
+| Too much fish sauce | Start with less, add gradually |
+| Not using fresh herbs | Fresh herbs are essential |
+| Cooking chilies too long | Add chilies at end for heat |
+
+## Where to Eat
+
+### In Thailand
+
+**Bangkok:**
+- Street food stalls
+- Markets
+- Regional restaurants
+
+**Chiang Mai:**
+- Northern specialties
+- Street food
+
+### Internationally
+
+**Look for:**
+- Thai chefs
+- House-made curry pastes
+- Fresh herbs
+- Regional specialties
+
+## Related Concepts
+
+- [[Gastronomy/Concepts/Aromatics]] - Thai garlic, chilies, herbs
+
+## Further Reading
+
+- "Thai Food" by David Thompson
+- "Simple Thai Food" by Andy Ricker
+- "Thai Street Food" by David Thompson
+
+## Practice
+
+1. **Make pad Thai** - Balance sweet, sour, salty
+2. **Try green curry** - Curry paste, coconut milk
+3. **Master som tum** - Green papaya salad
+4. **Host Thai dinner** - Curry, rice, stir-fry
+
+**Remember:** Balance is everything. Every dish should have all five flavors in harmony.

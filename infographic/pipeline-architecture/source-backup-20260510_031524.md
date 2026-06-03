@@ -1,0 +1,57 @@
+---
+type: note
+title: Knowledge Pipeline Architecture
+created: 2026-05-14
+updated: 2026-05-14
+tags: []
+sources: []
+---
+--
+
+# Knowledge Pipeline Architecture
+
+## Data Ingestion Plan
+
+### Load Classification
+- **One-time historical loads**: Evernote, Pinterest, Obsidian/Logseq exports
+- **Ongoing loads**: Apple Notes
+
+### Directory Structure
+```
+~/data-ingestion/
+├── sources/          # Raw exports (place exports here for processing)
+├── staging/          # Unified files via unify-document-formats
+│   ├── index.json    # File manifest
+│   └── hashes/       # File hash tracking
+├── scripts/          # Processing scripts
+│   ├── detect_changes.py
+│   ├── convert_to_unified.py
+│   ├── enrich_with_wisdom.py (optional)
+│   └── import_to_gbrain.py
+├── logs/             # Pipeline execution logs
+└── config.yaml       # Pipeline configuration
+```
+
+### Pipeline Steps
+1. **Detect changes**: Hash-based detection of new/modified files
+2. **Convert**: Normalize formats using unify-document-formats (txt/json/yaml/md → unified)
+3. **Optional enrichment**: Extract wisdom using extract-wisdom skill (Ollama phi3, ~0.5-1s/file)
+4. **Update index**: Rebuild index.json with file metadata
+5. **Record hash**: Store file hashes for incremental sync
+6. **Import to GBrain**: `gbrain import --no-embed` (using redirect `<` not --content)
+7. **Background embedding**: `gbrain embed --stale` (vector generation)
+
+### Schedule
+- **Ongoing**: Cron every 15-30 minutes for Apple Notes and wiki updates
+- **One-time**: Manual execution after placing historical exports in sources/
+
+### Costs & Monitoring
+- **Extract-wisdom cost**: ~0.5-1s per file via local Ollama phi3
+- **Recommendation**: Limit enrichment to ongoing loads or sampled historical data
+- **Monitoring**: Log each stage, alert on embed backlog or sudden spike in new files
+- **Health check**: Periodically run `gbrain doctor --json` to track link density/brain score
+
+### Technical Notes
+- GBrain put: use redirect `<` NOT `--content` (treats path as string)
+- Orphan linker v9: 60% hit rate, string split parsing works (regex failed)
+- Synthesize phase: needs BOTH `gbrain config set dream.synthesize.enabled true` AND `gbrain config set dream.synthesize.session_corpus_dir /path` (dotted notation)

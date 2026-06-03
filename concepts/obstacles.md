@@ -1,0 +1,38 @@
+---
+type: concept
+title: Obstacles Mental Model
+created: 2026-05-04
+updated: 2026-05-04
+tags:
+- mental-model
+- decision-making
+- resilience
+sources:
+- Obstacles.md
+related:
+- ryan-holiday
+- stillness
+- planning
+- thinking-mental-model
+- solutions
+- embracing-failure-for-personal-growth
+- decision-making-frameworks
+---
+-
+# Obstacles Mental Model
+
+Obstacles is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+Rather than viewing obstacles as problems to avoid, this mental model reframes them as information, opportunities, or navigational signals. This aligns with Ryan Holiday's framework from *The Obstacle Is the Way*, which breaks the response to obstacles into three core disciplines: perception, action, and will.
+
+## Key Principles
+- **Perception**: Seeing obstacles clearly, without emotional distortion or denial.
+- **Action**: Responding to obstacles with resourcefulness and composure.
+- **Will**: Maintaining inner resolve and long-term perspective through adversity.
+
+## Connections
+This model connects to broader decision-making and resilience concepts including [[embracing-failure-for-personal-growth]], [[decision-making-frameworks]], and [[morality-and-decision-making]]. It complements other mental models in the wiki such as [[planning]], [[thinking-mental-model]], and [[solutions]].
+
+## Source
+Derived from [[The Obstacle Is the Way - Ryan Holiday]].
+---

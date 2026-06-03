@@ -1,0 +1,153 @@
+---
+
+source_type: book
+title: Zero to One - Peter Thiel & Blake Masters
+author: Peter Thiel & Blake Masters
+year: 2024
+category: general
+tags: []
+chapters: 15
+concepts: 15
+ingested: 2026-05-03
+sha256: 048735d55b560dd97241396d97587d7d81a7e2bb93188259cecaf6c5775f80ac
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+----
+
+
+# Zero to One - Peter Thiel & Blake Masters
+
+{
+  "metadata": {
+    "title": "Zero to One - Peter Thiel & Blake Masters",
+    "author": "Peter Thiel & Blake Masters",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "zero-to-one-peter-thiel--blake-masters",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "The Philosophy of Startups",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter introduces Thiel's unique philosophy on entrepreneurship, emphasizing the importance of creating truly original products and companies that are not just incremental improvements but \"zero to one\" innovations in their respective fields.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "The World-Changing Power of One Company",
+        "summary": "Brief description of the chapter's main concepts and key points. Thiel discusses how a single, exceptionally successful company can disrupt an industry and even change society, using examples from various industries to illustrate his argument.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Problem with Incremental Change",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter explains why focusing on incremental changes in established markets is not a viable long-term strategy for success, as it allows competitors to catch up easily and undermines the potential impact of innovation.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "The Role of Genius and Luck",
+        "summary": "Brief description of the chapter's main concepts and key points. Thiel explores how geniuses can identify opportunities that others miss, but also emphasizes the importance of luck in shaping entrepreneurial success stories.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Importance of First Mover Advantage",
+        "summary": "Brief description of the chapter's main concepts and key points. In this chapter, Thiel argues that being the first to enter a market can create significant competitive advantages for businesses looking to achieve \"zero to one\" success.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "The Dangers of Imitation",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter examines how imitating successful companies may seem like a shortcut, but actually hinders genuine innovation and stifles creativity in the long run.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Value of Differentiation",
+        "summary": "Brief description of the chapter's main concepts and key points. Thiel explores how unique products or services that offer distinctive features, benefits, or experiences can stand out from competitors and create lasting value for both customers and businesses alike.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "The Power of Silence and Discretion",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter argues that maintaining secrecy and avoiding premature disclosures about a company or product can help preserve its potential for impact in the marketplace.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "The Importance of Customer Obsession",
+        "summary": "Brief description of the chapter's main concepts and key points. Thiel emphasizes that true innovation involves not just creating new products, but also deeply understanding customer needs, preferences, and problems to create genuinely valuable solutions.",
+        "part": ""
+      },
+      {
+        "chapter": 10,
+        "title": "Investing in Zero-to-One Companies",
+        "summary": "Brief description of the chapter's main concepts and key points. Thiel discusses how investors can identify promising \"zero-to-one\" companies, offering practical advice on due diligence, evaluation criteria, and long-term decision-making processes in venture capitalism.",
+        "part": ""
+      },
+      {
+        "chapter": 11,
+        "title": "The Role of Education and Entrepreneurship",
+        "summary": "Brief description of the chapter's main concepts and key points. Thiel examines how modern education systems may actually be hindering entrepreneurial success, advocating for alternative approaches to learning that foster creativity and innovation.",
+        "part": ""
+      },
+      {
+        "chapter": 12,
+        "title": "The Intersection of Art and Entrepreneurship",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter explores how artistic endeavors often require \"zero-to-one\" thinking, with insights on drawing inspiration from artists to drive innovation in business ventures.",
+        "part": ""
+      },
+      {
+        "chapter": 13,
+        "title": "The Power of Disruption and Innovation",
+        "summary": "Brief description of the chapter's main concepts and key points. Thiel delves into various examples of disruptive technologies, products, and services that have transformed industries, underscoring the importance of embracing innovation as a core business strategy.",
+        "part": ""
+      },
+      {
+        "chapter": 14,
+        "title": "Building an Entrepreneurial Culture in Organizations",
+        "summary": "Brief description of the chapter's main concepts and key points. Thiel outlines steps organizations can take to foster entrepreneurship, encourage risk-taking, and nurture a culture of innovation within their own walls.",
+        "part": ""
+      },
+      {
+        "chapter": 15,
+        "title": "The Future of Capitalism",
+        "summary": "Brief description of the chapter's main concepts and key points. In this final chapter, Thiel reflects on how \"zero to one\" thinking can reshape capitalism by driving disruptive technologies and industries that create new markets and value propositions in the 21st century.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Philosophy of Startups",
+    "The World-Changing Power of One Company",
+    "The Problem with Incremental Change",
+    "The Role of Genius and Luck",
+    "The Importance of First Mover Advantage",
+    "The Dangers of Imitation",
+    "The Value of Differentiation",
+    "The Power of Silence and Discretion",
+    "The Importance of Customer Obsession",
+    "Investing in Zero-to-One Companies",
+    "The Role of Education and Entrepreneurship",
+    "The Intersection of Art and Entrepreneurship",
+    "The Power of Disruption and Innovation",
+    "Building an Entrepreneurial Culture in Organizations",
+    "The Future of Capitalism"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

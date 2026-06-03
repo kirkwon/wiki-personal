@@ -1,0 +1,34 @@
+---
+type: entity
+title: The 7 Habits of Highly Effective People
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- book
+- productivity
+- effectiveness
+- habits
+sources:
+- Habits.md
+related:
+- habits
+- stephen-r-covey
+- first-things-first---stephen-r-covey
+- the-8th-habit
+---
+--
+# The 7 Habits of Highly Effective People
+
+*The 7 Habits of Highly Effective People* by Stephen R. Covey is a foundational text on personal effectiveness. It presents seven habits organized around moving from dependence to independence to interdependence.
+
+## Key Habits
+1. Be Proactive
+2. Begin with the End in Mind
+3. Put First Things First
+4. Think Win-Win
+5. Seek First to Understand, Then to Be Understood
+6. Synergize
+7. Sharpen the Saw
+
+## Relevance
+One of the earliest systematic frameworks for effectiveness habits, providing historical foundation for the Habits mental model.

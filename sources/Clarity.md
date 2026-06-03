@@ -1,0 +1,17 @@
+---
+type: source
+title: Clarity Source
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Clarity.md
+---
+--
+# Clarity Source
+
+Source document introducing the Clarity mental model, a conceptual tool for navigating complexity through pattern recognition. Cross-referenced to Shane Parrish's *Clear Thinking: Turning Ordinary Moments into Extraordinary Results*.
+## Key Takeaway
+Clarity functions as a universal mental model applicable across all domains, providing a mental shortcut for understanding patterns and relationships in complex situations.

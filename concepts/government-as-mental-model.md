@@ -1,0 +1,46 @@
+---
+type: concept
+title: Government as Mental Model
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- management
+- decision-making
+sources:
+- Government.md
+related:
+- how-the-economic-machine-works---ray-dalio
+- a-template-for-understanding-big-debt-crises---ray-dalio
+- management-mental-model
+- solutions-mental-model
+- planning
+confidence: medium
+---
+-
+# Government as Mental Model
+
+Government is posited as a universal mental model—a conceptual tool that helps understand and navigate complex situations by providing a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+## Definition
+Government functions as a principle for recognizing how institutional structures, authority, and collective decision-making shape outcomes across domains. It is applicable universally but remains underdeveloped in this source.
+
+## Connections to Existing Frameworks
+This model relates to several existing mental models in the wiki:
+- [[management-mental-model]] — both deal with organizing systems and people
+- [[solutions-mental-model]] — government as an institutional mechanism for addressing complex problems
+- [[planning]] — governmental structures often embody planning at scale
+- [[how-the-economic-machine-works---ray-dalio]] — Dalio's economic frameworks describe how government policy interacts with debt cycles, monetary policy, and economic stability
+
+Ray Dalio's work on big debt crises emphasizes how government decisions—fiscal policy, monetary intervention, debt restructuring—drive macroeconomic outcomes. This suggests "Government" as a mental model captures patterns around institutional power, resource allocation, and systemic coordination.
+
+## Open Questions
+- What specific patterns does this model identify that other mental models like [[management]] or [[solutions-mental-model]] do not?
+- How does government as a mental model differ from simply understanding institutions or authority structures?
+- What role does government play in individual decision-making beyond macroeconomic contexts?
+
+The entry currently carries moderate confidence (0.7) due to its thin substantive content.
+## Related Sources
+- [[A Template for Understanding Big Debt Crises - Ray Dalio]]
+- [[How the Economic Machine Works - Ray Dalio]]
+---

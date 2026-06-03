@@ -1,0 +1,54 @@
+---
+
+type: concept
+title: CSS Variables for Theming
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- presentation
+- css
+- theming
+- markdown
+sources:
+- MARP Presentation Creation.md
+related:
+- marp-presentation-creation
+- visual-hierarchy-in-slides
+----
+# CSS Variables for Theming
+
+Using CSS custom properties defined in MARP frontmatter to create consistent, easily changeable color schemes across presentation slides.
+
+## Implementation
+
+Defined within the `style:` block of MARP frontmatter:
+
+```css
+:root {
+  --color-primary: #5b8ff9;
+  --color-secondary: #61ddaa;
+  --color-accent: #f6bd16;
+  --color-warm: #f76b6b;
+  --color-cool: #5d7092;
+}
+```
+
+## Best Practices
+- Use CSS variables for colors (easy to change theme)
+- Define highlight boxes with gradients using variables
+- Set consistent fonts and spacing
+- Avoid external stylesheets for portability
+
+## Highlight Box Styles
+```css
+.highlight {
+  padding: 1rem;
+  background: linear-gradient(135deg, rgba(91, 143, 249, 0.1), rgba(97, 221, 170, 0.1));
+  border-left: 4px solid var(--color-primary);
+  border-radius: 4px;
+}
+```
+
+## Related
+- [[marp-presentation-creation]] — Full MARP workflow
+- [[visual-hierarchy-in-slides]] — Using colors for hierarchy

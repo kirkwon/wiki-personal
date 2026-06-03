@@ -1,0 +1,64 @@
+---
+
+type: concept
+title: LEAPS (Long-term Equity AnticiPation Securities)
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- options
+- options-trading
+- personal-finance
+- investing
+related:
+- theta-time-decay
+- covered-calls
+- retirement-planning
+- ITM-vs-OTM-options
+- options-position-sizing
+sources:
+- Options Trading Guide.md
+----
+# LEAPS (Long-term Equity AnticiPation Securities)
+
+LEAPS are long-dated options with expiration dates up to 3 years in the future, providing extended time horizons for strategic positioning. They offer reduced time decay (theta) impact compared to short-term options, making them suitable for long-term personal finance applications.
+
+## Key Characteristics
+
+- **Expiration**: Typically 2-3 years from initiation
+- **Contract Size**: Standard 100 shares per contract
+- **Premium**: Higher than short-term options but lower per unit of time
+- **Liquidity**: Lower than short-term options
+- **Lower Theta**: Monthly decay is significantly less than short-term options
+
+## Advantages
+
+- Reduced time decay impact and lower theta sensitivity
+- Strategic flexibility to hold through market cycles
+- Capital efficiency for controlling long-term positions with less capital
+- Effective long-term hedging instruments
+
+## Personal Finance Applications
+
+### Retirement Planning
+LEAPS calls can control stock positions for retirement accounts with income generation through covered call strategies on LEAPS. They also provide portfolio insurance via LEAPS puts for downside protection and potential tax advantages over direct stock ownership.
+
+### Education Planning
+Use LEAPS for education savings growth, aligning expiration with college funding needs. Combine with downside protection for education funds and leverage for capital appreciation.
+
+### Wealth Building
+LEAPS enable multi-year growth positions, dividend capture when combined with dividend-paying stocks, and serve as long-term wealth transfer mechanisms for estate planning. They also provide inflation hedging through growth potential.
+
+## Strategy Implementation
+
+**LEAPS Call Strategy**:
+- Select underlying stock with strong long-term prospects
+- Choose LEAPS call with 1.5-2.5 years to expiration
+- Select strike price 10-20% OTM for limited capital outlay
+- Example: Stock at $50, LEAPS call strike $55, 2-year expiration, premium $8. Total cost $800 per contract. Break-even at $63. Maximum risk $800.
+
+**LEAPS Put Strategy**:
+- Use for long-term portfolio protection
+- Select LEAPS put slightly OTM or ATM
+- Example: $500,000 portfolio, LEAPS put strike $45, 2-year expiration, premium $5. Protection level $45 per share.
+
+LEAPS are a powerful tool for integrating options into long-term financial planning alongside strategies like [[covered-calls]] and [[protective-puts]].

@@ -1,0 +1,51 @@
+---
+type: concept
+title: Forms
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- pattern-recognition
+- world-disclosure
+sources:
+- Forms.md
+related:
+- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+- planning
+- solutions-mental-model
+- group
+- recipes-mental-model
+---
+--
+# Forms
+
+Forms is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+## Definition
+
+Forms functions as a universal mental model for pattern recognition in complex situations. Rather than prescribing a specific method, it offers a lens for identifying structural patterns and relational dynamics that underlie seemingly chaotic or complicated scenarios.
+
+## Applicability
+
+The model is applicable universally across domains with moderate confidence (0.7). It serves as a framework shortcut that can be applied wherever pattern recognition and relationship mapping are valuable.
+
+## Connection to World-Disclosure
+
+Forms is derived from Sönke Ahrens' concept of "Forms of World-Disclosure" [[experiment-and-exploration-forms-of-world-disclosure---snke-ahrens]]. Where Ahrens describes how different forms of engagement with the world disclose different patterns of meaning, Forms abstracts this into a more general-purpose mental model for navigating complexity.
+
+## Relationship to Other Mental Models
+
+Forms connects to several existing mental models in the wiki:
+
+- [[planning]] — both involve pattern recognition, but planning is more action-oriented while Forms is more observational
+- [[solutions-mental-model]] — Solutions focuses on structured frameworks; Forms emphasizes the recognition of underlying patterns
+- [[group]] — Group focuses on social dynamics and pattern recognition in teams
+- [[recipes-mental-model]] — Recipes provides structured, deconstructable frameworks; Forms is more open-ended
+
+## Open Questions
+
+The distinction between Forms and other universal mental models like [[planning]] or [[recipes-mental-model]] is not sharply defined in the source material. Further sources may clarify what makes Forms a distinct conceptual tool.
+
+## Sources
+
+- [[Experiment and Exploration_ Forms of World-Disclosure - Sönke Ahrens]]

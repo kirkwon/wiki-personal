@@ -1,0 +1,44 @@
+---
+type: concept
+title: Principle of Optimism
+created: 2026-04-17
+updated: 2026-04-17
+tags:
+- philosophy
+- epistemology
+- optimism
+related:
+- the-beginning-of-infinity-david-deutsch
+- conjecture-and-criticism
+- explanatory-reach
+- superforecasting
+- black-swan-events
+- antifragility
+sources:
+- The Beginning of Infinity - David Deutsch.md
+---
+# Principle of Optimism
+
+The Principle of Optimism is the central thesis of David Deutsch's *The Beginning of Infinity*. It holds that all evils are caused by insufficient knowledge, and therefore all problems are in principle soluble given sufficient knowledge and creativity.
+
+## Statement of the Principle
+Problems are not inherent features of reality; they are symptoms of knowledge gaps. As knowledge grows, problems are solved. The growth of knowledge is unbounded, meaning there is no limit to what can be achieved through explanation and innovation.
+
+## Implications
+- **No permanent impossibilities**: What seems impossible today may be solvable tomorrow as knowledge advances.
+- **Pessimism is misguided**: Despair about humanity's future reflects a failure to recognize that knowledge gaps are closable.
+- **Optimism is rational**: Given the track record of human knowledge growth, optimism about problem-solving is the defensible position.
+
+## Tensions and Criticisms
+- This principle can conflict with [[black-swan-events]] and [[antifragility]], which emphasize inherent unpredictability and the limits of prediction.
+- The wiki's [[superforecasting]] framework uses probabilistic thinking that can coexist with optimism but also acknowledges uncertainty and risk.
+- Deutsch himself warns against optimism becoming "unrealistic denial of real constraints" (see *The Beginning of Infinity*, "when to stop").
+
+## Connection to Existing Frameworks
+- [[superforecasting]]: Both value rigorous thinking about the future, but superforecasting uses probabilistic calibration while Deutsch's optimism is categorical.
+- [[problem-solving]]: The principle reframes all obstacles as knowledge gaps awaiting explanation.
+- [[grit-concept]]: Sustained effort aligns with Deutsch's view that creativity and perseverance drive knowledge growth.
+
+## Practical Use
+When feeling pessimistic about a problem or humanity's trajectory, apply the Principle of Optimism: identify the specific knowledge gap, generate conjectures for closing it, and critically test them.
+---

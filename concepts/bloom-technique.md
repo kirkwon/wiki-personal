@@ -1,0 +1,39 @@
+---
+type: concept
+title: Bloom Technique for Spices
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- cooking-techniques
+- spices
+- gastronomy
+sources:
+- Cumin.md
+related:
+- cumin-cuminum-cyminum
+- herbs-spices
+- wok-hei
+---
+-
+# Bloom Technique for Spices
+
+Blooming is the process of briefly frying spices in hot oil to extract and distribute their flavor throughout a dish. It is a foundational technique in many culinary traditions.
+
+## Method
+
+1. Heat oil in a pan until shimmering
+2. Add whole or ground spices
+3. Fry for 30-60 seconds until fragrant
+4. Add remaining ingredients
+
+## Key Principles
+
+- The hot oil extracts essential oils from the spices
+- Brief frying prevents burning and bitterness
+- The oil becomes infused with spice flavor, which coats subsequent ingredients
+- Particularly important for cumin, coriander, and chili-based dishes
+
+## Connection to Other Techniques
+
+Blooming is related to [[wok-hei]] and the [[toasting-technique]], both of which aim to maximize flavor extraction. It is especially central to [[cumin-cuminum-cyminum]] preparation and [[herbs-spices]] usage.
+---

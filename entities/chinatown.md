@@ -1,0 +1,31 @@
+---
+type: entity
+title: Chinatown
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- local
+- sf
+- neighborhoods
+sources:
+- san-francisco-city-guide.md
+related:
+- san-francisco
+- favorite-restaurants
+- grant-avenue
+---
+-
+# Chinatown
+
+Quartier le plus dense et historique de San Francisco, avec une scène culinaire asiatique exceptionnelle.
+
+## Points forts
+- Grant Avenue
+- Dim sum : Yank Sing, Good Mong Kok
+- Événements culturels
+- Histoire riche
+
+## Nourriture
+Dim sum recommandé. La nourriture locale est supérieure hors des zones touristiques.
+
+---

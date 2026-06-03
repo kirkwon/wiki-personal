@@ -1,0 +1,118 @@
+---
+source_type: book
+title: Stillness Is the Key - Ryan Holiday
+author: Ryan Holiday
+year: 2024
+category: general
+tags: []
+chapters: 10
+concepts: 10
+ingested: 2026-05-03
+sha256: ac19ec9b6141678b5da5a75e70985496ad88853c6a47ca1c35be9e72576407b9
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+--
+
+
+# Stillness Is the Key - Ryan Holiday
+
+{
+  "metadata": {
+    "title": "Stillness Is the Key - Ryan Holiday",
+    "author": "Ryan Holiday",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "stillness-is-the-key-ryan-holiday",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "The Power of Inner Quietude",
+        "summary": "Brief description of the chapter's main concepts and key points focusing on the importance of inner calm for personal growth and resilience, setting up the theme of stillness.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "Silencing the Mind",
+        "summary": "Explores methods to quiet our thoughts through techniques like mindfulness meditation, reflecting on historical figures who exemplified mental discipline.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "Mastery Through Stillness",
+        "summary": "Discusses how staying calm under pressure leads to better decision-making and mastery of one's craft by referencing the work of notable achievers.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Distraction Dilemma",
+        "summary": "Analyzes distractions in modern life, their impact on productivity, and strategies for maintaining focus amid constant stimuli.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Role of Stillness in Relationships",
+        "summary": "Examines how stillness can enhance communication and understanding within interpersonal connections by looking at successful examples from history and psychology.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "Cultivating a Still Life",
+        "summary": "Outlines the benefits of creating a tranquil environment for oneself, including practices like nature walks or decluttering spaces to foster stillness.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Power of Pause",
+        "summary": "Illustrates how intentional pauses in work and life can lead to greater creativity and clarity, using the Stoic philosophy as a reference point.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "Embracing Solitude for Personal Growth",
+        "summary": "Argues that solitude is necessary for self-discovery and personal development, citing stories of individuals who thrived in isolation.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "The Art of Simplicity",
+        "summary": "Discusses the virtues of a simple life, free from excessive noise and complexity, by highlighting examples from various cultures and eras.",
+        "part": ""
+      },
+      {
+        "chapter": 1,
+        "title": "Written by an Enthusiast - Ryan Holiday",
+        "summary": "Delves into the process behind writing Stillness Is the Key, including research methods, personal experiences, and inspirations drawn from different fields of study.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Power of Inner Quietude",
+    "Silencing the Mind",
+    "Mastery Through Stillness",
+    "Distraction Dilemma",
+    "The Role of Stillness in Relationships",
+    "Cultivating a Still Life",
+    "The Power of Pause",
+    "Embracing Solitude for Personal Growth",
+    "The Art of Simplicity",
+    "Written by an Enthusiast - Ryan Holiday"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

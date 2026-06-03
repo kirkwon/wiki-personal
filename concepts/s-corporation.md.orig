@@ -1,0 +1,54 @@
+---
+
+type: concept
+title: S Corporation
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- personal-finance
+- business-entity
+- tax-planning
+sources:
+- Company Structure Guide.md
+related:
+- c-corporation
+- llc-vs-s-corp
+- reasonable-compensation
+----
+# S Corporation
+
+An S Corporation is a small business corporation that combines pass-through taxation with corporate formalities and limited liability protection.
+
+## Key Characteristics
+- Pass-through taxation (no entity-level tax)
+- Limited liability like C Corp
+- Must file Form 2553 for S Election
+- Max 100 shareholders
+- One class of stock only
+- Domestic corporation only
+- Must pay reasonable compensation to employee-shareholders
+
+## Tax Advantages
+- Avoids double taxation
+- Reduced self-employment tax (only on salary, not distributions)
+- Distributions taxed as ordinary income (not qualified dividends)
+- Potential estate planning benefits
+- Tax-free health insurance for 2% shareholders
+
+## Limitations
+- Strict eligibility requirements
+- Reasonable compensation requirement limits salary/distribution optimization
+- Less flexibility in profit allocation than LLC
+- Limited ability to raise capital
+- Complex conversion if outgrowing S Corp status
+
+## Formation Process
+1. Form as C Corporation first
+2. File Form 2553 (S Election) with IRS
+3. Obtain shareholder consent
+4. Elect appropriate tax year and accounting method
+
+## Related Pages
+- [[reasonable-compensation]] for salary requirements
+- [[llc-vs-s-corp]] for entity comparison
+- [[c-corporation]] for contrast

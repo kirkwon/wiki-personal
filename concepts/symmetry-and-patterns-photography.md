@@ -1,0 +1,32 @@
+---
+type: concept
+title: Symmetry and Patterns in Photography
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- photography
+- composition
+sources:
+- composition-techniques.md
+related:
+- composition-techniques
+- minimalism
+- framing-composition
+---
+-
+# Symmetry and Patterns in Photography
+
+Symmetry and patterns are composition techniques that create visual order, balance, and interest through mirrored or repeating elements.
+
+## Symmetry
+Types include vertical symmetry (reflections in water, symmetrical architecture), horizontal symmetry (balanced top and bottom), and radial symmetry (from a center point — circles, spirals). To use symmetry, find symmetrical scenes, center the frame, and use the grid to ensure perfect alignment.
+
+## Patterns
+Patterns use repeating elements like windows, bricks, leaves, or textures. Fill the frame to make the pattern the subject. Breaking the pattern by introducing one different element creates visual interest.
+
+## Examples
+- Reflection in water: Mirrored landscape
+- Symmetrical building: Facade symmetry
+- Windows on building: Repeating pattern
+- Brick wall: Textural pattern
+---

@@ -1,0 +1,28 @@
+---
+type: concept
+title: Restraint Bias
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- cognitive-bias
+- self-control
+- decision-making
+sources:
+- The Art of Thinking Clearly - Rolf Dobelli.md
+related:
+- self-control
+- impulsivity
+- overconfidence-and-certainty
+---
+# Restraint Bias
+
+The tendency to overestimate our ability to control impulses. People who believe they have strong self-control often fail to prepare for situations where impulses will be strong.
+
+## Key Points
+- Overconfidence in self-control leads to poor preparation
+- Connects to [[overconfidence-and-certainty]] — overestimating abilities
+- Planning fallacy of self-control — underestimating when temptation will strike
+
+## Guardrail
+Rather than assuming you can resist temptation, design environments that reduce temptation exposure. Use [[time-delay-decisions]] for emotional choices.
+---

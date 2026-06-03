@@ -1,0 +1,35 @@
+---
+
+type: concept
+title: Pre-infusion (预浸泡)
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- coffee
+- espresso
+- technique
+sources:
+- Espresso.md
+related:
+- espresso-意大利浓缩咖啡
+- pressure-profiling
+----
+# Pre-infusion (预浸泡)
+
+预浸泡是意式浓缩咖啡冲煮中的高级技术，在施加全压之前先用低压（3-4 bar）让水浸润咖啡粉5-10秒，使粉床均匀膨胀后再加全压萃取。
+
+## 目的
+
+- 均匀饱和咖啡粉
+- 允许粉床在压力前膨胀
+- 改善萃取一致性
+- 减少通道效应
+
+## 操作
+
+- 低压（3-4 bar）浸泡5-10秒
+- 确保完全饱和后再施加全压
+- 部分咖啡机有预浸泡设置
+- 手动咖啡机可手动操作
+
+参见 [[espresso-意大利浓缩咖啡]] 和 [[pressure-profiling]] 了解压力曲线相关技巧。

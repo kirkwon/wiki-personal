@@ -1,0 +1,18 @@
+---
+source_url: null
+ingested: 2026-04-29
+sha256: null
+title: Memory Source
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+-
+
+# Memory Source
+
+Source documenting Memory as a mental model, referencing Peter C. Brown et al.'s *Make It Stick*.
+
+## Key Reference
+- **Make It Stick** by Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel — book on learning and memory techniques including retrieval practice, spaced repetition, and interleaving.
+---

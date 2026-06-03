@@ -1,0 +1,439 @@
+---
+ingested: '2026-04-24'
+sha256: 2aeafdf5068bcaff4576bbb8ddff4f122ebe981caf95def342d11b40277cf5b2
+source_path: Gastronomy/Beverages/Coffee/Preparation/Espresso.md
+title: Espresso (意大利浓缩咖啡)
+type: note
+created: '2026-05-14'
+updated: '2026-05-14'
+---
+-
+
+
+
+# Espresso (意大利浓缩咖啡)
+
+
+## Quick Reference
+
+### Field**: [[Beverages/Coffee]]
+### Type**: Preparation Method
+### Category**: Pressure Brewing
+### Skill Level**: Advanced
+### Time Required**: 25-30 seconds
+### Best For**: Base for milk drinks, concentrated flavor experience
+### Key Variables**: Pressure, temperature, grind, timing
+
+
+
+## Summary
+
+Espresso is a concentrated coffee beverage brewed by forcing a small amount of nearly boiling water under pressure through finely-ground coffee beans. This method produces a rich, intense coffee with a characteristic layer of reddish-brown foam called crema. Mastering espresso requires precision and understanding of the complex variables involved in the extraction process.
+
+## Method Overview
+
+### Core Principles
+- **High Pressure**: 8-10 bars of pressure
+- **Fine Grind**: Creates resistance and optimal extraction
+- **Short Time**: 25-30 seconds extraction time
+- **Small Volume**: 1-2 ounces per serving
+- **Concentrated Flavor**: Intense, full-bodied experience
+
+### Equipment Requirements
+```yaml
+Essential:
+- Espresso Machine: Manual, semi-automatic, or automatic
+- Portafilter: Handle for holding coffee grounds
+- Tamper: For compressing coffee grounds evenly
+- Burr Grinder: Fine grind capability
+- Scale: Precise measurement (0.1g accuracy)
+- Timer: For precise extraction timing
+- Pitcher: For steamed milk (if making milk drinks)
+
+Optional:
+- Distribution Tool: For even coffee distribution
+- WDT (Weiss Distribution Technique) tool
+- Pressure Gauge: For monitoring extraction pressure
+- Bottomless Portafilter: For visual inspection
+- Cleaning Brush: For equipment maintenance
+```
+
+## Step-by-Step Process
+
+### 1. Preparation
+```yaml
+Machine Setup:
+- Turn on machine 30-45 minutes before brewing
+- Allow machine to reach temperature (195-205°F/90-96°C)
+- Flush group head to ensure proper temperature
+- Clean portafilter and dry thoroughly
+
+Coffee Preparation:
+- Use fresh, freshly roasted coffee (within 2-4 weeks)
+- Select appropriate beans: medium to dark roast preferred
+- Grind to fine powder consistency (like table salt)
+- Weigh 18-20g of coffee for double shot
+```
+
+### 2. Coffee Distribution
+```yaml
+Importance:
+- Even distribution prevents channeling
+- Ensures uniform extraction
+- Improves consistency and quality
+
+Techniques:
+- Weiss Distribution Technique (WDT):
+  * Use thin tool to stir and separate clumps
+  * Create uniform texture
+  * Tap portafilter to settle grounds
+
+- Tap Method:
+  * Gently tap portafilter on counter
+  * Rotate and tap again if needed
+  * Level coffee bed
+```
+
+### 3. Tamping
+```yaml
+Technique:
+- Hold tamper level and perpendicular to portafilter
+- Apply firm, even pressure (30-40 lbs)
+- Polish with gentle twist at the end
+- Aim for 58-62% compression ratio
+
+Common Mistakes:
+- Uneven pressure (high side, low side)
+- Angled tamper
+- Too light or too heavy pressure
+- No polishing motion
+```
+
+### 4. Locking & Extraction
+```yaml
+Portafilter Loading:
+- Insert portafilter into group head
+- Ensure it's fully locked and secure
+- Start extraction immediately after loading
+
+Extraction Process:
+- Watch for first drops to appear
+- Monitor flow rate and color
+- Total extraction time: 25-30 seconds
+- Target yield: 36-40g for double shot
+
+Visual Cues:
+- Start: Dark, slow drops
+- Mid: Blond, faster stream
+- End: Rapid, light drops (sign of over-extraction)
+```
+
+### 5. Evaluation
+```yaml
+Crema Assessment:
+- Color: Dark reddish-brown, tiger stripes
+- Thickness: 3-4mm persistent foam
+- Persistence: Should last 1-2 minutes
+- Texture: Smooth, no large bubbles
+
+Shot Quality:
+- Volume: 36-40g from 18-20g input (2:1 ratio)
+- Timing: 25-30 seconds
+- Color: Rich, reddish-brown
+- Taste: Balanced, not sour or bitter
+```
+
+## Brewing Variables
+
+### Grind Size
+```yaml
+Too Fine:
+- Symptoms: Slow extraction (>35 seconds), bitter
+- Solution: Grind coarser slightly
+- Effect: Improves flow rate
+
+Too Coarse:
+- Symptoms: Fast extraction (<20 seconds), weak
+- Solution: Grind finer slightly
+- Effect: Increases extraction time
+
+Adjustment:
+- Fine tune by 1-2 clicks on grinder
+- Test consistency with timing
+- Account for bean changes and humidity
+```
+
+### Dose & Yield
+```yaml
+Standard Double Shot:
+- Dose: 18-20g
+- Yield: 36-40g
+- Ratio: 1:2
+- Time: 25-30 seconds
+
+Ristretto (Restricted):
+- Dose: 18-20g
+- Yield: 18-22g
+- Ratio: 1:1 to 1:1.2
+- Time: 20-25 seconds
+- Effect: More concentrated, sweeter
+
+Lungo (Long):
+- Dose: 18-20g
+- Yield: 50-60g
+- Ratio: 1:2.5 to 1:3
+- Time: 30-35 seconds
+- Effect: More volume, less intense
+```
+
+### Pressure & Temperature
+```yaml
+Optimal Range:
+- Pressure: 8-10 bars
+- Temperature: 195-205°F (90-96°C)
+- Group Head Temp: Stable during extraction
+
+Pressure Profiling:
+- Traditional: Constant 9 bars
+- Profiled: Start low, increase, decrease
+- Effects: Different flavor extraction
+
+Temperature Effects:
+- 195°F (90°C): More delicate, floral notes
+- 200°F (93°C): Balanced, standard
+- 205°F (96°C): Bolder, more intense
+```
+
+## Common Issues & Solutions
+
+### Channeling
+```yaml
+Symptoms:
+- Uneven extraction timing
+- Blotchy crema
+- Inconsistent flow
+- Poor flavor balance
+
+Solutions:
+- Improve distribution with WDT
+- Ensure even tamping
+- Check grind size uniformity
+- Use fresh, dry coffee grounds
+```
+
+### Sour Extraction
+```yaml
+Symptoms:
+- Under-extraction (fast timing)
+- Sour, acidic taste
+- Thin body
+- Light, weak crema
+
+Solutions:
+- Grind finer to slow extraction
+- Check dose adequacy
+- Verify temperature stability
+- Ensure proper coffee distribution
+- Extend pre-infusion if available
+```
+
+### Bitter Extraction
+```yaml
+Symptoms:
+- Over-extraction (slow timing)
+- Bitter, harsh taste
+- Astringent mouthfeel
+- Dark, burnt crema
+
+Solutions:
+- Grind coarser to speed extraction
+- Reduce dose slightly
+- Check water temperature
+- Clean machine thoroughly
+- Replace old coffee beans
+```
+
+## Advanced Techniques
+
+### Pre-infusion
+```yaml
+Purpose:
+- Saturate coffee evenly
+- Allow expansion before full pressure
+- Improve extraction consistency
+
+Technique:
+- Low pressure (3-4 bars) for 5-10 seconds
+- Full pressure after saturation
+- Helps channeling and improves quality
+
+Machine Support:
+- Some machines have pre-infusion settings
+- Manual machines can do manually
+- Essential for certain coffee types
+```
+
+### Distribution Methods
+```yaml
+Weiss Distribution Technique (WDT):
+- Use thin metal tool to stir coffee
+- Break up clumps and create uniform texture
+- Gentle, circular motion
+- Essential for fine grinds and certain machines
+
+Tap & Rotate:
+- Tap portafilter firmly on counter
+- Rotate 90 degrees and tap again
+- Settle coffee evenly
+- Simpler than WDT but effective
+
+Dosing Funnel:
+- Use special funnel with dosing
+- Reduces static and clumping
+- Creates more uniform bed
+- Consistent results with practice
+```
+
+### Pressure Profiling
+```yaml
+Traditional vs Profiled:
+- Traditional: Constant 9 bar pressure
+- Profiled: Variable pressure over time
+
+Common Profiles:
+- Step Profile: Low → High → Low
+- Ramp Profile: Gradual increase/decrease
+- Pulsed Profile: Rapid pressure changes
+
+Effects on Flavor:
+- Low start: Sweeter extraction
+- High middle: Balanced body
+- Low end: Clean finish
+```
+
+## Milk Steaming for Espresso Drinks
+
+### Steaming Basics
+```yaml
+Milk Selection:
+- Whole milk: Rich, creamy texture
+- 2% milk: Good compromise
+- Non-dairy: Almond, oat, soy alternatives
+- Temperature: 140-160°F (60-71°C)
+
+Technique:
+- Purge steam wand before starting
+- Position wand tip just below surface
+- Stretch milk (incorporate air) first
+- Texture milk to velvety microfoam
+- Finish with hot milk, no bubbles
+```
+
+### Classic Espresso Drinks
+```yaml
+Espresso (Straight):
+- Just espresso shot, no milk
+- Volume: 1-2 oz (30-60ml)
+- Character: Intense, complex
+- Serving: Small demitasse cup
+
+Cappuccino:
+- 1/3 espresso, 1/3 steamed milk, 1/3 foam
+- Volume: 6-8 oz (180-240ml)
+- Character: Balanced, creamy
+- Foam: Light, dry microfoam
+
+Latte:
+- 1/3 espresso, 2/3 steamed milk
+- Volume: 8-12 oz (240-360ml)
+- Character: Milk-forward, smooth
+- Foam: Thin layer, minimal
+
+Macchiato:
+- Espresso "marked" with small amount of milk foam
+- Volume: 2-3 oz (60-90ml)
+- Character: Strong espresso with milk hint
+- Appearance: Mark on top, not mixed
+```
+
+## Maintenance & Cleaning
+
+### Daily Routine
+```yaml
+After Each Shot:
+- Knock out puck immediately
+- Rinse portafilter with hot water
+- Clean group head screen
+- Wipe steam wand
+
+End of Day:
+- Backflush machine if possible
+- Clean portafilters thoroughly
+---
+- Remove and clean shower screen
+- Descale as needed schedule
+```
+
+### Periodic Maintenance
+```yaml
+Weekly:
+- Deep clean group head
+- Check and clean grinder burrs
+- Inspect and clean steam wand tip
+- Calibrate grinder if needed
+
+Monthly:
+- Descale machine
+- Replace water filter
+- Check pressure gauges
+- Inspect seals and gaskets
+```
+
+## Quality Assessment
+
+### Visual Evaluation
+```yaml
+Crema Quality:
+- Color: Dark reddish-brown with tiger stripes
+- Texture: Smooth, no large bubbles
+- Persistence: Should last 1-2 minutes
+- Thickness: 3-4mm ideal
+
+Extraction Appearance:
+- Flow should be even, not gushing
+- Color should darken during extraction
+- No spurting or irregular flow
+- Clean portafilter after extraction
+```
+
+### Taste Evaluation
+```yaml
+Flavor Balance:
+- Initial: Sweet, aromatic
+- Middle: Balanced with complexity
+- Finish: Clean, no sourness or bitterness
+- Overall: Harmonious, pleasant
+
+Mouthfeel:
+- Body: Medium to full
+- Texture: Smooth, velvety
+- Aftertaste: Pleasant, lingering
+- Acidity: Present but balanced
+
+Professional Terms:
+- Balanced: All flavors in harmony
+- Complex: Multiple flavor notes
+- Clean: No off-flavors
+- Sweet: Natural sugars present
+- Acidic: Bright but pleasant
+- Bitter: Should be pleasant, not harsh
+```
+
+## See Also
+- [[Coffee Preparation/Pour Over]] - Alternative manual brewing method
+- [[Coffee Preparation/French Press]] - Immersion brewing method
+- [[Coffee Beans/Arabica]] - Premium coffee beans for espresso
+- [[Beverages/Coffee/Index]] - Complete coffee preparation guide
+
+---
+*Espresso preparation page created: 2026-04-21*

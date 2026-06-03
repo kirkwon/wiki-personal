@@ -1,0 +1,34 @@
+---
+type: concept
+title: The Fifth Discipline Fieldbook — Peter M. Senge
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- books
+- systems-thinking
+- organizational-learning
+- personal-mastery
+sources:
+- Mastery.md
+related:
+- mastery
+- planning
+- group
+- systems-thinking
+---
+--
+# The Fifth Discipline Fieldbook
+
+Peter M. Senge's companion to *The Fifth Discipline*, providing practical tools for building learning organizations and developing personal mastery.
+
+## Key Concepts
+
+- **Personal mastery**: Ongoing commitment to learning and growth
+- **Systems thinking**: Understanding interconnections, feedback loops, and emergence
+- **Mental models**: Internal assumptions that shape perception and action
+- **Shared vision**: Collective commitment to a common purpose
+- **Team learning**: Collective capacity for dialogue and collaboration
+
+## Connection to Mastery
+
+Senge treats mastery as both an individual discipline and an organizational capacity, connecting personal growth to systems-level understanding.

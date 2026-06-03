@@ -1,0 +1,22 @@
+---
+type: concept
+title: 大根おろし（Daikon Oroshi）
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- japanese
+- cuisine
+sources:
+- sushi-sashimi.md
+related:
+- sashimi
+- sushi-and-sashimi
+---
+--
+# 大根おろし（Daikon Oroshi）
+
+大根をすり下ろしたもの。刺身や焼き魚と合わせて食べる。
+
+## 関連
+- [[sashimi]]
+- [[sushi-and-sashimi]]

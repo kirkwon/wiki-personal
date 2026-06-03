@@ -1,0 +1,40 @@
+---
+
+type: source
+title: "Source: unificationcomplete"
+---unknown.md"
+created: 2026-05-09
+updated: 2026-05-09
+sources: ["unificationcomplete---unknown.md"]
+tags: []
+related: []
+---
+
+# Source: unificationcomplete---unknown.md
+
+## Analysis of UNIFICATION_COMPLETE - Unknown
+
+### Key Entities
+- **Hermes Agent** — An AI agent framework that can load book skills, apply triggers, and track progress. Central to the source's purpose.
+- **106 books** — The collection being unified into a standard format. Peripheral; no specific titles named.
+- **convert_to_unified.py** — Conversion script mentioned. Peripheral.
+- **index.json** — Master index for the unified collection. Peripheral.
+
+### Key Concepts
+- **Relativity in decision-making** — The sole substantive concept: decisions are heavily influenced by comparisons. No further elaboration is provided.
+- **Unified book schema** — A standardized format (YAML frontmatter + JSON + skill structures + chapter summaries + index). This is the actual content of the document.
+
+### Main Arguments & Findings
+This is not a book summary but a **project status report** for a book-unification effort. The only claim about content is a single sentence: "Explores how our decisions are heavily influenced by comparisons." No evidence, no depth, no citations. The bulk of the document describes a conversion pipeline and schema for making books machine-readable for AI agents.
+
+### Connections to Existing Wiki
+- Relates to [[decision-making-frameworks]], [[thinking-fast-and-slow---daniel-kahneman]], [[dual-process-theory]], and [[prospect-theory]] via the relativity/comparison theme, but provides no substantive content to strengthen or challenge existing pages.
+- The Hermes agent integration concept is novel but doesn't map to any existing wiki page.
+
+### Contradictions & Tensions
+None. This is a procedural document, not a knowledge document.
+
+### Recommendations
+- **Do not create a wiki page** for this source. It contains no substantive knowledge — only a schema and status report for a book conversion project.
+- The single vague concept ("decisions influenced by comparisons") is already well-covered by existing pages on cognitive biases, prospect theory, and dual-process theory.
+- If the user wants to catalog this as a source, it belongs in a "meta/project" category, not as a knowledge entry.

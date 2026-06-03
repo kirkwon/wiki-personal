@@ -1,0 +1,35 @@
+---
+type: concept
+title: The Science of Lying
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- neuroscience
+- psychology
+- behavioral-economics
+- cognitive-science
+sources:
+- The (Honest) Truth About Dishonesty - Dan Ariely.md
+related:
+- the-honest-truth-about-dishonesty---dan-ariely
+- dual-process-theory
+- thinking-fast-and-slow---daniel-kahneman
+---
+-
+# The Science of Lying
+
+Neuroscientific evidence about honesty and deception, including brain activity in liars and the cognitive effort required for lying. Research reveals that deception is not a simple impulse but involves complex cognitive processing.
+
+## Key Findings
+- Lying requires significant cognitive effort, with measurable neural correlates
+- The brain distinguishes between truth-telling and deception through distinct activation patterns
+- Cognitive load affects the likelihood and quality of dishonesty
+- Automatic processes favor honesty; deliberate lying requires active mental resources
+
+## Connection to Dual Process Theory
+This parallels [[dual-process-theory]] and [[thinking-fast-and-slow---daniel-kahneman]] — automatic System 1 processes tend toward honesty, while deliberate System 2 processing enables deception. The cognitive effort required for lying creates a natural constraint on dishonesty.
+
+## Relevance
+- Connects to [[incremental-dishonesty-fudge-factor]] — cognitive effort limits how much people cheat
+- Relates to [[self-image-and-moral-identity]] — the mental cost of lying reinforces self-image concerns
+---

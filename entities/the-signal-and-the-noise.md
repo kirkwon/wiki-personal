@@ -1,0 +1,32 @@
+---
+type: entity
+title: The Signal and the Noise
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- book
+- prediction
+- statistics
+sources:
+- The Signal and the Noise - Nate Silver.md
+related:
+- signal-to-noise-ratio
+- bayesian-thinking
+- ensemble-prediction-methods
+- calibration-training
+- superforecasting---philip-e-tetlock-dan-gardner
+---
+--
+# The Signal and the Noise
+
+Book by Nate Silver examining why predictions fail and how to distinguish meaningful patterns (signal) from randomness (noise). Covers case studies across finance, politics, baseball, weather, earthquakes, economics, poker, and collective intelligence.
+
+## Core Lessons
+
+- Most predictions fail because people confuse noise for signal
+- Probabilistic thinking and Bayesian updating improve forecasts
+- Simple models often outperform complex expert models
+- Ensemble methods and prediction aggregation beat individual experts
+- Calibration training ensures confidence matches accuracy
+- Some systems are inherently unpredictable (earthquakes, regime shifts)
+- Prediction is about managing uncertainty, not achieving certainty

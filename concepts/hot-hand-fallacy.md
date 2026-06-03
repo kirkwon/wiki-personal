@@ -1,0 +1,33 @@
+---
+type: concept
+title: Hot-Hand Fallacy
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- cognitive-bias
+- probability
+- superstition
+sources:
+- The Art of Thinking Clearly - Rolf Dobelli.md
+related:
+- clustering-illusion
+- gambler's-fallacy
+- probabilistic-illusion
+---
+-
+# Hot-Hand Fallacy
+
+The mistaken belief that success streaks in random games indicate increased likelihood of continued success. In reality, each event is independent, but we perceive streaks as meaningful patterns.
+
+## Key Points
+- Past success in random processes does not predict future success
+- Connects to [[clustering-illusion]] — seeing patterns in random data
+- Connects to [[gambler's-fallacy]] — believing past events influence future
+- Connects to [[probabilistic-illusion]] — poor intuitive understanding of probability
+
+## Example
+A basketball player makes several shots in a row and teammates expect continued success, despite each shot being statistically independent.
+
+## Guardrail
+Separate skill-based domains from chance-based domains. In chance-based domains, streaks are meaningless predictors.
+---

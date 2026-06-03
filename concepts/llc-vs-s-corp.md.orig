@@ -1,0 +1,68 @@
+---
+type: concept
+title: LLC vs S Corporation
+created: 2026-04-22
+updated: 2026-04-22
+tags:
+- business-structure
+- entity-selection
+- tax-planning
+- comparison
+sources:
+- Company Structure Guide.md
+related:
+- llc
+- s-corporation
+- self-employment-tax-optimization
+- entity-selection-framework
+---
+# LLC vs S Corporation
+
+A comparison of two of the most common entity types for small businesses, focusing on liability protection, tax treatment, flexibility, and operational considerations.
+
+## Liability Protection
+
+Both LLCs and S Corps provide full limited liability protection for owners. Members/shareholders are generally not personally liable for business debts and obligations.
+
+## Tax Treatment
+
+| Feature | LLC | S Corporation |
+|---------|-----|---------------|
+| Default Taxation | Pass-through | Pass-through |
+| Tax Election Options | Can elect corporate taxation (Form 8832) | Fixed pass-through (cannot elect C Corp) |
+| Self-Employment Tax | Paid on all net earnings | Paid only on salary |
+| Profit Allocation | Flexible | Must be proportional to ownership |
+| Distribution Flexibility | Flexible timing and amounts | Must be proportional to ownership |
+
+## Formation and Compliance
+
+- **LLC**: Articles of Organization, Operating Agreement, EIN. Moderate compliance.
+- **S Corp**: Articles of Incorporation, Bylaws, Form 2553 (S Election). Higher compliance due to corporate formalities.
+
+## When to Choose LLC
+
+- Desire for flexible profit allocation
+- Simpler formation and administration
+- No need for S Corp tax optimization
+- Prefer less formal governance requirements
+
+## When to Choose S Corp
+
+- Significant earnings where self-employment tax optimization matters
+- Need for corporate credibility
+- Planning for equity compensation (stock options)
+- Want to minimize FICA taxes on distributions
+
+## Related Pages
+
+- [[self-employment-tax-optimization]] for detailed tax strategies
+- [[entity-selection-framework]] for decision guidance
+- [[multi-entity-strategy]] for complex structuring
+---
+## Key Principle
+
+The choice between LLC and S Corp often comes down to tax optimization needs, governance preferences, and growth plans.
+---
+## Tags
+
+business-structure, entity-selection, tax-planning, comparison

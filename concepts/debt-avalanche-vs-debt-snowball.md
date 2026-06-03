@@ -1,0 +1,42 @@
+---
+type: concept
+title: Debt Avalanche vs. Debt Snowball
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- personal-finance
+- debt
+- investing
+sources:
+- I Will Teach You to Be Rich.md
+related:
+- personal-finance
+- investing-strategies-for-life-satisfaction
+---
+--
+# Debt Avalanche vs. Debt Snowball
+
+Two strategies for paying off debt, each with different psychological and financial trade-offs.
+
+## Debt Avalanche (Recommended)
+
+Pay minimums on all debts, throw all extra money at the highest interest rate debt first. Saves the most money long-term. Requires discipline.
+
+## Debt Snowball
+
+Pay minimums on all debts, throw all extra money at the smallest balance first. Quick wins build momentum. Costs more in interest. Better if you need psychological wins to stay motivated.
+
+## Debt Hierarchy (Pay in Order)
+
+1. **Credit card debt** (18-25%+): Highest priority, pay minimums on all, extra on highest rate
+2. **Personal loans** (8-15%): Same strategy
+3. **Car loans** (4-8%): Can invest instead if rate < 6%, but peace of mind may justify paying early
+4. **Student loans** (3-7%): Usually better to invest than pay early (likely higher returns)
+5. **Mortgage** (3-7%): Don't pay early, better to invest. Exception: near retirement and risk-averse.
+
+## Balance Transfer Strategy
+
+If credit card debt > $5,000 and rate > 18%, transfer to 0% APR card (12-21 months). Cost: 3-5% balance transfer fee. Can save $500-2,000 in interest. Warning: don't use card for new purchases, pay off before 0% period ends.
+
+See also: [[personal-finance]]
+^[raw/articles/I Will Teach You to Be Rich.md]

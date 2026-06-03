@@ -1,0 +1,30 @@
+---
+title: Tone Curve
+created: 2026-04-24
+updated: 2026-04-24
+type: concept
+tags:
+- photography
+- editing
+- post-processing
+sources:
+- post-processing.md
+related:
+- post-processing
+- global-vs-local-adjustments
+---
+# Tone Curve
+
+The tone curve is a tool for fine-tuning the tonal range of an image. It maps input tones to output tones across highlights, lights, darks, and shadows.
+
+## How It Works
+
+- **Highlights**: Upper right of curve
+- **Lights**: Upper middle
+- **Darks**: Lower middle
+- **Shadows**: Lower left
+
+Creating an S-curve by pulling up highlights and pulling down shadows increases contrast in the image.
+
+Related to [[Post-Processing]] and [[Global vs Local Adjustments]].
+---

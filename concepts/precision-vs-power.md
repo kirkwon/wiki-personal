@@ -1,0 +1,30 @@
+---
+type: concept
+title: Precision vs. Power Conflict
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-models
+- decision-making
+- thinking
+sources:
+- The Great Mental Models Vol 1 - Shane Parrish.md
+related:
+- systematic-decision-making
+- thinking-mental-model
+- decision-quality-vs-outcome-quality
+---
+--
+# Precision vs. Power Conflict
+
+## Definition
+The tension between precision (accuracy) and power (efficiency) in thinking processes. Precision emphasizes correctness and thoroughness, while power emphasizes speed and effectiveness. Balancing these competing demands is essential for improved decision-making.
+
+## Explanation
+Shane Parrish identifies this as a fundamental conflict in how we think. Precise thinking is slow and careful, while powerful thinking is fast and impactful. The challenge lies in knowing when to favor one over the other and how to balance them for optimal outcomes.
+
+## Related Concepts
+- [[systematic-decision-making]]
+- [[thinking-mental-model]]
+- [[decision-quality-vs-outcome-quality]]
+- [[thinking-fast-and-slow---daniel-kahneman]] — dual process theory maps onto this tension

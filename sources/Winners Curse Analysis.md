@@ -1,0 +1,17 @@
+---
+type: summary
+title: Winner's Curse Analysis Source
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- meta
+- productivity
+sources:
+- Winners Curse Analysis.md
+---
+--
+# Winner's Curse Analysis Source
+
+A minimal source document describing "Winner's Curse Analysis" as a productivity skill focused on systematically improving efficiency and output. The document claims confidence 1.0 from a book but lists no sources. It defines the practice as identifying and implementing methods, techniques, and frameworks that maximize personal or organizational productivity while maintaining sustainable work practices.
+
+The source is extremely thin and does not provide substantive content or references. It appears to be a placeholder or incomplete card.

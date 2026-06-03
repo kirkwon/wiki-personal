@@ -1,0 +1,29 @@
+---
+type: concept
+title: The Winner's Curse
+created: 2024-04-17
+updated: 2024-04-17
+tags:
+- decision-making
+- behavioral-economics
+- cognitive-bias
+- auctions
+sources:
+- The Winner's Curse - Richard Thaler.md
+related:
+- the-winner-s-curse-richard-thaler
+- decision-making-under-uncertainty
+- overconfidence-and-certainty
+- planning-fallacy
+- mental-accounting
+---
+--
+# The Winner's Curse
+
+The winner's curse is a phenomenon in which the winner of a competitive bidding process, such as an auction, tends to overpay. Because the true value of the item is uncertain, bidders with the highest (often overly optimistic) estimates win the auction but end up paying more than the item's actual worth. The curse extends beyond auctions to corporate takeovers, oil lease auctions, real estate purchases, and any competitive bidding situation where multiple parties estimate an uncertain value.
+
+The core mechanism involves asymmetric information and overconfidence: the winner is the bidder whose estimate was highest, which statistically means their estimate is likely to be above the true value. This insight connects to broader themes of [[overconfidence-and-certainty]] and [[decision-making-under-uncertainty]].
+
+Thaler's work highlights that this pattern is not just an auction anomaly but a general feature of competitive bidding under uncertainty. It can be mitigated by adjusting for the winner's curse explicitly — recognizing that winning itself is evidence that your estimate may be too high.
+
+Related: [[planning-fallacy]], [[mental-accounting]], [[decision-quality-vs-outcome-quality]].

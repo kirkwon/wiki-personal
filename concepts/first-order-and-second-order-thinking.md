@@ -1,0 +1,36 @@
+---
+type: concept
+title: First-Order and Second-Order Thinking
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- decision-making
+- mental-models
+- systems-thinking
+sources:
+- Super Thinking - Gabriel Weinberg.md
+related:
+- super-thinking-gabriel-weinberg
+- decision-quality-vs-outcome-quality
+- working-backwards-in-problem-solving
+- decision-making-frameworks
+---
+-
+# First-Order and Second-Order Thinking
+
+First-order thinking considers only the immediate consequences of an action. Second-order thinking goes further — it considers the consequences of those consequences, enabling better decision-making by accounting for downstream effects.
+
+## First-Order Thinking
+The tendency to think only about immediate consequences rather than longer-term effects. This is fast, intuitive, and often sufficient for simple problems, but can lead to suboptimal outcomes in complex situations.
+
+## Second-Order Thinking
+Thinking about the consequences of consequences. This requires more effort but yields deeper insight. For example, a company that lowers prices (first-order effect) might gain market share, but second-order effects could include a price war, reduced margins, or customer expectations that prevent future price increases.
+
+## Connection to Other Models
+Second-order thinking connects to [[bayesian-thinking]] (updating beliefs about cascading effects), [[working-backwards-in-problem-solving]] (starting from desired outcomes), and [[decision-quality-vs-outcome-quality]] (evaluating decisions by process rather than results).
+
+## Weinberg's Framework
+Weinberg emphasizes that super thinking involves moving beyond first-order intuition to systematically consider second-order and higher-order effects. This is one of the foundational models in the [[mental-model-library]].
+
+Related to [[super-thinking-gabriel-weinberg]] and [[thinking-fast-and-slow---daniel-kahneman]].
+---

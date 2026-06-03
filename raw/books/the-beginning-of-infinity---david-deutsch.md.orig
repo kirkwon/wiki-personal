@@ -1,0 +1,195 @@
+---
+
+source_type: book
+title: The Beginning of Infinity - David Deutsch
+author: David Deutsch
+year: 2024
+category: general
+tags: []
+chapters: 14
+concepts: 14
+ingested: 2026-05-03
+sha256: cc8f941371353266e52720e390776fe213aad99f503a1a88d43df2818930ca24
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+----
+
+
+# The Beginning of Infinity - David Deutsch
+
+{
+  "metadata": {
+    "title": "The Beginning of Infinity - David Deutsch",
+    "author": "David Deutsch",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "the-beginning-of-infinity-david-deutsch",
+    "when_to_use_trigger": [
+      "Facing seemingly insoluble problems",
+      "Working on fundamental research or innovation",
+      "Designing systems for long-term growth and progress",
+      "When feeling pessimistic about humanity's future",
+      "When dealing with philosophical or conceptual challenges",
+      "When criticized for ambitious or \"impossible\" goals",
+      "When making long-term strategic decisions",
+      "When designing educational or knowledge systems",
+      "When working on artificial intelligence or creativity",
+      "When you need to justify optimism in the face of challenges"
+    ],
+    "tools_used": [
+      "Explanatory power analysis (does it explain more phenomena?)",
+      "Conjecture and criticism methodology",
+      "Problem-solving approach: identify knowledge gaps, create knowledge",
+      "Optimism principle application (all evils are caused by insufficient knowledge)",
+      "Universal reach analysis (can this explanation apply to new domains?)",
+      "Error-correction mechanisms",
+      "Knowledge-growth frameworks",
+      "Creativity through variation and selection",
+      "Critical rationalism",
+      "Universality tests for theories"
+    ],
+    "timeline_behavior": {
+      "immediate": "Frame problems as knowledge gaps rather than impossible obstacles",
+      "short_term": "Generate multiple conjectures for solving problems",
+      "medium_term": "Critically test conjectures, eliminate errors",
+      "long_term": "Build on successful explanations, continue growth",
+      "continuous": "Maintain optimism about problem solvability"
+    },
+    "how_to_measure_improve": [
+      "Track ability to solve previously \"impossible\" problems",
+      "Measure explanatory reach of your theories or solutions",
+      "Count how often you generate novel explanations",
+      "Assess success rate of problem-solving approaches",
+      "Evaluate optimism vs. pessimism balance in your thinking",
+      "Practice generating conjectures in various domains",
+      "Test your criticisms against evidence and logic",
+      "Monitor knowledge growth over time in your field",
+      "Seek feedback on the universality of your explanations",
+      "Track breakthrough innovations enabled by optimistic thinking"
+    ],
+    "when_to_stop": [
+      "When optimism becomes unrealistic denial of real constraints",
+      "When theoretical explanations ignore practical implementation challenges",
+      "When conjectures become unfalsifiable (not scientific)",
+      "When criticism becomes destructive rather than constructive",
+      "When universal explanations ignore domain-specific nuances",
+      "When you're overcommitting to unproven approaches",
+      "When philosophical speculation prevents concrete action",
+      "When optimism ignores legitimate risks and ethical concerns",
+      "When you're rejecting valid criticisms that identify real problems"
+    ]
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "The Reach of Explanations",
+        "summary": "Introduces the idea that explanations have reach - the ability to explain phenomena beyond the specific cases they were derived from.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "The Puzzle of Reality",
+        "summary": "Explores the nature of reality and how our explanations can grasp objective truths about the world.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Spark",
+        "summary": "Discusses how knowledge grows through conjecture and criticism, not observation or induction.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Creating",
+        "summary": "Examines the creative process and how it involves generating possibilities and criticizing them.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Evolution of Human Culture",
+        "summary": "Explores how human knowledge and culture evolve through variation, selection, and retention.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "The Optimist's Metaphor",
+        "summary": "Discusses optimism as the principle that all evils are caused by insufficient knowledge.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Multiverse",
+        "summary": "Examines the many-worlds interpretation of quantum mechanics and its philosophical implications.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "A Physicist's History of Bad Philosophy",
+        "summary": "Critiques bad philosophy that has hindered scientific and technological progress.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "Choices",
+        "summary": "Discusses the nature of free will and choice in a deterministic physical world.",
+        "part": ""
+      },
+      {
+        "chapter": 10,
+        "title": "The Dream of Socrates",
+        "summary": "Explores the idea that knowledge can be objective and that we can discover truth through reason.",
+        "part": ""
+      },
+      {
+        "chapter": 11,
+        "title": "The Nature of Creativity",
+        "summary": "Examines creativity as the generation of explanatory knowledge.",
+        "part": ""
+      },
+      {
+        "chapter": 12,
+        "title": "Artificial Creativity",
+        "summary": "Discusses the possibility of artificial creativity and artificial general intelligence.",
+        "part": ""
+      },
+      {
+        "chapter": 13,
+        "title": "The Problem of Induction Revisited",
+        "summary": "Addresses the traditional problem of induction from a Popperian perspective.",
+        "part": ""
+      },
+      {
+        "chapter": 14,
+        "title": "Criteria for Reality",
+        "summary": "Explores what criteria we use to determine what is real.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Reach of Explanations",
+    "The Puzzle of Reality",
+    "The Spark",
+    "Creating",
+    "The Evolution of Human Culture",
+    "The Optimist's Metaphor",
+    "The Multiverse",
+    "A Physicist's History of Bad Philosophy",
+    "Choices",
+    "The Dream of Socrates",
+    "The Nature of Creativity",
+    "Artificial Creativity",
+    "The Problem of Induction Revisited",
+    "Criteria for Reality"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

@@ -1,0 +1,99 @@
+---
+
+source_type: book
+title: 'Essentialism: The Disciplined Pursuit of Less - Greg McKeown'
+author: Greg McKeown
+year: 2024
+category: general
+tags: []
+chapters: 8
+concepts: 7
+ingested: 2026-05-03
+sha256: e3ac33526579647286ffd9c774e71d9ce2de09f2d4b80b0375530ff15742934e
+----
+
+# Essentialism: The Disciplined Pursuit of Less - Greg McKeown
+
+{
+  "metadata": {
+    "title": "Essentialism: The Disciplined Pursuit of Less - Greg McKeown",
+    "author": "Greg McKeown",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "essentialism_-the-disciplined-pursuit-of-less-greg-mckeown",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction - The Case for More",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter introduces essentialism as a framework for living with less, emphasizing that reducing our commitments leads to more quality experiences in life.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "Foundations of Essentialism",
+        "summary": "Brief description of the chapter's main concepts and key points. McKeown explores how traditional approaches like productivity miss critical elements needed for a meaningful life, laying groundwork for essentialist thinking.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Power of Less",
+        "summary": "Brief description of the chapter's main concepts and key points. This chapter delves into the idea that being selective about our choices can lead to greater satisfaction and focuses on strategies to identify what truly matters in life.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Overcoming Excess",
+        "summary": "Brief description of the chapter's main concepts and key points. The author discusses common obstacles preventing individuals from pursuing an essentialist lifestyle, including societal pressure and personal insecurities.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "Commitment to What Matters Most",
+        "summary": "Brief description of the chapter's main concepts and key points. McKeown introduces a methodology for prioritizing commitments based on their alignment with our values, leading to more fulfilling lives.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "The Cost of Over-Indulgence",
+        "summary": "Brief description of the chapter's main concepts and key points. Here, readers are introduced to the concept of opportunity cost in relation to essentialism and its role in making more deliberate choices about what we consume or invest our time in.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Essentialist Toolkit",
+        "summary": "Brief description of the chapter's main concepts and key points. McKeown provides practical tools, frameworks, and habits that individuals can adopt to cultivate essentialism within their lives.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "Navigating Life's Overwh Written by Greg McKeown",
+        "summary": "Discusses how essentialist thinking helps navigate the complexities of life while maintaining authenticity amidst external expectations.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "Foundations of Essentialism",
+    "The Power of Less",
+    "Overcoming Excess",
+    "Commitment to What Matters Most",
+    "The Cost of Over-Indulgence",
+    "The Essentialist Toolkit",
+    "Navigating Life's Overwh Written by Greg McKeown"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

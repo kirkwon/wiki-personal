@@ -1,0 +1,124 @@
+---
+
+source_type: book
+title: The Algebra of Happiness - Scott Galloway
+author: Scott Galloway
+year: 2024
+category: general
+tags: []
+chapters: 11
+concepts: 10
+ingested: 2026-05-03
+sha256: 92de74fbd3a944c707836e48566a2b422230b2f434474389a158b0ba6c436c6f
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+----
+
+
+# The Algebra of Happiness - Scott Galloway
+
+{
+  "metadata": {
+    "title": "The Algebra of Happiness - Scott Galloway",
+    "author": "Scott Galloway",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "the-algebra-of-happiness-scott-galloway",
+    "when_to_use_trigger": [],
+    "tools_used": [],
+    "timeline_behavior": {},
+    "how_to_measure_improve": [],
+    "when_to_stop": []
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction to the Quest for Happiness",
+        "summary": "Brief description introduces the concept that traditional measures like money cannot solely determine happiness, setting the stage for a new perspective on achieving fulfillment.",
+        "part": ""
+      },
+      {
+        "chapter": 2,
+        "title": "The Science of Joy",
+        "summary": "This chapter delves into psychological research and its findings about what truly makes humans happy, exploring biological factors and social influences.",
+        "part": ""
+      },
+      {
+        "chapter": 3,
+        "title": "The Game of Success",
+        "summary": "Here, Galloway relates the pursuit of success to a game, discussing how understanding one's strengths and weaknesses can lead to greater achievements in life.",
+        "part": ""
+      },
+      {
+        "chapter": 4,
+        "title": "Leveraging Brand Power for Happiness",
+        "summary": "This chapter explains how personal brands contribute to happiness by cultivating identity, self-esteem, and social connection through authenticity.",
+        "part": ""
+      },
+      {
+        "chapter": 5,
+        "title": "The Role of Relationships in Wellbeing",
+        "summary": "Galloway examines the crucial role relationships play in our lives and offers advice on fostering healthy connections for increased wellbeing.",
+        "part": ""
+      },
+      {
+        "chapter": 6,
+        "title": "Investment Strategies for Life Satisfaction",
+        "summary": "This chapter outlines a financial approach to living happily, emphasizing long-term investments over short-term gains and aligning one's spending habits with personal values.",
+        "part": ""
+      },
+      {
+        "chapter": 7,
+        "title": "The Ethics of Competition",
+        "summary": "Galloway explores the balance between competitive drive and ethical behavior, arguing that healthy competition can fuel happiness when approached responsibly.",
+        "part": ""
+      },
+      {
+        "chapter": 8,
+        "title": "Embracing Failure for Personal Growth",
+        "summary": "This chapter shifts focus to embracing failures as opportunities for growth, highlighting their vital role in the journey towards fulfillment and self-improvement.",
+        "part": ""
+      },
+      {
+        "chapter": 9,
+        "title": "Finding Purpose Beyond Profit",
+        "summary": "Galloway discusses how aligning one's career with personal passions can lead to greater contentment and purpose beyond financial success.",
+        "part": ""
+      },
+      {
+        "chapter": 1,
+        "title": "CV = XCV",
+        "summary": "In this chapter, Galloway uses a hypothetical company's competitive strategy as an analogy for navigating life choices in pursuit of happiness.",
+        "part": ""
+      },
+      {
+        "chapter": 10,
+        "title": "Balancing Ambition with Well-being",
+        "summary": "Galloway concludes by advocating for the integration of personal wellness into ambitious goals, emphasizing that a holistic approach to success results in true happiness.",
+        "part": ""
+      }
+    ]
+  },
+  "core_concepts": [
+    "The Science of Joy",
+    "The Game of Success",
+    "Leveraging Brand Power for Happiness",
+    "The Role of Relationships in Wellbeing",
+    "Investment Strategies for Life Satisfaction",
+    "The Ethics of Competition",
+    "Embracing Failure for Personal Growth",
+    "Finding Purpose Beyond Profit",
+    "CV = XCV",
+    "Balancing Ambition with Well-being"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

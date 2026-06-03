@@ -1,0 +1,38 @@
+---
+type: concept
+title: Vietnamese Coffee Tradition
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- coffee
+- beverage
+- cuisine
+- vietnamese
+sources:
+- Robusta.md
+related:
+- robusta-coffee-coffea-canephora
+- cà-phê-sữa-đá
+- coffee-preparation-espresso
+---
+--
+# Vietnamese Coffee Tradition
+
+Truyền thống cà phê Việt Nam gắn liền với Robusta — loại hạt cà phê mạnh mẽ, chứa caffeine cao. Việt Nam là nhà sản xuất Robusta lớn nhất thế giới, và cà phê đóng vai trò quan trọng trong văn hóa ẩm thực địa phương.
+
+## Cà Phê Sữa Đá
+Đồ uống tiêu biểu của Việt Nam — Robusta mạnh được pha với sữa đặc, phục vụ lạnh với đá. Hương vị đậm, ngọt béo, đặc trưng không thể nhầm lẫn.
+
+## Robusta trong cà phê Việt Nam
+- Hạt Robusta Việt Nam có vị nhẹ hơn, ít hung hăng hơn
+- Chất lượng đang cải thiện qua thời gian
+- Chủ yếu xử lý rửa (washed process)
+- Dùng cho instant coffee và blend
+
+## Vai trò kinh tế
+- Nền tảng cho sinh kế của hàng triệu nông dân nhỏ
+- Ngành xuất khẩu quan trọng
+- Xu hướng specialty Robusta đang phát triển
+
+## Liên kết
+Xem thêm về Robusta tại [[robusta-coffee-coffea-canephora]] và so sánh với Arabica tại [[robusta-vs-arabica]].

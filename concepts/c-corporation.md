@@ -1,0 +1,56 @@
+---
+type: concept
+title: C Corporation
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- personal-finance
+- business-entity
+- tax-planning
+sources:
+- Company Structure Guide.md
+related:
+- double-taxation
+- s-corporation
+- llc-vs-s-corp
+---
+--
+# C Corporation
+
+A C Corporation is a separate legal entity owned by shareholders, providing limited liability but subject to double taxation.
+
+## Key Characteristics
+- Separate legal entity distinct from shareholders
+- Limited liability protection for shareholders
+- Double taxation: corporate profits taxed, then dividends taxed to shareholders
+- Perpetual existence regardless of ownership changes
+- Formal governance requirements (board of directors, officers)
+- Complex regulatory compliance
+
+## Formation Requirements
+- Articles of Incorporation filed with state
+- Corporate Bylaws
+- Organizational meeting minutes
+- Stock ledger and shareholder records
+- EIN from IRS
+- Annual meetings and minutes
+- State franchise taxes and filing fees
+
+## Advantages
+- Unlimited number of shareholders and stock classes
+- Easier to raise capital through equity financing
+- Ability to offer stock options to employees
+- Fringe benefits not taxable to shareholders
+- Potential for lower self-employment taxes
+
+## Disadvantages
+- Double taxation
+- Complex formation and ongoing compliance
+- Formal corporate governance requirements
+- Administrative burden and higher costs
+- Potential accumulated earnings tax
+
+## Related Pages
+- [[double-taxation]] for tax structure explanation
+- [[s-corporation]] for pass-through alternative
+- [[llc-vs-s-corp]] for comparison with S Corps

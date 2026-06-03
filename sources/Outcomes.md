@@ -1,0 +1,22 @@
+---
+type: source
+title: Outcomes
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- decision-making
+sources:
+- Outcomes.md
+---
+-
+# Outcomes
+
+Outcomes is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+This mental model is referenced in 8 source(s): Daniel Kahneman's Noise, Robert B. Cialdini's Pre-Suasion, Annie Duke's How to Decide and Thinking in Bets and Quit, Richard H. Thaler & Cass R. Sunstein's Nudge, Atul Gawande's The Checklist Manifesto, and Rolf Dobelli's The Art of Thinking Clearly.
+
+**Type**: Mental Model
+**Applicability**: Universal
+**Domains**: General
+---

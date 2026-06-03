@@ -1,0 +1,16 @@
+---
+
+type: concept
+title: Reasoning Over Emotion
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- philosophy
+- mental-models
+- psychology
+- decision-making
+sources:
+- the-daily-stoic
+- Reasoning Over Emotion
+----ryan-holiday.md"]
+related: [stoicism, ryan-holiday, dual-process-theory, thinking-fast-and-slow---daniel-kahneman, emotion-and-intuition-in-decisions, decision-quality-vs-outcome-quality]

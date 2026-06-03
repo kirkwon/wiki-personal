@@ -1,0 +1,33 @@
+---
+
+type: source
+title: Trends.md
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Trends.md
+----
+# Trends.md Source Summary
+
+## Overview
+Trends is introduced as a universal mental model for understanding patterns and relationships in complex situations. It serves as a conceptual tool for navigating complexity through pattern recognition.
+
+## Cross-Source Perspectives
+- Donella H. Meadows (*Limits to Growth*) — systems dynamics, feedback loops, resource and population trends
+- Scott Galloway (*The Four*) — platform dominance, market concentration, tech titan macro-trends
+
+## Key Concepts
+- Trends as a mental shortcut for complexity
+- Systemic trends (Meadows) vs. market trends (Galloway)
+- Universal applicability across domains
+
+## Related Pages
+- [[limits-to-growth]]
+- [[the-four]]
+- [[platform-dominance]]
+- [[donella-meadows]]
+- [[scott-galloway]]
+- [[real-options-analysis]]

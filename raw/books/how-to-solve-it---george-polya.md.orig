@@ -1,0 +1,519 @@
+---
+
+source_type: book
+title: How to Solve It - George Polya
+author: George Polya
+year: 2024
+category: general
+tags: []
+chapters: 67
+concepts: 20
+ingested: 2026-05-03
+sha256: 7a0d5f5d208312f349f812ebcdd3834affb98bcf1ffea19ed8ab08beb69b5b96
+type: framework
+created: '2026-05-14'
+updated: '2026-05-14'
+----
+
+
+# How to Solve It - George Polya
+
+{
+  "metadata": {
+    "title": "How to Solve It - George Polya",
+    "author": "George Polya",
+    "category": "general",
+    "tags": [],
+    "year": 2024,
+    "hermes_skill": true,
+    "created": "2024-04-17",
+    "updated": "2026-05-03"
+  },
+  "agent_structure": {
+    "skill_name": "how-to-solve-it-george-polya",
+    "when_to_use_trigger": [
+      "When facing difficult problems (mathematical or otherwise)",
+      "When you're stuck and don't know how to proceed",
+      "When learning new subjects or concepts",
+      "When teaching others problem-solving skills",
+      "When designing algorithms or solutions",
+      "When debugging complex issues",
+      "When approaching unfamiliar challenges",
+      "When you need systematic approaches to problems",
+      "When you want to improve your problem-solving abilities",
+      "When analyzing why you can't solve something"
+    ],
+    "tools_used": [
+      "Four-step problem-solving framework (understand, plan, carry out, look back)",
+      "Heuristics and problem-solving techniques",
+      "Analogy and related problem recognition",
+      "Decomposition and recombination",
+      "Working backward from the solution",
+      "Specialization and generalization",
+      "Visualizing and diagramming",
+      "Verification and checking techniques",
+      "Auxiliary element introduction",
+      "Reducing to simpler problems"
+    ],
+    "timeline_behavior": {
+      "immediate": "Apply the four steps to understand and plan",
+      "short_term": "Execute the plan and check results",
+      "medium_term": "Reflect on the solution and derive insights",
+      "long_term": "Build a repertoire of problem-solving heuristics",
+      "continuous": "Practice and refine problem-solving abilities"
+    },
+    "how_to_measure_improve": [
+      "Count problems solved successfully",
+      "Track time from understanding to solution",
+      "Measure ability to explain solutions clearly",
+      "Assess recognition of problem patterns",
+      "Count alternative approaches discovered",
+      "Monitor ability to teach problem-solving to others",
+      "Evaluate solutions for elegance and correctness",
+      "Track reduction in getting stuck",
+      "Measure transfer of skills to new domains",
+      "Assess confidence in tackling unfamiliar problems"
+    ],
+    "when_to_stop": [
+      "When the problem is not worth the time investment",
+      "When systematic problem-solving becomes procrastination",
+      "When over-analysis prevents learning from mistakes",
+      "When you're rigidly applying frameworks without thinking",
+      "When you're avoiding creative intuition for systematic approaches",
+      "When the problem has no known solution",
+      "When you're stuck and need to seek help or collaboration",
+      "When you're neglecting other important areas",
+      "When problem-solving becomes a source of anxiety rather than growth"
+    ]
+  },
+  "summary": {
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "From the Preface to the First Edition",
+        "summary": "Introduction to problem-solving as a skill that can be learned and taught.",
+        "part": "Part I: In the Classroom"
+      },
+      {
+        "chapter": 2,
+        "title": "From the Preface to the Seventh Printing",
+        "summary": "Reflections on the reception of the book and its continued relevance.",
+        "part": "Part I: In the Classroom"
+      },
+      {
+        "chapter": 3,
+        "title": "From the Preface to the Eighth Printing",
+        "summary": "Further reflections on the importance of problem-solving in education.",
+        "part": "Part I: In the Classroom"
+      },
+      {
+        "chapter": 4,
+        "title": "Understanding the Problem",
+        "summary": "The first phase: understanding what is being asked and what is given.",
+        "part": "Part II: How to Solve It"
+      },
+      {
+        "chapter": 5,
+        "title": "Devising a Plan",
+        "summary": "The second phase: finding a connection between data and unknown, developing a plan.",
+        "part": "Part II: How to Solve It"
+      },
+      {
+        "chapter": 6,
+        "title": "Carrying Out the Plan",
+        "summary": "The third phase: executing the plan step by step.",
+        "part": "Part II: How to Solve It"
+      },
+      {
+        "chapter": 7,
+        "title": "Looking Back",
+        "summary": "The fourth phase: examining the solution, checking results, and learning from the process.",
+        "part": "Part II: How to Solve It"
+      },
+      {
+        "chapter": 8,
+        "title": "Analogy",
+        "summary": "Using similar problems to find solutions to current problems.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 9,
+        "title": "Auxiliary Elements",
+        "summary": "Introducing new elements or variables to help solve problems.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 10,
+        "title": "Bright Idea",
+        "summary": "The moment of insight when a solution becomes clear.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 11,
+        "title": "Can You Check the Result?",
+        "summary": "Verifying solutions through multiple methods.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 12,
+        "title": "Can You Derive the Result Differently?",
+        "summary": "Finding alternative approaches to confirm understanding.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 13,
+        "title": "Can You Use the Result?",
+        "summary": "Applying the solution to other problems.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 14,
+        "title": "Carrying Out",
+        "summary": "Executing the plan carefully and systematically.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 15,
+        "title": "Condition",
+        "summary": "Understanding the constraints and requirements of the problem.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 16,
+        "title": "Contradictory",
+        "summary": "Identifying when assumptions or statements conflict.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 17,
+        "title": "Corollary",
+        "summary": "Additional truths that follow from the main result.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 18,
+        "title": "Decomposing and Recombining",
+        "summary": "Breaking complex problems into simpler parts.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 19,
+        "title": "Definition",
+        "summary": "Understanding the meaning of terms and concepts.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 20,
+        "title": "Descartes' Rule",
+        "summary": "Dividing each difficulty into as many parts as possible.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 21,
+        "title": "Determination",
+        "summary": "Finding the unknown from the given data.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 22,
+        "title": "Diagnosis",
+        "summary": "Identifying the nature and source of difficulty.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 23,
+        "title": "Did You Use All the Data?",
+        "summary": "Ensuring all information is used appropriately.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 24,
+        "title": "Do You Know a Related Problem?",
+        "summary": "Using known problems as starting points.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 25,
+        "title": "Draw a Figure",
+        "summary": "Visualizing problems geometrically.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 26,
+        "title": "Examination of the Solution",
+        "summary": "Checking and verifying the solution thoroughly.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 27,
+        "title": "Figures",
+        "summary": "Using diagrams and illustrations to understand problems.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 28,
+        "title": "Generalization",
+        "summary": "Extending solutions to broader cases.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 29,
+        "title": "Have You Seen This Problem Before?",
+        "summary": "Recognizing patterns and familiar problem types.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 30,
+        "title": "Here Is a Problem Related to Yours and Solved Before",
+        "summary": "Using solved problems as templates.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 31,
+        "title": "Heuristic",
+        "summary": "The art and science of problem-solving.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 32,
+        "title": "If You Cannot Solve the Proposed Problem",
+        "summary": "Finding related problems or simpler versions.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 33,
+        "title": "Induction and Mathematical Induction",
+        "summary": "Reasoning from specific cases to general principles.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 34,
+        "title": "Inventor's Paradox",
+        "summary": "Sometimes more ambitious problems are easier to solve.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 35,
+        "title": "Is It Possible to Satisfy the Condition?",
+        "summary": "Checking feasibility and constraints.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 36,
+        "title": "Lemma",
+        "summary": "A theorem used to prove other theorems.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 37,
+        "title": "Look at the Unknown",
+        "summary": "Focusing attention on what needs to be found.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 38,
+        "title": "Modern Heuristic",
+        "summary": "Contemporary approaches to problem-solving.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 39,
+        "title": "Notation",
+        "summary": "Choosing appropriate symbols and representations.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 40,
+        "title": "Pappus",
+        "summary": "Ancient methods of analysis and synthesis.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 41,
+        "title": "Pedantry and Mastery",
+        "summary": "The difference between knowing rules and truly understanding.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 42,
+        "title": "Practical Problems",
+        "summary": "Applying mathematical problem-solving to real-world situations.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 43,
+        "title": "Problems to Find, Problems to Prove",
+        "summary": "Different types of problems and their solution approaches.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 44,
+        "title": "Progress and Achievement",
+        "summary": "Measuring advancement in problem-solving skills.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 45,
+        "title": "Puzzles",
+        "summary": "Recreational problems that develop problem-solving ability.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 46,
+        "title": "Reductio ad Absurdum",
+        "summary": "Proof by contradiction.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 47,
+        "title": "Reducing to a Simpler Problem",
+        "summary": "Transforming complex problems into manageable ones.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 48,
+        "title": "Routine Problem",
+        "summary": "Problems that follow standard patterns and procedures.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 49,
+        "title": "Rules of Discovery",
+        "summary": "General principles for finding solutions.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 50,
+        "title": "Rules of Style",
+        "summary": "Guidelines for clear and elegant problem-solving.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 51,
+        "title": "Separate the Various Parts of the Condition",
+        "summary": "Breaking down complex conditions into simpler components.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 52,
+        "title": "Setting Up Equations",
+        "summary": "Translating word problems into mathematical form.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 53,
+        "title": "Signs of Progress",
+        "summary": "Indicators that you're moving toward a solution.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 54,
+        "title": "Specialization",
+        "summary": "Examining specific cases to understand general principles.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 55,
+        "title": "Subconscious Work",
+        "summary": "How the mind continues working on problems unconsciously.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 56,
+        "title": "Symmetry",
+        "summary": "Using symmetry properties to simplify problems.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 57,
+        "title": "Taking the Problem As Solved",
+        "summary": "Working backward from the solution.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 58,
+        "title": "Teaching to Solve Problems",
+        "summary": "How to develop problem-solving skills in others.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 59,
+        "title": "Terms, Old and New",
+        "summary": "Understanding mathematical language and concepts.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 60,
+        "title": "Test by Dimension",
+        "summary": "Checking dimensional consistency in physical problems.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 61,
+        "title": "The Future Mathematician",
+        "summary": "The role of problem-solving in mathematical development.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 62,
+        "title": "The Intelligent Problem-Solver",
+        "summary": "Characteristics of effective problem-solvers.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 63,
+        "title": "The Intelligent Reader",
+        "summary": "How to learn from mathematical texts and problems.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 64,
+        "title": "Variation of the Problem",
+        "summary": "Modifying the problem to gain insight.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 65,
+        "title": "What Is the Unknown?",
+        "summary": "Clarifying what needs to be found or proven.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 66,
+        "title": "Why Proofs?",
+        "summary": "Understanding the purpose and value of mathematical proof.",
+        "part": "Part III: A Dictionary of Heuristic"
+      },
+      {
+        "chapter": 67,
+        "title": "Working Backwards",
+        "summary": "Starting from the goal and working toward the given.",
+        "part": "Part III: A Dictionary of Heuristic"
+      }
+    ]
+  },
+  "core_concepts": [
+    "Understanding the Problem",
+    "Devising a Plan",
+    "Carrying Out the Plan",
+    "Looking Back",
+    "Analogy",
+    "Auxiliary Elements",
+    "Bright Idea",
+    "Can You Check the Result?",
+    "Can You Derive the Result Differently?",
+    "Can You Use the Result?",
+    "Carrying Out",
+    "Condition",
+    "Contradictory",
+    "Corollary",
+    "Decomposing and Recombining",
+    "Definition",
+    "Descartes' Rule",
+    "Determination",
+    "Diagnosis",
+    "Did You Use All the Data?"
+  ],
+  "key_principles": [],
+  "actionable_methods": []
+}

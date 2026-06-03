@@ -1,0 +1,38 @@
+---
+type: concept
+title: Technology as Mental Model
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- technology
+- mental-model
+- minimalism
+related:
+- minimalism
+- attention-budget
+- scatterfocus
+- hyperfocus
+- stillness
+- settings
+- environment
+sources:
+- Technology.md
+confidence: medium
+---
+--
+# Technology as Mental Model
+
+Technology functions as a conceptual tool or principle for understanding and navigating complex situations. Rather than being viewed solely as artifacts or systems, it provides a mental shortcut or framework for making sense of patterns and relationships in the world.^[raw/articles/Technology.md]
+
+This framing connects to existing mental models in the wiki. [[minimalism]] emphasizes stripping away excess to focus on what matters, while technology as a mental model asks us to see technological systems as lenses for pattern recognition. [[attention-budget]] and [[scatterfocus]] relate to how we allocate cognitive resources, and technology as a mental shortcut can either aid or burden that allocation. [[stillness]] provides a counterpoint—intentional disengagement from technology to see more clearly.
+
+## Cross-Source Perspectives
+
+### Cal Newport — Digital Minimalism
+Cal Newport's [[Digital Minimalism - Cal Newport]] advocates for intentional technology use, arguing that deliberate engagement with tools yields better outcomes than passive consumption. This perspective aligns with treating technology as a mental model: the value lies not in the tool itself but in the framework for deciding when and how to use it.^[raw/articles/Technology.md]
+
+### Kevin Kelly — Out of Control
+Kevin Kelly's [[Out of Control - Kevin Kelly]] reframes technology as emergent and decentralized, where control is an illusion and systems self-organize. This systemic view complements the mental model framing by emphasizing that technological environments are complex, adaptive, and often beyond direct management.^[raw/articles/Technology.md]
+
+## Applicability
+This mental model is universal, applicable across domains from personal productivity to organizational strategy. Its confidence rating is moderate (0.7), reflecting that the framework is still forming and may overlap with existing concepts like [[minimalism]], [[settings]], and [[environment]].

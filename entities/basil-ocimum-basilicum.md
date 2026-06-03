@@ -1,0 +1,188 @@
+---
+type: entity
+title: Basil (Ocimum basilicum)
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- herbs
+- fresh
+- basil
+- ingredient
+- spices
+- cooking
+sources:
+- Basil.md
+related:
+- aromatics
+- aromatics-the-holy-trinity
+- herbs-spices
+- italian-cuisine
+- thai-cuisine
+- vietnamese-cuisine
+- mediterranean
+- ingredient-pairings
+- chiffonade
+- heat-sensitivity-of-herbs
+- flavor-preservation-strategies
+- herb-blends
+- aromatic-the-holy-trinity
+- pesto
+- caprese-salad
+---
+--
+# Basil (Ocimum basilicum)
+
+Basil is a versatile fresh herb in the Lamiaceae (mint) family that forms the backbone of many Mediterranean and Southeast Asian cuisines. Its unique combination of sweet, peppery, and anise-like flavors makes it incredibly adaptable.
+
+## Quick Reference
+- **Family**: Lamiaceae (mint family)
+- **Flavor Profile**: Sweet, peppery, with anise undertones, grassy, with citrus hints in some varieties
+- **Primary Cuisines**: Italian, Thai, Vietnamese, Mediterranean
+- **Best Uses**: Pesto, salads, stir-fries, garnish
+- **Storage**: Refrigerate with stems in water
+- **Complements**: Tomatoes, garlic, mozzarella, olive oil, pine nuts, lemon, Parmesan
+- **Avoid**: Heat (cooks quickly), storage near ethylene producers
+
+## Flavor Profile
+
+### Primary Notes
+- **Sweet**: Honey-like sweetness
+- **Peppery**: Mild black pepper heat
+- **Anise**: Subtle licorice undertones
+- **Grassy**: Fresh, green notes
+- **Citrus**: Hint of lemon in some varieties
+
+### Varieties
+
+| Variety | Flavor Profile | Primary Uses | Appearance |
+|---------|----------------|--------------|------------|
+| **Sweet Basil** | Classic sweet, anise | Pesto, Italian cuisine | Large, bright green leaves |
+| **Thai Basil** | Licorice, clove | Thai curries, stir-fries | Smaller, purple-tinged stems |
+| **Holy Basil** (Tulsi) | Clove, peppery | Indian dishes, medicinal | Green or purple, hairy leaves |
+| **Lemon Basil** | Lemon, sweet | Fish, poultry, desserts | Light green, citrus aroma |
+| **Purple Basil** | Sweeter than green | Garnish, vinegar | Dark purple, ruffled leaves |
+
+## Culinary Applications
+
+### Italian Cuisine
+- **Pesto**: Classic sauce with basil, pine nuts, garlic, olive oil, Parmesan
+- **Caprese Salad**: Fresh basil with tomatoes and mozzarella
+- **Pizza**: Fresh or baked (quick to prevent bitterness)
+- **Pasta**: Tossed with fresh basil, garlic, olive oil
+- **Bruschetta**: Tomato and basil topping
+
+### Southeast Asian Cuisine
+- **Thai Cuisine**: Stir-fries, curries, salads (pad Thai)
+- **Vietnamese Cuisine**: Pho garnish, spring rolls, salads
+- **Malaysian**: Laksa, curries, sambals
+
+### Western Cuisine
+- **Garnish**: Whole leaves on soups, pasta, fish
+- **Salads**: Caprese, green salads, tomato salads
+- **Butters**: Basil butter for meats and vegetables
+- **Vinegars**: Basil-infused vinegar
+
+## Growing & Selection
+
+### Growing Tips
+- **Sun**: Full sun (6-8 hours daily)
+- **Soil**: Well-drained, rich in organic matter
+- **Water**: Consistent moisture, avoid wilting
+- **Pruning**: Pinch tips to encourage bushiness
+- **Harvest**: Morning when oils are most concentrated
+- **Pinching**: Remove flowers to keep leaves tender
+
+### Selection Guide
+- **Look for**: Vibrant green color, firm stems, no black spots
+- **Avoid**: Wilted leaves, yellowing, slimy stems
+- **Size**: Large leaves for pesto, small for garnish
+- **Fragrance**: Strong, fresh scent (not musty)
+
+## Storage Methods
+
+### Refrigerator
+Stems in water, loose plastic bag, 3-5 days. Change water daily.
+
+### Freezing
+Chopped in ice cube trays with oil or water, lasts 6 months. Best for soups, sauces, stews.
+
+### Drying
+Air dry or dehydrate (quickly to preserve color), 1-2 weeks. Flavor diminishes significantly.
+
+## Cooking Techniques
+
+### Preparation Methods
+1. **Chiffonade**: Roll leaves, slice thin ribbons
+2. **Torn**: Hand tearing for salads (prevents bruising)
+3. **Whole**: Large leaves for garnish
+4. **Minced**: Fine chop for sauces and mixtures
+5. **Pounded**: In mortar and pestle for pesto
+
+### Heat Sensitivity
+Basil loses color and becomes bitter with prolonged cooking. Add in the last 1-2 minutes of cooking on medium heat. Best for no-heat applications like garnishes and raw dishes. When infusing in olive oil, use warm (not hot) oil. Pesto preparation uses basil with warm (not hot) ingredients to preserve flavor.
+
+### Flavor Preservation
+- Add late in cooking to maintain fresh flavor
+- In pesto, add basil to warm (not hot) ingredients
+- Freezing whole retains flavor better than drying
+
+## Pairing Guide
+
+### Vegetables
+- **Excellent**: Tomatoes, zucchini, eggplant, bell peppers, summer vegetables
+- **Good**: Mushrooms, green beans, corn, asparagus
+- **Avoid**: Root vegetables (overpowering)
+
+### Proteins
+- **Excellent**: Chicken, fish, shellfish, tofu, poultry
+- **Good**: Pork, beef (when balanced)
+- **Avoid**: Very strong flavors (competes with basil)
+
+### Other Ingredients
+- **Perfect**: Tomatoes, garlic, mozzarella, pine nuts, olive oil, lemon, Parmesan
+- **Good**: Olive oil, lemon, Parmesan, nuts
+- **Use Sparingly**: Strong cheeses, vinegar
+
+## Common Mistakes
+
+### Cooking Too Long
+Basil loses color and develops bitterness. Add in the last 1-2 minutes of cooking. Exception: pesto uses basil with warm, not hot, ingredients.
+
+### Using Wilted Basil
+Wilted basil has a musty flavor and poor texture. Always use fresh, vibrant basil. It should snap when bent, not bend.
+
+### Overpowering Dishes
+Basil should enhance, not dominate. Start with small amounts, taste and adjust.
+
+## Seasonal Variations
+
+### Spring
+Tender leaves, mild flavor. Best for salads and raw applications.
+
+### Summer
+Full flavor, robust oils. Suitable for all applications including pesto and cooking.
+
+### Late Summer
+Stronger flavor, may have flowers. Remove flowers for better leaves.
+
+## Health Benefits
+- **Antioxidants**: Rich in flavonoids and phenolic acids
+- **Anti-inflammatory**: Contains eugenol
+- **Vitamins**: Vitamin K, A, C, manganese
+- **Traditional**: Used in Ayurvedic and Chinese medicine
+
+## See Also
+- [[aromatics]]
+- [[aromatics-the-holy-trinity]]
+- [[herbs-spices]]
+- [[herb-blends]]
+- [[chiffonade]]
+- [[heat-sensitivity-of-herbs]]
+- [[flavor-preservation-strategies]]
+- [[ingredient-pairings]]
+- [[pesto]]
+- [[caprese-salad]]
+- [[italian-cuisine]]
+- [[thai-cuisine]]
+- [[vietnamese-cuisine]]
+- [[mediterranean]]
