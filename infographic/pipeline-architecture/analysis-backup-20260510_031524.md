@@ -13,6 +13,8 @@ updated: '2026-05-14'
 ----
 
 
+---
+
 ## Main Topic
 Automated knowledge ingestion pipeline that processes data from multiple sources (Evernote, Pinterest, Obsidian, Apple Notes) into a unified format, enriches with wisdom extraction, imports into GBrain knowledge graph, and enables semantic search.
 

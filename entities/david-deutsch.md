@@ -5,7 +5,7 @@ type: entity
 title: David Deutsch
 created: 2026-04-17
 updated: 2026-04-17
-tags: ["person", "physicist", "philosopher", "author", "philosophy", "science", "epistemology", "physics", "cognitive-science", "philosophy-of-science"]
+tags: ['person', 'physicist', 'philosopher', 'author', 'philosophy', 'science', 'epistemology', 'physics', 'cognitive-science', 'philosophy-of-science']
 related: ["the-beginning-of-infinity
 
 ---

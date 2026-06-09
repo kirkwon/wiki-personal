@@ -13,6 +13,8 @@ updated: '2026-05-14'
 ----
 
 
+---
+
 ## Main Topic
 A comprehensive personal knowledge management ecosystem built around a wiki-based second brain, with automated ingestion pipelines, semantic search via GBrain, and 12 scheduled cron jobs keeping everything in sync.
 
