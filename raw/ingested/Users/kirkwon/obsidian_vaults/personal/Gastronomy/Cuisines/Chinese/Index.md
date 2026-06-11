@@ -159,7 +159,7 @@ Dishes should balance colors:
 
 ## Practice
 
-1. **Master stir-frying**: Learn [[Wok Hei]], control heat
+1. **Master stir-frying**: Learn [[wok-hei]], control heat
 2. **Make dim sum**: Try har gow, siu mai, char siu bao
 3. **Cook regional dishes**: Compare Sichuan vs Cantonese
 4. **Perfect rice**: Master Chinese rice cooking

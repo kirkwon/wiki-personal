@@ -1,0 +1,47 @@
+---
+type: concept
+title: Multi-Factor Portfolios
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- quant
+- factor
+- investing
+- portfolio-construction
+sources:
+- factor-investing.md
+related:
+- factor-investing
+- risk-management
+- smart-beta-etfs
+---
+--
+# Multi-Factor Portfolios
+
+Multi-factor portfolios combine multiple factors to diversify away factor-specific risk. Instead of relying on a single factor like value or momentum, investors blend several factors to achieve smoother, more resilient returns.
+
+## Approaches
+
+- **Screen for multiple factors simultaneously** – e.g., Value AND Momentum AND Quality
+- **Equal-weight factor allocations** – e.g., 30% Value, 25% Momentum, 25% Quality, 20% Size
+
+## Trade-offs
+
+**Pros**: Diversified factor exposure, smoother returns
+**Cons**: More complex, factors may offset each other
+
+## Optimization Methods
+
+- **Equal-Weighted Factors** – Simple, easy to understand and implement
+- **Mean-Variance Optimization** – Maximize return for given risk, requires historical data, can be unstable
+- **Risk Parity** – Equal risk contribution from each factor, better diversification, more complex
+
+## Rebalancing
+
+Frequency varies by factor: monthly for momentum, quarterly for value/quality, annually for size/low volatility. Triggers can be time-based or threshold-based (when factor drifts >10% from target).
+
+## Related Concepts
+
+- [[factor-investing]]
+- [[risk-management]]
+- [[smart-beta-etfs]]

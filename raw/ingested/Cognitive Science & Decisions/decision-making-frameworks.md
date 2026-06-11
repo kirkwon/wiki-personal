@@ -18,8 +18,8 @@ updated: '2026-05-14'
 | Attribute | Value |
 |-----------|-------|
 | **Difficulty** | Intermediate |
-| **Prerequisites** | [[Cognitive Biases Library]] |
-| **Related Concepts** | [[Mental Models]], [[Pre-Mortem Analysis]], [[Bayesian Thinking]] |
+| **Prerequisites** | [[cognitive-biases-library]] |
+| **Related Concepts** | [[mental-models]], [[pre-mortem-analysis]], [[bayesian-thinking]] |
 | **Practice** | Apply to daily decisions |
 
 ## Overview
@@ -335,10 +335,10 @@ Before finalizing any important decision:
 
 ## Related Concepts
 
-- [[Cognitive Biases Library]] - What can go wrong
-- [[Mental Models]] - Thinking tools
-- [[Pre-Mortem Analysis]] - Planning for failure
-- [[Bayesian Thinking]] - Updating beliefs
+- [[cognitive-biases-library]] - What can go wrong
+- [[mental-models]] - Thinking tools
+- [[pre-mortem-analysis]] - Planning for failure
+- [[bayesian-thinking]] - Updating beliefs
 
 ## Further Reading
 

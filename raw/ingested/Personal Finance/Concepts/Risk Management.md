@@ -16,11 +16,11 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Personal Clients]]
+### Field**: [[personal-clients]]
 ### Type**: Investment Strategy
 ### Purpose**: Manage portfolio risk while maximizing returns
 ### Key Principles**: Diversification, position sizing, hedging
-### Related Concepts**: [[Retirement Planning]], [[Options Trading]], [[Alternative Investments]]
+### Related Concepts**: [[retirement-planning]], [[options-trading]], [[alternative-investments]]
 
 
 
@@ -304,7 +304,7 @@ Example: $100k × 2% = $2k max position
 - Sleep problems from volatility
 
 ## See Also
-[[Retirement Planning]] | [[Options Trading]] | [[Alternative Investments]] | [[Diversification]]
+[[retirement-planning]] | [[options-trading]] | [[alternative-investments]] | [[diversification]]
 
 ---
 *Created: 2026-04-20*

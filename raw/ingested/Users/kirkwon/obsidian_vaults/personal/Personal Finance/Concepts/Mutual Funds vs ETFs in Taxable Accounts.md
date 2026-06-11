@@ -37,7 +37,7 @@ status: complete
 ### Type**: Investment Vehicle Comparison
 ### Purpose**: Understand tax efficiency differences between mutual funds and ETFs
 ### Key Concepts**: Capital gains distributions, in-kind redemptions, turnover, index changes
-### Related Concepts**: [[Tax Optimization]], [[Retirement Planning]], [[Alternative Investments]]
+### Related Concepts**: [[tax-optimization]], [[retirement-planning]], [[alternative-investments]]
 
 ## Core Difference: Structure and Tax Efficiency
 
@@ -241,7 +241,7 @@ When indices rebalance (add/remove stocks), funds tracking those indices must tr
 - **Examples**: Fidelity, Charles Schwab, E*TRADE, Robinhood (limited)
 
 ## See Also
-[[Tax Optimization]] | [[Index Investing]] | [[Capital Gains]] | [[Tax-Loss Harvesting]] | [[Expense Ratios]]
+[[tax-optimization]] | [[index-investing]] | [[capital-gains]] | [[tax-loss-harvesting]] | [[expense-ratios]]
 
 ---
 *Created: 2026-04-23*

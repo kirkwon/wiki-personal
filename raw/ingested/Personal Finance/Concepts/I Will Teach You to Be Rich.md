@@ -17,11 +17,11 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Personal Finance]]
+### Field**: [[personal-finance]]
 ### Type**: Six-Week Action Program
 - **Purpose:** Practical, automated personal finance system
 - **Key Principles:** Automation, conscious spending, guilt-free spending
-- **Related Concepts:** [[The Index Card Rules]], [[The Psychology of Money]], [[The Algebra of Wealth]]
+- **Related Concepts:** [[the-index-card-rules]], [[the-psychology-of-money]], [[the-algebra-of-wealth]]
 
 
 
@@ -615,5 +615,5 @@ Create spreadsheet with:
 10. **Live your life** - Money is a tool, not the goal. Spend on what matters to you.
 
 ## See Also
-[[The Index Card Rules]] | [[The Psychology of Money]] | [[The Algebra of Wealth]] | [[Risk Management]]
+[[the-index-card-rules]] | [[the-psychology-of-money]] | [[the-algebra-of-wealth]] | [[risk-management]]
 

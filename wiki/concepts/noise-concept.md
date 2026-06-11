@@ -1,0 +1,54 @@
+---
+type: concept
+title: Noise in Judgment
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- cognitive-science
+- decision-making
+- psychology
+- behavioral-economics
+sources:
+- Noise_ A Flaw in Human Judgment - Daniel Kahneman.md
+related:
+- noise-vs-bias-distinction
+- measuring-judgment-noise
+- decision-quality-vs-outcome-quality
+- cognitive-biases-library
+- systematic-decision-making
+---
+--
+# Noise in Judgment
+
+Noise is the unwanted variability and inconsistency in human judgments — the degree to which different decision-makers arrive at different conclusions when facing similar situations, or the same decision-maker is inconsistent over time.
+
+## Definition
+
+Unlike bias, which represents a systematic deviation from accuracy, noise captures random fluctuations in judgment. Two judges might assess the same case very differently not because one is systematically wrong, but because of irrelevant factors — mood, time of day, anchoring to different reference points, or personal heuristics.
+
+## Why It Matters
+
+Noise is pervasive and costly. In fields like medicine, inconsistent diagnoses lead to misallocated treatments. In criminal justice, variable sentencing undermines fairness. In finance, judgment variability among investors contributes to market inefficiency. These costs are often invisible because people assume their own judgment is reliable.
+
+## Measuring Noise
+
+Noise can be quantified statistically by having multiple decision-makers evaluate the same cases. The variance in their judgments reveals the magnitude of noise. This approach has been applied in studies of medical diagnosis, legal sentencing, and investment analysis.
+
+## Reducing Noise
+
+Strategies include:
+- **Structured decision processes** that constrain discretionary judgment
+- **Calibration exercises** where decision-makers practice consistency
+- **Organizational culture** that promotes collaborative decision-making over competitive individual judgment
+- **Decision audits** that systematically compare judgments across time and people
+
+## Connection to Other Concepts
+
+Noise is distinct from [[Bias]] but equally damaging to decision quality. It connects to [[decision-quality-vs-outcome-quality]] because high-quality decisions require both accuracy and consistency. Related to [[systematic-decision-making]] and [[decision-tracking]] as tools for noise reduction.
+
+## See Also
+
+- [[noise-vs-bias-distinction]]
+- [[measuring-judgment-noise]]
+- [[cognitive-biases-library]]
+- [[thinking-fast-and-slow---daniel-kahneman]]

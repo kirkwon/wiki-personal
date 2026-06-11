@@ -18,8 +18,8 @@ updated: '2026-05-14'
 | Attribute | Value |
 |-----------|-------|
 | **Difficulty** | Advanced |
-| **Prerequisites** | [[Photography Fundamentals]], [[Composition Techniques]] |
-| **Related Concepts** | [[San Francisco City Guide]], [[Sunset District]] |
+| **Prerequisites** | [[photography-fundamentals]], [[composition-techniques]] |
+| **Related Concepts** | [[san-francisco-city-guide]], [[sunset-district]] |
 | **Practice** | Daily street walks recommended |
 
 ## Overview
@@ -258,7 +258,7 @@ Street photography is candid photography of public life. It captures unplanned, 
 - **SoMa**: Tech, urban grit
 - **Sunset District**: Fog, beaches, neighborhoods
 
-See [[Sunset District]], [[Ocean Beach]] for specific SF neighborhood guides.
+See [[sunset-district]], [[ocean-beach]] for specific SF neighborhood guides.
 
 ## Processing Street Photos
 
@@ -285,7 +285,7 @@ See [[Sunset District]], [[Ocean Beach]] for specific SF neighborhood guides.
 - You want to emphasize mood
 - Color distracts from subject
 
-See [[Post-Processing]] for more on editing.
+See [[post-processing]] for more on editing.
 
 ## Common Mistakes
 
@@ -357,10 +357,10 @@ See [[Post-Processing]] for more on editing.
 
 ## Related Concepts
 
-- [[Photography Fundamentals]] - Camera basics
-- [[Composition Techniques]] - How to compose street photos
-- [[San Francisco City Guide]] - SF locations for street photography
-- [[Post-Processing]] - Editing street photos
+- [[photography-fundamentals]] - Camera basics
+- [[composition-techniques]] - How to compose street photos
+- [[san-francisco-city-guide]] - SF locations for street photography
+- [[post-processing]] - Editing street photos
 
 ## Further Reading
 

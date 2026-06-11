@@ -18,11 +18,11 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Personal Finance]]
+### Field**: [[personal-finance]]
 ### Type**: Financial Framework
 ### Purpose**: Simple, actionable personal finance rules
 ### Key Principles**: Simplicity, automation, low costs
-### Related Concepts**: [[The Psychology of Money]], [[The Algebra of Wealth]], [[I Will Teach You to Be Rich]]
+### Related Concepts**: [[the-psychology-of-money]], [[the-algebra-of-wealth]], [[i-will-teach-you-to-be-rich]]
 
 
 
@@ -323,5 +323,5 @@ The Index Card approach demonstrates that all the financial advice you need can 
 8. **Boring is beautiful** - Reliability beats excitement
 
 ## See Also
-[[The Psychology of Money]] | [[The Algebra of Wealth]] | [[I Will Teach You to Be Rich]] | [[Risk Management]]
+[[the-psychology-of-money]] | [[the-algebra-of-wealth]] | [[i-will-teach-you-to-be-rich]] | [[risk-management]]
 

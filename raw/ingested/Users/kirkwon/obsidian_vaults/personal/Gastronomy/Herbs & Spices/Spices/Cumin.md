@@ -41,7 +41,7 @@ seasonality:
 
 ## Quick Reference
 
-### Field**: [[Herbs & Spices]]
+### Field**: [[herbs-spices]]
 ### Type**: Whole/Ground Spice
 ### Family**: Apiaceae (carrot family)
 ### Flavor Profile**: Earthy, nutty, warming, slightly bitter

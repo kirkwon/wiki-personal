@@ -31,7 +31,7 @@ created: 2025-04-15
 |-----------|-------|
 | **Difficulty** | Beginner |
 | **Prerequisites** | None |
-| **Related Concepts** | [[Composition Techniques]], [[Street Photography]], [[Post-Processing]] |
+| **Related Concepts** | [[composition-techniques]], [[street-photography]], [[post-processing]] |
 | **Practice** | Daily shooting recommended |
 
 ## Overview
@@ -225,7 +225,7 @@ How the camera measures light:
 
 ## Composition Basics
 
-While composition is covered in [[Composition Techniques]], fundamentals include:
+While composition is covered in [[composition-techniques]], fundamentals include:
 
 - **Rule of Thirds**: Divide frame into 3x3 grid, place subject at intersections
 - **Leading Lines**: Use lines to guide viewer's eye
@@ -243,7 +243,7 @@ Basic post-processing includes:
 - **White balance**: Correct color cast
 - **Clarity/Dehaze**: Enhance details
 
-See [[Post-Processing]] for more details.
+See [[post-processing]] for more details.
 
 ## Common Mistakes
 
@@ -273,10 +273,10 @@ See [[Post-Processing]] for more details.
 
 ## Related Concepts
 
-- [[Composition Techniques]] - How to compose great photos
-- [[Street Photography]] - Capturing urban life
-- [[Post-Processing]] - Editing your photos
-- [[Golden Hour]] - Best lighting conditions
+- [[composition-techniques]] - How to compose great photos
+- [[street-photography]] - Capturing urban life
+- [[post-processing]] - Editing your photos
+- [[golden-hour]] - Best lighting conditions
 
 ## Further Reading
 

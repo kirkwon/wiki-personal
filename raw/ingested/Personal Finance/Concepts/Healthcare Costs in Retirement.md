@@ -18,7 +18,7 @@ updated: '2026-05-14'
 ### Type**: Retirement Expense Planning
 ### Purpose**: Plan for healthcare costs in retirement
 ### Key Concepts**: Medicare, IRMAA, long-term care, HSA strategies
-### Related Concepts**: [[Tax Torpedoes]], [[Required Minimum Distributions]], [[Retirement Planning]]
+### Related Concepts**: [[tax-torpedoes]], [[required-minimum-distributions]], [[retirement-planning]]
 
 ## The Healthcare Cost Challenge
 
@@ -463,7 +463,7 @@ Adjusted total: $521,060 × 2.65 = $1,380,809
 - Reassess long-term care needs periodically
 
 ## See Also
-[[Tax Torpedoes]] | [[Required Minimum Distributions]] | [[Retirement Planning]] | [[Personal Finance]] | [[Health Savings Account]]
+[[tax-torpedoes]] | [[required-minimum-distributions]] | [[retirement-planning]] | [[personal-finance]] | [[health-savings-account]]
 
 ---
 *Created: 2026-04-23*

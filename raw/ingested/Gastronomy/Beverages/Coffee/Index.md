@@ -77,10 +77,10 @@ Coffee is a complex and diverse beverage with thousands of flavor variations bas
 - [[Coffee Processing/Roasting]] - Heat development and flavor creation techniques
 
 ### Equipment & Tools
-- [[Coffee Grinders]] - Burr vs blade grinding
-- [[Coffee Brewers]] - From manual to automatic
-- [[Coffee Accessories]] - Mugs, scales, thermometers
-- [[Coffee Water Quality]] - Perfect brewing water
+- [[coffee-grinders]] - Burr vs blade grinding
+- [[coffee-brewers]] - From manual to automatic
+- [[coffee-accessories]] - Mugs, scales, thermometers
+- [[coffee-water-quality]] - Perfect brewing water
 
 ### Coffee Culture & Variations
 - [[Coffee Variations/Cappuccino]] - Classic Italian layered drink
@@ -235,7 +235,7 @@ Result: Concentrated, intense base
 ## Related Content
 - [[Gastronomy/Concepts/Maillard Reaction]] - Browning and flavor development
 - [[Gastronomy/Beverages/Tea/Index]] - Comprehensive tea guide
-- [[Herbs & Spices]] - Flavor pairing and spice notes
+- [[herbs-spices]] - Flavor pairing and spice notes
 
 ---
 *Coffee index created: 2026-04-21 | Next: Create coffee bean pages*

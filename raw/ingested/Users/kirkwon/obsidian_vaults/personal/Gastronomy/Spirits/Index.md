@@ -38,10 +38,10 @@ This domain covers distilled spirits, with emphasis on whisky appreciation inclu
 
 | Category | Description | Key Entries |
 |----------|-------------|-------------|
-| [[Whisky Tasting Notes]] | Personal tasting notes and reviews | Your collection |
-| [[Bourbon]] | American whiskey | Kentucky, Tennessee styles |
-| [[Scotch]] | Scottish whisky | Single malt, blended regions |
-| [[World Whiskies]] | Japanese, Irish, Canadian | Global varieties |
+| [[whisky-tasting-notes]] | Personal tasting notes and reviews | Your collection |
+| [[bourbon]] | American whiskey | Kentucky, Tennessee styles |
+| [[scotch]] | Scottish whisky | Single malt, blended regions |
+| [[world-whiskies]] | Japanese, Irish, Canadian | Global varieties |
 
 ## Your Tasting Collection
 

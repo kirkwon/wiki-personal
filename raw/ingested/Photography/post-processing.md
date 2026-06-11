@@ -18,8 +18,8 @@ updated: '2026-05-14'
 | Attribute | Value |
 |-----------|-------|
 | **Difficulty** | Intermediate |
-| **Prerequisites** | [[Photography Fundamentals]], [[Composition Techniques]] |
-| **Related Concepts** | [[Street Photography]], [[Golden Hour]] |
+| **Prerequisites** | [[photography-fundamentals]], [[composition-techniques]] |
+| **Related Concepts** | [[street-photography]], [[golden-hour]] |
 | **Practice** | Practice editing every shoot |
 
 ## Overview
@@ -381,9 +381,9 @@ Most software has automatic lens correction (detect lens, fix).
 
 ## Related Concepts
 
-- [[Photography Fundamentals]] - Camera basics
-- [[Composition Techniques]] - Crop for composition
-- [[Street Photography]] - Editing street photos
+- [[photography-fundamentals]] - Camera basics
+- [[composition-techniques]] - Crop for composition
+- [[street-photography]] - Editing street photos
 
 ## Further Reading
 

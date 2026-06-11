@@ -1,0 +1,36 @@
+---
+type: concept
+title: Fundamental Theorem of Systems
+created: 2026-04-17
+updated: 2026-04-17
+tags:
+- mental-models
+- systems-thinking
+sources:
+- The Systems Bible - John Gall.md
+related:
+- the-systems-bible-john-gall
+- gall-s-law
+- unintended-consequence-analysis
+- system-replacement-vs-repair
+---
+-
+# Fundamental Theorem of Systems
+
+The Fundamental Theorem of Systems, as presented by John Gall in *The Systems Bible*, states: **"New systems generate new problems."**
+
+## Core Idea
+Every time you create or modify a system, you inevitably introduce new problems. This is not a flaw to be eliminated but a fundamental property of how systems behave. The theorem applies to software, organizations, processes, policies, and any human-designed system.
+
+## Implications
+- System changes always have side effects
+- Unintended consequences are the norm, not the exception
+- The success of a system change should be measured not by the absence of problems but by whether new problems are manageable
+- Monitoring for emergent problems is a continuous activity, not a one-time check
+
+## Connection to Other Concepts
+This theorem connects to [[unintended-consequence-analysis]] and relates to [[decision-quality-vs-outcome-quality]]—a well-designed decision process should anticipate that outcomes will differ from expectations. It also reinforces [[Gall's Law]], since evolving from simple systems reduces the surface area for new problems.
+
+## Practical Application
+Before implementing any system change, ask: "What new problems will this create?" This question alone is one of the most valuable applications of systems thinking.
+---

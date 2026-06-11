@@ -1,0 +1,47 @@
+---
+type: concept
+title: Topics
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+confidence: medium
+sources:
+- Topics.md
+related:
+- solutions
+- group
+- stillness
+- thinking-mental-model
+- ideas-mental-model
+- effort
+- planning
+- overview
+---
+-
+# Topics
+
+Topics is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.^[raw/articles/Topics.md]
+
+It functions as a universal mental model applicable across domains, serving as a cognitive shortcut for pattern recognition and sense-making.^[raw/articles/Topics.md]
+
+## Key Points
+
+- **Definition**: A mental shortcut or framework for navigating complexity through pattern and relationship recognition.^[raw/articles/Topics.md]
+- **Applicability**: Universal across all domains and situations.^[raw/articles/Topics.md]
+- **Confidence**: 0.7 (moderate), reflecting limited elaboration in source material.^[raw/articles/Topics.md]
+
+## Connections
+
+Topics connects to existing mental models in the wiki including [[Solutions]], [[group]], [[stillness]], [[thinking-mental-model]], [[ideas-mental-model]], and [[effort]]. Like other mental models, it serves as a navigational principle for making sense of complex situations.
+
+## Related Source
+
+The model is referenced in Greg McKeown's *Multipliers*, linking it to leadership and organizational intelligence literature.^[raw/articles/Topics.md]
+
+## Open Questions
+
+- Limited elaboration in source material; the model may benefit from further exploration and examples across domains.
+- Confidence remains moderate (0.7) pending deeper investigation.
+---

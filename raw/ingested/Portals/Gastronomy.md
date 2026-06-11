@@ -20,39 +20,39 @@ updated: '2026-05-14'
 ## Quick Navigation
 
 ### Core Areas
-- [[Wok Cooking]] - High-heat stir-fry techniques
-- [[Salmon Collars]] - Premium preparation methods
-- [[Flavor Theory]] - Understanding taste combinations
-- [[Ingredient Pairings]] - What works with what
+- [[wok-cooking]] - High-heat stir-fry techniques
+- [[salmon-collars]] - Premium preparation methods
+- [[flavor-theory]] - Understanding taste combinations
+- [[ingredient-pairings]] - What works with what
 
 ### Signature Dishes
-- [[Recipe: Perfect Stir-Fry]]
-- [[Recipe: Glazed Salmon Collars]]
-- [[Recipe: Umami Building Blocks]]
+- [[recipe-perfect-stir-fry]]
+- [[recipe-glazed-salmon-collars]]
+- [[recipe-umami-building-blocks]]
 
 ### Techniques
-- [[Wok Hei]] - Breath of the wok
-- [[Maillard Reaction]] - Browning for flavor
-- [[Resting Meat]] - Juiciness maximization
+- [[wok-hei]] - Breath of the wok
+- [[maillard-reaction]] - Browning for flavor
+- [[resting-meat]] - Juiciness maximization
 
 ### Learning Resources
-- [[Resource:Salt Fat Acid Heat]]
-- [[Resource:The Flavor Bible]]
-- [[Resource:Wok Cooking Masterclass]]
+- [[resource-salt-fat-acid-heat]]
+- [[resource-the-flavor-bible]]
+- [[resource-wok-cooking-masterclass]]
 
 ## Featured Ingredients
-- [[Salmon]] - Cuts, preparation, cooking methods
-- [[Aromatics]] - Ginger, garlic, scallion mastery
-- [[Seasonings]] - Soy sauce, oyster sauce, sesame oil
+- [[salmon]] - Cuts, preparation, cooking methods
+- [[aromatics]] - Ginger, garlic, scallion mastery
+- [[seasonings]] - Soy sauce, oyster sauce, sesame oil
 
 ## Categories
-- [[Category:Cooking Techniques]]
-- [[Category:Recipes]]
-- [[Category:Ingredients]]
-- [[Category:Flavor Profiles]]
+- [[category-cooking-techniques]]
+- [[category-recipes]]
+- [[category-ingredients]]
+- [[category-flavor-profiles]]
 
 ### Explore More
-[[Portal:Local Interests]] | [[Index]]
+[[portal-local-interests]] | [[index]]
 
 ---
 *Portal page • Last updated: 2026-04-20*

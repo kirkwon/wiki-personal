@@ -37,7 +37,7 @@ This domain covers topics related to music theory & jazz.
 
 ## Related Domains
 
-- [[Quant Strategy]] - Patterns and mathematics in music
-- [[Cognitive Science & Decisions]] - Musical perception and decision-making
+- [[quant-strategy]] - Patterns and mathematics in music
+- [[cognitive-science-decisions]] - Musical perception and decision-making
 
 ---

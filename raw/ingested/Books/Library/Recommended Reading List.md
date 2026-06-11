@@ -99,24 +99,24 @@ This reading list was extracted from Apple Notes and represents a curated collec
 ## Learning Path
 
 ### Phase 1: Foundations (Decision-Making)
-1. [[Predictably Irrational]] - Dan Ariely - Understanding behavioral economics
-2. [[The Art of Thinking Clearly]] - Rolf Dobelli - Cognitive bias primer
-3. [[Super Thinking]] - Gabriel Weinberg - Mental models
+1. [[predictably-irrational]] - Dan Ariely - Understanding behavioral economics
+2. [[the-art-of-thinking-clearly]] - Rolf Dobelli - Cognitive bias primer
+3. [[super-thinking]] - Gabriel Weinberg - Mental models
 
 ### Phase 2: Systems (Complexity Thinking)
-1. [[The Systems Bible]] - John Gall - System dynamics
-2. [[Out of Control]] - Kevin Kelly - Emergent behavior
-3. [[The Model Thinker]] - Scott E. Page - Multi-model thinking
+1. [[the-systems-bible]] - John Gall - System dynamics
+2. [[out-of-control]] - Kevin Kelly - Emergent behavior
+3. [[the-model-thinker]] - Scott E. Page - Multi-model thinking
 
 ### Phase 3: Wisdom (Philosophy & Resilience)
-1. [[Meditations]] - Marcus Aurelius - Stoic philosophy
-2. [[Man's Search for Meaning]] - Viktor Frankl - Existential psychology
-3. [[The Art of War]] - Sun Tzu - Strategy and antifragility
+1. [[meditations]] - Marcus Aurelius - Stoic philosophy
+2. [[man-s-search-for-meaning]] - Viktor Frankl - Existential psychology
+3. [[the-art-of-war]] - Sun Tzu - Strategy and antifragility
 
 ### Phase 4: Application (Productivity & Business)
-1. [[Indistractable]] - Nir Eyal - Focus mastery
-2. [[The Lean Startup]] - Eric Ries - Business strategy
-3. [[The Five Dysfunctions of a Team]] - Patrick Lencioni - Leadership
+1. [[indistractable]] - Nir Eyal - Focus mastery
+2. [[the-lean-startup]] - Eric Ries - Business strategy
+3. [[the-five-dysfunctions-of-a-team]] - Patrick Lencioni - Leadership
 
 ## Individual Book Entries
 
@@ -166,7 +166,7 @@ GROUP BY category
 
 ## See Also
 
-- [[Index]] - Personal vault index
+- [[index]] - Personal vault index
 - [[Gastronomy/Index]] - Other interests
 - [[Cognitive/Index]] - Mental models and biases
 

@@ -35,7 +35,7 @@ status: complete
 ### Type**: Retirement Tax Planning
 ### Purpose**: Understand RMD rules and strategies
 ### Key Concepts**: RMD calculation, penalty avoidance, strategic withdrawals
-### Related Concepts**: [[Tax Torpedoes]], [[Retirement Planning]]
+### Related Concepts**: [[tax-torpedoes]], [[retirement-planning]]
 
 ## What Are RMDs?
 
@@ -263,7 +263,7 @@ RMD = Account Balance ÷ Distribution Period
 - Legacy review
 
 ## See Also
-[[Retirement Planning]] | [[Tax Torpedoes]] | [[Personal Finance]] | [[Social Security]]
+[[retirement-planning]] | [[tax-torpedoes]] | [[personal-finance]] | [[social-security]]
 
 ---
 *Created: 2026-04-23*

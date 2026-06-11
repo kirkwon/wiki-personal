@@ -205,11 +205,11 @@ Miles Davis was a groundbreaking jazz trumpeter, bandleader, and composer who co
 
 ## Related Concepts
 
-- [[Jazz Harmony]] - Understanding Miles's harmonic choices
-- [[Modal Jazz]] - The style he pioneered
-- [[Jazz Improvisation]] - How Miles approached soloing
-- [[Charlie Parker]] - Miles's bebop mentor
-- [[John Coltrane]] - Miles's influential saxophonist
+- [[jazz-harmony]] - Understanding Miles's harmonic choices
+- [[modal-jazz]] - The style he pioneered
+- [[jazz-improvisation]] - How Miles approached soloing
+- [[charlie-parker]] - Miles's bebop mentor
+- [[john-coltrane]] - Miles's influential saxophonist
 
 ## Further Reading
 

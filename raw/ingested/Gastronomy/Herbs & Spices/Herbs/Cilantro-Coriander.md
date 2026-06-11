@@ -16,7 +16,7 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Herbs & Spices]]
+### Field**: [[herbs-spices]]
 ### Type**: Fresh Herb
 ### Family**: Apiaceae (carrot family)
 ### Flavor Profile**: Citrusy, bright, slightly soapy (for some)

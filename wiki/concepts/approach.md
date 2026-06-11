@@ -1,0 +1,24 @@
+---
+type: concept
+title: Approach
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Approach.md
+related:
+- planning
+- thinking-mental-model
+- solutions
+- reality-mental-model
+---
+--
+# Approach
+
+Approach is a universal mental model functioning as a conceptual tool or principle for understanding and navigating complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.^[raw/articles/Approach.md]
+
+The model is applicable across all domains and is described as a meta-framework rather than a specific technique. It sits at a very high level of abstraction, serving as a lens through which to analyze complexity and recognize underlying structures.^[raw/articles/Approach.md]
+
+This concept connects to other mental models in the wiki, including [[planning]], [[thinking-mental-model]], [[Solutions]], and [[reality-mental-model]], which similarly serve as conceptual tools for pattern recognition and sense-making in complex situations.

@@ -16,12 +16,12 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Gastronomy]]
+### Field**: [[gastronomy]]
 ### Type**: Ingredient Group
 ### Purpose**: Base flavors for cooking
 ### Also Known As**: The Holy Trinity, Aromatics
 ### Key Elements**: Ginger, Garlic, Scallion (Chinese)
-### Related Concepts**: [[Wok Hei]], [[Stir-Fry]], [[Flavor Building]]
+### Related Concepts**: [[wok-hei]], [[stir-fry]], [[flavor-building]]
 
 
 
@@ -185,7 +185,7 @@ Aromatics are vegetables and herbs cooked at the beginning of a dish to build it
 - **Revive**: Soak in ice water 15 minutes
 
 ## See Also
-[[Wok Hei]] | [[Stir-Fry Technique]] | [[Marinades]] | [[Chinese Cuisine]]
+[[wok-hei]] | [[stir-fry-technique]] | [[marinades]] | [[chinese-cuisine]]
 ---
 
 ---

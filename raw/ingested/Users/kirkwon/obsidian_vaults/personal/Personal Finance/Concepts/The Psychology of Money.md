@@ -20,8 +20,8 @@ created: 2026-04-22
 modified: 2026-04-22
 tags: [personal-finance, psychology, wealth, mindset, behavior]
 related:
-  - [[Risk Management]]
-  - [[Retirement Planning]]
+  - [[risk-management]]
+  - [[retirement-planning]]
 status: complete
 ---
 
@@ -33,11 +33,11 @@ status: complete
 
 ## Quick Reference
 
-### Field**: [[Personal Finance]]
+### Field**: [[personal-finance]]
 ### Type**: Behavioral Finance
 ### Purpose**: Understanding psychological factors in financial decisions
 ### Key Principles**: Mental models, behavioral biases, time horizons
-### Related Concepts**: [[Risk Management]], [[Retirement Planning]], [[Investment Strategy]]
+### Related Concepts**: [[risk-management]], [[retirement-planning]], [[investment-strategy]]
 
 
 
@@ -334,5 +334,5 @@ The psychology of money examines how personal history, ego, and worldview influe
 8. **Prioritize freedom** - Money's greatest value is control over your time
 
 ## See Also
-[[Risk Management]] | [[Retirement Planning]] | [[The Index Card Rules]] | [[The Algebra of Wealth]]
+[[risk-management]] | [[retirement-planning]] | [[the-index-card-rules]] | [[the-algebra-of-wealth]]
 

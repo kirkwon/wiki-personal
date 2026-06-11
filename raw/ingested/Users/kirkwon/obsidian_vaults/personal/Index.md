@@ -38,14 +38,14 @@ tags:
 
 | Portal | Description | Topics |
 |--------|-------------|--------|
-| [[Portal:Gastronomy]] | Cooking techniques, recipes, flavor theory | Wok cooking, salmon collars, ingredients |
-| [[Portal:Personal Clients]] | Client projects and notes | Work tracking, deliverables |
-| [[Portal:Local Interests]] | Bay area and personal interests | Local businesses, activities |
-| [[Music Theory & Jazz]] | Music theory, jazz history, improvisation | Miles Davis, jazz harmony, scales |
-| [[Quant Strategy]] | Factor investing, momentum, systematic trading | Factor analysis, algorithmic trading |
-| [[Cognitive Science & Decisions]] | Decision-making frameworks, cognitive biases | Mental models, pre-mortem analysis |
-| [[Local San Francisco]] | SF neighborhoods, restaurants, attractions | Sunset District, Ocean Beach, local guides |
-| [[Photography]] | Camera basics, composition, street photography | Fundamentals, editing, lighting |
+| [[portal-gastronomy]] | Cooking techniques, recipes, flavor theory | Wok cooking, salmon collars, ingredients |
+| [[portal-personal-clients]] | Client projects and notes | Work tracking, deliverables |
+| [[portal-local-interests]] | Bay area and personal interests | Local businesses, activities |
+| [[music-theory-jazz]] | Music theory, jazz history, improvisation | Miles Davis, jazz harmony, scales |
+| [[quant-strategy]] | Factor investing, momentum, systematic trading | Factor analysis, algorithmic trading |
+| [[cognitive-science-decisions]] | Decision-making frameworks, cognitive biases | Mental models, pre-mortem analysis |
+| [[local-san-francisco]] | SF neighborhoods, restaurants, attractions | Sunset District, Ocean Beach, local guides |
+| [[photography]] | Camera basics, composition, street photography | Fundamentals, editing, lighting |
 
 ---
 
@@ -100,25 +100,25 @@ tags:
 
 ## 🏷️ Categories
 
-- [[Category:Cooking Techniques]]
-- [[Category:Recipes]]
-- [[Category:Ingredients]]
-- [[Category:Flavor Profiles]]
-- [[Category:Client Projects]]
-- [[Category:Local Businesses]]
-- [[Category:Music Theory]]
-- [[Category:Jazz Theory]]
-- [[Category:Jazz Artists]]
-- [[Category:Factor Investing]]
-- [[Category:Momentum]]
-- [[Category:Cognitive Biases]]
-- [[Category:Decision-Making]]
-- [[Category:Neighborhoods]]
-- [[Category:Beaches]]
-- [[Category:Photography]]
-- [[Category:Composition]]
-- [[Category:Street Photography]]
-- [[Category:Lighting]]
+- [[category-cooking-techniques]]
+- [[category-recipes]]
+- [[category-ingredients]]
+- [[category-flavor-profiles]]
+- [[category-client-projects]]
+- [[category-local-businesses]]
+- [[category-music-theory]]
+- [[category-jazz-theory]]
+- [[category-jazz-artists]]
+- [[category-factor-investing]]
+- [[category-momentum]]
+- [[category-cognitive-biases]]
+- [[category-decision-making]]
+- [[category-neighborhoods]]
+- [[category-beaches]]
+- [[category-photography]]
+- [[category-composition]]
+- [[category-street-photography]]
+- [[category-lighting]]
 
 ---
 
@@ -134,7 +134,7 @@ tags:
 
 ## 📥 Inbox
 
-[[Inbox]] - Quick capture zone for unstructured notes
+[[inbox]] - Quick capture zone for unstructured notes
 
 ---
 

@@ -40,7 +40,7 @@ seasonality:
 
 ## Quick Reference
 
-### Field**: [[Herbs & Spices]]
+### Field**: [[herbs-spices]]
 ### Type**: Fresh/Dried Herb
 ### Family**: Lamiaceae (mint family)
 ### Flavor Profile**: Piney, woodsy, strong, camphoraceous

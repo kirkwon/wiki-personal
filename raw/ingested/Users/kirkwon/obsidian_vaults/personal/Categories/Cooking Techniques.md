@@ -26,27 +26,27 @@ tags:
 Cooking techniques are the methods and processes used to transform ingredients into finished dishes. Mastery of techniques allows for creativity and improvisation in the kitchen.
 
 ## Subcategories
-- [[Category:Heat-Based Techniques]]
-- [[Category:Prep Techniques]]
-- [[Category:Seasoning Methods]]
+- [[category-heat-based-techniques]]
+- [[category-prep-techniques]]
+- [[category-seasoning-methods]]
 
 ## Key Techniques
-- [[Wok Hei]] - Breath of the wok (high-heat stir-fry)
-- [[Searing]] - Maillard reaction for flavor development
-- [[Steaming]] - Gentle, moisture-retaining cooking
-- [[Braising]] - Combination cooking for tough cuts
+- [[wok-hei]] - Breath of the wok (high-heat stir-fry)
+- [[searing]] - Maillard reaction for flavor development
+- [[steaming]] - Gentle, moisture-retaining cooking
+- [[braising]] - Combination cooking for tough cuts
 
 ## Related Concepts
-- [[Maillard Reaction]]
-- [[Caramelization]]
-- [[Protein Denaturation]]
+- [[maillard-reaction]]
+- [[caramelization]]
+- [[protein-denaturation]]
 
 ## Resources
-- [[Resource:Salt Fat Acid Heat]]
-- [[Resource:Wok Cooking Masterclass]]
+- [[resource-salt-fat-acid-heat]]
+- [[resource-wok-cooking-masterclass]]
 
 ## See Also
-[[Portal:Gastronomy]] | [[Category:Recipes]]
+[[portal-gastronomy]] | [[category-recipes]]
 
 ---
 *Category page • Last updated: 2026-04-20*

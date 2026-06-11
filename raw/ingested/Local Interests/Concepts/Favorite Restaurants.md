@@ -16,11 +16,11 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Local Interests]]
+### Field**: [[local-interests]]
 ### Type**: Personal Preferences
 ### Purpose**: Track favorite local dining spots
 ### Location**: Bay Area
-### Related Concepts**: [[Favorite Coffee Shops]], [[Bay Area Favorites]], [[Local Routines]]
+### Related Concepts**: [[favorite-coffee-shops]], [[bay-area-favorites]], [[local-routines]]
 
 
 
@@ -255,7 +255,7 @@ After each visit:
 - My taste evolution
 
 ## See Also
-[[Favorite Coffee Shops]] | [[Bay Area Favorites]] | [[Local Routines]]
+[[favorite-coffee-shops]] | [[bay-area-favorites]] | [[local-routines]]
 
 ---
 *Template created: 2026-04-20*

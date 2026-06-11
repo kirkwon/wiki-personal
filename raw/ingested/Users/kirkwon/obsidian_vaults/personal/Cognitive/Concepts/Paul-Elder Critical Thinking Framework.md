@@ -34,7 +34,7 @@ status: complete
 
 ## Quick Reference
 
-### Field**: [[Cognitive]] / [[Critical Thinking]]
+### Field**: [[cognitive]] / [[critical-thinking]]
 ### Type**: Reasoning Framework
 ### Developed By**: Richard Paul and Linda Elder
 ### Focus**: Intellectual standards and reasoning elements
@@ -179,10 +179,10 @@ Find where your thinking falls short:
 
 ## Related Concepts
 
-- [[Cognitive Biases]] - Recognize flawed reasoning
-- [[Decision Making Frameworks]] - Structured choices
-- [[First Principles Thinking]] - Breaking problems down
-- [[Mental Models]] - Thinking tools
+- [[cognitive-biases]] - Recognize flawed reasoning
+- [[decision-making-frameworks]] - Structured choices
+- [[first-principles-thinking]] - Breaking problems down
+- [[mental-models]] - Thinking tools
 
 ## Practice Ideas
 

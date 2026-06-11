@@ -1,0 +1,42 @@
+---
+type: concept
+title: Solutions (Mental Model)
+created: 2026-05-03
+updated: 2026-05-03
+tags:
+- mental-model
+- decision-making
+- problem-solving
+sources:
+- Solutions.md
+related:
+- six-thinking-hats
+- decision-making-frameworks
+- systematic-decision-making
+- framework-template
+---
+-
+# Solutions (Mental Model)
+
+Solutions is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+## Definition
+At its core, Solutions functions as a universal mental model applicable across domains. It offers a structured way to reduce cognitive load when facing complexity by recognizing recurring patterns and the relationships between elements of a problem or situation.
+
+## Relationship to Existing Frameworks
+This model is closely aligned with and cross-referenced by [[Six Thinking Hats - Edward de Bono]], which provides a concrete structured thinking method. Both serve as tools for systematic approach to complexity.
+
+## Applicability
+- **Universal** across general domains
+- Supports [[decision-making-frameworks]] and [[systematic-decision-making]]
+- Complements [[framework-template]] as a documentation approach
+
+## Limitations
+The model is currently supported by a single source reference with a confidence level of 0.7, indicating thin grounding. Further elaboration and additional sources would strengthen its applicability.
+
+## See Also
+- [[six-thinking-hats]]
+- [[decision-making-frameworks]]
+- [[problem-solving]]
+- [[Six Thinking Hats - Edward de Bono]]
+---

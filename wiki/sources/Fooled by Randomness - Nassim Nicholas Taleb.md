@@ -1,0 +1,83 @@
+---
+type: source
+title: Fooled by Randomness - Nassim Nicholas Taleb
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- book
+- taleb
+- decision-making
+- randomness
+- cognitive-bias
+sources:
+- Fooled by Randomness - Nassim Nicholas Taleb.md
+---
+-
+# Fooled by Randomness - Nassim Nicholas Taleb
+
+Summary of Nassim Nicholas Taleb's *Fooled by Randomness*, a 2024 book examining how humans systematically misinterpret random events due to cognitive biases, small sample sizes, overreliance on induction, and overconfidence in expertise.
+
+## Core Concepts
+- [[small-sample-size-problem]]
+- [[illusion-of-pattern-in-randomness]]
+- [[fallacy-of-induction]]
+- [[neglected-probability]]
+- [[delusion-of-expertise]]
+- [[peril-of-leverage]]
+- [[signal-to-noise-ratio-fallacy]]
+- [[misuse-of-data-science]]
+
+## Key Arguments
+The book argues that humans are systematically fooled by randomness. Small sample sizes lead to misleading cause-and-effect conclusions. Humans have a propensity for finding patterns where none exist. Relying on past data to predict future random events is fundamentally flawed. Experts often ignore randomness and overestimate their own infallibility. Financial leverage amplifies both gains and losses in unpredictable markets. Traditional signal-to-noise methods fail to capture the complexity of random events. Data science can perpetuate misunderstandings about randomness when it ignores inherent uncertainty.
+
+## Chapter Summaries
+### Chapter 1: The Problem of Small Sample Size
+Random events can have a disproportionate impact on our understanding when we use small sample sizes, often leading to misleading conclusions about cause and effect relationships.
+
+### Chapter 2: The Illusion of Pattern in Randomness
+Humans have a propensity for finding patterns even when none exist due to cognitive biases, which can lead us astray from recognizing random events' true nature.
+
+### Chapter 3: The Uncertainty Principle
+Uncertainty plays a crucial role in decision-making processes, particularly when it comes to dealing with randomness and ambiguity.
+
+### Chapter 4: The Role of Anomalies
+Anomalies — events that deviate from expected patterns — examining their impact on our perception of reality, risk assessment, and decision-making processes.
+
+### Chapter 5: The Fallacy of Induction
+Argues against relying solely on past experiences to predict future events, emphasizing that historical data cannot guarantee accuracy in forecasting random occurrences.
+
+### Chapter 6: The Flaw of Neglected Probability
+We often overlook probabilities when making decisions about uncertain events due to cognitive biases or a lack of understanding.
+
+### Chapter 7: The Delusion of Expertise
+Experts are prone to believing in their own infallibility, often ignoring randomness as an essential factor in shaping outcomes and events.
+
+### Chapter 8: The Illusion of Understanding
+Challenges overconfidence in understanding complex systems by highlighting how random events can dramatically alter these systems, making our knowledge incomplete.
+
+### Chapter 9: The Peril of Leverage
+Financial leverage amplifies both gains and losses in unpredictable markets due to randomness and uncertainty.
+
+### Chapter 10: Overcoming Randomness
+Proposes alternative ways of thinking about risk that do not rely on historical patterns but instead focus on understanding inherent uncertainty in various domains.
+
+### Chapter 11: The Fallacy of Signal-to-Noise Ratio
+Traditional methods for distinguishing signals from noise often fail to capture the complexity of random events, leading us to misjudge their importance.
+
+### Chapter 12: The Misuse of Data Science
+Data science can perpetuate or exacerbate misunderstandings about randomness when it ignores inherent uncertainty in data collection, modeling, and interpretation.
+
+## Connections
+- [[black-swan-events]]
+- [[antifragility]]
+- [[thinking-fast-and-slow---daniel-kahneman]]
+- [[skin-in-the-game---nassim-nicholas-taleb]]
+- [[superforecasting]]
+- [[cognitive-biases-library]]
+- [[prospect-theory]]
+- [[decision-making-under-uncertainty]]
+- [[Signal-to-Noise Control]]
+
+## Note on Hermes Productivity Mapping
+The source includes a Hermes productivity skill mapping (habit tracking, time blocking, Deep Work, Eisenhower Matrix) attributed to this book. This appears to be a template artifact mismatched with the book's actual subject matter of randomness and decision-making under uncertainty. It should not be treated as a legitimate connection to the book's content.
+---

@@ -186,8 +186,8 @@ This domain covers culinary techniques, cooking science, and world cuisines. Fro
 
 ## Related Concepts
 
-- [[Photography]] - Food photography techniques
-- [[Cognitive Science & Decisions]] - Food decision-making frameworks
+- [[photography]] - Food photography techniques
+- [[cognitive-science-decisions]] - Food decision-making frameworks
 
 ## Further Reading
 

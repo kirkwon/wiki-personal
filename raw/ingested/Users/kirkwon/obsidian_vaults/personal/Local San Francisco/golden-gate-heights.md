@@ -313,10 +313,10 @@ Golden Gate Heights is a residential neighborhood on the hills south of Golden G
 
 ## Related Concepts
 
-- [[Sunset District]] - Western neighbor
-- [[Ocean Beach]] - Nearby beach
-- [[Golden Gate Park]] - Northern border
-- [[San Francisco City Guide]] - Broader city information
+- [[sunset-district]] - Western neighbor
+- [[ocean-beach]] - Nearby beach
+- [[golden-gate-park]] - Northern border
+- [[san-francisco-city-guide]] - Broader city information
 
 ## Resources
 

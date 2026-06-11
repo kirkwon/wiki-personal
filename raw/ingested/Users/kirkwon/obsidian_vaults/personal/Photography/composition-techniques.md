@@ -30,8 +30,8 @@ created: 2025-04-15
 | Attribute | Value |
 |-----------|-------|
 | **Difficulty** | Intermediate |
-| **Prerequisites** | [[Photography Fundamentals]] |
-| **Related Concepts** | [[Street Photography]], [[Golden Hour]] |
+| **Prerequisites** | [[photography-fundamentals]] |
+| **Related Concepts** | [[street-photography]], [[golden-hour]] |
 | **Practice** | Practice with every shot |
 
 ## Overview
@@ -337,10 +337,10 @@ Simplifying composition to essential elements.
 
 ## Related Concepts
 
-- [[Photography Fundamentals]] - Camera basics
-- [[Street Photography]] - Composition in urban settings
-- [[Golden Hour]] - Best lighting conditions
-- [[Post-Processing]] - Cropping and compositional adjustments
+- [[photography-fundamentals]] - Camera basics
+- [[street-photography]] - Composition in urban settings
+- [[golden-hour]] - Best lighting conditions
+- [[post-processing]] - Cropping and compositional adjustments
 
 ## Further Reading
 

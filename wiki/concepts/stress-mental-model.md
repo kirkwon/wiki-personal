@@ -1,0 +1,70 @@
+---
+type: concept
+title: Stress (mental model)
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- decision-making
+- psychology
+sources:
+- Stress.md
+confidence: medium
+---
+-
+# Stress (mental model)
+
+Stress is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+## Definition
+
+Rather than treating stress solely as a physiological or psychological phenomenon to be eliminated, this mental model reframes stress as a **navigational lens** — a way of perceiving and structuring complex, ambiguous situations. Stress signals the presence of competing demands, unresolved tensions, or meaningful stakes in a given context.
+
+## Cross-Source Perspectives
+
+### Barry Schwartz — The Paradox of Choice
+Stress manifests in choice overload, where the abundance of options leads to decision paralysis. The pressure of too many choices creates a form of stress that serves as an indicator of the complexity inherent in the decision environment.^[raw/articles/Stress.md]
+
+### Barry Schwartz — Why We Work
+In the context of work motivation, stress connects to how people find meaning through their labor. The demands and pressures of work become a framework through which individuals structure their identity and purpose.^[raw/articles/Stress.md]
+
+### Mark Manson — Everything Is F_cked: A Book About Hope
+Manson frames stress as intertwined with hope and meaning-making. In a world that often feels futile, stress becomes a signal of caring — a marker that something matters enough to create tension.^[raw/articles/Stress.md]
+
+## Applicability
+
+- **Type**: Mental Model
+- **Applicability**: Universal
+- **Domains**: General
+- **Confidence**: 0.7 (moderate — qualitative, conceptual framing without empirical data)
+
+## Relationship to Other Mental Models
+
+Stress connects to several existing mental models in the wiki:
+
+- **[[solutions-mental-model]]** — Stress signals where solutions are needed
+- **[[planning]]** — Stress can indicate the need for structured navigation of complexity
+- **[[stillness]]** — Stillness provides a counterbalance to stress
+- **[[effort]]** — Stress is related to the effort mental model
+- **[[grit-concept]]** — Grit involves sustained effort under stress
+- **[[decision-making-frameworks]]** — Stress arises in decision contexts
+- **[[dual-process-theory]]** — Stress engages both intuitive and deliberate thinking
+- **[[overconfidence-and-certainty]]** — Overconfidence can mask or suppress stress signals
+
+## Key Insight
+
+The core insight of this mental model is that stress is not merely a problem to be solved but a **pattern-recognition tool** — it highlights the structure of complex situations by surfacing tensions, trade-offs, and stakes that might otherwise remain invisible.
+
+## Open Questions
+
+- How does stress specifically function as a mental model versus being a phenomenon studied in psychology?
+- Where does the framing of stress as "useful" conflict with evidence that chronic stress is harmful?
+- How does this model integrate with [[decision-quality-vs-outcome-quality]]?
+
+## Related Sources
+
+- [[The Paradox of Choice - Barry Schwartz]]
+- [[why-we-work---barry-schwartz]]
+- [[everything-is-fcked---mark-manson]]
+- [[will---mark-manson]]
+---

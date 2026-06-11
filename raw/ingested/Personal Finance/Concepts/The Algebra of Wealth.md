@@ -18,11 +18,11 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Personal Finance]]
+### Field**: [[personal-finance]]
 ### Type**: Wealth Framework
 ### Purpose**: Mathematical approach to building wealth
 ### Key Principles**: Focus, stoicism, time, diversification
-### Related Concepts**: [[The Psychology of Money]], [[The Index Card Rules]], [[Career Strategy]]
+### Related Concepts**: [[the-psychology-of-money]], [[the-index-card-rules]], [[career-strategy]]
 
 
 
@@ -435,5 +435,5 @@ Spreading risk across multiple assets, income sources, and skills to protect aga
 7. **You're the formula** - Not a victim of circumstances, but product of daily choices
 
 ## See Also
-[[The Psychology of Money]] | [[The Index Card Rules]] | [[I Will Teach You to Be Rich]] | [[Career Strategy]]
+[[the-psychology-of-money]] | [[the-index-card-rules]] | [[i-will-teach-you-to-be-rich]] | [[career-strategy]]
 

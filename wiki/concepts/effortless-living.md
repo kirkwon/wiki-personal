@@ -1,0 +1,50 @@
+---
+type: concept
+title: Effortless Living
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- productivity
+- mental-models
+- well-being
+sources:
+- Effortless - Greg McKeown.md
+related:
+- prioritization-effortless
+- saying-no-boundaries
+- sustainable-habits-effortless
+- mindfulness-presence-productivity
+- balanced-living
+- minimalist-productivity
+---
+-
+# Effortless Living
+
+Effortless living is a framework for reducing stress and overwhelm by focusing on what truly matters rather than attempting to do everything. Greg McKeown identifies it as an alternative to the societal obsession with productivity that leads to hidden costs like increased stress, reduced creativity, and strained relationships.
+
+## Core Principles
+- Identify priorities based on personal values
+- Set boundaries by saying no to non-essential demands
+- Delegate tasks to focus on strengths
+- Build sustainable habits and routines to minimize decision fatigue
+- Practice mindfulness to enhance presence
+- Leverage emotional intelligence for smoother interactions
+- Seek balance across career, relationships, and self-care
+
+## When to Stop
+A critical aspect of effortless living is recognizing when optimization has gone too far—when it causes stress, sacrifices relationships, neglects health, destroys joy, or becomes rigid. This serves as a counterbalance to pure productivity culture.
+
+## Connections
+- [[prioritization-effortless]] – Identifying what matters
+- [[saying-no-boundaries]] – Protecting focus
+- [[sustainable-habits-effortless]] – Reducing decision fatigue
+- [[mindfulness-presence-productivity]] – Enhancing awareness
+- [[balanced-living]] – Harmony across life areas
+- [[minimalist-productivity]] – Doing less but better
+
+## Related Sources
+- [[deep-work---cal-newport]]
+- [[stillness]]
+- [[quadrant-2-focus]]
+- [[Hyperfocus - Chris Bailey]]
+---

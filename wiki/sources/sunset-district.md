@@ -1,0 +1,55 @@
+---
+type: source
+title: Sunset District
+created: 2026-04-24
+updated: 2026-05-09
+tags:
+- local
+- sf
+- bay-area
+- neighborhoods
+- san-francisco
+sources:
+- sunset-district.md
+---
+--
+# Sunset District
+
+A descriptive neighborhood guide for San Francisco's Sunset District, one of the city's largest neighborhoods with ~85,000 residents. The district spans from Golden Gate Park to Ocean Beach with a grid street layout, frequent fog, mid-century modern tract homes, and relative affordability compared to eastern SF neighborhoods.
+
+## Key Facts
+- Boundaries: Golden Gate Park north, Sloat Blvd south, Ocean Beach west, Twin Peaks east
+- Population ~85,000
+- Divisions: Inner Sunset, Central Sunset, Outer Sunset
+- Grid street system (1st–48th Avenues) with flat terrain
+- Climate: Foggy, cooler summers (55-65°F), wind near beach; best weather in fall (Sept–Oct); daily fog especially in summer
+- Mid-century modern tract homes with garages (rare in SF); notable advantage of driveways and garages
+- Median home price ~$1.3–1.5M; 2BR rent ~$2,800–3,200
+- Strong nature access via Golden Gate Park and Ocean Beach
+- Transit: N-Judah Muni Metro, L-Taraval, multiple bus lines
+
+## Neighborhood Divisions
+- **Inner Sunset**: Irving Street commercial strip, UCSF
+- **Central Sunset**: Quiet residential area
+- **Outer Sunset**: Ocean Beach, surf culture
+
+## Notable Spots & Dining
+- Irving Street commercial strip
+- Outerlands, Trouble Coffee, General Store
+- Marnee Thai, Arizmendi Bakery
+- Cliff House, Sutro Baths ruins
+
+## Schools
+- Good schools including Lincoln High School and St. Ignatius
+
+## Drawbacks
+- Fog, limited nightlife, and restaurant variety
+
+## Related Pages
+- [[ocean-beach]]
+- [[golden-gate-heights]]
+- [[golden-gate-park]]
+- [[san-francisco-city-guide]]
+- [[sixteen-avenue-tiled-steps]]
+- [[grandview-park]]
+- [[local-san-francisco]]

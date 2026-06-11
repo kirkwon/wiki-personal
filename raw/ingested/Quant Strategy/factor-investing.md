@@ -18,8 +18,8 @@ updated: '2026-05-14'
 | Attribute | Value |
 |-----------|-------|
 | **Difficulty** | Intermediate |
-| **Prerequisites** | [[Modern Portfolio Theory]], [[Risk Management]] |
-| **Related Concepts** | [[Momentum Strategy]], [[Value Investing]], [[Small Cap Premium]] |
+| **Prerequisites** | [[modern-portfolio-theory]], [[risk-management]] |
+| **Related Concepts** | [[momentum-strategy]], [[value-investing]], [[small-cap-premium]] |
 | **Holding Period** | 1-12 months (varies by factor) |
 | **Risk Profile** | Moderate to High |
 
@@ -305,11 +305,11 @@ Different factors outperform in different market regimes:
 
 ## Related Concepts
 
-- [[Momentum Strategy]] - Deep dive on momentum factor
-- [[Mean Reversion Strategy]] - Opposite of momentum
-- [[Statistical Arbitrage]] - More advanced factor-based strategies
-- [[Risk Management]] - Managing factor-specific risks
-- [[Modern Portfolio Theory]] - Mathematical foundation
+- [[momentum-strategy]] - Deep dive on momentum factor
+- [[mean-reversion-strategy]] - Opposite of momentum
+- [[statistical-arbitrage]] - More advanced factor-based strategies
+- [[risk-management]] - Managing factor-specific risks
+- [[modern-portfolio-theory]] - Mathematical foundation
 
 ## Further Reading
 

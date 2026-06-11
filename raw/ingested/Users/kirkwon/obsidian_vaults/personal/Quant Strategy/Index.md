@@ -29,7 +29,7 @@ This domain covers topics related to quant strategy.
 
 ## Related Domains
 
-- [[Music Theory & Jazz]] - Mathematical patterns in music
-- [[Cognitive Science & Decisions]] - Decision-making under uncertainty
+- [[music-theory-jazz]] - Mathematical patterns in music
+- [[cognitive-science-decisions]] - Decision-making under uncertainty
 
 ---

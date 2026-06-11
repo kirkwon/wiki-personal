@@ -1,0 +1,32 @@
+---
+type: source
+title: Perspectives
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- general
+sources:
+- Perspectives.md
+---
+-
+# Perspectives Source
+
+This source introduces the mental model of Perspectives as a universal conceptual tool for navigating complex situations through pattern and relationship recognition. It is cross-referenced with Edward de Bono's Six Thinking Hats as a concrete method for adopting different cognitive perspectives.
+
+The model defines Perspectives as a mental shortcut or framework that helps make sense of patterns and relationships in the world. It is referenced in one source: [[Six Thinking Hats - Edward de Bono]].
+
+## Key Takeaways
+- Perspectives functions as a universal mental model applicable across all domains.
+- It provides a framework for understanding complexity through pattern recognition.
+- Six Thinking Hats is the primary concrete method referenced for implementing perspective-taking.
+- Confidence level: 0.7, with medium priority for review.
+
+## Related Concepts
+- [[six-thinking-hats]]
+- [[Six Thinking Hats - Edward de Bono]]
+- [[thinking-mental-model]]
+- [[decision-making-frameworks]]
+- [[two-views-of-decision-kahneman-vs-klein]]
+- [[cognitive-biases-library]]
+---

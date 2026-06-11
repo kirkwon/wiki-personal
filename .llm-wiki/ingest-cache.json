@@ -1,0 +1,54 @@
+{
+  "entries": {
+    "test-ingest.md": {
+      "hash": "2de3ec75cd490fca4c454a43b7d73166f220df0fc8826bcd29cea7da7039595b",
+      "timestamp": 1781068261380,
+      "filesWritten": [
+        "wiki/sources/test-ingest.md"
+      ]
+    },
+    "research-add-cross-references-to-comparisonsperson-2026-06-11-064819.md": {
+      "hash": "cd01d65d688e73cfe4a491a8bde9d9dc8800368d91950d11404506303fc14200",
+      "timestamp": 1781160619891,
+      "filesWritten": [
+        "wiki/sources/research-add-cross-references-to-comparisonsperson-2026-06-11-064819.md",
+        "wiki/entities/personal-knowledge-management-system.md",
+        "wiki/concepts/personal-knowledge-management.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "research-comparison-of-digital-note-taking-systems-2026-06-11-065155.md": {
+      "hash": "8a5760b2c92322bf0de821938132d3b8fe5ed5f67e1b6b165f9908e4ec49a503",
+      "timestamp": 1781160819740,
+      "filesWritten": [
+        "wiki/sources/research-comparison-of-digital-note-taking-systems-2026-06-11-065155.md",
+        "wiki/entities/notion.md",
+        "wiki/entities/obsidian.md",
+        "wiki/entities/evernote.md",
+        "wiki/entities/apple-notes.md",
+        "wiki/entities/google-keep.md",
+        "wiki/concepts/digital-note-taking-systems.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "research-implement-a-pkm-system-2026-06-11-065159.md": {
+      "hash": "c71df831056c778e0be58bc0013277fe5967e0475e615480ee33531fe59420c4",
+      "timestamp": 1781161872372,
+      "filesWritten": [
+        "wiki/sources/research-implement-a-pkm-system-2026-06-11-065159.md",
+        "wiki/concepts/personal-knowledge-management.md",
+        "wiki/concepts/information-literacy.md",
+        "wiki/concepts/critical-thinking.md",
+        "wiki/entities/obsidian.md",
+        "wiki/entities/notion.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    }
+  }
+}

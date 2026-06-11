@@ -231,7 +231,7 @@ Result: Smooth, low-acidity, refreshing
 ## Related Content
 - [[Gastronomy/Concepts/Maillard Reaction]] - Flavor development concepts (tea contains similar compounds)
 - [[Gastronomy/Beverages/Coffee/Index]] - Comprehensive coffee guide
-- [[Herbs & Spices]] - Botanical relationships with tea plants
+- [[herbs-spices]] - Botanical relationships with tea plants
 
 ---
 *Tea index created: 2026-04-21 | Next: Create tea type pages*

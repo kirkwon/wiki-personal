@@ -18,8 +18,8 @@ updated: '2026-05-14'
 | Attribute | Value |
 |-----------|-------|
 | **Difficulty** | Intermediate |
-| **Prerequisites** | [[Factor Investing]], [[Technical Analysis Basics]] |
-| **Related Concepts** | [[Mean Reversion]], [[Trend Following]], [[Breakout Trading]] |
+| **Prerequisites** | [[factor-investing]], [[technical-analysis-basics]] |
+| **Related Concepts** | [[mean-reversion]], [[trend-following]], [[breakout-trading]] |
 | **Holding Period** | 1-12 months (typical 3-6 months) |
 | **Risk Profile** | High |
 
@@ -305,11 +305,11 @@ New Position = Old Position × (Target Volatility / Current Volatility)
 
 ## Related Concepts
 
-- [[Factor Investing]] - Momentum as a factor
-- [[Mean Reversion Strategy]] - Opposite of momentum
-- [[Trend Following]] - Longer-term momentum
-- [[Technical Analysis Basics]] - Identifying trends
-- [[Statistical Arbitrage]] - More advanced strategies
+- [[factor-investing]] - Momentum as a factor
+- [[mean-reversion-strategy]] - Opposite of momentum
+- [[trend-following]] - Longer-term momentum
+- [[technical-analysis-basics]] - Identifying trends
+- [[statistical-arbitrage]] - More advanced strategies
 
 ## Further Reading
 

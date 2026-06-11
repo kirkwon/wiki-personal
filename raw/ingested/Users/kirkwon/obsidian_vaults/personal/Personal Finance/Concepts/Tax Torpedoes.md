@@ -36,7 +36,7 @@ status: complete
 ### Type**: Tax Risk Management
 ### Purpose**: Identify and avoid retirement tax pitfalls
 ### Key Concepts**: Provisional income, tax torpedo, Roth conversions, Medicare IRMAA
-### Related Concepts**: [[Required Minimum Distributions]], [[Retirement Planning]]
+### Related Concepts**: [[required-minimum-distributions]], [[retirement-planning]]
 
 ## What Are Tax Torpedoes?
 
@@ -326,7 +326,7 @@ When all three converge:
 - Plan for legacy goals
 
 ## See Also
-[[Required Minimum Distributions]] | [[Retirement Planning]] | [[Social Security]] | [[Personal Finance]]
+[[required-minimum-distributions]] | [[retirement-planning]] | [[social-security]] | [[personal-finance]]
 
 ---
 *Created: 2026-04-23*

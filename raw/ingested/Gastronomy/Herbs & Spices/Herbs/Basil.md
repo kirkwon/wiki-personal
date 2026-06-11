@@ -16,7 +16,7 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Herbs & Spices]]
+### Field**: [[herbs-spices]]
 ### Type**: Fresh Herb
 ### Family**: Lamiaceae (mint family)
 ### Flavor Profile**: Sweet, peppery, with anise undertones

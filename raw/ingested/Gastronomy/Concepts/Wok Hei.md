@@ -16,12 +16,12 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Gastronomy]]
+### Field**: [[gastronomy]]
 ### Type**: Cooking Technique
 ### Origin**: Chinese Cuisine
 ### Also Known As**: Breath of the Wok
 ### Key Elements**: High heat, seasoned wok, rapid cooking
-### Related Concepts**: [[Stir-Fry]], [[Maillard Reaction]], [[Smoky Flavor]]
+### Related Concepts**: [[stir-fry]], [[maillard-reaction]], [[smoky-flavor]]
 
 
 
@@ -94,7 +94,7 @@ Wok Hei (Cantonese: 鑊氣, "breath of the wok") is the smoky, complex flavor ch
 - Stir-Fried Greens with Garlic
 
 ## See Also
-[[Maillard Reaction]] | [[Stir-Fry Technique]] | [[Salmon Collars]] | [[Wok Seasoning]]
+[[maillard-reaction]] | [[stir-fry-technique]] | [[salmon-collars]] | [[wok-seasoning]]
 
 ---
 *Added: 2026-04-20*

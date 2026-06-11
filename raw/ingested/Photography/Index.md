@@ -27,9 +27,9 @@ This domain covers photography fundamentals, composition, street photography, po
 
 ## Related Domains
 
-- [[Local San Francisco]] - Great locations for street photography and golden hour shooting
-- [[Sunset District]] - SF neighborhood with beach, fog, photography opportunities
-- [[Ocean Beach]] - Beach photography, surfing, storm watching
+- [[local-san-francisco]] - Great locations for street photography and golden hour shooting
+- [[sunset-district]] - SF neighborhood with beach, fog, photography opportunities
+- [[ocean-beach]] - Beach photography, surfing, storm watching
 
 ## Photography in San Francisco
 
@@ -54,7 +54,7 @@ San Francisco offers incredible photography opportunities:
 - Cityscapes: From Twin Peaks, Coit Tower
 - Neighborhoods: Streets, architecture
 
-See [[Local San Francisco]], [[Sunset District]], [[Ocean Beach]] for detailed location guides.
+See [[local-san-francisco]], [[sunset-district]], [[ocean-beach]] for detailed location guides.
 
 ## Equipment Quick Reference
 

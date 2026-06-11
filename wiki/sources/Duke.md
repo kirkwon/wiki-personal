@@ -1,0 +1,17 @@
+---
+type: source
+title: Duke
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- decision-making
+sources:
+- Duke.md
+---
+--
+# Duke Source Summary
+
+Duke is a mental model referencing Annie Duke's decision-making framework, presented as a conceptual tool for navigating complex situations through pattern and relationship recognition. The source is a thin entry that points to [[how-to-decide---annie-duke]] as its primary reference, emphasizing probabilistic thinking, decision journaling, and the separation of decision quality from outcome quality.
+
+The model is described as applicable universally across general domains, with moderate confidence (0.7). It provides a mental shortcut for making sense of patterns and relationships in the world.

@@ -29,7 +29,7 @@ This domain covers topics related to cognitive science & decisions.
 
 ## Related Domains
 
-- [[Quant Strategy]] - Rational decision-making frameworks
-- [[Music Theory & Jazz]] - Perception and pattern recognition
+- [[quant-strategy]] - Rational decision-making frameworks
+- [[music-theory-jazz]] - Perception and pattern recognition
 
 ---

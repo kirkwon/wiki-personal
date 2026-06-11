@@ -31,7 +31,7 @@ created: 2025-04-15
 |-----------|-------|
 | **Difficulty** | Beginner |
 | **Prerequisites** | None |
-| **Related Concepts** | [[Jazz Harmony]], [[Major and Minor Scales]], [[Rhythm and Meter]] |
+| **Related Concepts** | [[jazz-harmony]], [[major-and-minor-scales]], [[rhythm-and-meter]] |
 | **Practice Time** | 30-60 min/day |
 
 ## Overview
@@ -214,12 +214,12 @@ A chord is three or more notes played together.
 
 ## Related Concepts
 
-- [[Jazz Harmony]] - Chord progressions and extensions
-- [[Major and Minor Scales]] - Building blocks of melody
-- [[Modes]] - Different "flavors" of scales
-- [[Rhythm and Meter]] - How music moves in time
-- [[Chord Voicings]] - Arranging notes in chords
-- [[Ear Training]] - Developing your musical ear
+- [[jazz-harmony]] - Chord progressions and extensions
+- [[major-and-minor-scales]] - Building blocks of melody
+- [[modes]] - Different "flavors" of scales
+- [[rhythm-and-meter]] - How music moves in time
+- [[chord-voicings]] - Arranging notes in chords
+- [[ear-training]] - Developing your musical ear
 
 ## Further Reading
 

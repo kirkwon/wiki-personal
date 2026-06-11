@@ -31,12 +31,12 @@ status: complete
 
 ## Quick Reference
 
-### Field**: [[Gastronomy]]
+### Field**: [[gastronomy]]
 ### Type**: Chemical Process
 ### Discovered**: 1912 by Louis-Camille Maillard
 ### Temperature Range**: 285-330°F (140-165°C)
 ### Also Known As**: Non-enzymatic browning
-### Related Concepts**: [[Caramelization]], [[Wok Hei]], [[Grilling]], [[Roasting]]
+### Related Concepts**: [[caramelization]], [[wok-hei]], [[grilling]], [[roasting]]
 
 
 
@@ -179,7 +179,7 @@ This complex mixture is why Maillard-browned food tastes so good!
 ## Applications in Your Cooking
 
 ### Wok Cooking
-- [[Wok Hei]] relies on Maillard reaction
+- [[wok-hei]] relies on Maillard reaction
 - High heat + small batches = maximum browning
 - Stir-fry technique develops flavor quickly
 
@@ -195,7 +195,7 @@ This complex mixture is why Maillard-browned food tastes so good!
 - **Patience** - Let it brown before moving
 
 ## See Also
-[[Caramelization]] | [[Wok Hei]] | [[Salmon Collars]] | [[Searing Technique]] | [[Roasting]]
+[[caramelization]] | [[wok-hei]] | [[salmon-collars]] | [[searing-technique]] | [[roasting]]
 
 ---
 ---

@@ -32,12 +32,12 @@ status: complete
 
 ## Quick Reference
 
-### Field**: [[Gastronomy]]
+### Field**: [[gastronomy]]
 ### Type**: Fish Cut
 ### Source**: Salmon neck area
 ### Texture**: Fatty, rich, gelatinous
 ### Best Cooking Methods**: Grilling, broiling, roasting
-### Related Concepts**: [[Salmon Preparation]], [[Collagen-Rich Cuts]], [[Seafood]]
+### Related Concepts**: [[salmon-preparation]], [[collagen-rich-cuts]], [[seafood]]
 
 
 
@@ -166,7 +166,7 @@ Salmon collar (also called kama in Japanese) is the cut from behind the fish's h
 - **High-end seafood counters** (sometimes)
 
 ## See Also
-[[Wok Hei]] | [[Salmon Preparation]] | [[Grilling Seafood]] | [[Japanese Cuisine]]
+[[wok-hei]] | [[salmon-preparation]] | [[grilling-seafood]] | [[japanese-cuisine]]
 
 ---
 *Added: 2026-04-20*

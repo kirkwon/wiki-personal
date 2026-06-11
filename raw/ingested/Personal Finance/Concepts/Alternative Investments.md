@@ -16,11 +16,11 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Personal Clients]]
+### Field**: [[personal-clients]]
 ### Type**: Asset Class
 ### Purpose**: Diversification beyond stocks/bonds, inflation protection
 ### Key Asset Classes**: Real estate, private equity, commodities, collectibles
-### Related Concepts**: [[Risk Management]], [[Retirement Planning]], [[Options Trading]]
+### Related Concepts**: [[risk-management]], [[retirement-planning]], [[options-trading]]
 
 
 
@@ -447,7 +447,7 @@ Investments in private companies (not publicly traded). Includes venture capital
 - Easier to understand
 
 ## See Also
-[[Risk Management]] | [[Retirement Planning]] | [[Options Trading]] | [[Diversification]]
+[[risk-management]] | [[retirement-planning]] | [[options-trading]] | [[diversification]]
 
 ---
 *Created: 2026-04-20*

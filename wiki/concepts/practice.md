@@ -1,0 +1,44 @@
+---
+type: concept
+title: Practice
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- productivity
+- learning
+sources:
+- Practice.md
+confidence: medium
+---
+--
+# Practice
+
+Practice is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.^[raw/articles/Practice.md]
+
+As a mental model, Practice is applicable across all domains—from skill acquisition and habit formation to strategic thinking and decision-making. It functions as a universal navigational principle, allowing practitioners to recognize recurring patterns and apply structured frameworks to complex problems.
+
+## Cross-Source Perspectives
+
+This mental model is referenced in 47 sources across the wiki, including works by:
+
+- Donella H. Meadows — [[Limits to Growth_ The 30-Year Update - Donella H Meadows]]
+- Timothy Ferriss — [[the-4-hour-body---timothy-ferriss]]
+- Cal Newport — [[slow-productivity---cal-newport]]
+- Ryan Holiday — [[the-obstacle-is-the-way-ryan-holiday]]
+- Scott Galloway — [[Post Corona_ From Crisis to Opportunity - Scott Galloway]]
+
+The model connects to related concepts such as [[effort]], [[Perseverance]], [[hyperfocus]], and [[grit-concept]], reflecting its broad applicability as a lens for understanding sustained action and improvement.
+
+## Related Concepts
+
+- [[effort]]
+- [[Perseverance]]
+- [[grit-concept]]
+- [[hyperfocus]]
+- [[stillness]]
+- [[mental-models]]
+
+## Sources
+
+No detailed sources found in this document.

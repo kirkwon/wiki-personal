@@ -1,0 +1,38 @@
+---
+type: concept
+title: Gongfu Brewing (功夫茶)
+created: 2026-04-24
+updated: 2026-04-24
+tags:
+- tea
+- brewing
+- chinese-cuisine
+sources:
+- Green Tea.md
+related:
+- dragon-well-longjing
+- biluochun
+- 绿茶-lǚ-chá
+---
+--
+# Gongfu Brewing (功夫茶)
+
+Gongfu brewing is a traditional Chinese method using small vessels and higher tea-to-water ratios for multiple short infusions, highlighting the changing flavor profile of each steeping.
+
+## Parameters
+- Tea Amount: 4-6g per 100ml water
+- Water Temperature: 160-180°F (71-82°C)
+- Infusion Times: 30 seconds, increasing by 15s each time
+- Total Infusions: 3-5 times possible
+
+## Process
+1. Rinse tea briefly with hot water
+2. First infusion: 30 seconds
+3. Subsequent infusions: 45s, 1m, 1.5m, etc.
+4. Serve in small cups
+5. Enjoy the changing flavor profile
+
+## See Also
+- [[dragon-well-longjing]] for Chinese green tea
+- [[biluochun]] for spiral-shaped green tea
+- [[绿茶-l-ch]] for green tea overview

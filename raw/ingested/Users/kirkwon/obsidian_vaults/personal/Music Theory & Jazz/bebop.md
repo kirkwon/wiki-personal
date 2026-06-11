@@ -18,9 +18,9 @@ created: 2025-04-20
 modified: 2025-04-20
 tags: [jazz, bebop, history, pioneers, improvisation, chord-theory]
 related:
-  - [[Jazz Harmony]]
-  - [[Music Theory Fundamentals]]
-  - [[Miles Davis]]
+  - [[jazz-harmony]]
+  - [[music-theory-fundamentals]]
+  - [[miles-davis]]
 status: complete
 ---
 
@@ -31,7 +31,7 @@ status: complete
 
 ## Quick Reference
 
-### Field**: [[Music Theory & Jazz]]
+### Field**: [[music-theory-jazz]]
 ### Type**: Jazz Style/Movement
 ### Era**: 1940s-1950s
 ### Key Innovation**: Fast tempos, complex harmonies, virtuosic improvisation

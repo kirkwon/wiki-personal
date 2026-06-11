@@ -32,11 +32,11 @@ status: complete
 
 ## Quick Reference
 
-### Field**: [[Local Interests]]
+### Field**: [[local-interests]]
 ### Type**: Personal Preferences
 ### Purpose**: Track favorite local coffee spots
 ### Location**: Bay Area
-### Related Concepts**: [[Local Routines]], [[Bay Area Favorites]]
+### Related Concepts**: [[local-routines]], [[bay-area-favorites]]
 
 
 
@@ -181,7 +181,7 @@ When trying a new café:
 - New things I've learned to appreciate
 
 ## See Also
-[[Local Routines]] | [[Bay Area Favorites]] | [[Local Restaurants]]
+[[local-routines]] | [[bay-area-favorites]] | [[local-restaurants]]
 
 ---
 ---

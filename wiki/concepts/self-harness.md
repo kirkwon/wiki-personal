@@ -44,13 +44,13 @@ The paradigm was instantiated on Terminal-Bench-2.0 using three base models from
 Qualitative analyses show that Self-Harness does not simply add generic instructions, but effectively turns model-specific weaknesses into concrete, executable harness changes.
 
 ## Related Concepts
-- [[AI Agents]] - The broader class of systems that Self-Harness improves
-- [[Reflexion]] - Related self-reflection approach for agent improvement
-- [[Chain-of-thought]] - Reasoning technique that may be part of harness modifications
-- [[Tree-of-thought]] - Extended reasoning approach for complex problem solving
-- [[AutoGPT]] - Early LLM-agent loop for autonomous task completion
-- [[BabyAGI]] - Task-driven autonomous agent framework
-- [[Large Language Models (LLMs)]] - Foundation for the agents that Self-Harness improves
+- [[ai-agents]] - The broader class of systems that Self-Harness improves
+- [[reflexion]] - Related self-reflection approach for agent improvement
+- [[chain-of-thought]] - Reasoning technique that may be part of harness modifications
+- [[tree-of-thought]] - Extended reasoning approach for complex problem solving
+- [[autogpt]] - Early LLM-agent loop for autonomous task completion
+- [[babyagi]] - Task-driven autonomous agent framework
+- [[large-language-models-llms]] - Foundation for the agents that Self-Harness improves
 
 ## Applications
 Self-Harness can be applied to any LLM-based agent system where:

@@ -18,7 +18,7 @@ updated: '2026-05-14'
 ### Type**: Investment Taxation
 ### Purpose**: Understand how return of capital distributions work and their tax implications
 ### Key Concepts**: ROC vs dividends, cost basis reduction, tax deferral, capital gains realization
-### Related Concepts**: [[Mutual Funds vs ETFs in Taxable Accounts]], [[Tax Torpedoes]], [[Retirement Planning]]
+### Related Concepts**: [[mutual-funds-vs-etfs-in-taxable-accounts]], [[tax-torpedoes]], [[retirement-planning]]
 
 ## What Is Return of Capital?
 
@@ -221,7 +221,7 @@ Year 4: Sale at $22.00/share = $22,000 → Gain = $22,000 - $18,200 = $3,800
 5. **Compare alternatives**: Is there a more tax-efficient option?
 
 ## See Also
-[[Mutual Funds vs ETFs in Taxable Accounts]] | [[Tax Torpedoes]] | [[Capital Gains]] | [[Retirement Planning]] | [[REITs]]
+[[mutual-funds-vs-etfs-in-taxable-accounts]] | [[tax-torpedoes]] | [[capital-gains]] | [[retirement-planning]] | [[reits]]
 
 ---
 *Created: 2026-04-23*

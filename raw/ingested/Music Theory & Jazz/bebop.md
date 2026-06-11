@@ -17,7 +17,7 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Music Theory & Jazz]]
+### Field**: [[music-theory-jazz]]
 ### Type**: Jazz Style/Movement
 ### Era**: 1940s-1950s
 ### Key Innovation**: Fast tempos, complex harmonies, virtuosic improvisation

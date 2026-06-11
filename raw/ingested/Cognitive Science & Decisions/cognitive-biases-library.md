@@ -19,7 +19,7 @@ updated: '2026-05-14'
 | -------------------- | ------------------------------------------------- |
 | **Difficulty**       | Beginner                                          |
 | **Prerequisites**    | None                                              |
-| **Related Concepts** | [[decision-making-frameworks]], [[Mental Models]] |
+| **Related Concepts** | [[decision-making-frameworks]], [[mental-models]] |
 | **Practice**         | Daily reflection on decisions                     |
 
 ## Overview
@@ -261,10 +261,10 @@ When making an important decision, check for these biases:
 
 ## Related Concepts
 
-- [[decision-making frameworks]] - Structured approaches to decisions
-- [[Mental Models]] - Thinking tools for better decisions
-- [[Pre-Mortem Analysis]] - Planning for failure
-- [[Bayesian Thinking]] - Updating beliefs with evidence
+- [[decision-making-frameworks]] - Structured approaches to decisions
+- [[mental-models]] - Thinking tools for better decisions
+- [[pre-mortem-analysis]] - Planning for failure
+- [[bayesian-thinking]] - Updating beliefs with evidence
 
 ## Further Reading
 

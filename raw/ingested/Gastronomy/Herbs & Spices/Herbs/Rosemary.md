@@ -16,7 +16,7 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Herbs & Spices]]
+### Field**: [[herbs-spices]]
 ### Type**: Fresh/Dried Herb
 ### Family**: Lamiaceae (mint family)
 ### Flavor Profile**: Piney, woodsy, strong, camphoraceous

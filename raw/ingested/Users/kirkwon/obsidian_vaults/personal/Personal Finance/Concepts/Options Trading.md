@@ -33,11 +33,11 @@ status: complete
 
 ## Quick Reference
 
-### Field**: [[Personal Clients]]
+### Field**: [[personal-clients]]
 ### Type**: Derivatives Strategy
 ### Purpose**: Leverage, hedging, income generation
 ### Key Concepts**: Calls, Puts, Greeks, Spreads
-### Related Concepts**: [[Risk Management]], [[Retirement Planning]]
+### Related Concepts**: [[risk-management]], [[retirement-planning]]
 
 
 
@@ -378,7 +378,7 @@ Options are derivative contracts giving the right (but not obligation) to buy or
 - **Long-term holding:** Compounding works for you
 
 ## See Also
-[[Risk Management]] | [[Retirement Planning]] | [[Alternative Investments]] | [[Derivatives]]
+[[risk-management]] | [[retirement-planning]] | [[alternative-investments]] | [[derivatives]]
 
 ---
 *Created: 2026-04-20*

@@ -32,7 +32,7 @@ status: complete
 ### Field**: Personal Finance
 ### Scope**: Wealth management, investments, tax strategies, retirement planning
 ### Key Areas**: Risk Management, Alternative Investments, Real Estate, Retirement Planning
-### Related Systems**: [[Cognitive Science & Decisions]]
+### Related Systems**: [[cognitive-science-decisions]]
 
 
 
@@ -41,16 +41,16 @@ This personal finance system encompasses comprehensive wealth management strateg
 
 ## Core Concepts
 
-### [[Risk Management]]
+### [[risk-management]]
 Comprehensive risk management strategies including diversification, asset allocation, position sizing, and hedging techniques to protect wealth while maximizing returns.
 
-### [[Retirement Planning]]
+### [[retirement-planning]]
 Long-term wealth building strategies, 401(k) optimization, IRA considerations, and retirement income planning.
 
-### [[Alternative Investments]]
+### [[alternative-investments]]
 Beyond traditional stocks and bonds, including real estate, private equity, commodities, and other alternative asset classes.
 
-### [[Options Trading]]
+### [[options-trading]]
 Advanced strategies using options for income generation, hedging, and speculation with defined risk parameters.
 
 ## Investment Categories
@@ -62,7 +62,7 @@ Advanced strategies using options for income generation, hedging, and speculatio
 - Index Funds
 
 ### Alternative Assets
-- [[Real Estate]] and Property Investment
+- [[real-estate]] and Property Investment
 - Private Equity and Venture Capital
 - Commodities and Precious Metals
 - Cryptocurrency and Digital Assets
@@ -93,19 +93,19 @@ Advanced strategies using options for income generation, hedging, and speculatio
 ## Planning Tools & Templates
 
 ### Financial Calculators
-- [[Investment Return Calculators]]
-- [[Retirement Planning Tools]]
-- [[Tax Optimization Calculators]]
+- [[investment-return-calculators]]
+- [[retirement-planning-tools]]
+- [[tax-optimization-calculators]]
 
 ### Tracking Systems
-- [[Portfolio Tracking Templates]]
-- [[Expense Tracking Systems]]
-- [[Net Worth Monitoring]]
+- [[portfolio-tracking-templates]]
+- [[expense-tracking-systems]]
+- [[net-worth-monitoring]]
 
 ## See Also
-- [[Cognitive Science & Decisions]] for decision-making frameworks
-- [[Gastronomy]] for lifestyle optimization
-- [[Productivity]] for time and energy management
+- [[cognitive-science-decisions]] for decision-making frameworks
+- [[gastronomy]] for lifestyle optimization
+- [[productivity]] for time and energy management
 
 ---
 *Created: 2026-04-22*

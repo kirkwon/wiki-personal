@@ -32,11 +32,11 @@ status: complete
 
 ## Quick Reference
 
-### Field**: [[Personal Clients]]
+### Field**: [[personal-clients]]
 ### Type**: Financial Planning
 ### Purpose**: Build wealth to support lifestyle after work
 ### Key Principles**: Start early, maximize tax advantages, automate
-### Related Concepts**: [[Risk Management]], [[Options Trading]], [[Alternative Investments]]
+### Related Concepts**: [[risk-management]], [[options-trading]], [[alternative-investments]]
 
 
 
@@ -363,7 +363,7 @@ Historical studies (30-year periods):
 - **65**: Ready to retire
 
 ## See Also
-[[Risk Management]] | [[Options Trading]] | [[Alternative Investments]] | [[Compounding]] | [[Required Minimum Distributions]] | [[Tax Torpedoes]] | [[Healthcare Costs in Retirement]]
+[[risk-management]] | [[options-trading]] | [[alternative-investments]] | [[compounding]] | [[required-minimum-distributions]] | [[tax-torpedoes]] | [[healthcare-costs-in-retirement]]
 
 ---
 *Created: 2026-04-20*

@@ -18,8 +18,8 @@ updated: '2026-05-14'
 | Attribute | Value |
 |-----------|-------|
 | **Difficulty** | Intermediate |
-| **Prerequisites** | [[Music Theory Fundamentals]], [[Major and Minor Scales]] |
-| **Related Concepts** | [[Modes]], [[Jazz Scales]], [[Chord Voicings]] |
+| **Prerequisites** | [[music-theory-fundamentals]], [[major-and-minor-scales]] |
+| **Related Concepts** | [[modes]], [[jazz-scales]], [[chord-voicings]] |
 | **Practice Time** | 45-90 min/day |
 
 ## Overview
@@ -233,11 +233,11 @@ Cmaj7:     E - G - B - C  (F→E down stepwise, B→B stays, D→C down, E→C d
 
 ## Related Concepts
 
-- [[Modes]] - Understanding modal harmony
-- [[Jazz Scales]] - What scales to use over which chords
-- [[Chord Voicings]] - How to arrange chord tones
-- [[Jazz Improvisation]] - Applying harmony to soloing
-- [[Rhythm Changes]] - A common chord progression
+- [[modes]] - Understanding modal harmony
+- [[jazz-scales]] - What scales to use over which chords
+- [[chord-voicings]] - How to arrange chord tones
+- [[jazz-improvisation]] - Applying harmony to soloing
+- [[rhythm-changes]] - A common chord progression
 
 ## Further Listening
 

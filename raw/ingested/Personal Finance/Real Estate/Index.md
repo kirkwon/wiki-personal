@@ -87,19 +87,19 @@ Real estate investment combines property ownership with wealth-building strategi
 ### [[Bay Area Market Analysis]]
 Detailed market data, trends, and investment opportunities specific to the Bay Area real estate market.
 
-### [[1031 Exchange Strategy]]
+### [[1031-exchange-strategy]]
 Complete guide to tax-deferred exchanges including qualification rules, timelines, and implementation strategies.
 
-### [[Proposition 13 Overview]]
+### [[proposition-13-overview]]
 Comprehensive explanation of California's property tax protection system including limitations and transfer implications.
 
-### [[Proposition 19 Analysis]]
+### [[proposition-19-analysis]]
 Detailed analysis of the updated Proposition 19 and its impact on property transfers, parent-child transfers, and tax implications.
 
-### [[Financial Reporting Templates]]
+### [[financial-reporting-templates]]
 Ready-to-use spreadsheets and templates for calculating investment returns, cash flow analysis, and portfolio performance.
 
-### [[Risk Assessment Framework]]
+### [[risk-assessment-framework]]
 Systematic approach to identifying and mitigating real estate investment risks including market, financial, and operational risks.
 
 ## Tax Optimization Strategies
@@ -151,10 +151,10 @@ Systematic approach to identifying and mitigating real estate investment risks i
 - Economic indicators and trends
 
 ### Financial Calculators
-- [[Cash Flow Calculator]]
-- [[Cap Rate Calculator]]
-- [[ROI Calculator]]
-- [[1031 Exchange Calculator]]
+- [[cash-flow-calculator]]
+- [[cap-rate-calculator]]
+- [[roi-calculator]]
+- [[1031-exchange-calculator]]
 
 ### Legal Resources
 - Real estate attorneys
@@ -163,9 +163,9 @@ Systematic approach to identifying and mitigating real estate investment risks i
 - Investment advisors
 
 ## See Also
-- [[Risk Management]] for portfolio-level risk assessment
-- [[Retirement Planning]] for real estate in retirement portfolios
-- [[Alternative Investments]] for diversification strategies
+- [[risk-management]] for portfolio-level risk assessment
+- [[retirement-planning]] for real estate in retirement portfolios
+- [[alternative-investments]] for diversification strategies
 
 ---
 *Created: 2026-04-22*

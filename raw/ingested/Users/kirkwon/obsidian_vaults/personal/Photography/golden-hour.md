@@ -31,8 +31,8 @@ created: 2025-04-15
 | Attribute | Value |
 |-----------|-------|
 | **Difficulty** | Beginner |
-| **Prerequisites** | [[Photography Fundamentals]], [[Composition Techniques]] |
-| **Related Concepts** | [[Street Photography]], [[Sunset District]] |
+| **Prerequisites** | [[photography-fundamentals]], [[composition-techniques]] |
+| **Related Concepts** | [[street-photography]], [[sunset-district]] |
 | **Practice** | Plan shoots around golden hour |
 
 ## Overview
@@ -336,7 +336,7 @@ Golden hour is the period shortly after sunrise and before sunset when the sun i
 | **Twin Peaks** | Sunset | 360° city views, sun |
 | **Baker Beach** | Sunset | Beach, bridge views |
 
-See [[Sunset District]], [[Ocean Beach]] for specific SF location guides.
+See [[sunset-district]], [[ocean-beach]] for specific SF location guides.
 
 ## Blue Hour
 
@@ -377,10 +377,10 @@ See [[Sunset District]], [[Ocean Beach]] for specific SF location guides.
 
 ## Related Concepts
 
-- [[Photography Fundamentals]] - Camera basics
-- [[Composition Techniques]] - How to compose during golden hour
-- [[Street Photography]] - Candid street photography in golden light
-- [[Sunset District]] - SF location with great golden hour opportunities
+- [[photography-fundamentals]] - Camera basics
+- [[composition-techniques]] - How to compose during golden hour
+- [[street-photography]] - Candid street photography in golden light
+- [[sunset-district]] - SF location with great golden hour opportunities
 
 ## Further Reading
 

@@ -1,0 +1,30 @@
+---
+type: concept
+title: Expertise
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- mental-model
+- productivity
+- learning
+sources:
+- Expertise.md
+confidence: medium
+---
+-
+# Expertise
+
+Expertise is a conceptual tool or principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world.
+
+This mental model is referenced in Cal Newport's *Deep Work*, which emphasizes deliberate practice and skill development as pathways to expertise. However, the source material is minimal and does not elaborate on the mechanisms of expertise acquisition, such as deliberate practice theory (Anders Ericsson), the Dreyfus model of skill acquisition, or Kahneman's research on expert intuition.
+
+## Related Concepts
+- [[mental-models]]
+- [[deep-work---cal-newport]]
+- [[growth-mindset]]
+- [[grit-concept]]
+- [[deliberate-practice]]
+
+## Note
+This entry appears to be a placeholder or draft. Consider expanding with substantive content from Ericsson's deliberate practice research, the Dreyfus model, or Newport's deep work principles before treating it as a fully developed concept.
+---

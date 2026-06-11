@@ -276,10 +276,10 @@ The Sunset District is one of San Francisco's largest neighborhoods, spanning fr
 
 ## Related Concepts
 
-- [[Ocean Beach]] - The beach at Sunset's edge
-- [[Golden Gate Heights]] - Adjacent neighborhood
-- [[San Francisco City Guide]] - Broader city information
-- [[Golden Gate Park]] - The park next door
+- [[ocean-beach]] - The beach at Sunset's edge
+- [[golden-gate-heights]] - Adjacent neighborhood
+- [[san-francisco-city-guide]] - Broader city information
+- [[golden-gate-park]] - The park next door
 
 ## Resources
 

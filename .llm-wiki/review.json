@@ -1,0 +1,477 @@
+[
+  {
+    "type": "suggestion",
+    "title": "Digital Note-Taking Systems",
+    "description": "Description of what needs the user's attention: The analysis found that there are many digital note-taking systems available, each with its strengths and weaknesses. To further improve the wiki, it would be beneficial to research and compare more systems, such as Joplin, UpNote, Tana, and Poznote.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-comparison-of-digital-note-taking-systems-2026-06-11-065155.md",
+    "searchQueries": [
+      "digital note-taking systems comparison",
+      "note-taking apps for productivity",
+      "best note-taking software for writers",
+      "digital note organization tools",
+      "self-hosted note-taking solutions"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-26",
+    "resolved": true,
+    "createdAt": 1781160819697,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to comparisons/company-structure-guide.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "comparisons/company-structure-guide.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:comparisons/company-structure-guide.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-27",
+    "resolved": false,
+    "createdAt": 1781160946062
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to comparisons/youtube-watch-later-playlist-1.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "comparisons/youtube-watch-later-playlist-1.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:comparisons/youtube-watch-later-playlist-1.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-28",
+    "resolved": false,
+    "createdAt": 1781160960800
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to comparisons/youtube-watch-later-playlist.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "comparisons/youtube-watch-later-playlist.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:comparisons/youtube-watch-later-playlist.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-29",
+    "resolved": false,
+    "createdAt": 1781160970039
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/70-80-percent-budget-rule.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/70-80-percent-budget-rule.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/70-80-percent-budget-rule.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-30",
+    "resolved": false,
+    "createdAt": 1781160977214
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/Implied Volatility.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/Implied Volatility.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/Implied Volatility.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-31",
+    "resolved": false,
+    "createdAt": 1781160978313
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/Historical Volatility.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/Historical Volatility.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/Historical Volatility.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-32",
+    "resolved": false,
+    "createdAt": 1781160979209
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/LEAPS.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/LEAPS.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/LEAPS.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-33",
+    "resolved": false,
+    "createdAt": 1781160982086
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/Long Straddle.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/Long Straddle.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/Long Straddle.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-34",
+    "resolved": false,
+    "createdAt": 1781160983939
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/Naked Options Risk.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/Naked Options Risk.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/Naked Options Risk.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-35",
+    "resolved": false,
+    "createdAt": 1781160986445
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/Time Decay.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/Time Decay.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/Time Decay.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-36",
+    "resolved": false,
+    "createdAt": 1781160989845
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/Vertical Spread.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/Vertical Spread.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/Vertical Spread.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-37",
+    "resolved": false,
+    "createdAt": 1781160993383
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/Wash Sale Rule.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/Wash Sale Rule.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/Wash Sale Rule.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-38",
+    "resolved": false,
+    "createdAt": 1781160998941
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/absence-of-trust.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/absence-of-trust.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/absence-of-trust.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-39",
+    "resolved": false,
+    "createdAt": 1781161005347
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/accountability-systems.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/accountability-systems.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/accountability-systems.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-40",
+    "resolved": false,
+    "createdAt": 1781161007468
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/accountability.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/accountability.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/accountability.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-41",
+    "resolved": false,
+    "createdAt": 1781161008855
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/adus-accessory-dwelling-units.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/adus-accessory-dwelling-units.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/adus-accessory-dwelling-units.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-42",
+    "resolved": false,
+    "createdAt": 1781161015235
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/ai-as-decision-enhancement.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/ai-as-decision-enhancement.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/ai-as-decision-enhancement.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-43",
+    "resolved": false,
+    "createdAt": 1781161024956
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/algorithmic-nature-of-intuition.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/algorithmic-nature-of-intuition.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/algorithmic-nature-of-intuition.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-44",
+    "resolved": false,
+    "createdAt": 1781161038936
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/algorithms-and-wellbeing.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/algorithms-and-wellbeing.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/algorithms-and-wellbeing.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-45",
+    "resolved": false,
+    "createdAt": 1781161043477
+  },
+  {
+    "type": "suggestion",
+    "title": "Add cross-references to concepts/algorithms-mental-model.md",
+    "description": "This page has no outbound [[wikilinks]]. Consider adding cross-references to related entities and concepts.",
+    "affectedPages": [
+      "concepts/algorithms-mental-model.md"
+    ],
+    "options": [
+      {
+        "label": "Open & Edit",
+        "action": "open:concepts/algorithms-mental-model.md"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-46",
+    "resolved": false,
+    "createdAt": 1781161045491
+  },
+  {
+    "type": "suggestion",
+    "title": "Implementing PKM System",
+    "description": "Description of what needs the user's attention: The wiki should have a page on implementing a PKM system, including step-by-step guides and best practices.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-implement-a-pkm-system-2026-06-11-065159.md",
+    "affectedPages": [
+      "wiki/concepts/personal-knowledge-management.md",
+      "wiki/index.md"
+    ],
+    "searchQueries": [
+      "pkm system implementation guide",
+      "personal knowledge management best practices",
+      "note-taking tools for pkm"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-47",
+    "resolved": false,
+    "createdAt": 1781161872320
+  }
+]

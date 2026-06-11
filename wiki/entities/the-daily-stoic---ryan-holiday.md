@@ -1,0 +1,31 @@
+---
+type: entity
+title: The Daily Stoic - Ryan Holiday
+created: 2026-04-29
+updated: 2026-04-29
+tags:
+- books
+- philosophy
+- stoicism
+sources:
+- Stoic.md
+related:
+- ryan-holiday
+- stoic-mental-model
+- the-obstacle-is-the-way
+---
+-
+# The Daily Stoic - Ryan Holiday
+
+The Daily Stoic is a book by Ryan Holiday that presents Stoic philosophy through daily meditations and practical wisdom. It serves as one of two sources supporting the Stoic mental model in this wiki.^[raw/articles/Stoic.md]
+
+## Overview
+
+The Daily Stoic distills ancient Stoic teachings into actionable daily reflections, connecting to the broader Stoic mental model of pattern recognition and navigating complexity through disciplined thinking.^[raw/articles/Stoic.md]
+
+## Related Works
+
+- [[the-obstacle-is-the-way-ryan-holiday]]
+- [[the-stoic-mental-model]]
+- [[ryan-holiday]]
+---

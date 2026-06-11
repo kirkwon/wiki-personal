@@ -122,8 +122,8 @@ San Francisco is a vibrant, hilly city on the tip of the San Francisco Peninsula
 ### Other Neighborhoods
 
 **Western SF:**
-- [[Golden Gate Heights]]: Hilltop views, stairways
-- [[Sunset District]]: Beach, fog, families
+- [[golden-gate-heights]]: Hilltop views, stairways
+- [[sunset-district]]: Beach, fog, families
 - **Parkside**: Near Ocean Beach
 - **Ingleside**: Near SF State
 
@@ -392,10 +392,10 @@ San Francisco is a vibrant, hilly city on the tip of the San Francisco Peninsula
 
 ## Related Concepts
 
-- [[Sunset District]] - Western SF neighborhood
-- [[Ocean Beach]] - SF's main beach
-- [[Golden Gate Heights]] - Hilltop neighborhood
-- [[Golden Gate Park]] - Major urban park
+- [[sunset-district]] - Western SF neighborhood
+- [[ocean-beach]] - SF's main beach
+- [[golden-gate-heights]] - Hilltop neighborhood
+- [[golden-gate-park]] - Major urban park
 
 ## Resources
 

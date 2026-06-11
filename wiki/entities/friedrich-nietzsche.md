@@ -1,0 +1,31 @@
+---
+type: entity
+title: Friedrich Nietzsche
+created: 2026-05-04
+updated: 2026-06-11
+tags:
+- person
+- philosophy
+- books
+sources:
+- Beyond Good and Evil
+- Friedrich Nietzsche.md
+related:
+- beyond-good-and-evil-nietzsche
+- master-vs-slave-morality
+- will-to-power
+- free-spirit-nietzschean-concept
+- genealogical-analysis-of-moral-concepts
+---
+# Friedrich Nietzsche
+German philosopher (1844–1900) known for his radical critique of traditional morality, religion, and philosophy. His works, including *Beyond Good and Evil*, *Thus Spoke Zarathustra*, and *On the Genealogy of Morality*, profoundly influenced existentialism, postmodernism, and contemporary moral philosophy.
+
+## Key Contributions
+- Introduced the genealogical method for tracing moral origins
+- Distinguished between [[master-vs-slave-morality]]
+- Formulated the concept of the [[will-to-power]]
+- Proposed the Übermensch as an ideal of self-overcoming
+- Advocated for the revaluation of all values
+
+## Related Concepts
+See [[beyond-good-and-evil-nietzsche]], [[master-vs-slave-morality]], [[will-to-power]], [[free-spirit-nietzschean-concept]], and [[genealogical-analysis-of-moral-concepts]] for more information on the concepts related to Friedrich Nietzsche's philosophy.

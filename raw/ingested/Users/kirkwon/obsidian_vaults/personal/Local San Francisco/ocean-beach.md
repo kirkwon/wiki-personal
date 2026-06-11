@@ -418,9 +418,9 @@ Ocean Beach is San Francisco's main beach, stretching from the Cliff House in th
 
 ## Related Concepts
 
-- [[Sunset District]] - Neighborhood bordering the beach
-- [[Golden Gate Heights]] - Adjacent neighborhood
-- [[San Francisco City Guide]] - Broader city information
+- [[sunset-district]] - Neighborhood bordering the beach
+- [[golden-gate-heights]] - Adjacent neighborhood
+- [[san-francisco-city-guide]] - Broader city information
 
 ## Resources
 

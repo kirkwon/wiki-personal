@@ -16,11 +16,11 @@ updated: '2026-05-14'
 
 ## Quick Reference
 
-### Field**: [[Gastronomy]]
+### Field**: [[gastronomy]]
 ### Type**: Cooking Technique
 ### Purpose**: Infuse flavor, tenderize, prepare ingredients
 ### Key Elements**: Aromatics, soy sauce, timing
-### Related Concepts**: [[Aromatics]], [[Wok Hei]], [[Stir-Fry]], [[Flavor Building]]
+### Related Concepts**: [[aromatics]], [[wok-hei]], [[stir-fry]], [[flavor-building]]
 
 
 
@@ -210,7 +210,7 @@ French culinary term meaning "everything in its place" - preparing all ingredien
 > Use: Chinese restaurant-style stir-fry, beef, chicken
 
 ## See Also
-[[Aromatics]] | [[Wok Hei]] | [[Stir-Fry Technique]] | [[Chinese Sauces]] | [[Flavor Building]]
+[[aromatics]] | [[wok-hei]] | [[stir-fry-technique]] | [[chinese-sauces]] | [[flavor-building]]
 
 ---
 *Added: 2026-04-20*
