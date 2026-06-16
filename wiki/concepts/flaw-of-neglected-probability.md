@@ -8,6 +8,8 @@ tags:
 - decision-making
 - risk
 - cognitive-bias
+---
+
 sources:
 - fooled
 - Flaw of Neglected Probability

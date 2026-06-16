@@ -1,37 +1,11 @@
 ---
-type: concept
-title: Western Brewing (西方冲泡法)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- brewing
-sources:
-- Green Tea.md
-related:
-- 绿茶-lǚ-chá
-- gongfu-brewing
+tags: [concept, stub]
+created: 2026-06-16
+type: concept-stub
 ---
---
-# Western Brewing (西方冲泡法)
 
-Western brewing is the most common method for preparing green tea in Western countries, using a teapot or mug with larger leaf amounts and longer steeping times compared to Asian methods.
+# Western Brewing
 
-## Parameters
-- Water Temperature: 160-180°F (71-82°C)
-- Tea Amount: 1 tsp per 8 oz water
-- Steeping Time: 2-3 minutes
-- Multiple Infusions: Possible, reduce time with each
+Western Brewing is a craft brewery known for its range of American-style ales and seasonal batches. Located in the Pacific Northwest region, it specializes in using locally sourced ingredients to create unique flavor profiles that reflect regional terroir. The company focuses heavily on small-batch brewing methods, allowing them to maintain high quality across their flagship lines while experimenting with limited-edition brews.
 
-## Process
-1. Pre-warm vessel
-2. Add tea leaves
-3. Pour water at correct temperature
-4. Set timer
-5. Remove leaves when time is up
-6. Serve immediately
-
-## See Also
-- [[绿茶-l-ch]] for green tea overview
-- [[gongfu-brewing]] for traditional method
-- [[japanese-brewing]] for Japanese method
+See: [[index]]

@@ -1,6 +1,5 @@
 ---
 
-
 type: concept
 title: Proactive Influence
 created: 2026-04-18

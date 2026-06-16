@@ -1,7 +1,7 @@
 ---
-type: concept
-title: Self-Harness
-tags:
+ type: concept
+ title: Self-Harness
+ tags:
 - concept
 - agent
 - agentic-ai
@@ -18,7 +18,7 @@ tags:
 - benchmarks
 - self-improvement
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-11
 sources:
 - raw/papers/2606.09498.md
 ---
@@ -51,6 +51,8 @@ Qualitative analyses show that Self-Harness does not simply add generic instruct
 - [[autogpt]] - Early LLM-agent loop for autonomous task completion
 - [[babyagi]] - Task-driven autonomous agent framework
 - [[large-language-models-llms]] - Foundation for the agents that Self-Harness improves
+- [[karpathy-self-harness-enhancement]] - Karpathy‑enhanced Self‑Harness methodology for improving data‑fetch and macro‑assembly scripts
+- [[methodology-loop]] - Three‑layered improvement system (inner Self‑Harness loop, validation gate, meta‑loop to refine the inner loop)
 
 ## Applications
 Self-Harness can be applied to any LLM-based agent system where:

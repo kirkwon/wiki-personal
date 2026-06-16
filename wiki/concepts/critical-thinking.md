@@ -1,11 +1,19 @@
 ---
+tags: [concept, thinking, reasoning, metacognition]
+created: 2026-06-15
 type: concept
-title: Critical Thinking
-created: 2026-06-10
-updated: 2026-06-10
-tags: [critical-thinking, decision-making]
-related: [personal-knowledge-management, information-literacy]
-sources: ["research-implement-a-pkm-system-2026-06-11-065159.md"]
 ---
+
 # Critical Thinking
-Critical thinking is the systematic evaluation and analysis of information to form a judgment or decision.
+
+The systematic evaluation of information, arguments, and beliefs using logic, evidence, and reasoned analysis rather than intuition, emotion, or authority. The core skill of a Bayesian Rogue.
+
+## Key Practices
+1. **Question premises** — what assumptions are hidden in the framing?
+2. **Seek disconfirming evidence** — what would prove this wrong?
+3. **Check for logical fallacies** — straw man, false dichotomy, appeal to authority
+4. **Evaluate source reliability** — who is making the claim, and what's their incentive?
+5. **Calibrate confidence** — how sure are you, really?
+
+## Connection to Cognitive Biases
+Critical thinking is the antidote to [[confirmation-bias]], [[availability-heuristic]], and [[dunning-kruger-effect]]. The meta-critic skill formalizes this in agent workflows.

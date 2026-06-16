@@ -1,31 +1,23 @@
 ---
+tags: [concept, cognitive-bias, mental-model, heuristics]
+created: 2026-06-15
 type: concept
-title: Availability Heuristic
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cognitive-bias
-- decision-making
-- psychology
-sources:
-- cognitive-biases-library.md
-related:
-- cognitive-biases-library
-- probability-and-judgment-under-uncertainty
-- decision-making-frameworks
 ---
---
+
 # Availability Heuristic
 
-The availability heuristic is the tendency to overestimate the likelihood of events based on how easily examples come to mind. Vivid, recent, or emotionally charged information is more readily recalled, leading to disproportionate fear or confidence relative to actual risk.
+**Origin:** Tversky & Kahneman (1973)  
+**Category:** Cognitive bias
+
+A mental shortcut where we judge the frequency or probability of an event by how easily examples come to mind. Events that are vivid, recent, or emotionally charged are recalled more easily and therefore perceived as more likely.
 
 ## Examples
-- After seeing a plane crash on the news, you think flying is more dangerous than driving
-- Fearing shark attacks (1 in 3.7 million) more than heart disease (1 in 6)
+- Fear of plane crashes after seeing news coverage, despite driving being far more dangerous
+- Overestimating shark attack risk after watching Jaws
+- Thinking dramatic causes of death (terrorism, murder) are more common than prosaic ones (heart disease, diabetes)
 
-## Mitigation
-- Look at actual data, not vivid examples
-- Consider base rates before reacting to anecdotes
+## Relevance
+Availability interacts with [[confirmation-bias]] — we recall evidence that supports our existing beliefs more readily. Important for decision-making in portfolio construction (recent market moves feel more significant than they statistically are) and risk assessment.
 
-## Connection to Other Concepts
-Relates to [[base-rate-neglect]] and [[probability-and-judgment-under-uncertainty]]. In health decisions, it drives overweighting of vivid risks over common ones.
+## Counter
+Use base rates. Ask: "What do the actual statistics say?" rather than "What comes to mind first?"

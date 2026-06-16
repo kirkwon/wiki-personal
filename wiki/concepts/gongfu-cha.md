@@ -1,41 +1,12 @@
 ---
-type: concept
-title: 功夫茶冲泡
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- brewing
-- chinese
-sources:
-- Pu-erh Tea.md
-related:
-- pu-erh-tea
-- tea
-- brewing-methods
+tags: [concept, stub]
+created: 2026-06-16
+type: concept-stub
 ---
---
-# 功夫茶冲泡
 
-功夫茶是传统中国茶冲泡方法，特别适合普洱茶等需要多次萃取的茶叶。通过小壶、短时间、多次冲泡来充分展现茶叶的复杂风味。
+# Gongfu Cha
 
-## 参数
-- **茶叶量**：5-7g每100ml水
-- **水温**：95-100°C
-- **浸泡时间**：10-30秒，逐次增加
-- **冲泡次数**：8-15次以上
+Gongfu Cha ("Kung Fu Tea") is an elaborate and highly refined traditional Chinese method of brewing tea, emphasizing the careful preparation and multiple infusions of a single batch of premium leaves. The technique focuses on achieving optimal flavor extraction through precise control over water temperature, steeping time, and vessel selection (often utilizing a Gaiwan or Yixing teapot). Rather than simply making a cup of tea, Gongfu Cha is an art form that elevates the tasting experience, allowing the drinker to appreciate subtle notes and nuances across successive steepings.
 
-## 步骤
-1. 用热水短暂冲洗茶叶
-2. 首泡10-20秒
-3. 后续每泡增加5-10秒
-4. 将各泡茶汤汇入公道杯
-5. 品味逐渐演变的风味
-
-## 注意事项
-- 使用沸水以充分萃取
-- 压制茶饼需先掰开
-- 年份越久的普洱可增加首泡时间
-
-## 相关
-[[Pu-erh Tea]] | [[tea]] | [[brewing-methods]]
+See: [[index]]
+---

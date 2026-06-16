@@ -1,32 +1,12 @@
 ---
-title: dashi
-created: 2026-06-10
-updated: 2026-06-10
-type: concept
-tags: []
-sources: []
+tags: [concept, stub]
+created: 2026-06-16
+type: concept-stub
 ---
 
-# dashi
+# Dashi
 
-Dashi is a traditional Japanese stock made from simmered soybeans or kelp t[1D[K
-that forms the base of many dishes like miso soup. As an essential ingredie[8D[K
-ingredient in Japanese cuisine, its complex flavors influence taste percept[7D[K
-perception and cultural identity. Understanding dashi contributes to broade[6D[K
-broader insights into cooking chemistry and sensory processing within Cogni[5D[K
-Cognitive Science studies.
+Dashi is a fundamental Japanese stock or broth that serves as the base for countless dishes, ranging from miso soup to noodle broths. It is typically made by steeping ingredients like kombu (dried kelp) and katsuobushi (dried bonito flakes) in water. The resulting liquid has a delicate umami flavor profile that enhances the natural taste of accompanying ingredients without overpowering them.
 
-## Backlinks
-- [[concepts/japanese-cuisine]]
-- [[concepts/sushi-and-sashimi]]
-- [[queries/ramen]]
-- [[raw/ingested/Gastronomy/Cuisines/Japanese/Concepts/ramen]]
-- [[raw/ingested/Gastronomy/Cuisines/Japanese/Concepts/sushi-sashimi]]
-- [[raw/ingested/Gastronomy/Cuisines/Japanese/Index]]
-- [[raw/ingested/Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Japanese/Concepts/ramen]]
-- [[raw/ingested/Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Japanese/Concepts/sushi-sashimi]]
-- [[raw/ingested/Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Japanese/Index]]
-- [[sources/ramen]]
-
+See: [[index]]
 ---
-Created by Broken Link Checker.
