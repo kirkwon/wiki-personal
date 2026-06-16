@@ -1,21 +1,12 @@
 ---
-
+tags: [concept]
+created: 2026-06-16
 type: concept
-title: Principles-Driven Decision Making
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- mental-models
-- investing
-related:
-- principles-ray-dalio
-- ray-dalio
-- decision-making-frameworks
-- systematic-decision-making
-- decision-quality-vs-outcome-quality
-- investment-strategies-for-life-satisfaction
-sources:
-- principles
-- principles-ray-dalio
-----ray-dalio.md"]
+---
+
+# Principles-Driven Decision Making
+
+Principles-Driven Decision Making (PDDM) is a structured approach to problem-solving where decisions are guided by deeply held, explicitly defined core values or principles rather than relying on immediate gut feelings, organizational hierarchy, or short-term expediency. Instead of asking "Who says this should be done?" or "What feels right?", practitioners ask, "Does this action align with our stated guiding principles?" This framework promotes consistency and ethical integrity by providing a consistent filter through which all options must pass before implementation.
+
+See: [[index]]
+---

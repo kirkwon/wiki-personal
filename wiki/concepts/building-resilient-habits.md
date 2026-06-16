@@ -1,20 +1,12 @@
 ---
-
-title: Building Resilient Habits
+tags: [concept]
+created: 2026-06-16
 type: concept
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- habit-formation
-- psychology
-related:
-- david-allen
-- getting-things-done-gtd
-- embracing-flexibility
-- fogg-behavior-model
-- habit-testing
-sources:
-- ready-for-anything
-- david-allen
-----david-allen.md"]
+---
+
+# Building Resilient Habits
+
+This approach involves designing systematic behavioral routines that are intentionally structured to survive periods of intense disruption, stress, or significant life change. Unlike standard habit formation, resilience focuses on building flexible "habit systems" that can degrade gracefully rather than collapse entirely when external conditions shift. Key principles include maintaining minimum viable actions and identifying adaptive triggers to ensure continuity even when optimal execution is impossible. This framework treats habits not as fixed rules, but as adaptable networks of supportive behaviors.
+
+See: [[index]]
+---

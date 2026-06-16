@@ -1,20 +1,12 @@
 ---
-
-title: The Power of Clarity
+tags: [concept]
+created: 2026-06-16
 type: concept
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- cognitive-science
-- decision-making
-related:
-- david-allen
-- getting-things-done-gtd
-- the-new-now
-- decision-quality-vs-outcome-quality
-- systematic-decision-making
-sources:
-- ready-for-anything
-- david-allen
-----david-allen.md"]
+---
+
+# The Power of Clarity
+
+The Power of Clarity, derived from productivity methodologies like Getting Things Done (GTD), emphasizes that ambiguity is a primary source of mental stress and inefficiency. It posits that reducing cognitive load requires establishing crystal-clear outcomes for projects and defining the single next physical action required to move forward. By eliminating vague goals and nebulous tasks, individuals can prevent "paralysis by analysis" and maintain consistent momentum toward defined endpoints. This systematic focus transforms overwhelming complexity into manageable, actionable steps.
+
+See: [[index]]
+---

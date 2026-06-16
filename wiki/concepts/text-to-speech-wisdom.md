@@ -1,3 +1,12 @@
 ---
-\n-title: Extracted Wisdom: Text-to-Speech\n-source: /Users/kirkwon/wiki-personal/concepts/text-to-speech.md\ndate: 2026-05-09\ntype: wisdom\ntags: [tts, insights]\n
----\n\n# Extracted Wisdom: Text-to-Speech\n\n## Provider Options\n- For quick cloud-based audio in MARP presentations, use `gtts` (Google Text-to-Speech).\n- For offline synthesis in MARP presentations, use `pyttsx3` for cross-platform, no-internet TTS.\n- Explore KittenTTS (GitHub: KittenML/KittenTTS) as an open-source, lightweight alternative.\n- Consider ElevenLabs for high-quality, natural-sounding TTS via API.\n- Evaluate Microsoft Azure Cognitive Services Text to Speech for scalable, enterprise-grade voices.\n- Google Cloud Text-to-Speech offers WaveNet voices and extensive language support.\n- The Python package `gTTS` provides a simple interface to Google's TTS engine.\n\n## Local Setup (MARP presentations)\n- Use `gtts` for generating audio files directly from Markdown slide notes.\n- Use `pyttsx3` when internet access is unavailable or for privacy-sensitive content.\n- Both tools can be invoked via command line or integrated into slide generation scripts.\n\n## Integration and Linking\n- Link this TTS concept from AI-related notes (e.g., [[ai-as-decision-enhancement]]) or tool pages for easy reference.\n- Maintain a centralized concept note to avoid duplicating provider details across multiple files.\n\n## Related Concepts\n- Connect TTS to [[local-ai-models]] when considering offline, self-hosted solutions.\n- TTS intersects with [[mcp-protocol]] for potential voice-enabled AI agent interactions.\n- Consider TTS as a component of [[ai-as-decision-enhancement]] for auditory feedback in decision systems.\n\n---\n*Extracted from source text. All insights are directly derived from the original content.*\n
+tags: [concept]
+created: 2026-06-16
+type: concept
+---
+
+# Text-to-Speech Wisdom
+
+Text-to-Speech (TTS) Wisdom refers to the holistic understanding and application of synthetic voice technology across various media formats. It encompasses technical best practices, including selecting appropriate voices (e.g., emotional range, accent), optimizing SSML markup for natural pacing, and ensuring linguistic accuracy. This wisdom guides developers in moving beyond simple reading functionality toward creating deeply immersive and accessible audio experiences for education, e-learning, and digital content delivery.
+
+See: [[index]]
+---
