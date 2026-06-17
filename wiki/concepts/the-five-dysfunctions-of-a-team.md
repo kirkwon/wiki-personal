@@ -2,6 +2,7 @@
 
 type: concept
 title: The Five Dysfunctions of a Team
+description: "Trust, conflict, commitment, accountability, and results define effective teamwork dynamics."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

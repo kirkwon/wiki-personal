@@ -2,6 +2,7 @@
 
 type: concept
 title: 'Step 3: Achieve Commitment'
+description: "Step 3: Achieve Commitment | concept | management, team-dynamics, prescriptive."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

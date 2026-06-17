@@ -2,6 +2,7 @@
 
 type: concept
 title: Reducing Variability through Statistical Measures
+description: "Reducing Variability through Statistical Measures | concept | statistics, risk, philosophy."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

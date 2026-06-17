@@ -2,6 +2,7 @@
 
 type: concept
 title: The Fundamentals of Spice & Flavor Pairing
+description: "Mastering flavor combinations and spice usage for elevated culinary experiences and depth."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

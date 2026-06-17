@@ -2,6 +2,7 @@
 
 type: concept
 title: Titan Mindset
+description: "Unwavering focus and deep thinking to master any challenge, achieving peak cognitive performance consistently."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

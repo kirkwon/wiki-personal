@@ -1,6 +1,6 @@
 ---
 type: source
-title: CSV Lens — CSV Inspector
+title: CSV Lens - CSV Inspector
 description: "--
 CSV Lens — CSV Inspector"
 created: 2026-04-29

@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Badanie: Dodawanie odniesień krzyżowych do pojęć AI"
+title: "Adding Cross-References to AI Concepts"
 description: "Badanie: Dodawanie odniesień krzyżowych do pojęć AI
 Wprowadzenie
 Badanie to dotyczy dodawania odniesień krzyżowych do pojęć AI w celu poprawy ich zrozumiałości i wykorzystania w procesach decyzyjnych."

@@ -2,6 +2,7 @@
 
 type: concept
 title: Planning Your Week - The Meal Prep Blueprint
+description: "Planning Your Week - The Meal Prep Blueprint | concept | cooking, meal-planning."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

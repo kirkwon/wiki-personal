@@ -2,6 +2,7 @@
 
 type: concept
 title: Self-Organization and Emergence
+description: "Self-Organization and Emergence | concept | technology, complexity-science, mental-models."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

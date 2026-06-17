@@ -8,7 +8,7 @@ modified: 2026-04-22
 tags: []
 related: []
 status: draft | review | complete
-title: '{{title}}'
+title: "When to Use"
 description: "When To Use
 <!-- Situations where this framework is appropriate -->"
 updated: *id001

@@ -2,6 +2,7 @@
 
 type: concept
 title: Habit Loops
+description: "Understanding the cyclical process that governs how routines and behaviors are formed."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Time Audit
+description: "Tracking time use reveals patterns; optimizing life by understanding where minutes truly go."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

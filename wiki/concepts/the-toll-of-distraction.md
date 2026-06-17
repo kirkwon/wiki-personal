@@ -2,6 +2,7 @@
 
 type: concept
 title: The Toll of Distraction
+description: "Technology's constant pull erodes focus and deep work capacity, draining mental energy slowly."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

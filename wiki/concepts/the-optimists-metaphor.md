@@ -2,6 +2,7 @@
 
 type: concept
 title: The Optimist's Metaphor
+description: "Hope as a lens focusing on potential; belief shapes reality and perception itself."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

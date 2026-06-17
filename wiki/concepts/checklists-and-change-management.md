@@ -2,6 +2,7 @@
 
 type: concept
 title: Checklists and Change Management
+description: "Integrating checklists into change protocols to ensure consistency and mitigate risks during transitions."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

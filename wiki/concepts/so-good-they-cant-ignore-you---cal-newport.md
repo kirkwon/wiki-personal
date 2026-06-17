@@ -1,6 +1,6 @@
 ---
 type: concept
-title: So Good They Can't Ignore You — Cal Newport
+title: So Good They Can't Ignore You - Cal Newport
 description: "--
 So Good They Can't Ignore You"
 created: 2026-04-29

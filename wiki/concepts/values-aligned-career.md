@@ -2,6 +2,7 @@
 
 type: concept
 title: Values-Aligned Career
+description: "Work that reflects your core beliefs, fostering purpose and genuine professional fulfillment."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,6 @@
 ---
 type: source
-title: LLM Fit — Local Model Compatibility
+title: LLM Fit - Local Model Compatibility
 description: "--
 LLM Fit — Local Model Compatibility"
 created: 2026-04-29

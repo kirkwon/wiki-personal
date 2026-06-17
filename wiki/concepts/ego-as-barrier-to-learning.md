@@ -2,6 +2,7 @@
 
 type: concept
 title: Ego as a Barrier to Learning
+description: "Ego as a Barrier to Learning: Excessive self-importance prevents individuals from accepting new ideas or feedback."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

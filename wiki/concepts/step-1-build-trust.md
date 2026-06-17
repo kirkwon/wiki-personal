@@ -2,6 +2,7 @@
 
 type: concept
 title: 'Step 1: Build Trust'
+description: "Step 1: Build Trust | concept | management, team-dynamics, prescriptive."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

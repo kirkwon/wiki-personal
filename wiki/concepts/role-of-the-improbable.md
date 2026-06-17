@@ -2,6 +2,7 @@
 
 type: concept
 title: Role of the Improbable
+description: "Role of the Improbable | concept | philosophy, risk, decision-making."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

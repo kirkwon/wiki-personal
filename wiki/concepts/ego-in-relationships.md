@@ -2,6 +2,7 @@
 
 type: concept
 title: Ego in Relationships
+description: "Ego in Relationships: Using self-focus and defensiveness that undermines genuine connection and empathy."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

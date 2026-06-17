@@ -1,6 +1,7 @@
 ---
 
 title: Scenario Planning
+description: "Scenario Planning | concept | decision-making, mental-models, strategy."
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

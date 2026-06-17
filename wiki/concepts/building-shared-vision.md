@@ -2,6 +2,7 @@
 
 type: concept
 title: Building Shared Vision
+description: "Establishing a unified, compelling picture of the desired future state that motivates collective action."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

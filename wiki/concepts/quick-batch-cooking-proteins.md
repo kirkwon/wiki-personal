@@ -2,6 +2,7 @@
 
 type: concept
 title: Quick Batch Cooking - Proteins
+description: "Quick Batch Cooking - Proteins | concept | cooking, technique, meal-planning."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Strategic vs Reactive Thinking
+description: "Proactive planning versus responding to immediate events; foresight guides action over mere reaction."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

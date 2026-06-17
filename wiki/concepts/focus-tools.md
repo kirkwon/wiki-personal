@@ -2,6 +2,7 @@
 
 type: concept
 title: Focus Tools and Technology-Free Zones
+description: "Focus Tools and Technology-Free Zones. Strategies and physical environments designed to minimize distractions and maximize concentration."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

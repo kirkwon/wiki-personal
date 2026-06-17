@@ -8,7 +8,7 @@ modified: 2026-04-22
 tags: []
 related: []
 status: draft | review | complete
-title: '{{title}}'
+title: "Best Practices"
 description: "Best Practices
 <!-- Recommended approaches and tips -->"
 updated: *id001

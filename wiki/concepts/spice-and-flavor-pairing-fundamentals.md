@@ -2,6 +2,7 @@
 
 type: concept
 title: Spice & Flavor Pairing Fundamentals
+description: "Spice & Flavor Pairing Fundamentals | concept | cooking, technique, gastronomy."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

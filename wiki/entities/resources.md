@@ -8,7 +8,7 @@ modified: 2026-04-22
 tags: []
 related: []
 status: draft | review | complete
-title: '{{title}}'
+title: "Resources"
 description: "Resources
 - Documentation: [[]]
 - Official Site:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Reflektiivinen muistiinpanottaminen
+description: "Reflektiivinen muistiinpanottaminen | concept | learning, note-taking, productivity, writing."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

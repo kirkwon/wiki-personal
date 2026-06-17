@@ -2,6 +2,7 @@
 
 type: concept
 title: Stoic Relationships
+description: "Stoic Relationships | concept | philosophy, mental-models, psychology, communication-skills."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

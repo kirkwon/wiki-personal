@@ -1,6 +1,7 @@
 ---
 
 title: Reflect on the Day
+description: "Reflect on the Day | concept | productivity, learning, decision-making."
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

@@ -2,6 +2,7 @@
 
 type: concept
 title: Reach of Explanations
+description: "Reach of Explanations | concept | epistemology, philosophy, knowledge."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

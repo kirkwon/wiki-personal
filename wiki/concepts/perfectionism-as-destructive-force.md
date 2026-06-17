@@ -2,6 +2,7 @@
 
 type: concept
 title: Perfectionism as Destructive Force
+description: "Allowing the pursuit of flawlessness to become a paralyzing force that prevents action and completion."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

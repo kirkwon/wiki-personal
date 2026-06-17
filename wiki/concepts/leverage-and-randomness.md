@@ -2,6 +2,7 @@
 
 type: concept
 title: Leverage and Risk
+description: "The use of debt or assets to magnify potential gains, which simultaneously increases potential losses."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

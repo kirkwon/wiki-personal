@@ -2,6 +2,7 @@
 
 type: concept
 title: Emotion and Intuition in Decisions
+description: "Exploring how emotional input influences intuitive decision-making processes."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

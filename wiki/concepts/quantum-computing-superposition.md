@@ -2,6 +2,7 @@
 
 type: concept
 title: Quantum Computing and Superposition
+description: "Quantum Computing and Superposition | concept | technology, quantum-computing, decision-making."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

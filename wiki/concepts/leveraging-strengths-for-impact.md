@@ -2,6 +2,7 @@
 
 type: concept
 title: Leveraging Strengths for Impact
+description: "Identifying and utilizing personal strengths to maximize professional impact and well-being."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

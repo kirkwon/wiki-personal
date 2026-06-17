@@ -2,6 +2,7 @@
 
 type: concept
 title: Global Brain
+description: "Global Brain. The concept that human intelligence is increasingly distributed across interconnected technologies and networks."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

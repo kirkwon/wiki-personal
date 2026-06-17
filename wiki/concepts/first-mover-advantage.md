@@ -2,6 +2,7 @@
 
 type: concept
 title: First Mover Advantage
+description: "First Mover Advantage. The benefit gained by being the initial player in a new market, allowing it to establish brand loyalty and infrastructure."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Evolutionary Algorithms and Personal Growth
+description: "Applying principles of natural selection to optimize personal habits and learning processes."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

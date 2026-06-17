@@ -2,6 +2,7 @@
 
 type: concept
 title: Avoidance of Accountability
+description: "Avoidance of Accountability. The psychological tendency to deflect responsibility or avoid consequences for one's actions."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

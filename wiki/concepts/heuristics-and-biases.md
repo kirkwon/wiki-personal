@@ -2,6 +2,7 @@
 
 type: concept
 title: Heuristics and Biases
+description: "Cognitive mental shortcuts used for fast decision-making, often leading to predictable errors."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

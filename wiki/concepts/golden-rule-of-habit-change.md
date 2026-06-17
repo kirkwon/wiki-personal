@@ -2,6 +2,7 @@
 
 type: concept
 title: Golden Rule of Habit Change
+description: "Golden Rule of Habit Change. Focusing on building new positive behaviors rather than merely eliminating bad ones to achieve lasting change."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Philosophy as Practical Tool
+description: "Philosophy as Practical Tool | concept | philosophy, stoicism, self-improvement."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

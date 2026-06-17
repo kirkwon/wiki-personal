@@ -2,6 +2,7 @@
 
 type: concept
 title: Stoic Success Principles
+description: "Stoic Success Principles | concept | philosophy, mental-models, productivity, psychology."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

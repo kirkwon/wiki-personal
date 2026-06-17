@@ -2,6 +2,7 @@
 
 type: concept
 title: Equilibrium
+description: "A stable state in a system where all opposing forces are balanced."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

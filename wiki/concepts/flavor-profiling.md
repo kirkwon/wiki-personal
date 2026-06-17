@@ -2,6 +2,7 @@
 
 type: concept
 title: Flavor Profiling
+description: "Flavor Profiling. Systematically analyzing and categorizing the distinct tastes, aromas, and sensations in food or drink."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

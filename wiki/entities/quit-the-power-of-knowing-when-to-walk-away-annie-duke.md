@@ -1,7 +1,7 @@
 ---
 
 type: entity
-title: Quit — The Power of Knowing When to Walk Away
+title: Quit - The Power of Knowing When to Walk Away
 description: "Quit — The Power of Knowing When to Walk Away"
 created: 2026-04-29
 updated: 2026-05-10

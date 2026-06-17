@@ -2,6 +2,7 @@
 
 type: concept
 title: Newport Career Strategy
+description: "A focused approach to building a specialized, high-value career through deep expertise and mastery."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

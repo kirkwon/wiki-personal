@@ -2,6 +2,7 @@
 
 type: concept
 title: Social Habit Transmission
+description: "Social Habit Transmission | concept | psychology, sociology, habits."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

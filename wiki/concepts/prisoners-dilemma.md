@@ -2,6 +2,7 @@
 
 type: concept
 title: Prisoner's Dilemma
+description: "Prisoner's Dilemma | concept | mental-models, game-theory, strategic-thinking."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

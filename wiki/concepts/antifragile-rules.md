@@ -2,6 +2,7 @@
 
 type: concept
 title: Antifragile Rules
+description: "Antifragile Rules. Principles designed not just to withstand stress, but to improve and benefit from disorder and volatility."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

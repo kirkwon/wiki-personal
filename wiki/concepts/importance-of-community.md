@@ -2,6 +2,7 @@
 
 type: concept
 title: Importance of Community
+description: "How strong social bonds and community support are essential for psychological well-being."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

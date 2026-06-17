@@ -2,6 +2,7 @@
 
 type: concept
 title: The Systems Perspective
+description: "Viewing organizations as interconnected wholes to improve understanding and optimize outcomes."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

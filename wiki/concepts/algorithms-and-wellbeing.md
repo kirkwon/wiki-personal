@@ -2,6 +2,7 @@
 
 type: concept
 title: Algorithms and Wellbeing
+description: "Algorithms and Wellbeing. How automated systems influence our sense of happiness, connection, and overall mental state."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

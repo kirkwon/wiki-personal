@@ -2,6 +2,7 @@
 
 type: concept
 title: Creating the Ultimate Meal-Prep Routine
+description: "Creating the Ultimate Meal-Prep Routine. Systematizing food preparation to ensure consistent nutrition and save time throughout the week."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

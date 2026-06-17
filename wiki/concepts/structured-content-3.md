@@ -1,6 +1,6 @@
 ---
 type: note
-title: Knowledge Pipeline Architecture — Structured Content
+title: Knowledge Pipeline Architecture - Structured Content
 description: "Knowledge Pipeline Architecture — Structured Content"
 created: 2026-05-14
 updated: 2026-05-14

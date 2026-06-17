@@ -2,6 +2,7 @@
 
 type: concept
 title: Illusion of the Happy Life
+description: "Believing that external markers of success guarantee internal fulfillment or joy."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

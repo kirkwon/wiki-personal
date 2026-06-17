@@ -2,6 +2,7 @@
 
 type: concept
 title: Skill Capital
+description: "Skill Capital | concept | productivity, career-strategy, mental-models."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

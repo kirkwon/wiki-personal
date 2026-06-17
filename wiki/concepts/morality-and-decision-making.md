@@ -2,6 +2,7 @@
 
 type: concept
 title: Morality and Decision Making
+description: "The process of making decisions based on ethical principles, values, and moral frameworks."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

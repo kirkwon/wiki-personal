@@ -2,6 +2,7 @@
 
 type: concept
 title: Checklists as Cognitive Aids
+description: "Using external, systematic lists to offload working memory and improve accuracy in complex tasks."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

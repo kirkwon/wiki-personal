@@ -2,6 +2,7 @@
 
 type: entity
 title: James Surowiecki
+description: "Expert on collective intelligence and group dynamics; author of popular business and behavioral science books."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

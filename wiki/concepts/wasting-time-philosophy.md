@@ -1,7 +1,8 @@
 ---
 
 type: concept
-title: Wasting Time — Seneca's Critique
+title: Wasting Time - Seneca's Critique
+description: "Stoic wisdom on unproductive living; mastering minutes to achieve virtuous self-improvement."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

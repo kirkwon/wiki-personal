@@ -2,6 +2,7 @@
 
 type: concept
 title: Illusion of Understanding
+description: "The false confidence in one's comprehension of a complex system or subject matter."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

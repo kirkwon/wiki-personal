@@ -2,6 +2,7 @@
 
 type: concept
 title: Mental Models (Senge)
+description: "Conceptual frameworks used to understand how complex systems or ideas operate in the real world."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

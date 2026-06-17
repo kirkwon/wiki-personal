@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Διαχείριση Κινδύνου
+title: "Risk Management"
 description: "--
 Διαχείριση Κινδύνου"
 created: 2026-04-24

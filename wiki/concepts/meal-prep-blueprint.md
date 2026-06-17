@@ -2,6 +2,7 @@
 
 type: concept
 title: Meal Prep Blueprint
+description: "Systematically planning and cooking multiple meals ahead of time for healthy convenience."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

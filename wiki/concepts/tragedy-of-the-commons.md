@@ -2,6 +2,7 @@
 
 type: concept
 title: Tragedy of the Commons
+description: "Shared resources depleted by individual self-interest, harming all users over time."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

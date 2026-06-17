@@ -2,6 +2,7 @@
 
 type: concept
 title: The Power of Dialogue
+description: "Dialogue fuels learning, strengthens bonds, and drives collective problem-solving within teams."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

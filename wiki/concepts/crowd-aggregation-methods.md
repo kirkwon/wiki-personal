@@ -2,6 +2,7 @@
 
 type: concept
 title: Crowd Aggregation Methods
+description: "Crowd Aggregation Methods. Techniques used to gather, organize, and mobilize large groups of people toward a shared goal."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

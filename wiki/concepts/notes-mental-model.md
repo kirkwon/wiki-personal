@@ -2,6 +2,7 @@
 
 type: concept
 title: Notes
+description: "The act of recording key thoughts, observations, or information for later review and synthesis."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

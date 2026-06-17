@@ -2,6 +2,7 @@
 
 type: concept
 title: The Social Dimension of Slow Productivity
+description: "The Social Dimension of Slow Productivity | concept | productivity, relationships, communication."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

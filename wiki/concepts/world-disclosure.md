@@ -2,6 +2,7 @@
 
 type: concept
 title: World-Disclosure
+description: "Unveiling reality's hidden structure; transcending mere perception to grasp fundamental being."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

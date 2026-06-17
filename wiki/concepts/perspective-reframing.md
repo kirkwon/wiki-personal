@@ -2,6 +2,7 @@
 
 type: concept
 title: Perspective Reframing
+description: "Changing the way you view a situation or problem to unlock new insights and potential solutions."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

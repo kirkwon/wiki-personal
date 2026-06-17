@@ -2,6 +2,7 @@
 
 type: concept
 title: Strategic Opposition
+description: "Using opposition to habits as a tool for effective behavioral change."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

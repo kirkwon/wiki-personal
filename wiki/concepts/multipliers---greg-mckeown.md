@@ -2,6 +2,7 @@
 
 type: concept
 title: Multipliers - Greg McKeown
+description: "The ability to amplify the potential and influence of others, rather than simply managing or directing them."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

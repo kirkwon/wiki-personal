@@ -2,6 +2,7 @@
 
 type: concept
 title: Incremental Change as a Trap
+description: "The danger of making minor adjustments that prevent radical, necessary leaps in progress."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

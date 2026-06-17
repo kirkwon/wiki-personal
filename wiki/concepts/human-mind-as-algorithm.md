@@ -2,6 +2,7 @@
 
 type: concept
 title: Human Mind as Algorithm
+description: "Modeling complex human cognition, decisions, and thoughts using computational logic."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

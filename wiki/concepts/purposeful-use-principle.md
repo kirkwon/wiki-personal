@@ -2,6 +2,7 @@
 
 type: concept
 title: Purposeful Use Principle
+description: "Purposeful Use Principle | concept | productivity, technology, decision-making."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

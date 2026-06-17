@@ -2,6 +2,7 @@
 
 type: concept
 title: Eettiset näkökulmat tutkimuksessa ja kokeilemisessa
+description: "Considering moral guidelines when conducting scientific research or experiments."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

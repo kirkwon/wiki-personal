@@ -2,6 +2,7 @@
 
 type: concept
 title: Checklists in Resource-Limited Settings
+description: "Implementing simple, reliable protocols to maintain quality care and efficiency when resources are limited."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

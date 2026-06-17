@@ -2,6 +2,7 @@
 
 type: concept
 title: Grit
+description: "Sustained passion and effort toward long-term goals despite failure or difficulty."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

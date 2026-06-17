@@ -8,7 +8,7 @@ modified: 2026-04-22
 tags: []
 related: []
 status: draft | review | complete
-title: '{{title}}'
+title: "Examples"
 description: "Examples
 <!-- Real-world implementations -->"
 updated: *id001

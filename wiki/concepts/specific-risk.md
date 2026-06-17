@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Σαπα longstanding Κίνδυνος
+title: "Specific Risk"
 description: "--
 Σαπα longstanding Κίνδυνος"
 created: 2026-04-24

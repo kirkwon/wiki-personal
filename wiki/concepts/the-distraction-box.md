@@ -1,6 +1,7 @@
 ---
 
 title: The Distraction Box
+description: "A tool to minimize focus drift and optimize deep work through structured distraction management."
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Τυπική Απόκλιση
+title: "Standard Deviation (Finance)"
 description: "Η τυπική απόκλιση είναι μέτρηση μεταβλητότητας — υψηλότερη τιμή σημαίνει περισσότερο ρυθμιστικό."
 created: 2026-04-24
 updated: 2026-04-24

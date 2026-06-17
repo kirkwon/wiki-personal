@@ -2,6 +2,7 @@
 
 type: concept
 title: Building Checklists Guide
+description: "Creating standardized, step-by-step guides to ensure critical tasks are never missed or performed incorrectly."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

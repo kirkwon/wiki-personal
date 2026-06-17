@@ -2,6 +2,7 @@
 
 type: concept
 title: Multiplier Mindset
+description: "Thinking in terms of leverage and multiplying effort to achieve maximum impact across multiple areas."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

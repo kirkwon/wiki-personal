@@ -2,6 +2,7 @@
 
 type: concept
 title: Values-Based Prioritization
+description: "Aligning choices with core beliefs and values for meaningful, intentional life decisions."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: The Most Human Human
+description: "Exploring consciousness and humanity's limits through AI, challenging what it means to be alive."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

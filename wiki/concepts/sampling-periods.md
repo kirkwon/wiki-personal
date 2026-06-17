@@ -2,6 +2,7 @@
 
 type: concept
 title: Sampling Periods
+description: "Sampling Periods | concept | learning, decision-making, exploration."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

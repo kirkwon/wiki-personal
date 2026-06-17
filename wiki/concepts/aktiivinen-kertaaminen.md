@@ -2,6 +2,7 @@
 
 type: concept
 title: Aktiivinen kertaaminen
+description: "Aktiivinen kertaaminen. Actively testing oneself on learned material rather than passively reviewing notes to boost memory retention."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

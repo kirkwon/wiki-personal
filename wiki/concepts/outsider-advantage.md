@@ -2,6 +2,7 @@
 
 type: concept
 title: Outsider Advantage
+description: "The benefit of viewing a problem or situation with fresh eyes, unburdened by internal assumptions."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

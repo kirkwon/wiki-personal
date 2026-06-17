@@ -2,6 +2,7 @@
 
 type: concept
 title: The Role of Leadership in Checklist Adoption
+description: "Leaders modeling the use of structured aids to build trust and normalize procedural adherence within a team."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

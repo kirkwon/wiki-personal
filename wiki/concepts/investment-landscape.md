@@ -2,6 +2,7 @@
 
 type: concept
 title: The Investment Landscape
+description: "A comprehensive view of available assets, market conditions, and risk profiles for wealth building."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Embracing Failure as Learning
+description: "Embracing Failure as Learning: Viewing setbacks not as endpoints, but as essential data points for improvement."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

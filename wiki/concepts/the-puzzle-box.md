@@ -2,6 +2,7 @@
 
 type: concept
 title: The Puzzle Box (Thorndike)
+description: "Early insight learning model; solving problems through sudden realization of connections."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

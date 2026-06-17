@@ -2,6 +2,7 @@
 
 type: concept
 title: Heuristics and Instincts
+description: "Relying on quick, gut feelings and accumulated knowledge instead of slow logic."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

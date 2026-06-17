@@ -1,6 +1,6 @@
 ---
 type: note
-title: Personal Knowledge Ecosystem — Structured Content
+title: Personal Knowledge Ecosystem - Structured Content
 description: "Personal Knowledge Ecosystem — Structured Content"
 created: 2026-05-14
 updated: 2026-05-14

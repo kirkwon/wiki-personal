@@ -2,6 +2,7 @@
 
 type: concept
 title: Social Value Alignment
+description: "Social Value Alignment | concept | ai, ai-safety, ethics, decision-making."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

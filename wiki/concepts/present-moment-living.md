@@ -2,6 +2,7 @@
 
 type: concept
 title: Present-Moment Living
+description: "Present-Moment Living | concept | philosophy, mindfulness, stoicism, productivity."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

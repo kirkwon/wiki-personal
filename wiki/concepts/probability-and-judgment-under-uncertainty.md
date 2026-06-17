@@ -2,6 +2,7 @@
 
 type: concept
 title: Probability and Judgment Under Uncertainty
+description: "Probability and Judgment Under Uncertainty | concept | cognitive-science, decision-making, cognitive-bias, bayesian-thinking."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 
 title: Strategic Bluffing
+description: "How calculated deception can improve decision-making using psychological models."
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

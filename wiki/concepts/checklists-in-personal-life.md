@@ -2,6 +2,7 @@
 
 type: concept
 title: Checklists in Personal Life
+description: "Applying structured guides to personal routines to enhance organization and reduce cognitive load."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

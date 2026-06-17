@@ -1,6 +1,6 @@
 ---
 type: note
-title: Personal Knowledge Ecosystem — System Overview
+title: Personal Knowledge Ecosystem - System Overview
 description: "Personal Knowledge Ecosystem — System Overview"
 created: 2026-05-14
 updated: 2026-05-14

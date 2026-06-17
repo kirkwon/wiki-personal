@@ -2,6 +2,7 @@
 
 type: concept
 title: Infinite Game Mindset
+description: "Treating goals and efforts as endless processes, focusing on growth rather than victory."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

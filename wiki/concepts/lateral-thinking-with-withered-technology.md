@@ -2,6 +2,7 @@
 
 type: concept
 title: Lateral Thinking with Withered Technology
+description: "Using imaginative, non-obvious approaches to solve modern problems using outdated or discarded technology."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

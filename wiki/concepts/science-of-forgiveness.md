@@ -2,6 +2,7 @@
 
 type: concept
 title: Science of Forgiveness
+description: "Science of Forgiveness | concept | psychology, well-being, personal-growth."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: 'Experiment and Exploration: Forms of World-Disclosure'
+description: "The process by which knowledge is gained and reality is understood through active inquiry."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

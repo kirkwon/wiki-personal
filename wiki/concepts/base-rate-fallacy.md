@@ -2,6 +2,7 @@
 
 type: concept
 title: Base Rate Fallacy
+description: "Base Rate Fallacy. Ignoring statistical probabilities (base rates) and over-relying on specific, immediate evidence when judging."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

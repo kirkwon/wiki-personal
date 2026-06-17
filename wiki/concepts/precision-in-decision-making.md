@@ -2,6 +2,7 @@
 
 type: concept
 title: Precision in Decision-Making
+description: "Precision in Decision-Making | concept | decision-making, productivity, frameworks."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

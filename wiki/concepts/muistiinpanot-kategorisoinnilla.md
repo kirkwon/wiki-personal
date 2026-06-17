@@ -2,6 +2,7 @@
 
 type: concept
 title: Muistiinpanot kategorisoinnilla
+description: "Structuring and grouping notes by topic or category to improve organization and recall."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

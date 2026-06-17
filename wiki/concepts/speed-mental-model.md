@@ -2,6 +2,7 @@
 
 type: concept
 title: Speed (mental model)
+description: "Speed (mental model) | concept | mental-model, productivity, learning."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

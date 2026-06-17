@@ -2,6 +2,7 @@
 
 type: concept
 title: Decision Making Under Uncertainty
+description: "Decision Making Under Uncertainty. Choosing actions when outcomes are unknown or probabilities cannot be accurately calculated."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Delayed Gratification
+description: "Delayed Gratification: Choosing immediate sacrifice for a larger, more valuable reward in the future."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

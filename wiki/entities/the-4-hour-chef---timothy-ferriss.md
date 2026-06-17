@@ -2,6 +2,7 @@
 
 type: entity
 title: The 4-Hour Chef
+description: "Master efficient kitchen techniques and meal planning for busy lives with this practical culinary guide."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

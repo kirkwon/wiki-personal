@@ -2,6 +2,7 @@
 
 type: concept
 title: Embracing Change and Uncertainty
+description: "Embracing Change and Uncertainty: Developing resilience and adaptability when faced with unpredictable environments."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

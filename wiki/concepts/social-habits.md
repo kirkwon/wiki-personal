@@ -2,6 +2,7 @@
 
 type: concept
 title: Social Habits
+description: "Social Habits | concept | habits, psychology, communication."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

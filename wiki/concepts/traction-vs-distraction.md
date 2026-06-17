@@ -2,6 +2,7 @@
 
 type: concept
 title: Traction vs. Distraction
+description: "Focus energy on meaningful progress rather than superficial, attention-sapping diversions."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

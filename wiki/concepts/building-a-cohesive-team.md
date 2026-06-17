@@ -2,6 +2,7 @@
 
 type: concept
 title: Building a Cohesive Team
+description: "Developing internal synergy and shared trust among members to achieve collective goals efficiently."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Diversifikation – Vier Typen
+title: "Diversification: Four Types"
 description: "--
 Diversifikation – Vier Typen"
 created: 2026-04-24

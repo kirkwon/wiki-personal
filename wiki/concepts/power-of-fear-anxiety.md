@@ -2,6 +2,7 @@
 
 type: concept
 title: Power of Fear, Anxiety, and Worry
+description: "Power of Fear, Anxiety, and Worry | concept | psychology, emotion, personal-development."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

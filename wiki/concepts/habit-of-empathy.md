@@ -2,6 +2,7 @@
 
 type: concept
 title: Habit of Empathy
+description: "The consistent practice of recognizing and sharing the feelings of others for better connection."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

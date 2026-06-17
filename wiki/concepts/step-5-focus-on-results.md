@@ -2,6 +2,7 @@
 
 type: concept
 title: 'Step 5: Focus on Results'
+description: "Step 5: Focus on Results | concept | management, team-dynamics, prescriptive."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

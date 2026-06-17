@@ -2,6 +2,7 @@
 
 type: concept
 title: Purposeful Content Consumption
+description: "Purposeful Content Consumption | concept | productivity, technology."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Craft vs. Job
+description: "Craft vs. Job. The difference between mastering a skill through dedication versus performing routine tasks for pay."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

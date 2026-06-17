@@ -2,6 +2,7 @@
 
 type: concept
 title: Purposeful Technology Investment
+description: "Purposeful Technology Investment | concept | productivity, technology, decision-making."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

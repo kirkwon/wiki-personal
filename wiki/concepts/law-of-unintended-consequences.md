@@ -2,6 +2,7 @@
 
 type: concept
 title: Law of Unintended Consequences
+description: "The principle that actions taken to achieve a specific goal often result in unforeseen side effects."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

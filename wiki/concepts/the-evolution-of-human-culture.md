@@ -2,6 +2,7 @@
 
 type: concept
 title: The Evolution of Human Culture
+description: "From primal survival to complex civilization, human thought and society continually advance."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: entity
 title: Angela Duckworth
+description: "Psychologist and author known for research on grit, passion, and achievement motivation."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

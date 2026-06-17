@@ -2,6 +2,7 @@
 
 type: concept
 title: Building Entrepreneurial Culture
+description: "Fostering an organizational environment that encourages risk-taking, innovation, and self-directed initiative."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

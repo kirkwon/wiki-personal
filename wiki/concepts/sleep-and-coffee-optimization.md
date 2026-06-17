@@ -2,6 +2,7 @@
 
 type: concept
 title: Sleep and Coffee Optimization
+description: "Sleep and Coffee Optimization | concept | health, productivity, coffee."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

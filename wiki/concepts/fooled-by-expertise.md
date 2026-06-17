@@ -2,6 +2,7 @@
 
 type: concept
 title: Fooled by Expertise
+description: "Fooled by Expertise. The tendency for experts to overestimate their own knowledge or predict outcomes inaccurately."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

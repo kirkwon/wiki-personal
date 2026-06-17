@@ -2,6 +2,7 @@
 
 type: concept
 title: Organizational Habit Change
+description: "Implementing sustained, structural changes to routines and behaviors across an entire organization."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

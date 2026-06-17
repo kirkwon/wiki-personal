@@ -2,6 +2,7 @@
 
 type: concept
 title: Procrastination Strategies
+description: "Procrastination Strategies | concept | productivity, time-management, decision-making."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

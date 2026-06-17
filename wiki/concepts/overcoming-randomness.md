@@ -2,6 +2,7 @@
 
 type: concept
 title: Overcoming Randomness
+description: "Developing strategies and frameworks to predict, mitigate, or adapt to unpredictable chance events."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

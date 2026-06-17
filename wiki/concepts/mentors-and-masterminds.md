@@ -2,6 +2,7 @@
 
 type: concept
 title: Mentors and Masterminds
+description: "Seeking guidance and diverse perspectives from experienced mentors and peer groups."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

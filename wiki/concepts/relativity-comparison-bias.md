@@ -2,6 +2,7 @@
 
 type: concept
 title: Relativity and Comparison Bias
+description: "Relativity and Comparison Bias | concept | cognitive-bias, decision-making, behavioral-economics."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

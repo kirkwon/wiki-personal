@@ -2,6 +2,7 @@
 
 type: concept
 title: Strategic Saying No
+description: "The art of saying no."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

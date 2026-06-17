@@ -2,6 +2,7 @@
 
 type: concept
 title: Ethical Considerations in Economics
+description: "Analyzing the intersection of morality, social welfare, and economic policy design."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Government Policies and Economics
+description: "Government policies shape economies and dictate how individuals manage their finances."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Role of Anomalies
+description: "Role of Anomalies | concept | decision-making, randomness, risk."
 created: 2026-05-03
 updated: 2026-05-03
 tags:
