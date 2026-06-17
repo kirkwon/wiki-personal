@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - The Power of Mindset
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, growth-mindset, reframing-adversity, embracing-failure-for-personal-growth]
 ---
 # The Power of Mindset

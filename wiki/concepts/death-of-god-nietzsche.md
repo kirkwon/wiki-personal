@@ -10,7 +10,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Death of God (Nietzsche)
----friedrich-nietzsche.md"]
 related: [revaluation-of-all-values, will-to-power, ubermensch, genealogical-analysis-of-morality]
 ---
 # Death of God (Nietzsche)

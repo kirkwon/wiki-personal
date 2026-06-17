@@ -10,7 +10,6 @@ tags:
 sources:
 - thinking-in-systems
 - Thinking in Systems - Donella H. Meadows
----donella-h-meadows.md"]
 ---
 # Thinking in Systems - Donella H. Meadows
 

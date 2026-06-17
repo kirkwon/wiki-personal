@@ -13,7 +13,6 @@ tags:
 sources:
 - six-thinking-hats
 - Green Hat - New Ideas
----edward-de-bono.md", "Six Thinking Hats - Edward de Bono.md"]
 related: ["six-thinking-hats", "problem-solving", "decision-making-frameworks", "creativity"]
 ---
 # Green Hat - New Ideas

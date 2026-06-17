@@ -10,7 +10,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Embracing Imperfection
----annie-duke.md"]
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, decision-quality-vs-outcome-quality, embracing-failure-for-personal-growth]
 ---
 # Embracing Imperfection

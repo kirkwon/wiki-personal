@@ -10,7 +10,6 @@ tags:
 sources:
 - the-lean-startup
 - Build-Measure-Learn
----eric-ries.md"]
 related: [the-lean-startup---eric-ries, minimum-viable-product-mvp, validated-learning, pivot-or-persevere, innovation-accounting, thinking-in-bets---annie-duke, real-options-analysis]
 ---
 # Build-Measure-Learn

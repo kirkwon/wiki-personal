@@ -12,7 +12,6 @@ tags:
 sources:
 - influence-the-psychology-of-persuasion
 - Scarcity Principle
----robert-b-cialdini.md", "Influence_ The Psychology of Persuasion - Robert B. Cialdini.md"]
 related: [influence-the-psychology-of-persuasion---robert-b-cialdini, reciprocity-principle, commitment-and-consistency-principle, social-proof-principle, authority-principle, liking-principle, prospect-theory, variable-reward-design, fear-of-missing-out-fomo, dread-aversion, black-swan-events]
 ---
 # Scarcity Principle

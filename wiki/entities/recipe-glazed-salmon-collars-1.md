@@ -1,5 +1,5 @@
 ---
-title: Recipe: Glazed Salmon Collars
+title: "Recipe: Glazed Salmon Collars"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

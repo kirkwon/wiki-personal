@@ -12,7 +12,6 @@ tags:
 sources:
 - fooled-by-randomness
 - Delusion of Expertise
----nassim-nicholas-taleb.md", "fooled---randomness-by-nassim-nicholas-taleb.md", "Fooled by Randomness - Nassim Nicholas Taleb.md"]
 related: [overconfidence-and-certainty, superforecasting---philip-e-tetlock-dan-gardner, skin-in-the-game, decision-quality-vs-outcome-quality, fooled-by-randomness---nassim-nicholas-taleb, hindsight-bias, two-views-of-decision-kahneman-vs-klein, cognitive-biases-library, illusion-of-control, bet-sizing, decision-tracking, superforecasting, recognition-primed-decision-model]
 ---
 

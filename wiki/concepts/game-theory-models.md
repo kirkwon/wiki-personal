@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Game Theory Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, strategic-bluffing, collective-action-models, decision-making-frameworks]
 ---
 # Game Theory Models

@@ -13,7 +13,6 @@ tags:
 sources:
 - the-4-hour-body
 - Intermittent Fasting
----timothy-ferriss.md", "The 4-Hour Body - Timothy Ferriss.md"]
 related: [metabolic-flexibility, the-4-hour-body---timothy-ferriss, body-fat-paradox, sleep-optimization, hormone-balance-for-fat-loss, the-4-hour-body, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, decision-tracking]
 ---
 # Intermittent Fasting

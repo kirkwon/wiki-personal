@@ -11,7 +11,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - The Upside of Irrationality - Dan Ariely
----dan-ariely.md"]
 ---
 # The Upside of Irrationality - Dan Ariely
 

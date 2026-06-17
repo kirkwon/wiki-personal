@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - Reference Class Forecasting
----richard-thaler.md"]
 related: [planning-fallacy, decision-making-under-uncertainty, overconfidence-and-certainty]
 ---
 # Reference Class Forecasting

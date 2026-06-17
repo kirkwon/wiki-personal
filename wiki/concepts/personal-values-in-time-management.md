@@ -10,7 +10,6 @@ tags:
 sources:
 - first-things-first
 - Personal Values in Time Management
----stephen-r-covey.md"]
 related: [first-things-first-principle, time-management-matrix, systematic-decision-making, decision-quality-vs-outcome-quality]
 ---
 # Personal Values in Time Management

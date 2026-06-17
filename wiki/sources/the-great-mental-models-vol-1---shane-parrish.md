@@ -11,7 +11,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - The Great Mental Models (Vol. 1) - Shane Parrish
----shane-parrish.md"]
 ---
 # The Great Mental Models (Vol. 1) - Shane Parrish
 

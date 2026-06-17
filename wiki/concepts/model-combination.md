@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Model Combination
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, many-model-thinker, model-selection, decision-making-frameworks]
 ---
 # Model Combination

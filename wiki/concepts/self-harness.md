@@ -1,7 +1,7 @@
 ---
- type: concept
- title: Self-Harness
- tags:
+type: concept
+title: Self-Harness
+tags:
 - concept
 - agent
 - agentic-ai

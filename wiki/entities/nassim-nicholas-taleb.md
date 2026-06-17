@@ -17,7 +17,6 @@ tags:
 sources:
 - skin-in-the-game
 - Nassim Nicholas Taleb
----nassim-nicholas-taleb.md", "fooled-by-randomness---nassim-nicholas-taleb.md", "the-black-swan---nassim-nicholas-taleb.md", "Processes.md", "Data.md", "The Black Swan - Nassim Nicholas Taleb.md"]
 related: ["skin-in-the-game-nassim-nicholas-taleb", "antifragility", "black-swan-events", "fooled-by-randomness---nassim-nicholas-taleb", "skin-in-the-game", "overconfidence-and-certainty", "decision-making-under-uncertainty", "superforecasting---philip-e-tetlock-dan-gardner", "thinking-fast-and-slow---daniel-kahneman", "thinking-in-bets---annie-duke", "real-options-analysis", "lindy-ness", "the-black-swan", "the-black-swan---nassim-nicholas-taleb", "skin-in-the-game---nassim-nicholas-taleb", "data-mental-model", "cognitive-biases-library"]
 ---
 # Nassim Nicholas Taleb

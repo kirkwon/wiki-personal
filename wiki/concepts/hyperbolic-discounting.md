@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - Hyperbolic Discounting
----richard-thaler.md"]
 related: [self-control-and-addiction, commitment-devices, decision-making-under-uncertainty]
 ---
 # Hyperbolic Discounting

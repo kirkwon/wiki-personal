@@ -13,4 +13,4 @@ tags:
 sources:
 - tools-of-titans
 - Tools of Titans - Timothy Ferriss
-----timothy-ferriss.md"]
+---

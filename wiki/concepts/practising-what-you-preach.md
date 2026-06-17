@@ -10,7 +10,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Practising What You Preach
----seneca.md"]
 related: [decision-quality-vs-outcome-quality, systematic-decision-making, letters-from-a-stoic---seneca, stoicism]
 ---
 # Practising What You Preach

@@ -13,7 +13,6 @@ tags:
 sources:
 - grit-the-power-of-passion-and-perseverance
 - Fixed vs. Growth Mindset
----angela-duckworth.md", "Self-Theories_ Their Role in Motivation Personality and Development - Carol S Dweck.md"]
 related: [growth-mindset, grit-concept, dual-process-theory, embracing-failure-for-personal-growth, fixed-mindset, mindset-interventions]
 ---
 # Fixed vs. Growth Mindset

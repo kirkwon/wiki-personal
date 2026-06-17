@@ -10,7 +10,6 @@ tags:
 sources:
 - getting-things-done
 - GTD Method
----david-allen.md"]
 related: [gtd-capture-clarify-organize-review-engage, personal-knowledge-vault, categorizing-information, decision-tracking, systematic-decision-making, the-index-card-rules]
 ---
 # GTD Method

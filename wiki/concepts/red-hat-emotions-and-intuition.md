@@ -13,7 +13,6 @@ tags:
 sources:
 - six-thinking-hats
 - Red Hat - Emotions and Intuition
----edward-de-bono.md", "Six Thinking Hats - Edward de Bono.md"]
 related: ["six-thinking-hats", "emotion-and-intuition-in-decisions", "dual-process-theory", "thinking-fast-and-slow---daniel-kahneman", "white-hat-facts-and-data", "decision-making-frameworks"]
 ---
 # Red Hat - Emotions and Intuition

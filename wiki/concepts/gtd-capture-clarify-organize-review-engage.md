@@ -10,7 +10,6 @@ tags:
 sources:
 - getting-things-done
 - GTD Capture, Clarify, Organize, Review, Engage
----david-allen.md"]
 related: [gtd-method, decision-making-frameworks, personal-knowledge-vault-readme, time-management-matrix, quadrant-2-focus]
 ---
 # GTD Capture, Clarify, Organize, Review, Engage

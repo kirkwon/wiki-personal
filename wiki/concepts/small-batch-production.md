@@ -10,7 +10,6 @@ tags:
 sources:
 - the-lean-startup
 - Small Batch Production
----eric-ries.md"]
 related: [the-lean-startup---eric-ries, build-measure-learn, innovation-accounting, speed]
 ---
 # Small Batch Production

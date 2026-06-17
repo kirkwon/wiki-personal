@@ -10,7 +10,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Simple Living (Stoic Perspective)
----seneca.md"]
 related: [stoicism, letters-from-a-stoic---seneca, balancing-ambition-with-well-being, quadrant-2-focus]
 ---
 # Simple Living (Stoic Perspective)

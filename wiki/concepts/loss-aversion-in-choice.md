@@ -11,7 +11,6 @@ tags:
 sources:
 - the-paradox-of-choice
 - Loss Aversion in Choice
----barry-schwartz.md"]
 related: [paradox-of-choice, choice-overload, dread-aversion, prospect-theory, overconfidence-and-certainty]
 ---
 # Loss Aversion in Choice

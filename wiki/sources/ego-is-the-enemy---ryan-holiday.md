@@ -12,4 +12,4 @@ tags:
 sources:
 - ego-is-the-enemy
 - Ego Is the Enemy - Ryan Holiday
-----ryan-holiday.md"]
+---

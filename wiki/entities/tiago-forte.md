@@ -12,7 +12,6 @@ tags:
 sources:
 - building-a-second-brain
 - Tiago Forte
----tiago-forte.md", "the-para-method-simplify-organize-and-master-your-digital-life---tiago-forte.md", "The PARA Method_ Simplify", "Organize", "and Master Your Digital Life - Tiago Forte.md", "Forte.md", "Para.md", "Tools.md"]
 related: ["building-a-second-brain---tiago-forte", "second-brain", "para-method", "the-para-method", "personal-knowledge-vault", "how-to-take-smart-notes---snke-ahrens", "getting-things-done---david-allen", "the-para-method-simplify-organize-and-master-your-digital-life---tiago-forte", "forte-mental-model", "para", "personal-knowledge-vault-readme", "tools", "the-4-hour-workweek---timothy-ferriss", "thinking-mental-model"]
 ---
 # Tiago Forte

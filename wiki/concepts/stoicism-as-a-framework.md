@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - Stoicism as a Framework
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, reframing-adversity, temperance-virtue, mastering-emotion, embracing-failure-for-personal-growth]
 ---
 # Stoicism as a Framework

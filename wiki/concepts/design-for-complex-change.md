@@ -9,7 +9,6 @@ tags:
 sources:
 - thinking-in-systems
 - Design for Complex Change
----donella-h-meadows.md"]
 related: [leverage-points, feedback-loops, leadership-for-complex-change, thinking-in-systems---donella-h-meadows]
 ---
 # Design for Complex Change

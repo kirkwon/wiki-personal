@@ -12,7 +12,6 @@ tags:
 sources:
 - leaders-eat-last
 - Leaders Eat Last - Simon Sinek
----simon-sinek.md", "Sense.md"]
 ---
 # Leaders Eat Last - Simon Sinek
 

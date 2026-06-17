@@ -11,7 +11,6 @@ tags:
 sources:
 - the-algebra-of-happiness
 - The Science of Joy
----scott-galloway.md", "mans-search-for-meaning---viktor-frankl.md"]
 related: [the-algebra-of-happiness---scott-galloway, thinking-fast-and-slow---daniel-kahneman, prospect-theory, will-to-meaning, sources-of-meaning-frankl, science-of-forgiveness]
 ---
 # The Science of Joy

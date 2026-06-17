@@ -10,7 +10,6 @@ tags:
 sources:
 - the-paradox-of-choice
 - Decision Paralysis
----barry-schwartz.md", "The Paradox of Choice - Barry Schwartz.md"]
 related: [choice-overload, paradox-of-choice, dread-aversion, decision-making-under-uncertainty, decision-tracking, decision-making-frameworks, decision-quality-vs-outcome-quality]
 ---
 # Decision Paralysis

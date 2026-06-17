@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - Disposition Effect
----richard-thaler.md"]
 related: [mental-accounting, financial-markets, decision-quality-vs-outcome-quality]
 ---
 # Disposition Effect

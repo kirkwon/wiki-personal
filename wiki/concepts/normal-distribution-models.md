@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Normal Distribution Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, power-law-models, bell-curve, probability-and-judgment-under-uncertainty]
 ---
 # Normal Distribution Models

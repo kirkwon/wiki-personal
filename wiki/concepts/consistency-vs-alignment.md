@@ -11,7 +11,6 @@ tags:
 sources:
 - the-alignment-problem
 - Consistency vs Alignment
----brian-christian-tom-griffiths.md"]
 related: [the-alignment-problem---brian-christian-tom-griffiths, decision-making-frameworks, thinking-fast-and-slow---daniel-kahneman, the-genie-problem]
 ---
 # Consistency vs Alignment

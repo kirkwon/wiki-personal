@@ -12,7 +12,6 @@ tags:
 sources:
 - leaders-eat-last
 - The Parable of the Boats
----simon-sinek.md", "Leaders Eat Last - Simon Sinek.md"]
 related: ["leaders-eat-last-key-concepts", "belonging-in-leadership", "service-first-leadership", "leaders-eat-last---simon-sinek", "building-trust-through-service", "shared-purpose-leadership"]
 ---
 # The Parable of the Boats

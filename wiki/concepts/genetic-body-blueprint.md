@@ -11,7 +11,6 @@ tags:
 sources:
 - the-4-hour-body
 - Genetic Body Blueprint
----timothy-ferriss.md"]
 related: [metabolic-flexibility, the-4-hour-body---timothy-ferriss, body-fat-paradox]
 ---
 # Genetic Body Blueprint

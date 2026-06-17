@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - The Influence of Time
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, strategic-vs-reactive-thinking, quadrant-2-focus, time-management-matrix]
 ---
 # The Influence of Time

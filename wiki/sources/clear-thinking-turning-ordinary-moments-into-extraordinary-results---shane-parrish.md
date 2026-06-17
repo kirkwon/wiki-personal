@@ -14,7 +14,6 @@ updated: 2026-05-03
 sources:
 - clear-thinking-turning-ordinary-moments-into-extraordinary-results
 - 'Clear Thinking: Turning Ordinary Moments into Extraordinary Results'
----shane-parrish.md"]
 ---
 # Clear Thinking: Turning Ordinary Moments into Extraordinary Results
 

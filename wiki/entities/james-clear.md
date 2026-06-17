@@ -13,7 +13,6 @@ tags:
 sources:
 - atomic-habits
 - James Clear
----james-clear.md", "Habits.md", "Habit.md", "Formation.md"]
 related: ["atomic-habits---james-clear", "habit-stacking", "compounding-habits", "habit-loop-individual", "habits", "atomic-habits", "habit", "hook-model", "habit-testing", "atomic-habits-james-clear", "formation"]
 ---
 # James Clear

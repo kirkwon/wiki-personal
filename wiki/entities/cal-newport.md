@@ -13,7 +13,6 @@ tags:
 sources:
 - digital-minimalism
 - Cal Newport
----cal-newport.md", "so-good-they-cant-ignore-you---cal-newport.md", "slow-productivity---cal-newport.md", "Slow Productivity - Cal Newport.md", "Environment.md", "Society.md", "Mastery.md"]
 related: ["digital-minimalism---cal-newport", "purposeful-use-principle", "digital-minimalism", "deliberate-practice", "skill-capital", "craft-capital-vs-career-capital", "newport-career-strategy", "paradox-of-choice", "grit-concept", "active-revision-techniques", "slow-productivity", "deep-focus", "the-paradox-of-busyness", "time-management-matrix", "the-infinite-game---simon-sinek", "slow-productivity---cal-newport", "strategic-batching", "saying-no-boundaries", "solitude-and-creativity", "deep-work", "environment", "planning", "stillness", "deep-work - Cal Newport", "slow-productivity - Cal Newport", "so-good-they-cant-ignore-you - Cal Newport", "quadrant-2-focus", "so-good-they-cant-ignore-you---cal-newport", "mastery", "so-good-they-can't-ignore-you---cal-newport"]
 ---
 # Cal Newport

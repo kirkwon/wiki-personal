@@ -11,7 +11,6 @@ tags:
 sources:
 - the-4-hour-body
 - Habit Loop for Health
----timothy-ferriss.md"]
 related: [the-4-hour-body---timothy-ferriss, mindset-reframing-health, habit-testing, hook-model]
 ---
 # Habit Loop for Health

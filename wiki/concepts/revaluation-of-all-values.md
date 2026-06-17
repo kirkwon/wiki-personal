@@ -11,7 +11,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Revaluation of All Values
----friedrich-nietzsche.md", "Beyond Good and Evil - Friedrich Nietzsche.md"]
 related: ["master-vs-slave-morality", "free-spirit-nietzsche", "will-to-power", "genealogical-analysis-of-morality", "beyond-good-and-evil-nietzsche", "free-spirit-nietzschean-concept", "genealogical-analysis-of-moral-concepts", "decision-quality-vs-outcome-quality", "systematic-decision-making"]
 ---
 # Revaluation of All Values

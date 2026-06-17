@@ -11,7 +11,6 @@ tags:
 sources:
 - first-things-first
 - Time Management Matrix
----stephen-r-covey.md", "First Things First - Stephen R. Covey.md"]
 related: ["quadrant-2-focus", "first-things-first-principle", "strategic-vs-reactive-thinking", "decision-making-frameworks", "systematic-decision-making", "working-backwards-in-problem-solving", "Eisenhower Matrix"]
 ---
 

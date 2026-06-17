@@ -11,7 +11,6 @@ tags:
 sources:
 - mans-search-for-meaning
 - Man's Search for Meaning - Viktor Frankl
----viktor-frankl.md"]
 ---
 # Man's Search for Meaning - Viktor Frankl
 

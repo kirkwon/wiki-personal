@@ -11,7 +11,6 @@ tags:
 sources:
 - hyperfocus
 - Hyperfocus - Chris Bailey
----chris-bailey.md"]
 related: [hyperfocus-and-scatterfocus, attention-residue, scatterfocus, attention-budget, single-tasking-vs-multitasking, time-management-matrix, working-backwards, personal-knowledge-vault]
 ---
 # Hyperfocus - Chris Bailey

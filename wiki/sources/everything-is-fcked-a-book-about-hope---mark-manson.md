@@ -12,4 +12,4 @@ tags:
 sources:
 - everything-is-fcked-a-book-about-hope
 - 'Everything Is F*cked: A Book About Hope - Mark Manson'
-----mark-manson.md"]
+---

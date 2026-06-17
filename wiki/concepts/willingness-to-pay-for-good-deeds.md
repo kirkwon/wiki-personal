@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Willingness to Pay for Good Deeds
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, fairness-perception, tipping-behavior, irrational-decision-making]
 ---
 # Willingness to Pay for Good Deeds

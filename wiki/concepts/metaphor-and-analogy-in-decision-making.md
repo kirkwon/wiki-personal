@@ -10,7 +10,6 @@ tags:
 sources:
 - sources-of-power-how-people-make-decisions
 - Metaphor and Analogy in Decision-Making
----gary-klein.md"]
 related: [analogy-in-problem-solving, recognition-primed-decision-model, naturalistic-decision-making]
 ---
 # Metaphor and Analogy in Decision-Making

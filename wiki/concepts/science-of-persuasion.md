@@ -22,7 +22,6 @@ related:
 sources:
 - supercommunicators
 - cognitive-biases-library
----charles-duhigg.md", "Supercommunicators - Charles Duhigg.md"]
 ---
 
 # Science of Persuasion

@@ -11,7 +11,6 @@ tags:
 sources:
 - first-things-first
 - Systematic Decision Making
----stephen-r-covey.md", "First Things First - Stephen R. Covey.md"]
 related: ["decision-making-frameworks", "time-management-matrix", "personal-values-in-time-management", "first-things-first-principle", "systematic-decision-making"]
 ---
 # Systematic Decision Making

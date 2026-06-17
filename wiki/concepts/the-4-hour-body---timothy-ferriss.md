@@ -13,7 +13,6 @@ tags:
 sources:
 - the-4-hour-body
 - The 4-Hour Body - Timothy Ferriss
----timothy-ferriss.md"]
 related: [timothy-ferriss, intermittent-fasting, hiit-high-intensity-interval-training, metabolic-flexibility, sleep-optimization, body-fat-paradox, habit-loop-health, mindset-reframing-health]
 ---
 # The 4-Hour Body - Timothy Ferriss

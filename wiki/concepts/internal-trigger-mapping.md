@@ -12,6 +12,7 @@ sources:
 - Internal trigger mapping.md
 - hooked
 - Internal trigger mapping
-----nir-eyal"]
 related: [internal-triggers, hook-model, fizzgogg-behavior-model, scatterfocus, habit-testing, variable-reward-design]
+---
+
 confidence: medium

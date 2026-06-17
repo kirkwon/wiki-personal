@@ -11,7 +11,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - Lifestyle Design
----timothy-ferriss.md"]
 related: [lifestyle-design-formula, lifestyle-design-protocol, outsourcing-your-life, human-high-frequency-trader, time-management-matrix, thinking-in-bets---annie-duke]
 ---
 # Lifestyle Design

@@ -14,7 +14,6 @@ tags:
 sources:
 - the-checklist-manifesto
 - The Checklist Manifesto - Atul Gawande
----atul-gawande.md", "Checklists.md"]
 ---
 # The Checklist Manifesto - Atul Gawande
 

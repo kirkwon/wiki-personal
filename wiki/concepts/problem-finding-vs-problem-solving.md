@@ -11,7 +11,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step-by-step
 - Problem Finding vs. Problem Solving
----edward-de-bono.md", "lateral-thinking-creativity-step---step-by-edward-de-bono.md"]
 related: ["what-is-the-unseen", "seeing-the-unseen", "lateral-thinking", "problem-solving", "what-is-the-unknown", "decomposing-and-recombining", "lateral-thinking---edward-de-bono", "polya-four-steps"]
 ---
 # Problem Finding vs. Problem Solving

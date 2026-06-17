@@ -13,7 +13,6 @@ tags:
 sources:
 - the-beginning-of-infinity
 - The Beginning of Infinity - David Deutsch
----david-deutsch.md", "Knowledge.md", "Explanations.md"]
 ---
 # The Beginning of Infinity - David Deutsch
 

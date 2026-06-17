@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - Culture Change in Healthcare
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, cure-centric-vs-comfort-oriented-care, the-paradox-of-change, building-a-cohesive-team]
 ---
 # Culture Change in Healthcare

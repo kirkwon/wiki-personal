@@ -11,7 +11,6 @@ tags:
 sources:
 - six-thinking-hats
 - Edward de Bono
----edward-de-bono.md", "Six Thinking Hats - Edward de Bono.md"]
 related: ["six-thinking-hats", "decision-making-frameworks", "parallel-thinking", "lateral-thinking"]
 ---
 # Edward de Bono

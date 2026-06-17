@@ -11,7 +11,6 @@ tags:
 sources:
 - the-4-hour-body
 - Metabolic Flexibility
----timothy-ferriss.md", "The 4-Hour Body - Timothy Ferriss.md"]
 related: ["intermittent-fasting", "the-4-hour-body---timothy-ferriss", "body-fat-paradox", "genetic-body-blueprint", "the-4-hour-body"]
 ---
 # Metabolic Flexibility

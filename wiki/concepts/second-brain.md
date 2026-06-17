@@ -10,7 +10,6 @@ tags:
 sources:
 - building-a-second-brain
 - Second Brain
----tiago-forte.md"]
 related: [building-a-second-brain---tiago-forte, personal-knowledge-vault, para-method, categorizing-information]
 ---
 # Second Brain

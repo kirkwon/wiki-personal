@@ -10,7 +10,6 @@ tags:
 sources:
 - hooked
 - Habit Testing
----nir-eyal.md"]
 related: [hook-model, internal-triggers, user-investment-habit]
 ---
 # Habit Testing

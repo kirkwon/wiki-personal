@@ -9,7 +9,6 @@ tags:
 sources:
 - thinking-in-systems
 - Pattern Language
----donella-h-meadows.md", "Thinking in Systems - Donella H. Meadows.md"]
 related: [systems-thinking, leverage-points, complex-adaptive-systems, thinking-in-systems---donella-h-meadows, feedback-loops, system-dynamics, mental-models]
 ---
 # Pattern Language

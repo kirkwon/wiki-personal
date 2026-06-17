@@ -25,9 +25,6 @@ related:
 - incremental-validation
 - social-validation
 - design-experiments
-sources: ["research-validation-of-mental-models-2026-06-13-065345.md"]
-tags: ['mental-models', 'critical-thinking']
-related: ["validation-of-mental-models", "peer-review", "incremental-validation", "social-validation", "design-experiments"]
 ---
 # Mental Models
 Mental models are simplified representations of reality, capturing the essential elements, relationships, and rules of a domain. They are tools for understanding, prediction, and decision-making.

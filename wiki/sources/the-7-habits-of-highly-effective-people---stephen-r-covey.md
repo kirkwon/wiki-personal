@@ -11,7 +11,6 @@ tags:
 sources:
 - the-7-habits-of-highly-effective-people
 - The 7 Habits of Highly Effective People - Stephen R. Covey
----stephen-r-covey.md"]
 ---
 # The 7 Habits of Highly Effective People - Stephen R. Covey
 

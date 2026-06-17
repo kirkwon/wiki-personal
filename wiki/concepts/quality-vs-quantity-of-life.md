@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - Quality vs. Quantity of Life
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, decision-quality-vs-outcome-quality, real-options-analysis, the-gift-of-time]
 ---
 # Quality vs. Quantity of Life

@@ -9,7 +9,6 @@ tags:
 sources:
 - the-para-method-simplify-organize-and-master-your-digital-life
 - Adaptive Learning
----tiago-forte.md"]
 related: [active-revision-techniques, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, the-para-method]
 ---
 # Adaptive Learning

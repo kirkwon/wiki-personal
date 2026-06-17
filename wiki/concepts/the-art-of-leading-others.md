@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - The Art of Leading Others
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, the-five-dysfunctions-of-a-team, personal-branding-and-wellbeing, stoicism-as-a-framework]
 ---
 # The Art of Leading Others

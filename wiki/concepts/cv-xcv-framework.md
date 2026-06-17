@@ -10,7 +10,6 @@ tags:
 sources:
 - the-algebra-of-happiness
 - CV = XCV Framework
----scott-galloway.md"]
 related: [the-algebra-of-happiness---scott-galloway, strategic-vs-reactive-thinking, decision-making-frameworks]
 ---
 # CV = XCV Framework

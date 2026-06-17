@@ -13,7 +13,6 @@ tags:
 sources:
 - effortless
 - Effortless - Greg McKeown
----greg-mckeown.md", "Everything.md"]
 ---
 # Effortless - Greg McKeown
 

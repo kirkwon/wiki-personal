@@ -12,7 +12,6 @@ tags:
 sources:
 - the-art-of-war
 - The Art of War - Sun Tzu
----sun-tzu.md", "Positioning.md"]
 related: [sun-tzu, attack-by-stratagem, terrain-analysis-strategy, intelligence-in-strategy, energy-and-momentum-strategy, weak-point-exploitation, strategic-vs-reactive-thinking, decision-making-frameworks, infinite-game-mindset, positioning, planning]
 ---
 # The Art of War - Sun Tzu

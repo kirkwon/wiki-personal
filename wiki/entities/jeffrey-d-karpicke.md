@@ -10,7 +10,6 @@ tags:
 sources:
 - make-it-stick
 - Jeffrey D. Karpicke
----peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md"]
 related: [make-it-stick---peter-c-brown-et-al, retrieval-practice]
 ---
 # Jeffrey D. Karpicke

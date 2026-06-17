@@ -12,7 +12,6 @@ tags:
 sources:
 - six-thinking-hats
 - Black Hat - Cautionary Perspective
----edward-de-bono.md", "Six Thinking Hats - Edward de Bono.md"]
 related: [six-thinking-hats, decision-quality-vs-outcome-quality, systematic-decision-making, decision-making-frameworks, yellow-hat-positive-viewpoints]
 ---
 # Black Hat - Cautionary Perspective

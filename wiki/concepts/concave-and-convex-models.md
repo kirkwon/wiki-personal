@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Concave and Convex Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, linear-models, diminishing-returns, increasing-returns]
 ---
 # Concave and Convex Models

@@ -13,7 +13,6 @@ tags:
 sources:
 - zero-to-one
 - Peter Thiel
----peter-thiel-blake-masters.md", "Innovation.md", "Thiel.md"]
 related: ["zero-to-one---peter-thiel-blake-masters", "zero-to-one-thinking", "first-mover-advantage", "secrecy-and-discretion-in-innovation", "zero-to-one-peter-thiel-blake-masters", "blake-masters", "innovation-mental-model", "strategic-vs-reactive-thinking", "platform-dominance", "disruption-and-innovation", "thiel-mental-model"]
 ---
 # Peter Thiel

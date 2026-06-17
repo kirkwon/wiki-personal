@@ -11,7 +11,6 @@ tags:
 sources:
 - superforecasting
 - Superforecasting - Philip E. Tetlock & Dan Gardner
----philip-e-tetlock-dan-gardner.md"]
 ---
 # Superforecasting - Philip E. Tetlock & Dan Gardner
 

@@ -10,7 +10,6 @@ tags:
 sources:
 - mans-search-for-meaning
 - Existential Frustration
----viktor-frankl.md"]
 related: [logotherapy, sources-of-meaning-frankl, science-of-joy]
 ---
 # Existential Frustration

@@ -17,7 +17,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Stoicism
----seneca.md", "on-the-shortness-of-life---seneca.md", "the-daily-stoic---ryan-holiday.md", "Letters from a Stoic - Seneca.md", "The Obstacle Is the Way - Ryan Holiday.md"]
 related: ["memento-mori", "simple-living-stoic-perspective", "emotional-regulation-through-reason", "balancing-ambition-with-well-being", "letters-from-a-stoic---seneca", "seneca", "present-moment-living", "embracing-failure-for-personal-growth", "thinking-fast-and-slow---daniel-kahneman", "ryan-holiday", "marcus-aurelius", "epictetus", "reasoning-over-emotion", "embracing-change-and-uncertainty", "perspective-reframing", "inner-peace-through-gratitude", "stoic-success-principles", "stoic-relationships", "grit-concept", "letters-from-a-stoic-seneca", "simple-living-practices", "philosophical-journaling", "decision-making-frameworks", "time-management-matrix", "dual-process-theory", "the-obstacle-is-the-way", "temperance", "growth-mindset", "hyperfocus", "buddhism"]
 ---
 # Stoicism

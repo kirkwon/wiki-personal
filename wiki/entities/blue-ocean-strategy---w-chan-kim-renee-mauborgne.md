@@ -10,7 +10,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne
----w-chan-kim-renee-mauborgne.md"]
 related: [blue-ocean-strategy, value-innovation, strategy-canvas, four-actions-framework-eliminate-reduce-raise-create, six-paths-framework, non-customer-analysis, strategic-sequence, fair-process-leadership, tipping-point-leadership-bos]
 ---
 # Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Default Options and Inertia
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, decision-tracking, decision-making-under-uncertainty]
 ---
 # Default Options and Inertia

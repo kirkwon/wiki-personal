@@ -10,7 +10,6 @@ tags:
 sources:
 - clear-thinking-turning-ordinary-moments-into-extraordinary-results
 - The Art of Asking Questions
----shane-parrish.md"]
 related: [clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish, decision-making-frameworks, what-is-the-unknown, thinking-fast-and-slow---daniel-kahneman]
 ---
 # The Art of Asking Questions

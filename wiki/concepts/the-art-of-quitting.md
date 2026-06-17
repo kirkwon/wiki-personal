@@ -10,7 +10,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - The Art of Quitting
----annie-duke.md"]
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, strategic-vs-reactive-thinking, decision-paralysis]
 ---
 # The Art of Quitting

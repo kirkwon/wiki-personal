@@ -13,7 +13,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step-by-step
 - Lateral Thinking - Edward de Bono
----edward-de-bono.md", "Fields.md"]
 ---
 # Lateral Thinking - Edward de Bono
 

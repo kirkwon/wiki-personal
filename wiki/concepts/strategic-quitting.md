@@ -10,7 +10,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Strategic Quitting
----annie-duke.md"]
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, the-art-of-quitting, decision-quality-vs-outcome-quality, framing-choices-for-success]
 ---
 # Strategic Quitting

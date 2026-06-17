@@ -12,7 +12,6 @@ tags:
 sources:
 - influence-the-psychology-of-persuasion
 - Reciprocity Principle
----robert-b-cialdini.md", "Influence_ The Psychology of Persuasion - Robert B. Cialdini.md"]
 related: [influence-the-psychology-of-persuasion---robert-b-cialdini, commitment-and-consistency-principle, social-proof-principle, authority-principle, liking-principle, scarcity-principle, cognitive-biases-library, ethical-design-manipulation-question, commitment-and-consistency]
 ---
 # Reciprocity Principle

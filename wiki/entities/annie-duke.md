@@ -12,7 +12,6 @@ tags:
 sources:
 - how-to-decide
 - Annie Duke
----annie-duke.md", "thinking-in-bets---annie-duke.md", "Processes.md", "Experiences.md"]
 related: ["decision-quality-vs-outcome-quality", "strategic-vs-reactive-thinking", "framing-effects-in-decision-making", "how-to-decide---annie-duke", "thinking-in-bets", "kelly-criterion", "martingale-strategy", "prospect-theory", "dual-process-theory", "bayesian-thinking", "thinking-in-bets---annie-duke", "quit---annie-duke", "decision-tracking", "bet-sizing", "quit-the-power-of-knowing-when-to-walk-away", "experiences"]
 ---
 

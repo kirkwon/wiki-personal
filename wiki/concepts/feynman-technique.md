@@ -11,7 +11,6 @@ tags:
 sources:
 - super-thinking
 - The Feynman Technique
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: [mental-models, spaced-repetition, deliberate-practice, personal-knowledge-vault-readme, super-thinking-gabriel-weinberg, growth-mindset]
 ---
 # The Feynman Technique

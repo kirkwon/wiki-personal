@@ -10,7 +10,6 @@ tags:
 sources:
 - sources-of-power-how-people-make-decisions
 - Experience vs. Algorithms in Expertise
----gary-klein.md"]
 related: [recognition-primed-decision-model, naturalistic-decision-making, decision-quality-vs-outcome-quality]
 ---
 # Experience vs. Algorithms in Expertise

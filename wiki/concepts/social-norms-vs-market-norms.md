@@ -12,7 +12,6 @@ tags:
 sources:
 - predictably-irrational
 - Social Norms vs. Market Norms
----dan-ariely.md", "Predictably Irrational - Dan Ariely.md"]
 related: ["predictably-irrational---dan-ariely", "trust-fundamentals", "ethical-design-manipulation-question", "skin-in-the-game", "predictably-irrational-dan-ariely", "morality-and-decision-making", "framing-effects", "building-a-decision-culture"]
 ---
 # Social Norms vs. Market Norms

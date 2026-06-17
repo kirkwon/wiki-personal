@@ -11,7 +11,6 @@ tags:
 sources:
 - super-thinking
 - Sunk Cost Fallacy
----gabriel-weinberg.md", "cognitive-biases-library.md"]
 related: ["cognitive-biases-library", "mental-models", "decision-quality-vs-outcome-quality", "decision-tracking", "prospect-theory"]
 ---
 # Sunk Cost Fallacy

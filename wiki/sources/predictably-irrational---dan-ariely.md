@@ -12,4 +12,4 @@ tags:
 sources:
 - predictably-irrational
 - Predictably Irrational - Dan Ariely
-----dan-ariely.md"]
+---

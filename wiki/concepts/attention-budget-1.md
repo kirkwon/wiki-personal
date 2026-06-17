@@ -10,7 +10,6 @@ tags:
 sources:
 - hyperfocus
 - Attention Budget
----chris-bailey.md"]
 related: [hyperfocus---chris-bailey, hyperfocus-and-scatterfocus, peak-attention-hours, strategic-distraction]
 ---
 # Attention Budget

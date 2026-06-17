@@ -11,7 +11,6 @@ tags:
 sources:
 - super-thinking
 - Mental Sandbox
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: ["mental-models", "lateral-thinking", "thought-experiments", "inversion", "super-thinking-gabriel-weinberg", "working-backwards-in-problem-solving"]
 ---
 # Mental Sandbox

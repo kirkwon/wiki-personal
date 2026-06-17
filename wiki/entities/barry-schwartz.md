@@ -12,7 +12,6 @@ tags:
 sources:
 - the-paradox-of-choice
 - Barry Schwartz
----barry-schwartz.md", "The Paradox of Choice - Barry Schwartz.md"]
 related: ["the-paradox-of-choice---barry-schwartz", "decision-making-under-uncertainty", "thinking-fast-and-slow---daniel-kahneman", "choice-overload", "decision-paralysis", "prospect-theory", "overconfidence-and-certainty"]
 ---
 # Barry Schwartz

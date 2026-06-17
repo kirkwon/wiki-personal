@@ -12,7 +12,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step-by-step
 - Breaking Barriers to Thinking
----edward-de-bono.md", "lateral-thinking-creativity-step---step-by-edward-de-bono.md"]
 related: ["lateral-thinking", "lateral-movements-in-thinking", "inventors-paradox", "problem-finding-vs-problem-solving", "seeing-the-unseen", "working-backwards-in-problem-solving", "lateral-thinking---edward-de-bono"]
 ---
 # Breaking Barriers to Thinking

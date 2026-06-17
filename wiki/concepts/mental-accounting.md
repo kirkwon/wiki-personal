@@ -11,7 +11,6 @@ tags:
 sources:
 - the-winners-curse
 - Mental Accounting
----richard-thaler.md", "Misbehaving - Richard H Thaler.md", "The Winner's Curse - Richard Thaler.md"]
 related: ["the-winners-curse---richard-thaler", "framing-effects", "disposition-effect", "decision-making-frameworks", "budgeting", "endowment-effect", "prospect-theory", "cognitive-biases-library", "decision-quality-vs-outcome-quality", "the-winner-s-curse-richard-thaler", "personal-finance", "planning-fallacy", "libertarian-paternalism"]
 ---
 

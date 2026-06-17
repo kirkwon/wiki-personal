@@ -10,7 +10,6 @@ tags:
 sources:
 - hooked
 - Nir Eyal
----nir-eyal.md"]
 related: [hook-model, ethical-design-manipulation-question, fogg-behavior-model]
 ---
 # Nir Eyal

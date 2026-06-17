@@ -13,4 +13,4 @@ tags:
 sources:
 - fooled
 - Fooled by Randomness - Nassim Nicholas Taleb
-----randomness-by-nassim-nicholas-taleb.md"]
+---

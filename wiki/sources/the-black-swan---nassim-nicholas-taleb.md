@@ -13,4 +13,4 @@ tags:
 sources:
 - the-black-swan
 - The Black Swan - Nassim Nicholas Taleb
-----nassim-nicholas-taleb.md"]
+---

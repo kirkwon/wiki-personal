@@ -11,7 +11,6 @@ tags:
 sources:
 - experiment-and-exploration-forms-of-world-disclosure
 - Sönke Ahrens
----snke-ahrens.md", "Experiment and Exploration_ Forms of World-Disclosure - Sönke Ahrens.md"]
 related: [how-to-take-smart-notes---snke-ahrens, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, deep-work - Cal Newport]
 ---
 # Sönke Ahrens

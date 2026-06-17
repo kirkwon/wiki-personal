@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Catastrophe Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, chaos-models, discontinuous-change, decision-making-under-uncertainty]
 ---
 # Catastrophe Models

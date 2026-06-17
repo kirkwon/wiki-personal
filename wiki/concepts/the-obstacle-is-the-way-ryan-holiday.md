@@ -11,7 +11,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - The Obstacle Is the Way - Ryan Holiday (Book Summary)
----ryan-holiday.md"]
 related: [ryan-holiday, stoicism-as-a-framework, reframing-adversity, embracing-failure-for-personal-growth, growth-mindset, grit-concept]
 ---
 # The Obstacle Is the Way - Ryan Holiday (Book Summary)

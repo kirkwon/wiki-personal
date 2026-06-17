@@ -12,7 +12,6 @@ tags:
 sources:
 - influence-the-psychology-of-persuasion
 - Liking Principle
----robert-b-cialdini.md", "Influence_ The Psychology of Persuasion - Robert B. Cialdini.md"]
 related: [influence-the-psychology-of-persuasion---robert-b-cialdini, reciprocity-principle, commitment-and-consistency-principle, social-proof-principle, authority-principle, scarcity-principle, ethical-design-manipulation-question, communication-skills, effective-listening]
 ---
 # Liking Principle

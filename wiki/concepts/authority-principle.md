@@ -12,7 +12,6 @@ tags:
 sources:
 - influence-the-psychology-of-persuasion
 - Authority Principle
----robert-b-cialdini.md", "Influence_ The Psychology of Persuasion - Robert B. Cialdini.md"]
 related: [influence-the-psychology-of-persuasion---robert-b-cialdini, reciprocity-principle, commitment-and-consistency-principle, social-proof-principle, liking-principle, scarcity-principle, overconfidence-and-certainty, cognitive-biases-library, superforecasting, decision-making-frameworks]
 ---
 # Authority Principle

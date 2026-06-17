@@ -14,7 +14,6 @@ tags:
 sources:
 - the-4-hour-chef
 - Mise en Place
----timothy-ferriss.md", "Marinades.md"]
 related: ["batch-cooking", "meal-prep-blueprint", "cooking-techniques", "intuitive-cooking", "stir-fry-technique", "wok-hei", "marinades", "velveting-(cooking-technique)", "aromatics"]
 ---
 # Mise en Place

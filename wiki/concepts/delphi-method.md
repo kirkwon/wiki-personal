@@ -11,7 +11,6 @@ tags:
 sources:
 - the-wisdom-of-crowds
 - Delphi Method
----james-surowiecki.md", "Delphi method.md"]
 related: ["crowd-aggregation-methods", "wisdom-of-crowds", "decision-making-frameworks", "the-wisdom-of-crowds", "scatterfocus", "traffic", "conditions", "problems"]
 ---
 # Delphi Method

@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - Cure-Centric vs. Comfort-Oriented Care
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, the-paradox-of-change, culture-change-in-healthcare, overconfidence-and-certainty]
 ---
 # Cure-Centric vs. Comfort-Oriented Care

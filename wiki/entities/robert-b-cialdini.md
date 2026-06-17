@@ -18,7 +18,6 @@ tags:
 sources:
 - influence-the-psychology-of-persuasion
 - Robert B. Cialdini
----robert-b-cialdini.md", "Pre-Suasion_ A Revolutionary Way to Influence and Persuade - Robert B Cialdini.md", "Cialdini.md", "Factors.md", "Techniques.md", "Behavior.md", "Influence.md", "Situations.md", "Persuasion.md", "Influence_ The Psychology of Persuasion - Robert B. Cialdini.md"]
 related: ["influence-the-psychology-of-persuasion---robert-b-cialdini", "reciprocity-principle", "commitment-and-consistency-principle", "social-proof-principle", "authority-principle", "liking-principle", "scarcity-principle", "pre-suasion", "cialdini-six-principles", "thinking-fast-and-slow---daniel-kahneman", "decision-making-frameworks", "thinking-in-bets---annie-duke", "superforecasting---philip-e-tetlock-dan-gardner", "dual-process-theory", "cognitive-biases-library", "ethical-design-manipulation-question", "biases", "framing-effects", "superforecasting", "pre-suasion---robert-b-cialdini", "supercommunicators-charles-duhigg", "factors", "communication-skills", "techniques", "influence-the-psychology-of-persuasion", "influence-mental-model", "influence-psychology-of-persuasion", "situations-mental-model", "persuasion", "commitment-and-consistency", "the-wisdom-of-crowds"]
 ---
 

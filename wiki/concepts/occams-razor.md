@@ -12,7 +12,6 @@ tags:
 sources:
 - super-thinking
 - Occam's Razor
----gabriel-weinberg.md", "Occams Razor application.md"]
 related: [mental-models, bayesian-thinking, super-thinking-gabriel-weinberg, decision-making-frameworks, systematic-decision-making, problem-solving, thinking-fast-and-slow---daniel-kahneman]
 ---
 # Occam's Razor

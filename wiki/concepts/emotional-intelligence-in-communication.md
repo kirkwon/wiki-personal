@@ -14,7 +14,6 @@ tags:
 sources:
 - supercommunicators
 - Emotional Intelligence in Communication
----charles-duhigg.md", "Supercommunicators - Charles Duhigg.md"]
 related: [supercommunicators-charles-duhigg-book-summary, social-motivation-system, effective-communication, communication-skills, effective-listening, mirroring-neurons, science-of-persuasion]
 ---
 

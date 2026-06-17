@@ -10,7 +10,6 @@ tags:
 sources:
 - slow-productivity
 - Deep Focus
----cal-newport.md", "Slow Productivity - Cal Newport.md"]
 related: ["slow-productivity", "the-value-of-deep-focus", "crafting-a-slow-workflow", "decision-quality-vs-outcome-quality", "time-management-matrix", "slow-productivity---cal-newport", "flow-states", "quadrant-2-focus", "strategic-batching", "focus-enhancement-techniques"]
 ---
 # Deep Focus

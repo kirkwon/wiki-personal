@@ -12,7 +12,6 @@ tags:
 sources:
 - being-mortal
 - Being Mortal - Atul Gawande
----atul-gawande.md"]
 related: [atul-gawande, the-good-death, quality-vs-quantity-of-life, cure-centric-vs-comfort-oriented-care]
 ---
 # Being Mortal - Atul Gawande

@@ -1,5 +1,5 @@
 ---
-title: wikilink: carbonara
+title: "wikilink: carbonara"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

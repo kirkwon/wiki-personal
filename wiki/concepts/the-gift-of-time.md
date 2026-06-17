@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - The Gift of Time
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, quality-vs-quantity-of-life, the-good-death]
 ---
 # The Gift of Time

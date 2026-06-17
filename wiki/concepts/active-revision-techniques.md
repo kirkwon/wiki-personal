@@ -10,7 +10,6 @@ tags:
 sources:
 - make-it-stick
 - Active Revision Techniques
----peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md", "active-revision-techniques.md"]
 related: [retrieval-practice, spaced-repetition, elaborative-interrogation, f Feynman-technique-learning, make-it-stick---peter-c-brown-et-al, how-to-take-smart-notes---snke-ahrens]
 ---
 # Active Revision Techniques

@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - Rituals and Mortality
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, the-good-death, autonomy-in-end-of-life-decisions, culture-change-in-healthcare]
 ---
 # Rituals and Mortality

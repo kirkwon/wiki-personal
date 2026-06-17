@@ -10,7 +10,6 @@ tags:
 sources:
 - leaders-eat-last
 - Shared Purpose Drives Success
----simon-sinek.md"]
 related: [the-three-elements-of-leader-led-organizations, leaders-eat-last-key-concepts]
 ---
 # Shared Purpose Drives Success

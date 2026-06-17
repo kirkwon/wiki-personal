@@ -11,5 +11,5 @@ tags:
 sources:
 - grit-the-power-of-passion-and-perseverance
 - Angela Duckworth
-----angela-duckworth.md"]
 related: [grit-concept, grit---angela-duckworth, growth-mindset]
+---

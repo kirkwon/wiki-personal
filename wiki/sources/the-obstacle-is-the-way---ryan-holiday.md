@@ -11,7 +11,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - The Obstacle Is the Way - Ryan Holiday
----ryan-holiday.md"]
 ---
 # The Obstacle Is the Way - Ryan Holiday
 

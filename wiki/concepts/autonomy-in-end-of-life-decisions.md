@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - Autonomy in End-of-Life Decisions
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, the-good-death, decision-quality-vs-outcome-quality, real-options-analysis]
 ---
 # Autonomy in End-of-Life Decisions

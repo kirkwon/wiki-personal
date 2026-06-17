@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Tipping Behavior
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, social-media-food-references, fairness-perception]
 ---
 # Tipping Behavior

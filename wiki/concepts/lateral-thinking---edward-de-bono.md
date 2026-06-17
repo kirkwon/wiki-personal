@@ -11,7 +11,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step
 - 'Lateral Thinking: Creativity Step by Step — Edward de Bono'
----step-by-edward-de-bono.md"]
 related: [six-thinking-hats, lateral-movements-in-thinking, problem-finding-vs-problem-solving, challenging-words-language-influence, creative-log-habit, problem-solving, decision-making-frameworks]
 ---
 # Lateral Thinking: Creativity Step by Step — Edward de Bono

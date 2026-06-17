@@ -1,6 +1,6 @@
 ---
 type: source
-title: Research: Add Cross-References to Comparisons/Personal-Vault-Content-Migration-Plan
+title: "Research: Add Cross-References to Comparisons/Personal-Vault-Content-Migration-Plan"
 created: 2026-06-10
 updated: 2026-06-10
 tags: [research]

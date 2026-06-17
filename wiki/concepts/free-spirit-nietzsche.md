@@ -10,7 +10,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Free Spirit (Nietzsche)
----friedrich-nietzsche.md"]
 related: [revaluation-of-all-values, ubermensch, will-to-power, master-vs-slave-morality]
 ---
 # Free Spirit (Nietzsche)

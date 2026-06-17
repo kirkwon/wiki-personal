@@ -10,7 +10,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - Human High-Frequency Trader
----timothy-ferriss.md"]
 related: [lifestyle-design-formula, decision-making-frameworks, thinking-in-bets---annie-duke, real-options-analysis]
 ---
 # Human High-Frequency Trader

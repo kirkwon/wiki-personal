@@ -15,7 +15,6 @@ tags:
 sources:
 - super-thinking
 - Growth Mindset
----gabriel-weinberg.md", "self-theories-their-role-in-motivation-personality-and-development---carol-s-dweck.md", "grit-the-power-of-passion-and-perseverance---angela-duckworth.md", "mindset---carol-s-dweck.md", "Self-Theories_ Their Role in Motivation Personality and Development - Carol S Dweck.md", "mindset---carol-s-dweck", "Mindset - Carol S Dweck.md", "Dweck.md", "Mindset.md", "Self-Theories_ Their Role in Motivation", "Personality", "and Development - Carol S. Dweck.md"]
 related: ["mental-models", "dunning-kruger-effect", "deliberate-practice", "spaced-repetition", "fixed-mindset", "mindset-theory", "mindset-interventions", "embracing-failure-for-personal-growth", "decision-quality-vs-outcome-quality", "grit-concept", "grit---angela-duckworth", "fixed-vs-growth-mindset", "dual-process-theory", "grit-angela-duckworth", "cognitive-biases-library", "process-praise-vs-person-praise", "neuroplasticity", "growth-mindset-in-organizations", "how-to-solve-it---george-polya", "active-revision-techniques", "decision-making-frameworks", "the-five-dysfunctions-of-a-team", "mindset---carol-s-dweck", "effort", "mindset-mental-model", "carol-s-dweck"]
 ---
 

@@ -10,7 +10,6 @@ tags:
 sources:
 - clear-thinking-turning-ordinary-moments-into-extraordinary-results
 - The Art of Clarity
----shane-parrish.md"]
 related: [clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish, decision-quality-vs-outcome-quality, dual-process-theory, systematic-decision-making]
 ---
 # The Art of Clarity

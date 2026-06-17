@@ -10,7 +10,6 @@ tags:
 sources:
 - find-your-why
 - Find Your Why (Simon Sinek)
----simon-sinek.md"]
 related: [the-golden-circle, the-three-essential-questions, personal-legend, personal-branding-and-wellbeing]
 ---
 # Find Your Why (Simon Sinek)

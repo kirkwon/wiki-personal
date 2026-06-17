@@ -12,7 +12,6 @@ tags:
 sources:
 - the-beginning-of-infinity
 - Critical Rationalism
----david-deutsch.md", "The Beginning of Infinity - David Deutsch.md"]
 related: ["the-beginning-of-infinity---david-deutsch", "conjecture-and-criticism", "the-problem-of-induction-revisited", "bayesian-thinking", "thinking-fast-and-slow---daniel-kahneman", "the-beginning-of-infinity-david-deutsch", "explanatory-reach", "knowledge", "thinking-mental-model", "problem-solving", "decision-quality-vs-outcome-quality", "superforecasting"]
 ---
 # Critical Rationalism

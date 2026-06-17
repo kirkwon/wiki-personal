@@ -11,7 +11,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - Evolutionary Mindset
----shane-parrish.md", "The Great Mental Models Vol 1 - Shane Parrish.md"]
 related: [overconfidence-and-certainty, dread-aversion, dual-process-theory, decision-making-under-uncertainty, cognitive-biases-library]
 ---
 # Evolutionary Mindset

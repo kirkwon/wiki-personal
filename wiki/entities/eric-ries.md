@@ -10,7 +10,6 @@ tags:
 sources:
 - the-lean-startup
 - Eric Ries
----eric-ries.md"]
 related: [the-lean-startup---eric-ries, build-measure-learn, minimum-viable-product-mvp, validated-learning, pivot-or-persevere]
 ---
 # Eric Ries

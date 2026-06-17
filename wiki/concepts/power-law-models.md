@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Power Law Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, normal-distribution-models, black-swan-events, decision-making-under-uncertainty]
 ---
 # Power Law Models

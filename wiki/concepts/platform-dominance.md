@@ -10,7 +10,6 @@ tags:
 sources:
 - the-four
 - Platform Dominance
----scott-galloway.md"]
 related: [the-four, strategic-vs-reactive-thinking, real-options-analysis]
 ---
 # Platform Dominance

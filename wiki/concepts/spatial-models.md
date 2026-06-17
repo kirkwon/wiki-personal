@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Spatial Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, agent-based-modeling, network-models]
 ---
 # Spatial Models

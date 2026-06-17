@@ -10,7 +10,6 @@ tags:
 sources:
 - the-art-of-war
 - Terrain Analysis Strategy
----sun-tzu.md"]
 related: [the-art-of-war-sun-tzu, energy-and-momentum-strategy, weak-point-exploitation, strategic-vs-reactive-thinking]
 ---
 # Terrain Analysis Strategy

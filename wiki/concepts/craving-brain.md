@@ -13,7 +13,6 @@ tags:
 sources:
 - the-power-of-habit
 - Craving Brain
----charles-duhigg.md", "The Power of Habit - Charles Duhigg.md"]
 related: ["habit-loop", "golden-rule-of-habit-change", "hook-model", "variable-reward-design", "habit-change-golden-rule", "dual-process-theory"]
 ---
 # Craving Brain

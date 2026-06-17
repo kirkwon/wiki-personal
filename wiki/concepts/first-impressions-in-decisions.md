@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - First Impressions in Decision-Making
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, ascription-bias, effective-listening]
 ---
 # First Impressions in Decision-Making

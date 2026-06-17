@@ -11,7 +11,6 @@ tags:
 sources:
 - sources-of-power-how-people-make-decisions
 - 'Sources of Power: How People Make Decisions - Gary Klein'
----gary-klein.md"]
 ---
 # Sources of Power: How People Make Decisions - Gary Klein
 

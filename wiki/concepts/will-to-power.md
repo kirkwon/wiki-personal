@@ -11,7 +11,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Will to Power
----friedrich-nietzsche.md", "Beyond Good and Evil - Friedrich Nietzsche.md"]
 related: [will-to-truth, revaluation-of-all-values, master-vs-slave-morality, ubermensch, beyond-good-and-evil-nietzsche, friedrich-nietzsche, free-spirit-nietzschean-concept]
 ---
 # Will to Power

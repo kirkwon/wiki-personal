@@ -9,7 +9,6 @@ tags:
 sources:
 - thinking-in-systems
 - Diversity in Systems
----donella-h-meadows.md"]
 related: [complex-adaptive-systems, resilience-systems, feedback-loops, thinking-in-systems---donella-h-meadows]
 ---
 # Diversity in Systems

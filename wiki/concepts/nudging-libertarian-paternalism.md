@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - Nudging / Libertarian Paternalism
----richard-thaler.md"]
 related: [ethical-design-manipulation-question, framing-effects, choice-overload, decision-making-frameworks]
 ---
 # Nudging / Libertarian Paternalism

@@ -12,7 +12,6 @@ tags:
 sources:
 - principles
 - Principles - Ray Dalio
----ray-dalio.md", "how-the-economic-machine-works---ray-dalio.md"]
 ---
 # Principles - Ray Dalio
 

@@ -12,4 +12,4 @@ tags:
 sources:
 - thinking-in-bets
 - Thinking in Bets - Annie Duke
-----annie-duke.md"]
+---

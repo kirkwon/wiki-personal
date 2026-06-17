@@ -10,7 +10,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Übermensch (Overman)
----friedrich-nietzsche.md"]
 related: [free-spirit-nietzsche, revaluation-of-all-values, will-to-power, death-of-god-nietzsche]
 ---
 # Übermensch (Overman)

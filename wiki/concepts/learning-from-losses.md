@@ -10,7 +10,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Learning from Losses
----annie-duke.md"]
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, embracing-failure-for-personal-growth, inattention-to-results]
 ---
 # Learning from Losses

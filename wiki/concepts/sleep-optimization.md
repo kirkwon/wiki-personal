@@ -12,7 +12,6 @@ tags:
 sources:
 - the-4-hour-body
 - Sleep Optimization
----timothy-ferriss.md", "The 4-Hour Body - Timothy Ferriss.md"]
 related: ["the-4-hour-body---timothy-ferriss", "metabolic-flexibility", "habit-loop-health", "the-4-hour-body", "hormone-balance-for-fat-loss"]
 ---
 # Sleep Optimization

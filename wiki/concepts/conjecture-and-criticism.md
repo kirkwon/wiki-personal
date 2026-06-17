@@ -12,7 +12,6 @@ tags:
 sources:
 - the-beginning-of-infinity
 - Conjecture and Criticism
----david-deutsch.md", "The Beginning of Infinity - David Deutsch.md"]
 related: ["the-beginning-of-infinity---david-deutsch", "critical-rationalism", "reach-of-explanations", "problem-solving", "the-problem-of-induction-revisited", "the-beginning-of-infinity-david-deutsch", "explanatory-reach", "knowledge", "thinking-mental-model", "decision-making-frameworks", "decision-quality-vs-outcome-quality", "decision-tracking", "teaching-problem-solving", "embracing-failure-for-personal-growth", "bayesian-thinking", "principle-of-optimism", "ideas-mental-model"]
 ---
 

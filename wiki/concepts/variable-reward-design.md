@@ -10,7 +10,6 @@ tags:
 sources:
 - hooked
 - Variable Reward Design
----nir-eyal.md"]
 related: [hook-model, internal-triggers, user-investment-habit, habit-testing]
 ---
 # Variable Reward Design

@@ -10,7 +10,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step
 - Overcoming Challenges in Implementation
----step-by-edward-de-bono.md"]
 related: [lateral-thinking---edward-de-bono, building-a-cohesive-team, decision-making-frameworks]
 ---
 # Overcoming Challenges in Implementation

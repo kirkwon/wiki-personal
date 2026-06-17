@@ -21,7 +21,6 @@ related:
 sources:
 - supercommunicators
 - supercommunicators-charles-duhigg-book-summary
----charles-duhigg.md"]
 ---
 # Supercommunicators - Charles Duhigg
 

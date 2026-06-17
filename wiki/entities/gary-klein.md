@@ -11,7 +11,6 @@ tags:
 sources:
 - raw/books/sources-of-power-how-people-make-decisions
 - Gary Klein
----gary-klein.md", "sources-of-power-how-people-make-decisions---gary-klein.md"]
 confidence: high
 related: ["recognition-primed-decision-model", "naturalistic-decision-making", "two-views-of-decision-kahneman-vs-klein"]
 ---

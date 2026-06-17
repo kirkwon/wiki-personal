@@ -11,7 +11,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - The Great Mental Models (Vol. 1) - Shane Parrish
----shane-parrish.md"]
 related: [decision-making-frameworks, cognitive-biases-library, thinking-fast-and-slow---daniel-kahneman, evolutionary-mindset, precision-vs-power-conflict, value-proposition-mental-model, understanding-others-mental-models, power-of-metaphors, mental-models-in-innovation]
 ---
 # The Great Mental Models (Vol. 1) - Shane Parrish

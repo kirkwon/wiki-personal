@@ -12,6 +12,7 @@ sources:
 - Speed.md
 - how-to-take-smart-notes
 - Speed (mental model)
-----snke-ahrens"]
 related: [stillness, thinking-mental-model, overview, world-disclosure, how-to-take-smart-notes---snke-ahrens]
+---
+
 confidence: 0.7

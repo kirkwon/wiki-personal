@@ -10,7 +10,6 @@ tags:
 sources:
 - building-a-second-brain
 - Building a Second Brain - Tiago Forte
----tiago-forte.md"]
 ---
 # Building a Second Brain - Tiago Forte
 

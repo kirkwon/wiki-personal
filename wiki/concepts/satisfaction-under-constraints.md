@@ -9,7 +9,6 @@ tags:
 sources:
 - the-paradox-of-choice
 - Satisfaction Under Constraints
----barry-schwartz.md", "The Paradox of Choice - Barry Schwartz.md"]
 related: [paradox-of-choice, choice-overload, decision-quality-vs-outcome-quality, decision-paralysis, prospect-theory]
 ---
 

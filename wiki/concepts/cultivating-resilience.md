@@ -10,7 +10,6 @@ tags:
 sources:
 - clear-thinking-turning-ordinary-moments-into-extraordinary-results
 - Cultivating Resilience
----shane-parrish.md"]
 related: [clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish, embracing-failure-for-personal-growth, science-of-joy, managing-emotions-for-clarity]
 ---
 # Cultivating Resilience

@@ -11,7 +11,6 @@ tags:
 sources:
 - the-alignment-problem
 - Anomalies and Exceptions in AI
----brian-christian-tom-griffiths.md"]
 related: [the-alignment-problem---brian-christian-tom-griffiths, reinforcement-learning-alignment, consistency-vs-alignment]
 ---
 # Anomalies and Exceptions in AI

@@ -9,7 +9,6 @@ tags:
 sources:
 - the-para-method-simplify-organize-and-master-your-digital-life
 - Pattern Analysis in Digital Life
----tiago-forte.md"]
 related: [naturalistic-decision-making, recognition-primed-decision-model, systematic-decision-making, the-para-method]
 ---
 # Pattern Analysis in Digital Life

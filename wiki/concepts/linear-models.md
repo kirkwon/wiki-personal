@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Linear Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, model-selection, decision-making-frameworks]
 ---
 # Linear Models

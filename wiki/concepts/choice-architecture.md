@@ -14,7 +14,6 @@ tags:
 sources:
 - nudge
 - Choice Architecture
----richard-h-thaler-cass-r-sunstein.md", "Misbehaving - Richard H Thaler.md", "Economics.md", "Nudge - Richard H Thaler  Cass R Sunstein", "Nudge.md", "Nudges.md", "Nudge - Richard H. Thaler & Cass R. Sunstein.md"]
 related: ["nudge-theory", "ethical-design-manipulation-question", "decision-making-frameworks", "cognitive-biases-library", "default-effects", "nudge", "framing-effect", "systematic-decision-making", "decision-paralysis", "choice-overload", "dual-process-theory", "radical-transparency", "skin-in-the-game", "skin-in-the-game---nassim-nicholas-taleb", "economics-mental-model", "framing-effects", "libertarian-paternalism", "nudges", "nudge---richard-h-thaler-cass-r-sunstein", "environment", "environment-design-and-optimization"]
 ---
 # Choice Architecture

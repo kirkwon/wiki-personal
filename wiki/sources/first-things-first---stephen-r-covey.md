@@ -11,7 +11,6 @@ tags:
 sources:
 - first-things-first
 - First Things First - Stephen R. Covey
----stephen-r-covey.md"]
 ---
 # First Things First - Stephen R. Covey
 

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - Facing Rivalry
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, infinite-game-mindset, the-game-of-success, stoicism-as-a-framework]
 ---
 # Facing Rivalry

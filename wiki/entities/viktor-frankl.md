@@ -13,7 +13,6 @@ tags:
 sources:
 - mans-search-for-meaning
 - Viktor Frankl
----viktor-frankl.md", "Mans Search for Meaning - Viktor Frankl.md"]
 related: [logotherapy, tragic-optimism, will-to-meaning, will---mark-manson, man-s-search-for-meaning, growth-mindset, embracing-failure-for-personal-growth, meaning-finding-framework, world-disclosure, infinite-game-mindset]
 ---
 # Viktor Frankl

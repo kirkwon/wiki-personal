@@ -10,7 +10,6 @@ tags:
 sources:
 - hooked
 - User Investment Habit
----nir-eyal.md"]
 related: [hook-model, variable-reward-design, habit-testing, endowment-effect]
 ---
 # User Investment Habit

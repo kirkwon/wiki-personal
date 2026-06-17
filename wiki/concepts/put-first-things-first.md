@@ -10,7 +10,6 @@ tags:
 sources:
 - the-7-habits-of-highly-effective-people
 - Put First Things First
----stephen-r-covey.md"]
 related: [time-management-matrix, quadrant-2-focus, begin-with-the-end-in-mind]
 ---
 # Put First Things First

@@ -10,7 +10,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Groundless Fears
----seneca.md"]
 related: [cognitive-biases-library, stoicism, letters-from-a-stoic---seneca]
 ---
 # Groundless Fears

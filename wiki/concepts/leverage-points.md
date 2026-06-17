@@ -10,7 +10,6 @@ tags:
 sources:
 - thinking-in-systems
 - Leverage Points
----donella-h-meadows.md", "Thinking in Systems - Donella H. Meadows.md"]
 related: [systems-thinking, feedback-loops, complex-adaptive-systems, thinking-in-systems---donella-h-meadows, system-dynamics, decision-making-frameworks, decision-quality-vs-outcome-quality]
 ---
 # Leverage Points

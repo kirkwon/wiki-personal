@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - The Many Model Thinker
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, model-selection, model-combination, decision-making-frameworks, thinking-fast-and-slow---daniel-kahneman]
 ---
 # The Many Model Thinker

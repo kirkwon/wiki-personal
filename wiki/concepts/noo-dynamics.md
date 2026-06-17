@@ -10,7 +10,6 @@ tags:
 sources:
 - mans-search-for-meaning
 - Noö-Dynamics
----viktor-frankl.md"]
 related: [will-to-meaning, logotherapy, tragic-optimism]
 ---
 # Noö-Dynamics

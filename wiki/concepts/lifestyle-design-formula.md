@@ -10,7 +10,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - Lifestyle Design Formula
----timothy-ferriss.md"]
 related: [lifestyle-design, lifestyle-design-protocol, human-high-frequency-trader, what-do-you-want, the-4-hour-workweek---timothy-ferriss]
 ---
 # Lifestyle Design Formula

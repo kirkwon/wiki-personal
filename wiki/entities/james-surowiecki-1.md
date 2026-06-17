@@ -11,5 +11,5 @@ tags:
 sources:
 - the-wisdom-of-crowds
 - James Surowiecki
-----james-surowiecki.md"]
 related: [wisdom-of-crowds, information-cascades, crowd-aggregation-methods, prediction-markets]
+---

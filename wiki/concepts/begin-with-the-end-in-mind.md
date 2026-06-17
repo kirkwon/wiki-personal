@@ -10,7 +10,6 @@ tags:
 sources:
 - the-7-habits-of-highly-effective-people
 - Begin with the End in Mind
----stephen-r-covey.md"]
 related: [be-proactive, put-first-things-first, working-backwards]
 ---
 # Begin with the End in Mind

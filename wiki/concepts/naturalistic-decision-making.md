@@ -11,7 +11,6 @@ tags:
 sources:
 - raw/books/sources-of-power-how-people-make-decisions
 - Naturalistic Decision Making
----gary-klein.md", "sources-of-power-how-people-make-decisions---gary-klein.md"]
 confidence: high
 related: ["recognition-primed-decision-model", "decision-making-under-uncertainty", "decision-making-frameworks"]
 ---

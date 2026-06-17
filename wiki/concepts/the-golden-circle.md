@@ -10,7 +10,6 @@ tags:
 sources:
 - find-your-why
 - The Golden Circle
----simon-sinek.md"]
 related: [find-your-why-simon-sinek, the-three-essential-questions, personal-branding-and-wellbeing, thinking-fast-and-slow---daniel-kahneman]
 ---
 # The Golden Circle

@@ -10,7 +10,6 @@ tags:
 sources:
 - leaders-eat-last
 - Social Structure of Leader-Led Organizations
----simon-sinek.md"]
 related: [the-three-elements-of-leader-led-organizations, communication-skills, building-a-cohesive-team]
 ---
 # Social Structure of Leader-Led Organizations

@@ -11,4 +11,4 @@ tags:
 sources:
 - nudge
 - Nudge - Richard H. Thaler & Cass R. Sunstein
-----richard-h-thaler-cass-r-sunstein.md"]
+---

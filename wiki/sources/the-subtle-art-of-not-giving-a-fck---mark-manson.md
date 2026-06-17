@@ -12,4 +12,4 @@ tags:
 sources:
 - the-subtle-art-of-not-giving-a-fck
 - The Subtle Art of Not Giving a F*ck - Mark Manson
-----mark-manson.md"]
+---

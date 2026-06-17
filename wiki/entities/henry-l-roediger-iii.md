@@ -10,7 +10,6 @@ tags:
 sources:
 - make-it-stick
 - Henry L. Roediger III
----peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md"]
 related: [make-it-stick---peter-c-brown-et-al, spaced-repetition]
 ---
 # Henry L. Roediger III

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-four
 - Google vs Uber Rivalry
----scott-galloway.md"]
 related: [the-four, platform-dominance]
 ---
 # Google vs Uber Rivalry

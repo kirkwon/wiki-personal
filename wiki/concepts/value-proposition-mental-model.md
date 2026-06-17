@@ -11,7 +11,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - Value Proposition Mental Model
----shane-parrish.md", "The Great Mental Models Vol 1 - Shane Parrish.md"]
 related: ["decision-quality-vs-outcome-quality", "expected-value-ev", "real-options-analysis", "decision-making-frameworks", "cv-xcv-framework"]
 ---
 # Value Proposition Mental Model

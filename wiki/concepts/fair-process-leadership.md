@@ -10,7 +10,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Fair Process
----w-chan-kim-renee-mauborgne.md"]
 related: [blue-ocean-strategy, tipping-point-leadership-bos, building-a-decision-culture, strategic-sequence]
 ---
 # Fair Process

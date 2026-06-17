@@ -12,4 +12,4 @@ tags:
 sources:
 - the-most-human-human
 - The Most Human Human - Brian Christian & Tom Griffiths
-----brian-christian-tom-griffiths.md"]
+---

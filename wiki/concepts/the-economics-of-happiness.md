@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - The Economics of Happiness
----richard-thaler.md"]
 related: [hedonic-adaptation, easterlin-paradox, mental-accounting]
 ---
 # The Economics of Happiness

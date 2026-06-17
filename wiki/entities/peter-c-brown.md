@@ -12,7 +12,6 @@ tags:
 sources:
 - make-it-stick
 - Peter C. Brown
----peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md", "Techniques.md"]
 related: [make-it-stick---peter-c-brown-et-al, retrieval-practice, spaced-repetition, techniques, make-it-stick, active-revision-techniques, neuroplasticity, teaching-problem-solving]
 ---
 # Peter C. Brown

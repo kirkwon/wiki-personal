@@ -11,7 +11,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - Outsourcing Your Life
----timothy-ferriss.md"]
 related: [lifestyle-design, lifestyle-design-formula, lifestyle-design-protocol, inbox-resistance, the-4-hour-workweek---timothy-ferriss]
 ---
 # Outsourcing Your Life

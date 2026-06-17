@@ -11,7 +11,6 @@ tags:
 sources:
 - the-checklist-manifesto
 - Atul Gawande
----atul-gawande.md", "Care.md"]
 related: [checklists-as-cognitive-aids, the-checklist-manifesto---atul-gawande, systematic-decision-making, being-mortal, care, building-checklists-guide, checklists-in-resource-limited-settings, checklists-and-change-management, the-wrongness-of-perfection]
 ---
 # Atul Gawande

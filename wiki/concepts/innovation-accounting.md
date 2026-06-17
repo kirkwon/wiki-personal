@@ -10,7 +10,6 @@ tags:
 sources:
 - the-lean-startup
 - Innovation Accounting
----eric-ries.md"]
 related: [the-lean-startup---eric-ries, build-measure-learn, validated-learning, minimum-viable-product-mvp, pivot-or-persevere]
 ---
 # Innovation Accounting

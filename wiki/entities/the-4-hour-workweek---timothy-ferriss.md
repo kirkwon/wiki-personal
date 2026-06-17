@@ -13,7 +13,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - The 4-Hour Workweek - Timothy Ferriss
----timothy-ferriss.md", "Tasks.md", "Tools.md"]
 related: ["lifestyle-design", "outsourcing-your-life", "inbox-resistance", "human-high-frequency-trader", "time-management-matrix", "decision-making-frameworks", "tasks", "deep-work - Cal Newport", "getting-things-done---david-allen", "deep-work---Cal-Newport", "tools", "tools-of-titans---timothy-ferriss", "building-a-second-brain---tiago-forte"]
 ---
 # The 4-Hour Workweek - Timothy Ferriss

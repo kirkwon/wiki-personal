@@ -12,7 +12,6 @@ tags:
 sources:
 - stillness-is-the-key
 - Stillness Is the Key - Ryan Holiday
----ryan-holiday.md"]
 ---
 # Stillness Is the Key - Ryan Holiday
 

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-four
 - The Four
----scott-galloway.md"]
 related: [platform-dominance, strategic-vs-reactive-thinking, scenario-planning, amazon-apple-rivalry, google-uber-rivalry, facebook-baidu-rivalry, microsoft-tencent-rivalry]
 ---
 # The Four

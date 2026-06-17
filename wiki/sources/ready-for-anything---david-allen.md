@@ -11,4 +11,4 @@ tags:
 sources:
 - ready-for-anything
 - Ready for Anything - David Allen
-----david-allen.md"]
+---

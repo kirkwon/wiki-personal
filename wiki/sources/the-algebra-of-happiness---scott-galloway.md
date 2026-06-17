@@ -11,7 +11,6 @@ tags:
 sources:
 - the-algebra-of-happiness
 - The Algebra of Happiness - Scott Galloway
----scott-galloway.md"]
 ---
 # The Algebra of Happiness - Scott Galloway
 

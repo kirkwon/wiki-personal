@@ -14,7 +14,6 @@ tags:
 sources:
 - self-theories-their-role-in-motivation-personality-and-development
 - Mindset Interventions
----carol-s-dweck.md", "Self-Theories_ Their Role in Motivation Personality and Development - Carol S Dweck.md", "Self-Theories_ Their Role in Motivation", "Personality", "and Development - Carol S. Dweck.md"]
 related: [fixed-mindset, growth-mindset, mindset-theory, embracing-failure-for-personal-growth, process-praise-vs-person-praise, active-revision-techniques, mindset---carol-s-dweck]
 ---
 

@@ -10,7 +10,6 @@ tags:
 sources:
 - make-it-stick
 - Retrieval Practice
----peter-c-brown-et-al.md", "make-it-stick---peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md"]
 related: ["desirable-difficulties", "spaced-repetition", "active-revision-techniques", "generation-effect", "make-it-stick---peter-c-brown-et-al", "elaborative-interrogation", "f Feynman-technique-learning"]
 ---
 # Retrieval Practice

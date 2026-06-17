@@ -10,7 +10,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Time as a Precious Resource
----seneca.md"]
 related: [time-management-matrix, quadrant-2-focus, letters-from-a-stoic---seneca, stoicism]
 ---
 # Time as a Precious Resource

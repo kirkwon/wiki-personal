@@ -11,7 +11,6 @@ tags:
 sources:
 - fooled
 - Peril of Leverage
----randomness-by-nassim-nicholas-taleb.md", "Fooled by Randomness - Nassim Nicholas Taleb.md"]
 related: [bet-sizing, kelly-criterion, quant-strategy, antifragility, skin-in-the-game, risk-assessment-framework, black-swan-events, decision-making-under-uncertainty]
 ---
 # Peril of Leverage

@@ -11,7 +11,6 @@ sources:
 - Forecasting.md
 - superforecasting
 - Forecasting
----philip-e-tetlock-dan-gardner"]
 related: [superforecasting, prediction-markets, bayesian-thinking, probability-and-judgment-under-uncertainty, decision-making-under-uncertainty, scenario-planning, monte-carlo-simulations, cognitive-biases-library]
 ---
 # Forecasting

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-algebra-of-happiness
 - Personal Branding and Wellbeing
----scott-galloway.md", "mans-search-for-meaning---viktor-frankl.md"]
 related: [the-algebra-of-happiness---scott-galloway, emotion-and-intuition-in-decisions, building-a-decision-culture, will-to-meaning, sources-of-meaning-frankl, balancing-ambition-with-well-being]
 ---
 # Personal Branding and Wellbeing

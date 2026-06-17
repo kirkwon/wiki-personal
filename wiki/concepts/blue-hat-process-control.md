@@ -14,7 +14,6 @@ tags:
 sources:
 - six-thinking-hats
 - Blue Hat - Process Control
----edward-de-bono.md", "Six Thinking Hats - Edward de Bono.md"]
 related: ["six-thinking-hats", "systematic-decision-making", "building-a-cohesive-team", "effective-listening", "decision-making-frameworks", "communication-skills"]
 ---
 # Blue Hat - Process Control

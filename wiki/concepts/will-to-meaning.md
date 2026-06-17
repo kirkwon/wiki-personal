@@ -10,7 +10,6 @@ tags:
 sources:
 - mans-search-for-meaning
 - Will to Meaning
----viktor-frankl.md"]
 related: [logotherapy, sources-of-meaning-frankl, will---mark-manson, science-of-joy]
 ---
 # Will to Meaning

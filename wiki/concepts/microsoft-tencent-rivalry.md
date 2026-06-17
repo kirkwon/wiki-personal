@@ -10,7 +10,6 @@ tags:
 sources:
 - the-four
 - Microsoft vs Tencent Rivalry
----scott-galloway.md"]
 related: [the-four, platform-dominance]
 ---
 # Microsoft vs Tencent Rivalry

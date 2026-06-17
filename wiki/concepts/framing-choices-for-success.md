@@ -10,7 +10,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Framing Choices for Success
----annie-duke.md"]
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, decision-making-frameworks, prospect-theory, overconfidence-and-certainty]
 ---
 # Framing Choices for Success

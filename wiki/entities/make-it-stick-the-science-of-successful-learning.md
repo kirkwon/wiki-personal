@@ -1,5 +1,5 @@
 ---
-title: Make It Stick: The Science of Successful Learning
+title: "Make It Stick: The Science of Successful Learning"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

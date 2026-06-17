@@ -10,7 +10,6 @@ tags:
 sources:
 - hyperfocus
 - Single-Tasking vs Multitasking
----chris-bailey.md"]
 related: [hyperfocus---chris-bailey, attention-residue, hyperfocus-and-scatterfocus, time-management-matrix]
 ---
 # Single-Tasking vs Multitasking

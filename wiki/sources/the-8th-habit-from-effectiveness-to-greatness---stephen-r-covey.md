@@ -2,11 +2,12 @@
 
 type: source
 title: "Source: the-8th-habit-from-effectiveness-to-greatness"
----stephen-r-covey.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources: ["the-8th-habit-from-effectiveness-to-greatness---stephen-r-covey.md"]
+
 tags: []
+
 related: []
 ---
 

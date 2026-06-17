@@ -11,7 +11,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Emotional Regulation Through Reason
----seneca.md", "Letters from a Stoic - Seneca.md"]
 related: ["stoicism", "cognitive-biases-library", "emotion-and-intuition-in-decisions", "dual-process-theory", "letters-from-a-stoic---seneca", "letters-from-a-stoic-seneca", "emotions-and-ai", "balancing-ambition-with-well-being", "decision-making-frameworks"]
 ---
 # Emotional Regulation Through Reason

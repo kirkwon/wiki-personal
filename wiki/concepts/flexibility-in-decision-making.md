@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Flexibility in Decision-Making
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, real-options-analysis, strategic-vs-reactive-thinking]
 ---
 # Flexibility in Decision-Making

@@ -7,7 +7,7 @@ created: 2026-04-29
 updated: 2026-04-29
 tags: [books, mental-model, philosophy]
 sources: ["Behaviors.md"]
-related: [mark-manson, will
+related: [mark-manson, will]
 
 ---
 # Everything Is F_cked: A Book About Hope - Mark Manson

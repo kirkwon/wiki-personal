@@ -10,7 +10,6 @@ tags:
 sources:
 - hyperfocus
 - Strategic Distraction
----chris-bailey.md"]
 related: [hyperfocus---chris-bailey, hyperfocus-and-scatterfocus, attention-budget, digital-minimalism]
 ---
 # Strategic Distraction

@@ -13,7 +13,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Memento Mori
----seneca.md", "on-the-shortness-of-life---seneca.md", "Letters from a Stoic - Seneca.md"]
 related: [stoicism, letters-from-a-stoic---seneca, balancing-ambition-with-well-being, embracing-failure-for-personal-growth, on-the-shortness-of-life---seneca, present-moment-living, letters-from-a-stoic-seneca, philosophical-journaling, emotional-regulation-through-reason]
 ---
 # Memento Mori

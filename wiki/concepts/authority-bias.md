@@ -10,7 +10,6 @@ tags:
 sources:
 - super-thinking
 - Authority Bias
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: ["cognitive-biases-library", "social-proof", "reciprocity", "mental-models", "super-thinking-gabriel-weinberg", "in-group-out-group-bias"]
 ---
 # Authority Bias

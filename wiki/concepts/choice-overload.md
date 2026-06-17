@@ -12,7 +12,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Choice Overload
----dan-ariely.md", "the-paradox-of-choice---barry-schwartz.md", "The Paradox of Choice - Barry Schwartz.md", "Society.md"]
 related: ["the-upside-of-irrationality---dan-ariely", "irrational-decision-making", "the-index-card-rules", "categorizing-information", "paradox-of-choice", "decision-paralysis", "satisfaction-under-constraints", "decision-making-under-uncertainty", "default-options-and-inertia", "dread-aversion", "decision-tracking", "prospect-theory", "decision-quality-vs-outcome-quality", "building-a-decision-culture", "society"]
 ---
 

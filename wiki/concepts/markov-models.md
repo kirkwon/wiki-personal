@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Markov Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, stochastic-processes, decision-making-under-uncertainty]
 ---
 # Markov Models

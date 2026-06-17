@@ -10,7 +10,6 @@ tags:
 sources:
 - make-it-stick
 - Elaborative Interrogation
----peter-c-brown-et-al.md", "make-it-stick---peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md"]
 related: ["desirable-difficulties", "retrieval-practice", "the-feynman-technique", "make-it-stick---peter-c-brown-et-al", "f Feynman-technique-learning", "how-to-solve-it---george-polya", "feynman-technique-learning"]
 ---
 # Elaborative Interrogation

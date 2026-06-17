@@ -20,7 +20,6 @@ related:
 sources:
 - supercommunicators
 - cognitive-science-decisions
----charles-duhigg.md", "Supercommunicators - Charles Duhigg.md"]
 ---
 
 # Brain's Social Motivation System

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-honest-truth-about-dishonesty
 - Cultural Variation in Honesty
----dan-ariely.md"]
 related: [situational-ethics, incentives-for-honesty]
 ---
 # Cultural Variation in Honesty

@@ -11,4 +11,4 @@ tags:
 sources:
 - the-fifth-discipline
 - The Fifth Discipline - Peter M. Senge
-----peter-m-senge.md"]
+---

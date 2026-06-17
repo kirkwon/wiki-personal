@@ -10,7 +10,6 @@ tags:
 sources:
 - the-art-of-war
 - Attack by Stratagem
----sun-tzu.md"]
 related: [the-art-of-war-sun-tzu, strategic-vs-reactive-thinking, decision-making-frameworks, intelligence-in-strategy]
 ---
 # Attack by Stratagem

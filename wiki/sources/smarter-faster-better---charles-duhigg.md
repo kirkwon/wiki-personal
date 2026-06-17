@@ -12,4 +12,4 @@ tags:
 sources:
 - smarter-faster-better
 - Smarter Faster Better - Charles Duhigg
-----charles-duhigg.md"]
+---

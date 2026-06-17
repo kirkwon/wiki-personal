@@ -10,7 +10,6 @@ tags:
 sources:
 - leaders-eat-last
 - Leaders Eat Last Key Concepts
----simon-sinek.md"]
 related: [service-first-leadership, physical-space-and-culture, belonging-in-leadership, the-parable-of-the-boats, triple-bottom-line]
 ---
 # Leaders Eat Last Key Concepts

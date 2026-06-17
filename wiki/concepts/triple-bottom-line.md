@@ -11,7 +11,6 @@ tags:
 sources:
 - leaders-eat-last
 - Triple Bottom Line
----simon-sinek.md", "Leaders Eat Last - Simon Sinek.md"]
 related: ["leaders-eat-last-key-concepts", "service-first-leadership", "leaders-eat-last---simon-sinek", "service-over-profit-leadership", "shared-purpose-leadership", "balancing-ambition-with-well-being", "belonging-in-leadership"]
 ---
 # Triple Bottom Line

@@ -11,7 +11,6 @@ tags:
 sources:
 - find-your-why
 - Find Your Why - Simon Sinek
----simon-sinek.md", "Purpose.md"]
 ---
 # Find Your Why - Simon Sinek
 

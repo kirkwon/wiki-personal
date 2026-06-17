@@ -12,7 +12,6 @@ tags:
 sources:
 - first-things-first
 - Effective Listening
----stephen-r-covey.md", "First Things First - Stephen R. Covey.md"]
 related: [communication-skills, first-things-first-principle, decision-making-frameworks, time-management-matrix]
 ---
 # Effective Listening

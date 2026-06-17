@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Social Pressure in Decision-Making
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, group-decision-polarization, effective-listening]
 ---
 # Social Pressure in Decision-Making

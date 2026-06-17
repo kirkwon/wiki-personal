@@ -11,7 +11,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Irrational Decision-Making
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, cognitive-biases-library, prospect-theory, dual-process-theory, emotion-and-intuition-in-decisions]
 ---
 # Irrational Decision-Making

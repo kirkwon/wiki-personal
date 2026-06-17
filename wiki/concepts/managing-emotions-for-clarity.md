@@ -10,7 +10,6 @@ tags:
 sources:
 - clear-thinking-turning-ordinary-moments-into-extraordinary-results
 - Managing Emotions for Clarity
----shane-parrish.md"]
 related: [clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish, emotions-and-ai, emotion-and-intuition-in-decisions, overconfidence-and-certainty]
 ---
 # Managing Emotions for Clarity

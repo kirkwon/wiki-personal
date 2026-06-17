@@ -10,7 +10,6 @@ tags:
 sources:
 - the-7-habits-of-highly-effective-people
 - Seek First to Understand, Then to Be Understood
----stephen-r-covey.md"]
 related: [effective-listening, think-win-win, radical-transparency]
 ---
 # Seek First to Understand, Then to Be Understood

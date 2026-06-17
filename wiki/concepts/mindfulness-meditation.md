@@ -11,7 +11,6 @@ tags:
 sources:
 - stillness-is-the-key
 - Mindfulness Meditation
----ryan-holiday.md"]
 related: [stillness-concept, stillness-is-the-key---ryan-holiday, effective-listening, emotions-and-ai]
 ---
 # Mindfulness Meditation

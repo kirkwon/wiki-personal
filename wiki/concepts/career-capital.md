@@ -11,7 +11,6 @@ sources:
 - Career.md
 - so-good-they-cant-ignore-you
 - Career capital
----cal-newport"]
 confidence: medium
 related: [career-mental-model, deliberate-practice, leverage, cal-newport]
 ---

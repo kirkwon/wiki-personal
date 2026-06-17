@@ -11,7 +11,6 @@ tags:
 sources:
 - super-thinking
 - Spaced Repetition
----gabriel-weinberg.md", "make-it-stick---peter-c-brown-et-al.md", "make-it-stick---peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md", "Super Thinking - Gabriel Weinberg.md"]
 related: ["mental-models", "feynman-technique", "deliberate-practice", "personal-knowledge-vault-readme", "retrieval-practice", "desirable-difficulties", "active-revision-techniques", "make-it-stick---peter-c-brown-et-al", "how-to-take-smart-notes---snke-ahrens", "super-thinking-gabriel-weinberg", "growth-mindset"]
 ---
 # Spaced Repetition

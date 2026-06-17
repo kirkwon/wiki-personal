@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - Richard Thaler
----richard-thaler.md", "The Winner's Curse - Richard Thaler.md"]
 related: ["the-winners-curse---richard-thaler", "mental-accounting", "winner's-curse", "nudging-libertarian-paternalism", "overconfidence-and-certainty", "framing-effects", "the-winner-s-curse-richard-thaler", "planning-fallacy", "libertarian-paternalism", "easterlin-paradox", "thinking-fast-and-slow---daniel-kahneman", "thinking-in-bets---annie-duke", "ethical-design-manipulation-question"]
 ---
 # Richard Thaler

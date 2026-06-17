@@ -6,8 +6,7 @@ created: 2026-04-29
 updated: 2026-05-12
 tags: [mental-model, decision-making, strategy, mental-models]
 sources: ["Situation.md", "The Art of War - Sun Tzu.md"]
-related: [problem-mental-model, solutions-mental-model, planning, stillness, overview, thinking-mental-model, care, environment, how-to-decide
----annie-duke, thinking-in-bets---annie-duke, the-art-of-war---sun-tzu, terrain-analysis, strategic-assessment-frameworks, superforecasting]
+related: [problem-mental-model, solutions-mental-model, planning, stillness, overview, thinking-mental-model, care, environment, how-to-decide annie-duke, thinking-in-bets---annie-duke, the-art-of-war---sun-tzu, terrain-analysis, strategic-assessment-frameworks, superforecasting]
 confidence: medium
 ---
 # Situation

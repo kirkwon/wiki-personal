@@ -10,7 +10,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Decision Timing
----annie-duke.md"]
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, scenario-planning, real-options-analysis, the-power-of-timing]
 ---
 # Decision Timing

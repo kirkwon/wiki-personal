@@ -10,7 +10,6 @@ tags:
 sources:
 - the-lean-startup
 - The Lean Startup - Eric Ries
----eric-ries.md"]
 related: [build-measure-learn, minimum-viable-product-mvp, validated-learning, pivot-or-persevere, innovation-accounting, small-batch-production, thinking-in-bets---annie-duke, superforecasting-methodology, real-options-analysis]
 ---
 # The Lean Startup - Eric Ries

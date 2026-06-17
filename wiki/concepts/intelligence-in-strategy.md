@@ -10,7 +10,6 @@ tags:
 sources:
 - the-art-of-war
 - Intelligence in Strategy
----sun-tzu.md"]
 related: [the-art-of-war-sun-tzu, attack-by-stratagem, weak-point-exploitation, decision-making-frameworks]
 ---
 # Intelligence in Strategy

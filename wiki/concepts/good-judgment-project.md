@@ -10,7 +10,6 @@ tags:
 sources:
 - superforecasting
 - Good Judgment Project
----philip-e-tetlock-dan-gardner.md"]
 related: [superforecasting---philip-e-tetlock-dan-gardner, superforecasting-methodology, superforecasting, prediction-markets]
 ---
 # Good Judgment Project

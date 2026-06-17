@@ -10,7 +10,6 @@ tags:
 sources:
 - hooked
 - External Triggers
----nir-eyal.md"]
 related: [hook-model, internal-triggers, fogg-behavior-model]
 ---
 # External Triggers

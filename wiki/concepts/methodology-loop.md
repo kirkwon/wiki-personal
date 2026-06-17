@@ -1,11 +1,11 @@
 ---
- type: concept
- title: Methodology Loop (Inner, Validation, Meta)
- created: 2026-06-11
- updated: 2026-06-11
- tags: [concept, methodology, self-harness, karpathy, validation, meta-loop]
- sources: []
- ---
+type: concept
+title: Methodology Loop (Inner, Validation, Meta)
+created: 2026-06-11
+updated: 2026-06-11
+tags: [concept, methodology, self-harness, karpathy, validation, meta-loop]
+sources: []
+---
 
 # Methodology Loop
 
@@ -68,15 +68,15 @@ After a batch of inner‑loop completions (or after a fixed time interval), step
 
 ```
 Meta‑Loop
-  ↓
+↓
 [Inner Loop]
-  ↓
+↓
 Weakness Mine → Harness Propose → Proposal Validate
-  ↓
+↓
 Validation Layer (tests, hashes, metrics)
-  ↓
+↓
 [Validated Harness]
-  ↓
+↓
 (Meta‑Loop evaluates the inner‑loop process)
 ```
 

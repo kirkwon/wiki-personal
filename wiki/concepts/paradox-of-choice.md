@@ -11,7 +11,6 @@ tags:
 sources:
 - the-paradox-of-choice
 - Paradox of Choice
----barry-schwartz.md", "The Paradox of Choice - Barry Schwartz.md"]
 related: [choice-overload, loss-aversion-in-choice, satisfaction-under-constraints, decision-making-under-uncertainty, thinking-fast-and-slow---daniel-kahneman, dread-aversion, decision-quality-vs-outcome-quality, decision-paralysis, prospect-theory, building-a-decision-culture]
 ---
 # Paradox of Choice

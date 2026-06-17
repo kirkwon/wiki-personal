@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Evolutionary Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, game-theory-models, adaptation, agent-based-modeling]
 ---
 # Evolutionary Models

@@ -16,7 +16,6 @@ related:
 sources:
 - supercommunicators
 - supercommunicators-charles-duhigg-book-summary
----charles-duhigg.md"]
 ---
 # Ethics of Supercommunication
 

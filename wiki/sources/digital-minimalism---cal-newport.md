@@ -11,7 +11,6 @@ tags:
 sources:
 - digital-minimalism
 - Digital Minimalism - Cal Newport
----cal-newport.md"]
 ---
 # Digital Minimalism - Cal Newport
 

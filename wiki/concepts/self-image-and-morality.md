@@ -10,7 +10,6 @@ tags:
 sources:
 - the-honest-truth-about-dishonesty
 - Self-Image and Morality
----dan-ariely.md"]
 related: [ascription-bias, overconfidence-and-certainty, self-image-and-morality, dishonesty-experiments, ethics-and-ai]
 ---
 # Self-Image and Morality

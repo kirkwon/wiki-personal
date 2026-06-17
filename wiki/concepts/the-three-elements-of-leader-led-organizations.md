@@ -10,7 +10,6 @@ tags:
 sources:
 - leaders-eat-last
 - The Three Elements of Leader-Led Organizations
----simon-sinek.md"]
 related: [leaders-eat-last-key-concepts, physical-space-and-culture, social-structure-of-leader-led-organizations, shared-purpose-drives-success]
 ---
 # The Three Elements of Leader-Led Organizations

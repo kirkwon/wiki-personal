@@ -10,7 +10,6 @@ tags:
 sources:
 - the-four
 - Amazon vs Apple Rivalry
----scott-galloway.md"]
 related: [the-four, platform-dominance]
 ---
 # Amazon vs Apple Rivalry

@@ -1,5 +1,5 @@
 ---
-title: wikilink: guanciale
+title: "wikilink: guanciale"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -10,7 +10,6 @@ related: []
 status: draft | review | complete
 title: '{{title}}'
 updated: *id001
-----
 
 ---
 

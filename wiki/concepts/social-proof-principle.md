@@ -12,7 +12,6 @@ tags:
 sources:
 - influence-the-psychology-of-persuasion
 - Social Proof Principle
----robert-b-cialdini.md", "Influence_ The Psychology of Persuasion - Robert B. Cialdini.md"]
 related: [influence-the-psychology-of-persuasion---robert-b-cialdini, reciprocity-principle, commitment-and-consistency-principle, authority-principle, liking-principle, scarcity-principle, group-decision-polarization, cognitive-biases-library, the-wisdom-of-crowds, superforecasting]
 ---
 

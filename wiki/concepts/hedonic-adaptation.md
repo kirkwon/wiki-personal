@@ -11,7 +11,6 @@ tags:
 sources:
 - the-winners-curse
 - Hedonic Adaptation
----richard-thaler.md", "The Winner's Curse - Richard Thaler.md"]
 related: [easterlin-paradox, the-economics-of-happiness, decision-making-frameworks, decision-quality-vs-outcome-quality, mental-accounting]
 ---
 # Hedonic Adaptation

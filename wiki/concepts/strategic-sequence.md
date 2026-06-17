@@ -11,7 +11,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Strategic Sequence
----w-chan-kim-renee-mauborgne.md", "Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne.md"]
 related: ["blue-ocean-strategy", "buyer-utility-map", "value-innovation", "fair-process-leadership", "non-customer-analysis"]
 ---
 # Strategic Sequence

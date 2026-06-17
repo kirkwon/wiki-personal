@@ -10,7 +10,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Commitment Phobia
----annie-duke.md"]
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, decision-paralysis, inattention-to-results]
 ---
 # Commitment Phobia

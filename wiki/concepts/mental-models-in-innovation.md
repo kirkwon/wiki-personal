@@ -11,7 +11,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - Mental Models in Innovation
----shane-parrish.md"]
 related: [inventors-paradox, bright-idea-insight, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, problem-solving]
 ---
 # Mental Models in Innovation

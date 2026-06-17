@@ -11,7 +11,6 @@ tags:
 sources:
 - super-thinking
 - Reciprocity
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: [cognitive-biases-library, social-proof, authority-bias, mental-models, super-thinking-gabriel-weinberg, in-group-out-group-bias, empathy]
 ---
 # Reciprocity

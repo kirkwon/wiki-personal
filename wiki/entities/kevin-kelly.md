@@ -12,7 +12,6 @@ tags:
 sources:
 - out-of-control
 - Kevin Kelly
----kevin-kelly.md", "Technology.md", "Information.md", "Implications.md", "Intelligence.md"]
 related: ["out-of-control---kevin-kelly", "self-organization-and-emergence", "swarm-intelligence", "the-nine-laws-of-god", "global-brain", "technology-mental-model", "out-of-control", "information", "implications-mental-model", "out-of-control-kevin-kelly", "Intelligence as a Mental Model", "The Wisdom of Crowds - James Surowiecki"]
 ---
 # Kevin Kelly

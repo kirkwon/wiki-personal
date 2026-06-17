@@ -10,7 +10,6 @@ tags:
 sources:
 - hyperfocus
 - Attention Residue
----chris-bailey.md"]
 related: [hyperfocus---chris-bailey, single-tasking-vs-multitasking, hyperfocus-and-scatterfocus, decision-quality-vs-outcome-quality]
 ---
 # Attention Residue

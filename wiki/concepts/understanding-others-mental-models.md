@@ -11,7 +11,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - Understanding Others Through Their Mental Models
----shane-parrish.md"]
 related: [effective-listening, the-five-dysfunctions-of-a-team, communication-skills, empathy-in-decision-making]
 ---
 # Understanding Others Through Their Mental Models

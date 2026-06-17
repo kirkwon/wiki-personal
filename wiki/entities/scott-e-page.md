@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Scott E. Page
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, many-model-thinker, model-selection]
 ---
 # Scott E. Page

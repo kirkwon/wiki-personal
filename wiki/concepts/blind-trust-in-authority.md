@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Blind Trust in Authority
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, radical-transparency, skin-in-the-game]
 ---
 # Blind Trust in Authority

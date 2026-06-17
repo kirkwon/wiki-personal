@@ -12,5 +12,5 @@ tags:
 sources:
 - how-to-take-smart-notes
 - Sönke Ahrens - How to Take Smart Notes
-----snke-ahrens.md"]
 related: [sönke-ahrens, personal-knowledge-vault, effective-listening]
+---

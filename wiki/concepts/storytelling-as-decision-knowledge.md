@@ -10,7 +10,6 @@ tags:
 sources:
 - sources-of-power-how-people-make-decisions
 - Storytelling as Decision Knowledge
----gary-klein.md"]
 related: [recognition-primed-decision-model, naturalistic-decision-making, decision-making-frameworks]
 ---
 # Storytelling as Decision Knowledge

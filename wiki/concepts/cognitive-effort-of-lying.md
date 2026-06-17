@@ -10,7 +10,6 @@ tags:
 sources:
 - the-honest-truth-about-dishonesty
 - Cognitive Effort of Lying
----dan-ariely.md"]
 related: [dual-process-theory, dishonesty-experiments, self-image-and-morality]
 ---
 # Cognitive Effort of Lying

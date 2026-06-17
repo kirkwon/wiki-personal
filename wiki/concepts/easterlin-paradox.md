@@ -11,7 +11,6 @@ tags:
 sources:
 - the-winners-curse
 - Easterlin Paradox
----richard-thaler.md", "The Winner's Curse - Richard Thaler.md"]
 related: [hedonic-adaptation, the-economics-of-happiness, personal-finance, the-winner-s-curse-richard-thaler, decision-quality-vs-outcome-quality, mental-accounting]
 ---
 # Easterlin Paradox

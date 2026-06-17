@@ -11,7 +11,6 @@ tags:
 sources:
 - first-things-first
 - First Things First Principle
----stephen-r-covey.md", "First Things First - Stephen R. Covey.md"]
 related: ["time-management-matrix", "quadrant-2-focus", "personal-values-in-time-management", "strategic-vs-reactive-thinking", "decision-making-frameworks", "balancing-ambition-with-well-being", "effective-listening"]
 ---
 

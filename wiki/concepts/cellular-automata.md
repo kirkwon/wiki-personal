@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Cellular Automata
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, agent-based-modeling, systems-dynamics-models, emergence]
 ---
 # Cellular Automata

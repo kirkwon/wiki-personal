@@ -11,7 +11,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Beyond Good and Evil - Friedrich Nietzsche
----friedrich-nietzsche.md"]
 ---
 # Beyond Good and Evil - Friedrich Nietzsche
 

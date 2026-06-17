@@ -6,7 +6,6 @@ updated: 2026-05-09
 sources:
 - mans-search-for-meaning
 - Logotherapy
----viktor-frankl.md", "Mans Search for Meaning - Viktor Frankl.md"]
 tags: ["psychology", "philosophy", "meaning", "therapy", "existential-analysis"]
 related: ["will-to-meaning", "sources-of-meaning-frankl", "tragic-optimism", "will---mark-manson", "viktor-frankl", "meaning-finding-framework", "responsibility-awareness"]
 ---

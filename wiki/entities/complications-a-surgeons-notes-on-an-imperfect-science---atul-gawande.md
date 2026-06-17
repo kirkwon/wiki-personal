@@ -5,9 +5,7 @@ title: "Complications: A Surgeon's Notes on an Imperfect Science"
 created: 2026-04-29
 updated: 2026-04-29
 tags: ['book', 'gawande', 'surgery', 'medicine', 'mental-models', 'books', 'mental-model']
-related: ["atul-gawande", "being-mortal", "the-checklist-manifesto
-
----atul-gawande", "patients", "surgeons-mental-model"]
+related: ["atul-gawande", "being-mortal", "the-checklist-manifesto-atul-gawande", "patients", "surgeons-mental-model"]
 sources: ["Patients.md", "Surgeons.md"]
 confidence: medium
 ---

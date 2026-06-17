@@ -11,7 +11,6 @@ tags:
 sources:
 - super-thinking
 - Empathy
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: ["mental-models", "reciprocity", "social-proof", "authority-bias", "super-thinking-gabriel-weinberg", "in-group-out-group-bias"]
 ---
 # Empathy

@@ -10,7 +10,6 @@ tags:
 sources:
 - make-it-stick
 - Make It Stick - Peter C. Brown et al.
----peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md"]
 related: [retrieval-practice, spaced-repetition, elaborative-interrogation, f Feynman-technique-learning, active-revision-techniques, thinking-fast-and-slow---daniel-kahneman, how-to-take-smart-notes---snke-ahrens]
 ---
 # Make It Stick - Peter C. Brown et al.

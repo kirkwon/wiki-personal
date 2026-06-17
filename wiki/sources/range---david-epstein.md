@@ -14,7 +14,6 @@ tags:
 sources:
 - range
 - Range - David Epstein
----david-epstein.md", "Knowledge.md", "Fields.md"]
 ---
 # Range - David Epstein
 

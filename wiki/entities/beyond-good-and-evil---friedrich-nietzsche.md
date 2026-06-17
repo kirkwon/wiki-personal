@@ -10,7 +10,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Beyond Good and Evil - Friedrich Nietzsche
----friedrich-nietzsche.md"]
 related: [master-vs-slave-morality, will-to-power, ressentiment, genealogical-analysis-of-morality, free-spirit-nietzsche, revaluation-of-all-values, death-of-god-nietzsche, ubermensch]
 ---
 # Beyond Good and Evil - Friedrich Nietzsche

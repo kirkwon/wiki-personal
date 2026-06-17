@@ -12,7 +12,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Seneca
----seneca.md", "on-the-shortness-of-life---seneca.md", "Letters from a Stoic - Seneca.md"]
 related: [stoicism, letters-from-a-stoic---seneca, memento-mori, simple-living-stoic-perspective, on-the-shortness-of-life---seneca, balancing-ambition-with-well-being, letters-from-a-stoic-seneca, philosophical-journaling]
 ---
 # Seneca

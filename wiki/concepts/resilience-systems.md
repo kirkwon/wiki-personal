@@ -9,7 +9,6 @@ tags:
 sources:
 - thinking-in-systems
 - Resilience (Systems)
----donella-h-meadows.md"]
 related: [complex-adaptive-systems, carrying-capacity, feedback-loops, thinking-in-systems---donella-h-meadows]
 ---
 # Resilience (Systems)

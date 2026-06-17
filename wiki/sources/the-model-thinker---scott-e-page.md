@@ -11,7 +11,6 @@ tags:
 sources:
 - the-model-thinker
 - The Model Thinker - Scott E. Page
----scott-e-page.md"]
 ---
 # The Model Thinker - Scott E. Page
 

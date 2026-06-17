@@ -10,7 +10,6 @@ sources:
 - Game.md
 - skin-in-the-game
 - Game (mental model)
----nassim-nicholas-taleb", "the-infinite-game---simon-sinek"]
 related: [skin-in-the-game, infinite-game-mindset, problem-mental-model, reality-mental-model, solutions-mental-model, planning, opportunities]
 ---
 # Game (mental model)

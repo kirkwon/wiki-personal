@@ -11,7 +11,6 @@ tags:
 sources:
 - slow-productivity
 - Slow Productivity - Cal Newport
----cal-newport.md", "Society.md"]
 ---
 # Slow Productivity - Cal Newport
 

@@ -14,7 +14,6 @@ tags:
 sources:
 - raw/books/thinking-fast-and-slow
 - Daniel Kahneman
----daniel-kahneman.md", "thinking-fast-and-slow---daniel-kahneman.md", "Thinking", "Fast and Slow - Daniel Kahneman.md", "Processes.md"]
 confidence: high
 related: ["amos-tversky", "prospect-theory", "dual-process-theory", "cognitive-biases-library", "heuristics-and-biases", "system-1-vs-system-2-thinking", "thinking-fast-and-slow---daniel-kahneman", "noise-a-flaw-in-human-judgment---daniel-kahneman"]
 ---

@@ -12,7 +12,6 @@ tags:
 sources:
 - the-power-of-habit
 - Keystone Habits
----charles-duhigg.md", "The Power of Habit - Charles Duhigg.md"]
 related: ["habit-loop", "golden-rule-of-habit-change", "craving-brain", "building-a-cohesive-team", "infinite-game-mindset", "habit-stacking", "habit-change-golden-rule", "grit-concept"]
 ---
 # Keystone Habits

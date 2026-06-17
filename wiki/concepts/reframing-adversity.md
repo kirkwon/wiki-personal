@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - Reframing Adversity
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, stoicism-as-a-framework, embracing-failure-for-personal-growth, growth-mindset, science-of-joy]
 ---
 # Reframing Adversity

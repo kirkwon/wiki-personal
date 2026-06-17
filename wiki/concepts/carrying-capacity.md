@@ -9,7 +9,6 @@ tags:
 sources:
 - thinking-in-systems
 - Carrying Capacity
----donella-h-meadows.md"]
 related: [resilience-systems, the-limits-to-growth, feedback-loops, thinking-in-systems---donella-h-meadows]
 ---
 # Carrying Capacity

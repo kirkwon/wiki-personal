@@ -15,7 +15,6 @@ tags:
 sources:
 - the-four
 - Scott Galloway
----scott-galloway.md", "the-algebra-of-happiness---scott-galloway.md", "Post Corona_ From Crisis to Opportunity - Scott Galloway.md", "Society.md"]
 related: ["the-four", "platform-dominance", "strategic-vs-reactive-thinking", "the-four---scott-galloway", "the-algebra-of-happiness---scott-galloway", "amazon-apple-rivalry", "remote-work", "nationalism-vs-globalization", "urban-resilience", "adrift - Scott Galloway", "satisfaction-under-constraints"]
 ---
 # Scott Galloway

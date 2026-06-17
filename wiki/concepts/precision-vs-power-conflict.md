@@ -10,7 +10,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - Precision vs. Power Conflict
----shane-parrish.md"]
 related: [systematic-decision-making, naturalistic-decision-making, recognition-primed-decision-model, decision-quality-vs-outcome-quality]
 ---
 # Precision vs. Power Conflict

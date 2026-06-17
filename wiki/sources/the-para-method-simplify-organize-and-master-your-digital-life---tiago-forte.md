@@ -14,7 +14,6 @@ tags:
 sources:
 - the-para-method-simplify-organize-and-master-your-digital-life
 - 'The PARA Method: Simplify, Organize, and Master Your Digital Life'
----tiago-forte.md"]
 ---
 # The PARA Method: Simplify, Organize, and Master Your Digital Life
 

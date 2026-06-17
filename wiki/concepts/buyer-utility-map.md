@@ -11,7 +11,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Buyer Utility Map
----w-chan-kim-renee-mauborgne.md", "Blue Ocean Strategy - W Chan Kim  Renee Mauborgne.md"]
 related: ["blue-ocean-strategy", "strategic-sequence", "six-paths-framework", "value-innovation-analysis", "strategic-sequence-testing"]
 ---
 # Buyer Utility Map

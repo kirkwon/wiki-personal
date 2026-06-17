@@ -6,8 +6,7 @@ created: 2026-04-29
 updated: 2026-05-12
 tags: ['mental-model', 'general', 'mental-models', 'taleb', 'epistemology']
 sources: ["History.md", "The Black Swan - Nassim Nicholas Taleb.md"]
-related: ["the-black-swan
----nassim-nicholas-taleb", "tendency", "swan-mental-model", "reality-mental-model", "black-swan-events", "events", "swans", "understanding", "finance", "life", "world", "effort"]
+related: ["the-black-swan nassim-nicholas-taleb", "tendency", "swan-mental-model", "reality-mental-model", "black-swan-events", "events", "swans", "understanding", "finance", "life", "world", "effort"]
 confidence: 0.7
 ---
 # History

@@ -10,7 +10,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Tipping Point Leadership
----w-chan-kim-renee-mauborgne.md"]
 related: [blue-ocean-strategy, fair-process-leadership, strategic-sequence, decision-making-frameworks]
 ---
 # Tipping Point Leadership

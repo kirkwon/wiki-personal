@@ -10,7 +10,6 @@ tags:
 sources:
 - clear-thinking-turning-ordinary-moments-into-extraordinary-results
 - Navigating Information Overload
----shane-parrish.md"]
 related: [clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish, categorizing-information, personal-knowledge-vault, decision-paralysis]
 ---
 # Navigating Information Overload

@@ -10,7 +10,6 @@ tags:
 sources:
 - sources-of-power-how-people-make-decisions
 - Mental Simulation in Decision-Making
----gary-klein.md"]
 related: [recognition-primed-decision-model, working-backwards-in-problem-solving, naturalistic-decision-making]
 ---
 # Mental Simulation in Decision-Making

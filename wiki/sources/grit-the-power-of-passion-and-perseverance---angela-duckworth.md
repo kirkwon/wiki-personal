@@ -11,4 +11,4 @@ tags:
 sources:
 - grit-the-power-of-passion-and-perseverance
 - 'Grit: The Power of Passion and Perseverance - Angela Duckworth'
-----angela-duckworth.md"]
+---

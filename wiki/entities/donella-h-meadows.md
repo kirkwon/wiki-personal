@@ -12,7 +12,6 @@ tags:
 sources:
 - thinking-in-systems
 - Donella H. Meadows
----donella-h-meadows.md", "Limits to Growth_ The 30-Year Update - Donella H Meadows.md"]
 related: [thinking-in-systems---donella-h-meadows, systems-thinking, leverage-points, feedback-loops, limits-to-growth, world3-model, planetary-boundaries, sustainability-frameworks]
 ---
 # Donella H. Meadows

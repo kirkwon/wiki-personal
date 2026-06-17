@@ -17,7 +17,6 @@ tags:
 sources:
 - six-thinking-hats
 - Six Thinking Hats
----edward-de-bono.md", "lateral-thinking-creativity-step-by-step---edward-de-bono.md", "Six Thinking Hats - Edward de Bono.md"]
 related: ["decision-making-frameworks", "decisions-in-teams", "group-decision-polarization", "systematic-decision-making", "building-a-cohesive-team", "white-hat-facts-and-data", "red-hat-emotions-and-intuition", "black-hat-cautionary-perspective", "yellow-hat-positive-viewpoints", "green-hat-new-ideas", "blue-hat-process-control", "lateral-thinking", "edward-de-bono", "structured-group-thinking", "perspectives-in-decision-making"]
 ---
 # Six Thinking Hats

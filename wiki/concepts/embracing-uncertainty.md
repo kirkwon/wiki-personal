@@ -12,7 +12,6 @@ tags:
 sources:
 - clear-thinking-turning-ordinary-moments-into-extraordinary-results
 - Embracing Uncertainty
----shane-parrish.md", "Making It All Work - David Allen.md"]
 related: ["clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish", "decision-making-under-uncertainty", "overconfidence-and-certainty", "bayesian-thinking", "antifragility", "life", "purpose"]
 ---
 # Embracing Uncertainty

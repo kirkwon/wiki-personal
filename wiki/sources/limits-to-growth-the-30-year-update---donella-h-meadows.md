@@ -2,11 +2,12 @@
 
 type: source
 title: "Source: limits-to-growth-the-30-year-update"
----donella-h-meadows.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources: ["limits-to-growth-the-30-year-update---donella-h-meadows.md"]
+
 tags: []
+
 related: []
 ---
 

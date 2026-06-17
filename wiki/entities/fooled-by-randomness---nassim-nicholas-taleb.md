@@ -14,7 +14,6 @@ tags:
 sources:
 - fooled
 - Fooled by Randomness - Nassim Nicholas Taleb
----randomness-by-nassim-nicholas-taleb.md", "Data.md", "Randomness.md"]
 related: [nassim-nicholas-taleb, skin-in-the-game---nassim-nicholas-taleb, black-swan-events, antifragility, thinking-fast-and-slow---daniel-kahneman, thinking-in-bets---annie-duke, the-black-swan---nassim-nicholas-taleb, biases, data-mental-model, prospect-theory]
 ---
 # Fooled by Randomness - Nassim Nicholas Taleb

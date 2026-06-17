@@ -11,7 +11,6 @@ tags:
 sources:
 - first-things-first
 - Crisis Management
----stephen-r-covey.md", "First Things First - Stephen R. Covey.md"]
 related: [time-management-matrix, quadrant-2-focus, systematic-decision-making, first-things-first-principle]
 ---
 # Crisis Management

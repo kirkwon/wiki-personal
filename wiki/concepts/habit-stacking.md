@@ -13,7 +13,6 @@ tags:
 sources:
 - smarter-faster-better
 - Habit Stacking
----charles-duhigg.md", "atomic-habits---james-clear.md", "The Power of Habit - Charles Duhigg.md"]
 related: ["habit-loops", "fizzgogg-behavior-model", "internal-triggers", "decision-making-under-uncertainty", "atomic-habits---james-clear", "habit-loop-individual", "communication-skills", "habit-loop", "keystone-habits", "implementation-intentions", "hook-model", "external-triggers"]
 ---
 # Habit Stacking

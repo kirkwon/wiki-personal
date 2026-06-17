@@ -11,7 +11,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Money and Social Status Influence
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, the-game-of-success, personal-branding-and-wellbeing]
 ---
 # Money and Social Status Influence

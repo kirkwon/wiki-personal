@@ -9,7 +9,6 @@ tags:
 sources:
 - thinking-in-systems
 - Nonlinearity and Emergent Properties
----donella-h-meadows.md"]
 related: [feedback-loops, complex-adaptive-systems, system-dynamics, thinking-in-systems---donella-h-meadows]
 ---
 # Nonlinearity and Emergent Properties

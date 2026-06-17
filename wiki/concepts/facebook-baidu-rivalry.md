@@ -10,7 +10,6 @@ tags:
 sources:
 - the-four
 - Facebook vs Baidu Rivalry
----scott-galloway.md"]
 related: [the-four, platform-dominance]
 ---
 # Facebook vs Baidu Rivalry

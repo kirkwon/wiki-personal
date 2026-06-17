@@ -1,11 +1,12 @@
 ---
 type: source
 title: 'Source: adrift'
----scott-galloway.md
 created: 2026-05-09
 updated: 2026-05-10
 sources: ["adrift---scott-galloway.md", "Society.md"]
+
 tags: [economics, society, mental-model, books]
+
 related: []
 ---
 

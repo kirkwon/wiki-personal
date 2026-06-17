@@ -12,7 +12,6 @@ tags:
 sources:
 - mindset
 - Growth Mindset in Organizations
----carol-s-dweck.md", "Mindset - Carol S Dweck.md"]
 related: [growth-mindset, building-a-decision-culture, decision-making-frameworks, the-five-dysfunctions-of-a-team, building-a-cohesive-team]
 ---
 

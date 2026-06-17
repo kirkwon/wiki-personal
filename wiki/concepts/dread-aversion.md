@@ -11,7 +11,6 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Dread Aversion
----daniel-kahneman.md", "Thinking", "Fast and Slow - Daniel Kahneman.md"]
 related: ["loss-aversion", "prospect-theory", "decision-making-under-uncertainty", "dual-process-theory", "overconfidence-and-certainty", "system-1-vs-system-2-thinking"]
 ---
 # Dread Aversion

@@ -11,5 +11,5 @@ tags:
 sources:
 - the-4-hour-chef
 - The 4-Hour Chef
-----timothy-ferriss.md"]
 related: [timothy-ferriss, mise-en-place, batch-cooking, intuitive-cooking, flavor-profiling, meal-prep-blueprint, flavor-theory, cooking-techniques]
+---

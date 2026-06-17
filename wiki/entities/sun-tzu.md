@@ -13,7 +13,6 @@ tags:
 sources:
 - the-art-of-war
 - Sun Tzu
----sun-tzu.md", "The Art of War - Sun Tzu.md"]
 related: ["the-art-of-war-sun-tzu", "strategic-vs-reactive-thinking", "decision-making-frameworks", "the-art-of-war---sun-tzu", "strategic-assessment-frameworks", "intelligence-gathering", "infinite-game-mindset"]
 ---
 # Sun Tzu

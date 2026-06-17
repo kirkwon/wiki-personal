@@ -10,7 +10,6 @@ tags:
 sources:
 - the-7-habits-of-highly-effective-people
 - Sharpen the Saw
----stephen-r-covey.md"]
 related: [quadrant-2-focus, balancing-ambition-with-well-being, personal-branding-and-wellbeing]
 ---
 # Sharpen the Saw

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Difference Equation Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, differential-equation-models, systems-dynamics-models]
 ---
 # Difference Equation Models

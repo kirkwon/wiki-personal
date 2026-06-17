@@ -11,7 +11,6 @@ tags:
 sources:
 - the-honest-truth-about-dishonesty
 - Situational Ethics
----dan-ariely.md", "The (Honest) Truth About Dishonesty - Dan Ariely.md"]
 related: [group-decision-polarization, the-five-dysfunctions-of-a-team, halo-effect, situational-ethics, the-honest-truth-about-dishonesty---dan-ariely, incremental-dishonesty-fudge-factor, ethical-design-manipulation-question, building-a-decision-culture, radical-transparency, cognitive-biases-library]
 ---
 # Situational Ethics

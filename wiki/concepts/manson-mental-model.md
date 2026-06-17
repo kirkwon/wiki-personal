@@ -12,5 +12,6 @@ sources:
 - Manson.md
 - will
 - Manson (Mental Model)
-----mark-manson", "the-subtle-art-of-not-giving-a-fuck---mark-manson"]
+---
+
 related: [will---mark-manson, the-subtle-art-of-not-giving-a-fuck---mark-manson, embracing-failure-for-personal-growth, personal-branding-and-wellbeing, purpose-and-meaning]

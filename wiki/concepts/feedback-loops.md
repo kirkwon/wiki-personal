@@ -3,7 +3,9 @@ type: concept
 title: Feedback Loops
 created: 2026-05-03
 updated: 2026-06-12
-tags: ["mental-models", "cognitive-science", "psychology", "systems-thinking", "decision-making"]sources: ["research-add-cross-references-to-conceptsalgorithm-2026-06-12-070336.md", "super-thinking", "Feedback Loops ---gabriel-weinberg.md", "thinking-in-systems---donella-h-meadows.md", "Thinking in Systems - Donella H. Meadows.md"]related:
+tags: ["mental-models", "cognitive-science", "psychology", "systems-thinking", "decision-making"]
+sources: ["research-add-cross-references-to-conceptsalgorithm-2026-06-12-070336.md", "super-thinking", "Feedback Loops ---gabriel-weinberg.md", "thinking-in-systems---donella-h-meadows.md", "Thinking in Systems - Donella H. Meadows.md"]
+related:
   - mental-models
   - systems-are-dynamic
   - law-of-unintended-consequences
@@ -20,7 +22,6 @@ tags: ["mental-models", "cognitive-science", "psychology", "systems-thinking", "
   - cognitive-mental-models
   - personal-knowledge-management
   - information-literacy
-related: ["cognitive-mental-models", "personal-knowledge-management", "information-literacy"]
 ---
 # Feedback Loops
 Feedback loops are mechanisms within systems where the output of a process feeds back as input, amplifying or stabilizing behavior. They are fundamental drivers of system behavior across all domains—ecological, economic, social, and personal. Understanding which feedback loops are operating in a given situation is essential for diagnosing why systems behave the way they do and for effective intervention. Meadows emphasizes these dynamics in Chapter 12 and covers them in Part IV of *Super Thinking*. Additionally, feedback loops are cycles of cause-and-effect that help people learn, adapt, and refine their mental models, making them essential for dynamic decision-making and problem-solving.

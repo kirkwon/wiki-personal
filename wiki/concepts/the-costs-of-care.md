@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - The Costs of Care
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, quality-vs-quantity-of-life, cure-centric-vs-comfort-oriented-care]
 ---
 # The Costs of Care

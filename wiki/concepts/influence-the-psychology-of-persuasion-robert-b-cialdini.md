@@ -13,7 +13,6 @@ tags:
 sources:
 - influence-the-psychology-of-persuasion
 - 'Influence: The Psychology of Persuasion'
----robert-b-cialdini.md", "Behavior.md"]
 related: ["robert-b-cialdini", "reciprocity-principle", "commitment-and-consistency-principle", "social-proof-principle", "authority-principle", "liking-principle", "scarcity-principle", "cognitive-biases-library", "decision-making-frameworks", "ethical-design-manipulation-question", "thinking-fast-and-slow---daniel-kahneman", "communication-skills", "supercommunicators-charles-duhigg", "hook-model"]
 ---
 # Influence: The Psychology of Persuasion

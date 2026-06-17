@@ -13,7 +13,6 @@ tags:
 sources:
 - the-most-human-human
 - Tom Griffiths
----brian-christian-tom-griffiths.md", "algorithms-to-live-by---brian-christian-tom-griffiths.md", "Intelligence.md"]
 related: ["brian-christian", "the-most-human-human", "algorithms-to-live-by---brian-christian-tom-griffiths", "decision-making-frameworks"]
 ---
 # Tom Griffiths

@@ -12,7 +12,6 @@ tags:
 sources:
 - digital-minimalism
 - Digital Minimalism
----cal-newport.md", "Distractions.md"]
 related: [purposeful-use-principle, the-toll-of-distraction, minimalist-mindset, hooked---nir-eyal, thinking-fast-and-slow---daniel-kahneman, deep-work - Cal Newport, distractions, attention-budget, hyperfocus---chris-bailey, scatterfocus]
 ---
 # Digital Minimalism

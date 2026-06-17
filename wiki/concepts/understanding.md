@@ -12,7 +12,6 @@ sources:
 - Understanding.md
 - experiment-and-exploration-forms-of-world-disclosure
 - Understanding
----snke-ahrens", "the-black-swan---nassim-nicholas-taleb", "The Black Swan - Nassim Nicholas Taleb.md"]
 confidence: medium
 related: ["experiment-and-exploration-forms-of-world-disclosure---snke-ahrens", "the-black-swan---nassim-nicholas-taleb", "world-disclosure", "mental-models", "black-swan-events", "events", "swans", "history", "finance", "life", "world", "probability-and-judgment-under-uncertainty", "cognitive-biases-library", "antifragility"]
 ---

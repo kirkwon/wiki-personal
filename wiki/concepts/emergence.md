@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Emergence
----scott-e-page.md"]
 related: [agent-based-modeling, cellular-automata, systems-dynamics-models, complexity]
 ---
 # Emergence

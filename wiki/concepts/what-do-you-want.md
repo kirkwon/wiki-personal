@@ -10,7 +10,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - What Do You Want?
----timothy-ferriss.md"]
 related: [lifestyle-design-formula, lifestyle-design-protocol, decision-quality-vs-outcome-quality, the-4-hour-workweek---timothy-ferriss]
 ---
 # What Do You Want?

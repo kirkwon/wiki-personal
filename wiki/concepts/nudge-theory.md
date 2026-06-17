@@ -11,7 +11,6 @@ tags:
 sources:
 - nudge
 - Nudge Theory
----richard-h-thaler-cass-r-sunstein.md", "Choices.md"]
 related: [choice-architecture, ethical-design-manipulation-question, default-effects, decision-making-frameworks, choices, cognitive-biases-library, paradox-of-choice, radical-transparency, skin-in-the-game]
 ---
 # Nudge Theory

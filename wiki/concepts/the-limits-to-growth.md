@@ -9,7 +9,6 @@ tags:
 sources:
 - thinking-in-systems
 - The Limits to Growth
----donella-h-meadows.md"]
 related: [carrying-capacity, resilience-systems, feedback-loops, thinking-in-systems---donella-h-meadows]
 ---
 # The Limits to Growth

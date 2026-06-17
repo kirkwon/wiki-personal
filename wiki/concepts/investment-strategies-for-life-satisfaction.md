@@ -10,7 +10,6 @@ tags:
 sources:
 - the-algebra-of-happiness
 - Investment Strategies for Life Satisfaction
----scott-galloway.md"]
 related: [the-algebra-of-happiness---scott-galloway, personal-finance, real-estate-investment, retirement-planning]
 ---
 # Investment Strategies for Life Satisfaction

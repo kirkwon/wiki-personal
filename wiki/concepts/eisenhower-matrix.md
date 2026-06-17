@@ -11,7 +11,6 @@ tags:
 sources:
 - tools-of-titans
 - Eisenhower Matrix
----timothy-ferriss.md", "decision-making-frameworks.md"]
 related: [time-management-matrix, quadrant-2-focus, tools-of-titans---timothy-ferriss, decision-making-frameworks]
 ---
 # Eisenhower Matrix

@@ -14,7 +14,6 @@ tags:
 sources:
 - skin-in-the-game
 - Black Swan Events
----nassim-nicholas-taleb.md", "antifragile---nassim-nicholas-taleb.md", "the-black-swan---nassim-nicholas-taleb.md", "The Black Swan - Nassim Nicholas Taleb.md"]
 related: ["antifragility", "skin-in-the-game-nassim-nicholas-taleb", "monte-carlo-simulations", "decision-making-under-uncertainty", "prospect-theory", "tail-risk-and-extreme-outcomes", "neglected-dimensions", "role-of-the-improbable", "real-options-analysis", "epistemological-fallacy", "lindy-ness", "cognitive-biases-library", "skin-in-the-game", "market-manias-and-panics", "nassim-nicholas-taleb", "probability-and-judgment-under-uncertainty"]
 ---
 # Black Swan Events

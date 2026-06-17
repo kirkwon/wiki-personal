@@ -13,7 +13,6 @@ tags:
 sources:
 - self-theories-their-role-in-motivation-personality-and-development
 - Fixed Mindset
----carol-s-dweck.md", "mindset---carol-s-dweck.md", "Self-Theories_ Their Role in Motivation Personality and Development - Carol S Dweck.md", "Mindset.md", "Self-Theories_ Their Role in Motivation", "Personality", "and Development - Carol S. Dweck.md"]
 related: ["growth-mindset", "mindset-theory", "mindset-interventions", "embracing-failure-for-personal-growth", "overconfidence-and-certainty", "neuroplasticity", "fixed-vs-growth-mindset", "process-praise-vs-person-praise", "ascription-bias", "mindset-mental-model", "carol-s-dweck", "mindset---carol-s-dweck"]
 ---
 

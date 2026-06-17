@@ -14,7 +14,6 @@ tags:
 sources:
 - fooled-by-randomness
 - Fallacy of Induction
----nassim-nicholas-taleb.md", "fooled---randomness-by-nassim-nicholas-taleb.md", "Fooled by Randomness - Nassim Nicholas Taleb.md"]
 related: [scenario-planning, naturalistic-decision-making, decision-making-under-uncertainty, superforecasting---philip-e-tetlock-dan-gardner, fooled-by-randomness---nassim-nicholas-taleb, fooled-by-randomness-concepts, cognitive-biases-library, prospect-theory, thinking-fast-and-slow---daniel-kahneman]
 ---
 # Fallacy of Induction

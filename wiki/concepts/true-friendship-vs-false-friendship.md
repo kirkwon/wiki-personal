@@ -10,7 +10,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - True Friendship vs. False Friendship
----seneca.md"]
 related: [trust-fundamentals, effective-listening, the-five-dysfunctions-of-a-team, letters-from-a-stoic---seneca]
 ---
 # True Friendship vs. False Friendship

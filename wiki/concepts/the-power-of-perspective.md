@@ -10,7 +10,6 @@ tags:
 sources:
 - clear-thinking-turning-ordinary-moments-into-extraordinary-results
 - The Power of Perspective
----shane-parrish.md"]
 related: [clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish, cognitive-biases-library, ascription-bias, confirmation-bias]
 ---
 # The Power of Perspective

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-art-of-war
 - Energy and Momentum Strategy
----sun-tzu.md"]
 related: [the-art-of-war-sun-tzu, terrain-analysis-strategy, weak-point-exploitation, strategic-vs-reactive-thinking]
 ---
 # Energy and Momentum Strategy

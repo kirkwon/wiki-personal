@@ -12,4 +12,4 @@ tags:
 sources:
 - on-the-shortness-of-life
 - On the Shortness of Life - Seneca
-----seneca.md"]
+---

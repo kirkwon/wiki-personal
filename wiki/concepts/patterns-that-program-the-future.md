@@ -10,7 +10,6 @@ tags:
 sources:
 - the-fifth-discipline
 - Patterns That Program the Future
----peter-m-senge.md", "The Fifth Discipline - Peter M Senge.md"]
 related: ["systems-thinking", "learning-organization", "five-whys", "the-fifth-discipline---peter-m-senge", "learning-organizations", "five-whys-technique", "systematic-decision-making"]
 ---
 # Patterns That Program the Future

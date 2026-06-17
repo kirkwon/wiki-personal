@@ -12,7 +12,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - Ethos, Pathos, Logos (Aristotle's Modes of Persuasion)
----ryan-holiday.md", "The Obstacle Is the Way - Ryan Holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, the-art-of-persuasion-aristotle, communication-skills, the-obstacle-is-the-way, six-thinking-hats, persuasion]
 ---
 # Ethos, Pathos, Logos (Aristotle's Modes of Persuasion)

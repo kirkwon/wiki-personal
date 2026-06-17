@@ -11,7 +11,6 @@ tags:
 sources:
 - the-algebra-of-happiness
 - Balancing Ambition with Well-Being
----scott-galloway.md", "mans-search-for-meaning---viktor-frankl.md"]
 related: [the-algebra-of-happiness---scott-galloway, strategic-vs-reactive-thinking, quadrant-2-focus, will-to-meaning, sources-of-meaning-frankl, personal-branding-and-wellbeing]
 ---
 # Balancing Ambition with Well-Being

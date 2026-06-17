@@ -11,6 +11,7 @@ sources:
 - Accountability.md
 - skin-in-the-game
 - Accountability
-----nassim-nicholas-taleb"]
 related: [skin-in-the-game, skin-in-the-game---nassim-nicholas-taleb, decision-quality-vs-outcome-quality, biases, decision-making-frameworks]
+---
+
 confidence: medium

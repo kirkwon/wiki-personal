@@ -14,7 +14,6 @@ tags:
 sources:
 - nudge
 - Richard H. Thaler
----richard-h-thaler-cass-r-sunstein.md", "Misbehaving - Richard H Thaler.md", "Privacy.md", "Data.md", "Economics.md", "Insights.md", "Behavior.md", "Nudges.md", "Nudge - Richard H. Thaler & Cass R. Sunstein.md"]
 related: ["nudge-theory", "choice-architecture", "cass-r-sunstein", "behavioral-economics", "prospect-theory", "endowment-effect", "mental-accounting", "nudge", "framing-effect", "time-inconsistency", "social-norms-economic-behavior", "thinking-fast-and-slow---daniel-kahneman", "privacy", "biases", "decision-making-under-uncertainty", "misbehaving---richard-h-thaler", "data-mental-model", "economics-mental-model", "misbehaving", "cognitive-biases-library", "nudges-mental-model", "insights-mental-model", "decision-making-frameworks", "misbehaving-richard-h-thaler", "choice-overload", "nudges", "framing-effects", "nudge---richard-h-thaler-cass-r-sunstein", "libertarian-paternalism", "default-effects", "decision-quality-vs-outcome-quality"]
 ---
 

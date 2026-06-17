@@ -9,7 +9,6 @@ tags:
 sources:
 - hooked
 - Fogg Behavior Model
----nir-eyal.md"]
 related: [hook-model, internal-triggers, variable-reward-design]
 ---
 # Fogg Behavior Model

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - The Gym Sucks
----timothy-ferriss.md"]
 related: [hooked---nir-eyal, habit-testing, the-4-hour-workweek---timothy-ferriss]
 ---
 # The Gym Sucks

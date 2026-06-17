@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Role of Emotions in Decision-Making
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, emotion-and-intuition-in-decisions, dual-process-theory]
 ---
 # Role of Emotions in Decision-Making

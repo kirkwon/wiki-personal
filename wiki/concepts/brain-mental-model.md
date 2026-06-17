@@ -11,5 +11,5 @@ sources:
 - Brain.md
 - building-a-second-brain
 - Brain (Mental Model)
-----tiago-forte"]
 related: [thinking-mental-model, overview, planning, solutions-mental-model, personal-knowledge-vault]
+---

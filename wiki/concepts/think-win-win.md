@@ -11,7 +11,6 @@ tags:
 sources:
 - the-7-habits-of-highly-effective-people
 - Think Win-Win
----stephen-r-covey.md"]
 related: [synergize, seek-first-to-understand, skin-in-the-game]
 ---
 # Think Win-Win

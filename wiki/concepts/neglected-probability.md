@@ -11,7 +11,6 @@ tags:
 sources:
 - fooled-by-randomness
 - Neglected Probability
----nassim-nicholas-taleb.md", "Fooled by Randomness - Nassim Nicholas Taleb.md"]
 related: ["probability-and-judgment-under-uncertainty", "overconfidence-and-certainty", "decision-making-under-uncertainty", "fooled-by-randomness---nassim-nicholas-taleb", "prospect-theory", "black-swan-events", "real-options-analysis", "scenario-planning", "small-sample-size-problem", "delusion-of-expertise"]
 ---
 # Neglected Probability

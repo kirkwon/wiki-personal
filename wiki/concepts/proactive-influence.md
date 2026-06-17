@@ -6,7 +6,7 @@ created: 2026-04-18
 updated: 2026-05-09
 tags: [leadership, mental-models, productivity]
 sources: ["The 8th Habit_ From Effectiveness to Greatness - Stephen R. Covey.md", "The 8th Habit_ From Effectiveness to Greatness - Stephen R Covey.md"]
-related: ["building-a-decision-culture", "radical-transparency", "the-8th-habit-from-effectiveness-to-greatness
+related: ["building-a-decision-culture", "radical-transparency", "the-8th-habit-from-effectiveness-to-greatness"]
 
 ---
 # Proactive Influence

@@ -12,7 +12,6 @@ tags:
 sources:
 - super-thinking
 - Thought Experiments
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: ["mental-models", "mental-sandbox", "recognition-primed-decision-model", "super-thinking-gabriel-weinberg", "inversion-thinking", "first-principles-thinking"]
 ---
 # Thought Experiments

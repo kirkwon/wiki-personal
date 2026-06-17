@@ -10,7 +10,6 @@ tags:
 sources:
 - the-honest-truth-about-dishonesty
 - The Economics of Dishonesty
----dan-ariely.md"]
 related: [decision-quality-vs-outcome-quality, prospect-theory, incentives-for-honesty, dishonesty-experiments]
 ---
 # The Economics of Dishonesty

@@ -11,7 +11,6 @@ tags:
 sources:
 - the-winners-curse
 - Behavioral Game Theory
----richard-thaler.md", "The Winner's Curse - Richard Thaler.md"]
 related: ["fairness-and-decision-making", "ultimatum-game", "prisoner-s-dilemma", "prospect-theory", "the-winner-s-curse-richard-thaler", "fairness-and-social-norms", "decision-making-under-uncertainty", "group-decision-polarization"]
 ---
 # Behavioral Game Theory

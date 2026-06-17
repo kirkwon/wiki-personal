@@ -11,7 +11,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Strategy Canvas
----w-chan-kim-renee-mauborgne.md", "Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne.md"]
 related: ["blue-ocean-strategy", "value-innovation", "four-actions-framework-eliminate-reduce-raise-create", "six-paths-framework", "four-actions-framework"]
 ---
 # Strategy Canvas

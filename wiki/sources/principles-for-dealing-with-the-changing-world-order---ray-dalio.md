@@ -11,7 +11,6 @@ tags:
 sources:
 - principles-for-dealing-with-the-changing-world-order
 - Principles for Dealing with the Changing World Order - Ray Dalio
----ray-dalio.md"]
 ---
 # Principles for Dealing with the Changing World Order - Ray Dalio
 

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-7-habits-of-highly-effective-people
 - Be Proactive
----stephen-r-covey.md"]
 related: [begin-with-the-end-in-mind, put-first-things-first, time-management-matrix]
 ---
 # Be Proactive

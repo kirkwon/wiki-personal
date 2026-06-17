@@ -10,7 +10,6 @@ tags:
 sources:
 - the-honest-truth-about-dishonesty
 - Dishonesty Experiments
----dan-ariely.md"]
 related: [dan-ariely, self-image-and-morality, the-economics-of-dishonesty, cognitive-biases-library]
 ---
 # Dishonesty Experiments

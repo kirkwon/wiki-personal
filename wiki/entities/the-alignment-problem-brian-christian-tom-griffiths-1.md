@@ -12,7 +12,6 @@ tags:
 sources:
 - the-alignment-problem
 - The Alignment Problem - Brian Christian & Tom Griffiths
----brian-christian-tom-griffiths.md"]
 ---
 # The Alignment Problem - Brian Christian & Tom Griffiths
 

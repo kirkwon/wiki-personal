@@ -13,7 +13,6 @@ sources:
 - Alignment.md
 - the-alignment-problem
 - Alignment
----brian-christian-tom-griffiths", "The Alignment Problem - Brian Christian  Tom Griffiths.md"]
 related: [ai-safety-methods, intractable-computation, genie-problem, consistency-in-ai, social-value-alignment, decision-making-frameworks, mental-models, superforecasting, solutions-mental-model]
 ---
 # Alignment

@@ -1,6 +1,6 @@
 ---
 type: source
-title: Badanie: Dodawanie odniesień krzyżowych do pojęć AI
+title: "Badanie: Dodawanie odniesień krzyżowych do pojęć AI"
 created: 2026-06-12
 updated: 2026-06-12
 tags: [badanie]

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-lean-startup
 - Validated Learning
----eric-ries.md"]
 related: [the-lean-startup---eric-ries, build-measure-learn, minimum-viable-product-mvp, innovation-accounting, pivot-or-persevere, thinking-in-bets---annie-duke, superforecasting-methodology]
 ---
 # Validated Learning

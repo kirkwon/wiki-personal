@@ -11,7 +11,6 @@ tags:
 sources:
 - slow-productivity
 - Slow Productivity
----cal-newport.md", "Slow Productivity - Cal Newport.md"]
 related: ["the-paradox-of-busyness", "deep-focus", "crafting-a-slow-workflow", "purposeful-work-habits", "the-power-of-saying-no", "distraction's-toll", "technology's-role-in-slow-productivity", "embracing-solitude-for-creativity", "social-dimension-of-slow-productivity", "slow-productivity---cal-newport", "strategic-batching", "saying-no-boundaries", "solitude-and-creativity", "time-management-matrix", "quadrant-2-focus"]
 ---
 # Slow Productivity

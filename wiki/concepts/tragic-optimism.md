@@ -13,7 +13,6 @@ tags:
 sources:
 - mans-search-for-meaning
 - Tragic Optimism
----viktor-frankl.md", "Mans Search for Meaning - Viktor Frankl.md"]
 related: ["tragic-triad", "sources-of-meaning-frankl", "logotherapy", "viktor-frankl", "meaning-finding-framework", "defiant-attitude-toward-suffering", "growth-mindset", "viktior-frankl", "embracing-failure-for-personal-growth"]
 ---
 # Tragic Optimism

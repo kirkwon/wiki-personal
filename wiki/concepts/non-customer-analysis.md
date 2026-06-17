@@ -12,7 +12,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Non-Customer Analysis
----w-chan-kim-renee-mauborgne.md", "Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne.md"]
 related: [blue-ocean-strategy, six-paths-framework, strategic-sequence, value-innovation, opportunities, strategic-vs-reactive-thinking]
 ---
 # Non-Customer Analysis

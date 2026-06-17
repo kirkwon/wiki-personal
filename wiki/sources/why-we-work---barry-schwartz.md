@@ -1,11 +1,12 @@
 ---
 type: source
 title: 'Source: why-we-work'
----barry-schwartz.md
 created: 2026-05-09
 updated: 2026-05-10
 sources: ["why-we-work---barry-schwartz.md", "Stress.md"]
+
 tags: [books, psychology, work]
+
 related: []
 ---
 

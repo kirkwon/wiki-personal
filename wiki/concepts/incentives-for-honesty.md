@@ -10,7 +10,6 @@ tags:
 sources:
 - the-honest-truth-about-dishonesty
 - Incentives for Honesty
----dan-ariely.md"]
 related: [building-a-decision-culture, radical-transparency, skin-in-the-game, incentives-for-honesty]
 ---
 # Incentives for Honesty

@@ -11,7 +11,6 @@ tags:
 sources:
 - the-fifth-discipline
 - Co-Evolutionary Relationships
----peter-m-senge.md", "The Fifth Discipline - Peter M Senge.md"]
 related: [learning-organization, the-fifth-discipline---peter-m-senge, visionary-leadership, learning-organizations, building-a-cohesive-team, systems-thinking]
 ---
 # Co-Evolutionary Relationships

@@ -13,7 +13,6 @@ tags:
 sources:
 - ego-is-the-enemy
 - Ryan Holiday
----ryan-holiday.md", "the-daily-stoic---ryan-holiday.md", "stillness-is-the-key---ryan-holiday.md", "the-obstacle-is-the-way---ryan-holiday.md", "The Obstacle Is the Way - Ryan Holiday.md", "Stillness.md", "Stoicism.md"]
 related: ["ego-is-the-enemy", "ego-as-barrier-to-learning", "egotistical-leader", "ego-in-relationships", "ego-in-social-media", "the-daily-stoic---ryan-holiday", "stoicism", "marcus-aurelius", "epictetus", "seneca", "overconfidence-and-certainty", "ascription-bias", "skin-in-the-game", "embracing-failure-for-personal-growth", "radical-transparency", "decision-quality-vs-outcome-quality", "self-observation-and-journaling", "perspective-reframing", "embracing-change-and-uncertainty", "reasoning-over-emotion", "inner-peace-through-gratitude", "stoic-relationships", "stillness-is-the-key---ryan-holiday", "stillness-concept", "stoic-philosophy", "mindfulness-meditation", "thinking-fast-and-slow---daniel-kahneman", "decision-making-frameworks", "the-obstacle-is-the-way-ryan-holiday", "stoicism-as-a-framework", "reframing-adversity", "the-obstacle-is-the-way", "growth-mindset", "stillness", "stoicism-mental-model", "the-daily-stoic-ryan-holiday", "emotion-and-intuition-in-decisions"]
 ---
 # Ryan Holiday

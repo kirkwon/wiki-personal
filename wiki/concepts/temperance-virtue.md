@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - Temperance (Virtue)
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, stoicism-as-a-framework, balancing-ambition-with-well-being]
 ---
 # Temperance (Virtue)

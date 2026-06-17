@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - The Paradox of Change
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, quality-vs-quantity-of-life, cure-centric-vs-comfort-oriented-care, overconfidence-and-certainty]
 ---
 # The Paradox of Change

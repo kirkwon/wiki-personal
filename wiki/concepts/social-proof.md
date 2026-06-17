@@ -11,7 +11,6 @@ tags:
 sources:
 - super-thinking
 - Social Proof
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: ["cognitive-biases-library", "authority-bias", "reciprocity", "mental-models", "super-thinking-gabriel-weinberg", "in-group-out-group-bias"]
 ---
 # Social Proof

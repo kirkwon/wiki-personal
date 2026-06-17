@@ -12,7 +12,6 @@ tags:
 sources:
 - superforecasting
 - Superforecasting
----philip-e-tetlock-dan-gardner.md", "Superforecasting - Philip E Tetlock  Dan Gardner.md"]
 related: ["superforecasting-methodology", "good-judgment-project", "bayesian-thinking", "decision-making-under-uncertainty", "superforecasting---philip-e-tetlock-dan-gardner", "probability-and-judgment-under-uncertainty", "confirmation-bias", "systematic-decision-making", "naturalistic-decision-making", "thinking-in-bets---annie-duke", "thinking-fast-and-slow---daniel-kahneman"]
 ---
 # Superforecasting

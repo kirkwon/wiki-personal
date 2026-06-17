@@ -15,7 +15,6 @@ tags:
 sources:
 - first-things-first
 - Stephen R. Covey
----stephen-r-covey.md", "the-7-habits-of-highly-effective-people---stephen-r-covey.md", "The 8th Habit_ From Effectiveness to Greatness - Stephen R Covey.md", "Idea.md", "Habits.md", "Habit.md"]
 related: [first-things-first-principle, time-management-matrix, quadrant-2-focus, decision-making-frameworks, be-proactive, begin-with-the-end-in-mind, think-win-win, seek-first-to-understand, synergize, sharpen-the-saw, strategic-vs-reactive-thinking, decision-quality-vs-outcome-quality, effective-listening, building-a-cohesive-team, communication-skills, first-things-first---stephen-r-covey, the-index-card-rules, the-8th-habit---stephen-r-covey, the-7-habits-of-highly-effective-people-stephen-r-covey, ideas-mental-model, habits, the-7-habits-of-highly-effective-people, the-8th-habit, the-8th-habit-from-effectiveness-to-greatness---stephen-r-covey, habit, infinite-game-mindset]
 ---
 # Stephen R. Covey

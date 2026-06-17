@@ -11,7 +11,6 @@ tags:
 sources:
 - stillness-is-the-key
 - Distraction Dilemma
----ryan-holiday.md"]
 related: [stillness-concept, external-triggers, fizzgogg-behavior-model, strategic-vs-reactive-thinking]
 ---
 # Distraction Dilemma

@@ -11,7 +11,6 @@ tags:
 sources:
 - zero-to-one
 - Zero-to-One Thinking
----peter-thiel-blake-masters.md", "Thiel.md"]
 related: [zero-to-one---peter-thiel-blake-masters, first-mover-advantage, incremental-change-as-a-trap, differentiation-strategy, disruption-and-innovation, thiel-mental-model, peter-thiel, monopoly-vs-competition, contrarianism, innovation]
 ---
 # Zero-to-One Thinking

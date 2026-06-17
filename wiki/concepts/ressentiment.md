@@ -10,7 +10,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Ressentiment
----friedrich-nietzsche.md"]
 related: [master-vs-slave-morality, genealogical-analysis-of-morality, will-to-power, death-of-god-nietzsche]
 ---
 # Ressentiment

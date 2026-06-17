@@ -10,7 +10,6 @@ tags:
 sources:
 - the-lean-startup
 - Pivot or Persevere
----eric-ries.md"]
 related: [the-lean-startup---eric-ries, build-measure-learn, validated-learning, innovation-accounting, decision-making-under-uncertainty, thinking-in-bets---annie-duke]
 ---
 # Pivot or Persevere

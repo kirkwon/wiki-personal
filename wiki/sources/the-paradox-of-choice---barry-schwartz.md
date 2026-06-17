@@ -12,7 +12,6 @@ tags:
 sources:
 - the-paradox-of-choice
 - The Paradox of Choice - Barry Schwartz
----barry-schwartz.md", "Society.md"]
 ---
 # The Paradox of Choice - Barry Schwartz
 

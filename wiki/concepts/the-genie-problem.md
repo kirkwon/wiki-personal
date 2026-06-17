@@ -11,7 +11,6 @@ tags:
 sources:
 - the-alignment-problem
 - The Genie Problem
----brian-christian-tom-griffiths.md"]
 related: [the-alignment-problem---brian-christian-tom-griffiths, reinforcement-learning-alignment, intractable-computation]
 ---
 # The Genie Problem

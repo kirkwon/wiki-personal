@@ -11,7 +11,6 @@ tags:
 sources:
 - hooked
 - Hooked - Nir Eyal
----nir-eyal.md"]
 ---
 # Hooked - Nir Eyal
 

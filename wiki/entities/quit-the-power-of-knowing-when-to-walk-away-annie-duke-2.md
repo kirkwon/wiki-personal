@@ -9,7 +9,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - 'Quit: The Power of Knowing When to Walk Away'
----annie-duke.md"]
 related: [annie-duke, thinking-in-bets---annie-duke, how-to-decide---annie-duke, the-art-of-quitting, strategic-quitting]
 ---
 # Quit: The Power of Knowing When to Walk Away

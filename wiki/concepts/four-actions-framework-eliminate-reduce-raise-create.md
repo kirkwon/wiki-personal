@@ -10,7 +10,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Four Actions Framework (ERRC Grid)
----w-chan-kim-renee-mauborgne.md"]
 related: [blue-ocean-strategy, strategy-canvas, value-innovation, errc-grid]
 ---
 # Four Actions Framework (ERRC Grid)

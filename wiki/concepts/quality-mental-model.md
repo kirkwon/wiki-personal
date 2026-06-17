@@ -6,8 +6,7 @@ created: 2026-04-29
 updated: 2026-04-29
 tags: [mental-model, decision-making]
 sources: ["Quality.md", "Being Mortal - Atul Gawande"]
-related: [being-mortal, the-checklist-manifesto
----atul-gawande, checklists, decision-quality-vs-outcome-quality, skin-in-the-game, personal-knowledge-vault]
+related: [being-mortal, the-checklist-manifesto atul-gawande, checklists, decision-quality-vs-outcome-quality, skin-in-the-game, personal-knowledge-vault]
 confidence: medium
 ---
 # Quality as a Mental Model

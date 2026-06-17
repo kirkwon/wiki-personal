@@ -12,7 +12,6 @@ tags:
 sources:
 - first-things-first
 - Communication Skills
----stephen-r-covey.md", "Supercommunicators - Charles Duhigg.md"]
 related: [effective-listening, first-things-first-principle, decision-making-frameworks, storytelling-in-communication, social-motivation-system, science-of-persuasion, building-a-cohesive-team, habit-testing, mirroring-neurons, ethics-of-communication]
 ---
 # Communication Skills

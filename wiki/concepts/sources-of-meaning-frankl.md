@@ -10,7 +10,6 @@ tags:
 sources:
 - mans-search-for-meaning
 - Sources of Meaning (Frankl)
----viktor-frankl.md"]
 related: [logotherapy, will-to-meaning, tragic-optimism, science-of-joy]
 ---
 # Sources of Meaning (Frankl)

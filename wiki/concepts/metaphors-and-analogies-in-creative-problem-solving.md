@@ -10,7 +10,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step
 - Metaphors and Analogies in Creative Problem-Solving
----step-by-edward-de-bono.md"]
 related: [analogical-reasoning-in-problem-solving, generalization-in-problem-solving, lateral-thinking---edward-de-bono]
 ---
 # Metaphors and Analogies in Creative Problem-Solving

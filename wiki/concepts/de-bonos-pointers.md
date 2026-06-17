@@ -10,7 +10,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step
 - De Bono's Pointers
----step-by-edward-de-bono.md"]
 related: [six-thinking-hats, lateral-thinking---edward-de-bono, decision-making-frameworks]
 ---
 # De Bono's Pointers

@@ -12,7 +12,6 @@ tags:
 sources:
 - the-para-method-simplify-organize-and-master-your-digital-life
 - The PARA Method
----tiago-forte.md", "The PARA Method_ Simplify", "Organize", "and Master Your Digital Life - Tiago Forte.md"]
 related: [personal-knowledge-vault, categorizing-information, active-revision-techniques, how-to-take-smart-notes---snke-ahrens, systematic-decision-making, getting-things-done---david-allen, framework-template, habit-testing]
 ---
 

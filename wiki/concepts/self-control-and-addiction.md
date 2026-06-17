@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - Self-Control and Addiction
----richard-thaler.md"]
 related: [hyperbolic-discounting, commitment-devices, decision-making-under-uncertainty]
 ---
 # Self-Control and Addiction

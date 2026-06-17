@@ -10,7 +10,6 @@ tags:
 sources:
 - hyperfocus
 - Peak Attention Hours
----chris-bailey.md"]
 related: [hyperfocus---chris-bailey, attention-budget, time-management-matrix, hyperfocus-and-scatterfocus]
 ---
 # Peak Attention Hours

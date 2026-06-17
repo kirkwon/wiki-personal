@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Overconfidence in Decision-Making
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, overconfidence-and-certainty, decision-quality-vs-outcome-quality]
 ---
 # Overconfidence in Decision-Making

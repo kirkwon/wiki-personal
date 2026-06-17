@@ -6,7 +6,6 @@ updated: 2026-05-10
 sources:
 - the-signal-and-the-noise
 - The Signal and the Noise - Nate Silver
----nate-silver.md", "Uncertainty.md", "Predictions.md"]
 tags: [books, prediction, statistics]
 related: []
 ---

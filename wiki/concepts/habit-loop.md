@@ -18,7 +18,6 @@ tags:
 sources:
 - supercommunicators
 - Habit Loop
----charles-duhigg.md", "the-power-of-habit---charles-duhigg.md", "The 4-Hour Body - Timothy Ferriss.md", "The Power of Habit - Charles Duhigg.md"]
 related: [the-power-of-habit-concept, charles-duhigg, supercommunicators-charles-duhigg-book-summary, golden-rule-of-habit-change, craving-brain, keystone-habits, hook-model, external-triggers, internal-triggers, habit-testing, fizzgogg-behavior-model, the-4-hour-body, habit-stacking, implementation-intentions, variable-reward-design, habit-change-golden-rule]
 ---
 

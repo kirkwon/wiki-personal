@@ -6,8 +6,7 @@ created: 2026-04-29
 updated: 2026-05-10
 tags: [books, mental-model, decision-making, learning]
 sources: ["Specialization.md", "Experiences.md", "Specialists.md"]
-related: [david-epstein, specialization-and-generalization, generalization-in-problem-solving, experiences, decision-making-frameworks, the-sports-gene
----david-epstein]
+related: [david-epstein, specialization-and-generalization, generalization-in-problem-solving, experiences, decision-making-frameworks, the-sports-gene david-epstein]
 confidence: medium
 ---
 # Range - David Epstein

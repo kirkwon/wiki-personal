@@ -10,7 +10,6 @@ tags:
 sources:
 - getting-things-done
 - Getting Things Done - David Allen
----david-allen.md"]
 ---
 # Getting Things Done - David Allen
 

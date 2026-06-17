@@ -10,7 +10,6 @@ tags:
 sources:
 - the-lean-startup
 - Minimum Viable Product (MVP)
----eric-ries.md"]
 related: [the-lean-startup---eric-ries, build-measure-learn, validated-learning, innovation-accounting]
 ---
 # Minimum Viable Product (MVP)

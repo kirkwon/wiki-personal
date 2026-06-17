@@ -10,7 +10,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step
 - Challenging Words / Language Influence
----step-by-edward-de-bono.md"]
 related: [framing-effects-in-decision-making, lateral-thinking---edward-de-bono, six-thinking-hats]
 ---
 # Challenging Words / Language Influence

@@ -11,7 +11,6 @@ tags:
 sources:
 - the-7-habits-of-highly-effective-people
 - Synergize
----stephen-r-covey.md"]
 related: [think-win-win, seek-first-to-understand, building-a-cohesive-team]
 ---
 # Synergize

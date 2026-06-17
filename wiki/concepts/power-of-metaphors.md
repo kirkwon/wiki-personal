@@ -10,7 +10,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - Power of Metaphors
----shane-parrish.md"]
 related: [analogy-in-problem-solving, working-backwards-in-problem-solving, generalization-in-problem-solving, problem-solving]
 ---
 # Power of Metaphors

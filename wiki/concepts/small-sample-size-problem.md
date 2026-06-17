@@ -11,7 +11,6 @@ tags:
 sources:
 - fooled-by-randomness
 - Small Sample Size Problem
----nassim-nicholas-taleb.md", "fooled---randomness-by-nassim-nicholas-taleb.md", "Fooled by Randomness - Nassim Nicholas Taleb.md"]
 related: ["probability-and-judgment-under-uncertainty", "overconfidence-and-certainty", "cognitive-biases-library", "fooled-by-randomness---nassim-nicholas-taleb", "fooled-by-randomness-concepts", "decision-making-under-uncertainty", "black-swan-events", "thinking-fast-and-slow---daniel-kahneman"]
 ---
 # Small Sample Size Problem

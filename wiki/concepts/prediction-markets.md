@@ -12,7 +12,6 @@ tags:
 sources:
 - the-wisdom-of-crowds
 - Prediction Markets
----james-surowiecki.md", "superforecasting---philip-e-tetlock-dan-gardner.md", "Superforecasting - Philip E Tetlock  Dan Gardner.md"]
 related: [crowd-aggregation-methods, wisdom-of-crowds, decision-making-under-uncertainty, expected-value-ev, superforecasting-methodology, good-judgment-project, group-decision-polarization, superforecasting, superforecasting---philip-e-tetlock-dan-gardner, probability-and-judgment-under-uncertainty]
 ---
 # Prediction Markets

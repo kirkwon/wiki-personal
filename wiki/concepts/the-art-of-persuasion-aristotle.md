@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - The Art of Persuasion (Aristotle)
----ryan-holiday.md"]
 related: [ethos-pathos-logos, the-obstacle-is-the-way-ryan-holiday, communication-skills]
 ---
 # The Art of Persuasion (Aristotle)

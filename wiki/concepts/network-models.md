@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Network Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, agent-based-modeling, small-world-networks, scale-free-networks]
 ---
 # Network Models

@@ -13,7 +13,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - The 4-Hour Workweek - Timothy Ferriss
----timothy-ferriss.md", "Readers.md"]
 related: ["timothy-ferriss", "readers"]
 ---
 # The 4-Hour Workweek - Timothy Ferriss

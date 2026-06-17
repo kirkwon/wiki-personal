@@ -12,7 +12,6 @@ tags:
 sources:
 - super-thinking
 - Lateral Thinking
----gabriel-weinberg.md", "lateral-thinking-creativity-step-by-step---edward-de-bono.md", "Edward.md", "Barriers.md"]
 related: ["mental-models", "inversion", "creativity", "mental-sandbox", "problem-solving", "six-thinking-hats", "lateral-movements-in-thinking", "breaking-barriers-to-thinking", "creative-log", "edward-de-bono", "thinking-mental-model", "ideas-mental-model", "inventors-paradox", "six-thinking-hats---edward-de-bono", "barriers"]
 ---
 

@@ -7,7 +7,7 @@ created: 2026-04-29
 updated: 2026-04-29
 tags: [decision-making, mental-model]
 sources: ["Scenarios.md"]
-related: [thinking-in-bets
+related: [thinking-in-bets]
 
 ---
 # Quit: The Power of Knowing When to Walk Away

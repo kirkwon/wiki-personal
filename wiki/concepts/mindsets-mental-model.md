@@ -12,6 +12,8 @@ sources:
 - Mindsets.md
 - mindset
 - Mindsets (mental model)
-----carol-s-dweck", "growth-mindset"]
+---
+
 related: [growth-mindset, mindset---carol-s-dweck, grit-concept, mental-models]
+
 confidence: medium

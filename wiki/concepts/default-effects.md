@@ -11,7 +11,6 @@ tags:
 sources:
 - nudge
 - Default Effects
----richard-h-thaler-cass-r-sunstein.md", "Nudge.md", "Nudge - Richard H. Thaler & Cass R. Sunstein.md"]
 related: ["choice-architecture", "nudge-theory", "decision-making-frameworks", "cognitive-biases-library", "nudge", "status-quo-bias", "framing-effects", "nudge---richard-h-thaler-cass-r-sunstein", "habits"]
 ---
 # Default Effects

@@ -13,7 +13,6 @@ tags:
 sources:
 - super-thinking
 - Deliberate Practice
----gabriel-weinberg.md", "so-good-they-cant-ignore-you---cal-newport.md", "Super Thinking - Gabriel Weinberg.md", "Career.md", "so-good-they-cant-ignore-you---cal-newport"]
 related: ["mental-models", "spaced-repetition", "feynman-technique", "personal-knowledge-vault-readme", "active-revision-techniques", "skill-capital", "craft-capital-vs-career-capital", "feedback-loops-in-skill-development", "teaching-problem-solving", "super-thinking-gabriel-weinberg", "growth-mindset", "career-capital", "career-mental-model", "cal-newport", "hyperfocus", "deep-work - Cal Newport"]
 ---
 # Deliberate Practice

@@ -12,7 +12,6 @@ tags:
 sources:
 - super-thinking
 - Super Thinking - Gabriel Weinberg
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: [mental-models, gabriel-weinberg, bayesian-thinking, cognitive-biases-library, decision-making-frameworks, mental-model-library, first-order-and-second-order-thinking, game-theory-and-strategic-analysis, growth-mindset, inversion-thinking, first-principles-thinking, thinking-in-bets---annie-duke]
 ---
 # Super Thinking - Gabriel Weinberg

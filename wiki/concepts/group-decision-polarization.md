@@ -12,7 +12,6 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Group Decision Polarization
----daniel-kahneman.md", "Thinking", "Fast and Slow - Daniel Kahneman.md"]
 related: ["decisions-in-teams", "cognitive-biases-library", "conformity", "framing-effects-in-decision-making", "group-decision-polarization", "decision-making-under-uncertainty", "ascription-bias", "overconfidence-and-certainty", "five-dysfunctions-of-a-team", "recognition-primed-decision-model", "two-views-of-decision-kahneman-vs-klein", "naturalistic-decision-making"]
 ---
 # Group Decision Polarization

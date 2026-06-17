@@ -11,7 +11,6 @@ tags:
 sources:
 - being-mortal
 - The Good Death
----atul-gawande.md"]
 related: [being-mortal-atul-gawande, autonomy-in-end-of-life-decisions, rituals-and-mortality, quality-vs-quantity-of-life]
 ---
 # The Good Death

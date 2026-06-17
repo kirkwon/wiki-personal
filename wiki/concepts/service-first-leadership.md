@@ -10,7 +10,6 @@ tags:
 sources:
 - leaders-eat-last
 - Service-First Leadership
----simon-sinek.md"]
 related: [leaders-eat-last-key-concepts, building-a-cohesive-team, radical-transparency, trust-fundamentals]
 ---
 # Service-First Leadership

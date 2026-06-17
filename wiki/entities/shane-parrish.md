@@ -15,7 +15,6 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - Shane Parrish
----shane-parrish.md", "clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish.md", "Processes.md", "Innovation.md", "Techniques.md", "Clarity.md", "The Great Mental Models Vol 1 - Shane Parrish.md"]
 related: [the-great-mental-models-shane-parrish, decision-making-frameworks, cognitive-biases-library, clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish, the-art-of-asking-questions, managing-emotions-for-clarity, clear-thinking---shane-parrish, mental-models, systematic-decision-making, the-great-mental-models-vol-1-shane-parrish, innovation-mental-model, techniques, clear-thinking, clarity-mental-model, the-great-mental-models---shane-parrish, thinking-mental-model]
 ---
 # Shane Parrish

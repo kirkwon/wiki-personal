@@ -13,7 +13,6 @@ tags:
 sources:
 - will
 - Will - Mark Manson
----mark-manson.md", "mans-search-for-meaning---viktor-frankl.md"]
 related: [paradox-of-choice, fear-of-missing-out-fomo, illusion-of-control, science-of-forgiveness, importance-of-community, embracing-failure-for-personal-growth, balancing-ambition-with-well-being, will-to-meaning, logotherapy, tragic-optimism, science-of-joy]
 ---
 # Will - Mark Manson

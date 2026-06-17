@@ -12,4 +12,4 @@ tags:
 sources:
 - how-to-take-smart-notes
 - How to Take Smart Notes - Sönke Ahrens
-----snke-ahrens.md"]
+---

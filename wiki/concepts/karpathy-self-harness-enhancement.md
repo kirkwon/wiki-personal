@@ -1,11 +1,11 @@
 ---
- type: concept
- title: Karpathy‑Enhanced Self‑Harness
- created: 2026-06-11
- updated: 2026-06-11
- tags: [concept, self-harness, karpathy, methodology, causal-discovery]
- sources: []
- ---
+type: concept
+title: Karpathy‑Enhanced Self‑Harness
+created: 2026-06-11
+updated: 2026-06-11
+tags: [concept, self-harness, karpathy, methodology, causal-discovery]
+sources: []
+---
 
 # Karpathy‑Enhanced Self‑Harness
 

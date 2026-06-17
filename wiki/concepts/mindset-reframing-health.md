@@ -11,7 +11,6 @@ tags:
 sources:
 - the-4-hour-body
 - Mindset Reframing for Health
----timothy-ferriss.md"]
 related: [the-4-hour-body---timothy-ferriss, habit-loop-health, thinking-fast-and-slow---daniel-kahneman]
 ---
 # Mindset Reframing for Health
@@ -26,4 +25,5 @@ Mindset reframing is the practice of changing one's perspective and self-talk to
 
 ## Connection to Cognitive Science
 
-Ferriss's emphasis on reframing relates to [[thinking-fast-and-slow---daniel-kahneman]]'s work on cognitive biases and dual-process theory — awareness of automatic thought patterns is the first step toward changing them. It also parallels the wiki's [[decision-quality-vs-outcome-quality]] framework: the quality of one's internal narrative (decision process) matters even when outcomes fluctuate.
+Ferriss's emphasis on reframing relates to [[thinking-fast-and-slow---daniel-kahneman]]'s work on cognitive biases and dual-process theory — awareness of automatic thought patterns is the first step toward changing them. It also parallels the wiki's [[decision-quality-vs-outcome-quality]] 
+framework: the quality of one's internal narrative (decision process) matters even when outcomes fluctuate.

@@ -10,7 +10,6 @@ tags:
 sources:
 - leaders-eat-last
 - Administering Care
----simon-sinek.md"]
 related: [service-first-leadership, belonging-in-leadership]
 ---
 # Administering Care

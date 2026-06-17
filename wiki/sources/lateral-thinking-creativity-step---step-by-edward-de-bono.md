@@ -11,7 +11,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step
 - 'Lateral Thinking: Creativity Step by Step by Edward de Bono'
----step-by-edward-de-bono.md"]
 ---
 # Lateral Thinking: Creativity Step by Step by Edward de Bono
 

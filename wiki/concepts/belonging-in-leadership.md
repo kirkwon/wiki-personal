@@ -10,7 +10,6 @@ tags:
 sources:
 - leaders-eat-last
 - Belonging in Leadership
----simon-sinek.md", "Leaders Eat Last - Simon Sinek.md"]
 related: ["leaders-eat-last-key-concepts", "trust-fundamentals", "communication-skills", "the-five-dysfunctions-of-a-team---patrick-lencioni", "leaders-eat-last---simon-sinek", "building-a-cohesive-team", "triple-bottom-line", "the-parable-of-the-boats", "culture-as-product-of-choices", "social-structure-in-organizations"]
 ---
 

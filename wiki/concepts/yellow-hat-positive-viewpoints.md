@@ -13,7 +13,6 @@ tags:
 sources:
 - six-thinking-hats
 - Yellow Hat - Positive Viewpoints
----edward-de-bono.md", "Six Thinking Hats - Edward de Bono.md"]
 related: [six-thinking-hats, decision-making-frameworks, group-decision-polarization, black-hat-cautionary-perspective]
 ---
 # Yellow Hat - Positive Viewpoints

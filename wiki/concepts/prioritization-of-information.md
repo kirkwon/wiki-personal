@@ -9,7 +9,6 @@ tags:
 sources:
 - the-para-method-simplify-organize-and-master-your-digital-life
 - Prioritization of Information and Action
----tiago-forte.md"]
 related: [quadrant-2-focus, categorizing-information, decision-making-frameworks, the-para-method]
 ---
 # Prioritization of Information and Action

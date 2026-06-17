@@ -10,7 +10,6 @@ tags:
 sources:
 - hooked
 - Ethical Design and the Manipulation Question
----nir-eyal.md"]
 related: [hook-model, decision-quality-vs-outcome-quality, ethical-design-manipulation-question]
 ---
 # Ethical Design and the Manipulation Question

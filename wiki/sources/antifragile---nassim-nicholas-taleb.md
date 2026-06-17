@@ -11,7 +11,6 @@ tags:
 sources:
 - antifragile
 - Antifragile - Nassim Nicholas Taleb
----nassim-nicholas-taleb.md", "Uncertainty.md"]
 ---
 
 # Antifragile - Nassim Nicholas Taleb

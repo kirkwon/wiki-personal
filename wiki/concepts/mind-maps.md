@@ -10,7 +10,6 @@ tags:
 sources:
 - building-a-second-brain
 - Mind Maps
----tiago-forte.md"]
 related: [second-brain, decomposing-and-recombining, problem-solving]
 ---
 # Mind Maps

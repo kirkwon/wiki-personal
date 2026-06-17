@@ -11,7 +11,6 @@ tags:
 sources:
 - the-alignment-problem
 - Reinforcement Learning Alignment
----brian-christian-tom-griffiths.md"]
 related: [the-alignment-problem---brian-christian-tom-griffiths, reward-hacking, the-genie-problem, decision-making-frameworks]
 ---
 # Reinforcement Learning Alignment

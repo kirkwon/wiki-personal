@@ -11,7 +11,6 @@ tags:
 sources:
 - raw/books/sources-of-power-how-people-make-decisions
 - Recognition-Primed Decision Model
----gary-klein.md", "sources-of-power-how-people-make-decisions---gary-klein.md"]
 confidence: high
 related: [naturalistic-decision-making, mental-simulation-in-decision-making, two-views-of-decision-kahneman-vs-klein]
 ---

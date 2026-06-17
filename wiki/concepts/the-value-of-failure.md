@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - The Value of Failure
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, embracing-failure-for-personal-growth, grit-concept, growth-mindset]
 ---
 # The Value of Failure

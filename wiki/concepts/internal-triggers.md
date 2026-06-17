@@ -13,7 +13,6 @@ tags:
 sources:
 - hooked
 - Internal Triggers
----nir-eyal.md", "Internal trigger mapping.md", "hooked---nir-eyal"]
 related: [hook-model, external-triggers, variable-reward-design, cognitive-biases-library, fizzgogg-behavior-model, internal-trigger-mapping, decision-quality-vs-outcome-quality, dread-aversion]
 ---
 # Internal Triggers

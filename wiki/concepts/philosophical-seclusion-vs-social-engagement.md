@@ -10,7 +10,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Philosophical Seclusion vs. Social Engagement
----seneca.md"]
 related: [stoicism, letters-from-a-stoic---seneca, the-five-dysfunctions-of-a-team, personal-branding-and-wellbeing]
 ---
 # Philosophical Seclusion vs. Social Engagement

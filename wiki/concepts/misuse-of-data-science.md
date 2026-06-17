@@ -13,7 +13,6 @@ tags:
 sources:
 - fooled-by-randomness
 - Misuse of Data Science
----nassim-nicholas-taleb.md", "fooled---randomness-by-nassim-nicholas-taleb.md", "Fooled by Randomness - Nassim Nicholas Taleb.md"]
 related: [decision-making-frameworks, cognitive-science-decisions, signal-to-noise-ratio-fallacy, fooled-by-randomness---nassim-nicholas-taleb, monte-carlo-simulations, fooled-by-randomness-concepts, cognitive-biases-library, fallacy-of-induction, illusion-of-pattern-in-randomness, illusion-of-understanding, limits-of-computation, ai-decision-making, superforecasting, decision-making-under-uncertainty, thinking-fast-and-slow---daniel-kahneman]
 ---
 # Misuse of Data Science

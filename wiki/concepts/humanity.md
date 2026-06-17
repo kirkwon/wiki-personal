@@ -13,7 +13,6 @@ sources:
 - Humans.md
 - thinking-fast-and-slow
 - Humanity
----daniel-kahneman"]
 related: [thinking-mental-model, care, stillness, grit-concept, overview, the-most-human-human, biases, brain-mental-model, ideas-mental-model, dual-process-theory]
 ---
 # Humanity

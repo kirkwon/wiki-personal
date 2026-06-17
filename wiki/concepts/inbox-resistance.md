@@ -10,7 +10,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - Inbox Resistance
----timothy-ferriss.md"]
 related: [outsourcing-your-life, the-4-hour-workweek---timothy-ferriss, systematic-decision-making]
 ---
 # Inbox Resistance

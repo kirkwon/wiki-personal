@@ -11,7 +11,6 @@ tags:
 sources:
 - fooled-by-randomness
 - Illusion of Pattern in Randomness
----nassim-nicholas-taleb.md", "fooled---randomness-by-nassim-nicholas-taleb.md", "Fooled by Randomness - Nassim Nicholas Taleb.md"]
 related: ["confirmation-bias", "cognitive-biases-library", "prospect-theory", "thinking-fast-and-slow---daniel-kahneman", "fooled-by-randomness---nassim-nicholas-taleb", "overconfidence-and-certainty", "fooled-by-randomness-concepts", "small-sample-size-problem", "fallacy-of-induction", "black-swan-events", "hindsight-bias", "illusion-of-control"]
 ---
 # Illusion of Pattern in Randomness

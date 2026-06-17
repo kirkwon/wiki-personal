@@ -11,7 +11,6 @@ tags:
 sources:
 - nudge
 - Cass R. Sunstein
----richard-h-thaler-cass-r-sunstein.md", "Economics.md", "Insights.md", "Nudges.md", "Nudge - Richard H. Thaler & Cass R. Sunstein.md"]
 related: ["richard-h-thaler", "nudge-theory", "choice-architecture", "nudge", "economics-mental-model", "framing-effects", "ethical-design-manipulation-question", "nudges-mental-model", "insights-mental-model", "decision-making-frameworks", "nudges", "nudge---richard-h-thaler-cass-r-sunstein", "libertarian-paternalism"]
 ---
 # Cass R. Sunstein

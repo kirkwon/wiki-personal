@@ -10,7 +10,6 @@ tags:
 sources:
 - superforecasting
 - Philip E. Tetlock
----philip-e-tetlock-dan-gardner.md"]
 related: [superforecasting---philip-e-tetlock-dan-gardner, good-judgment-project, superforecasting-methodology]
 ---
 # Philip E. Tetlock

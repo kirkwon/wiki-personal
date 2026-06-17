@@ -12,7 +12,6 @@ tags:
 sources:
 - super-thinking
 - Gabriel Weinberg
----gabriel-weinberg.md", "Super Thinking - Gabriel Weinberg.md"]
 related: [super-thinking-gabriel-weinberg, mental-models, bayesian-thinking, cognitive-biases-library, mental-model-library]
 ---
 # Gabriel Weinberg

@@ -12,7 +12,6 @@ tags:
 sources:
 - six-thinking-hats
 - White Hat - Facts and Data
----edward-de-bono.md", "Six Thinking Hats - Edward de Bono.md"]
 related: [six-thinking-hats, systematic-decision-making, bayesian-thinking, blue-hat-process-control, decision-making-frameworks]
 ---
 # White Hat - Facts and Data

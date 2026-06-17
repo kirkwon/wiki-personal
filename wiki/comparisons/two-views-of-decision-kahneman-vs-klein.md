@@ -12,7 +12,6 @@ tags:
 sources:
 - raw/books/thinking-fast-and-slow
 - 'Two Views of Decision: Kahneman vs Klein'
----daniel-kahneman.md", "raw/books/sources-of-power-how-people-make-decisions---gary-klein.md", "sources-of-power-how-people-make-decisions---gary-klein.md", "thinking-fast-and-slow---daniel-kahneman.md"]
 related: [recognition-primed-decision-model, naturalistic-decision-making, thinking-fast-and-slow---daniel-kahneman]
 ---
 # Two Views of Decision: Kahneman vs Klein

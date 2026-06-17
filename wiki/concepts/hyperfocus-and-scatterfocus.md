@@ -10,7 +10,6 @@ tags:
 sources:
 - hyperfocus
 - Hyperfocus and Scatterfocus
----chris-bailey.md"]
 related: [hyperfocus---chris-bailey, scatterfocus, hyperfocus, attention-residue, single-tasking-vs-multitasking, peak-attention-hours]
 ---
 # Hyperfocus and Scatterfocus

@@ -11,7 +11,6 @@ tags:
 sources:
 - the-4-hour-body
 - Body-Fat Paradox
----timothy-ferriss.md", "The 4-Hour Body - Timothy Ferriss.md"]
 related: ["the-4-hour-body---timothy-ferriss", "intermittent-fasting", "hiit-high-intensity-interval-training", "metabolic-flexibility", "hormone-balance-for-fat-loss", "the-4-hour-body"]
 ---
 # Body-Fat Paradox

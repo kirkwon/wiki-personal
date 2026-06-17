@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Contextual Cues in Decision-Making
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, irrational-decision-making, seeing-the-unseen, strategic-vs-reactive-thinking]
 ---
 # Contextual Cues in Decision-Making

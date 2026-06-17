@@ -11,7 +11,6 @@ tags:
 sources:
 - stillness-is-the-key
 - Stillness
----ryan-holiday.md"]
 related: [stillness-is-the-key---ryan-holiday, ryan-holiday, stoic-philosophy, mindfulness-meditation, decision-quality-vs-outcome-quality, external-triggers, internal-triggers, strategic-vs-reactive-thinking]
 ---
 # Stillness

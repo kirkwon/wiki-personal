@@ -10,7 +10,6 @@ tags:
 sources:
 - lateral-thinking-creativity-step
 - Creative Log Habit
----step-by-edward-de-bono.md"]
 related: [lateral-thinking---edward-de-bono, categorizing-information, active-revision-techniques]
 ---
 # Creative Log Habit

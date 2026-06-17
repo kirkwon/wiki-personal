@@ -11,7 +11,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Quitting as Self-Care
----annie-duke.md"]
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, balancing-ambition-with-well-being, decision-paralysis]
 ---
 # Quitting as Self-Care

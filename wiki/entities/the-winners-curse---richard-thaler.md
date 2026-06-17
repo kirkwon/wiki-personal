@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - The Winner's Curse - Richard Thaler
----richard-thaler.md"]
 related: [winner's-curse, mental-accounting, framing-effects, overconfidence-and-certainty, hyperbolic-discounting, nudging-libertarian-paternalism, disposition-effect, hedonic-adaptation, fairness-and-decision-making]
 ---
 # The Winner's Curse - Richard Thaler

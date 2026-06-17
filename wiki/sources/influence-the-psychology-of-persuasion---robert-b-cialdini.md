@@ -13,4 +13,4 @@ tags:
 sources:
 - influence-the-psychology-of-persuasion
 - 'Influence: The Psychology of Persuasion - Robert B. Cialdini'
-----robert-b-cialdini.md"]
+---

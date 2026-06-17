@@ -12,7 +12,6 @@ tags:
 sources:
 - skin-in-the-game
 - Skin in the Game
----nassim-nicholas-taleb.md", "Antifragility.md", "skin-in-the-game---nassim-nicholas-taleb"]
 related: [antifragility, black-swan-events, decision-quality-vs-outcome-quality, radical-transparency, decision-making-under-uncertainty, accountability, decision-making-frameworks]
 ---
 # Skin in the Game

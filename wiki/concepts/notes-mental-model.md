@@ -11,5 +11,5 @@ sources:
 - Notes.md
 - how-to-take-smart-notes
 - Notes
-----snke-ahrens"]
 related: [sönke-ahrens, how-to-take-smart-notes---snke-ahrens, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, thinking-mental-model, analysis]
+---

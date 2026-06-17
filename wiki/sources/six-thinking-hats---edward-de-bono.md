@@ -11,4 +11,4 @@ tags:
 sources:
 - six-thinking-hats
 - Six Thinking Hats - Edward de Bono
-----edward-de-bono.md"]
+---

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Chaos Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, catastrophe-models, sensitivity-to-initial-conditions, decision-making-under-uncertainty]
 ---
 # Chaos Models

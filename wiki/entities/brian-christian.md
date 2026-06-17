@@ -13,7 +13,6 @@ tags:
 sources:
 - the-most-human-human
 - Brian Christian
----brian-christian-tom-griffiths.md", "algorithms-to-live-by---brian-christian-tom-griffiths.md", "Intelligence.md"]
 related: [tom-griffiths, the-most-human-human, algorithms-to-live-by---brian-christian-tom-griffiths, decision-making-frameworks, intelligence-as-a-mental-model]
 ---
 # Brian Christian

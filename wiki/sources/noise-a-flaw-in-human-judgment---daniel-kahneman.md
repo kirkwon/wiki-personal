@@ -2,11 +2,12 @@
 
 type: source
 title: "Source: noise-a-flaw-in-human-judgment"
----daniel-kahneman.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources: ["noise-a-flaw-in-human-judgment---daniel-kahneman.md"]
+
 tags: []
+
 related: []
 ---
 

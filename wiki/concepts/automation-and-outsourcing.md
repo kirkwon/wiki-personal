@@ -9,7 +9,6 @@ tags:
 sources:
 - the-para-method-simplify-organize-and-master-your-digital-life
 - Automation and Outsourcing
----tiago-forte.md"]
 related: [the-para-method]
 ---
 # Automation and Outsourcing

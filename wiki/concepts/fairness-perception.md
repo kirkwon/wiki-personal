@@ -10,7 +10,6 @@ tags:
 sources:
 - the-upside-of-irrationality
 - Fairness Perception
----dan-ariely.md"]
 related: [the-upside-of-irrationality---dan-ariely, morality-and-decision-making, irrational-decision-making]
 ---
 # Fairness Perception

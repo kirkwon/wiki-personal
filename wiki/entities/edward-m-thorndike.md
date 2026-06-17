@@ -11,5 +11,5 @@ tags:
 sources:
 - the-most-human-human
 - Edward M. Thorndike
-----brian-christian-tom-griffiths.md"]
 related: [the-puzzle-box, cognitive-science-decisions]
+---

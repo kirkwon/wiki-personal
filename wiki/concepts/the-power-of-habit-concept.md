@@ -18,7 +18,6 @@ related:
 sources:
 - supercommunicators
 - charles-duhigg
----charles-duhigg.md"]
 ---
 # The Power of Habit (Concept)
 

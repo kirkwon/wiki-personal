@@ -13,7 +13,6 @@ tags:
 sources:
 - skin-in-the-game
 - Skin in the Game - Nassim Nicholas Taleb
----nassim-nicholas-taleb.md", "fooled-by-randomness---nassim-nicholas-taleb.md"]
 ---
 # Skin in the Game - Nassim Nicholas Taleb
 

@@ -11,7 +11,6 @@ tags:
 sources:
 - the-four
 - The Four - Scott Galloway
----scott-galloway.md"]
 ---
 # The Four - Scott Galloway
 

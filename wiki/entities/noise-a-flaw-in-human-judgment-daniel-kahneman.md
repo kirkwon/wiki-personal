@@ -7,7 +7,7 @@ created: 2026-04-29
 updated: 2026-04-29
 tags: [books, cognitive-science, decision-making]
 sources: ["Variability.md"]
-related: [variability, noise-judgment-variability, thinking-fast-and-slow
+related: [variability, noise-judgment-variability, thinking-fast-and-slow]
 
 ---
 # Noise: A Flaw in Human Judgment

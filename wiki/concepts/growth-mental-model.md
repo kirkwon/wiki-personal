@@ -6,8 +6,7 @@ created: 2026-04-29
 updated: 2026-05-12
 tags: [mental-model, general, decision-making, self-improvement, philosophy, mark-manson]
 sources: ["Growth.md", "Everything Is F_cked_ A Book About Hope - Mark Manson.md"]
-related: [grit-concept, growth-mindset, antifragility, limits-to-growth, the-infinite-game
----simon-sinek, the-obstacle-is-the-way---ryan-holiday, will---mark-manson, mindset---carol-s-dweck, effort, perseverance, embracing-failure-for-personal-growth]
+related: [grit-concept, growth-mindset, antifragility, limits-to-growth, the-infinite-game simon-sinek, the-obstacle-is-the-way---ryan-holiday, will---mark-manson, mindset---carol-s-dweck, effort, perseverance, embracing-failure-for-personal-growth]
 confidence: 0.7
 ---
 # Growth (Mental Model)

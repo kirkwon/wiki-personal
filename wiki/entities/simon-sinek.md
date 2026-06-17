@@ -15,7 +15,6 @@ tags:
 sources:
 - find-your-why
 - Simon Sinek
----simon-sinek.md", "leaders-eat-last---simon-sinek.md", "the-infinite-game---simon-sinek.md", "Leaders Eat Last - Simon Sinek.md", "Employees.md", "Message.md", "Sinek.md", "Find Your Why - Simon Sinek.md"]
 related: ["the-golden-circle", "find-your-why-simon-sinek", "personal-branding-and-wellbeing", "the-five-dysfunctions-of-a-team---patrick-lencioni", "leaders-eat-last-key-concepts", "service-first-leadership", "the-infinite-game---simon-sinek", "infinite-game-mindset", "zero-sum-vs-infinite-game", "strategic-vs-reactive-thinking", "working-backwards-in-problem-solving", "building-a-cohesive-team", "leaders-eat-last---simon-sinek", "triple-bottom-line", "belonging-in-leadership", "service-over-profit-leadership", "shared-purpose-leadership", "simon-sinek", "the-infinite-game", "leaders-eat-last-simon-sinek", "management", "care", "trust-fundamentals", "find-your-why---simon-sinek", "message", "communication-skills", "sinek-mental-model", "find-your-why", "purpose", "golden-circle", "leadership"]
 ---
 # Simon Sinek

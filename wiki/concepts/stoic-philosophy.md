@@ -11,7 +11,6 @@ tags:
 sources:
 - stillness-is-the-key
 - Stoic Philosophy
----ryan-holiday.md"]
 related: [ryan-holiday, stillness-concept, stillness-is-the-key---ryan-holiday, decision-making-frameworks, strategic-vs-reactive-thinking]
 ---
 # Stoic Philosophy

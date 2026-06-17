@@ -11,7 +11,6 @@ tags:
 sources:
 - superforecasting
 - Superforecasting Methodology
----philip-e-tetlock-dan-gardner.md"]
 related: [superforecasting---philip-e-tetlock-dan-gardner, good-judgment-project, bayesian-thinking, confirmation-bias, decision-quality-vs-outcome-quality, thinking-in-bets---annie-duke, decision-tracking]
 ---
 # Superforecasting Methodology

@@ -10,7 +10,6 @@ tags:
 sources:
 - the-obstacle-is-the-way
 - Mastering Emotion
----ryan-holiday.md"]
 related: [the-obstacle-is-the-way-ryan-holiday, stoicism-as-a-framework, emotion-and-intuition-in-decisions, dual-process-theory]
 ---
 # Mastering Emotion

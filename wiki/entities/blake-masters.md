@@ -12,7 +12,6 @@ tags:
 sources:
 - zero-to-one
 - Blake Masters
----peter-thiel-blake-masters.md", "Innovation.md", "Thiel.md"]
 related: ["zero-to-one---peter-thiel-blake-masters", "zero-to-one-thinking", "peter-thiel", "zero-to-one-peter-thiel-blake-masters", "thiel-mental-model"]
 ---
 # Blake Masters

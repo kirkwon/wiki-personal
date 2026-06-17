@@ -12,7 +12,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Master vs. Slave Morality
----friedrich-nietzsche.md", "Beyond Good and Evil - Friedrich Nietzsche.md"]
 related: [ressentiment, will-to-power, revaluation-of-all-values, genealogical-analysis-of-morality, free-spirit-nietzsche, beyond-good-and-evil-nietzsche, genealogical-analysis-of-moral-concepts, friedrich-nietzsche, slave-morality, master-morality]
 ---
 # Master vs. Slave Morality

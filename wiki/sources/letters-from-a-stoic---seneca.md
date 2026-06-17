@@ -10,7 +10,6 @@ tags:
 sources:
 - letters-from-a-stoic
 - Letters from a Stoic - Seneca
----seneca.md"]
 ---
 # Letters from a Stoic - Seneca
 

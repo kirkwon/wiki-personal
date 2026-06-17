@@ -12,7 +12,6 @@ tags:
 sources:
 - being-mortal
 - Being Mortal - Atul Gawande
----atul-gawande.md"]
 ---
 # Being Mortal - Atul Gawande
 

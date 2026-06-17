@@ -10,7 +10,6 @@ tags:
 sources:
 - the-winners-curse
 - Winner's Curse
----richard-thaler.md"]
 related: [the-winners-curse---richard-thaler, decision-making-under-uncertainty, overconfidence-and-certainty, mental-accounting, bidding-and-auctions]
 ---
 # Winner's Curse

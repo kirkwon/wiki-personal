@@ -10,7 +10,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Value Innovation
----w-chan-kim-renee-mauborgne.md", "Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne.md"]
 related: [blue-ocean-strategy, strategy-canvas, four-actions-framework-eliminate-reduce-raise-create, red-ocean, four-actions-framework, cost-basis, decision-quality-vs-outcome-quality, opportunities]
 ---
 # Value Innovation

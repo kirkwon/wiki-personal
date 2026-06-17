@@ -10,7 +10,6 @@ tags:
 sources:
 - the-4-hour-workweek
 - Lifestyle Design Protocol
----timothy-ferriss.md"]
 related: [lifestyle-design, lifestyle-design-formula, outsourcing-your-life, the-4-hour-workweek---timothy-ferriss]
 ---
 # Lifestyle Design Protocol

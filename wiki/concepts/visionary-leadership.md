@@ -10,7 +10,6 @@ tags:
 sources:
 - the-fifth-discipline
 - Visionary Leadership
----peter-m-senge.md", "The Fifth Discipline - Peter M Senge.md"]
 related: ["learning-organization", "the-fifth-discipline---peter-m-senge", "co-evolutionary-relationships", "learning-organizations", "building-a-cohesive-team"]
 ---
 # Visionary Leadership

@@ -12,7 +12,6 @@ tags:
 sources:
 - find-your-why
 - Personal Legend
----simon-sinek.md", "Find Your Why - Simon Sinek.md"]
 related: [find-your-why-simon-sinek, the-golden-circle, grit-concept, personal-branding-and-wellbeing, purpose, passion, life]
 ---
 # Personal Legend

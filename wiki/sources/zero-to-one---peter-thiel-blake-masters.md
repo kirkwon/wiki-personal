@@ -12,4 +12,4 @@ tags:
 sources:
 - zero-to-one
 - Zero to One - Peter Thiel & Blake Masters
-----peter-thiel-blake-masters.md"]
+---

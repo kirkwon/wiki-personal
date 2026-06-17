@@ -13,4 +13,4 @@ tags:
 sources:
 - how-to-solve-it
 - How to Solve It - George Polya
-----george-polya.md"]
+---

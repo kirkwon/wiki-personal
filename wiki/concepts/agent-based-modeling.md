@@ -12,7 +12,6 @@ tags:
 sources:
 - out-of-control
 - Agent-Based Modeling
----kevin-kelly.md", "the-model-thinker---scott-e-page.md"]
 related: [swarm-intelligence, artificial-life-alife, self-organization-and-emergence, the-nine-laws-of-god, the-model-thinker---scott-e-page, systems-dynamics-models, cellular-automata, emergence, network-models, platform-dominance, evolution-of-cooperation]
 ---
 # Agent-Based Modeling

@@ -11,7 +11,6 @@ tags:
 sources:
 - the-winners-curse
 - Framing Effects
----richard-thaler.md", "Thinking, Fast and Slow - Daniel Kahneman.md", "How to Decide - Annie Duke.md"]
 related: [the-winners-curse---richard-thaler, mental-accounting, choice-overload, ethical-design-manipulation-question, prospect-theory, decision-making-frameworks, cognitive-biases-library]
 ---
 # Framing Effects

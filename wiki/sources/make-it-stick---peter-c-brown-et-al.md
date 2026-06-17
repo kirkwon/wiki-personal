@@ -11,4 +11,4 @@ tags:
 sources:
 - make-it-stick
 - Make It Stick - Peter C. Brown et al.
-----peter-c-brown-et-al.md"]
+---

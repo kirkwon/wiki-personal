@@ -10,7 +10,6 @@ tags:
 sources:
 - building-a-second-brain
 - Content Curation
----tiago-forte.md"]
 related: [second-brain, categorizing-information, active-revision-techniques]
 ---
 # Content Curation

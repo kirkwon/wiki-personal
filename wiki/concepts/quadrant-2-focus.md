@@ -10,7 +10,6 @@ tags:
 sources:
 - first-things-first
 - Quadrant 2 Focus
----stephen-r-covey.md"]
 related: [time-management-matrix, first-things-first-principle, strategic-vs-reactive-thinking, decision-quality-vs-outcome-quality]
 ---
 # Quadrant 2 Focus

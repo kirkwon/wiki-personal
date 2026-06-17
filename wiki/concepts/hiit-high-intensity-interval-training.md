@@ -11,7 +11,6 @@ tags:
 sources:
 - the-4-hour-body
 - HIIT - High-Intensity Interval Training
----timothy-ferriss.md"]
 related: [the-4-hour-body---timothy-ferriss, body-fat-paradox, habit-loop-health]
 ---
 # HIIT - High-Intensity Interval Training

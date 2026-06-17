@@ -10,7 +10,6 @@ tags:
 sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Annie Duke
----annie-duke.md", "thinking-in-bets---annie-duke.md", "how-to-decide---annie-duke.md"]
 related: [thinking-in-bets---annie-duke, how-to-decide---annie-duke, quit-the-power-of-knowing-when-to-walk-away---annie-duke, decision-making-frameworks, cognitive-biases-library]
 ---
 # Annie Duke

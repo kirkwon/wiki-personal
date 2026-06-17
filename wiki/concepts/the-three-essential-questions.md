@@ -10,7 +10,6 @@ tags:
 sources:
 - find-your-why
 - The Three Essential Questions (What, How, Why)
----simon-sinek.md"]
 related: [the-golden-circle, find-your-why-simon-sinek, personal-legend, decision-making-frameworks]
 ---
 # The Three Essential Questions (What, How, Why)

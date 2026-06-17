@@ -10,7 +10,6 @@ tags:
 sources:
 - hooked
 - Hook Model
----nir-eyal.md"]
 related: [internal-triggers, variable-reward-design, user-investment-habit, external-triggers, habit-testing, fogg-behavior-model, ethical-design-manipulation-question]
 ---
 # Hook Model

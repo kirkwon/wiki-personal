@@ -7,7 +7,7 @@ created: 2026-05-04
 updated: 2026-05-04
 tags: [decision-making, strategy, psychology]
 sources: ["Processes.md"]
-related: [processes, thinking-in-bets
+related: [processes, thinking-in-bets]
 
 ---
 # Quit: The Power of Knowing When to Walk Away

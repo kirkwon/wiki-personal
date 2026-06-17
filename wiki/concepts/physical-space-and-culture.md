@@ -10,7 +10,6 @@ tags:
 sources:
 - leaders-eat-last
 - Physical Space and Culture
----simon-sinek.md"]
 related: [leaders-eat-last-key-concepts, the-three-elements-of-leader-led-organizations]
 ---
 # Physical Space and Culture

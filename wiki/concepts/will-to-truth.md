@@ -10,7 +10,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Will to Truth
----friedrich-nietzsche.md"]
 related: [will-to-power, overconfidence-and-certainty, genealogical-analysis-of-morality]
 ---
 # Will to Truth

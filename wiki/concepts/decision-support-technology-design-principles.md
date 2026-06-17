@@ -10,7 +10,6 @@ tags:
 sources:
 - sources-of-power-how-people-make-decisions
 - Decision Support Technology Design Principles
----gary-klein.md"]
 related: [recognition-primed-decision-model, mental-simulation-in-decision-making, decision-making-frameworks]
 ---
 # Decision Support Technology Design Principles

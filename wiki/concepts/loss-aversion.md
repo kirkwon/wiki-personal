@@ -11,7 +11,6 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Loss Aversion
----daniel-kahneman.md", "Thinking", "Fast and Slow - Daniel Kahneman.md"]
 related: ["prospect-theory", "framing-effects-in-decision-making", "endowment-effect", "cognitive-biases-library", "dread-aversion", "framing-effects", "expected-value-ev"]
 ---
 

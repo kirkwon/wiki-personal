@@ -11,6 +11,7 @@ sources:
 - Swans.md
 - the-black-swan
 - Swans Mental Model
-----nassim-nicholas-taleb"]
 related: [swan-mental-model, black-swan-events, nassim-nicholas-taleb, tendency, reality-mental-model, patterns]
+---
+
 confidence: medium

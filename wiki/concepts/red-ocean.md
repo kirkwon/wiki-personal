@@ -9,7 +9,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Red Ocean
----w-chan-kim-renee-mauborgne.md"]
 related: [blue-ocean-strategy, value-innovation, strategy-canvas]
 ---
 # Red Ocean

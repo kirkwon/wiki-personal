@@ -7,7 +7,7 @@ created: 2026-05-04
 updated: 2026-05-04
 tags: [cognitive-science, decision-making, psychology]
 sources: ["Processes.md"]
-related: [processes, thinking-fast-and-slow
+related: [processes, thinking-fast-and-slow]
 
 ---
 # Noise: A Flaw in Human Judgment

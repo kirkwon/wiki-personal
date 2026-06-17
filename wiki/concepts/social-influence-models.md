@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Social Influence Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, network-models, collective-action-models, diffusion]
 ---
 # Social Influence Models

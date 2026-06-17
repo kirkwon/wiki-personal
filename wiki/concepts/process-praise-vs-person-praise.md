@@ -13,7 +13,6 @@ tags:
 sources:
 - mindset
 - Process Praise vs. Person Praise
----carol-s-dweck.md", "Mindset - Carol S Dweck.md", "Self-Theories_ Their Role in Motivation", "Personality", "and Development - Carol S. Dweck.md"]
 related: [growth-mindset, effective-listening, communication-skills, neuroplasticity, embracing-failure-for-personal-growth, fixed-mindset, mindset---carol-s-dweck, grit-concept]
 ---
 # Process Praise vs. Person Praise

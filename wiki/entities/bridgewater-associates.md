@@ -16,4 +16,4 @@ related:
 sources:
 - principles
 - ray-dalio
-----ray-dalio.md"]
+---

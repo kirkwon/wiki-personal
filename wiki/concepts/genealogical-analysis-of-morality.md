@@ -10,7 +10,6 @@ tags:
 sources:
 - beyond-good-and-evil
 - Genealogical Analysis of Morality
----friedrich-nietzsche.md"]
 related: [master-vs-slave-morality, ressentiment, revaluation-of-all-values, will-to-power]
 ---
 # Genealogical Analysis of Morality

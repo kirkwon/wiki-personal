@@ -10,7 +10,6 @@ tags:
 sources:
 - blue-ocean-strategy
 - Erring on the Side of Caution in Blue Ocean Creation
----w-chan-kim-renee-mauborgne.md"]
 related: [blue-ocean-strategy, probability-and-judgment-under-uncertainty, real-options-analysis, overconfidence-and-certainty]
 ---
 # Erring on the Side of Caution in Blue Ocean Creation

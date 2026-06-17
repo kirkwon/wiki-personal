@@ -13,4 +13,4 @@ tags:
 sources:
 - mindset
 - Mindset - Carol S. Dweck
-----carol-s-dweck.md"]
+---

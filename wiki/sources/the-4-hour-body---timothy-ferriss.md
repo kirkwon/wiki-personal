@@ -16,7 +16,6 @@ tags:
 sources:
 - the-4-hour-body
 - The 4-Hour Body - Timothy Ferriss
----timothy-ferriss.md"]
 ---
 # The 4-Hour Body - Timothy Ferriss
 

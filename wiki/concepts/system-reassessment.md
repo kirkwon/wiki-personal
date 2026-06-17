@@ -9,7 +9,6 @@ tags:
 sources:
 - the-para-method-simplify-organize-and-master-your-digital-life
 - System Reassessment
----tiago-forte.md"]
 related: [systematic-decision-making, decision-tracking, decision-quality-vs-outcome-quality, the-para-method]
 ---
 # System Reassessment

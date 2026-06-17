@@ -6,8 +6,7 @@ created: 2026-04-29
 updated: 2026-05-12
 tags: [mental-model, decision-making, productivity, philosophy, mental-models, allen]
 sources: ["Values.md", "Making It All Work - David Allen.md"]
-related: [care, effort, reality, tendency, ideas-mental-model, planning, stillness, first-things-first
----stephen-r-covey, getting-things-done---david-allen, the-alignment-problem---brian-christian-tom-griffiths, life, purpose, trust, work-life-integration]
+related: [care, effort, reality, tendency, ideas-mental-model, planning, stillness, first-things-first stephen-r-covey, getting-things-done---david-allen, the-alignment-problem---brian-christian-tom-griffiths, life, purpose, trust, work-life-integration]
 confidence: medium
 ---
 # Values as a Mental Model

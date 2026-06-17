@@ -9,7 +9,6 @@ tags:
 sources:
 - thinking-in-systems
 - The Power of Small Innovations
----donella-h-meadows.md"]
 related: [leverage-points, feedback-loops, complex-adaptive-systems, thinking-in-systems---donella-h-meadows]
 ---
 # The Power of Small Innovations

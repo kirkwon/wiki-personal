@@ -6,8 +6,7 @@ created: 2026-04-29
 updated: 2026-05-11
 tags: [mental-model, general, knowledge-management, epistemology, philosophy]
 sources: ["Knowledge.md", "The Beginning of Infinity - David Deutsch.md"]
-related: [experiment-and-exploration-forms-of-world-disclosure
----snke-ahrens, range---david-epstein, the-beginning-of-infinity---david-deutsch, personal-knowledge-vault, brain-mental-model, solutions, overview, thinking-mental-model, ideas-mental-model, stillness, the-beginning-of-infinity-david-deutsch, explanatory-reach, conjecture-and-criticism, critical-rationalism, problem-solving, effort]
+related: [experiment-and-exploration-forms-of-world-disclosure snke-ahrens, range---david-epstein, the-beginning-of-infinity---david-deutsch, personal-knowledge-vault, brain-mental-model, solutions, overview, thinking-mental-model, ideas-mental-model, stillness, the-beginning-of-infinity-david-deutsch, explanatory-reach, conjecture-and-criticism, critical-rationalism, problem-solving, effort]
 confidence: medium
 ---
 # Knowledge

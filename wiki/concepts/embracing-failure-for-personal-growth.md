@@ -10,7 +10,6 @@ tags:
 sources:
 - the-algebra-of-happiness
 - Embracing Failure for Personal Growth
----scott-galloway.md"]
 related: [the-algebra-of-happiness---scott-galloway, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, decision-tracking]
 ---
 # Embracing Failure for Personal Growth

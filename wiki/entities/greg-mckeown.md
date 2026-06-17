@@ -13,7 +13,6 @@ tags:
 sources:
 - multipliers
 - Greg McKeown
----greg-mckeown.md", "Topics.md", "Mckeown.md", "Commitments.md", "Effortless.md", "Essentialism.md", "Living.md", "Mindset.md", "Essentialism_ The Disciplined Pursuit of Less - Greg McKeown.md"]
 related: ["multipliers---greg-mckeown", "feedforward-feedback", "strategic-saying-no", "leveraging-strengths-for-impact", "topics", "multipliers - greg-mckeown", "essentialism---greg-mckeown", "effortless---greg-mckeown", "minimalism", "effort", "essentialism-the-disciplined-pursuit-of-less", "commitments", "effortless", "stillness", "essentialism", "scatterfocus", "living-mental-model", "solutions-mental-model", "multipliers-concept", "mindset-mental-model", "deep-work - Cal Newport", "time-management-matrix"]
 ---
 # Greg McKeown

@@ -10,7 +10,6 @@ tags:
 sources:
 - make-it-stick
 - Feynman Technique (Learning)
----peter-c-brown-jeffrey-d-karpicke-and-henry-l-roediger-iii.md"]
 related: [make-it-stick---peter-c-brown-et-al, elaborative-interrogation, retrieval-practice, how-to-solve-it---george-polya, teaching-problem-solving]
 ---
 # Feynman Technique (Learning)

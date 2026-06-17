@@ -11,7 +11,6 @@ tags:
 sources:
 - the-fifth-discipline
 - The Fifth Discipline - Peter M. Senge
----peter-m-senge.md", "Organization.md"]
 related: [learning-organization, systems-thinking, peter-m-senge, three-laws-of-systems-thinking, five-whys, organization-mental-model, management, planning]
 ---
 # The Fifth Discipline - Peter M. Senge

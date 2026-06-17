@@ -10,7 +10,6 @@ tags:
 sources:
 - the-model-thinker
 - Systems Dynamics Models
----scott-e-page.md"]
 related: [the-model-thinker---scott-e-page, agent-based-modeling, feedback-loops, cellular-automata]
 ---
 # Systems Dynamics Models
