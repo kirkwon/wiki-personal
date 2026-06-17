@@ -11,5 +11,5 @@ tags:
 sources:
 - the-five-dysfunctions-of-a-team
 - 'Step 4: Embrace Accountability'
-----patrick-lencioni.md"]
 related: [avoidance-of-accountability, building-a-cohesive-team, the-five-dysfunctions-of-a-team]
+---

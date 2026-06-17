@@ -11,5 +11,5 @@ tags:
 sources:
 - multipliers
 - Strategic Saying No
-----greg-mckeown.md"]
 related: [multipliers---greg-mckeown, quadrant-2-focus, strategic-vs-reactive-thinking]
+---

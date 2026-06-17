@@ -11,5 +11,5 @@ tags:
 sources:
 - the-most-human-human
 - Human Mind as Algorithm
-----brian-christian-tom-griffiths.md"]
 related: [the-puzzle-box, dual-process-theory, cognitive-science-decisions]
+---

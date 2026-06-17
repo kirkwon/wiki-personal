@@ -11,5 +11,5 @@ tags:
 sources:
 - the-subtle-art-of-not-giving-a-fck
 - Contentment Over Accumulation
-----mark-manson.md"]
 related: [science-of-joy, balancing-ambition-with-well-being, the-f_ck-it-principle]
+---

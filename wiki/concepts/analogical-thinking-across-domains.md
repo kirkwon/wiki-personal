@@ -11,5 +11,5 @@ tags:
 sources:
 - range
 - Analogical Thinking Across Domains
-----david-epstein.md"]
 related: [analogy-in-problem-solving, working-backwards-in-problem-solving, lateral-thinking, outsider-advantage]
+---

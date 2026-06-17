@@ -12,5 +12,5 @@ tags:
 sources:
 - experiment-and-exploration-forms-of-world-disclosure
 - 'Experiment and Exploration: Forms of World-Disclosure'
-----snke-ahrens.md"]
 related: [world-disclosure, scientific-method, epistemology, ethics-in-research, interdisciplinary-collaboration]
+---

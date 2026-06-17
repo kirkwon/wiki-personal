@@ -11,5 +11,5 @@ tags:
 sources:
 - the-4-hour-chef
 - The Fundamentals of Spice & Flavor Pairing
-----timothy-ferriss.md"]
 related: [spice-and-flavor-pairing-fundamentals, flavor-profiling, ingredient-pairings]
+---

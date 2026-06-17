@@ -11,5 +11,5 @@ tags:
 sources:
 - zero-to-one
 - Building Entrepreneurial Culture
-----peter-thiel-blake-masters.md"]
 related: [building-a-cohesive-team, the-five-dysfunctions-of-a-team---patrick-lencioni, zero-to-one-thinking]
+---

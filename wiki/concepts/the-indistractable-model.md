@@ -12,5 +12,5 @@ tags:
 sources:
 - indistractable
 - The Indistractable Model
-----nir-eyal.md"]
 related: [indistractable---nir-eyal, traction-vs-distraction, internal-triggers, external-triggers, hook-model, fizzgogg-behavior-model]
+---

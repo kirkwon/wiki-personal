@@ -12,5 +12,5 @@ tags:
 sources:
 - how-to-take-smart-notes
 - Kategoroinnin rooli merkinnöissä
-----snke-ahrens.md"]
 related: [personal-knowledge-vault, categorizing-information]
+---

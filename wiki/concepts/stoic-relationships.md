@@ -12,5 +12,5 @@ tags:
 sources:
 - the-daily-stoic
 - Stoic Relationships
-----ryan-holiday.md"]
 related: [stoicism, ryan-holiday, communication-skills, the-five-dysfunctions-of-a-team, emotion-and-intuition-in-decisions, radical-transparency]
+---

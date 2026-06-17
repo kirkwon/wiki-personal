@@ -11,5 +11,5 @@ tags:
 sources:
 - out-of-control
 - Self-Organization and Emergence
-----kevin-kelly.md"]
 related: [kevin-kelly, swarm-intelligence, the-nine-laws-of-god, antifragility, platform-dominance, strategic-vs-reactive-thinking]
+---

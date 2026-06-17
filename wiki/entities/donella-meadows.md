@@ -22,6 +22,8 @@ related:
 - thinking-in-systems
 - system-mental-model
 
+---
+
 # Donella H. Meadows
 Environmental scientist, author, and systems thinker best known for her work on system dynamics and the limits of growth in complex systems. She co‑authored *Limits to Growth* (1972), which used computer modeling to explore the interactions between population growth, resource depletion, and environmental impact, and later *Thinking in Systems: A Primer*, which introduces feedback loops as a core tool for understanding complex situations.
 

@@ -11,5 +11,5 @@ tags:
 sources:
 - the-4-hour-chef
 - Creating the Ultimate Meal-Prep Routine
-----timothy-ferriss.md"]
 related: [meal-prep-blueprint, batch-cooking, planning-your-week-meal-prep-blueprint]
+---

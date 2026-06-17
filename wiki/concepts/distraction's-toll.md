@@ -11,5 +11,5 @@ tags:
 sources:
 - slow-productivity
 - Distraction's Toll
-----cal-newport.md"]
 related: [slow-productivity, deep-focus, crafting-a-slow-workflow, decision-quality-vs-outcome-quality, technology's-role-in-slow-productivity]
+---

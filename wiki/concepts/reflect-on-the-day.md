@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - Reflect on the Day
-----jake-knapp-john-zeratsky.md"]
 related: [decision-tracking, active-revision-techniques, daily-highlight]
+---

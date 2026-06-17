@@ -11,5 +11,5 @@ tags:
 sources:
 - out-of-control
 - Network Effects and Increasing Returns
-----kevin-kelly.md"]
 related: [platform-dominance, self-organization-and-emergence, kevin-kelly, the-nine-laws-of-god]
+---

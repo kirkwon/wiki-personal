@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Kelly Criterion
-----annie-duke.md"]
 related: [bet-sizing, decision-making-under-uncertainty, risk-assessment-framework]
+---

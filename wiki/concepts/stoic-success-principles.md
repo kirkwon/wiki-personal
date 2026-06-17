@@ -12,5 +12,5 @@ tags:
 sources:
 - the-daily-stoic
 - Stoic Success Principles
-----ryan-holiday.md"]
 related: [stoicism, ryan-holiday, grit-concept, embracing-failure-for-personal-growth, balancing-ambition-with-well-being, personal-branding-and-wellbeing]
+---

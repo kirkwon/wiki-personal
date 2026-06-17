@@ -11,5 +11,5 @@ tags:
 sources:
 - the-beginning-of-infinity
 - The Evolution of Human Culture
-----david-deutsch.md"]
 related: [the-beginning-of-infinity---david-deutsch, conjecture-and-criticism, growth-mindset, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens]
+---

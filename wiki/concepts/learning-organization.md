@@ -11,5 +11,5 @@ tags:
 sources:
 - the-fifth-discipline
 - Learning Organization
-----peter-m-senge.md"]
 related: [systems-thinking, the-fifth-discipline---peter-m-senge, building-a-decision-culture, visionary-leadership, co-evolutionary-relationships]
+---

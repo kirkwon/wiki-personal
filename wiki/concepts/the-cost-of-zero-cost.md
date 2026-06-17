@@ -11,5 +11,5 @@ tags:
 sources:
 - predictably-irrational
 - The Cost of Zero Cost
-----dan-ariely.md"]
 related: [predictably-irrational---dan-ariely, expected-value-ev, ethical-design-manipulation-question]
+---

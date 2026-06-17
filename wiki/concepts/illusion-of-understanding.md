@@ -11,5 +11,5 @@ tags:
 sources:
 - fooled
 - Illusion of Understanding
-----randomness-by-nassim-nicholas-taleb.md"]
 related: [limits-of-computation, antifragility, overconfidence-and-certainty, fooled-by-randomness-concepts]
+---

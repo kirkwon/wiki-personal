@@ -11,5 +11,5 @@ tags:
 sources:
 - range
 - Overlearning and Narrow Specialization as Counterproductive
-----david-epstein.md"]
 related: [specialization-and-generalization, decision-quality-vs-outcome-quality, embracing-failure-for-personal-growth]
+---

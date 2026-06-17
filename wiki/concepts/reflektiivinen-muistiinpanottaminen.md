@@ -12,5 +12,5 @@ tags:
 sources:
 - how-to-take-smart-notes
 - Reflektiivinen muistiinpanottaminen
-----snke-ahrens.md"]
 related: [personal-knowledge-vault, effective-listening, teaching-problem-solving]
+---

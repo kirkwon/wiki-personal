@@ -12,5 +12,5 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Probability and Judgment Under Uncertainty
-----daniel-kahneman.md"]
 related: [bayesian-thinking, decision-making-under-uncertainty, cognitive-biases-library, prospect-theory]
+---

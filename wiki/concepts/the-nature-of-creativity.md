@@ -11,5 +11,5 @@ tags:
 sources:
 - the-beginning-of-infinity
 - The Nature of Creativity
-----david-deutsch.md"]
 related: [the-beginning-of-infinity---david-deutsch, conjecture-and-criticism, artificial-creativity, problem-solving]
+---

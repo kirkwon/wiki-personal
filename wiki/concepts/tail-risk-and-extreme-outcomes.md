@@ -11,5 +11,5 @@ tags:
 sources:
 - antifragile
 - Tail Risk and Extreme Outcomes
-----nassim-nicholas-taleb.md"]
 related: [black-swan-events, monte-carlo-simulations, risk-assessment-framework, antifragility]
+---

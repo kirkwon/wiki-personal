@@ -11,5 +11,5 @@ tags:
 sources:
 - antifragile
 - Building Antifragile Societies
-----nassim-nicholas-taleb.md"]
 related: [antifragility, antifragile-rules, skin-in-the-game, decision-making-under-uncertainty]
+---

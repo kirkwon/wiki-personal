@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Game Theory
-----gabriel-weinberg.md"]
 related: [mental-models, prisoners-dilemma, decision-making-frameworks, prospect-theory]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - indistractable
 - Time Management Is Pain Management
-----nir-eyal.md"]
 related: [indistractable---nir-eyal, the-indistractable-model, internal-triggers, traction-vs-distraction, will---mark-manson]
+---

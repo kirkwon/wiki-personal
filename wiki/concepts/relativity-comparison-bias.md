@@ -11,5 +11,5 @@ tags:
 sources:
 - predictably-irrational
 - Relativity and Comparison Bias
-----dan-ariely.md"]
 related: [predictably-irrational---dan-ariely, anchoring, decision-quality-vs-outcome-quality, prospect-theory]
+---

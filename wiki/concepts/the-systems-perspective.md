@@ -11,5 +11,5 @@ tags:
 sources:
 - the-fifth-discipline-fieldbook
 - The Systems Perspective
-----peter-m-senge.md"]
 related: [systems-thinking-senge, decision-making-under-uncertainty, the-five-disciplines-framework]
+---

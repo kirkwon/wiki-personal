@@ -10,5 +10,5 @@ tags:
 sources:
 - digital-minimalism
 - Focus Tools and Technology-Free Zones
-----cal-newport.md"]
 related: [digital-minimalism, the-toll-of-distraction, purposeful-use-principle]
+---

@@ -1,6 +1,5 @@
 ---
 
-
 type: source
 title: "Source: the-sports-gene-inside-the-science-of-extraordinary-athletic-performance"
 ----david-epstein.md"

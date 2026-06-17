@@ -11,5 +11,5 @@ tags:
 sources:
 - the-checklist-manifesto
 - Checklists in Personal Life
-----atul-gawande.md"]
 related: [time-management-matrix, quadrant-2-focus, checklists-as-cognitive-aids]
+---

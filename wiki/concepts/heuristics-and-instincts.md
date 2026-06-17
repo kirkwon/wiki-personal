@@ -12,5 +12,5 @@ tags:
 sources:
 - algorithms-to-live-by
 - Heuristics and Instincts
-----brian-christian-tom-griffiths.md"]
 related: [dual-process-theory, heuristic-problem-solving, naturalistic-decision-making, recognition-primed-decision-model, cognitive-biases-library]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - the-beginning-of-infinity
 - Reach of Explanations
-----david-deutsch.md"]
 related: [the-beginning-of-infinity---david-deutsch, conjecture-and-criticism, critical-rationalism, problem-solving, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens]
+---

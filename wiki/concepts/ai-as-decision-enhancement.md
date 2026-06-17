@@ -12,5 +12,5 @@ tags:
 sources:
 - algorithms-to-live-by
 - AI as Decision-Enhancement Tool
-----brian-christian-tom-griffiths.md"]
 related: [emotions-and-ai, the-most-human-human, artificial-intelligence-decision-making, text-to-speech]
+---

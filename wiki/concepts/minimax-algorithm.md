@@ -12,5 +12,5 @@ tags:
 sources:
 - algorithms-to-live-by
 - Minimax Algorithm
-----brian-christian-tom-griffiths.md"]
 related: [decision-making-frameworks, game-theory-in-life, branch-and-bound-decision-making, the-most-human-human]
+---

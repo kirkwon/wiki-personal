@@ -44,8 +44,9 @@
       }
     ],
     "id": "review-27",
-    "resolved": false,
-    "createdAt": 1781160946062
+    "resolved": true,
+    "createdAt": 1781160946062,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -65,8 +66,9 @@
       }
     ],
     "id": "review-28",
-    "resolved": false,
-    "createdAt": 1781160960800
+    "resolved": true,
+    "createdAt": 1781160960800,
+    "resolvedAction": "Skip"
   },
   {
     "type": "suggestion",
@@ -86,8 +88,9 @@
       }
     ],
     "id": "review-29",
-    "resolved": false,
-    "createdAt": 1781160970039
+    "resolved": true,
+    "createdAt": 1781160970039,
+    "resolvedAction": "Skip"
   },
   {
     "type": "suggestion",
@@ -107,8 +110,9 @@
       }
     ],
     "id": "review-30",
-    "resolved": false,
-    "createdAt": 1781160977214
+    "resolved": true,
+    "createdAt": 1781160977214,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -275,8 +279,9 @@
       }
     ],
     "id": "review-38",
-    "resolved": false,
-    "createdAt": 1781160998941
+    "resolved": true,
+    "createdAt": 1781160998941,
+    "resolvedAction": "Skip"
   },
   {
     "type": "suggestion",
@@ -380,8 +385,9 @@
       }
     ],
     "id": "review-43",
-    "resolved": false,
-    "createdAt": 1781161024956
+    "resolved": true,
+    "createdAt": 1781161024956,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -401,8 +407,9 @@
       }
     ],
     "id": "review-44",
-    "resolved": false,
-    "createdAt": 1781161038936
+    "resolved": true,
+    "createdAt": 1781161038936,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -422,8 +429,9 @@
       }
     ],
     "id": "review-45",
-    "resolved": false,
-    "createdAt": 1781161043477
+    "resolved": true,
+    "createdAt": 1781161043477,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -443,8 +451,9 @@
       }
     ],
     "id": "review-46",
-    "resolved": false,
-    "createdAt": 1781161045491
+    "resolved": true,
+    "createdAt": 1781161045491,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -471,7 +480,838 @@
       }
     ],
     "id": "review-47",
+    "resolved": true,
+    "createdAt": 1781161872320,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "Company Structure Chart Adaptation",
+    "description": "Description of what needs the user's attention: The wiki pages on company structure charts, competitive intelligence, strategic analysis, positioning statements, and PESTEL analysis should be reviewed to ensure they reflect the comprehensive guide provided in the source document.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-comparisonscompan-2026-06-12-070139.md",
+    "affectedPages": [
+      "wiki/concepts/company-structure-chart.md",
+      "wiki/concepts/competitive-intelligence.md",
+      "wiki/concepts/strategic-analysis.md",
+      "wiki/concepts/positioning-statement.md",
+      "wiki/concepts/pestel-analysis.md"
+    ],
+    "searchQueries": [
+      "company structure chart templates",
+      "competitive intelligence tools",
+      "strategic analysis frameworks",
+      "positioning statement examples",
+      "PESTEL analysis examples"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-48",
     "resolved": false,
-    "createdAt": 1781161872320
+    "createdAt": 1781247965455
+  },
+  {
+    "type": "suggestion",
+    "title": "Adapting Company Structure Charts for Different Business Types",
+    "description": "Description of the gap and why it matters: The current guide on company structure charts does not provide information on how to adapt these charts for different types of businesses, such as startups versus established corporations. This gap is significant because different businesses have unique organizational needs and structures.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-comparisonscompan-2026-06-12-070139.md",
+    "affectedPages": [
+      "wiki/concepts/company-structure-chart.md"
+    ],
+    "searchQueries": [
+      "adapting company structure charts for startups",
+      "company structure charts for established corporations",
+      "flexible company structure chart templates"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-49",
+    "resolved": false,
+    "createdAt": 1781247965455
+  },
+  {
+    "type": "suggestion",
+    "title": "Integrating Technology into Company Structure Charts",
+    "description": "Description of the gap and why it matters: The guide on company structure charts does not discuss how to integrate technology, such as digital tools or software, to make these charts more dynamic and accessible. This is an important gap because technology can enhance the usability and effectiveness of company structure charts.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-comparisonscompan-2026-06-12-070139.md",
+    "affectedPages": [
+      "wiki/concepts/company-structure-chart.md"
+    ],
+    "searchQueries": [
+      "digital company structure chart tools",
+      "company structure chart software",
+      "dynamic company structure chart templates"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-50",
+    "resolved": true,
+    "createdAt": 1781247965455,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "missing-page",
+    "title": "Lexchart Company Structure Guide",
+    "description": "Description of the gap and why it matters: The source mentions \"The Ultimate Guide to Company Structure Charts\" by Lexchart, but there is no dedicated page in the wiki for this resource. Creating a page for this guide could provide valuable insights and information on company structure charts.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-comparisonscompan-2026-06-12-070139.md",
+    "affectedPages": [
+      "SEARCH: Lexchart company structure guide | ultimate guide to company structure charts | company structure chart resources"
+    ],
+    "searchQueries": [
+      "Lexchart company structure guide",
+      "ultimate guide to company structure charts",
+      "company structure chart resources"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-51",
+    "resolved": false,
+    "createdAt": 1781247965455
+  },
+  {
+    "type": "suggestion",
+    "title": "Mental Models Integration",
+    "description": "Description of what needs the user's attention: The wiki now includes several mental models (The Habit Loop, The Six Thinking Hats, The OODA Loop) and concepts (Cognitive Mental Models, Feedback Loops). It would be beneficial to integrate these models more comprehensively, exploring how they intersect and can be applied together for better decision-making and problem-solving.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070336.md",
+    "affectedPages": [
+      "wiki/concepts/cognitive-mental-models.md",
+      "wiki/concepts/feedback-loops.md",
+      "wiki/entities/the-habit-loop.md",
+      "wiki/entities/the-six-thinking-hats.md",
+      "wiki/entities/the-ooda-loop.md"
+    ],
+    "searchQueries": [
+      "mental models integration techniques",
+      "applying multiple mental models in decision-making",
+      "cognitive mental models and feedback loops in problem-solving"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-52",
+    "resolved": true,
+    "createdAt": 1781248267847,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "missing-page",
+    "title": "Contextual Factors in Mental Models",
+    "description": "Concise description of the gap and why it matters: The current wiki content on mental models lacks a detailed discussion on contextual factors, which are crucial for understanding how mental models are influenced by and interact with individual, social, and environmental factors.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070336.md",
+    "affectedPages": [
+      "wiki/concepts/cognitive-mental-models.md",
+      "wiki/concepts/feedback-loops.md"
+    ],
+    "searchQueries": [
+      "contextual factors in mental models",
+      "mental models and environmental influence",
+      "social factors affecting mental models"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-53",
+    "resolved": true,
+    "createdAt": 1781248267847,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "Validation of Mental Models",
+    "description": "Description of what needs the user's attention: The wiki could benefit from a more in-depth exploration of methods for validating and refining mental models, ensuring they accurately reflect real-world phenomena and are effective in various applications.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070336.md",
+    "affectedPages": [
+      "wiki/concepts/cognitive-mental-models.md",
+      "wiki/concepts/feedback-loops.md"
+    ],
+    "searchQueries": [
+      "validating mental models",
+      "refining mental models",
+      "mental model validation techniques"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-54",
+    "resolved": true,
+    "createdAt": 1781248267847,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "Algorithms for Wellbeing",
+    "description": "Description of what needs the user's attention: The concept of algorithms for wellbeing is crucial in AI systems, and further research is needed to develop and implement these algorithms effectively.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md",
+    "affectedPages": [
+      "wiki/concepts/algorithms-for-wellbeing.md"
+    ],
+    "searchQueries": [
+      "algorithms for wellbeing AI",
+      "wellbeing in AI systems",
+      "machine learning for wellbeing"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-55",
+    "resolved": true,
+    "createdAt": 1781248548042,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "Responsible Research and Innovation",
+    "description": "Description of what needs the user's attention: The concept of responsible research and innovation is essential in AI systems, and further research is needed to develop and implement RRI principles and practices effectively.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md",
+    "affectedPages": [
+      "wiki/concepts/responsible-research-and-innovation.md"
+    ],
+    "searchQueries": [
+      "responsible research and innovation AI",
+      "RRI in AI systems",
+      "ethical AI development"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-56",
+    "resolved": true,
+    "createdAt": 1781248548042,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "Human-Centered Design",
+    "description": "Description of what needs the user's attention: The concept of human-centered design is crucial in AI systems, and further research is needed to develop and implement HCD principles and practices effectively.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md",
+    "affectedPages": [
+      "wiki/concepts/human-centered-design.md"
+    ],
+    "searchQueries": [
+      "human-centered design AI",
+      "HCD in AI systems",
+      "user experience in AI"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-57",
+    "resolved": true,
+    "createdAt": 1781248548042,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "Consciousness",
+    "description": "Description of what needs the user's attention: The concept of consciousness is essential in AI systems, and further research is needed to understand and develop conscious AI systems.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md",
+    "affectedPages": [
+      "wiki/concepts/consciousness.md"
+    ],
+    "searchQueries": [
+      "consciousness in AI",
+      "conscious AI systems",
+      "AI and consciousness"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-58",
+    "resolved": true,
+    "createdAt": 1781248548042,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "Naturaleza Algorítmica de la Intuición",
+    "description": "Se sugiere investigar más a fondo la naturaleza algorítmica de la intuición y su relación con la conciencia. Esto podría involucrar analizar estudios de caso y experimentos que demuestren la aplicación de algoritmos en la toma de decisiones humanas.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070437.md",
+    "affectedPages": [
+      "wiki/concepts/naturaleza-algorítmica-de-la-intuición.md"
+    ],
+    "searchQueries": [
+      "algoritmos de intuición",
+      "toma de decisiones humanas",
+      "inteligencia artificial y conciencia"
+    ],
+    "options": [
+      {
+        "label": "Crear Página",
+        "action": "Crear Página"
+      },
+      {
+        "label": "Saltar",
+        "action": "Saltar"
+      }
+    ],
+    "id": "review-59",
+    "resolved": true,
+    "createdAt": 1781248809887,
+    "resolvedAction": "Created: wiki/queries/naturaleza-algorítmica-de-la-intuición-2026-06-13-065216.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "Problema Difícil de la Conciencia",
+    "description": "Se sugiere explorar más a fondo el problema difícil de la conciencia y su relación con la intuición. Esto podría involucrar analizar la literatura filosófica y científica sobre el tema y discutir las implicaciones para la comprensión de la conciencia y la intuición.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070437.md",
+    "affectedPages": [
+      "wiki/concepts/problema-difícil-de-la-conciencia.md"
+    ],
+    "searchQueries": [
+      "problema difícil de la conciencia",
+      "filosofía de la mente",
+      "conciencia y intuición"
+    ],
+    "options": [
+      {
+        "label": "Crear Página",
+        "action": "Crear Página"
+      },
+      {
+        "label": "Saltar",
+        "action": "Saltar"
+      }
+    ],
+    "id": "review-60",
+    "resolved": true,
+    "createdAt": 1781248809887,
+    "resolvedAction": "Created: wiki/queries/problema-difícil-de-la-conciencia-2026-06-13-065218.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "Mental Models Integration",
+    "description": "Description of what needs the user's attention: The wiki covers various mental models, but it would be valuable to explore how these models interact and can be integrated to provide a more accurate prediction of complex systems and improve decision-making.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md",
+    "affectedPages": [
+      "wiki/concepts/mental-models-integration.md",
+      "wiki/concepts/first-principles-thinking.md",
+      "wiki/concepts/second-order-thinking.md",
+      "wiki/concepts/inversion.md",
+      "wiki/concepts/probabilistic-thinking.md",
+      "wiki/concepts/feedback-loops.md",
+      "wiki/concepts/mental-models.md"
+    ],
+    "searchQueries": [
+      "mental models integration techniques",
+      "cognitive biases in decision-making",
+      "critical thinking frameworks",
+      "mental models for decision-making",
+      "integrating mental models",
+      "complex systems prediction"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-61",
+    "resolved": false,
+    "createdAt": 1781333841294
+  },
+  {
+    "type": "missing-page",
+    "title": "Habitsforthinking.in",
+    "description": "Concise description of the gap and why it matters: The organization Habitsforthinking.in is mentioned as a relevant resource for mental models and critical thinking, but there is no dedicated page for it in the wiki. This page could provide more information on the organization, its mission, and its resources.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-mental-models-integration-2026-06-13-065310.md",
+    "affectedPages": [
+      "wiki/entities/notion.md",
+      "wiki/entities/obsidian.md"
+    ],
+    "searchQueries": [
+      "habitsforthinking.in review",
+      "habitsforthinking.in mental models",
+      "habitsforthinking.in critical thinking"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-62",
+    "resolved": true,
+    "createdAt": 1781333841294,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "Mental Models Integration Applications",
+    "description": "Concise description of the gap and why it matters: While the wiki has a page on Mental Models Integration, there is a lack of information on practical applications of this concept in real-world scenarios. Researching and documenting case studies or examples of successful mental models integration could enhance the wiki's usefulness.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-mental-models-integration-2026-06-13-065310.md",
+    "affectedPages": [
+      "wiki/concepts/mental-models-integration.md",
+      "wiki/concepts/first-principles-thinking.md"
+    ],
+    "searchQueries": [
+      "mental models integration examples",
+      "case studies of mental models integration",
+      "applying mental models in real life"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-63",
+    "resolved": false,
+    "createdAt": 1781333841294
+  },
+  {
+    "type": "suggestion",
+    "title": "Cognitive Biases in Mental Models",
+    "description": "Concise description of the gap and why it matters: Understanding cognitive biases is crucial for effective mental models integration. However, the current wiki content does not adequately address how cognitive biases interact with mental models, potentially leading to flawed decision-making.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-mental-models-integration-2026-06-13-065310.md",
+    "affectedPages": [
+      "wiki/concepts/mental-models-integration.md",
+      "wiki/concepts/critical-thinking.md"
+    ],
+    "searchQueries": [
+      "cognitive biases in mental models",
+      "how biases affect decision-making",
+      "mitigating biases in critical thinking"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64",
+    "resolved": false,
+    "createdAt": 1781333841294
+  },
+  {
+    "type": "suggestion",
+    "title": "Human Centered AI Research",
+    "description": "Description of the need for further research on Human-Centered AI, focusing on the development of AI systems that prioritize human needs, satisfaction, and trustworthiness.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-human-centered-design-2026-06-13-065339.md",
+    "affectedPages": [
+      "wiki/concepts/human-centered-artificial-intelligence.md",
+      "wiki/concepts/trustworthy-ai.md"
+    ],
+    "searchQueries": [
+      "human centered ai research",
+      "trustworthy ai development",
+      "ai user experience design"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-65",
+    "resolved": false,
+    "createdAt": 1781333994553
+  },
+  {
+    "type": "suggestion",
+    "title": "Research on Mental Models",
+    "description": "Description of what needs the user's attention: The wiki pages on mental models, validation of mental models, peer review, incremental validation, social validation, and design experiments should be reviewed and updated to ensure that they are accurate and reliable.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-validation-of-mental-models-2026-06-13-065345.md",
+    "affectedPages": [
+      "wiki/concepts/mental-models.md",
+      "wiki/concepts/validation-of-mental-models.md",
+      "wiki/concepts/peer-review.md",
+      "wiki/concepts/incremental-validation.md",
+      "wiki/concepts/social-validation.md",
+      "wiki/concepts/design-experiments.md"
+    ],
+    "searchQueries": [
+      "mental models research",
+      "validation of mental models",
+      "peer review in mental models",
+      "incremental validation in mental models",
+      "social validation in mental models",
+      "design experiments in mental models"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-66",
+    "resolved": false,
+    "createdAt": 1781334329009
+  },
+  {
+    "type": "suggestion",
+    "title": "Budgeting Rules",
+    "description": "Description of what needs the user's attention: The wiki now includes pages on the 70/20/10 and 80/20 budget rules, but it may be beneficial to explore other budgeting rules and methods to provide a more comprehensive understanding of personal finance.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md",
+    "affectedPages": [
+      "wiki/concepts/50-30-20-budget-rule.md",
+      "wiki/concepts/envelope-system.md"
+    ],
+    "searchQueries": [
+      "budgeting rules for beginners",
+      "personal finance budgeting apps",
+      "zero-based budgeting"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-67",
+    "resolved": false,
+    "createdAt": 1781335041488
+  },
+  {
+    "type": "suggestion",
+    "title": "Budgeting Rules and Methods",
+    "description": "Description of what needs the user's attention: The wiki now includes pages on the 70/20/10 and 80/20 budget rules, but it may be beneficial to explore other budgeting rules and methods, such as the 50/30/20 rule or the envelope system, to provide a more comprehensive understanding of personal finance.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md",
+    "affectedPages": [
+      "wiki/concepts/50-30-20-budget-rule.md",
+      "wiki/concepts/envelope-system.md"
+    ],
+    "searchQueries": [
+      "budgeting rules for beginners",
+      "personal finance budgeting apps",
+      "zero-based budgeting"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-68",
+    "resolved": false,
+    "createdAt": 1781335041488
+  },
+  {
+    "type": "missing-page",
+    "title": "Factor Investing",
+    "description": "Description of what needs the user's attention: The wiki mentions factor investing as part of personal finance, but lacks a dedicated page to explain this concept in depth, including its strategies, benefits, and risks.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md",
+    "affectedPages": [
+      "wiki/concepts/personal-finance.md"
+    ],
+    "searchQueries": [
+      "factor investing strategies",
+      "factor-based investing",
+      "benefits of factor investing"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-69",
+    "resolved": true,
+    "createdAt": 1781335041488,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "contradiction",
+    "title": "Budgeting Rules Comparison",
+    "description": "Description of what needs the user's attention: The simplicity of the 70/20/10 and 80/20 budget rules might be seen as overly broad or not tailored enough for individual financial situations, potentially creating tension with more detailed financial planning strategies, requiring a comparison of these rules with other budgeting methods.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/wiki/queries/research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md",
+    "affectedPages": [
+      "wiki/concepts/70-20-10-budget-rule.md",
+      "wiki/concepts/80-20-budget-rule.md"
+    ],
+    "searchQueries": [
+      "budgeting rules comparison",
+      "personalized budgeting",
+      "financial planning strategies"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-70",
+    "resolved": false,
+    "createdAt": 1781335041488
+  },
+  {
+    "type": "missing-page",
+    "title": "Context Compression Techniques",
+    "description": "Concise description of the gap and why it matters: The wiki lacks a dedicated page for exploring various context compression techniques beyond Headroom, such as their applications, efficiencies, and potential integration with other tools.\n\n\n\n\n---REVIEW: suggestion | Human-AI Collaboration Frameworks---\nConcise description of the gap and why it matters: There's a need for a comparative analysis of different human-AI collaboration frameworks to understand their strengths, weaknesses, and best use cases, which could enhance the wiki's coverage of AI-related topics.\nOPTIONS: Create Page | Skip\nPAGES: wiki/concepts/human-ai-collaboration.md, wiki/sources/research-human-centered-design-2026-06-13-065339\nSEARCH: human-AI collaboration models | AI collaboration frameworks | human-centered AI design\n\n---REVIEW: contradiction | Token Reduction vs. Context Compression---\nConcise description of the gap and why it matters: The relationship between token reduction and context compression needs clarification, as they are related but distinct concepts; resolving this could improve the coherence of the wiki's information processing section.\nOPTIONS: Create Page | Skip\nPAGES: wiki/concepts/token-reduction.md, wiki/concepts/context-compression.md\nSEARCH: token reduction techniques | context compression vs token reduction | information processing efficiency\n\n---REVIEW: duplicate | Budgeting Rules---\nConcise description of the gap and why it matters: The wiki contains multiple budgeting rules (70-20-10, 80-20), which might be redundant or could be consolidated into a single, comprehensive page on budgeting strategies.\nOPTIONS: Create Page | Skip\nPAGES: wiki/concepts/70-20-10-budget-rule.md, wiki/concepts/80-20-budget-rule.md\nSEARCH: budgeting rules comparison | efficient budgeting strategies | personal finance management\n\n---REVIEW: suggestion | Mental Models Integration---\nConcise description of the gap and why it matters: A deeper exploration of mental models integration, including case studies and practical applications, could significantly enhance the wiki's value in decision-making and cognitive efficiency.\nOPTIONS: Create Page | Skip\nPAGES: wiki/concepts/mental-models-integration.md, wiki/concepts/mental-models.md\nSEARCH: mental models integration techniques | decision-making frameworks | cognitive efficiency strategies",
+    "sourcePath": "/Users/kirkwon/wiki-personal/raw/sources/headroom-integration.md",
+    "affectedPages": [
+      "wiki/concepts/context-compression.md",
+      "wiki/sources/headroom-integration.md"
+    ],
+    "searchQueries": [
+      "context compression algorithms",
+      "data reduction techniques",
+      "text compression methods"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-71",
+    "resolved": true,
+    "createdAt": 1781335428956,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "Implementing Critic Separation",
+    "description": "Description of what needs the user's attention: The implementation of critic separation requires careful consideration of the validation component's independence from the execution component. \n\n\n\n---",
+    "sourcePath": "/Users/kirkwon/wiki-personal/raw/sources/loop-engineering-plan.md",
+    "affectedPages": [
+      "wiki/concepts/critic-separation.md"
+    ],
+    "searchQueries": [
+      "critic separation in software development",
+      "validation component independence",
+      "loop engineering process reliability"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-72",
+    "resolved": false,
+    "createdAt": 1781335562384
+  },
+  {
+    "type": "suggestion",
+    "title": "Integrating Triage Inbox",
+    "description": "Description of what needs the user's attention: The integration of the triage inbox mechanism requires setting up a triage directory and index, as well as implementing a weekly sweep cron job. \n\n\n\n---",
+    "sourcePath": "/Users/kirkwon/wiki-personal/raw/sources/loop-engineering-plan.md",
+    "affectedPages": [
+      "wiki/concepts/triage-inbox.md"
+    ],
+    "searchQueries": [
+      "triage inbox in software development",
+      "failure pattern management",
+      "loop engineering process feedback"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-73",
+    "resolved": false,
+    "createdAt": 1781335562384
+  },
+  {
+    "type": "suggestion",
+    "title": "Implementing Skill Auto-Patch",
+    "description": "Description of what needs the user's attention: The implementation of skill auto-patch requires detecting changes and proposing skill patches, as well as executing auto-patch with human review. \n\n\n\n---",
+    "sourcePath": "/Users/kirkwon/wiki-personal/raw/sources/loop-engineering-plan.md",
+    "affectedPages": [
+      "wiki/concepts/skill-auto-patch.md"
+    ],
+    "searchQueries": [
+      "skill auto-patch in software development",
+      "adaptive system improvement",
+      "loop engineering process efficiency"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-74",
+    "resolved": false,
+    "createdAt": 1781335562384
+  },
+  {
+    "type": "suggestion",
+    "title": "Implementing /goal Primitive",
+    "description": "Description of what needs the user's attention: The implementation of the /goal primitive requires creating a goal.py script, implementing condition checking, and integrating with delegate_task sub-agents. \n\n\n\n---",
+    "sourcePath": "/Users/kirkwon/wiki-personal/raw/sources/loop-engineering-plan.md",
+    "affectedPages": [
+      "wiki/concepts/goal-primitive.md"
+    ],
+    "searchQueries": [
+      "/goal primitive in software development",
+      "run-until-done wrapper",
+      "loop engineering process automation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-75",
+    "resolved": false,
+    "createdAt": 1781335562384
+  },
+  {
+    "type": "suggestion",
+    "title": "Memory Tiering System",
+    "description": "The memory tiering system is a new concept that has been introduced. It would be beneficial to explore the challenges and complexities of implementing such a system, including the management of rules for tier transitions.",
+    "sourcePath": "/Users/kirkwon/wiki-personal/raw/sources/memory-tiering.md",
+    "searchQueries": [
+      "memory tiering system implementation",
+      "hierarchical memory structures",
+      "knowledge management systems"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-76",
+    "resolved": false,
+    "createdAt": 1781336170927
   }
 ]

@@ -11,5 +11,5 @@ tags:
 sources:
 - ego-is-the-enemy
 - Ego in Social Media and the Internet Age
-----ryan-holiday.md"]
 related: [ego-is-the-enemy, hook-model, external-triggers, internal-triggers, social-media-food-references, ethical-design-manipulation-question]
+---

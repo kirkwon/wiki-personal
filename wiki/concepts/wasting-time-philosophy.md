@@ -11,5 +11,5 @@ tags:
 sources:
 - on-the-shortness-of-life
 - Wasting Time — Seneca's Critique
-----seneca.md"]
 related: [on-the-shortness-of-life---seneca, quadrant-2-focus, time-management-matrix, balancing-ambition-with-well-being]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - the-fifth-discipline-fieldbook
 - The Power of Dialogue
-----peter-m-senge.md"]
 related: [effective-listening, communication-skills, building-shared-vision, team-learning-senge]
+---

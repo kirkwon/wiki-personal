@@ -11,5 +11,5 @@ tags:
 sources:
 - atomic-habits
 - Accountability Systems
-----james-clear.md"]
 related: [atomic-habits---james-clear, building-a-cohesive-team, radical-transparency, decision-tracking]
+---

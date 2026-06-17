@@ -11,5 +11,5 @@ tags:
 sources:
 - will
 - Importance of Community
-----mark-manson.md"]
 related: [building-a-cohesive-team, absence-of-trust, science-of-forgiveness, will---mark-manson]
+---

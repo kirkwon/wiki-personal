@@ -11,5 +11,5 @@ tags:
 sources:
 - the-4-hour-chef
 - Intuitive Cooking
-----timothy-ferriss.md"]
 related: [flavor-profiling, cooking-without-a-recipe, flavor-theory, ingredient-pairings]
+---

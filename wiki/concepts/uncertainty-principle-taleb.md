@@ -11,5 +11,5 @@ tags:
 sources:
 - fooled
 - Uncertainty Principle (Taleb's Version)
-----randomness-by-nassim-nicholas-taleb.md"]
 related: [decision-making-under-uncertainty, bayesian-thinking, fooled-by-randomness-concepts]
+---

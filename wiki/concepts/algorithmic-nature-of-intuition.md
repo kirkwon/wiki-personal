@@ -12,5 +12,5 @@ tags:
 sources:
 - algorithms-to-live-by
 - Algorithmic Nature of Intuition
-----brian-christian-tom-griffiths.md"]
 related: [recognition-primed-decision-model, emotion-and-intuition-in-decisions, heuristic-problem-solving, dual-process-theory]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - atomic-habits
 - Strategic Opposition
-----james-clear.md"]
 related: [atomic-habits---james-clear, embracing-failure-for-personal-growth, growth-mindset]
+---

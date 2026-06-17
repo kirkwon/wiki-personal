@@ -11,5 +11,5 @@ tags:
 sources:
 - the-checklist-manifesto
 - The Wrongness of Perfection
-----atul-gawande.md"]
 related: [overconfidence-and-certainty, dual-process-theory, checklists-as-cognitive-aids, systematic-decision-making]
+---

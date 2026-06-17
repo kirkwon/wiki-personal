@@ -11,5 +11,5 @@ tags:
 sources:
 - the-wisdom-of-crowds
 - Wisdom of Crowds
-----james-surowiecki.md"]
 related: [decision-making-frameworks, group-decision-polarization, decision-making-under-uncertainty, information-cascades, diversity-in-decision-making]
+---

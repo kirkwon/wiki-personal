@@ -10,5 +10,5 @@ tags:
 sources:
 - the-fifth-discipline
 - Three Laws of Systems Thinking
-----peter-m-senge.md"]
 related: [systems-thinking, learning-organization, the-fifth-discipline---peter-m-senge]
+---

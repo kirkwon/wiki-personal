@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Inversion
-----gabriel-weinberg.md"]
 related: [mental-models, lateral-thinking, first-principles, creativity]
+---

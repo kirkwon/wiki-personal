@@ -1,6 +1,5 @@
 ---
 
-
 type: source
 title: "Source: post-corona-from-crisis-to-opportunity"
 ----scott-galloway.md"

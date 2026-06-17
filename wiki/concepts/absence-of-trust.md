@@ -11,5 +11,5 @@ tags:
 sources:
 - the-five-dysfunctions-of-a-team
 - Absence of Trust
-----patrick-lencioni.md"]
 related: [the-five-dysfunctions-of-a-team, fear-of-conflict, building-a-cohesive-team, trust-fundamentals]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - multipliers
 - Multiplier Mindset
-----greg-mckeown.md"]
 related: [multipliers---greg-mckeown, the-five-dysfunctions-of-a-team---patrick-lencioni, communication-skills, embracing-failure-for-personal-growth]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - the-wisdom-of-crowds
 - Diversity in Decision-Making
-----james-surowiecki.md"]
 related: [wisdom-of-crowds, group-decision-polarization, decision-making-frameworks, building-a-decision-culture]
+---

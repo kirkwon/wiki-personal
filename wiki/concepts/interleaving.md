@@ -11,5 +11,5 @@ tags:
 sources:
 - make-it-stick
 - Interleaving
-----peter-c-brown-et-al.md"]
 related: [desirable-difficulties, spaced-repetition, retrieval-practice]
+---

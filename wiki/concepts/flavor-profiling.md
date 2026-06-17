@@ -11,5 +11,5 @@ tags:
 sources:
 - the-4-hour-chef
 - Flavor Profiling
-----timothy-ferriss.md"]
 related: [flavor-theory, ingredient-pairings, intuitive-cooking, spice-and-flavor-pairing-fundamentals]
+---

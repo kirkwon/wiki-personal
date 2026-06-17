@@ -12,5 +12,5 @@ tags:
 sources:
 - the-infinite-game
 - Infinite Game Mindset
-----simon-sinek.md"]
 related: [zero-sum-vs-infinite-game, strategic-vs-reactive-thinking, working-backwards-in-problem-solving, embracing-failure-for-personal-growth, building-a-decision-culture, principles---ray-dalio]
+---

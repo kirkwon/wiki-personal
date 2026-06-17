@@ -11,5 +11,5 @@ tags:
 sources:
 - fooled
 - Overcoming Randomness
-----randomness-by-nassim-nicholas-taleb.md"]
 related: [fooled-by-randomness-concepts, decision-making-under-uncertainty, antifragility, real-options-analysis]
+---

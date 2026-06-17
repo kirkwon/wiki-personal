@@ -11,5 +11,5 @@ tags:
 sources:
 - the-subtle-art-of-not-giving-a-fck
 - Failure as Necessary
-----mark-manson.md"]
 related: [embracing-failure-for-personal-growth, the-f_ck-it-principle, grit-concept]
+---

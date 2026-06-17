@@ -11,5 +11,5 @@ tags:
 sources:
 - how-to-deke
 - Emotion and Intuition in Decisions
-----annie-duke.md", "how-to-decide---annie-duke.md"]
 related: [how-to-decide---annie-duke, dual-process-theory, recognition-primed-decision-model, cognitive-biases-library]
+---

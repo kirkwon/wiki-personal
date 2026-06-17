@@ -11,5 +11,5 @@ tags:
 sources:
 - predictably-irrational
 - Procrastination as Predictable Irrationality
-----dan-ariely.md"]
 related: [predictably-irrational---dan-ariely, decision-tracking, commitment-devices, decision-quality-vs-outcome-quality]
+---

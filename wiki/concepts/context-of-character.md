@@ -12,5 +12,5 @@ tags:
 sources:
 - predictably-irrational
 - Context of Character
-----dan-ariely.md"]
 related: [predictably-irrational---dan-ariely, growth-mindset, ethical-design-manipulation-question, radical-transparency]
+---

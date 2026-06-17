@@ -11,5 +11,5 @@ tags:
 sources:
 - the-checklist-manifesto
 - Building Checklists Guide
-----atul-gawande.md"]
 related: [checklists-as-cognitive-aids, the-checklist-manifesto---atul-gawande, systematic-decision-making]
+---

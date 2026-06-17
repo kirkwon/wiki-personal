@@ -12,5 +12,5 @@ tags:
 sources:
 - how-to-take-smart-notes
 - Aktiivinen kertaaminen
-----snke-ahrens.md"]
 related: [personal-knowledge-vault, effective-listening, teaching-problem-solving]
+---

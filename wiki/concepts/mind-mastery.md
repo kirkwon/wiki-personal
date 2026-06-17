@@ -11,5 +11,5 @@ tags:
 sources:
 - tools-of-titans
 - Mind Mastery
-----timothy-ferriss.md"]
 related: [tools-of-titans---timothy-ferriss, emotions-and-ai, science-of-joy, dual-process-theory, flow-state]
+---

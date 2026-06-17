@@ -11,5 +11,5 @@ tags:
 sources:
 - the-beginning-of-infinity
 - A Physicist's History of Bad Philosophy
-----david-deutsch.md"]
 related: [the-beginning-of-infinity---david-deutsch, critical-rationalism, the-problem-of-induction-revisited, bayesian-thinking]
+---

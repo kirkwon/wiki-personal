@@ -11,5 +11,5 @@ tags:
 sources:
 - the-five-dysfunctions-of-a-team
 - Fear of Conflict
-----patrick-lencioni.md"]
 related: [absence-of-trust, lack-of-commitment, the-five-dysfunctions-of-a-team, building-a-cohesive-team]
+---

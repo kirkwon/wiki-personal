@@ -11,5 +11,5 @@ tags:
 sources:
 - the-beginning-of-infinity
 - The Optimist's Metaphor
-----david-deutsch.md"]
 related: [the-beginning-of-infinity---david-deutsch, reach-of-explanations, conjecture-and-criticism, embracing-failure-for-personal-growth, growth-mindset]
+---

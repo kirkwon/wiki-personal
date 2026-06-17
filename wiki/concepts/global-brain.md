@@ -11,5 +11,5 @@ tags:
 sources:
 - out-of-control
 - Global Brain
-----kevin-kelly.md"]
 related: [kevin-kelly, self-organization-and-emergence, artificial-life-alife, scenario-planning, emotions-and-ai]
+---

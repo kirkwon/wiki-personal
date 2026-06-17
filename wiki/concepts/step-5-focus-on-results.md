@@ -11,5 +11,5 @@ tags:
 sources:
 - the-five-dysfunctions-of-a-team
 - 'Step 5: Focus on Results'
-----patrick-lencioni.md"]
 related: [inattention-to-results, building-a-cohesive-team, the-five-dysfunctions-of-a-team]
+---

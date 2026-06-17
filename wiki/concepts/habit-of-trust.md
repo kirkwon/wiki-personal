@@ -11,5 +11,5 @@ tags:
 sources:
 - the-power-of-habit
 - Habit of Trust
-----charles-duhigg.md"]
 related: [habit-loop, keystone-habits, building-a-cohesive-team, the-five-dysfunctions-of-a-team---patrick-lencioni, trust-fundamentals]
+---

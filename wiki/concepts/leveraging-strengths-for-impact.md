@@ -11,5 +11,5 @@ tags:
 sources:
 - multipliers
 - Leveraging Strengths for Impact
-----greg-mckeown.md"]
 related: [multipliers---greg-mckeown, leveraging-strengths-for-impact, personal-branding-and-wellbeing]
+---

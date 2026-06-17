@@ -11,5 +11,5 @@ tags:
 sources:
 - make-it-stick
 - The Feynman Technique
-----peter-c-brown-et-al.md"]
 related: [elaborative-interrogation, desirable-difficulties, retrieval-practice]
+---

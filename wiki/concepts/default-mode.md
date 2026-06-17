@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - Default Mode
-----jake-knapp-john-zeratsky.md"]
 related: [the-busy-trap, internal-triggers, fizzgogg-behavior-model, dual-process-theory]
+---

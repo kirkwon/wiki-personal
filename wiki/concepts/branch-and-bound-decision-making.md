@@ -12,5 +12,5 @@ tags:
 sources:
 - algorithms-to-live-by
 - Branch and Bound (Decision-Making)
-----brian-christian-tom-griffiths.md"]
 related: [minimax-algorithm, search-space-optimization, decision-quality-vs-outcome-quality, heuristics-and-instincts]
+---

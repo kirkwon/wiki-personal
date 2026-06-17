@@ -11,5 +11,5 @@ tags:
 sources:
 - how-to-decide
 - Building a Decision Culture
-----annie-duke.md"]
 related: [how-to-decide---annie-duke, strategic-vs-reactive-thinking, decision-quality-vs-outcome-quality]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - ego-is-the-enemy
 - The Egotistical Leader
-----ryan-holiday.md"]
 related: [ego-is-the-enemy, the-five-dysfunctions-of-a-team, building-a-cohesive-team, absence-of-trust, radical-transparency]
+---

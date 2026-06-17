@@ -11,5 +11,5 @@ tags:
 sources:
 - digital-minimalism
 - Purposeful Social Media Use
-----cal-newport.md"]
 related: [digital-minimalism, purposeful-use-principle, hooked---nir-eyal]
+---

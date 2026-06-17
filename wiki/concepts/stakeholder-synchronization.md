@@ -11,5 +11,5 @@ tags:
 sources:
 - indistractable
 - Stakeholder Synchronization
-----nir-eyal.md"]
 related: [indistractable---nir-eyal, traction-vs-distraction, communication-skills]
+---

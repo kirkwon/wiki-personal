@@ -11,5 +11,5 @@ tags:
 sources:
 - the-most-human-human
 - Anatman-Konzeption
-----brian-christian-tom-griffiths.md"]
 related: [the-most-human-human, limits-of-computation, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens]
+---

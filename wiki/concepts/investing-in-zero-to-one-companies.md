@@ -11,5 +11,5 @@ tags:
 sources:
 - zero-to-one
 - Investing in Zero-to-One Companies
-----peter-thiel-blake-masters.md"]
 related: [zero-to-one-thinking, decision-quality-vs-outcome-quality, decision-making-frameworks]
+---

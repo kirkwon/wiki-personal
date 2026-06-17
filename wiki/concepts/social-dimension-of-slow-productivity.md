@@ -11,5 +11,5 @@ tags:
 sources:
 - slow-productivity
 - The Social Dimension of Slow Productivity
-----cal-newport.md"]
 related: [slow-productivity, the-power-of-saying-no, embracing-solitude-for-creativity, building-a-cohesive-team, absence-of-trust]
+---

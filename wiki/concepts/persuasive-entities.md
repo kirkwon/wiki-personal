@@ -11,5 +11,5 @@ tags:
 sources:
 - nudge
 - Persuasive Entities
-----richard-h-thaler-cass-r-sunstein.md"]
 related: [nudge-theory, ethical-design-manipulation-question, choice-architecture]
+---

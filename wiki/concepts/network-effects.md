@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Network Effects
-----gabriel-weinberg.md"]
 related: [mental-models, competitive-advantage, factor-investing, quant-strategy]
+---

@@ -11,6 +11,6 @@ sources:
 - Policymakers.md
 - principles
 - Policymakers
-----ray-dalio.md"]
 related: [ray-dalio, how-the-economic-machine-works---ray-dalio, decision-making-frameworks, mental-models]
 confidence: medium
+---

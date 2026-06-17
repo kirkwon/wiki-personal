@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - First-Order Thinking
-----gabriel-weinberg.md"]
 related: [second-order-thinking, two-views-of-decision-kahneman-vs-klein, mental-models]
+---

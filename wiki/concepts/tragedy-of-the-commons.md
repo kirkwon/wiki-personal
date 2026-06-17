@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Tragedy of the Commons
-----gabriel-weinberg.md"]
 related: [mental-models, game-theory, feedback-loops, systems-are-dynamic]
+---

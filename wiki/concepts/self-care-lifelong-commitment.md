@@ -11,5 +11,5 @@ tags:
 sources:
 - everything-is-fcked-a-book-about-hope
 - Self-Care as Lifelong Commitment
-----mark-manson.md"]
 related: [personal-branding-and-wellbeing, balancing-ambition-with-well-being, science-of-joy]
+---

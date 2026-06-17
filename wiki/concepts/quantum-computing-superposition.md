@@ -11,5 +11,5 @@ tags:
 sources:
 - the-most-human-human
 - Quantum Computing and Superposition
-----brian-christian-tom-griffiths.md"]
 related: [limits-of-computation, decision-making-under-uncertainty, monte-carlo-simulations]
+---

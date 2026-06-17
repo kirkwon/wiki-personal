@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - In-Group Bias
-----gabriel-weinberg.md"]
 related: [cognitive-biases-library, social-proof, mental-models]
+---

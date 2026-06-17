@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Endowment Effect
-----daniel-kahneman.md"]
 related: [prospect-theory, loss-aversion, ascription-bias, cognitive-biases-library]
+---

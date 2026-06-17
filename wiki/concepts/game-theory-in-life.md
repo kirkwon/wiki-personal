@@ -12,5 +12,5 @@ tags:
 sources:
 - algorithms-to-live-by
 - Game Theory in Life
-----brian-christian-tom-griffiths.md"]
 related: [decision-making-frameworks, minimax-algorithm, nash-equilibria, zero-sum-situations, cooperation-vs-conflict]
+---

@@ -10,5 +10,5 @@ tags:
 sources:
 - the-fifth-discipline-fieldbook
 - The Three Pillars of Learning
-----peter-m-senge.md"]
 related: [personal-mastery-senge, mental-models-senge, building-shared-vision, the-five-disciplines-framework]
+---

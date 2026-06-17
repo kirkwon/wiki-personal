@@ -49,6 +49,192 @@
         "wiki/log.md",
         "wiki/overview.md"
       ]
+    },
+    "research-add-cross-references-to-comparisonscompan-2026-06-12-070139.md": {
+      "hash": "86ef0e71d81c6545c2188bf6f417abba6b057af53bc105e282da8eab2cbe4165",
+      "timestamp": 1781247965495,
+      "filesWritten": [
+        "wiki/sources/research-add-cross-references-to-comparisonscompan-2026-06-12-070139.md",
+        "wiki/concepts/company-structure-chart.md",
+        "wiki/concepts/competitive-intelligence.md",
+        "wiki/concepts/strategic-analysis.md",
+        "wiki/concepts/positioning-statement.md",
+        "wiki/concepts/pestel-analysis.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "research-add-cross-references-to-conceptsalgorithm-2026-06-12-070336.md": {
+      "hash": "f6189d8bcae05f0e086d5057ab37e8b2c94c6ad962d7a36fd8b6e5609a0c5750",
+      "timestamp": 1781248267908,
+      "filesWritten": [
+        "wiki/sources/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070336.md",
+        "wiki/concepts/cognitive-mental-models.md",
+        "wiki/concepts/feedback-loops.md",
+        "wiki/entities/the-habit-loop.md",
+        "wiki/entities/the-six-thinking-hats.md",
+        "wiki/entities/the-ooda-loop.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md": {
+      "hash": "a0f009f21d3410c50f61b0a07835da383b52642347ae20cfc9c90d8e0e3339f1",
+      "timestamp": 1781248548145,
+      "filesWritten": [
+        "wiki/sources/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md",
+        "wiki/concepts/algorithms-for-wellbeing.md",
+        "wiki/concepts/responsible-research-and-innovation.md",
+        "wiki/concepts/human-centered-design.md",
+        "wiki/concepts/consciousness.md",
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/log.md"
+      ]
+    },
+    "research-add-cross-references-to-conceptsalgorithm-2026-06-12-070437.md": {
+      "hash": "0d3b828e6070d5cc40c2e706166767686a8b9521576d356aa1f5d2a816def20e",
+      "timestamp": 1781248809972,
+      "filesWritten": [
+        "wiki/sources/research-add-cross-references-to-conceptsalgorithm-2026-06-12-070437.md",
+        "wiki/concepts/problema-difícil-de-la-conciencia.md",
+        "wiki/concepts/naturaleza-algorítmica-de-la-intuición.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/visión-general.md",
+        "wiki/overview.md"
+      ]
+    },
+    "research-implementing-pkm-system-2026-06-12-070528.md": {
+      "hash": "7d39462f84a33c41573ae7ccf47668b9f7aa0fe68aaa3b00ae8d60c909f13f52",
+      "timestamp": 1781249008374,
+      "filesWritten": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/log.md",
+        "wiki/sources/research-implementing-pkm-system-2026-06-12-070528.md"
+      ]
+    },
+    "research-add-cross-references-to-conceptsai-as-dec-2026-06-12-072520.md": {
+      "hash": "d5542048d0358b88cd285f484a556c47361cc22ae1bb6225b7e310faff4f0ff7",
+      "timestamp": 1781249320419,
+      "filesWritten": [
+        "wiki/sources/research-add-cross-references-to-conceptsai-as-dec-2026-06-12-072520.md",
+        "wiki/concepts/ai-assisted-decision-making.md",
+        "wiki/concepts/human-ai-collaboration.md",
+        "wiki/concepts/evaluation-and-validation.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "research-mental-models-integration-2026-06-13-065310.md": {
+      "hash": "b51e2e3b867537181e7ee7dbc2c84798c576516e59a56333ecd18795d14cfa99",
+      "timestamp": 1781333841395,
+      "filesWritten": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/log.md",
+        "wiki/sources/research-mental-models-integration-2026-06-13-065310.md"
+      ]
+    },
+    "research-human-centered-design-2026-06-13-065339.md": {
+      "hash": "2d7ebbeb562418e5a55cf679d940a43d6ecb9868566993123925295e3e4b6d1a",
+      "timestamp": 1781333994631,
+      "filesWritten": [
+        "wiki/sources/research-human-centered-design-2026-06-13-065339.md",
+        "wiki/concepts/human-centered-artificial-intelligence.md",
+        "wiki/concepts/trustworthy-ai.md",
+        "wiki/concepts/human-ai-collaboration.md",
+        "wiki/concepts/design-thinking.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "research-validation-of-mental-models-2026-06-13-065345.md": {
+      "hash": "64fb37209e6114c26acf2520e1691efec42aa2476d60e588921b74e180d98523",
+      "timestamp": 1781334329115,
+      "filesWritten": [
+        "wiki/sources/research-validation-of-mental-models-2026-06-13-065345.md",
+        "wiki/concepts/mental-models.md",
+        "wiki/concepts/validation-of-mental-models.md",
+        "wiki/concepts/peer-review.md",
+        "wiki/concepts/incremental-validation.md",
+        "wiki/concepts/social-validation.md",
+        "wiki/concepts/design-experiments.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "research-integrating-technology-into-company-struc-2026-06-13-065406.md": {
+      "hash": "45402c44253b45d45312f208e830e0d8d1182df8752a4aef073d7c732b7b1658",
+      "timestamp": 1781334592154,
+      "filesWritten": [
+        "wiki/sources/research-integrating-technology-into-company-struc-2026-06-13-065406.md",
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/log.md"
+      ]
+    },
+    "research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md": {
+      "hash": "6c176a8dc14ea9cf9434b1fc541aa687b935ba0f5802c0f9aea494a04e79223e",
+      "timestamp": 1781335041578,
+      "filesWritten": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/log.md",
+        "wiki/sources/research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md"
+      ]
+    },
+    "headroom-integration.md": {
+      "hash": "d99b5b1f224b7285ea2d44d71d706e0afb3759a606efa904c5657aed9aa8826e",
+      "timestamp": 1781335429074,
+      "filesWritten": [
+        "wiki/sources/headroom-integration.md"
+      ]
+    },
+    "loop-engineering-plan.md": {
+      "hash": "5eef529730881985de4421f31cc71f21f07b340a598b6344d4cba8b8d76fc0ab",
+      "timestamp": 1781335562511,
+      "filesWritten": [
+        "wiki/sources/loop-engineering-plan.md",
+        "wiki/concepts/critic-separation.md",
+        "wiki/concepts/triage-inbox.md",
+        "wiki/concepts/skill-auto-patch.md",
+        "wiki/concepts/goal-primitive.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    "loop-engineering.md": {
+      "hash": "cbfb3149aefa2d8bfe1f26c4171bee383d2ef9d0ba3e9ffa6c8e4be6aa919bb1",
+      "timestamp": 1781335855618,
+      "filesWritten": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/log.md",
+        "wiki/sources/loop-engineering.md"
+      ]
+    },
+    "memory-tiering.md": {
+      "hash": "02b2cdbdf2e00b3a754ac1255545692ce253fb0fc327a5a44103ed59085d961e",
+      "timestamp": 1781336171206,
+      "filesWritten": [
+        "wiki/sources/memory-tiering.md",
+        "wiki/concepts/memory-tiering.md",
+        "wiki/concepts/information-architecture.md",
+        "wiki/concepts/knowledge-management.md",
+        "wiki/entities/hermes-skill.md",
+        "wiki/entities/gbrain.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
     }
   }
 }

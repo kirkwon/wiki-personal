@@ -1,0 +1,9 @@
+---
+type: paper
+title: Dropout Srivastava
+ingested_via: put_page
+ingested_at: '2026-06-13T16:24:33.822Z'
+source_kind: put_page
+---
+
+

@@ -11,5 +11,5 @@ tags:
 sources:
 - tools-of-titans
 - Mentors and Masterminds
-----timothy-ferriss.md"]
 related: [tools-of-titans---timothy-ferriss, building-a-cohesive-team, the-five-dysfunctions-of-a-team, communication-skills]
+---

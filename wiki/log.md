@@ -1677,3 +1677,111 @@ The wiki cleanup (April-May 2026) primarily involved:
 
 ### Conclusion
 All code referencing wiki contents continues to function correctly. No updates required to scripts or configurations.
+
+## 2026-06-12
+- Ingested research-add-cross-references-to-comparisonscompan-2026-06-12-070139.md
+
+## 2026-06-12
+- Ingested source: research-add-cross-references-to-conceptsalgorithm-2026-06-12-070336.md
+- Created pages for Cognitive Mental Models, Feedback Loops, The Habit Loop, The Six Thinking Hats, and The OODA Loop.
+- Updated wiki/index.md and wiki/overview.md to reflect new content.
+
+---
+type: log
+title: Wiki Log
+created: 2026-06-10
+updated: 2026-06-12
+tags: [meta]
+---
+## Wiki Log
+## 2026-06-12
+- Ingested source: research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md
+- Created pages: algorithms-for-wellbeing, responsible-research-and-innovation, human-centered-design, consciousness
+- Updated pages: index, overview
+
+---
+type: note
+title: Registro de la Wiki
+created: 2026-06-10
+updated: 2026-06-12
+tags: [meta]
+---
+# Registro de la Wiki
+## 2026-06-12
+- Se agregó la página [[concepts/problema-difícil-de-la-conciencia]].
+- Se agregó la página [[concepts/naturaleza-algorítmica-de-la-intuición]].
+- Se actualizó la página [[index]] para reflejar los cambios.
+---
+
+## 2026-06-12
+Ingested research-implementing-pkm-system-2026-06-12-070528.md, creating new pages for Personal Knowledge Management, PKM Frameworks, PKM Tools, Obsidian, and Notion.
+
+---
+type: log
+title: Wiki Log
+created: 2026-06-12
+updated: 2026-06-12
+tags: [meta]
+---
+## 2026-06-12
+* Dodano nowe strony: AI-assisted decision making, Współpraca człowiek-AI, Ocena i walidacja
+* Zaktualizowano stronę główną wiki
+|
+## 2026-06-12
+* Created [[concepts/headroom-integration]] - Headroom context compression documentation
+* Installed v0.25.0 via uv, proxy + MCP, linked in index.md
+* Created [[concepts/memory-tiering]] - Memory Tiering System documentation
+* Applied tiering: hot memory reduced 2,046 -> 293 chars (74% savings)
+* Created ~/.hermes/MEMORY.md as warm tier
+- 2026-06-13: Created query page `naturaleza-algorítmica-de-la-intuición-2026-06-13-065216.md` from review
+- 2026-06-13: Created query page `problema-difícil-de-la-conciencia-2026-06-13-065218.md` from review
+
+
+## 2026-06-12 ingest | Research: Mental Models Integration
+
+---
+type: log
+title: Wiki Log
+created: 2026-06-09
+updated: 2026-06-12
+tags: [log]
+---
+## Log
+## 2026-06-12
+- Ingested source: research-human-centered-design-2026-06-13-065339.md
+- Created pages for Human Centered Artificial Intelligence, Trustworthy AI, Human AI Collaboration, and Design Thinking
+
+---
+type: log
+title: Wiki Log
+created: 2026-06-09
+updated: 2026-06-13
+tags: [log]
+---
+## [2026-06-13] ingest | Research Validation of Mental Models
+Added new pages for mental models, validation of mental models, peer review, incremental validation, social validation, and design experiments.
+---
+
+## 2026-06-13 | ingest | Research Integrating Technology into Company Structure
+
+## 2026-06-13
+* Ingested source: research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md
+* Created pages: 70-20-10-budget-rule, 80-20-budget-rule
+* Updated pages: index, overview
+
+---
+type: log
+title: Wiki Log
+created: 2026-05-14
+updated: 2026-06-13
+tags: []
+---
+## Log Entries
+## [2026-06-13] Ingest Loop Engineering Plan
+Ingested the Loop Engineering Plan source document, creating new pages for critic separation, triage inbox, skill auto-patch, and /goal primitive, and updating the wiki index.
+---
+
+## [2026-06-13] ingest | Loop Engineering
+
+## 2026-06-13
+ingest | Memory Tiering

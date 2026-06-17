@@ -11,5 +11,5 @@ tags:
 sources:
 - out-of-control
 - Artificial Life (ALife)
-----kevin-kelly.md"]
 related: [kevin-kelly, self-organization-and-emergence, swarm-intelligence, global-brain, agent-based-modeling]
+---

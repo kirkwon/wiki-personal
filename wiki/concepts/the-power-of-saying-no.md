@@ -11,5 +11,5 @@ tags:
 sources:
 - slow-productivity
 - The Power of Saying No
-----cal-newport.md"]
 related: [slow-productivity, social-dimension-of-slow-productivity, crafting-a-slow-workflow, absence-of-trust, building-a-cohesive-team]
+---

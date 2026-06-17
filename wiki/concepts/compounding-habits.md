@@ -12,5 +12,5 @@ tags:
 sources:
 - atomic-habits
 - Compounding Habits
-----james-clear.md"]
 related: [atomic-habits---james-clear, investment-strategies-for-life-satisfaction, growth-mindset, habit-loop-individual]
+---

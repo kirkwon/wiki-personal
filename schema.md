@@ -73,7 +73,7 @@ Define top-level tags for the domain. Add new tags here BEFORE using them.
 - local, sf, bay-area, neighborhoods, restaurants, coffee-shops, real-estate-market
 
 ### Meta & Organizational
-- comparison, timeline, controversy, prediction, tutorial, review, checklist, template, portal, summary
+- comparison, timeline, controversy, prediction, tutorial, review, checklist, template, portal, summary, meta, methodology, improvement, agent-systems
 
 Rule: every tag on a page must appear in this taxonomy. If a new tag is needed, add it here first, then use it. This prevents tag sprawl.
 

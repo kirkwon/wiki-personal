@@ -12,5 +12,5 @@ tags:
 sources:
 - lateral-thinking-creativity-step-by-step
 - Lateral Movements in Thinking
-----edward-de-bono.md", "lateral-thinking-creativity-step---step-by-edward-de-bono.md"]
 related: ["lateral-thinking", "six-thinking-hats", "problem-solving", "breaking-barriers-to-thinking", "lateral-thinking---edward-de-bono", "problem-finding-vs-problem-solving", "analogical-reasoning-in-problem-solving", "brainstorming-techniques", "polya-four-steps"]
+---

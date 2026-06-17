@@ -11,5 +11,5 @@ tags:
 sources:
 - zero-to-one
 - Differentiation Strategy
-----peter-thiel-blake-masters.md"]
 related: [zero-to-one-thinking, first-mover-advantage, platform-dominance]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Scenario Planning
-----annie-duke.md"]
 related: [decision-making-under-uncertainty, real-options-analysis, thinking-in-bets]
+---

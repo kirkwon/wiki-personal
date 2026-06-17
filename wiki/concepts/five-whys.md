@@ -11,5 +11,5 @@ tags:
 sources:
 - the-fifth-discipline
 - Five Whys
-----peter-m-senge.md"]
 related: [systems-thinking, learning-organization, patterns-that-program-the-future, the-fifth-discipline---peter-m-senge]
+---

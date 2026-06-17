@@ -11,5 +11,5 @@ tags:
 sources:
 - fooled-by-randomness
 - Leverage and Risk
-----nassim-nicholas-taleb.md"]
 related: [bet-sizing, kelly-criterion, skin-in-the-game, black-swan-events, fooled-by-randomness---nassim-nicholas-taleb]
+---

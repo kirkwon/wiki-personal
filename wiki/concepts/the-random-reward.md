@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - The Random Reward
-----jake-knapp-john-zeratsky.md"]
 related: [variable-reward-design, hook-model, internal-triggers]
+---

@@ -12,5 +12,5 @@ tags:
 sources:
 - the-power-of-habit
 - Habit of Listening
-----charles-duhigg.md"]
 related: [habit-of-trust, habit-of-empathy, building-a-cohesive-team, effective-listening]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - the-most-human-human
 - Emotions and AI
-----brian-christian-tom-griffiths.md"]
 related: [emotion-and-intuition-in-decisions, dual-process-theory, the-most-human-human]
+---

@@ -12,5 +12,6 @@ sources:
 - Algorithms.md
 - algorithms-to-live-by
 - Algorithms as Mental Model
-----brian-christian-tom-griffiths"]
 confidence: medium
+
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - zero-to-one
 - First Mover Advantage
-----peter-thiel-blake-masters.md"]
 related: [zero-to-one-thinking, platform-dominance, strategic-vs-reactive-thinking, zero-sum-vs-infinite-game]
+---

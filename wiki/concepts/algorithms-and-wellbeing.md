@@ -12,5 +12,5 @@ tags:
 sources:
 - algorithms-to-live-by
 - Algorithms and Wellbeing
-----brian-christian-tom-griffiths.md"]
 related: [science-of-joy, balancing-ambition-with-well-being, decision-quality-vs-outcome-quality]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Margin of Safety
-----gabriel-weinberg.md"]
 related: [mental-models, real-estate-investment, retirement-planning, bayesian-thinking]
+---

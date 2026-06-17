@@ -12,5 +12,5 @@ tags:
 sources:
 - the-infinite-game
 - Zero-Sum vs. Infinite Game
-----simon-sinek.md"]
 related: [infinite-game-mindset, strategic-vs-reactive-thinking, platform-dominance, the-four---scott-galloway]
+---

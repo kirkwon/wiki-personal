@@ -11,5 +11,5 @@ tags:
 sources:
 - experiment-and-exploration-forms-of-world-disclosure
 - Monitieteinen yhteistyö maailman paljastamisessa
-----snke-ahrens.md"]
 related: [experiment-and-exploration-forms-of-world-disclosure, world-disclosure]
+---

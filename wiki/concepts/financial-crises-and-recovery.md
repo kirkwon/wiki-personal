@@ -11,5 +11,5 @@ tags:
 sources:
 - how-the-economic-machine-works
 - Financial Crises and Recovery
-----ray-dalio.md"]
 related: [monetary-policy, economic-cycles, skin-in-the-game, scenario-planning]
+---

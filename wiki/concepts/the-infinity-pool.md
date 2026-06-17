@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - The Infinity Pool
-----jake-knapp-john-zeratsky.md"]
 related: [hook-model, variable-reward-design, internal-triggers, external-triggers]
+---

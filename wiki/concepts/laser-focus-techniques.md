@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - Laser Focus Techniques
-----jake-knapp-john-zeratsky.md"]
 related: [the-distraction-box, the-infinity-pool, external-triggers, fizzgogg-behavior-model]
+---

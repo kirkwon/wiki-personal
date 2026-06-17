@@ -11,5 +11,5 @@ tags:
 sources:
 - out-of-control
 - Swarm Intelligence
-----kevin-kelly.md"]
 related: [self-organization-and-emergence, kevin-kelly, the-nine-laws-of-god, agent-based-modeling, artificial-life-alife]
+---

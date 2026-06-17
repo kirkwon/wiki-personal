@@ -11,5 +11,5 @@ tags:
 sources:
 - the-beginning-of-infinity
 - Criteria for Reality
-----david-deutsch.md"]
 related: [the-beginning-of-infinity---david-deutsch, the-puzzle-of-reality, the-multiverse-many-worlds]
+---

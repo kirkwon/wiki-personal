@@ -11,5 +11,5 @@ tags:
 sources:
 - range
 - Outsider Advantage
-----david-epstein.md"]
 related: [analogical-thinking-across-domains, lateral-thinking, sampling-periods, decision-making-under-uncertainty]
+---

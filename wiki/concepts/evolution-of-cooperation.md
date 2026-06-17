@@ -11,5 +11,5 @@ tags:
 sources:
 - out-of-control
 - Evolution of Cooperation
-----kevin-kelly.md"]
 related: [kevin-kelly, self-organization-and-emergence, strategic-bluffing, skin-in-the-game, decision-making-frameworks]
+---

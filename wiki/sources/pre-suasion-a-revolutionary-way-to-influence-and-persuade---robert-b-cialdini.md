@@ -1,6 +1,5 @@
 ---
 
-
 type: source
 title: "Source: pre-suasion-a-revolutionary-way-to-influence-and-persuade"
 ----robert-b-cialdini.md"

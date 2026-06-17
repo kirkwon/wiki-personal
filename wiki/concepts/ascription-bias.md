@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Ascription Bias
-----daniel-kahneman.md"]
 related: [cognitive-biases-library, dual-process-theory, endowment-effect]
+---

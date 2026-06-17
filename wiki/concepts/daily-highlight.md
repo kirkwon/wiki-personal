@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - Daily Highlight
-----jake-knapp-john-zeratsky.md"]
 related: [make-time-daily-highlight, time-management-matrix, quadrant-2-focus, decision-tracking]
+---

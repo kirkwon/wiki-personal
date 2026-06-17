@@ -11,5 +11,5 @@ tags:
 sources:
 - range
 - Lateral Thinking with Withered Technology
-----david-epstein.md"]
 related: [analogical-thinking-across-domains, outsider-advantage, invention-and-innovation]
+---

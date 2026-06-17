@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - First Principles
-----gabriel-weinberg.md"]
 related: [mental-models, inversion, lateral-thinking, personal-knowledge-vault]
+---

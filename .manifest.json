@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "created": "2026-06-14",
+  "hermes": {
+    "source_path": "~/.hermes/",
+    "last_ingested": "2026-06-15T00:00:00Z",
+    "memories_ingested": 2,
+    "sessions_ingested": 53,
+    "pages_created": 4,
+    "pages_updated": 0
+  },
+  "sources": {
+    "~/.hermes/memories/MEMORY.md": {
+      "ingested_at": "2026-06-15T00:00:00Z",
+      "size_bytes": 2013,
+      "modified_at": "2026-06-14T21:44:00Z",
+      "source_type": "hermes_memory",
+      "pages_updated": []
+    },
+    "~/.hermes/memories/USER.md": {
+      "ingested_at": "2026-06-15T00:00:00Z",
+      "size_bytes": 830,
+      "modified_at": "2026-06-14T17:14:00Z",
+      "source_type": "hermes_memory",
+      "pages_updated": []
+    },
+    "~/.hermes/sessions/": {
+      "ingested_at": "2026-06-15T00:00:00Z",
+      "source_type": "hermes_session",
+      "session_count": 53,
+      "pages_created": [
+        "concepts/loop-engineering.md",
+        "concepts/self-harness-paradigm.md",
+        "concepts/causal-ai-pipeline.md",
+        "wiki/entities/hermes-agent.md"
+      ],
+      "pages_updated": []
+    }
+  },
+  "projects": {},
+  "stats": {}
+}

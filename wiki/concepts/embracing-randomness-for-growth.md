@@ -11,5 +11,5 @@ tags:
 sources:
 - antifragile
 - Embracing Randomness for Growth
-----nassim-nicholas-taleb.md"]
 related: [antifragility, black-swan-events, embracing-failure-for-personal-growth, monte-carlo-simulations]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - The Response Expectation
-----jake-knapp-john-zeratsky.md"]
 related: [radical-transparency, time-management-matrix, the-busy-trap]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - atomic-habits
 - Delayed Gratification
-----james-clear.md"]
 related: [atomic-habits---james-clear, quadrant-2-focus, habit-loop-individual]
+---

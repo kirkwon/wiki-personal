@@ -11,5 +11,5 @@ tags:
 sources:
 - experiment-and-exploration-forms-of-world-disclosure
 - Tieteellinen menetelmä paljastuksen työkaluna
-----snke-ahrens.md"]
 related: [world-disclosure, experiment-and-exploration-forms-of-world-disclosure]
+---

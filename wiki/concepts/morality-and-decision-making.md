@@ -11,5 +11,5 @@ tags:
 sources:
 - the-most-human-human
 - Morality and Decision Making
-----brian-christian-tom-griffiths.md"]
 related: [systematic-decision-making, thinking-in-bets, decision-quality-vs-outcome-quality]
+---

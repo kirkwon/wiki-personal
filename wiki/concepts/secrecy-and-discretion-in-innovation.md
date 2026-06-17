@@ -11,5 +11,5 @@ tags:
 sources:
 - zero-to-one
 - Secrecy and Discretion in Innovation
-----peter-thiel-blake-masters.md"]
 related: [zero-to-one-thinking, radical-transparency, strategic-vs-reactive-thinking]
+---

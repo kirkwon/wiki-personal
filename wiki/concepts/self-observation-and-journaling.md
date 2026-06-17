@@ -12,5 +12,5 @@ tags:
 sources:
 - the-daily-stoic
 - Self-Observation and Journaling
-----ryan-holiday.md"]
 related: [stoicism, ryan-holiday, active-revision-techniques, categorizing-information, science-of-joy, embracing-failure-for-personal-growth]
+---

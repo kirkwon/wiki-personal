@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Overconfidence and Certainty
-----daniel-kahneman.md"]
 related: [cognitive-biases-library, decision-quality-vs-outcome-quality, dual-process-theory, ascription-bias]
+---

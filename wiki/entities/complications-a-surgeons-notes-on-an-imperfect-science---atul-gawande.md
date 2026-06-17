@@ -1,6 +1,5 @@
 ---
 
-
 type: entity
 title: "Complications: A Surgeon's Notes on an Imperfect Science"
 created: 2026-04-29

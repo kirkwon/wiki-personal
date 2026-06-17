@@ -11,5 +11,5 @@ tags:
 sources:
 - predictably-irrational
 - Price as Placebo
-----dan-ariely.md"]
 related: [predictably-irrational---dan-ariely, framing-effects-in-decision-making, ethical-design-manipulation-question]
+---

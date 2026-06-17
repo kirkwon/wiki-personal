@@ -11,5 +11,5 @@ tags:
 sources:
 - the-five-dysfunctions-of-a-team
 - 'Step 2: Master Conflict'
-----patrick-lencioni.md"]
 related: [fear-of-conflict, building-a-cohesive-team, the-five-dysfunctions-of-a-team]
+---

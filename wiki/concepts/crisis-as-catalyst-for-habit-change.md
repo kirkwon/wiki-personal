@@ -11,5 +11,5 @@ tags:
 sources:
 - the-power-of-habit
 - Crisis as Catalyst for Habit Change
-----charles-duhigg.md"]
 related: [scenario-planning, embracing-failure-for-personal-growth, habit-loop]
+---

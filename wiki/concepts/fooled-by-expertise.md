@@ -11,5 +11,5 @@ tags:
 sources:
 - range
 - Fooled by Expertise
-----david-epstein.md"]
 related: [overconfidence-and-certainty, two-views-of-decision-kahneman-vs-klein, prospect-theory, group-decision-polarization]
+---

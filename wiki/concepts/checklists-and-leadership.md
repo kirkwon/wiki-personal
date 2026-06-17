@@ -11,5 +11,5 @@ tags:
 sources:
 - the-checklist-manifesto
 - The Role of Leadership in Checklist Adoption
-----atul-gawande.md"]
 related: [checklists-and-change-management, building-a-cohesive-team, checklists-as-cognitive-aids]
+---

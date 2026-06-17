@@ -11,5 +11,5 @@ tags:
 sources:
 - so-good-they-cant-ignore-you
 - Feedback Loops in Skill Development
-----cal-newport.md"]
 related: [deliberate-practice, active-revision-techniques, teaching-problem-solving, skill-capital]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - range
 - Range and Breadth in Complex Domains
-----david-epstein.md"]
 related: [decision-making-under-uncertainty, specialization-and-generalization, real-options-analysis, thinking-in-bets---annie-duke, embracing-failure-for-personal-growth]
+---

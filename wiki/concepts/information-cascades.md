@@ -11,5 +11,5 @@ tags:
 sources:
 - the-wisdom-of-crowds
 - Information Cascades
-----james-surowiecki.md"]
 related: [wisdom-of-crowds, group-decision-polarization, herd-behavior, decision-making-under-uncertainty]
+---

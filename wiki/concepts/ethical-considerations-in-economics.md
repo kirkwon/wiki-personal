@@ -12,5 +12,5 @@ tags:
 sources:
 - how-the-economic-machine-works
 - Ethical Considerations in Economics
-----ray-dalio.md", "How the Economic Machine Works - Ray Dalio.md"]
 related: [morality-and-decision-making, skin-in-the-game, wealth-inequality, how-the-economic-machine-works---ray-dalio]
+---

@@ -1,0 +1,5 @@
+---\n type: summary\n title: Wiki Log\n created: 2026-06-11\n updated: 2026-06-11\n tags: [meta]\n --\n# Wiki Log\n\n- 2026-06-11: Documented Karpathy‑enhanced Self‑Harness improvement loop applied to fetch_yf.py and pull_macro_data.py. Added CLI, logging, retry, deterministic fallback, modular functions. Verification SHA256 hashes recorded.
+- 2026-06-15: Created [[entities/hermes-agent]] entity page distilling Hermes Agent identity (Bayesian Rogue), profiles, CLI delegation, skills, memory tiers, and cron infrastructure.
+- 2026-06-15: Created [[concepts/self-harness-paradigm]] distilling the Self-Harness Paradigm (WMH loop, three-layered system from methodology-loop.md, Karpathy influence). Updated schema.md tag taxonomy with agent-systems/methodology/improvement tags.
+- 2026-06-15: HERMES_HISTORY_INGEST memories=2 sessions=53 pages_created=4 pages_updated=0 mode=full
+  - Created: [[concepts/loop-engineering]], [[concepts/self-harness-paradigm]], [[concepts/causal-ai-pipeline]], [[wiki/entities/hermes-agent]]\n

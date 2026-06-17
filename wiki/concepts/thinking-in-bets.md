@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Thinking in Bets
-----annie-duke.md"]
 related: [decision-quality-vs-outcome-quality, decision-making-under-uncertainty, bayesian-thinking, prospect-theory, cognitive-biases-library]
+---

@@ -12,5 +12,5 @@ tags:
 sources:
 - the-most-human-human
 - The Most Human Human
-----brian-christian-tom-griffiths.md"]
 related: [thinking-fast-and-slow---daniel-kahneman, thinking-in-bets---annie-duke, the-puzzle-box]
+---

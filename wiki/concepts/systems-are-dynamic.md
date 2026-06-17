@@ -10,5 +10,5 @@ tags:
 sources:
 - super-thinking
 - Systems Are Dynamic
-----gabriel-weinberg.md"]
 related: [mental-models, feedback-loops, law-of-unintended-consequences, emergent-properties]
+---

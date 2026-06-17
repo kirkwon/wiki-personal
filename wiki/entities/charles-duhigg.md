@@ -48,6 +48,8 @@ sources:
 - The Power of Habit - Charles Duhigg.md
 - supercommunicators-charles-duhigg.md
 
+---
+
 # Charles Duhigg
 Charles Duhigg is an American investigative journalist and non-fiction author, known for his works exploring the science of habits, productivity, and communication. He is a Pulitzer Prize-winning reporter for *The New York Times*. His work synthesizes neuroscience, corporate case studies, organizational behavior, and communication research into accessible frameworks, explaining how habits form and how they can be changed.
 

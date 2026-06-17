@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Monte Carlo Simulations
-----annie-duke.md"]
 related: [risk-assessment-framework, bet-sizing, decision-making-under-uncertainty]
+---

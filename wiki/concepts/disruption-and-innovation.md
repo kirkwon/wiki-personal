@@ -11,5 +11,5 @@ tags:
 sources:
 - zero-to-one
 - Disruption and Innovation
-----peter-thiel-blake-masters.md"]
 related: [zero-to-one-thinking, antifragility, scenario-planning]
+---

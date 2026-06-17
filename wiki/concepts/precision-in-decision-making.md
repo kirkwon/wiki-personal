@@ -11,5 +11,5 @@ tags:
 sources:
 - tools-of-titans
 - Precision in Decision-Making
-----timothy-ferriss.md"]
 related: [tools-of-titans---timothy-ferriss, decision-making-frameworks, systematic-decision-making, decision-quality-vs-outcome-quality]
+---

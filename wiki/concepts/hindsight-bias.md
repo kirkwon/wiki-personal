@@ -12,5 +12,5 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Hindsight Bias
-----daniel-kahneman.md"]
 related: [dual-process-theory, cognitive-biases-library, prospect-theory, framing-effects-in-decision-making]
+---

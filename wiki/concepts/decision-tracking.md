@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Decision Tracking
-----annie-duke.md"]
 related: [thinking-in-bets, decision-quality-vs-outcome-quality, bayesian-thinking]
+---

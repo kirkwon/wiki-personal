@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - Energy Management for Focus
-----jake-knapp-john-zeratsky.md"]
 related: [daily-highlight, reflect-on-the-day, balancing-ambition-with-well-being]
+---

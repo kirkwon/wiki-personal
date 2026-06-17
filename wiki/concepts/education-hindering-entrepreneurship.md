@@ -11,5 +11,5 @@ tags:
 sources:
 - zero-to-one
 - Education Hindering Entrepreneurship
-----peter-thiel-blake-masters.md"]
 related: [experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, embracing-failure-for-personal-growth]
+---

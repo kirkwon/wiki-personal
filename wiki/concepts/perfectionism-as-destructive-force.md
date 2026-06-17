@@ -11,5 +11,5 @@ tags:
 sources:
 - the-subtle-art-of-not-giving-a-fck
 - Perfectionism as Destructive Force
-----mark-manson.md"]
 related: [grit-concept, growth-mindset, embracing-failure-for-personal-growth, the-f_ck-it-principle]
+---

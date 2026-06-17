@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Competitive Advantage
-----gabriel-weinberg.md"]
 related: [mental-models, factor-investing, quant-strategy, network-effects]
+---

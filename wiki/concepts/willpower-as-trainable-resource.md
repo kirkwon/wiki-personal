@@ -12,5 +12,5 @@ tags:
 sources:
 - smarter-faster-better
 - Willpower as a Trainable Resource
-----charles-duhigg.md"]
 related: [dual-process-theory, decision-making-under-uncertainty, habit-loops, habit-stacking]
+---

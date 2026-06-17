@@ -11,5 +11,5 @@ tags:
 sources:
 - tools-of-titans
 - One-Minute Productivity
-----timothy-ferriss.md"]
 related: [tools-of-titans---timothy-ferriss, polya-four-steps, time-management-matrix]
+---

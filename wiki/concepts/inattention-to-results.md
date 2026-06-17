@@ -11,5 +11,5 @@ tags:
 sources:
 - the-five-dysfunctions-of-a-team
 - Inattention to Results
-----patrick-lencioni.md"]
 related: [avoidance-of-accountability, the-five-dysfunctions-of-a-team, building-a-cohesive-team]
+---

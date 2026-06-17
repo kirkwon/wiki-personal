@@ -11,5 +11,5 @@ tags:
 sources:
 - the-checklist-manifesto
 - Checklists as Cognitive Aids
-----atul-gawande.md"]
 related: [systematic-decision-making, building-a-decision-culture, time-management-matrix, building-checklists-guide, from-aviation-to-medicine]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Opportunity Cost
-----gabriel-weinberg.md"]
 related: [mental-models, personal-finance, real-estate-investment]
+---

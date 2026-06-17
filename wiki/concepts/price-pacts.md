@@ -11,5 +11,5 @@ tags:
 sources:
 - indistractable
 - Price Pacts
-----nir-eyal.md"]
 related: [indistractable---nir-eyal, effort-pacts, identity-pacts, traction-vs-distraction]
+---

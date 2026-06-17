@@ -11,5 +11,5 @@ tags:
 sources:
 - the-beginning-of-infinity
 - The Problem of Induction Revisited
-----david-deutsch.md"]
 related: [the-beginning-of-infinity---david-deutsch, critical-rationalism, conjecture-and-criticism, bayesian-thinking]
+---

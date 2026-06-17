@@ -10,5 +10,5 @@ tags:
 sources:
 - super-thinking
 - Law of Unintended Consequences
-----gabriel-weinberg.md"]
 related: [mental-models, feedback-loops, systems-are-dynamic]
+---

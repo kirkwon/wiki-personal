@@ -11,5 +11,5 @@ tags:
 sources:
 - zero-to-one
 - Incremental Change as a Trap
-----peter-thiel-blake-masters.md"]
 related: [zero-to-one-thinking, strategic-vs-reactive-thinking, antifragility]
+---

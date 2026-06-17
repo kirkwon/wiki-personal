@@ -11,5 +11,5 @@ tags:
 sources:
 - will
 - Illusion of Control
-----mark-manson.md"]
 related: [overconfidence-and-certainty, probability-and-judgment-under-uncertainty, will---mark-manson]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - out-of-control
 - The Nine Laws of God
-----kevin-kelly.md"]
 related: [kevin-kelly, self-organization-and-emergence, swarm-intelligence, platform-dominance, agent-based-modeling]
+---

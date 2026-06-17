@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Bet Sizing
-----annie-duke.md"]
 related: [kelly-criterion, risk-assessment-framework, decision-making-under-uncertainty, martingale-strategy]
+---

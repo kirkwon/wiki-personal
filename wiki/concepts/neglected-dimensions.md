@@ -11,5 +11,5 @@ tags:
 sources:
 - antifragile
 - Neglected Dimensions
-----nassim-nicholas-taleb.md"]
 related: [antifragility, decision-making-under-uncertainty, black-swan-events]
+---

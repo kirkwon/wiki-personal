@@ -9,7 +9,6 @@ updated: '2026-05-14'
 ---
 -
 
-
 # Options Trading Guide
 
 ## Quick Reference

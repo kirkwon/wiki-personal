@@ -36,6 +36,8 @@ sources:
 - Principles---ray-dalio
 - how-the-economic-machine-works---ray-dalio
 
+---
+
 # Ray Dalio
 Ray Dalio is an investor, author, and founder of Bridgewater Associates, one of the world's largest and most influential hedge funds. He is best known for developing a systematic, principles-driven approach to decision-making, investing, and organizational management, which he detailed in his 2024 book *Principles: Life and Work*. He is also known for extending these frameworks into macro geopolitical analysis. His simplified model of how economies function, focusing on credit cycles, productivity growth, and the relationship between spending and income, is documented in [[how-the-economic-machine-works---ray-dalio]].
 

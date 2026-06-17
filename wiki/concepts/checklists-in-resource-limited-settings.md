@@ -11,5 +11,5 @@ tags:
 sources:
 - the-checklist-manifesto
 - Checklists in Resource-Limited Settings
-----atul-gawande.md"]
 related: [checklists-as-cognitive-aids, the-checklist-manifesto---atul-gawande, building-checklists-guide]
+---

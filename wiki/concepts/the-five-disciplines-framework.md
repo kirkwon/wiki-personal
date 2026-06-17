@@ -11,5 +11,5 @@ tags:
 sources:
 - the-fifth-discipline-fieldbook
 - The Five Disciplines Framework
-----peter-m-senge.md"]
 related: [systems-thinking-senge, personal-mastery-senge, mental-models-senge, building-shared-vision, team-learning-senge, the-five-dysfunctions-of-a-team]
+---

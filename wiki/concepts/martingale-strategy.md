@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Martingale Strategy
-----annie-duke.md"]
 related: [bet-sizing, kelly-criterion, risk-assessment-framework]
+---

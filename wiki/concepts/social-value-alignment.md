@@ -13,5 +13,5 @@ tags:
 sources:
 - the-alignment-problem
 - Social Value Alignment
-----brian-christian-tom-griffiths.md", "The Alignment Problem - Brian Christian  Tom Griffiths.md"]
 related: ["the-alignment-problem---brian-christian-tom-griffiths", "morality-and-decision-making", "decision-quality-vs-outcome-quality", "anomalies-and-exceptions-in-ai", "alignment", "ai-safety-methods"]
+---

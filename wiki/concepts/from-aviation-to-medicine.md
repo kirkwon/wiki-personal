@@ -12,5 +12,5 @@ tags:
 sources:
 - the-checklist-manifesto
 - From Aviation to Medicine
-----atul-gawande.md"]
 related: [checklists-as-cognitive-aids, the-checklist-manifesto---atul-gawande, building-checklists-guide]
+---

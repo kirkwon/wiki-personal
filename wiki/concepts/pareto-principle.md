@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Pareto Principle
-----gabriel-weinberg.md"]
 related: [mental-models, factor-investing, quant-strategy]
+---

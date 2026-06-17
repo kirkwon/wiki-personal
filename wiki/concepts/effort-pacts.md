@@ -11,5 +11,5 @@ tags:
 sources:
 - indistractable
 - Effort Pacts
-----nir-eyal.md"]
 related: [indistractable---nir-eyal, price-pacts, identity-pacts, traction-vs-distraction, hook-model]
+---

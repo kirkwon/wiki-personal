@@ -11,5 +11,5 @@ tags:
 sources:
 - multipliers
 - Feedforward Feedback
-----greg-mckeown.md"]
 related: [multipliers---greg-mckeown, communication-skills, decision-making-frameworks]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - atomic-habits
 - Habit Loop (Individual)
-----james-clear.md"]
 related: [atomic-habits---james-clear, hook-model, fizzgogg-behavior-model, habit-stacking]
+---

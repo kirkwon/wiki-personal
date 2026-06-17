@@ -11,5 +11,5 @@ tags:
 sources:
 - the-subtle-art-of-not-giving-a-fck
 - Fear of Self-Love and Acceptance
-----mark-manson.md"]
 related: [personal-branding-and-wellbeing, embracing-vulnerability-in-growth, science-of-joy]
+---

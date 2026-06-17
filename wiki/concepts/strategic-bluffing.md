@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Strategic Bluffing
-----annie-duke.md"]
 related: [framing-effects-in-decision-making, decision-making-frameworks, thinking-in-bets]
+---

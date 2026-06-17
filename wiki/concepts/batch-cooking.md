@@ -11,5 +11,5 @@ tags:
 sources:
 - the-4-hour-chef
 - Batch Cooking
-----timothy-ferriss.md"]
 related: [mise-en-place, meal-prep-blueprint, quick-batch-cooking-proteins, fast-meals-scaling-batch-cooking]
+---

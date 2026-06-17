@@ -27,6 +27,8 @@ sources:
 - getting-things-done---david-allen.md
 - Making It All Work - David Allen.md
 
+---
+
 # David Allen
 David Allen is the creator of the Getting Things Done (GTD) methodology and a productivity consultant and author. His work spans decades of coaching and consulting, focusing on how individuals can achieve mental clarity and operational readiness through systematic externalization of commitments and tasks, as well as on life integration, trust, purpose, and work‑life coherence. His methodology has been widely adopted across professional and personal contexts, though it is primarily prescriptive and experiential rather than empirically validated.
 

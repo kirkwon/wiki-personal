@@ -11,5 +11,5 @@ tags:
 sources:
 - antifragile
 - Antifragile Rules
-----nassim-nicholas-taleb.md"]
 related: [antifragility, black-swan-events, decision-making-under-uncertainty, skin-in-the-game]
+---

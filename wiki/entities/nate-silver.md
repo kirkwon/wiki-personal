@@ -37,6 +37,8 @@ related:
 - prediction
 - uncertainty
 
+---
+
 # Nate Silver
 Statistician, data journalist, and political forecaster known for his work on prediction and signal detection. Silver founded FiveThirtyEight and is the author of *The Signal and the Noise*. He applies Bayesian thinking and probabilistic reasoning to improve prediction accuracy across domains including politics, baseball, finance, weather, sports, and science. His work emphasizes distinguishing meaningful patterns from randomness in data, rigorous probabilistic thinking, intellectual humility in making predictions about complex systems, careful calibration of predictions, and managing uncertainty. *The Signal and the Noise* explores the challenge of separating signal from noise in forecasting and data analysis, analyzing prediction failures and frameworks for improving forecast accuracy through Bayesian thinking and model validation.
 

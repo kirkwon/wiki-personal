@@ -11,5 +11,5 @@ tags:
 sources:
 - the-checklist-manifesto
 - Checklists and Change Management
-----atul-gawande.md"]
 related: [building-a-cohesive-team, the-five-dysfunctions-of-a-team, checklists-as-cognitive-aids, checklists-and-leadership]
+---

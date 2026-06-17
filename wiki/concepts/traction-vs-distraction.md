@@ -11,5 +11,5 @@ tags:
 sources:
 - indistractable
 - Traction vs. Distraction
-----nir-eyal.md"]
 related: [indistractable---nir-eyal, the-indistractable-model, time-management-matrix, effort-pacts]
+---

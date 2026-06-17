@@ -11,5 +11,5 @@ tags:
 sources:
 - experiment-and-exploration-forms-of-world-disclosure
 - Eettiset näkökulmat tutkimuksessa ja kokeilemisessa
-----snke-ahrens.md"]
 related: [world-disclosure, decision-making-under-uncertainty, experiment-and-exploration-forms-of-world-disclosure]
+---

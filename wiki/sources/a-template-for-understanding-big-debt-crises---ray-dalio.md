@@ -1,6 +1,5 @@
 ---
 
-
 type: source
 title: "Source: a-template-for-understanding-big-debt-crises"
 ----ray-dalio.md"

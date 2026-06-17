@@ -11,5 +11,5 @@ tags:
 sources:
 - thinking-in-bets
 - Expected Value (EV)
-----annie-duke.md"]
 related: [thinking-in-bets, bet-sizing, kelly-criterion, decision-quality-vs-outcome-quality]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - antifragile
 - Reducing Variability through Statistical Measures
-----nassim-nicholas-taleb.md"]
 related: [antifragility, monte-carlo-simulations, black-swan-events]
+---

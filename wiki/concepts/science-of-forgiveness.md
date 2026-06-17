@@ -11,5 +11,5 @@ tags:
 sources:
 - will
 - Science of Forgiveness
-----mark-manson.md"]
 related: [embracing-failure-for-personal-growth, importance-of-community, will---mark-manson]
+---

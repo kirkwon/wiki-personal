@@ -12,5 +12,5 @@ tags:
 sources:
 - smarter-faster-better
 - Organizational Habit Change
-----charles-duhigg.md"]
 related: [building-a-decision-culture, the-five-dysfunctions-of-a-team, habit-loops, starbucks-habit-loop]
+---

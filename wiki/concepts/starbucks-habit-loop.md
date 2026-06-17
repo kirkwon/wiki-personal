@@ -11,5 +11,5 @@ tags:
 sources:
 - smarter-faster-better
 - Starbucks Habit Loop
-----charles-duhigg.md"]
 related: [habit-loops, organizational-habit-change, hook-model, building-a-decision-culture]
+---

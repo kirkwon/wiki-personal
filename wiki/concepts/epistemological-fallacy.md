@@ -11,5 +11,5 @@ tags:
 sources:
 - antifragile
 - Epistemological Fallacy
-----nassim-nicholas-taleb.md"]
 related: [antifragility, black-swan-events, overconfidence-and-certainty, prospect-theory]
+---

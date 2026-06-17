@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Base Rate Fallacy
-----gabriel-weinberg.md"]
 related: [bayesian-thinking, cognitive-biases-library, mental-models]
+---

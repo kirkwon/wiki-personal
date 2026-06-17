@@ -12,5 +12,5 @@ tags:
 sources:
 - thinking-fast-and-slow
 - Heuristics and Biases
-----daniel-kahneman.md"]
 related: [cognitive-biases-library, dual-process-theory, prospect-theory, availability-heuristic, representativeness-heuristic]
+---

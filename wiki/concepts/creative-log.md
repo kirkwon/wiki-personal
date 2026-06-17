@@ -12,5 +12,5 @@ tags:
 sources:
 - lateral-thinking-creativity-step-by-step
 - Creative Log
-----edward-de-bono.md"]
 related: [lateral-thinking, building-better-habits, problem-solving]
+---

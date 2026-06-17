@@ -11,5 +11,5 @@ tags:
 sources:
 - slow-productivity
 - Purposeful Work Habits
-----cal-newport.md"]
 related: [slow-productivity, purposeful-work-habits, deep-focus, crafting-a-slow-workflow]
+---

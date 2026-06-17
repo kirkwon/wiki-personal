@@ -11,5 +11,5 @@ tags:
 sources:
 - so-good-they-cant-ignore-you
 - Craft Capital vs. Career Capital
-----cal-newport.md"]
 related: [skill-capital, deliberate-practice, newport-career-strategy, paradox-of-choice]
+---

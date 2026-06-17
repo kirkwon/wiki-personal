@@ -12,5 +12,5 @@ tags:
 sources:
 - how-to-take-smart-notes
 - Lue kirjailijana
-----snke-ahrens.md"]
 related: [personal-knowledge-vault, active-revision-techniques]
+---

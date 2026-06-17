@@ -12,5 +12,5 @@ tags:
 sources:
 - how-to-take-smart-notes
 - Marginaalien käyttö muistiinpanoissa
-----snke-ahrens.md"]
 related: [the-index-card-rules, personal-knowledge-vault]
+---

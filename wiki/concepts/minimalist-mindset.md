@@ -11,5 +11,5 @@ tags:
 sources:
 - digital-minimalism
 - The Minimalist Mindset
-----cal-newport.md"]
 related: [digital-minimalism, purposeful-use-principle, purposeful-content-consumption]
+---

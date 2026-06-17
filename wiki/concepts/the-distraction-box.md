@@ -11,5 +11,5 @@ tags:
 sources:
 - make-time
 - The Distraction Box
-----jake-knapp-john-zeratsky.md"]
 related: [laser-focus-techniques, external-triggers, the-infinity-pool]
+---

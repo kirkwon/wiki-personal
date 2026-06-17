@@ -11,5 +11,5 @@ tags:
 sources:
 - range
 - The Trouble with Grit
-----david-epstein.md"]
 related: [embracing-failure-for-personal-growth, strategic-vs-reactive-thinking, sampling-periods]
+---

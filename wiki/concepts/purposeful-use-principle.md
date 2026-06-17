@@ -11,5 +11,5 @@ tags:
 sources:
 - digital-minimalism
 - Purposeful Use Principle
-----cal-newport.md"]
 related: [digital-minimalism, purposeful-content-consumption, purposeful-social-media-use, purposeful-email-management, purposeful-technology-investment]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - antifragile
 - Role of the Improbable
-----nassim-nicholas-taleb.md"]
 related: [black-swan-events, antifragility, neglected-dimensions]
+---

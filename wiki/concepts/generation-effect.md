@@ -11,5 +11,5 @@ tags:
 sources:
 - make-it-stick
 - Generation Effect
-----peter-c-brown-et-al.md"]
 related: [retrieval-practice, desirable-difficulties, the-feynman-technique]
+---

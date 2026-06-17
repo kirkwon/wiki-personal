@@ -11,5 +11,5 @@ tags:
 sources:
 - mindset
 - Neuroplasticity
-----carol-s-dweck.md"]
 related: [growth-mindset, embracing-failure-for-personal-growth]
+---

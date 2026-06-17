@@ -12,5 +12,5 @@ tags:
 sources:
 - the-daily-stoic
 - Embracing Change and Uncertainty
-----ryan-holiday.md"]
 related: [stoicism, ryan-holiday, antifragility, black-swan-events, scenario-planning, decision-making-under-uncertainty, embracing-failure-for-personal-growth]
+---

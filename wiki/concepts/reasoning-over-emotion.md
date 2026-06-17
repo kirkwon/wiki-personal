@@ -12,5 +12,5 @@ tags:
 sources:
 - the-daily-stoic
 - Reasoning Over Emotion
-----ryan-holiday.md"]
 related: [stoicism, ryan-holiday, dual-process-theory, thinking-fast-and-slow---daniel-kahneman, emotion-and-intuition-in-decisions, decision-quality-vs-outcome-quality]
+---

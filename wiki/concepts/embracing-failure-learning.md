@@ -11,5 +11,5 @@ tags:
 sources:
 - everything-is-fcked-a-book-about-hope
 - Embracing Failure as Learning
-----mark-manson.md"]
 related: [embracing-failure-for-personal-growth, broken-world-hope-framework, grit-concept, growth-mindset]
+---

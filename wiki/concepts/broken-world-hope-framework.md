@@ -11,5 +11,5 @@ tags:
 sources:
 - everything-is-fcked-a-book-about-hope
 - Broken World / Hope Framework
-----mark-manson.md"]
 related: [everything-is-fcked-a-book-about-hope, embracing-failure-for-personal-growth, emotion-and-intuition-in-decisions, balancing-ambition-with-well-being, decision-making-under-uncertainty]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - will
 - Fear of Missing Out (FOMO)
-----mark-manson.md"]
 related: [external-triggers, choice-overload, paradox-of-choice, decision-paralysis, will---mark-manson]
+---

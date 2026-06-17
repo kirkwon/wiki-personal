@@ -10,5 +10,5 @@ tags:
 sources:
 - super-thinking
 - Emergent Properties
-----gabriel-weinberg.md"]
 related: [mental-models, systems-are-dynamic, equilibrium, feedback-loops]
+---

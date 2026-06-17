@@ -12,5 +12,5 @@ tags:
 sources:
 - smarter-faster-better
 - Habit Loops
-----charles-duhigg.md"]
 related: [hook-model, fizzgogg-behavior-model, internal-triggers, external-triggers, habit-stacking, willpower-as-trainable-resource, organizational-habit-change]
+---

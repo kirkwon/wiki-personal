@@ -11,5 +11,5 @@ tags:
 sources:
 - the-five-dysfunctions-of-a-team
 - Lack of Commitment
-----patrick-lencioni.md"]
 related: [fear-of-conflict, avoidance-of-accountability, the-five-dysfunctions-of-a-team, building-a-cohesive-team]
+---

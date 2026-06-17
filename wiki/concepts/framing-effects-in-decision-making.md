@@ -11,5 +11,5 @@ tags:
 sources:
 - how-to-decide
 - Framing Effects in Decision Making
-----annie-duke.md"]
 related: [how-to-decide---annie-duke, cognitive-biases-library, decision-quality-vs-outcome-quality, prospect-theory]
+---

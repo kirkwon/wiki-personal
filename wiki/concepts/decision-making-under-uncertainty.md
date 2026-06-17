@@ -11,5 +11,5 @@ tags:
 sources:
 - how-to-decide
 - Decision Making Under Uncertainty
-----annie-duke.md"]
 related: [how-to-decide---annie-duke, prospect-theory, dual-process-theory, cognitive-biases-library]
+---

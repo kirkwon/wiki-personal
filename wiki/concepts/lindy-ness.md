@@ -11,5 +11,5 @@ tags:
 sources:
 - the-black-swan
 - Lindy-ness
-----nassim-nicholas-taleb.md"]
 related: [black-swan-events, antifragility, decision-making-under-uncertainty, probability-and-judgment-under-uncertainty]
+---

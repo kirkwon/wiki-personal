@@ -10,5 +10,5 @@ tags:
 sources:
 - the-wisdom-of-crowds
 - Coordination Problems
-----james-surowiecki.md"]
 related: [wisdom-of-crowds, spontaneous-order, decentralization, decision-making-under-uncertainty]
+---

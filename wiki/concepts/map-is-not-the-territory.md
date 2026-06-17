@@ -11,5 +11,5 @@ tags:
 sources:
 - super-thinking
 - Map Is Not the Territory
-----gabriel-weinberg.md"]
 related: [mental-models, bayesian-thinking, cognitive-biases-library]
+---

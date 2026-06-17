@@ -11,5 +11,5 @@ tags:
 sources:
 - range
 - Sampling Periods
-----david-epstein.md"]
 related: [experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, real-options-analysis, embracing-failure-for-personal-growth, strategic-vs-reactive-thinking]
+---

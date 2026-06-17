@@ -12,5 +12,5 @@ tags:
 sources:
 - how-to-take-smart-notes
 - Muistiinpanot kategorisoinnilla
-----snke-ahrens.md"]
 related: [categorizing-information, personal-knowledge-vault]
+---

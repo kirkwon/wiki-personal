@@ -11,5 +11,5 @@ tags:
 sources:
 - digital-minimalism
 - Purposeful Technology Investment
-----cal-newport.md"]
 related: [digital-minimalism, purposeful-use-principle, decision-making-under-uncertainty]
+---

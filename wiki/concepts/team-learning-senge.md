@@ -11,5 +11,5 @@ tags:
 sources:
 - the-fifth-discipline-fieldbook
 - Team Learning (Senge)
-----peter-m-senge.md"]
 related: [decisions-in-teams, building-a-cohesive-team, the-power-of-dialogue, the-five-disciplines-framework]
+---

@@ -11,5 +11,5 @@ tags:
 sources:
 - slow-productivity
 - Embracing Solitude for Creativity
-----cal-newport.md"]
 related: [slow-productivity, deep-focus, social-dimension-of-slow-productivity, purposeful-work-habits]
+---

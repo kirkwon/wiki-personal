@@ -11,5 +11,5 @@ tags:
 sources:
 - the-beginning-of-infinity
 - The Dream of Socrates
-----david-deutsch.md"]
 related: [the-beginning-of-infinity---david-deutsch, critical-rationalism, conjecture-and-criticism]
+---
