@@ -1,5 +1,7 @@
 ---
 title: Intelligence as a Mental Model
+description: "--
+Intelligence as a Mental Model"
 created: 2026-04-29
 updated: 2026-04-29
 type: concept

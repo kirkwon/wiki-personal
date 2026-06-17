@@ -1,5 +1,6 @@
 ---
 title: The Great Mental Models Vol 1
+description: "The Great Mental Models Vol 1"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

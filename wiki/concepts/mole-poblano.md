@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Mole Poblano
+description: "El mole poblano es la variante más famosa de la salsa mole, originaria de Puebla."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

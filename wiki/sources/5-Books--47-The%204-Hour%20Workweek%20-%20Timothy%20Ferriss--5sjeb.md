@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: Books/The 4-Hour Workweek - Timothy Ferriss.md"
+description: "Source: Books/The 4-Hour Workweek - Timothy Ferriss.md"
 created: 2026-06-06
 updated: 2026-06-06
 sources: ["Books/The 4-Hour Workweek - Timothy Ferriss.md"]

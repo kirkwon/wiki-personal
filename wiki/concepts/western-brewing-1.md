@@ -1,5 +1,6 @@
 ---
 title: Western Brewing
+description: "Western Brewing refers to the traditional methods of beer production originating from Western cultures, emphasizing techniques such as malt fermentation with specific yeast strains and hops for flavor."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

@@ -1,5 +1,6 @@
 ---
 title: BabyAGI
+description: "BabyAGI (Artificial General Intelligence) refers to an emerging class of AI systems with the ability to understand, learn from, and interact in a wide range of domains autonomously."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Yoav Shoham
+description: "Yoav Shoham is an Israeli computer scientist with significant contributions to artificial intelligence and computational economics."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

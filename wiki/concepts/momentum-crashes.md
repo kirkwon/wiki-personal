@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Momentum Crashes
+description: "Momentum crashes are sudden, sharp reversals where momentum stocks underperform dramatically."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Autonomous Agents
+description: "An autonomous agent is an entity capable of making independent decisions based on its own perceptions and objectives without external control."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

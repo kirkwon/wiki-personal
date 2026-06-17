@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Twin Peaks
+description: "Twin Peaks is a San Francisco hilltop location offering panoramic 360° city views, ideal for golden hour and sunset photography."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

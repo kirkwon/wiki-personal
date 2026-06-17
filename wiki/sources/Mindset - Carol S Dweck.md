@@ -1,6 +1,8 @@
 ---
 type: source
 title: Mindset - Carol S. Dweck
+description: "--
+Mindset - Carol S."
 created: 2026-04-29
 updated: 2026-05-03
 tags:

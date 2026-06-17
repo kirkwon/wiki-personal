@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Rule of Thirds
+description: "The rule of thirds is a fundamental composition technique that divides the frame into a 3x3 grid of nine equal parts."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

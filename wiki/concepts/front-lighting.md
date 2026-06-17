@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Front Lighting
+description: "Front lighting is when the sun is behind the photographer, fully illuminating the subject."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

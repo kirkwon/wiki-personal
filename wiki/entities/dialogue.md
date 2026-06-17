@@ -1,5 +1,6 @@
 ---
 title: dialogue
+description: "Dialogue refers to an exchange of ideas or information between two or more individuals through spoken words or written communication."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

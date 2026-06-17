@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Marinades
+description: "Marinades are liquid mixtures used to infuse flavor and sometimes tenderize ingredients before cooking."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

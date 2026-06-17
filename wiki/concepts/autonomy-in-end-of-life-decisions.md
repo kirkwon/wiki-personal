@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Autonomy in End-of-Life Decisions
+description: "Autonomy in End-of-Life Decisions"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Deep Q-Network (DQN)
+description: "A Deep Q-Network (DQN) is an advanced reinforcement learning algorithm that uses deep neural networks to approximate the optimal action-value function in complex decision-making scenarios."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

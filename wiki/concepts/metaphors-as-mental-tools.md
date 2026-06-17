@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Metaphors as Mental Tools
+description: "--
+Metaphors as Mental Tools"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

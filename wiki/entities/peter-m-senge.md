@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Peter M. Senge
+description: "Peter M. Senge is an organizational learning theorist, systems thinking expert, and author best known for The Fifth Discipline and its companion fieldbook, as well as Presence: Human Purpose and the F."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

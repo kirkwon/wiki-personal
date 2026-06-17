@@ -1,5 +1,6 @@
 ---
 title: the-live-like-no-one-else-commitment
+description: "the-live-like-no-one-else-commitment"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

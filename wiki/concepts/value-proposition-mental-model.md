@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Value Proposition Mental Model
+description: "Value Proposition Mental Model"
 created: 2026-05-03
 updated: 2026-05-12
 tags:

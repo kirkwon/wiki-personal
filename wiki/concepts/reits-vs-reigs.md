@@ -1,6 +1,7 @@
 ---
 type: comparison
 title: REITs vs REIGs
+description: "REITs (Real Estate Investment Trusts) and REIGs (Real Estate Investment Groups) are two different structures for investing in real estate, each with distinct characteristics."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Patterns That Program the Future
+description: "Patterns That Program the Future"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

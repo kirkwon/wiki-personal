@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Automation Over Willpower
+description: "--
+Automation Over Willpower"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

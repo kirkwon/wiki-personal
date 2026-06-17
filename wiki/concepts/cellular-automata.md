@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Cellular Automata
+description: "Models where complex behavior emerges from simple rules applied to cells on a grid."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

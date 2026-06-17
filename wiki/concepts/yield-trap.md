@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Yield Trap
+description: "A yield trap occurs when a high headline yield masks return of capital (ROC) distributions, resulting in principal erosion rather than genuine income."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

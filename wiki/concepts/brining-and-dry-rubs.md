@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Brining and Dry Rubs
+description: "--
+Brining and Dry Rubs"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

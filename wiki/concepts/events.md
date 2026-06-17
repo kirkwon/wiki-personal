@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Events
+description: "Events as a mental model refers to the recognition that unexpected occurrences—particularly extreme ones—play a dominant role in shaping outcomes across history, finance, and personal life."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Environment Design
+description: "--
+Environment Design"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

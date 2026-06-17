@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Precision vs. Power Conflict
+description: "--
+Precision vs. Power Conflict"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

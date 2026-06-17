@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Practising What You Preach
+description: "Practising What You Preach"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

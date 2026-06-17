@@ -1,5 +1,6 @@
 ---
 title: Out of Control - Kevin Kelly
+description: "Out of Control - Kevin Kelly"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

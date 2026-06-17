@@ -1,5 +1,6 @@
 ---
 title: Autoregressive Models
+description: "Autoregressive Models"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

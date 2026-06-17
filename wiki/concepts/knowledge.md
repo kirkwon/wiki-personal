@@ -2,6 +2,7 @@
 
 type: concept
 title: Knowledge
+description: "Knowledge is a conceptual tool or principle that helps understand and navigate complex situations."
 created: 2026-04-29
 updated: 2026-05-11
 tags: [mental-model, general, knowledge-management, epistemology, philosophy]

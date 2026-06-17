@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 压力曲线
+description: "--
+压力曲线（Pressure Profiling）"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

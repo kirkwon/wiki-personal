@@ -2,6 +2,7 @@
 
 type: source
 title: "Source: the-systems-bible"
+description: "Source: the-systems-bible---john-gall.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources: ["the-systems-bible---john-gall.md"]

@@ -2,6 +2,7 @@
 tags: [concept, thinking, reasoning, metacognition]
 created: 2026-06-15
 type: concept
+description: "The systematic evaluation of information, arguments, and beliefs using logic, evidence, and reasoned analysis rather than intuition, emotion, or authority."
 ---
 
 # Critical Thinking

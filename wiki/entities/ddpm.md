@@ -1,5 +1,6 @@
 ---
 title: DDPM
+description: "Dual Dynamic Processing Model (DDPM) is an approach that combines real-time decision making with adaptive learning processes to optimize outcomes in various domains."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

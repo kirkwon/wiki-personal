@@ -1,5 +1,6 @@
 ---
 title: Spice Blends
+description: "A spice blend is a combination of various ground or whole spices mixed together to create a distinct flavor profile that enhances the taste of dishes in cooking."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

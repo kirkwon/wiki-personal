@@ -1,5 +1,6 @@
 ---
 title: Reciprocity
+description: "Reciprocity is the mutual exchange of benefits or actions between individuals or entities, often leading to an ongoing relationship where each party provides value in return for what they receive from."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Gil Evans
+description: "Gil Evans was an American jazz composer, arranger, and pianist known for his innovative orchestral arrangements that blended classical music techniques with jazz elements."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

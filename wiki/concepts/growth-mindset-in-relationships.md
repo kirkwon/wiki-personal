@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Growth Mindset in Relationships
+description: "--
+Growth Mindset in Relationships"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,8 @@
 ---
 type: source
 title: Desk Setup Upgrade Path
+description: "--
+Desk Setup Upgrade Path"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

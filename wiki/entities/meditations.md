@@ -1,5 +1,6 @@
 ---
 title: Meditations
+description: "'Meditations' refers to the collection of reflective essays by Marcus Aurelius, Roman Emperor, offering insights into Stoic philosophy and personal development through introspection on life's purpose."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

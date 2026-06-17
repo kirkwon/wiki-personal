@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Focus Trifecta
+description: "Definition
+Der Focus Trifecta ist ein strukturiertes Framework zur Lenkung der Aufmerksamkeit auf aktivitäten, die den größten Hebel für den Wohlstandsaufbau haben."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Donella H. Meadows
+description: "Donella H. Meadows
+Environmental scientist, author, and systems thinker best known for her work on system dynamics and the limits of growth in complex systems."
 created: 2026-05-04
 updated: 2026-05-10
 tags: 

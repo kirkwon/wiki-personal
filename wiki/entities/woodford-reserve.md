@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Woodford Reserve
+description: "Kentucky Straight Bourbon described as a refined daily sipper in the mid price tier."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

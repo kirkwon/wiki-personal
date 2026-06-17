@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Competition.md'
+description: "Source: Competition.md"
 created: 2026-05-10
 updated: 2026-05-10
 sources:

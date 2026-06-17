@@ -1,5 +1,6 @@
 ---
 title: herbs-spices-dried-herbs
+description: "herbs-spices-dried-herbs"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

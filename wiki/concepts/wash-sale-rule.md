@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Wash Sale Rule
+description: "Wash Sale Rule είναι ένας φορολογικός περιορισμός που δεν επιτρέπει την εκφράζηση ζημιάς στο ίδιο security εντός ενός 30 ημερών παράθυρου. Εφαρμόζεται σε options στο ίδιο υποκείμενο."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: When to Stop Optimizing
+description: "-
+When to Stop Optimizing"
 created: 2026-04-29
 updated: 2026-05-12
 tags:

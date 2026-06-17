@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Attention Budget
+description: "The attention budget is the concept of treating attention as a finite, precious resource that must be managed carefully throughout the day."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

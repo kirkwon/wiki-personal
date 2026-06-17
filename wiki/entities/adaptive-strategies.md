@@ -1,5 +1,6 @@
 ---
 title: adaptive-strategies
+description: "Adaptive strategies are tailored approaches to efficiently manage tasks or challenges across various domains such as cooking (e.g., improvising recipes with available ingredients), photography (e.g.."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

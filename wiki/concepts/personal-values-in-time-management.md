@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Personal Values in Time Management
+description: "Personal Values in Time Management"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

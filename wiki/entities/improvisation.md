@@ -1,5 +1,6 @@
 ---
 title: improvisation
+description: "Improvisation is the spontaneous creation or modification of content without prior planning."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

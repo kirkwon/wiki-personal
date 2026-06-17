@@ -1,5 +1,6 @@
 ---
 title: Generative Adversarial Networks (GANs)
+description: "Generative Adversarial Networks (GANs)"
 type: concept
 tags:
 - concept

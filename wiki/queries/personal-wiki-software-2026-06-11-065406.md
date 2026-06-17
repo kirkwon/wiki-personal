@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Personal Wiki Software"
+description: "Personal Wiki Software"
 created: 2026-06-11
 tags: []
 related: []

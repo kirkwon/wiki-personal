@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 手巻き寿司（Temaki）
+description: "円錐形の手巻き寿司。食客自身が巻くカジュアルなスタイル。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

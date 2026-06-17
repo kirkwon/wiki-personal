@@ -1,5 +1,6 @@
 ---
 title: Geoffrey Hinton
+description: "Geoffrey Hinton is a pioneering figure in the field of artificial intelligence, particularly known for his work on neural networks which has significantly influenced machine learning techniques used t."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 'Lateral Thinking: Creativity Step by Step — Edward de Bono'
+description: "Lateral Thinking: Creativity Step by Step — Edward de Bono"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

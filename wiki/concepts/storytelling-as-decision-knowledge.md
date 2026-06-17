@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Storytelling as Decision Knowledge
+description: "Storytelling as Decision Knowledge"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

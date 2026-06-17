@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Sharpen the Saw
+description: "Sharpening the Saw is the habit of continuous self-renewal across four primary dimensions: physical, social/emotional, mental/spiritual, and career development."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

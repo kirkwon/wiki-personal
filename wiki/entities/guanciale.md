@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Guanciale
+description: "Guanciale is cured pork cheek, the preferred fat for Roman pasta dishes including carbonara and amatriciana."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

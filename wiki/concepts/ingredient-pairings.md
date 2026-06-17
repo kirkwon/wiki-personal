@@ -1,5 +1,6 @@
 ---
 title: Ingredient Pairings
+description: "Ingredient pairings refer to the principles of combining foods and flavors so they complement each other harmoniously."
 created: 2026-04-24
 updated: 2026-05-09
 type: concept

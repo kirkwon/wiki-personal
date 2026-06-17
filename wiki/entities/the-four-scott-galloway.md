@@ -1,5 +1,6 @@
 ---
 title: The Four - Scott Galloway
+description: "The Four - Scott Galloway"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

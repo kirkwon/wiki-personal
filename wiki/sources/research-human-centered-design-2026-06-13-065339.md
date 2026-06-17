@@ -1,6 +1,8 @@
 ---
 type: source
 title: Research Human Centered Design
+description: "Research Human Centered Design
+Summary of the research on human-centered design in artificial intelligence, focusing on creating AI systems that prioritize human needs, satisfaction, and trustworthine."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [research, human-centered-design, artificial-intelligence]

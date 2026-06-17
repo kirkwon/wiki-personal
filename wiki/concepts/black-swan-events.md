@@ -1,5 +1,6 @@
 ---
 title: Black Swan Events
+description: "A black swan event is a rare, high-impact, unpredictable occurrence that defies normal expectations."
 type: concept
 created: 2026-05-03
 updated: 2026-05-12

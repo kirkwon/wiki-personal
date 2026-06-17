@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Multi-Property Portfolio Template
+description: "--
+Multi-Property Portfolio Template"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

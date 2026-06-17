@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Winner's Curse
+description: "--
+The Winner's Curse"
 created: 2024-04-17
 updated: 2024-04-17
 tags:

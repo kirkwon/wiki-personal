@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Source: Employee.md'
+description: "Key Entities
+- Employee (mental model) — Central; a conceptual tool for navigating complex situations via pattern and relationship recognition."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

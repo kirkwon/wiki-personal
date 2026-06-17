@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Dollar-Cost Averaging
+description: "--
+Dollar-Cost Averaging"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

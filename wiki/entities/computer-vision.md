@@ -1,5 +1,6 @@
 ---
 title: Computer Vision
+description: "Computer vision is an area of artificial intelligence that enables computers to interpret and understand visual information from the world, much like human sight."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Carried Interest
+description: "Carried interest is a performance allocation structure common in private equity and hedge funds."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

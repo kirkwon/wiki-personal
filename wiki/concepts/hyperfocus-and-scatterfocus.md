@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Hyperfocus and Scatterfocus
+description: "Hyperfocus and Scatterfocus"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

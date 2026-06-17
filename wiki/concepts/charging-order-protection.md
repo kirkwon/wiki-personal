@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Charging Order Protection
+description: "--
+Charging Order Protection"
 created: 2026-04-29
 updated: 2026-05-09
 tags:

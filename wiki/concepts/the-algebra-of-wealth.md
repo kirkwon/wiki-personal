@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Algebra of Wealth
+description: "--
+The Algebra of Wealth"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

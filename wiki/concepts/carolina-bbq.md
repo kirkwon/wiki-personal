@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Carolina BBQ
+description: "Carolina BBQ is distinguished by its vinegar-based sauces and pork-centric cooking."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

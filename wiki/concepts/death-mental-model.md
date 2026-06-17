@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Death as a mental model
+description: "--
+Death as a mental model"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

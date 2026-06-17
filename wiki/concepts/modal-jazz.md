@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Modal Jazz
+description: "Modal jazz is a style of jazz that uses modes and fewer chord changes to allow for greater melodic exploration."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

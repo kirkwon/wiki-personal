@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Google vs Uber Rivalry
+description: "Google vs Uber Rivalry"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

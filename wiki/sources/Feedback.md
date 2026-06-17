@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Source: Feedback.md'
+description: "Key Entities
+- Feedback (mental model) — Central."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

@@ -1,5 +1,6 @@
 ---
 title: Fuzzy Logic
+description: "Fuzzy logic is an approach to reasoning that deals with approximate rather than fixed or exact values, allowing for degrees of truth."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

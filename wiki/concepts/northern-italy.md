@@ -1,5 +1,6 @@
 ---
 title: northern-italy
+description: "Northern Italy refers to the region encompassing areas such as Lombardy, Piedmont, Veneto, Emilia-Romagna, and Friuli Venezia Giulia."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

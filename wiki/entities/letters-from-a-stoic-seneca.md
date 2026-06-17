@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Letters from a Stoic
+description: "--
+Letters from a Stoic"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

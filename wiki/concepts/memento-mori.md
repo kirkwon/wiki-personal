@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Memento Mori
+description: "Memento mori — 'remember that you will die' — is a Stoic practice of reflecting on mortality as a tool for valuing time and living purposefully."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

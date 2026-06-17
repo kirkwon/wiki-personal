@@ -1,5 +1,6 @@
 ---
 title: wealth-management
+description: "Wealth-management refers to the strategic planning and execution of financial activities aimed at preserving, growing, and optimizing an individual's assets over time."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

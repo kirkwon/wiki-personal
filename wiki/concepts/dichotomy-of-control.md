@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Dichotomy of control
+description: "--
+Dichotomy of control"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

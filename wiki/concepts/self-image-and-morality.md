@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Self-Image and Morality
+description: "Self-Image and Morality"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

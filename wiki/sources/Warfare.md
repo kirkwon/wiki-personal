@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Source: Warfare.md'
+description: "Key Entities
+- Warfare (mental model) – A conceptual tool for navigating complex situations through pattern and relationship recognition."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

@@ -1,6 +1,8 @@
 ---
 type: source
 title: Research Add Cross References to Concepts Algorithm
+description: "Research Add Cross References to Concepts Algorithm
+This source discusses the importance of adding cross-references to concepts and algorithms for wellbeing in AI systems."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [research, ai, wellbeing]

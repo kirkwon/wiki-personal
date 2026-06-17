@@ -1,6 +1,8 @@
 ---
-type: stub
+type: concept
 title: Decision-Making Frameworks
+description: "--
+Decision-Making Frameworks"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

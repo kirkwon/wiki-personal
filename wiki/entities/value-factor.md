@@ -1,5 +1,6 @@
 ---
 title: Value Factor
+description: "In cooking, the Value Factor refers to ingredients that significantly enhance flavor or nutritional value at an affordable cost."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Motivation crowding
+description: "Motivation crowding occurs when external rewards diminish intrinsic motivation to engage in an activity, such as cooking or photography, leading to a decrease in personal satisfaction and creativity."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

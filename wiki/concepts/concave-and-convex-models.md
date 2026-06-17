@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Concave and Convex Models
+description: "Concave and Convex Models"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

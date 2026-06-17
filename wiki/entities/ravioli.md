@@ -1,5 +1,6 @@
 ---
 title: ravioli
+description: "Ravioli is an Italian pasta dish consisting of small pockets of cheese or filling enclosed by thin layers of pasta dough."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

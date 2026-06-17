@@ -1,5 +1,6 @@
 ---
 title: moral-licensing
+description: "Moral licensing is the psychological phenomenon where an individual justifies unethical behavior by previously engaging in good deeds or adhering to moral standards."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Markdown to Presentation Conversion
+description: "--
+Markdown to Presentation Conversion"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

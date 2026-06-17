@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Tax Optimization Templates
+description: "--
+Tax Optimization Templates"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

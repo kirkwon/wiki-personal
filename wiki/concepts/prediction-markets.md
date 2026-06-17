@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Prediction Markets
+description: "Prediction markets are mechanisms that allow participants to bet on outcomes, producing aggregated probability estimates that reflect the collective knowledge of participants."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

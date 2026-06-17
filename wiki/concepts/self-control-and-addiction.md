@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Self-Control and Addiction
+description: "Self-Control and Addiction"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

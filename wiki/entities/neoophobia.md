@@ -1,5 +1,6 @@
 ---
 title: Neoophobia
+description: "Neoophobia is the fear of new things or experiences, which can manifest as anxiety when faced with unfamiliar cooking techniques, photographic concepts, financial products, or cognitive theories."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Getting Things Done
+description: "'Getting Things Done (GTD) is a productivity methodology that emphasizes the importance of capturing all tasks externally to free up mental space for creative thinking and problem-solving."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

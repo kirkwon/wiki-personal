@@ -1,5 +1,6 @@
 ---
 title: Compounding
+description: "In cooking, compounding refers to the combination of ingredients to create complex flavors or textures in dishes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

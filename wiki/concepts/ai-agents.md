@@ -1,5 +1,7 @@
 ---
 title: AI Agents
+description: "Definition
+An AI agent is a system that perceives its environment, takes actions to achieve goals, and can learn or adapt over time."
 type: concept
 tags:
 - concept

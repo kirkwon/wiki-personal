@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Strategic Analysis
+description: "Strategic Analysis
+Strategic analysis is the process of analyzing a company's strengths, weaknesses, opportunities, and threats."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [strategic-analysis, business, management]

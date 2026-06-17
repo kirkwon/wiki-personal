@@ -17,6 +17,7 @@ related:
 - chord-voicings
 - ear-training
 title: Music Theory Fundamentals
+description: "Music Theory Fundamentals"
 type: note
 ---
 -

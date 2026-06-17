@@ -1,5 +1,6 @@
 ---
 title: Model‑Based RL
+description: "Model-based Reinforcement Learning (RL) is an approach where the agent builds an internal model of the environment's dynamics to predict future states and rewards from current actions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

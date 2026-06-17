@@ -1,6 +1,7 @@
 ---
 type: concept
 title: PARA Method
+description: "The PARA method is Tiago Forte's organizational framework for structuring digital content within a second brain system."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

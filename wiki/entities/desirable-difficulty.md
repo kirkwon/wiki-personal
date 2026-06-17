@@ -1,5 +1,6 @@
 ---
 title: desirable-difficulty
+description: "Desirable difficulty refers to challenges intentionally integrated into activities that promote learning and skill development by requiring effortful engagement."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

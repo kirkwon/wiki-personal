@@ -1,5 +1,6 @@
 ---
 title: Particle Filter
+description: "A Particle Filter is an algorithm used to estimate the state of a dynamic system over time, which can be applied in cooking for precise ingredient mixing, photography for predictive image stabilizatio."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

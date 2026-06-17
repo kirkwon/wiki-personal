@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Peak Attention Hours
+description: "Peak attention hours refer to the individual windows during the day when cognitive energy and focus capacity are at their highest."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

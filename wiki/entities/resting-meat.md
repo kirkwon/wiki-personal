@@ -1,5 +1,6 @@
 ---
 title: Resting Meat
+description: "Resting meat refers to the practice of allowing cooked meat to sit undisturbed at room temperature after being removed from heat sources."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

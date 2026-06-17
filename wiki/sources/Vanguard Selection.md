@@ -1,6 +1,8 @@
 ---
 type: source
 title: Vanguard Selection
+description: "--
+Vanguard Selection"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

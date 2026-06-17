@@ -1,5 +1,6 @@
 ---
 title: central-banks
+description: "Central banks are institutions that manage a country's currency, money supply, and interest rates to ensure economic stability and growth."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

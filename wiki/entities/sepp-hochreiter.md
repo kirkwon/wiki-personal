@@ -1,5 +1,6 @@
 ---
 title: Sepp Hochreiter
+description: "Sepp Hochreiter is an influential computer scientist known for his pioneering work on recurrent neural networks (RNNs) and long short-term memory (LSTM) architectures which have applications in machin."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

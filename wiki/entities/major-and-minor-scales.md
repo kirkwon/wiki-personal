@@ -1,5 +1,6 @@
 ---
 title: Major and Minor Scales
+description: "Major and Minor Scales"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

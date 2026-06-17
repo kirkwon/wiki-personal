@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Diversity in Systems
+description: "Diversity is identified by Meadows as a fundamental source of adaptability and resilience in complex adaptive systems."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

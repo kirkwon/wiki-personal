@@ -1,5 +1,6 @@
 ---
 title: Probability Theory
+description: "Probability theory is the branch of mathematics concerned with analyzing random phenomena and quantifying uncertainty through mathematical models."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

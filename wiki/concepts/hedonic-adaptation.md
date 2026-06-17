@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Hedonic Adaptation
+description: "Hedonic adaptation is the tendency for people to quickly return to a relatively stable level of happiness despite major positive or negative life events."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

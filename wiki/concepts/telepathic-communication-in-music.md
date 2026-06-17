@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Telepathic Communication in Music
+description: "--
+Telepathic Communication in Music"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

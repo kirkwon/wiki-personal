@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Small Sample Size Problem
+description: "Small Sample Size Problem"
 created: 2026-05-03
 updated: 2026-05-11
 tags:

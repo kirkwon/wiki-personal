@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Decision-Making Frameworks
+description: "-
+Decision-Making Frameworks"
 created: 2026-04-29
 updated: 2026-05-09
 tags:

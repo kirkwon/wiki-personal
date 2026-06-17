@@ -2,6 +2,7 @@
 
 type: source
 title: "Source: the-art-of-thinking-clearly"
+description: "Source: the-art-of-thinking-clearly---rolf-dobelli.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources: ["the-art-of-thinking-clearly---rolf-dobelli.md"]

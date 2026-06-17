@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Property Tax Transfer Rules
+description: "--
+Property Tax Transfer Rules"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

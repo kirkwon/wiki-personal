@@ -9,6 +9,8 @@ tags: []
 related: []
 status: draft | review | complete
 title: '{{title}}'
+description: "Common Pitfalls
+<!-- Mistakes to avoid -->"
 updated: *id001
 
 ---

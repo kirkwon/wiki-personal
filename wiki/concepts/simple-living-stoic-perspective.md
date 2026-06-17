@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Simple Living (Stoic Perspective)
+description: "Simple Living (Stoic Perspective)"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

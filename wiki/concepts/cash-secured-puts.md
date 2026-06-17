@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Cash-Secured Puts
+description: "A cash-secured put strategy involves selling put options while setting aside cash to purchase the underlying stock if assigned."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

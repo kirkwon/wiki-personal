@@ -1,5 +1,6 @@
 ---
 title: Contagion bias
+description: "Contagion bias is the cognitive tendency to overestimate the influence of one's own actions on external events or outcomes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

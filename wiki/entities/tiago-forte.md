@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Tiago Forte
+description: "Tiago Forte is a productivity consultant and expert in digital information management."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

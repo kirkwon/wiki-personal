@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Problema Difícil de la Conciencia"
+description: "Problema Difícil de la Conciencia"
 created: 2026-06-13
 tags: []
 related: []

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Cure-Centric vs. Comfort-Oriented Care
+description: "Cure-Centric vs. Comfort-Oriented Care"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

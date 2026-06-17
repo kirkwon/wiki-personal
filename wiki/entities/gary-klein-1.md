@@ -1,5 +1,6 @@
 ---
 title: Gary Klein
+description: "Gary Klein is an influential figure in cognitive science known for his work on naturalistic decision making and problem solving."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Thinking Fast and Slow - Daniel Kahneman
+description: "Thinking Fast and Slow - Daniel Kahneman"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

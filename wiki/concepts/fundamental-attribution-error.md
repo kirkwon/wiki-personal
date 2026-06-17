@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Fundamental Attribution Error
+description: "--
+Fundamental Attribution Error"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

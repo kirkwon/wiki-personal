@@ -1,5 +1,6 @@
 ---
 title: Evaluation Metrics
+description: "Evaluation metrics are quantifiable standards used to assess the quality or performance of various activities such as cooking recipes (taste test scores), photography images (sharpness, composition gr."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

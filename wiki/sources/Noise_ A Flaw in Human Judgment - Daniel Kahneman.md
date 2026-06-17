@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Noise: A Flaw in Human Judgment - Daniel Kahneman'
+description: "--
+Noise: A Flaw in Human Judgment - Daniel Kahneman"
 created: 2026-04-29
 updated: 2026-05-03
 tags:

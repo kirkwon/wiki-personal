@@ -1,5 +1,6 @@
 ---
 title: The Three Essential Questions (What, How, Why)
+description: "The Three Essential Questions (What, How, Why)"
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

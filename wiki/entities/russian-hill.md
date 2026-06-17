@@ -1,5 +1,6 @@
 ---
 title: russian-hill
+description: "A Russian Hill is an affluent neighborhood located on the eastern slope of San Francisco's iconic hills, known for its vibrant food scene, picturesque views ideal for photography, diverse culinary exp."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

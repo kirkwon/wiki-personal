@@ -1,6 +1,7 @@
 ---
 type: source
 title: Supercommunicators - Charles Duhigg
+description: "Supercommunicators - Charles Duhigg"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

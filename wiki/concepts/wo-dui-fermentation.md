@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 渥堆发酵
+description: "渥堆（Wò Duī）是熟普洱特有的加速发酵工艺，通过控制温度、湿度和时间，在45-60天内完成微生物发酵过程。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

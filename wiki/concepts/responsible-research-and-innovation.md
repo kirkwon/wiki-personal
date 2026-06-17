@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Responsible Research and Innovation
+description: "Responsible Research and Innovation
+Responsible Research and Innovation (RRI) is an approach to research and innovation that emphasizes the importance of considering the social, ethical, and environme."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [rri, ai, wellbeing]

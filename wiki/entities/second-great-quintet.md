@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Second Great Quintet
+description: "--
+Second Great Quintet"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

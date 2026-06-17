@@ -1,5 +1,6 @@
 ---
 title: Factor Investing
+description: "Factor investing is an approach to building an investment portfolio by targeting specific drivers of return across asset classes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

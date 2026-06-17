@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Delusion of Expertise
+description: "Delusion of Expertise"
 created: 2026-05-03
 updated: 2026-05-11
 tags:

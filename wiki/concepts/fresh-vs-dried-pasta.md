@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Fresh vs. Dried Pasta
+description: "--
+Fresh vs. Dried Pasta"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

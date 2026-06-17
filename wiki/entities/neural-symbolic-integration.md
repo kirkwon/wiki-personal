@@ -1,5 +1,6 @@
 ---
 title: Neural-Symbolic Integration
+description: "Neural-Symbolic Integration"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

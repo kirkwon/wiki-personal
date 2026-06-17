@@ -1,5 +1,6 @@
 ---
 title: Nate Silver
+description: "Nate Silver is an American statistician, data analyst, and writer renowned for his work in predictive analytics and political forecasting."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

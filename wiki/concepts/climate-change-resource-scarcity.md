@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Climate Change and Resource Scarcity
+description: "--
+Climate Change and Resource Scarcity"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

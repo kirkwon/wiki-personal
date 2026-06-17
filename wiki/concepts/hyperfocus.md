@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Hyperfocus
+description: "Hyperfocus is a state of deep, intense concentration where an individual is fully absorbed in a task, experiencing high engagement and minimal distraction."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

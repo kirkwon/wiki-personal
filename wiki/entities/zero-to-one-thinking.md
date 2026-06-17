@@ -1,5 +1,6 @@
 ---
 title: Zero to One thinking
+description: "Zero to One thinking is the process of generating ideas that do not currently exist or are unique, focusing on innovation rather than improvement."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

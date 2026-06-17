@@ -3,6 +3,7 @@ type: concept
 domain: Local San Francisco
 created: 2025-04-15
 title: ocean-beach
+description: "Content about Ocean Beach or related topics."
 updated: 2026-05-12
 ---
 --

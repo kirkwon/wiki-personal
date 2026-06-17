@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Human-Centered Design
+description: "Human-Centered Design
+Human-Centered Design (HCD) is an approach to design that emphasizes understanding human needs and values."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [hcd, ai, wellbeing]

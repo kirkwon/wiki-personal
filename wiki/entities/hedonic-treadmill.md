@@ -1,5 +1,6 @@
 ---
 title: Hedonic treadmill
+description: "The hedonic treadmill is the observed phenomenon where individuals quickly return to a relatively stable level of happiness despite major positive or negative events or life changes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

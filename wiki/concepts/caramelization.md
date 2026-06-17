@@ -1,5 +1,6 @@
 ---
 title: Caramelization
+description: "[[caramelization]] is the thermal decomposition (or oxidation) of sugars that occurs at temperatures above 355°F (179°C), producing amber to dark brown colors and butterscotch or burnt sugar flavors."
 created: 2026-04-24
 updated: 2026-05-09
 type: concept

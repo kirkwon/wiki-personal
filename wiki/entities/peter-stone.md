@@ -1,5 +1,6 @@
 ---
 title: Peter Stone
+description: "Peter Stone is an enthusiast of culinary arts with a passion for cooking that extends to both traditional and experimental dishes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

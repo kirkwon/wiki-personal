@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Breaking Barriers to Thinking
+description: "Breaking Barriers to Thinking"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

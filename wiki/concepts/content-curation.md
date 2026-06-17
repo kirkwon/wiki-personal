@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Content Curation
+description: "Content curation is the practice of filtering, organizing, and maintaining a focused body of information to reduce cognitive load and support effective knowledge work."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

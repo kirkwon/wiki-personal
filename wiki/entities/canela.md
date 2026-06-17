@@ -1,5 +1,6 @@
 ---
 title: canela
+description: "Canela refers to cinnamon, a spice derived from the inner bark of trees in the genus Cinnamomum."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

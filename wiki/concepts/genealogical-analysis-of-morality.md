@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Genealogical Analysis of Morality
+description: "Genealogical Analysis of Morality"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

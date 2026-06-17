@@ -1,5 +1,6 @@
 ---
 title: what-is-the-unseen
+description: "The unseen refers to the elements or factors that are not immediately apparent but significantly influence outcomes; in cooking, it's about flavor profiles hidden from taste buds, in photography, it's."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

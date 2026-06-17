@@ -1,5 +1,6 @@
 ---
 title: Alex Krizhevsky
+description: "Alex Krizhevsky is a prominent figure in the field of computer science, best known for co-developing AlexNet, a deep convolutional neural network that significantly advanced the capabilities of image."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

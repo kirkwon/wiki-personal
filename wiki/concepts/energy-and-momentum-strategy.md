@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Energy and Momentum Strategy
+description: "Energy and Momentum Strategy"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

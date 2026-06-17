@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Nudge
+description: "Nudge by Richard H. Thaler and Cass R."
 created: 2026-05-04
 updated: 2026-05-10
 tags:

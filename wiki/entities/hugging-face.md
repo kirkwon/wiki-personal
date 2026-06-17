@@ -1,5 +1,6 @@
 ---
 title: Hugging Face
+description: "Hugging Face is an AI research organization that specializes in natural language processing (NLP) technologies, particularly known for its open-source library called 'Transformers'."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

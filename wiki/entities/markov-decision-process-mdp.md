@@ -1,5 +1,6 @@
 ---
 title: Markov Decision Process (MDP)
+description: "Markov Decision Process (MDP)"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

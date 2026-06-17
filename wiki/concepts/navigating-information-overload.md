@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Navigating Information Overload
+description: "Navigating Information Overload"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

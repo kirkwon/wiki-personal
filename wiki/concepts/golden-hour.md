@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Golden Hour
+description: "Golden hour is the period shortly after sunrise and before sunset when the sun is low in the sky, creating warm, soft, golden light prized by photographers for its beautiful, flattering quality."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

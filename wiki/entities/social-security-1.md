@@ -1,5 +1,6 @@
 ---
 title: Social Security
+description: "Social Security is a government program designed to provide financial support to individuals during retirement, disability, or upon the death of family members."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

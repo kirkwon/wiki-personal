@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Sofrito（西餐炖煮底）
+description: "定义
+Sofrito 是西餐（尤其西班牙菜）的基础风味组合，由洋葱、大蒜、番茄和辣椒组成。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,7 @@
 ---
 type: source
 title: Surgeons Source
+description: "Source document introducing the 'Surgeons' mental model, drawing from Atul Gawande's Complications: A Surgeon's Notes on an Imperfect Science."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

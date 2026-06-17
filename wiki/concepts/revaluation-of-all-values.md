@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Revaluation of All Values
+description: "Revaluation of All Values"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

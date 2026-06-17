@@ -1,5 +1,6 @@
 ---
 title: Chinese Sauces
+description: "Chinese sauces encompass a diverse range of flavorful condiments integral to Chinese cuisine, such as soy sauce, oyster sauce, hoisin, plum sauce, and black bean sauce."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

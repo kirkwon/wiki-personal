@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Margin of Safety (Financial)
+description: "Margin of Safety (Financial)"
 created: 2026-04-29
 updated: 2026-05-09
 tags:

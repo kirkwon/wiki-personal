@@ -1,5 +1,6 @@
 ---
 title: Mexican Mole
+description: "A Mexican mole is a rich, complex sauce originating from Mexico, typically featuring ingredients like chili peppers, spices, nuts, and sometimes tomatoes or chocolate."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

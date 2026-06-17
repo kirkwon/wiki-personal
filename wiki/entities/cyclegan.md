@@ -1,5 +1,6 @@
 ---
 title: CycleGAN
+description: "A CycleGAN is an advanced machine learning algorithm designed to perform image-to-image translation without needing paired examples; it's akin to transforming ingredients into different dishes or alte."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

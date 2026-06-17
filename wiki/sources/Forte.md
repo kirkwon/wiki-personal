@@ -1,6 +1,8 @@
 ---
 type: source
 title: Forte (Mental Model)
+description: "--
+Forte (Mental Model)"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

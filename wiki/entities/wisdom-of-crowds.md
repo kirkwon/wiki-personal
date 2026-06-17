@@ -1,5 +1,6 @@
 ---
 title: Wisdom of Crowds
+description: "The 'Wisdom of Crowds' is the collective insight or decision-making accuracy that emerges from aggregating diverse opinions within a group, often leading to superior outcomes in areas like recipe crea."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

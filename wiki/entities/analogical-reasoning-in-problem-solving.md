@@ -1,5 +1,6 @@
 ---
 title: analogical-reasoning-in-problem-solving
+description: "analogical-reasoning-in-problem-solving"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

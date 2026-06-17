@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 麝香葡萄风味特征
+description: "麝香葡萄风味（Muscatel Character）是大吉岭茶最独特的特征，指葡萄、酒类般的果香，由喜马拉雅风土塑造。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

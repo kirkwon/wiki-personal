@@ -1,5 +1,6 @@
 ---
 title: Systematic Decision-Making
+description: "Systematic Decision-Making"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

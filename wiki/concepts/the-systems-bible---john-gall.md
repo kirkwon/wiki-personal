@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Systems Bible - John Gall
+description: "--
+The Systems Bible - John Gall"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

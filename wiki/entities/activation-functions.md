@@ -1,5 +1,6 @@
 ---
 title: Activation Functions
+description: "An activation function is like the spice that transforms raw ingredients (input data) into flavorful dishes (output predictions), akin to how it refines images in photography or enhances financial mod."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Modal Interchange
+description: "Modal utveksling innebærer å låne akkorder fra parallelldur eller parallellmoll for å skape interessante harmoniske variasjoner."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

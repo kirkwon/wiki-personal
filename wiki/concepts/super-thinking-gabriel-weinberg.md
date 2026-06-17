@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Super Thinking - Gabriel Weinberg
+description: "Super Thinking - Gabriel Weinberg"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

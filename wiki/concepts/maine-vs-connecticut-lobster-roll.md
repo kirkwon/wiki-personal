@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Maine vs Connecticut Lobster Roll
+description: "--
+Maine vs Connecticut Lobster Roll"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

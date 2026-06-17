@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Power of Habit (Concept)
+description: "The Power of Habit (Concept)"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

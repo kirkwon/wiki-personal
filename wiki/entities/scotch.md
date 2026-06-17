@@ -1,5 +1,6 @@
 ---
 title: scotch
+description: "Scotch is an aged single malt whisky originating from Scotland, typically enjoyed neat or in cocktails like the Scotch on the rocks."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

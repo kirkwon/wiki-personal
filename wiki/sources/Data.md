@@ -1,6 +1,7 @@
 ---
 type: source
 title: Data
+description: "This source introduces 'Data' as a universal mental model—a conceptual tool for navigating complexity through pattern and relationship recognition."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

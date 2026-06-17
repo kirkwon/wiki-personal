@@ -1,5 +1,6 @@
 ---
 title: Category:Photography
+description: "A Category:Photography is the art and practice of capturing images through light manipulation using cameras or other devices."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Simple Living Practices
+description: "--
+Simple Living Practices"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

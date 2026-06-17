@@ -1,5 +1,6 @@
 ---
 title: pesto
+description: "Pesto is an Italian sauce traditionally made from fresh basil leaves, garlic, pine nuts, Parmesan cheese, and extra-virgin olive oil, blended into a smooth consistency."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

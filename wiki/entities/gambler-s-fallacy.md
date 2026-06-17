@@ -1,5 +1,6 @@
 ---
 title: Gambler's fallacy
+description: "The Gambler's Fallacy is the erroneous belief that past independent events affect future outcomes in random processes; for instance, thinking a coin flip will be heads after several tails, despite eac."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Thelonious Monk
+description: "Thelonious Monk (1917–1982) was a pianist and one of the pioneers of bebop."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

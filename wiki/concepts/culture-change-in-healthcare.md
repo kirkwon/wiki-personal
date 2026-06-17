@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Culture Change in Healthcare
+description: "Culture Change in Healthcare"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,5 +1,6 @@
 ---
 title: How to Take Smart Notes
+description: "How to Take Smart Notes"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

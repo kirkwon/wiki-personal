@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Mindset - Carol S Dweck
+description: "--
+Mindset - Carol S Dweck"
 created: 2026-04-29
 updated: 2026-05-11
 tags:

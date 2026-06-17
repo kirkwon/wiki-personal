@@ -2,6 +2,7 @@
 tags: [causal, ai, finance, portfolio, hedge, risk, results]
 created: 2026-06-15
 type: analysis
+description: "Causal Pipeline Results — Real Data (SPY/TLT 2007–2024)"
 ---
 
 # Causal Pipeline Results — Real Data (SPY/TLT 2007–2024)

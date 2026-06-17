@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Pi Lo Chun / Baihao Yinzhen (白毫银针)
+description: "--
+Pi Lo Chun / Baihao Yinzhen (白毫银针)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

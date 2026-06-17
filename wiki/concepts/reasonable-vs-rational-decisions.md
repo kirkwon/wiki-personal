@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Reasonable vs. Rational Decisions
+description: "--
+Reasonable vs. Rational Decisions"
 created: 2026-04-29
 updated: 2026-05-09
 tags:

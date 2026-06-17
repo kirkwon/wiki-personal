@@ -1,6 +1,7 @@
 ---
 type: source
 title: First Things First - Stephen R. Covey
+description: "First Things First - Stephen R."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

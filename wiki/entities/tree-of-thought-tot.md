@@ -1,5 +1,6 @@
 ---
 title: Tree‑of‑Thought (ToT)
+description: "Tree‑of‑Thought (ToT)"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

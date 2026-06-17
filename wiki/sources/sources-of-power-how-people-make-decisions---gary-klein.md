@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Sources of Power: How People Make Decisions - Gary Klein'
+description: "Sources of Power: How People Make Decisions - Gary Klein"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

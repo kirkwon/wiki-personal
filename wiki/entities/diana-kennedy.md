@@ -1,5 +1,6 @@
 ---
 title: diana-kennedy
+description: "Diana Kennedy is an esteemed chef known for her dedication to traditional Mexican cuisine, emphasizing authenticity in flavors and techniques."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

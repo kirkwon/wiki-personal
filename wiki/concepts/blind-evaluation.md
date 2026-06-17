@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Blind Evaluation
+description: "Blind evaluation removes identifying information — names, demographics, backgrounds — from assessments to reduce the influence of irrelevant factors."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

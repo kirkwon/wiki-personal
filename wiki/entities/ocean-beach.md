@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Ocean Beach
+description: "Ocean Beach is San Francisco's main beach, stretching ~3.5 miles from the [[cliff-house]] in the north to the [[san-francisco-zoo]] in the south."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

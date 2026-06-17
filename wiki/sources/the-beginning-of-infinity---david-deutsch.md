@@ -1,6 +1,7 @@
 ---
 type: source
 title: The Beginning of Infinity - David Deutsch
+description: "The Beginning of Infinity - David Deutsch"
 created: 2026-05-03
 updated: 2026-05-10
 tags:

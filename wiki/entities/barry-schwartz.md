@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Barry Schwartz
+description: "Psychologist and author best known for The Paradox of Choice, which argues that an abundance of options in modern society leads to decision paralysis, stress, anxiety, regret, and lower satisfaction r."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

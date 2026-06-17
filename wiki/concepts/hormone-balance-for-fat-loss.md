@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Hormone Balance for Fat Loss
+description: "--
+Hormone Balance for Fat Loss"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Regime shifts in prediction
+description: "--
+Regime shifts in prediction"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

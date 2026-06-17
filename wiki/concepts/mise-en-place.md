@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Mise en Place
+description: "Mise en place (French: 'everything in its place') is the practice of pre-preparing and organizing all ingredients before beginning to cook."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

@@ -1,6 +1,11 @@
 ---
 type: source
 title: Risk Management
+description: "Field: [[personal-clients]]
+Type: Investment Strategy
+Purpose: Manage portfolio risk while maximizing returns
+Key Principles: Diversification, position sizing, hedging
+Related Concepts: [[retirement-p."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

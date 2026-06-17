@@ -1,5 +1,6 @@
 ---
 title: spices
+description: "Spices are natural substances derived from plants, seeds, fruits, roots, or bark used to flavor food."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

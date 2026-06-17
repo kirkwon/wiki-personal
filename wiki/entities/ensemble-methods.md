@@ -1,5 +1,6 @@
 ---
 title: Ensemble Methods
+description: "Ensemble methods are techniques that combine multiple models to improve predictive performance, similar to how blending different spices can enhance a dish's flavor or mixing various camera settings o."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

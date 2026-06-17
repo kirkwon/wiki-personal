@@ -1,5 +1,6 @@
 ---
 title: Commitment and Consistency
+description: "Commitment and Consistency"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

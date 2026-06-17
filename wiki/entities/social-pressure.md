@@ -1,5 +1,6 @@
 ---
 title: social-pressure
+description: "Social pressure refers to the influence exerted by societal norms or expectations on an individual's behavior, choices, or self-perception within various domains such as cooking (e.g., using certain i."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

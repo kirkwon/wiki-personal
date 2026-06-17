@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Pros-Cons Framework
+description: "--
+Pros-Cons Framework"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

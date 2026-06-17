@@ -1,5 +1,6 @@
 ---
 title: Proximal Policy Optimization (PPO)
+description: "Proximal Policy Optimization (PPO)"
 type: concept
 tags:
 - concept

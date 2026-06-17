@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Trustworthy AI
+description: "Trustworthy AI
+Trustworthy AI refers to AI systems that are transparent, explainable, and fair."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [artificial-intelligence, ethics]

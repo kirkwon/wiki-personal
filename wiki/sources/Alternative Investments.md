@@ -1,5 +1,6 @@
 ---
 title: Alternative Investments
+description: "Alternative Investments"
 sources:
 - Alternative Investments.md
 tags:

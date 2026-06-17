@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Hojicha (ほうじ茶)
+description: "Hojicha is a Japanese roasted green tea from the Kyoto region."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

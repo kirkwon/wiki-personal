@@ -1,6 +1,8 @@
 ---
 type: source
 title: Food Budget Upgrade
+description: "--
+Food Budget Upgrade"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

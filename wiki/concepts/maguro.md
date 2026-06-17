@@ -1,6 +1,7 @@
 ---
 type: concept
 title: マグロ（Maguro）
+description: "トナカイ。通年Availability。薄切り、中トン、大トンがある。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

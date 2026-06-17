@@ -1,6 +1,7 @@
 ---
 type: concept
 title: ROR温度上升速率
+description: "ROR（Rate of Rise）是烘焙过程中每分钟温度上升速率，是控制烘焙特征的关键指标。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

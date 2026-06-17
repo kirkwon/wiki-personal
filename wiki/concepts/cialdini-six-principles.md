@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Cialdini's Six Principles of Influence
+description: "--
+Cialdini's Six Principles of Influence"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

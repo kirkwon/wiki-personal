@@ -1,5 +1,6 @@
 ---
 title: Knowledge Representation
+description: "Knowledge Representation"
 type: concept
 tags:
 - concept

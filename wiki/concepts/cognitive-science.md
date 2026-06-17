@@ -2,6 +2,7 @@
 tags: [concept, mental-model, cognition, meta]
 created: 2026-06-15
 type: concept
+description: "The interdisciplinary study of the mind and its processes — perception, attention, memory, language, reasoning, decision-making, and problem-solving."
 ---
 
 # Cognitive Science

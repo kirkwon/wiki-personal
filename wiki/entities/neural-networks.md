@@ -1,5 +1,6 @@
 ---
 title: Neural Networks
+description: "A neural network is a computational system inspired by the human brain that can learn from data through interconnected nodes (neurons) to recognize patterns, make predictions, or classify information—."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Base rate neglect
+description: "Base rate neglect is the cognitive bias where individuals ignore or undervalue statistical base rates (general prevalence) in favor of specific information, such as anecdotal evidence from a small sam."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

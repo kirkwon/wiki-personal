@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Framing Choices for Success
+description: "Framing Choices for Success"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Second Brain
+description: "A second brain is a personal knowledge management system that extends cognitive function through organized digital tools and processes."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

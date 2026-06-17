@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Naturaleza Algorítmica de la Intuición"
+description: "Naturaleza Algorítmica de la Intuición"
 created: 2026-06-13
 tags: []
 related: []

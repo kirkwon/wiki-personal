@@ -1,6 +1,7 @@
 ---
 type: entity
 title: 流体床烘焙机
+description: "流体床烘焙机通过热空气使咖啡豆悬浮来加热，提供均匀加热和精确控制。"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

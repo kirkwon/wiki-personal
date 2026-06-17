@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Sushi Freshness Indicators
+description: "--
+Sushi Freshness Indicators (鮮度の指標)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

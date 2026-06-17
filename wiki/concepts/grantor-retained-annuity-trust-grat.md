@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Grantor Retained Annuity Trust (GRAT)
+description: "--
+Grantor Retained Annuity Trust (GRAT)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

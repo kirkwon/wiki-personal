@@ -1,5 +1,6 @@
 ---
 title: Tone Curve
+description: "A Tone Curve is a graphical representation of the tonal range within an image or dataset, used to adjust contrast and exposure by mapping input levels (measured in luminance) to output levels (perceiv."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

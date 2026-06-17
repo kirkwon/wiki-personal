@@ -1,5 +1,6 @@
 ---
 title: Tea
+description: "Tea is an infusion prepared by steeping processed leaves, buds, or twigs of the tea plant (Camellia sinensis) in hot water."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

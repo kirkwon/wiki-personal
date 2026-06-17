@@ -1,5 +1,6 @@
 ---
 title: guajillo
+description: "A guajillo chili is a medium to hot variety of dried Mexican pepper known for its rich flavor profile with fruity undertones and smokiness; it's commonly used in cooking to add depth to dishes like mo."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

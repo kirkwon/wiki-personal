@@ -1,5 +1,6 @@
 ---
 title: nudge - richard-h-thaler-cass-r-sunstein
+description: "nudge - richard-h-thaler-cass-r-sunstein"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

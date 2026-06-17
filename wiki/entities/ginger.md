@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 生姜（老姜）
+description: "概述
+生姜是中餐芳香三宝之一，提供辛辣温热、略带甜味和泥土气息的风味。是所有中餐烹饪的基础芳香元素。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

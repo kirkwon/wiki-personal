@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Systems Thinking
+description: "Systems thinking is the practice of understanding the world as a set of interconnected complex systems rather than isolated parts."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

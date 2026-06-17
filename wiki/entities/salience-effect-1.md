@@ -1,5 +1,6 @@
 ---
 title: Salience effect
+description: "The salience effect refers to the phenomenon where certain stimuli stand out more prominently in our perception due to their distinctiveness or emotional relevance."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

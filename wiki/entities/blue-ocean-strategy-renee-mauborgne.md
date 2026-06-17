@@ -1,5 +1,6 @@
 ---
 title: blue-ocean-strategy-renee-mauborgne
+description: "blue-ocean-strategy-renee-mauborgne"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

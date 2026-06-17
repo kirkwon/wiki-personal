@@ -1,6 +1,8 @@
 ---
 type: entity
 title: James Surowiecki
+description: "James Surowiecki
+James Surowiecki is a journalist and author known for his work on collective intelligence and decision-making."
 created: 2026-04-29
 updated: 2026-06-11
 tags: 

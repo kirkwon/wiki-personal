@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Value Innovation
+description: "Value innovation is the cornerstone of Blue Ocean Strategy: the simultaneous pursuit of differentiation and low cost that breaks the conventional value-cost tradeoff."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Out of Control
+description: "In cooking, 'out of control' refers to a situation where the dish's flavor profile deviates significantly from intended recipe specifications due to factors like incorrect ingredient ratios or imprope."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

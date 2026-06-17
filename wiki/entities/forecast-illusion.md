@@ -1,5 +1,6 @@
 ---
 title: forecast-illusion
+description: "Forecast-illusion is the cognitive bias where individuals overestimate their ability to predict future events accurately in fields like cooking (recipe outcomes), photography (image quality), personal."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

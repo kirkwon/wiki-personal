@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Tipping Point Leadership
+description: "Tipping Point Leadership"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

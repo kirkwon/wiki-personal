@@ -1,5 +1,6 @@
 ---
 title: In a Silent Way
+description: "'In a Silent Way' refers to an album by Miles Davis that marked the introduction of electronic instruments in jazz music, symbolizing innovation and change."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

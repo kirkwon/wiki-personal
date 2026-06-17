@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Variable Reward Design
+description: "Variable Reward Design"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

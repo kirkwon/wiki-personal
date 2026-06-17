@@ -1,5 +1,6 @@
 ---
 title: Category:Composition
+description: "A Category:Composition refers to the structured arrangement or assembly of elements within various domains such as cooking (recipe creation), photography (image composition), personal finance (budget."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

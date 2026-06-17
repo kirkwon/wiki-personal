@@ -1,5 +1,6 @@
 ---
 title: Value Investing
+description: "Value investing is an approach to personal finance where one seeks out assets that appear underpriced relative to their intrinsic value, akin to selecting high-quality ingredients for cost-effective c."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

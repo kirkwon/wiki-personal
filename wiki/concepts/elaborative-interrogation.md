@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Elaborative Interrogation
+description: "Elaborative Interrogation"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

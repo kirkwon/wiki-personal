@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Political Polarization and Governance Challenges
+description: "--
+Political Polarization and Governance Challenges"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

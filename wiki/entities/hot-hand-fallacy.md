@@ -1,5 +1,6 @@
 ---
 title: Hot-hand fallacy
+description: "The hot-hand fallacy is the erroneous belief that success in one event increases the likelihood of success in subsequent events, despite statistical evidence to the contrary."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

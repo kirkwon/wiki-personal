@@ -1,6 +1,8 @@
 ---
 type: source
 title: MCP Integration Scenarios
+description: "--
+MCP Integration Scenarios"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

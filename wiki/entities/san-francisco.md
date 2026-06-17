@@ -1,6 +1,7 @@
 ---
 type: entity
 title: San Francisco
+description: "Ville vibrant et vallonnée de ~875 000 habitants, située à l'extrémité de la presqu'île de San Francisco."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

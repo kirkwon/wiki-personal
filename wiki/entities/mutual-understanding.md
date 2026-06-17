@@ -1,5 +1,6 @@
 ---
 title: mutual-understanding
+description: "Mutual understanding refers to the shared knowledge or agreement between individuals regarding specific concepts or practices, such as cooking techniques, photographic composition principles, financia."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

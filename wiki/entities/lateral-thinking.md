@@ -1,5 +1,6 @@
 ---
 title: Lateral Thinking
+description: "Lateral thinking is an approach to problem solving that involves looking at situations from fresh perspectives or unconventional angles, often leading to innovative solutions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

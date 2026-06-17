@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Intentionally Defective Grantor Trust (IDGT)
+description: "--
+Intentionally Defective Grantor Trust (IDGT)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

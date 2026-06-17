@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md"
+description: "Source: research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md"
 created: 2026-06-13
 updated: 2026-06-13
 sources: ["research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md"]

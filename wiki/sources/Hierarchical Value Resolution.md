@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Hierarchical Value Resolution.md'
+description: "Source: Hierarchical Value Resolution.md"
 created: 2026-05-10
 updated: 2026-05-10
 sources:

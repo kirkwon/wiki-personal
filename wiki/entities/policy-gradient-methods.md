@@ -1,5 +1,6 @@
 ---
 title: Policy Gradient Methods
+description: "Policy Gradient Methods"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Obstacles to Essentialism
+description: "--
+Obstacles to Essentialism"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

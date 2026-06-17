@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Non-Customer Analysis
+description: "Non-Customer Analysis"
 created: 2026-05-03
 updated: 2026-05-11
 tags:

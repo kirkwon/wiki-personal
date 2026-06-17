@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Entity Structure Strategies
+description: "--
+Entity Structure Strategies"
 created: 2026-04-22
 updated: 2026-04-22
 tags:

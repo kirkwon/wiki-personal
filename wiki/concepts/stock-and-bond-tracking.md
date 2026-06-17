@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Stock and Bond Investment Templates
+description: "--
+Stock and Bond Investment Templates"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

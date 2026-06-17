@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Farmland and Timber Investments
+description: "--
+Farmland and Timber Investments"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

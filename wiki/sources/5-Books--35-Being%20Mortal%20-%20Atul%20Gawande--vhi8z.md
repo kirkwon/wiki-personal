@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: Books/Being Mortal - Atul Gawande.md"
+description: "Source: Books/Being Mortal - Atul Gawande.md"
 created: 2026-06-07
 updated: 2026-06-07
 sources: ["Books/Being Mortal - Atul Gawande.md"]

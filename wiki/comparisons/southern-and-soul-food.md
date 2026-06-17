@@ -7,6 +7,7 @@ tags:
 - comfort-food
 - gastronomy
 title: Southern and Soul Food
+description: "Southern and Soul Food"
 type: comparison
 updated: 2026-05-09
 related:

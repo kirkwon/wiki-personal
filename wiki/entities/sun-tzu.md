@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Sun Tzu
+description: "Ancient Chinese military strategist and philosopher, traditionally credited as the author of The Art of War, a foundational text on strategy, leadership, and competitive thinking."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

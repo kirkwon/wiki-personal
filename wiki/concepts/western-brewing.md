@@ -1,7 +1,8 @@
 ---
 tags: [concept, stub]
 created: 2026-06-16
-type: concept-stub
+type: concept
+description: "Western Brewing is a craft brewery known for its range of American-style ales and seasonal batches."
 ---
 
 # Western Brewing

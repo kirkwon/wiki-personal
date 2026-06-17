@@ -1,6 +1,7 @@
 ---
 type: concept
 title: User Investment Habit
+description: "User Investment Habit"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

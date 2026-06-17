@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Social Norms vs. Market Norms
+description: "Social Norms vs. Market Norms"
 created: 2026-05-03
 updated: 2026-05-12
 tags:

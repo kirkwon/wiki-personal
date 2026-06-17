@@ -1,5 +1,6 @@
 ---
 title: hedging
+description: "Hedging is a strategy used to minimize potential losses or risks by taking offsetting positions in related assets or markets."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

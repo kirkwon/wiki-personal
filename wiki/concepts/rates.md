@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Rates
+description: "Rates is a mental model that provides a shortcut for understanding patterns and relationships in complex systems, particularly economic ones."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

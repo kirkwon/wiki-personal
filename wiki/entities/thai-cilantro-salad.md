@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Ensalada tailandesa de cilantro
+description: "--
+Ensalada tailandesa de cilantro"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

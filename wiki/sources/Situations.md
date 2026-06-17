@@ -1,6 +1,7 @@
 ---
 type: source
 title: Situations
+description: "Situations is a mental model referenced from Robert B."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

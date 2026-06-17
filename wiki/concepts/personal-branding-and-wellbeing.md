@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Personal Branding and Wellbeing
+description: "Personal Branding and Wellbeing"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

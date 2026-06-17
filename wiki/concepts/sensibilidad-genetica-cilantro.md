@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Sensibilidad genética al cilantro
+description: "--
+Sensibilidad genética al cilantro"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

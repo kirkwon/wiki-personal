@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Mind Maps
+description: "Mind maps are visual tools for organizing and connecting ideas, central to Tiago Forte's framework for building a second brain."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

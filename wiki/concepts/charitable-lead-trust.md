@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Charitable Lead Trust
+description: "--
+Charitable Lead Trust (CLT)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

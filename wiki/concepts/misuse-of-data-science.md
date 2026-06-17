@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Misuse of Data Science
+description: "Misuse of Data Science"
 created: 2026-05-03
 updated: 2026-05-11
 tags:

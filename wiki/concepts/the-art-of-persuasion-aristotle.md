@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Art of Persuasion (Aristotle)
+description: "The Art of Persuasion (Aristotle)"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

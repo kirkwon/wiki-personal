@@ -1,5 +1,6 @@
 ---
 title: team-decisions
+description: "Team decisions refer to collaborative choices made by a group of individuals with diverse expertise or interests in areas such as cooking (recipe selection), photography (shooting angles), personal fi."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

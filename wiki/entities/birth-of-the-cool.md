@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Birth of the Cool
+description: "Birth of the Cool refers to the 1949-1950 nonet recordings led by Miles Davis, arranged by Gil Evans."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

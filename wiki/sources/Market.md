@@ -1,6 +1,7 @@
 ---
 type: source
 title: Market.md
+description: "This source introduces 'Market' as a mental model—a conceptual tool for understanding patterns and relationships in complex situations, drawing on Ray Dalio's economic machine framework from [[how-the."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

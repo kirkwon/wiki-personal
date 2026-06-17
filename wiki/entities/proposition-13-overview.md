@@ -1,5 +1,6 @@
 ---
 title: Proposition 13 Overview
+description: "Proposition 13 Overview"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

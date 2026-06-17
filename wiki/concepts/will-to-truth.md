@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Will to Truth
+description: "The Will to Truth is Nietzsche's examination of whether the desire for truth is itself a form of the Will to Power."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

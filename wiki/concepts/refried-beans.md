@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Refried Beans
+description: "Los frijoles refritos son un elemento distintivo del Tex-Mex."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Genetic Individuality in Health
+description: "--
+Genetic Individuality in Health"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

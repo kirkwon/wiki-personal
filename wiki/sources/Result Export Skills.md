@@ -1,6 +1,8 @@
 ---
 type: source
 title: Result Export Skills
+description: "--
+Result Export Skills Source"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

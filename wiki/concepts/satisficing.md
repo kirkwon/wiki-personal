@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Satisficing
+description: "Tyydyttäminen on päätöksentekotyyli, jossa valitaan ensimmäinen tyydyttävä vaihtoehto eikä paras mahdollinen."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

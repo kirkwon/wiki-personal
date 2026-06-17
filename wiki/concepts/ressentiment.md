@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Ressentiment
+description: "Ressentiment is the French-German term Nietzsche uses for a specific form of resentment — a deep, enduring bitterness felt by the powerless toward the powerful."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

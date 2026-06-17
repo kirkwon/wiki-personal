@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Implement a PKM System"
+description: "Research: Implement a PKM System"
 created: 2026-06-10
 origin: deep-research
 tags: [research]

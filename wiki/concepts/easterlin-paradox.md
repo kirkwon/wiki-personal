@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Easterlin Paradox
+description: "The Easterlin paradox is the observation that wealthier countries do not have higher self-reported happiness than poorer countries, and that across countries, wealthier nations do not report markedly."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Intelligence in Strategy
+description: "Intelligence in Strategy"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Communication Barriers
+description: "Communication Barriers"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

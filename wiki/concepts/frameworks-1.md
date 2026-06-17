@@ -1,5 +1,6 @@
 ---
 title: Frameworks
+description: "A framework is an established set of guidelines or principles that provide structure to complex activities like cooking recipes, photographic composition rules, financial planning strategies, and cogn."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

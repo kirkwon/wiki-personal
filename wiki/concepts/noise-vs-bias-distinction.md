@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Noise vs. Bias Distinction
+description: "--
+Noise vs. Bias Distinction"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

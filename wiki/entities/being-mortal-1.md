@@ -1,5 +1,6 @@
 ---
 title: Being Mortal
+description: "'Being Mortal' refers to the inherent human condition of finite existence, influencing our perspectives on life's value, urgency in pursuits like cooking (time-sensitive recipes), photography (capturi."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

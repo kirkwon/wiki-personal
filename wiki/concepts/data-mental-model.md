@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Data as a mental model
+description: "--
+Data as a mental model"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

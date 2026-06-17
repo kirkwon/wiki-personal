@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Private Equity
+description: "Private equity encompasses investments in private companies that are not publicly traded."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

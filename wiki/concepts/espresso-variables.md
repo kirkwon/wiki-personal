@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Espresso萃取变量
+description: "浓缩咖啡的品质取决于压力、温度、研磨度、时间、用量五大变量的精确控制。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

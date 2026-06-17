@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Boot
+description: "In the context of 1031 exchanges and real estate transactions, boot refers to cash or mortgage relief received by a taxpayer that triggers a taxable event, preventing full tax deferral."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

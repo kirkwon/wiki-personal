@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Paradox of Choice
+description: "The counterintuitive finding that having more options available does not increase human happiness or satisfaction, and can instead lead to greater stress, decision paralysis, and regret."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

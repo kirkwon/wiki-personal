@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Source: Concepts.md'
+description: "Key Entities
+- Concepts (mental model) – Universal conceptual tool; referenced across 36 sources including Ferriss, Kahneman, Holiday, Dweck, Tetlock, Galloway, Forte, Parrish, Newport, McKeown, Ciald."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

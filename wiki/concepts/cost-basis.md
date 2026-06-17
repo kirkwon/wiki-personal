@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Cost Basis
+description: "Cost basis is the original value of an asset used to calculate capital gains or losses for tax purposes."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

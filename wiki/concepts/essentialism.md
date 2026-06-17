@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Essentialism
+description: "Essentialism is the disciplined pursuit of less—identifying what is truly essential and eliminating everything else."
 created: 2026-04-29
 updated: 2026-05-11
 tags:

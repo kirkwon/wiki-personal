@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Consistency in AI Decision-Making
+description: "--
+Consistency in AI Decision-Making"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

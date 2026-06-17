@@ -1,5 +1,6 @@
 ---
 title: Lasting effect
+description: "A lasting effect refers to the enduring impact or result of an action that persists over time in various domains."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

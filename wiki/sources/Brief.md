@@ -1,6 +1,8 @@
 ---
 type: source
 title: Brief.md
+description: "--
+Brief.md Source Summary"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

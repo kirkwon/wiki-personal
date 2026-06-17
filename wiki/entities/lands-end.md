@@ -1,5 +1,6 @@
 ---
 title: Lands End
+description: "Lands End is an American retail store chain specializing in outdoor recreation products such as clothing, footwear, accessories, and equipment for activities like hiking, camping, and photography."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

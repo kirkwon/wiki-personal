@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Lateral Thinking: Creativity Step by Step by Edward de Bono'
+description: "Lateral Thinking: Creativity Step by Step by Edward de Bono"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

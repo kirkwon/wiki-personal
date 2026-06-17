@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Metering Modes
+description: "Metering modes determine how the camera measures light to calculate exposure."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

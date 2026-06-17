@@ -1,5 +1,6 @@
 ---
 title: Wet Brining
+description: "Wet brining is the process of soaking food items, typically meat or poultry, in a solution of water mixed with salt and sometimes additional flavorings for an extended period to enhance moisture reten."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

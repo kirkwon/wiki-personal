@@ -1,5 +1,6 @@
 ---
 title: A Template for Understanding Big Debt Crises - Ray Dalio
+description: "A Template for Understanding Big Debt Crises - Ray Dalio"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

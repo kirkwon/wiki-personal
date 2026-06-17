@@ -1,5 +1,6 @@
 ---
 title: The Wisdom of Crowds
+description: "'The Wisdom of Crowds' refers to the phenomenon where collective opinion or decision-making by a diverse group often leads to accurate conclusions or optimal solutions, even without centralized contro."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

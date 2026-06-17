@@ -1,6 +1,8 @@
 ---
 type: source
 title: Everything (mental model)
+description: "--
+Everything (mental model)"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

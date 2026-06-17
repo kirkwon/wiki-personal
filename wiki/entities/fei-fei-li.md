@@ -1,5 +1,6 @@
 ---
 title: Fei-Fei Li
+description: "Fei-Fei Li is an influential figure in the intersection of technology and cognition, known primarily as co-founder and CEO of AI startup Narrative Science, and former director of Stanford's Computer V."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

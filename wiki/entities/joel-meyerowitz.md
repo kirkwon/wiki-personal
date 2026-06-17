@@ -1,5 +1,6 @@
 ---
 title: joel-meyerowitz
+description: "Joel Meyerowitz is an American photographer renowned for his color photography of landscapes, architecture, people, and street scenes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

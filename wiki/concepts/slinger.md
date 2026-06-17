@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Slinger
+description: "Slinger to regionalny styl burgera ze St."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

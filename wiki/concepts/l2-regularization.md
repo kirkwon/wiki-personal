@@ -1,5 +1,6 @@
 ---
 title: L2 Regularization
+description: "L2 regularization is like adding just the right amount of salt to a dish; it prevents overfitting in machine learning models by penalizing large coefficients, similar to how too much seasoning can rui."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Caturra Coffee Variety
+description: "--
+Caturra Coffee Variety"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

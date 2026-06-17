@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Adapting to Uncertainty in Macro Environments
+description: "--
+Adapting to Uncertainty in Macro Environments"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

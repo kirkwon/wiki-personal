@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Erring on the Side of Caution in Blue Ocean Creation
+description: "Erring on the Side of Caution in Blue Ocean Creation"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

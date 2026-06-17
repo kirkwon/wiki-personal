@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Triple Bottom Line
+description: "The Triple Bottom Line is Simon Sinek's framework for organizational success that balances three pillars: people, profit, and purpose."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 大根おろし（Daikon Oroshi）
+description: "--
+大根おろし（Daikon Oroshi）"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

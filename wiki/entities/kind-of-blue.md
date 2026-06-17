@@ -1,5 +1,6 @@
 ---
 title: Kind of Blue
+description: "'Kind of Blue' is an iconic jazz album by Miles Davis, released in 1959, known for its modal improvisation style that revolutionized the genre."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

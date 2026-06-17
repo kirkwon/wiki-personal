@@ -1,5 +1,6 @@
 ---
 title: 干煸
+description: "干煸（干煸，Gānbiān）是四川菜的重要烹饪技法之一，指在开始时不加油，利用食材自身释放的水分进行炒制，从而浓缩风味。"
 created: 2026-04-24
 updated: 2026-04-24
 type: concept

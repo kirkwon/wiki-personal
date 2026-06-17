@@ -1,5 +1,6 @@
 ---
 title: Tool Use (AI)
+description: "Tool use in AI refers to the application of artificial intelligence systems that utilize digital tools or algorithms to perform tasks across various domains such as cooking (e.g., recipe optimization)."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

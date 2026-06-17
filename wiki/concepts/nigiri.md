@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 握り寿司（Nigiri）
+description: "握り寿司は酢飯（シャリ）を手で押し、その上にネタ（魚、卵、野菜など）を乗せた寿司。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

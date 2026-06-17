@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Pass-Through Taxation
+description: "--
+Pass-Through Taxation"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

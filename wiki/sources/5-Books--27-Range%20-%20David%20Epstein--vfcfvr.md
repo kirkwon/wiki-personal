@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: Books/Range - David Epstein.md"
+description: "Source: Books/Range - David Epstein.md"
 created: 2026-06-05
 updated: 2026-06-05
 sources: ["Books/Range - David Epstein.md"]

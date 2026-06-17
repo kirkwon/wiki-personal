@@ -1,5 +1,6 @@
 ---
 title: hsa
+description: "Human_Sex_Alleles (hsa) are genetic variations within the human sex chromosomes that influence traits related to gender differences in biology."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

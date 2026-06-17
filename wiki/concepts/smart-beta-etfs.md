@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Smart Beta ETFs
+description: "Smart Beta ETFs are exchange-traded funds that implement factor-based investment strategies at low cost."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Geisha Coffee Variety
+description: "--
+Geisha Coffee Variety"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

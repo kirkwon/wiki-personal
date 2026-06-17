@@ -1,5 +1,6 @@
 ---
 title: vietnamese-cuisine
+description: "Vietnamese cuisine is characterized by its balance of flavors, combining sweet, sour, salty, bitter, and spicy elements in dishes like pho and banh mi."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

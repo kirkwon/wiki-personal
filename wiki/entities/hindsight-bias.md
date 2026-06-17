@@ -1,5 +1,6 @@
 ---
 title: Hindsight bias
+description: "Hindsight bias is the cognitive distortion where one believes an event was predictable or inevitable after it has occurred, often leading to overestimating one's own foresight."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

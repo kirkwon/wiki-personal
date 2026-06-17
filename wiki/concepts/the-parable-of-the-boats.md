@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Parable of the Boats
+description: "The Parable of the Boats"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

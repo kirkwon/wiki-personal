@@ -1,5 +1,6 @@
 ---
 title: Clustering illusion
+description: "The clustering illusion is the cognitive bias where individuals perceive patterns or clusters in random data when there are none."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Social proof
+description: "Social proof is the psychological phenomenon where people assume the actions of others reflect correct behavior, often used in marketing to influence consumer decisions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

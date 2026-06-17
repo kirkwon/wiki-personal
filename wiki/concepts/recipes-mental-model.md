@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Recipes as Mental Model
+description: "--
+Recipes as Mental Model"
 created: 2026-05-04
 updated: 2026-05-04
 tags:

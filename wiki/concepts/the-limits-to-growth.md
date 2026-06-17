@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Limits to Growth
+description: "The Limits to Growth (1972) is the landmark study co-authored by Meadows and colleagues that used computer modeling to explore how resource constraints and exponential growth interact in global system."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Nigiri Structure
+description: "--
+Nigiri Structure (握り寿司の構造)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

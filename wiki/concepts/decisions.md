@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Decisions
+description: "Decisions is a universal mental model — a conceptual tool for navigating complex situations through pattern recognition and mental shortcuts."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

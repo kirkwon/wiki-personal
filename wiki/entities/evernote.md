@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Evernote
+description: "Evernote
+Evernote is a well-established note-taking app that excels in web clipping and document scanning."
 created: 2026-06-10
 updated: 2026-06-10
 tags: [digital-note-taking, productivity]

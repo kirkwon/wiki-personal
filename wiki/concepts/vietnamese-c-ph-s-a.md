@@ -1,5 +1,6 @@
 ---
 title: Vietnamese Cà Phê Sữa Đá
+description: "Vietnamese Cà Phê Sữa Đá"
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

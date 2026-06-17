@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Capital Gains vs. Property Tax Tradeoff
+description: "--
+Capital Gains vs. Property Tax Tradeoff"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

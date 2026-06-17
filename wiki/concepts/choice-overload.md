@@ -1,5 +1,6 @@
 ---
 title: Choice Overload
+description: "Choice overload (also called the paradox of choice) describes how an excessive number of options paradoxically decreases satisfaction, increases decision stress, and leads to decision paralysis rather."
 created: 2026-05-03
 updated: 2026-05-10
 type: concept

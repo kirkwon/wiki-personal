@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Quitting as Self-Care
+description: "Quitting as Self-Care"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

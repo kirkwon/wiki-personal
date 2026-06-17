@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 裏巻き（Uramaki）
+description: "裏巻き寿司。米を外側、海苔を内側にしたロール。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

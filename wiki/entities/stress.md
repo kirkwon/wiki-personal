@@ -1,5 +1,6 @@
 ---
 title: stress
+description: "Stress is the body's response to any demand or challenge, often manifesting as physical tension, emotional strain, or cognitive overload."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

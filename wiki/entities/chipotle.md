@@ -1,5 +1,6 @@
 ---
 title: chipotle
+description: "A chipotle is a smoked, dried jalapeño pepper that originates from Mexico, commonly used in various cuisines to add depth of flavor through its rich, smoky taste and mild heat."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

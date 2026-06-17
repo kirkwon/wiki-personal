@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Sunk Cost Fallacy
+description: "The sunk cost fallacy is the tendency to continue an endeavor because of previously invested resources — time, money, effort — rather than evaluating future costs and benefits."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

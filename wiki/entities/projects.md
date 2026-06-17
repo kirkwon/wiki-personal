@@ -1,5 +1,6 @@
 ---
 title: Projects
+description: "A project is an organized effort with specific objectives aimed at achieving a particular outcome within defined constraints such as time, budget, or resources."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

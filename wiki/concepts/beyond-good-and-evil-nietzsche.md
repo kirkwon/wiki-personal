@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Beyond Good and Evil
+description: "--
+Beyond Good and Evil"
 created: 2026-05-04
 updated: 2026-05-04
 tags:

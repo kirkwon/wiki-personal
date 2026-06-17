@@ -1,5 +1,6 @@
 ---
 title: Conscious Spending
+description: "Conscious spending is the intentional allocation of financial resources to align with one's values, goals, and needs while considering long-term impacts on personal wellbeing and cognitive health."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Affect Heuristic
+description: "The affect heuristic is the tendency to make decisions based on emotional response rather than objective analysis."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Personal History with Money
+description: "--
+Personal History with Money"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

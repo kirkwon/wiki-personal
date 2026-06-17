@@ -1,6 +1,7 @@
 ---
 type: source
 title: Landscapes
+description: "Source document for the Landscapes mental model."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -2,6 +2,7 @@
 
 type: concept
 title: Noise
+description: "Noise refers to unwanted variability in judgment and decision-making — the gap between how a person or system actually performs and how consistently it could perform."
 created: 2026-04-29
 updated: 2026-05-10
 tags: ['cognitive-science', 'decision-making', 'mental-models', 'mental-model', 'epistemology']

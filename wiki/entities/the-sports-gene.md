@@ -1,5 +1,6 @@
 ---
 title: the-sports-gene
+description: "The 'sports gene' refers to the theory that certain genetic factors may predispose individuals to excel in athletic performance."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

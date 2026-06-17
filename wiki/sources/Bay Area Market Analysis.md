@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Bay Area Market Analysis.md'
+description: "Source: Bay Area Market Analysis.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources:

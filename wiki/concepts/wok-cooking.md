@@ -1,5 +1,6 @@
 ---
 title: Wok Cooking
+description: "Wok Cooking（铁锅烹饪 / 锅烹饪）"
 created: 2026-04-24
 updated: 2026-05-09
 type: concept

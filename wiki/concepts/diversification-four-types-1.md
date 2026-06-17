@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 'Diversification: Four Types'
+description: "--
+Diversification: Four Types"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

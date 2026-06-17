@@ -3,6 +3,8 @@ source_url: ''
 ingested: 2026-04-29
 sha256: ''
 title: Quality Source
+description: "Summary
+Quality is introduced as a universal mental model—a conceptual tool for pattern recognition and sense-making in complex situations."
 type: note
 created: '2026-05-14'
 updated: '2026-05-14'

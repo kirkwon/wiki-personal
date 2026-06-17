@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Leaders Eat Last Key Concepts
+description: "Leaders Eat Last Key Concepts"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

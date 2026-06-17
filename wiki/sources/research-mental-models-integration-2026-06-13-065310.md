@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: research-mental-models-integration-2026-06-13-065310.md"
+description: "Source: research-mental-models-integration-2026-06-13-065310.md"
 created: 2026-06-13
 updated: 2026-06-13
 sources: ["research-mental-models-integration-2026-06-13-065310.md"]

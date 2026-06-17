@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Risk Dashboard
+description: "A portfolio-level monitoring tool providing a real-time overview of aggregate risk levels, trends, and action items across risk categories."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

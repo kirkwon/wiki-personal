@@ -1,5 +1,6 @@
 ---
 title: Chinese cuisine
+description: "Chinese cuisine encompasses the diverse culinary traditions of China, characterized by its regional variations, use of staple ingredients like rice and wheat, and techniques such as stir-frying and st."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

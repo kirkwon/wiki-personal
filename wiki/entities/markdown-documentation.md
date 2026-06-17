@@ -1,5 +1,6 @@
 ---
 title: markdown-documentation
+description: "markdown-documentation"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

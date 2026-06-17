@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Slow Productivity
+description: "Slow productivity is a philosophy of work that prioritizes depth over breadth, quality over quantity, and meaningful engagement over busyness."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

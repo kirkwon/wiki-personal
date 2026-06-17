@@ -1,5 +1,6 @@
 ---
 title: Seasonings
+description: "Seasonings refer to the various herbs, spices, or other flavor enhancers used in cooking to improve taste profiles of dishes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

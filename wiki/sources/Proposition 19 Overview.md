@@ -1,6 +1,8 @@
 ---
 type: source
 title: Proposition 19 Overview
+description: "--
+Proposition 19 Overview"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

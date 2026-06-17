@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Relish de comino y naranja
+description: "--
+Relish de comino y naranja"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

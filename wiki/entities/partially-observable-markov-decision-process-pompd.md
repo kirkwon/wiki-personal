@@ -1,5 +1,6 @@
 ---
 title: Partially Observable Markov Decision Process (POMPD)
+description: "Partially Observable Markov Decision Process (POMPD)"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

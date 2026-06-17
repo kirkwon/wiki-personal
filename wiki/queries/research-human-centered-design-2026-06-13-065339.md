@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Human-Centered Design"
+description: "Research: Human-Centered Design"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

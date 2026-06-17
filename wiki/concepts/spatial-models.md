@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Spatial Models
+description: "Models of how location and geography affect behavior."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

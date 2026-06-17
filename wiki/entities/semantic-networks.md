@@ -1,5 +1,6 @@
 ---
 title: Semantic Networks
+description: "A Semantic Network is a conceptual framework that represents knowledge as interconnected nodes (concepts) linked by edges (relationships), facilitating the understanding of complex relationships in va."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

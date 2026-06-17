@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: Books/The Fifth Discipline Fieldbook - Peter M. Senge.md"
+description: "Source: Books/The Fifth Discipline Fieldbook - Peter M."
 created: 2026-06-06
 updated: 2026-06-06
 sources: ["Books/The Fifth Discipline Fieldbook - Peter M. Senge.md"]

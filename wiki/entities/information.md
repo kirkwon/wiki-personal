@@ -1,5 +1,6 @@
 ---
 title: information
+description: "Information is data or knowledge that has been processed to be meaningful and useful within specific contexts such as cooking recipes, photographic techniques, financial advice for personal budgeting."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

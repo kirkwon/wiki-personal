@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Time management and priority setting
+description: "--
+Time management and priority setting"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

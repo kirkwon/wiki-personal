@@ -1,5 +1,6 @@
 ---
 title: chord-voicings
+description: "Chord voicings refer to the arrangement of notes within a chord that creates different harmonic textures or moods in music composition."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

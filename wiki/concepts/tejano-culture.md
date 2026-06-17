@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Tejano culture
+description: "La cultura Tejana se refiere a los texanos de descendencia mexicana que desarrollaron la cocina Tex-Mex en el sur de Texas."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

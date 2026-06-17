@@ -1,4 +1,6 @@
 ---
+type: paper
+description: "Training-Free Looped Transformers"
 tags: [paper, transformers, inference, ode, looping]
 created: 2026-06-15
 status: filed

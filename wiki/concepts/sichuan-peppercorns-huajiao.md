@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 花椒（Sichuan Peppercorns）
+description: "--
+花椒（Sichuan Peppercorns，花椒）"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

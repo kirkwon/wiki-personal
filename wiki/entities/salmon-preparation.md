@@ -1,5 +1,6 @@
 ---
 title: Salmon Preparation
+description: "Salmon preparation involves selecting fresh salmon fillets, seasoning them appropriately (often with herbs like dill or lemon), and cooking using methods such as grilling, baking, or pan-searing to ac."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

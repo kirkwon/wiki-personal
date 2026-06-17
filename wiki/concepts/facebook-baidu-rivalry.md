@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Facebook vs Baidu Rivalry
+description: "Facebook vs Baidu Rivalry"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

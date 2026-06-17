@@ -1,5 +1,6 @@
 ---
 title: Mean Reversion
+description: "Mean reversion is the financial principle that asset prices and returns eventually return to their historical average or trend over time."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

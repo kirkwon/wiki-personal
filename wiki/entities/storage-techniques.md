@@ -1,5 +1,6 @@
 ---
 title: storage-techniques
+description: "Storage techniques refer to the various methods used to preserve food ingredients, manage photographic data, secure financial records, or encode information in cognitive processes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

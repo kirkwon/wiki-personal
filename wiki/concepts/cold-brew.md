@@ -1,5 +1,6 @@
 ---
 title: Cold Brew
+description: "Cold brew refers to the process of steeping coffee grounds in cold water over an extended period (typically 12-24 hours) to extract flavor without heat."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

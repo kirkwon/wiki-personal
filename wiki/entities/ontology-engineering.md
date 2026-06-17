@@ -1,5 +1,6 @@
 ---
 title: Ontology Engineering
+description: "Ontology engineering is the systematic approach to creating structured frameworks that define concepts, relationships, and axioms within specific domains such as cooking recipes, photographic elements."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: source
 title: Dim Sum Source
+description: "Dim sum (点心, Diǎnxīn) literally means 'touch the heart' - a Cantonese brunch tradition featuring steamed, fried, and baked small plates served with tea."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

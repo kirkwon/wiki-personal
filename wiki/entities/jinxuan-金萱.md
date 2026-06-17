@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 金萱 (Jinxuan - Golden Lily)
+description: "--
+金萱 (Jinxuan - Golden Lily)"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

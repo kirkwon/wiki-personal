@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Jack Daniel's
+description: "Tennessee Whiskey serving as the gateway whiskey in the collection."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

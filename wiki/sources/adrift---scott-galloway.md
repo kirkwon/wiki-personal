@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: adrift'
+description: "Adrift - Scott Galloway"
 created: 2026-05-09
 updated: 2026-05-10
 sources: ["adrift---scott-galloway.md", "Society.md"]

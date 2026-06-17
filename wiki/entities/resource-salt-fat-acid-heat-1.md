@@ -1,5 +1,6 @@
 ---
 title: Resource:Salt Fat Acid Heat
+description: "Resource:Salt Fat Acid Heat"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

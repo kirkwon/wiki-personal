@@ -1,6 +1,8 @@
 ---
 type: source
 title: Information sharing mechanisms
+description: "--
+Information sharing mechanisms"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

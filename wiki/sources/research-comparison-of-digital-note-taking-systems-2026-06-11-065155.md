@@ -1,6 +1,8 @@
 ---
 type: source
 title: Research Comparison of Digital Note-Taking Systems
+description: "Research Comparison of Digital Note-Taking Systems
+This source compares various digital note-taking systems, including Notion, Obsidian, Evernote, Apple Notes, and Google Keep."
 created: 2026-06-10
 updated: 2026-06-10
 tags: [research, digital-note-taking]

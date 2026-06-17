@@ -1,5 +1,6 @@
 ---
 title: Coriander
+description: "Coriander (cilantro) is an herb with leaves used widely in cooking to enhance flavors of various cuisines; its distinctive taste appeals to many but not all due to genetic differences affecting percep."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

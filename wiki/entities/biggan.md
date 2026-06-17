@@ -1,5 +1,6 @@
 ---
 title: BigGAN
+description: "BigGAN is an advanced generative adversarial network designed to produce high-resolution, realistic images by learning from large datasets of unlabelled photos."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

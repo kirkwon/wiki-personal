@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Algorithms for Wellbeing
+description: "Algorithms for Wellbeing
+Algorithms for wellbeing refer to the various computational methods and techniques used to analyze data and identify patterns associated with wellbeing in AI systems."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [ai, wellbeing, algorithms]

@@ -1,5 +1,6 @@
 ---
 title: Proximal Policy Optimization (PPO)
+description: "Proximal Policy Optimization (PPO)"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Recognition-Primed Decision Model
+description: "Recognition-Primed Decision Model"
 created: 2026-05-03
 updated: 2026-05-09
 type: concept

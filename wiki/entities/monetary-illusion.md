@@ -1,5 +1,6 @@
 ---
 title: Monetary illusion
+description: "Monetary illusion refers to the misconception that changes in nominal money supply directly affect real economic variables like purchasing power or employment when they actually influence only price l."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

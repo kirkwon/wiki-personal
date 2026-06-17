@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Nachos
+description: "Los nachos son un aperitivo clásico de la cocina Tex-Mex, considerado su invención legendaria."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

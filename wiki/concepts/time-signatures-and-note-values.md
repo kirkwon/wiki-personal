@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Time Signatures and Note Values
+description: "--
+Time Signatures and Note Values"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

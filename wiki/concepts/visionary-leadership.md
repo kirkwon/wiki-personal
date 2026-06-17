@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Visionary Leadership
+description: "Visionary leadership, as described by Senge, is the practice of cultivating a learning culture through being visionary, communicating effectively, encouraging experimentation, and building trust among."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

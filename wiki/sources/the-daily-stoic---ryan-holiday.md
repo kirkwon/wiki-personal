@@ -3,6 +3,7 @@ source_url: null
 ingested: 2026-05-03
 sha256: a86e9f8633d346461b6d6e27d0d62516b7d641a9d9bac263819ea51e4332f985
 title: The Daily Stoic - Ryan Holiday
+description: "The Daily Stoic - Ryan Holiday"
 created: 2026-04-29
 updated: 2026-05-10
 tags:

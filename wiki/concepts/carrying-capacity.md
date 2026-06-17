@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Carrying Capacity
+description: "Carrying capacity is the maximum sustainable load a system can support given its resources and constraints."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

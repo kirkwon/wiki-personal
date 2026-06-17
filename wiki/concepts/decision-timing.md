@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Decision Timing
+description: "Decision timing is the critical factor in knowing when to quit."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

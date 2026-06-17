@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Ryan Holiday
+description: "Ryan Holiday is a modern Stoic philosopher, author, and media strategist known for popularizing Stoic philosophy for contemporary audiences through practical guides."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

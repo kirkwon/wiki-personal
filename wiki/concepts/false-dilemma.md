@@ -1,6 +1,7 @@
 ---
 type: concept
 title: False Dilemma
+description: "Väärä dilemma on harha, jossa nähdään vain kaksi vaihtoehtoa kun todellisuudessa on useita."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

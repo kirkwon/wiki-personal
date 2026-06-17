@@ -1,5 +1,6 @@
 ---
 title: Data Visualization
+description: "Data visualization is the graphical representation of information and data using statistical, mathematical or computational techniques to provide an accessible way to see and understand trends, outlie."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

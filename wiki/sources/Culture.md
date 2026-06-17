@@ -1,6 +1,7 @@
 ---
 type: source
 title: Culture
+description: "Culture is a mental model referenced in Cal Newport's Slow Productivity."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

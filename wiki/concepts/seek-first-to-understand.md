@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Seek First to Understand, Then to Be Understood
+description: "Seek First to Understand, Then to Be Understood"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Category:Lighting
+description: "The 'Category:Lighting' refers to the study and application of light sources and their effects on various activities such as cooking (e.g., food presentation), photography (e.g., image quality enhance."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

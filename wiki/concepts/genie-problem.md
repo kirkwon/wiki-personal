@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Genie Problem
+description: "The Genie Problem is a conceptual framework for understanding the limitations of AI systems that are given powerful optimization capabilities but lack clear guidance on what outcomes are desirable."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

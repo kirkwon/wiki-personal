@@ -1,5 +1,6 @@
 ---
 title: beijing-cuisine
+description: "Beijing cuisine refers to the traditional food styles originating from Beijing, China, characterized by its diverse flavors, cooking techniques, and regional ingredients that reflect the city's rich h."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

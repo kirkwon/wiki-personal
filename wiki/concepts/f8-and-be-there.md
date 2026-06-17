@@ -1,6 +1,7 @@
 ---
 type: concept
 title: F8 and Be There
+description: "'F8 and be there' is a famous philosophy in photography, attributed to [[weegee]], emphasizing that the most important factor in capturing great images is presence and readiness — not technical master."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

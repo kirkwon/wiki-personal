@@ -1,5 +1,6 @@
 ---
 title: roast-duck
+description: "A roast duck is a culinary dish where a whole duck is cooked by roasting until the skin becomes crispy while maintaining moist meat underneath."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

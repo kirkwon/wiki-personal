@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Time as a Precious Resource
+description: "Time as a Precious Resource"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

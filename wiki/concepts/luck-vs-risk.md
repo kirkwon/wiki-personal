@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Luck vs Risk
+description: "Luck and risk are two sides of the same coin—both are the role of chance, just with different outcomes."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

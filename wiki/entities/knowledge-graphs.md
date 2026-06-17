@@ -1,5 +1,6 @@
 ---
 title: Knowledge Graphs
+description: "A Knowledge Graph is a structured representation of information where entities (such as recipes or photographic techniques) are interconnected through relationships, enabling efficient data retrieval."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

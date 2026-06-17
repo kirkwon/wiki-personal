@@ -1,5 +1,6 @@
 ---
 title: the-four-hour-workweek---timothy-ferriss
+description: "the-four-hour-workweek---timothy-ferriss"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

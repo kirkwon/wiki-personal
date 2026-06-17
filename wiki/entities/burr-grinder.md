@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Burr Grinder (锥刀磨豆机)
+description: "--
+Burr Grinder (锥刀磨豆机)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

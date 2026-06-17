@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Scatterfocus
+description: "Scatterfocus is the mind-wandering mode of attention, where the mind is unfocused and free to drift."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

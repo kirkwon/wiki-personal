@@ -1,6 +1,9 @@
 ---
 type: concept
 title: Współpraca człowiek-AI
+description: "Współpraca człowiek-AI
+Definicja
+Współpraca człowiek-AI to proces, w którym ludzie i systemy AI współpracują w celu osiągnięcia wspólnych celów."
 created: 2026-06-12
 updated: 2026-06-13
 tags: [ai, współpraca, artificial-intelligence, human-centered-design]

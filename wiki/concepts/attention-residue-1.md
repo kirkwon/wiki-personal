@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Attention Residue
+description: "Attention residue is the cognitive carryover from a previous task that contaminates performance on the next task."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

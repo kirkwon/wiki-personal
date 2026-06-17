@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: making-it-all-work'
+description: "Making It All Work - David Allen"
 created: 2026-05-09
 updated: 2026-05-10
 sources: ["making-it-all-work---david-allen.md", "Purpose.md"]

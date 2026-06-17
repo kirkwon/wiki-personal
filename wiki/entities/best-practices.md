@@ -9,6 +9,8 @@ tags: []
 related: []
 status: draft | review | complete
 title: '{{title}}'
+description: "Best Practices
+<!-- Recommended approaches and tips -->"
 updated: *id001
 
 ---

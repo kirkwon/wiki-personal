@@ -2,6 +2,7 @@
 
 type: entity
 title: Range - David Epstein
+description: "Range - David Epstein"
 created: 2026-04-29
 updated: 2026-05-10
 tags: [books, mental-model, decision-making, learning]

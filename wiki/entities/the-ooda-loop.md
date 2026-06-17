@@ -1,6 +1,8 @@
 ---
 type: entity
 title: The OODA Loop
+description: "The OODA Loop
+The OODA Loop is a mental model that describes how people observe, orient, decide, and act in response to changing situations."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [mental-models, decision-making, strategy]

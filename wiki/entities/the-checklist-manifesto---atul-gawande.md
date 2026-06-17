@@ -1,6 +1,8 @@
 ---
 type: entity
 title: The Checklist Manifesto - Atul Gawande
+description: "--
+The Checklist Manifesto - Atul Gawande"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

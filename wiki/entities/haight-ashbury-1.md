@@ -1,5 +1,6 @@
 ---
 title: Haight-Ashbury
+description: "Haight-Ashbury refers to the neighborhood in San Francisco known as the epicenter of the 1960s counterculture movement, including the Summer of Love."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Authority bias
+description: "Authority bias is the tendency to attribute greater accuracy or validity to the opinions of an authority figure, regardless of the content's actual merit."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

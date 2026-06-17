@@ -1,5 +1,6 @@
 ---
 title: Hario V60
+description: "The Hario V60 is a conical pour-over brewer with a single large hole at the bottom."
 created: 2026-04-24
 updated: 2026-04-24
 type: entity

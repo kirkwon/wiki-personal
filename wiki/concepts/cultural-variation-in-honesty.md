@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Cultural Variation in Honesty
+description: "Cultural Variation in Honesty"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

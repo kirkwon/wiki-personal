@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Money Scripts
+description: "Money scripts are deeply held beliefs about money that shape financial behavior."
 created: 2026-04-29
 updated: 2026-05-09
 tags:

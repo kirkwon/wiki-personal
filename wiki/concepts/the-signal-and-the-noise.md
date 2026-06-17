@@ -1,6 +1,8 @@
 ---
 type: source
 title: The Signal and the Noise - Nate Silver
+description: "--
+The Signal and the Noise"
 created: 2026-04-29
 updated: 2026-05-10
 tags:

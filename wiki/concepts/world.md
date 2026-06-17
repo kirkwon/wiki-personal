@@ -1,6 +1,7 @@
 ---
 type: concept
 title: World
+description: "The World as a mental model captures Taleb's view of reality as fundamentally uncertain and dominated by rare events."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

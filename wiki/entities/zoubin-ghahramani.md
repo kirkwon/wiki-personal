@@ -1,5 +1,6 @@
 ---
 title: Zoubin Ghahramani
+description: "Zoubin Ghahramani is an accomplished data scientist known for his work at Facebook's AI Research division as the CEO of Meta AI, and previously founded Kaggle, a platform that fosters data science com."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

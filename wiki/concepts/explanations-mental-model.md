@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Explanations Mental Model
+description: "--
+Explanations Mental Model"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

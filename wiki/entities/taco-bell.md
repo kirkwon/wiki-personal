@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Taco Bell
+description: "Taco Bell es una cadena de comida rápida americana que ofrece comida estilo Tex-Mex."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

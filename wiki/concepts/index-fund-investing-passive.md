@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Index Fund Investing (Passive)
+description: "--
+Index Fund Investing (Passive)"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

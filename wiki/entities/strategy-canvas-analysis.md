@@ -1,5 +1,6 @@
 ---
 title: Strategy canvas analysis
+description: "Strategy canvas analysis"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

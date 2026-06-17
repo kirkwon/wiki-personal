@@ -1,5 +1,6 @@
 ---
 title: time-decay
+description: "Time-decay refers to the gradual decrease of importance or effectiveness over time."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

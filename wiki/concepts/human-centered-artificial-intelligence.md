@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Human Centered Artificial Intelligence
+description: "Human Centered Artificial Intelligence
+Human-Centered Artificial Intelligence (HCAI) is an emerging discipline that focuses on creating AI systems that prioritize human needs, satisfaction, and trustw."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [artificial-intelligence, human-centered-design]

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Begin With Principle
+description: "-
+Begin With Principle"
 created: 2026-04-18
 updated: 2026-05-09
 tags:

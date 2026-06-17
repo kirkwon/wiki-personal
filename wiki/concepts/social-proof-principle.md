@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Social Proof Principle
+description: "Social Proof Principle"
 created: 2026-05-03
 updated: 2026-05-11
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Coincidence
+description: "A coincidence is an event that occurs by chance without apparent causal connection to other events."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

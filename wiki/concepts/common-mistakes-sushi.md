@@ -1,6 +1,9 @@
 ---
 type: concept
 title: よくある失敗と修正法
+description: "関連
+- [[sushi-and-sashimi]]
+- [[sushi-rice]]"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

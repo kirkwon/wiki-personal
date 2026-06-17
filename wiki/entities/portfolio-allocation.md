@@ -1,5 +1,6 @@
 ---
 title: portfolio-allocation
+description: "Portfolio allocation refers to the strategic distribution of investments across various assets or projects to optimize returns while managing risk."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

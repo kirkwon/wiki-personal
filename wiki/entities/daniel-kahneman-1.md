@@ -1,5 +1,6 @@
 ---
 title: Daniel Kahneman
+description: "Daniel Kahneman is an influential psychologist known for his work on the psychology of judgment and decision-making, as well as behavioral economics, which challenges traditional economic assumptions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

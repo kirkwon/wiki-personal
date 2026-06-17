@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Nationalism vs. Globalization
+description: "--
+Nationalism vs. Globalization"
 created: 2026-05-04
 updated: 2026-05-04
 tags:

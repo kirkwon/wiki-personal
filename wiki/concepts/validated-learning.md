@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Validated Learning
+description: "Validated learning is the core epistemology of the lean startup methodology."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

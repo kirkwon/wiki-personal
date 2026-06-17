@@ -1,5 +1,6 @@
 ---
 title: brain-md
+description: "Brain-MD refers to the intersection of neuroscience (Cognitive Science) with medical diagnostics, specifically relating to neurological disorders that may impact cognitive functions like memory or dec."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

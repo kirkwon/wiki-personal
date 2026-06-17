@@ -1,5 +1,6 @@
 ---
 title: Martin Arjovsky
+description: "Martin Arjovsky is an expert with diverse interests including cooking, photography, personal finance management, and cognitive science."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: fairness-and-decision-making
+description: "fairness-and-decision-making"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Present-moment awareness practices.md'
+description: "Source: Present-moment awareness practices.md"
 created: 2026-05-10
 updated: 2026-05-10
 sources:

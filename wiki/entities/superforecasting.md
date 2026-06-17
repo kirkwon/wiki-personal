@@ -1,5 +1,6 @@
 ---
 title: Superforecasting
+description: "Superforecasting is the practice of making highly accurate predictions by aggregating diverse perspectives and expertise, often using structured methods like prediction markets or Delphi techniques."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: source
 title: The Fifth Discipline - Peter M Senge
+description: "--
+The Fifth Discipline - Peter M Senge"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

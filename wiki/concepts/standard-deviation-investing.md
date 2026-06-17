@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Standard Deviation (Investing)
+description: "--
+Standard Deviation (Investing)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

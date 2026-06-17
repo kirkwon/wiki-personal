@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Great Mental Models - Shane Parrish
+description: "The Great Mental Models (Vol. 1) - Shane Parrish"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

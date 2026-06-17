@@ -1,5 +1,6 @@
 ---
 title: relationships
+description: "Relationships within these contexts refer to the interconnectedness between various elements or concepts that influence one another."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

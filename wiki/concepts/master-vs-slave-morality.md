@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Master vs. Slave Morality
+description: "Master vs. Slave Morality"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

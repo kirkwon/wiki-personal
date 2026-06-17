@@ -1,5 +1,6 @@
 ---
 title: chat-hygiene
+description: "Chat-hygiene refers to the practices that maintain clarity, respect, and productivity in online communication."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

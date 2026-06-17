@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Bud Powell
+description: "Bud Powell (1924–1966) was a pianist renowned for his virtuosic bebop piano style."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Sol
+description: "A Sol is an individual's unique cognitive processing speed that influences their ability to multitask in the kitchen or manage complex recipes efficiently."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Fairness and Social Norms in Economic Behavior
+description: "--
+Fairness and Social Norms in Economic Behavior"
 created: 2024-04-17
 updated: 2024-04-17
 tags:

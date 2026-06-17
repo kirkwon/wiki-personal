@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Illusion of Pattern in Randomness
+description: "Illusion of Pattern in Randomness"
 created: 2026-05-03
 updated: 2026-05-11
 tags:

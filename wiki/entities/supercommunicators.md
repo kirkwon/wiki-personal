@@ -1,5 +1,6 @@
 ---
 title: supercommunicators
+description: "Supercommunicators are individuals adept at conveying complex ideas across various domains such as cooking (explaining recipes), photography (describing techniques), personal finance (discussing inves."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

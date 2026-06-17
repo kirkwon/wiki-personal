@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Growth Mindset
+description: "A growth mindset is the belief that abilities, intelligence, and talents can be developed through dedication, effort, learning, persistence, and hard work, as opposed to a fixed mindset which holds th."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

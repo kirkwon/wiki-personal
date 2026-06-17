@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Forecasting
+description: "Forecasting is a universal mental model that serves as a conceptual tool for navigating complex situations through pattern recognition and sense-making."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

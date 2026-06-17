@@ -1,5 +1,6 @@
 ---
 title: ripe-pu-erh
+description: "Ripe Pu-Erh is an aged tea variety known for its rich flavor profile that includes earthy notes with potential hints of fruitiness due to the fermentation process it undergoes before drying."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

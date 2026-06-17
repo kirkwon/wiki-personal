@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Medicare
+description: "Federal health insurance program for people age 65 and older."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

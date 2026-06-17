@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Service-First Leadership
+description: "Service-First Leadership"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,5 +1,6 @@
 ---
 title: gastro商业
+description: "'Gastro商业' refers to the commercial aspect of food preparation and presentation, where culinary skills intersect with business acumen."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

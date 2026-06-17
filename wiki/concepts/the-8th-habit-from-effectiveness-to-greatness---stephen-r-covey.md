@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The 8th Habit - Stephen R. Covey
+description: "--
+The 8th Habit - Stephen R."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

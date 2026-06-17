@@ -1,5 +1,6 @@
 ---
 title: LlamaIndex
+description: "The LlamaIndex is an innovative algorithm designed to optimize recipe ingredient combinations based on user preferences in cooking."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

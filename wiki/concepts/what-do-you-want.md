@@ -1,6 +1,7 @@
 ---
 type: concept
 title: What Do You Want?
+description: "'What Do You Want?' is the core question Timothy Ferriss poses to readers, challenging them to define success on personal terms rather than conforming to societal expectations."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Competitive Intelligence
+description: "Competitive Intelligence
+Competitive intelligence is the process of gathering and analyzing information about competitors."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [competitive-intelligence, business, marketing]

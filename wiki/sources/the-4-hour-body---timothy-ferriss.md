@@ -1,6 +1,7 @@
 ---
 type: source
 title: The 4-Hour Body - Timothy Ferriss
+description: "The 4-Hour Body - Timothy Ferriss"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

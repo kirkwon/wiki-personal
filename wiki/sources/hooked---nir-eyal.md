@@ -1,6 +1,7 @@
 ---
 type: source
 title: Hooked - Nir Eyal
+description: "Nir Eyal's Hooked presents a four-phase framework for building habit-forming products: Trigger, Action, Variable Reward, and Investment."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

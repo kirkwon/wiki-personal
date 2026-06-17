@@ -1,5 +1,6 @@
 ---
 title: altered-chords
+description: "Altered chords are musical alterations where one or more notes of a chord are changed from their original pitch to create tension or color in music composition."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

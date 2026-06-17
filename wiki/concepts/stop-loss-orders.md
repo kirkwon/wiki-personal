@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Stop-Loss Orders
+description: "Εντολή εξόδου από μια θέση πριν οι απώλειες γίνουν καταστροφικές."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

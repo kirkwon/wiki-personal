@@ -1,5 +1,6 @@
 ---
 title: Social Security Breakeven Analysis
+description: "Social Security Breakeven Analysis"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

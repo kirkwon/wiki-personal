@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 細巻き（Hosomaki）
+description: "関連
+- [[maki]]
+- [[sushi-and-sashimi]]"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

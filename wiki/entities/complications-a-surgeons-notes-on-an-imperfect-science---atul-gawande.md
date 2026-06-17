@@ -2,6 +2,7 @@
 
 type: entity
 title: "Complications: A Surgeon's Notes on an Imperfect Science"
+description: "Complications: A Surgeon's Notes on an Imperfect Science"
 created: 2026-04-29
 updated: 2026-04-29
 tags: ['book', 'gawande', 'surgery', 'medicine', 'mental-models', 'books', 'mental-model']

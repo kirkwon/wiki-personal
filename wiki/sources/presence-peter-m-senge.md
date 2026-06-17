@@ -1,5 +1,7 @@
 ---
 title: Presence - Peter M Senge
+description: "--
+Presence - Peter M Senge"
 created: 2026-04-29
 updated: 2026-04-29
 type: source

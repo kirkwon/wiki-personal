@@ -1,6 +1,7 @@
 ---
 type: source
 title: Budget Tracking
+description: "This source document is a minimal stub with no substantive content."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

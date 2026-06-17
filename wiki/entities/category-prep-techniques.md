@@ -1,5 +1,6 @@
 ---
 title: Category:Prep Techniques
+description: "Category:Prep Techniques"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

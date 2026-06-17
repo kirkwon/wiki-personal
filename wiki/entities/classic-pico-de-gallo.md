@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Classic Pico de Gallo
+description: "--
+Classic Pico de Gallo"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

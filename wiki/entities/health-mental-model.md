@@ -1,5 +1,6 @@
 ---
 title: Health mental model
+description: "A health mental model is an individual's cognitive framework that guides their understanding of wellness, including emotional balance, stress management, and self-care practices."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

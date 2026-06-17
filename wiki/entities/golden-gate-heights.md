@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Golden Gate Heights
+description: "--
+Golden Gate Heights"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

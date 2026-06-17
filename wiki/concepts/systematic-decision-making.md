@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Systematic Decision Making
+description: "Systematic Decision Making"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

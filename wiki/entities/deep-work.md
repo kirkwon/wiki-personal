@@ -1,5 +1,6 @@
 ---
 title: Deep Work
+description: "Deep work refers to the practice of focusing intently on complex tasks without distraction, leading to higher levels of expertise in areas like cooking or photography."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

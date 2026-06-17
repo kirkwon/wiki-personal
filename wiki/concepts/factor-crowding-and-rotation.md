@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Factor Crowding & Rotation
+description: "--
+Factor Crowding & Rotation"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

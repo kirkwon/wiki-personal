@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Technique
+description: "Technique on systemaattisen tehokkuuden ja tulosten parantamisen käytäntö."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

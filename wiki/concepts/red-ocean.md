@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Red Ocean
+description: "A red ocean is an existing market space where industries compete head-to-head, the boundaries of the market are defined and accepted, and the competitive rules are known."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Internal Rate of Return (IRR)
+description: "--
+Internal Rate of Return (IRR)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

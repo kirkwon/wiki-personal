@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Obsidian
+description: "Obsidian
+Obsidian is a note-taking and organization tool."
 created: 2026-06-10
 updated: 2026-06-10
 tags: ["digital-note-taking", "productivity", "note-taking", "pkm"]

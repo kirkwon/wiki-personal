@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Social Influence Models
+description: "Social Influence Models"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

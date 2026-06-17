@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Espresso（意大利浓缩咖啡）
+description: "浓缩咖啡（Espresso）是一种通过在高压下将接近沸腾的水通过细磨咖啡粉萃取而成的高度浓缩咖啡饮品。其核心特征是浓郁、强烈的咖啡风味和表面特征性的红棕色油脂层（crema）。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

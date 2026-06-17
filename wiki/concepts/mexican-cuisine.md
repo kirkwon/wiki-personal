@@ -15,6 +15,7 @@ related:
 - qi-wei-flavors
 type: concept
 title: Mexican Cuisine
+description: "La cocina mexicana es una de las más diversas y ricas del mundo, con raíces prehispánicas y coloniales."
 ---
 --
 

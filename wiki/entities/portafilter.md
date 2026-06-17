@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Portafilter (手柄)
+description: "手柄是意式咖啡机的核心组件，用于盛放和固定咖啡粉饼，装入咖啡机冲煮头进行萃取。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

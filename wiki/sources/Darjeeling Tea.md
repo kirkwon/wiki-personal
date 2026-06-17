@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Darjeeling Tea.md'
+description: "Source: Darjeeling Tea.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources:

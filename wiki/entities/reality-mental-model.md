@@ -1,5 +1,6 @@
 ---
 title: Reality mental model
+description: "A reality mental model is an individual's internal representation of the world that guides their understanding and actions in various domains such as cooking (e.g., recipe interpretation), photography."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

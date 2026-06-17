@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Proposition 19
+description: "California ballot measure approved by voters in November 2020, effective February 16, 2021, that significantly modified property tax transfer rules under Proposition 13."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 冻顶 (Dong Ding)
+description: "--
+冻顶 (Dong Ding - Frozen Summit)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Agent-Based Modeling
+description: "Agent-based modeling (ABM) is a computational simulation technique and modeling approach where individual agents—each following simple rules—interact within an environment."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

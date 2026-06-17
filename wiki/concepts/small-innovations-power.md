@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Power of Small Innovations
+description: "The Power of Small Innovations"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

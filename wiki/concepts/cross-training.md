@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Cross-training in different skills or disciplines
+description: "--
+Cross-training in different skills or disciplines"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

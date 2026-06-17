@@ -1,5 +1,6 @@
 ---
 title: Find Your Why - Simon Sinek
+description: "Find Your Why - Simon Sinek"
 created: 2026-05-03
 updated: 2026-05-10
 type: source

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Gift of Time
+description: "The Gift of Time is Gawande's reframing of what medical success means at the end of life."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Real Estate Investment Entity Structure
+description: "--
+Real Estate Investment Entity Structure"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

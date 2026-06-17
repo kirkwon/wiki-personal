@@ -1,5 +1,6 @@
 ---
 title: Bitches Brew
+description: "'Bitches Brew' refers to an experimental jazz fusion album by Miles Davis that combines elements of free improvisation with electronic music influences."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

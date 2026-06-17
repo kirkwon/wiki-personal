@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Sleep Optimization
+description: "Sleep optimization is the practice of improving sleep quality and habits to enhance hormonal balance, metabolism, and recovery."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

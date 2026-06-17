@@ -1,5 +1,6 @@
 ---
 title: emotional-decision
+description: "An emotional-decision is a choice made primarily influenced by one's feelings rather than objective analysis or logical reasoning."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

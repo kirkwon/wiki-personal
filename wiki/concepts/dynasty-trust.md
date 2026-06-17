@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Dynasty Trust
+description: "A long-term irrevocable trust designed to preserve wealth across multiple generations, potentially lasting for centuries."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

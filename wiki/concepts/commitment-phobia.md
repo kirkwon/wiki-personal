@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Commitment Phobia
+description: "Commitment phobia refers to the psychological reluctance to fully commit to or quit from certain scenarios, influencing our ability to make clear decisions about when to persevere or walk away."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

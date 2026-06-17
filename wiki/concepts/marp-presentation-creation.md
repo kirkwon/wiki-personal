@@ -1,6 +1,8 @@
 ---
 type: concept
 title: MARP Presentation Creation
+description: "--
+MARP Presentation Creation"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

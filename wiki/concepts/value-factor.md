@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Value Factor
+description: "The value factor is based on the premise that stocks trading cheap relative to their fundamentals tend to outperform growth stocks over time."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

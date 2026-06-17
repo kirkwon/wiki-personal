@@ -1,6 +1,7 @@
 ---
 type: source
 title: The Algebra of Happiness - Scott Galloway
+description: "The Algebra of Happiness - Scott Galloway"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

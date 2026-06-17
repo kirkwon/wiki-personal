@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Six Paths Framework
+description: "The Six Paths Framework provides six systematic approaches to reconstruct market boundaries and discover blue ocean opportunities."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

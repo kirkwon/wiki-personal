@@ -1,5 +1,6 @@
 ---
 title: Fusion
+description: "In cooking, fusion refers to the blending of culinary traditions or ingredients from different cultures to create innovative dishes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: TRPO
+description: "Thompson Recurrent Policy Optimization (TRPO) is an advanced reinforcement learning algorithm that maximizes the expected return by taking step-sized updates on policy parameters to ensure stable impr."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

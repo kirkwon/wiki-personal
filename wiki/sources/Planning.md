@@ -1,6 +1,7 @@
 ---
 type: source
 title: Planning
+description: "Planning is a conceptual tool and practice that helps understand and navigate complex situations."
 created: 2026-05-04
 updated: 2026-05-10
 tags:

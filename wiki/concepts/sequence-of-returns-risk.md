@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Sequence of Returns Risk
+description: "--
+Κίνδυνος Σειράς Επιστροφών"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

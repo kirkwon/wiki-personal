@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Sencha (煎茶)
+description: "Sencha is Japan's most common green tea, steamed to preserve freshness and then rolled."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

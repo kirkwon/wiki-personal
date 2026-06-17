@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Stephen R. Covey
+description: "Stephen R. Covey was an American educator, author, businessman, keynote speaker, and management consultant known for his work on personal development, effectiveness, and leadership."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

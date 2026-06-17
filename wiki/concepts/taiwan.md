@@ -1,5 +1,6 @@
 ---
 title: Taiwan
+description: "Taiwan is an island nation located off the southeastern coast of China, known for its rich culinary traditions that blend indigenous flavors with Chinese influences."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

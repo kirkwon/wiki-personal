@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Economics of Dishonesty
+description: "The Economics of Dishonesty"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

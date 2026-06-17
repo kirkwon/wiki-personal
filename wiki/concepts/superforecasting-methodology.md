@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Superforecasting Methodology
+description: "Superforecasting Methodology"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

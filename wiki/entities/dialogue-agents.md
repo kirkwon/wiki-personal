@@ -1,5 +1,6 @@
 ---
 title: Dialogue Agents
+description: "A Dialogue Agent is an AI system designed to simulate human conversation, providing interactive responses based on predefined rules or learned patterns."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

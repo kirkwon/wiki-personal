@@ -1,5 +1,6 @@
 ---
 title: Smarter Faster Better - Charles Duhigg
+description: "Smarter Faster Better - Charles Duhigg"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

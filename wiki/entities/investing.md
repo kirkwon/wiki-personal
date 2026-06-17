@@ -1,5 +1,6 @@
 ---
 title: investing
+description: "Investing refers to the allocation of resources, typically money, into various assets such as stocks, bonds, or real estate with the expectation of generating a return over time."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

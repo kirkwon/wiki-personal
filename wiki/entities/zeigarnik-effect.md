@@ -1,5 +1,6 @@
 ---
 title: Zeigarnik effect
+description: "The Zeigarnik effect is a psychological phenomenon where individuals remember uncompleted tasks better than completed ones."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

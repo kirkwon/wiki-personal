@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Body-Fat Paradox
+description: "The Body-Fat Paradox is Ferriss's framing for the counterintuitive finding that conventional fat loss strategies — excessive cardio and extreme calorie restriction — often backfire."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

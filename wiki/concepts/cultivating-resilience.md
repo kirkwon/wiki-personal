@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Cultivating Resilience
+description: "Cultivating Resilience"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

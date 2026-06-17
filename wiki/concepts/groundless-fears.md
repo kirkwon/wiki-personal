@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Groundless Fears
+description: "Seneca addresses groundless fears in Letters from a Stoic Chapter 13, advising against fearing things that are unlikely or beyond one's control."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

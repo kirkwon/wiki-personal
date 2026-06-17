@@ -1,6 +1,8 @@
 ---
 type: entity
 title: The Six Thinking Hats
+description: "The Six Thinking Hats
+The Six Thinking Hats is a mental model providing a framework for parallel thinking and decision-making."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [mental-models, decision-making, parallel-thinking]

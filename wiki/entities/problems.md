@@ -1,5 +1,6 @@
 ---
 title: problems
+description: "In cooking, problems refer to challenges such as recipe adaptations due to dietary restrictions or ingredient substitutions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

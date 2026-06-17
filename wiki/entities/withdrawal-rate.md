@@ -1,5 +1,6 @@
 ---
 title: withdrawal-rate
+description: "The withdrawal rate refers to the percentage of investment portfolio value an individual takes out annually as income during retirement."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

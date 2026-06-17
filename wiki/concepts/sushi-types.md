@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Sushi Types
+description: "--
+Sushi Types (寿司の種類)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

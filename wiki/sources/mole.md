@@ -1,6 +1,7 @@
 ---
 type: source
 title: Mole
+description: "Mole (from Nahuatl 'molli' = sauce) es la salsa más compleja y celebrada de México."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

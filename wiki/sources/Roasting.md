@@ -1,6 +1,7 @@
 ---
 type: source
 title: Roasting.md - 咖啡烘焙工艺指南
+description: "本指南是关于咖啡烘焙的详细技术文档，涵盖烘焙原理、设备、流程、烘焙程度、质量控制和存储方法。"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

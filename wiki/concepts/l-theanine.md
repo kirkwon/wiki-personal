@@ -1,6 +1,8 @@
 ---
 type: concept
 title: L-theanine (L-茶氨酸)
+description: "--
+L-theanine (L-茶氨酸)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

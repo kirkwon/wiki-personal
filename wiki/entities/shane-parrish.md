@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Shane Parrish
+description: "Shane Parrish is the founder of Farnam Street and author of The Great Mental Models (Vol. 1) (2024) and Clear Thinking: Turning Ordinary Moments into Extraordinary Results (2024)."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

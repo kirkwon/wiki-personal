@@ -1,5 +1,6 @@
 ---
 title: Expense Ratios
+description: "Expense ratios refer to the annual fees expressed as a percentage of total assets that investors pay to fund managers for operating a mutual fund or an ETF."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

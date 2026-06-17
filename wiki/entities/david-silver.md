@@ -1,5 +1,6 @@
 ---
 title: David Silver
+description: "David Silver is an individual with diverse interests spanning cooking, photography, personal finance management, and cognitive science research."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Twin Peaks
+description: "In the context of cooking, 'Twin Peaks' refers to two dishes with similar ingredients or flavor profiles that can be prepared simultaneously for efficiency in meal prep."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

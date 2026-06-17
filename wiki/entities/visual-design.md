@@ -1,5 +1,6 @@
 ---
 title: visual-design
+description: "Visual design is the art of optimizing the aesthetics and functionality of visual elements to enhance user experience in digital interfaces or physical products."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Wealth-Building-Frameworks
+description: "--
+Wealth-Building-Frameworks"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

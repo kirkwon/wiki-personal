@@ -1,5 +1,6 @@
 ---
 title: DBpedia
+description: "DBpedia is an open knowledge graph that extracts structured information from Wikipedia to create interconnected data across various domains including cooking recipes, photographic metadata, financial."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

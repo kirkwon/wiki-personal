@@ -1,6 +1,7 @@
 ---
 type: source
 title: Getting Things Done - David Allen
+description: "Getting Things Done - David Allen"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

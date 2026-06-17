@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Adaptive Learning
+description: "Adaptive learning refers to the process of developing digital competence by adjusting learning strategies to match personal styles, needs, and contexts."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -7,6 +7,7 @@ tags:
 - retirement
 - healthcare
 title: Healthcare Costs in Retirement
+description: "Healthcare Costs in Retirement"
 type: comparison
 updated: 2026-05-09
 related:

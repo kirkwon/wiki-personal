@@ -1,5 +1,6 @@
 ---
 title: RDF
+description: "Resource Description Framework (RDF) is a standard model for data interchange on the web that uses triples to represent information in subject-predicate-object format."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

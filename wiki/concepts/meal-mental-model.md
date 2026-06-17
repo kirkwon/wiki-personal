@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Meal Mental Model
+description: "Meal is a universal conceptual tool that provides a mental shortcut for understanding patterns and relationships in complex situations."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

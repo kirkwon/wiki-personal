@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Make It Stick - Peter C. Brown et al.
+description: "--
+Make It Stick - Peter C."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

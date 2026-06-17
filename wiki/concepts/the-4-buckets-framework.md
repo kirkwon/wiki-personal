@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The 4 Buckets Framework
+description: "--
+The 4 Buckets Framework"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

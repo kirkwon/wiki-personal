@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Model Selection
+description: "The skill of choosing appropriate models for a given situation."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

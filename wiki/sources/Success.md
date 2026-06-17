@@ -1,6 +1,9 @@
 ---
 type: source
 title: 'Source: Success.md'
+description: "- Success (mental model) — Central concept in this source; not currently in wiki index.
+- Ray Dalio — Author of Principles; already in wiki via [[principles-ray-dalio]].
+- Angela Duckworth — Author of."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

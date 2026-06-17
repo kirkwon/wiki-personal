@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Digital Note-Taking Systems
+description: "Digital Note-Taking Systems
+Digital note-taking systems are software applications designed for taking and organizing notes."
 created: 2026-06-10
 updated: 2026-06-10
 tags: [productivity, note-taking]

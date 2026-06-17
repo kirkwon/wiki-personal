@@ -1,5 +1,6 @@
 ---
 title: Frames (AI)
+description: "In AI, 'Frames' refer to structured knowledge representations that encapsulate concepts, relationships, and rules within a domain, similar to how cooking recipes outline ingredients and steps or photo."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: entity
 title: QUAL ETF
+description: "QUAL is a Smart Beta ETF that implements the quality factor."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,8 @@
 ---
 type: source
 title: Return of Capital
+description: "--
+Return of Capital (ROC)"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

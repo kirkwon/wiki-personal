@@ -1,5 +1,6 @@
 ---
 title: Liberica & Excelsa
+description: "Liberica and Excelsa are two distinct varieties of the coffee plant (Coffea liberica)."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

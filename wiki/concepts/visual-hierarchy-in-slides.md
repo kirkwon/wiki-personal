@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Visual Hierarchy in Slides
+description: "--
+Visual Hierarchy in Slides"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

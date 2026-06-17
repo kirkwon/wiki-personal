@@ -1,5 +1,6 @@
 ---
 title: Backpropagation
+description: "Backpropagation is an algorithm used to train neural networks by adjusting weights through error correction across layers, similar to refining recipes or editing photos for optimal results."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

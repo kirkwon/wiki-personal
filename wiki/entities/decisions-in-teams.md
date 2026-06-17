@@ -1,5 +1,6 @@
 ---
 title: decisions-in-teams
+description: "Decisions-in-teams refer to the collaborative process where multiple individuals contribute their expertise and perspectives to reach a consensus on choices or actions within various domains such as c."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

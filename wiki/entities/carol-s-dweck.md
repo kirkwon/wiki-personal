@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Carol S. Dweck
+description: "Carol S. Dweck is a psychologist known for her foundational research on mindset theory — the idea that individuals' beliefs about the nature of their abilities fundamentally shape their motivation, pe."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

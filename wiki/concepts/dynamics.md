@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Dynamics
+description: "Dynamics is a universal mental model that serves as a conceptual tool for understanding and navigating complex situations."
 created: 2026-04-29
 updated: 2026-05-11
 tags:

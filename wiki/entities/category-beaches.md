@@ -1,5 +1,6 @@
 ---
 title: Category:Beaches
+description: "A Category:Beaches encompasses various types of sandy shorelines where individuals can engage in leisure activities such as sunbathing, swimming, or beach sports."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

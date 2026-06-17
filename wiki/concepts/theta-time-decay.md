@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Theta (Time Decay)
+description: "--
+Theta (Time Decay)"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Mental Models Integration"
+description: "Research: Mental Models Integration"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

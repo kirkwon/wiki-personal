@@ -3,6 +3,7 @@ source_url: Gastronomy/Cuisines/Italian/Concepts/pasta.md
 ingested: 2026-04-24
 sha256: 494177c0c6a521fa94c60d7b7c8e62f8954fa2ab1f671594b40681666b642fd3
 title: Italian Pasta
+description: "Pasta is the foundation of Italian cuisine—versatile, affordable, and beloved worldwide."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

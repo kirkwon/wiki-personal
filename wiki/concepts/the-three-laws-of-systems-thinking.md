@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Three Laws of Systems Thinking
+description: "--
+The Three Laws of Systems Thinking"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

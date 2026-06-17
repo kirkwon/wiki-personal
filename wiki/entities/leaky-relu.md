@@ -1,5 +1,6 @@
 ---
 title: Leaky ReLU
+description: "A Leaky ReLU is an activation function used in neural networks that allows small negative values when the input is less than zero, unlike the traditional Rectified Linear Unit (ReLU) which outputs zer."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

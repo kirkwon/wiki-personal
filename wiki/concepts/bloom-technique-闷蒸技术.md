@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 闷蒸技术
+description: "Bloom Technique / 闷蒸技术"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Rolf Dobelli
+description: "Swiss author and thinker best known for The Art of Thinking Clearly, a comprehensive catalog of roughly 100 cognitive biases and mental errors."
 created: 2026-04-29
 updated: 2026-05-12
 tags:

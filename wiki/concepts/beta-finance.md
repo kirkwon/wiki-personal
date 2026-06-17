@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Delta
+description: "Το delta μέτρηση την ευαισθησία ενός επενδυτικού χαρτιού στις αγοραστικές κινήσεις."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

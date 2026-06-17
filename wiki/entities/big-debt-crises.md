@@ -1,5 +1,6 @@
 ---
 title: Big Debt Crises
+description: "A Big Debt Crisis refers to an economic situation where the collective debt of individuals or nations reaches unsustainable levels, leading to financial instability, reduced spending power, and potent."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

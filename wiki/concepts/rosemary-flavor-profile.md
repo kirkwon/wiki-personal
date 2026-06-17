@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Rosemary Flavor Profile
+description: "--
+Rosemary Flavor Profile"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

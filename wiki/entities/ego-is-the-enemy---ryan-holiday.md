@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Ego Is the Enemy - Ryan Holiday
+description: "--
+Ego Is the Enemy - Ryan Holiday"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

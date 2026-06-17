@@ -1,6 +1,7 @@
 ---
 type: entity
 title: RealtyMogul
+description: "RealtyMogul is a crowdfunding platform for commercial real estate investments with a minimum investment of $1,000."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

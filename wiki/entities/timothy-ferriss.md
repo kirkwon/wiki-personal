@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Timothy Ferriss
+description: "Timothy Ferriss is an author, entrepreneur, and thought leader known for his work on lifestyle design, productivity optimization, and leveraging tools for personal effectiveness."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

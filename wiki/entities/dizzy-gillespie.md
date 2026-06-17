@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Dizzy Gillespie
+description: "Dizzy Gillespie (1917–1993) was a trumpeter and key architect of the bebop movement."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

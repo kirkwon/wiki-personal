@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Power of Listening
+description: "The Power of Listening"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

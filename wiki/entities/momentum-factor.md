@@ -1,5 +1,6 @@
 ---
 title: Momentum Factor
+description: "The Momentum Factor refers to the principle that an initial positive trend or momentum can continue in a given domain due to compounding effects."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

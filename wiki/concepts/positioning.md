@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Positioning
+description: "Positioning is a conceptual tool and strategic principle that helps understand and navigate complex situations."
 created: 2026-04-29
 updated: 2026-05-12
 tags:

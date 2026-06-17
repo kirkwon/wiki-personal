@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Charitable Remainder Trust
+description: "--
+Charitable Remainder Trust (CRT)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

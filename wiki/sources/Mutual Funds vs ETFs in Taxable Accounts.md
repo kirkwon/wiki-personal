@@ -1,5 +1,6 @@
 ---
 title: 'Source: Mutual Funds vs ETFs in Taxable Accounts.md'
+description: "Mutual Funds vs ETFs in Taxable Accounts"
 type: source
 created: 2026-05-09
 updated: 2026-05-09

@@ -1,5 +1,6 @@
 ---
 title: Prediction-markets
+description: "Prediction markets are platforms where individuals can buy and sell shares representing the probability of various outcomes or events occurring, often used for forecasting future trends in cooking rec."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

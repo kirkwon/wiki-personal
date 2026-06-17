@@ -1,5 +1,6 @@
 ---
 title: Robust Optimization
+description: "Robust Optimization is an approach to decision-making that seeks solutions resilient to uncertainty in model parameters or external conditions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

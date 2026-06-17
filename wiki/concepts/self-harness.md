@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Self-Harness
+description: "Definition
+Self-Harness is a new paradigm in which an LLM-based agent improves its own operating harness without relying on human engineers or stronger external agents."
 tags:
 - concept
 - agent

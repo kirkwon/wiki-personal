@@ -10,6 +10,7 @@ tags:
 - tax-optimization
 - investment-strategy
 title: 1031 Exchange Strategy
+description: "1031 Exchange Strategy"
 type: concept
 updated: 2026-05-09
 related:

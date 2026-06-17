@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Har Gow (虾饺)
+description: "Har Gow (虾饺, Xiājiǎo) — Shrimp Dumplings — is considered the gold standard of dim sum."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,9 @@
 ---
 type: source
 title: "Badanie: Dodawanie odniesień krzyżowych do pojęć AI"
+description: "Badanie: Dodawanie odniesień krzyżowych do pojęć AI
+Wprowadzenie
+Badanie to dotyczy dodawania odniesień krzyżowych do pojęć AI w celu poprawy ich zrozumiałości i wykorzystania w procesach decyzyjnych."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [badanie]

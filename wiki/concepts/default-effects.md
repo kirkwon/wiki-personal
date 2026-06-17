@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Default Effects
+description: "Default effects describe the phenomenon where people disproportionately stick with whatever option is pre-selected or presented as the default rather than actively choosing alternatives."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

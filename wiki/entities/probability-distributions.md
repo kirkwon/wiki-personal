@@ -1,5 +1,6 @@
 ---
 title: probability-distributions
+description: "probability-distributions"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

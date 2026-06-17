@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Upside of Irrationality - Dan Ariely
+description: "--
+The Upside of Irrationality"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

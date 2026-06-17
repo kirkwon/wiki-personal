@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Behavioral Game Theory
+description: "Behavioral Game Theory"
 created: 2026-05-03
 updated: 2026-05-12
 tags:

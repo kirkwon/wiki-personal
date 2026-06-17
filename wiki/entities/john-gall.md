@@ -1,6 +1,7 @@
 ---
 type: entity
 title: John Gall
+description: "Author of The Systems Bible: The Beginner's Guide to Systems Large and Small, a foundational text on systems thinking."
 created: 2026-04-17
 updated: 2026-05-10
 tags:

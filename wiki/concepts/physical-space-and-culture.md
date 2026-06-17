@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Physical Space and Culture
+description: "Physical Space and Culture"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

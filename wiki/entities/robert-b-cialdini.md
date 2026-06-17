@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Robert B. Cialdini
+description: "Robert B. Cialdini is a social psychologist and professor emeritus at Arizona State University, best known for his research on persuasion, compliance, and influence."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

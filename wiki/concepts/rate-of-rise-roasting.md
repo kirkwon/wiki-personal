@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 烘焙升温速率（ROR）
+description: "升温速率（Rate of Rise, ROR）是咖啡烘焙过程中每分钟温度上升速率的关键控制指标，直接影响烘焙特征和风味发展。"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

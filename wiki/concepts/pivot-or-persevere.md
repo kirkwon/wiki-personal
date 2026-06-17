@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Pivot or Persevere
+description: "Pivot or Persevere is the decision framework at the heart of the lean startup methodology."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

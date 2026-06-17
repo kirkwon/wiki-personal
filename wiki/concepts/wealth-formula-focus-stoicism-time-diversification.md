@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 'Wealth Formula: Focus + Stoicism × Time × Diversification'
+description: "--
+Wealth Formula: Focus + Stoicism × Time × Diversification"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

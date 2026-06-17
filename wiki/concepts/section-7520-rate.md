@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Section 7520 Rate
+description: "--
+IRS Section 7520 Rate"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

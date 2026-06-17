@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Embracing Uncertainty
+description: "Embracing Uncertainty"
 created: 2026-05-03
 updated: 2026-05-12
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Transfer Learning
+description: "Transfer learning is the process of applying knowledge gained from solving one problem to a different but related problem."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

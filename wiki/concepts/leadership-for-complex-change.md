@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Leadership for Complex Change
+description: "Leadership for Complex Change"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

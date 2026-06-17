@@ -1,5 +1,6 @@
 ---
 title: Pix2Pix
+description: "Pix2Pix is an artificial intelligence framework designed to perform image-to-image translation tasks by learning from paired examples; it can be applied in cooking for recipe visualization, photograph."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

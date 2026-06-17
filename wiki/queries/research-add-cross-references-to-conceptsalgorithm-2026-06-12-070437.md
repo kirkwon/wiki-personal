@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Add cross-references to concepts/algorithmic-nature-of-intuition.md"
+description: "Research: Add cross-references to concepts/algorithmic-nature-of-intuition.md"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

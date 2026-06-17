@@ -1,5 +1,6 @@
 ---
 title: Inverse Reinforcement Learning (IRL)
+description: "Inverse Reinforcement Learning (IRL)"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

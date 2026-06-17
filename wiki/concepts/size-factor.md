@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Size Factor
+description: "The size factor is based on the small cap premium: small cap stocks outperform large cap stocks over time."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

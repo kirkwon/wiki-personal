@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Strategic Quitting
+description: "Strategic quitting is the deliberate practice of recognizing when to walk away from a commitment or endeavor as a means of optimizing long-term outcomes."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Resilience (Systems)
+description: "Resilience is the ability of a system to absorb disturbance and maintain its essential function."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

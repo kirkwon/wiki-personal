@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 发酵豆瓣酱（Doubanjiang）
+description: "--
+发酵豆瓣酱（Doubanjiang，豆瓣酱）"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

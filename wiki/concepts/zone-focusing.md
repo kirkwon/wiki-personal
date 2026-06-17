@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Zone Focusing
+description: "Zone focusing is a technique where the photographer pre-focuses to a set distance and uses a wide aperture to create a deep depth of field, then shoots without refocusing."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

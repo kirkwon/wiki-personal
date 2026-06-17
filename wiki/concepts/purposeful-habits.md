@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Purposeful Habits
+description: "Habits driven by meaning and purpose rather than mere routine or optimization."
 created: 2026-04-18
 updated: 2026-05-09
 tags:

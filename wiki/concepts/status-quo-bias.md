@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Status Quo Bias
+description: "Status quo bias is the preference for the current state of affairs."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

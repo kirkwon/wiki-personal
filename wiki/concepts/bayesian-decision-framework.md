@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Bayesian Decision Framework
+description: "--
+Bayesian Decision Framework"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

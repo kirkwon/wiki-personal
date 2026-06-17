@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Understanding Others Through Their Mental Models
+description: "Understanding Others Through Their Mental Models"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

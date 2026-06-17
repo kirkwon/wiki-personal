@@ -1,5 +1,6 @@
 ---
 title: Andrew Ng
+description: "Andrew Ng is an influential computer scientist known for his contributions to machine learning and artificial intelligence, co-founding Coursera, and authoring books on personal finance and cognitive."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

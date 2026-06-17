@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Nonlinearity and Emergent Properties
+description: "Nonlinearity and Emergent Properties"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

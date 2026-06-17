@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Three Elements of Leader-Led Organizations
+description: "The Three Elements of Leader-Led Organizations"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

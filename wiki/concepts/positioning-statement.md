@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Positioning Statement
+description: "Positioning Statement
+A positioning statement is a statement that defines a company's unique value proposition."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [positioning-statement, marketing, business]

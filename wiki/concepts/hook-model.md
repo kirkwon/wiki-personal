@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Hook Model
+description: "The Hook Model is a four-phase framework for building habit-forming products."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

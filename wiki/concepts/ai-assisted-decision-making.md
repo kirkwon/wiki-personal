@@ -1,6 +1,9 @@
 ---
 type: concept
 title: AI-assisted decision making
+description: "AI-assisted decision making
+Definicja
+AI-assisted decision making to proces, w którym systemy AI są wykorzystywane do wspomagania ludzi w podejmowaniu decyzji."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [ai, decyzje]

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Circle of Fifths
+description: "The Circle of Fifths is the organizing principle for key signatures in Western music."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

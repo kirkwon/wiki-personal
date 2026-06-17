@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Industries
+description: "Industries is a mental model that functions as a conceptual tool for navigating complexity through pattern and relationship recognition."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

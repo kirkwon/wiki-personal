@@ -1,5 +1,6 @@
 ---
 title: Flavor Building
+description: "Flavor building is the process of enhancing taste profiles through careful selection and combination of ingredients in cooking or photographic composition to create a harmonious final product."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

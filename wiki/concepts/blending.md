@@ -1,5 +1,6 @@
 ---
 title: Blending
+description: "In cooking, blending refers to the process of combining ingredients thoroughly until they reach a uniform consistency, often using tools like blenders or food processors."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

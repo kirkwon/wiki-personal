@@ -1,5 +1,5 @@
 ---
-type: stub
+type: concept
 category:
 - Cooking
 created: 2026-04-24
@@ -10,6 +10,8 @@ tags:
 related: []
 status: stub
 title: Caramelization
+description: "Overview
+Caramelization is the process of heating sugar to create a golden-brown color and rich flavor."
 updated: 2026-04-24
 ---
 --

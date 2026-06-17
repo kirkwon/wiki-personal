@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Domestic Asset Protection Trust (DAPT)
+description: "--
+Domestic Asset Protection Trust (DAPT)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

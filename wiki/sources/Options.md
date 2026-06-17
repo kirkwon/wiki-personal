@@ -1,6 +1,7 @@
 ---
 type: source
 title: Options.md
+description: "This source document introduces 'Options' as a mental model — a conceptual tool for navigating complex situations by providing a mental shortcut for understanding patterns and relationships."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

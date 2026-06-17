@@ -1,5 +1,6 @@
 ---
 title: learning
+description: "Learning is the process of acquiring new knowledge or skills through experience, study, or teaching."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

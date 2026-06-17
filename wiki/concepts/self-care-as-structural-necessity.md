@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Self-Care as Structural Necessity
+description: "--
+Self-Care as Structural Necessity"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

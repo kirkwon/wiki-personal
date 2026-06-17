@@ -1,6 +1,7 @@
 ---
 type: concept
 title: System Dynamics
+description: "System dynamics is a methodology for modeling complex systems through feedback loops, stocks, flows, and delays."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

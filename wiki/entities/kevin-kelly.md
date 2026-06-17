@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Kevin Kelly
+description: "Kevin Kelly is an author, journalist, and founding executive editor of Wired magazine."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

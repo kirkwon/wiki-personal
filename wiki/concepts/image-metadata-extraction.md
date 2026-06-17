@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Image Metadata Extraction
+description: "--
+Image Metadata Extraction"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

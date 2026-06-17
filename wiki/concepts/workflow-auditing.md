@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Workflow auditing
+description: "Workflow auditing is the practice of systematically reviewing how time, attention, and effort are spent in order to identify efficiency losses and optimize output."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Jazz Harmony
+description: "Jazz-harmoni utvider tradisjonell harmoni med akkorderforlengelser (7., 9., 11., 13.), altererte toner og komplekse progressjoner."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

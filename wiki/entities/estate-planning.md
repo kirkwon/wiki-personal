@@ -1,5 +1,6 @@
 ---
 title: estate-planning
+description: "Estate planning is the process of organizing an individual's assets to ensure their distribution according to their wishes after death or incapacitation."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

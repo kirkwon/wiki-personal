@@ -2,6 +2,7 @@
 
 type: concept
 title: Proactive Influence
+description: "Acting ethically to drive change and create positive impact, rather than reacting to circumstances."
 created: 2026-04-18
 updated: 2026-05-09
 tags: [leadership, mental-models, productivity]

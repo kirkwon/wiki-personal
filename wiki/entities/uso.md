@@ -1,5 +1,6 @@
 ---
 title: USO
+description: "Uniform Stock Obligation (USO) refers to the legal requirement or commitment an individual has to maintain a certain level of uniform stock for specific purposes such as cooking competitions, photogra."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

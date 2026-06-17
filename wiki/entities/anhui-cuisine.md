@@ -1,5 +1,6 @@
 ---
 title: anhui-cuisine
+description: "Anhui cuisine refers to the regional food style originating from Anhui Province in China, characterized by its use of fresh local ingredients, diverse vegetables, and aromatic herbs."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

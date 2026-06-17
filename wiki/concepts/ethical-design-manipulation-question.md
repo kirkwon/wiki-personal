@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Ethical Design and the Manipulation Question
+description: "Ethical Design and the Manipulation Question"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Compounding Time
+description: "Wealth grows exponentially through time, not just through returns."
 created: 2026-04-29
 updated: 2026-05-09
 tags:

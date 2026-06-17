@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Golden Gate Park
+description: "Golden Gate Park est un grand parc urbain majeur situé dans l'ouest de San Francisco, entre le [[sunset-district]] et l'océan Pacifique."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

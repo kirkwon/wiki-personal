@@ -1,5 +1,6 @@
 ---
 title: adrift - Scott Galloway
+description: "adrift - Scott Galloway"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

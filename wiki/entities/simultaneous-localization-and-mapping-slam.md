@@ -1,5 +1,6 @@
 ---
 title: Simultaneous Localization and Mapping (SLAM)
+description: "Simultaneous Localization and Mapping (SLAM)"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

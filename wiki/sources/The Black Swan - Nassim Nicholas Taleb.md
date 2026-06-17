@@ -1,6 +1,8 @@
 ---
 type: source
 title: The Black Swan - Nassim Nicholas Taleb
+description: "--
+The Black Swan - Nassim Nicholas Taleb"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

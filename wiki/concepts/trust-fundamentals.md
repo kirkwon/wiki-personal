@@ -1,5 +1,6 @@
 ---
 title: Trust Fundamentals
+description: "A trust is a legal arrangement where one party (trustee) holds legal title to assets for the benefit of another party (beneficiary), managed according to the terms set by the trust creator (settlor/gr."
 created: 2026-04-24
 updated: 2026-05-09
 type: concept

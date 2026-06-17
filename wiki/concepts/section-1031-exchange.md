@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Section 1031 Exchange
+description: "--
+Section 1031 Exchange"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

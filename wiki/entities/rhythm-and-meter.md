@@ -1,5 +1,6 @@
 ---
 title: Rhythm and Meter
+description: "Rhythm and meter refer to the patterns of beats or pulses that create structure within music, similar to how timing is crucial in cooking recipes for consistency."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

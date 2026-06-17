@@ -1,5 +1,6 @@
 ---
 title: brewing
+description: "Brewing is the controlled process of fermenting ingredients to produce beverages like beer or tea."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

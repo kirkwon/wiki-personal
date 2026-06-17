@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Co-Evolutionary Relationships
+description: "Co-Evolutionary Relationships"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

@@ -1,6 +1,7 @@
 ---
 type: entity
 title: 转鼓式烘焙机
+description: "转鼓式烘焙机是专业咖啡烘焙的标准设备，通过旋转鼓体在热源上方加热咖啡豆。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

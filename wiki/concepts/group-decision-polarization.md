@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Group Decision Polarization
+description: "Group Decision Polarization"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

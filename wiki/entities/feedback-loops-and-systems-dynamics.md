@@ -1,5 +1,6 @@
 ---
 title: feedback-loops-and-systems-dynamics
+description: "feedback-loops-and-systems-dynamics"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: source
 title: The Checklist Manifesto - Atul Gawande
+description: "The Checklist Manifesto - Atul Gawande"
 created: 2026-05-03
 updated: 2026-05-10
 tags:

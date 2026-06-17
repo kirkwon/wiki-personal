@@ -1,5 +1,6 @@
 ---
 title: points
+description: "In cooking, points refer to the quantifiable aspects of recipes such as ingredient measurements or steps in preparation."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

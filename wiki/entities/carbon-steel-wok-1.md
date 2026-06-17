@@ -1,5 +1,6 @@
 ---
 title: Carbon Steel Wok
+description: "A Carbon Steel Wok is a versatile cookware item made primarily from carbon steel, known for its superior heat conduction and ability to achieve high temperatures quickly."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

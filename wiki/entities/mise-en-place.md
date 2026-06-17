@@ -1,5 +1,6 @@
 ---
 title: Mise en Place
+description: "'Mise en Place' is the practice of organizing ingredients and tools before cooking to streamline the process."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

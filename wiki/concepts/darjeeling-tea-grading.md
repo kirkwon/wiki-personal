@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 大吉岭茶分级系统
+description: "大吉岭茶采用复杂的分级系统，主要基于叶片大小、叶尖含量和外观一致性。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

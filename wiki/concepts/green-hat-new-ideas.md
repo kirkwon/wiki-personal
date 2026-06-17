@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Green Hat - New Ideas
+description: "Green Hat - New Ideas"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

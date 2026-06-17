@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Trust Protector
+description: "A special oversight role in trust administration with powers to ensure the trust is managed according to its purposes."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Maillard reaction
+description: "The Maillard reaction is a chemical process between amino acids and reducing sugars that occurs when cooking food at high temperatures, resulting in the browning of food and development of complex fla."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

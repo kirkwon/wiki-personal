@@ -1,5 +1,6 @@
 ---
 title: Skin in the Game
+description: "'Skin in the Game' refers to an individual's financial stake or investment in an endeavor, which creates a sense of accountability and motivation for success."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Solitude and Creativity
+description: "--
+Solitude and Creativity"
 created: 2026-04-29
 updated: 2026-05-03
 tags:

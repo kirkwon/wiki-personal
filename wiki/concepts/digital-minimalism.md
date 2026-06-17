@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Digital Minimalism
+description: "Digital minimalism is a philosophy and practice of intentional, purpose-driven technology use, in contrast to default digital habits that are filled with distractions."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

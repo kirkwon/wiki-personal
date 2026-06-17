@@ -1,5 +1,6 @@
 ---
 title: 红茶加工工艺
+description: "红茶加工的核心是完全氧化，这是红茶区别于其他茶类的关键特征。"
 created: 2026-04-24
 updated: 2026-04-24
 type: concept

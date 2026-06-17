@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Metabolic Flexibility
+description: "Metabolic Flexibility"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

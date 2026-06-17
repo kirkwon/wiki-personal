@@ -1,5 +1,6 @@
 ---
 title: Κίνδυνος Συσcentration
+description: "Κίνδυνος Συσcentration"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

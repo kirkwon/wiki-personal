@@ -1,6 +1,8 @@
 ---
 type: source
 title: Rosemary (Rosmarinus officinalis)
+description: "--
+Rosemary (Rosmarinus officinalis)"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Loss Aversion in Choice
+description: "Loss Aversion in Choice"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

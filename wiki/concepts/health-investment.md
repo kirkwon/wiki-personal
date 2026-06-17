@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Health Investment
+description: "Health Investment is the concept of allocating time, money, and effort toward maintaining and improving one's physical and mental well-being as a form of capital allocation."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

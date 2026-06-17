@@ -1,6 +1,7 @@
 ---
 type: concept
 title: わさび（Wasabi）
+description: "日本の山葵。新鮮な根をすり下ろすか、ペーストを使う。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

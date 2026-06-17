@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Lifestyle Design
+description: "Lifestyle Design is a framework for deliberately constructing one's ideal life around four core elements: time, money, people, and place."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

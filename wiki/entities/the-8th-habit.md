@@ -1,6 +1,7 @@
 ---
 type: entity
 title: The 8th Habit
+description: "The 8th Habit by Stephen R."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

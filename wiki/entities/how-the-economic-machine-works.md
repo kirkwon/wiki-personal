@@ -1,5 +1,6 @@
 ---
 title: How the Economic Machine Works
+description: "How the Economic Machine Works"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

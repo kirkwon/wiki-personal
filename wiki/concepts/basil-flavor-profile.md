@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Basil Flavor Profile
+description: "--
+Basil Flavor Profile"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

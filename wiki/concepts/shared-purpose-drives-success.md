@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Shared Purpose Drives Success
+description: "Shared Purpose Drives Success"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Specialization and Generalization
+description: "Specialization and Generalization"
 created: 2026-05-03
 updated: 2026-05-10
 tags:

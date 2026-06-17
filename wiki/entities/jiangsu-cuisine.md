@@ -1,5 +1,6 @@
 ---
 title: jiangsu-cuisine
+description: "Jiangsu cuisine refers to the traditional food culture of Jiangsu province in China, characterized by its diverse flavors, emphasis on fresh ingredients, and regional specialties such as Suzhou's dim."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Feynman Technique (Learning)
+description: "Feynman Technique (Learning)"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

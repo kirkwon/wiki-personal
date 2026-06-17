@@ -1,5 +1,6 @@
 ---
 title: Nitish Srivastava
+description: "Nitish Srivastava is an individual with diverse interests spanning cooking, photography, personal finance management, and a keen interest in cognitive science."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

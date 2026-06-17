@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Situational Ethics
+description: "The idea that ethical decisions are heavily shaped by situational factors—including the halo effect, peer pressure, authority, incentive structures, and cultural norms—sometimes overriding personal mo."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

@@ -1,5 +1,6 @@
 ---
 title: income-generation
+description: "Income generation refers to the process of creating revenue streams through various activities or services."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

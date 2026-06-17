@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 'Pre-Suasion: A Revolutionary Way to Influence and Persuade'
+description: "--
+Pre-Suasion: A Revolutionary Way to Influence and Persuade"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

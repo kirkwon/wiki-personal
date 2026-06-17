@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Systems Dynamics Models
+description: "Systems Dynamics Models"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

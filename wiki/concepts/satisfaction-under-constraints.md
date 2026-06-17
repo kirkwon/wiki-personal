@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Satisfaction Under Constraints
+description: "Satisfaction Under Constraints"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

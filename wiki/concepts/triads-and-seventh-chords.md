@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Triads and Seventh Chords
+description: "--
+Triads and Seventh Chords"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,7 @@
 ---
 type: source
 title: The Obstacle Is the Way - Ryan Holiday (Book Summary)
+description: "The Obstacle Is the Way - Ryan Holiday (Book Summary)"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

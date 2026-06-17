@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Espresso Machine（压力咖啡机）
+description: "--
+Espresso Machine（压力咖啡机）"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

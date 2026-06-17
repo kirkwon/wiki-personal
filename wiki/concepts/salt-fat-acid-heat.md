@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Salt Fat Acid Heat
+description: "--
+Salt Fat Acid Heat"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

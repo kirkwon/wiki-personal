@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Charles Duhigg
+description: "Charles Duhigg
+Charles Duhigg is an American investigative journalist and non-fiction author, known for his works exploring the science of habits, productivity, and communication."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

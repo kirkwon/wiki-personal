@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Covered Call
+description: "Covered Call είναι μια στρατηγική options όπου κατέχω μετοχή και πωλώ call option σε αυτό το strike price. Η στρατηγική παράγει εισπράξεις (premium) σε μετοχές που ήδη κατέχω."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

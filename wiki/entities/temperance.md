@@ -1,5 +1,6 @@
 ---
 title: Temperance
+description: "Temperance is the practice of moderation or self-restraint concerning consumption and actions across various domains."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Volunteer's folly
+description: "'Volunteer's folly' refers to the common misconception that volunteering always leads to financial gain or professional advancement."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

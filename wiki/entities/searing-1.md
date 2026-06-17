@@ -1,5 +1,6 @@
 ---
 title: Searing
+description: "In cooking, searing refers to the process of browning the surface of food at high temperatures, creating flavorful crusts through Maillard reactions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Cliff House
+description: "The Cliff House refers to an iconic seaside dining establishment known for its panoramic views of the ocean, often featured in photographic compositions that blend natural beauty with culinary artistr."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

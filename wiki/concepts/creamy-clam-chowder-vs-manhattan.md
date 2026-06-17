@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Creamy Clam Chowder vs Manhattan Chowder
+description: "--
+Creamy Clam Chowder vs Manhattan Chowder"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

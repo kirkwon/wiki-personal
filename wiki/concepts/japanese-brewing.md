@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Japanese Brewing (日本冲泡法)
+description: "--
+Japanese Brewing (日本冲泡法)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

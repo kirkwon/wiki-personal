@@ -1,6 +1,8 @@
 ---
 type: concept
 title: AI as Augmentation, Not Replacement
+description: "--
+AI as Augmentation, Not Replacement"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

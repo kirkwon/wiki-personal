@@ -1,5 +1,6 @@
 ---
 title: Boredom
+description: "Boredom is a psychological state characterized by a lack of interest or engagement with one's current activities, often leading to feelings of restlessness and dissatisfaction."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

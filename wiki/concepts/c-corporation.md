@@ -1,6 +1,7 @@
 ---
 type: concept
 title: C Corporation
+description: "A C Corporation is a separate legal entity owned by shareholders, providing limited liability but subject to double taxation."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

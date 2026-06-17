@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Thinking in Systems - Donella H. Meadows
+description: "-
+Thinking in Systems - Donella H Meadows"
 created: 2026-04-29
 updated: 2026-05-10
 tags:

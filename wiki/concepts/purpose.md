@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Purpose
+description: "Purpose is the deep, motivating reason behind one's actions—the driving force that gives work and life coherence."
 created: 2026-04-29
 updated: 2026-05-12
 tags:

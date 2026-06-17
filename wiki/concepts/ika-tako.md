@@ -1,6 +1,7 @@
 ---
 type: concept
 title: イカとタコ（Ika and Tako）
+description: "イカは通年。弾力があり甘い。タコも通年。弾力がありナッツ風。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

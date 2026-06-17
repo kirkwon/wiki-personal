@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Power Transition West to East
+description: "--
+Power Transition West to East"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

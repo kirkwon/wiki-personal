@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Pre-Suasion
+description: "Pre-suasion is a concept introduced by Robert B."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

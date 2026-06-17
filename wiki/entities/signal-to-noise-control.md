@@ -1,5 +1,6 @@
 ---
 title: signal-to-noise-control
+description: "signal-to-noise-control"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

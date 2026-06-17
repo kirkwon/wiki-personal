@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Reasonable Compensation
+description: "--
+Reasonable Compensation"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

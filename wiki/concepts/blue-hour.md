@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Blue Hour
+description: "Blue hour is the period when the sun is just below the horizon and the sky is deep blue."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

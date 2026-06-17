@@ -1,6 +1,8 @@
 ---
 type: source
 title: Adrift - Scott Galloway
+description: "--
+Adrift - Scott Galloway"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

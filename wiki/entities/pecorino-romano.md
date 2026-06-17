@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Pecorino Romano
+description: "Pecorino Romano is a sharp, salty sheep's milk cheese from Rome and Lazio."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

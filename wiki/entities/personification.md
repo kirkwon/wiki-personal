@@ -1,5 +1,6 @@
 ---
 title: Personification
+description: "Personification is attributing human characteristics or behaviors to non-human entities or abstract concepts."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

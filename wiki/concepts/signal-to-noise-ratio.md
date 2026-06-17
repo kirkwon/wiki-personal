@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Signal-to-noise ratio
+description: "--
+Signal-to-noise ratio"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

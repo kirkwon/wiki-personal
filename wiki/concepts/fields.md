@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Fields
+description: "Fields is a conceptual tool or mental model for understanding and navigating complex situations through pattern recognition and relationship mapping."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

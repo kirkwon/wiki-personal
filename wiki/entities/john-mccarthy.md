@@ -1,5 +1,6 @@
 ---
 title: John McCarthy
+description: "John McCarthy was an influential computer scientist known for coining the term 'Artificial Intelligence.' He made significant contributions to cognitive science by developing theories on human problem."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

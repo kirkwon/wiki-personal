@@ -1,5 +1,6 @@
 ---
 title: Active Learning
+description: "Active learning is an educational approach where individuals actively engage with the material through hands-on experiences or problem-solving rather than passive reception of information."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: source
 title: Idea (Mental Model Source)
+description: "--
+Idea (Mental Model Source)"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

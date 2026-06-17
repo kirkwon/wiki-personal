@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Nir Eyal
+description: "Nir Eyal is a product design expert and author of Hooked: How to Build Habit-Forming Products."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

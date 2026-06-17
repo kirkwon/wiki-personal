@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Prep Techniques
+description: "Prep techniques encompass the preparatory steps that occur before cooking begins."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

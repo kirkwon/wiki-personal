@@ -1,6 +1,7 @@
 ---
 type: concept
 title: First Things First Principle
+description: "First Things First Principle"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

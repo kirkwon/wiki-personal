@@ -10,6 +10,8 @@ tags:
 related: []
 status: draft
 title: Overview
+description: "Overview
+This wiki serves as a personal knowledge base covering cooking, photography, personal finance, and general second-brain topics for lifelong learning and reference."
 updated: 2026-05-12
 ---
 

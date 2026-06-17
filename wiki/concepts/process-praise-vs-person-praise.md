@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Process Praise vs. Person Praise
+description: "Process Praise vs. Person Praise"
 created: 2026-05-03
 updated: 2026-05-11
 tags:

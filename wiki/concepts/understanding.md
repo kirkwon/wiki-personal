@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Understanding
+description: "Understanding is a universal mental model that serves as a conceptual tool for navigating complex situations."
 created: 2026-04-29
 updated: 2026-05-12
 tags:

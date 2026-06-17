@@ -1,5 +1,6 @@
 ---
 title: Curriculum Learning
+description: "Curriculum learning is an educational approach where complex skills are acquired progressively through structured stages of increasing difficulty, similar to how one might learn recipes in cooking or."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

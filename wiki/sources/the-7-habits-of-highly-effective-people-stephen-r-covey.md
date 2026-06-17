@@ -1,6 +1,8 @@
 ---
 type: source
 title: The 7 Habits of Highly Effective People - Stephen R. Covey
+description: "--
+The 7 Habits of Highly Effective People - Stephen R."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

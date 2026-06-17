@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Essentialist Toolkit
+description: "--
+Essentialist Toolkit"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Terrain Analysis Strategy
+description: "Terrain Analysis Strategy"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

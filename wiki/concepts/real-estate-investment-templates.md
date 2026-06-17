@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Real Estate Investment Templates
+description: "--
+Real Estate Investment Templates"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

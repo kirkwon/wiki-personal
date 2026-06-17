@@ -1,5 +1,6 @@
 ---
 title: Anchoring
+description: "Anchoring is a cognitive bias where an individual relies too heavily on the first piece of information (the 'anchor') when making decisions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

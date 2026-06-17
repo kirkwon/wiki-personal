@@ -1,5 +1,6 @@
 ---
 title: Tim Berners-Lee
+description: "Tim Berners-Lee is the inventor of the World Wide Web, an innovative system that revolutionized information sharing and accessibility."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

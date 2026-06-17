@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Debt Avalanche vs. Debt Snowball
+description: "--
+Debt Avalanche vs."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

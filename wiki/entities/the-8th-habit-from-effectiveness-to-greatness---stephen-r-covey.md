@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 'The 8th Habit: From Effectiveness to Greatness'
+description: "-
+The 8th Habit: From Effectiveness to Greatness"
 created: 2026-04-18
 updated: 2026-05-10
 tags:

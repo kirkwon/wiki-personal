@@ -1,5 +1,6 @@
 ---
 title: RLlib
+description: "RLlib is an open-source reinforcement learning library that provides tools to build and train models capable of making decisions through trial and error."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

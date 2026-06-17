@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Ristretto & Lungo (浓缩与长萃)
+description: "--
+Ristretto & Lungo (浓缩与长萃)"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Mirepoix（法餐三宝）
+description: "定义
+Mirepoix 是法餐的基础芳香基料组合，由洋葱、胡萝卜和芹菜组成，比例通常为 2:1:1（洋葱为主）。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

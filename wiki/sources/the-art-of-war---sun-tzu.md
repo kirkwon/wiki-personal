@@ -3,6 +3,7 @@ source_url: null
 ingested: 2026-05-03
 sha256: 61c7114fa251bee4bba877ecb25671b2b94a464bc885a8e1963388de522d25bf
 title: The Art of War - Sun Tzu
+description: "The Art of War - Sun Tzu"
 type: note
 created: '2026-05-14'
 updated: '2026-05-14'

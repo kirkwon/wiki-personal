@@ -1,5 +1,6 @@
 ---
 title: GLD
+description: "Global Depository Receipts (GDRs) are financial instruments issued by banks to represent shares in foreign companies, allowing investors to purchase global equity with ease across different markets."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

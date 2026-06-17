@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Innovation Through Mental Models
+description: "--
+Innovation Through Mental Models"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

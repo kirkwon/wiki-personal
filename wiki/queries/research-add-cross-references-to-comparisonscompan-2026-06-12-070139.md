@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Add cross-references to comparisons/company-structure-guide.md"
+description: "Research: Add cross-references to comparisons/company-structure-guide.md"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

@@ -1,5 +1,6 @@
 ---
 title: trust-in-communication
+description: "trust-in-communication"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Carbon Steel Wok (碳钢锅)
+description: "--
+Carbon Steel Wok (碳钢锅)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

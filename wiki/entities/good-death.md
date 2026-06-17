@@ -1,5 +1,6 @@
 ---
 title: good-death
+description: "A good death refers to the peaceful passing of an individual that aligns with their values, desires, and cultural beliefs."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

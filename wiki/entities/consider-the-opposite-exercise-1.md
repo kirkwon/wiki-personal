@@ -1,5 +1,6 @@
 ---
 title: Consider-the-opposite exercise
+description: "Consider-the-opposite exercise"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: India
+description: "India is a vast South Asian country with diverse culinary traditions that greatly influence cooking practices worldwide."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

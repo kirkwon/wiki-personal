@@ -1,5 +1,6 @@
 ---
 title: Robin Rombach
+description: "Robin Rombach is an individual with diverse interests and skills spanning cooking, photography, personal finance management, and a keen interest in cognitive science."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

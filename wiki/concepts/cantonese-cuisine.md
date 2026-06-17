@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 粤菜
+description: "粤菜（Cantonese Cuisine）是中国最具影响力的地方菜系之一，以清淡、新鲜、本味为核心理念。它是西方最熟悉的中华菜系，因其温和的风味和烹饪技法（蒸、炒）更易被接受。"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

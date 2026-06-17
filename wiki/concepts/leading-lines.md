@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Leading Lines
+description: "Leading lines are lines in an image that guide the viewer's eye toward the main subject."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

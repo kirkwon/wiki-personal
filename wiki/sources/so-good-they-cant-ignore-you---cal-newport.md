@@ -4,6 +4,8 @@ ingested: 2026-05-03
 sha256: d81ba0c298bbd26ca6d19883d8e435a103360644e0813d8e3f0ae8735c51f2fc
 type: source
 title: So Good They Can't Ignore You - Cal Newport
+description: "--
+So Good They Can't Ignore You - Cal Newport"
 created: 2026-04-29
 updated: 2026-05-10
 tags:

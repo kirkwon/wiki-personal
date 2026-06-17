@@ -1,5 +1,6 @@
 ---
 title: perspectives-in-decision-making
+description: "perspectives-in-decision-making"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

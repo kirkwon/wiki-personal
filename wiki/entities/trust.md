@@ -1,5 +1,6 @@
 ---
 title: Trust
+description: "A trust is the confidence placed on an individual or entity to manage resources responsibly, whether it's cooking ingredients, photographic assets, financial investments, or cognitive data; ensuring i."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

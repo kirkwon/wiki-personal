@@ -1,5 +1,6 @@
 ---
 title: Bayesian Networks
+description: "A Bayesian Network is a graphical model representing probabilistic relationships among variables using nodes (variables) and edges (dependencies)."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

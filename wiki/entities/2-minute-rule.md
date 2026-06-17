@@ -1,5 +1,6 @@
 ---
 title: 2-minute rule
+description: "The '2-minute rule' is a decision-making guideline suggesting that if an action or task can be completed within two minutes, it should be done immediately without delay."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

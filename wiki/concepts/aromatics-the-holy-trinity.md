@@ -26,6 +26,7 @@ related:
 - chinese-cuisine
 - marinades
 title: Aromatics - The Holy Trinity
+description: "Aromatics - The Holy Trinity 中餐三宝"
 type: concept
 ---
 --

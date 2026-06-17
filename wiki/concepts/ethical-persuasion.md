@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Ethics of Persuasion
+description: "--
+Ethics of Persuasion"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

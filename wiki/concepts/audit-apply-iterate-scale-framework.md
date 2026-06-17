@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Audit-Apply-Iterate-Scale framework
+description: "--
+Audit-Apply-Iterate-Scale framework"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

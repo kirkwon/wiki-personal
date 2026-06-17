@@ -1,5 +1,6 @@
 ---
 title: The Model Thinker
+description: "'The Model Thinker' is an individual who applies systematic reasoning to cooking recipes, optimizing flavor combinations; in photography, they analyze light and composition for impactful images; in pe."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

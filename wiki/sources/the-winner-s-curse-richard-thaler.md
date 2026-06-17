@@ -1,6 +1,8 @@
 ---
 type: source
 title: The Winner's Curse - Richard Thaler
+description: "--
+The Winner's Curse - Richard Thaler"
 created: 2024-04-17
 updated: 2024-04-17
 tags:

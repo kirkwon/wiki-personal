@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Experience vs. Algorithms in Expertise
+description: "Experience vs. Algorithms in Expertise"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

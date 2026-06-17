@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Momentum Factor
+description: "The momentum factor is based on the premise that stocks which have performed well in the past 3-12 months tend to continue outperforming."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

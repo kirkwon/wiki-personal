@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Annie Duke
+description: "Annie Duke is a former professional poker player, author, and decision-making expert."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

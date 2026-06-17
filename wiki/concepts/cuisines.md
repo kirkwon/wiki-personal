@@ -1,5 +1,6 @@
 ---
 title: Cuisines
+description: "Cuisines refer to the distinct styles of cooking that are characteristic of specific regions or cultures, often involving unique ingredients, preparation methods, and presentation techniques."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Will to Meaning
+description: "The will to meaning is Viktor Frankl's central concept: the primary human drive is not the pursuit of pleasure (as Freud proposed) or power (as Adler argued), but the search for meaning."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

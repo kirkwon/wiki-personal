@@ -2,6 +2,7 @@
 
 type: concept
 title: Situation
+description: "Situation is a universal mental model — a conceptual tool that helps understand and navigate complex situations."
 created: 2026-04-29
 updated: 2026-05-12
 tags: [mental-model, decision-making, strategy, mental-models]

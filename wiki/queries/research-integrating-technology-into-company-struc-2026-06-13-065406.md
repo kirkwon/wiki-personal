@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Integrating Technology into Company Structure Charts"
+description: "Research: Integrating Technology into Company Structure Charts"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

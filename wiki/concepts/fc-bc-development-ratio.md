@@ -1,6 +1,7 @@
 ---
 type: concept
 title: FC/BC发育比例
+description: "FC/BC比例是一爆（First Crack）到烘焙结束（Beginning of Charge或烘焙终点）的时间比，是控制烘焙质量的核心指标。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

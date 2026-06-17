@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 25x Expenses Rule
+description: "The 25x expenses rule is a core retirement planning heuristic: your portfolio should be 25 times your annual retirement expenses."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

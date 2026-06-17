@@ -1,5 +1,6 @@
 ---
 title: mulato
+description: "In the culinary context, 'mulato' refers to a person of mixed African and European ancestry; this term is not commonly used in professional cooking but may appear in discussions about cultural influen."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

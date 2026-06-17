@@ -1,5 +1,6 @@
 ---
 title: fujian-cuisine
+description: "Fujian cuisine is an umbrella term encompassing the diverse culinary traditions of Fujian province in China, characterized by its use of fresh seafood, fragrant spices, and intricate cooking technique."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 70-80% Budget Rule
+description: "--
+70-80% Budget Rule"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

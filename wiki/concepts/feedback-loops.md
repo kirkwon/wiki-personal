@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Feedback Loops
+description: "Feedback Loops
+Feedback loops are mechanisms within systems where the output of a process feeds back as input, amplifying or stabilizing behavior."
 created: 2026-05-03
 updated: 2026-06-12
 tags: ["mental-models", "cognitive-science", "psychology", "systems-thinking", "decision-making"]

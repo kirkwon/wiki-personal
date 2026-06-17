@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Miles Davis
+description: "Miles Davis (May 26, 1926 – September 28, 1991) was a groundbreaking jazz trumpeter, bandleader, and composer from Alton, Illinois."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

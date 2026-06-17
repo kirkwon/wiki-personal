@@ -1,5 +1,6 @@
 ---
 title: Cold Tea
+description: "A cold tea is a chilled beverage made by steeping tea leaves or bags in cool water, typically served without milk or sweeteners to preserve its natural flavors."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

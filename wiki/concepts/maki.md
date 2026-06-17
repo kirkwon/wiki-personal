@@ -1,6 +1,11 @@
 ---
 type: concept
 title: 巻き寿司（Maki）
+description: "種類
+- 細巻き（Hosomaki） - 細いロール。1種類の具。
+- 太巻き（Futomaki） - 太いロール。複数の具。
+- 裏巻き（Uramaki） - 米を外側にしたロール。
+- 手巻き（Temaki） - 手で巻く円錐形。自分で巻く。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

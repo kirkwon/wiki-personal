@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Getting Wealthy vs. Staying Wealthy
+description: "--
+Getting Wealthy vs."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

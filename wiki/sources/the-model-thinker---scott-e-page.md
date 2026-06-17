@@ -1,6 +1,7 @@
 ---
 type: source
 title: The Model Thinker - Scott E. Page
+description: "The Model Thinker - Scott E."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

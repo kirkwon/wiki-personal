@@ -1,6 +1,11 @@
 ---
 type: concept
 title: 新鮮さの指標
+description: "視覚的指標
+- 目が輝いていること
+- 鰭が赤いこと
+- 身が硬いこと
+- 異臭がないこと"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Placebo effect
+description: "The placebo effect is the phenomenon where an individual experiences a perceived improvement in their condition due to belief in the treatment rather than the treatment itself."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

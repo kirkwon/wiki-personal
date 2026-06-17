@@ -1,5 +1,6 @@
 ---
 title: "Recipe: Perfect Stir-Fry"
+description: "Recipe: Perfect Stir-Fry"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

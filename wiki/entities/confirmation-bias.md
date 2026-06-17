@@ -1,5 +1,6 @@
 ---
 title: Confirmation bias
+description: "Confirmation bias is the tendency to search for, interpret, or recall information in a way that confirms one's preexisting beliefs or hypotheses."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Default Options and Inertia
+description: "Default Options and Inertia"
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

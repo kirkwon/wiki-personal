@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Smash Burger
+description: "Smash burger to regionalny styl burga popularny w Midwest i na całym terytorium USA, charakteryzujący się cienkim, chrupiącym patty smażonym na patelni griddle."
 created: 2026-04-24
 updated: 2026-05-09
 sources:

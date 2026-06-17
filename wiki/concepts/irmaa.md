@@ -1,6 +1,8 @@
 ---
 type: concept
 title: IRMAA
+description: "--
+IRMAA — Income-Related Monthly-Adjusted Amount"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

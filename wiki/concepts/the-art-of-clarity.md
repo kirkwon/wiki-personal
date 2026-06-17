@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Art of Clarity
+description: "The foundational concept of Shane Parrish's book, establishing clarity as the central purpose of clear thinking."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

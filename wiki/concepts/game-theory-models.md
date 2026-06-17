@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Game Theory Models
+description: "Models of strategic interaction between rational (or boundedly rational) actors."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

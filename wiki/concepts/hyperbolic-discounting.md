@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Hyperbolic Discounting
+description: "Hyperbolic Discounting"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

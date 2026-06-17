@@ -1,6 +1,7 @@
 ---
 type: source
 title: Beyond Good and Evil - Friedrich Nietzsche
+description: "Beyond Good and Evil - Friedrich Nietzsche"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

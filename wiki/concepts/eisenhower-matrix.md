@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Eisenhower Matrix
+description: "The Eisenhower Matrix is a prioritization framework that categorizes tasks by urgency and importance, enabling focused allocation of time and energy."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

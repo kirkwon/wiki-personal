@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Trust
+description: "Trust, as presented in David Allen's Making It All Work, is a foundational element of effective workload management and delegation."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

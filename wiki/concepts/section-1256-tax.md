@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Section 1256 Tax Treatment
+description: "--
+Section 1256 Tax Treatment"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

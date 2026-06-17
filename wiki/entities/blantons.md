@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Blanton's
+description: "Single Barrel Kentucky Bourbon, described as a collector's bourbon worth seeking out."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

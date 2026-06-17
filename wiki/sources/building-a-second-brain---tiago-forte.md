@@ -1,6 +1,7 @@
 ---
 type: source
 title: Building a Second Brain - Tiago Forte
+description: "Building a Second Brain - Tiago Forte"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Protein Denaturation
+description: "Protein denaturation is the structural alteration of protein molecules without breaking peptide bonds, often resulting in loss of function."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,9 @@
 ---
 type: overview
 title: Wiki Overview
+description: "Wiki Overview
+Introduction
+The wiki is a collection of pages that contain information about various concepts and entities related to personal knowledge management, software development, and artificial."
 created: 2026-05-14
 updated: 2026-06-13
 tags: []

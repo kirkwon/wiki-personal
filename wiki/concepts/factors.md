@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Factors
+description: "Factors is a universal mental model serving as a conceptual tool for navigating complexity through pattern and relationship recognition."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

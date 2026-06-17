@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 12-1 Momentum Metric
+description: "--
+12-1 Momentum Metric"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

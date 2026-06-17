@@ -1,6 +1,7 @@
 ---
 type: entity
 title: George Polya
+description: "George Polya was a Hungarian-American mathematician whose 1945 book How to Solve It became one of the most influential texts on mathematical problem-solving methodology."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

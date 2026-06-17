@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Chirashi
+description: "ちらし寿司は、寿司飯の上に各種刺身トッピングを散らした料理。お椀状に酢飯と刺身を散らしたもの。お祝い料理として盛り付けられる。"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

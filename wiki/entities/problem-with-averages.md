@@ -1,5 +1,6 @@
 ---
 title: Problem with averages
+description: "Problem with averages"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

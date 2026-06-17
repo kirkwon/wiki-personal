@@ -1,6 +1,8 @@
 ---
 type: concept
 title: ii-V-I Progression
+description: "--
+ii-V-I Progression"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

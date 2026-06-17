@@ -1,6 +1,8 @@
 ---
 type: entity
 title: The Subtle Art of Not Giving a F*ck - Mark Manson
+description: "--
+The Subtle Art of Not Giving a F*ck - Mark Manson"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

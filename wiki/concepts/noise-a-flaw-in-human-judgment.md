@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 'Noise: A Flaw in Human Judgment'
+description: "-
+Noise: A Flaw in Human Judgment"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

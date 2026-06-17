@@ -1,6 +1,8 @@
 ---
 type: source
 title: Whisky Tasting Notes
+description: "--
+Whisky Tasting Notes"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

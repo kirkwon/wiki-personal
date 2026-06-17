@@ -1,6 +1,10 @@
 ---
 type: concept
 title: 成都与重庆川菜差异
+description: "成都
+- 家常菜风格
+- 辣度较低
+- 更复杂精致"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

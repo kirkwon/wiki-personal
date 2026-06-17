@@ -1,5 +1,6 @@
 ---
 title: Evaluation of Generative Models
+description: "Evaluation of Generative Models"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

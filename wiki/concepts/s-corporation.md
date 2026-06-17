@@ -1,6 +1,7 @@
 ---
 type: concept
 title: S Corporation
+description: "An S Corporation is a small business corporation that combines pass-through taxation with corporate formalities and limited liability protection."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

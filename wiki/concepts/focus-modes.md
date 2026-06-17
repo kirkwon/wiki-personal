@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Focus Modes
+description: "Focus modes determine how the camera acquires and maintains focus on a subject."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

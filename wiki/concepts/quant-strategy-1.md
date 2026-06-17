@@ -1,6 +1,7 @@
 ---
-type: stub
+type: concept
 title: Quant Strategy
+description: "Rational decision-making frameworks applied to quantitative domains (e.g., algorithmic trading)."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

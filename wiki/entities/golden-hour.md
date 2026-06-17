@@ -1,5 +1,6 @@
 ---
 title: Golden Hour
+description: "The Golden Hour refers to the period shortly after sunrise or before sunset when daylight is redder and softer than at other times of the day."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,10 @@
 ---
 type: concept
 title: Soup Culture
+description: "- 清汤：蒸鱼配蔬菜、清炖汤
+- 浓汤：玉米鸡汤、南瓜鸡汤
+- 药膳汤：人参、当归等中药材
+- 炖汤：砂锅慢炖，双皮炖法"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

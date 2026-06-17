@@ -1,6 +1,8 @@
 ---
 
 title: Personal Knowledge Ecosystem Overview
+description: "Main Topic
+A comprehensive personal knowledge management ecosystem built around a wiki-based second brain, with automated ingestion pipelines, semantic search via GBrain, and 12 scheduled cron jobs ke."
 topic: technical
 data_type: system-structure
 complexity: complex

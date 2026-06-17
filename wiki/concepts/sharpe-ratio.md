@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Sharpe Ratio
+description: "Measures risk-adjusted return by dividing excess return over the risk-free rate by portfolio standard deviation."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

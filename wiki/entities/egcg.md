@@ -1,5 +1,6 @@
 ---
 title: EGCG
+description: "EGCG stands for Epigallocatechin gallate, a potent antioxidant found predominantly in green tea leaves."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Yoshua Bengio
+description: "Yoshua Bengio is a renowned computer scientist specializing in artificial intelligence (AI) with significant contributions to deep learning and neural networks."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

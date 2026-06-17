@@ -1,6 +1,8 @@
 ---
 type: concept
 title: ITM vs OTM Options
+description: "--
+ITM vs OTM Options"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

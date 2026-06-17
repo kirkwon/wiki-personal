@@ -1,5 +1,6 @@
 ---
 title: Chord Voicings
+description: "A chord voicing is the arrangement of notes within a chord that determines its harmonic structure and sound quality."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Science of Joy
+description: "The science of joy explores the biological and social drivers of happiness and well-being."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

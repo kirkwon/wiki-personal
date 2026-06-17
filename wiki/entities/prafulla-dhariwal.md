@@ -1,5 +1,6 @@
 ---
 title: Prafulla Dhariwal
+description: "Prafulla Dhariwal is an accomplished individual with expertise spanning cooking, photography, personal finance, and cognitive science."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

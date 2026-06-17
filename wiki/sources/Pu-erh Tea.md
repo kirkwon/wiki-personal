@@ -1,6 +1,7 @@
 ---
 type: source
 title: Pu-erh Tea
+description: "Source document covering Pu-erh tea, a post-fermented tea from Yunnan, China."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

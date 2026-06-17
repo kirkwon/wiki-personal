@@ -1,5 +1,6 @@
 ---
 title: Overfitting
+description: "In cooking, overfitting refers to an excessively complex recipe that perfectly caters to one's taste but fails to appeal broadly due to its specificity."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

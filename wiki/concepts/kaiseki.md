@@ -1,5 +1,6 @@
 ---
 title: kaiseki
+description: "Kaiseki is a traditional Japanese multi-course haute cuisine that emphasizes seasonal ingredients, artful presentation, and balance of flavors."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Buffalo Trace
+description: "Kentucky Straight Bourbon identified as the best value entry point in the collection."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

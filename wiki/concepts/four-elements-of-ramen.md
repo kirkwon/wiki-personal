@@ -1,6 +1,7 @@
 ---
 type: concept
 title: ラーメンの四元素
+description: "ラーメンの品質を決定する四つの要素：スープ、麺、トッピング、アブラ油。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

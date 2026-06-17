@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: Books/How to Take Smart Notes - Sönke Ahrens.md"
+description: "Source: Books/How to Take Smart Notes - Sönke Ahrens.md"
 created: 2026-06-05
 updated: 2026-06-05
 sources: ["Books/How to Take Smart Notes - Sönke Ahrens.md"]

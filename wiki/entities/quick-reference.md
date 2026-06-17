@@ -9,6 +9,11 @@ tags: []
 related: []
 status: draft | review | complete
 title: '{{title}}'
+description: "Domain**: [[]]
+Purpose**: [[]]
+Primary Users**: [[]]
+Key Features**: [[]]
+Alternatives**: [[]]"
 updated: *id001
 
 ---

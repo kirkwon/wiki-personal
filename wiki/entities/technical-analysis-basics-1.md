@@ -1,5 +1,6 @@
 ---
 title: technical-analysis-basics
+description: "technical-analysis-basics"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

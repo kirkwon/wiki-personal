@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Coffee Bean Processing
+description: "--
+Coffee Bean Processing"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

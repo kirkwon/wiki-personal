@@ -1,5 +1,6 @@
 ---
 title: problem
+description: "A problem is an obstacle or challenge that hinders progress towards achieving desired outcomes in various domains."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Role of Emotions in Decision-Making
+description: "Role of Emotions in Decision-Making"
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

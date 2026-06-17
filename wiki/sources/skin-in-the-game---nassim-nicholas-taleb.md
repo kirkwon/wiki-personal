@@ -1,5 +1,6 @@
 ---
 title: Skin in the Game - Nassim Nicholas Taleb
+description: "Skin in the Game - Nassim Nicholas Taleb"
 type: source
 created: 2026-05-03
 updated: 2026-05-09

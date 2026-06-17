@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Iron Condors
+description: "An iron condor is a defined-risk strategy combining a bull put spread and bear call spread, profitable when the underlying stays within a range."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

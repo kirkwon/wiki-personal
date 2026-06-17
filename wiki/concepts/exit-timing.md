@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Exit Timing
+description: "Exit timing is the skill of recognizing when to leave a situation — whether an investment, job, project, relationship, or commitment."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

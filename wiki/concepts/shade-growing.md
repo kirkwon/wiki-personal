@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Shade-growing (覆下栽培)
+description: "--
+Shade-growing (覆下栽培)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

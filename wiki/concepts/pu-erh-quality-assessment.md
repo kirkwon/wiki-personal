@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 普洱茶品质评估
+description: "评估普洱茶品质需要从视觉、香气和汤色三个维度综合判断。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

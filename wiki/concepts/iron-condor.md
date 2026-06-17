@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Iron Condor
+description: "Iron Condor είναι μια στρατηγική όπου συνδυάζω bull put spread + bear call spread. Παράγει εισπράξεις όταν περιμένω χαμηλή μεταβλητότητα."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

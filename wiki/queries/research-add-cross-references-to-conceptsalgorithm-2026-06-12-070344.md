@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Add cross-references to concepts/algorithms-and-wellbeing.md"
+description: "Research: Add cross-references to concepts/algorithms-and-wellbeing.md"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

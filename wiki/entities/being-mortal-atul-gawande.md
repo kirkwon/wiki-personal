@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Being Mortal - Atul Gawande
+description: "Being Mortal - Atul Gawande"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

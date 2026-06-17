@@ -6,6 +6,7 @@ tags:
 - technique
 - gastronomy
 title: Maillard Reaction
+description: "The [[maillard-reaction]] is a non-enzymatic browning reaction between amino acids and reducing sugars that occurs at temperatures between 285-330°F (140-165°C)."
 type: concept
 updated: 2026-05-09
 related:

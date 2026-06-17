@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Peter Thiel
+description: "Peter Thiel is a technology investor, venture capitalist, entrepreneur, and author, best known for co-authoring Zero to One with Blake Masters."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

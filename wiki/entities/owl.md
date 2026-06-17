@@ -1,5 +1,6 @@
 ---
 title: OWL
+description: "OWL stands for Web Ontology Language, which is used to create structured data that defines the relationships between different concepts within various domains such as cooking recipes, photographic met."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

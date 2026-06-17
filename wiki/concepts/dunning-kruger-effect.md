@@ -2,6 +2,7 @@
 tags: [concept, cognitive-bias, mental-model, dunning-kruger]
 created: 2026-06-15
 type: concept
+description: "Dunning-Kruger Effect"
 ---
 
 # Dunning-Kruger Effect

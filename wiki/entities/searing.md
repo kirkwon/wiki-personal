@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Searing
+description: "Searing is a high-heat cooking technique that uses the [[maillard-reaction]] to develop deep, complex flavors on the surface of proteins and other ingredients."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

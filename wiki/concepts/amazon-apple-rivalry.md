@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Amazon vs Apple Rivalry
+description: "Amazon vs Apple Rivalry"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

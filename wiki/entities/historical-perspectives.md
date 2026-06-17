@@ -1,5 +1,6 @@
 ---
 title: historical-perspectives
+description: "historical-perspectives"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

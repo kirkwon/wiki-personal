@@ -1,6 +1,7 @@
 ---
 type: concept
 title: かん水
+description: "かん水はラーメン製麺に不可欠なアルカリ鉱物水。小麦粉と水に混ぜて使う。"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Master Morality
+description: "One half of Nietzsche's master vs. slave morality framework."
 created: 2026-05-04
 updated: 2026-05-04
 tags:

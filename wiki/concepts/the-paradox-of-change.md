@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Paradox of Change
+description: "The Paradox of Change"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Rituals and Mortality
+description: "Rituals and Mortality"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

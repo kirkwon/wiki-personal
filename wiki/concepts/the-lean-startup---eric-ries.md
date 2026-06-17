@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Lean Startup - Eric Ries
+description: "The Lean Startup - Eric Ries"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

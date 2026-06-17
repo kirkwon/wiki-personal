@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Typica Coffee Variety
+description: "--
+Typica Coffee Variety"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

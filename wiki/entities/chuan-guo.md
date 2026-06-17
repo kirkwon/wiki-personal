@@ -1,5 +1,6 @@
 ---
 title: Chuan Guo
+description: "'Chuan Guo' refers to the Chinese term 'tea tree', which encompasses various tea plants used in brewing different types of tea such as green, black, oolong, and white teas."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

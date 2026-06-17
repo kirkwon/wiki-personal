@@ -1,6 +1,10 @@
 ---
 type: source
 title: 'Source: Life.md'
+description: "Key Entities
+- Life (mental model) — Central entity; a universal conceptual tool for navigating complexity through pattern recognition.
+- Ray Dalio — Peripheral; source of Principles.
+- Stephen R."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

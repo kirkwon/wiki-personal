@@ -1,6 +1,7 @@
 ---
 type: source
 title: Challenges Source
+description: "Challenges is a mental model referenced across multiple authoritative sources."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

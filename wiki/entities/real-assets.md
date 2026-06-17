@@ -1,5 +1,6 @@
 ---
 title: real-assets
+description: "Real assets refer to physical or tangible items that have intrinsic value due to their substance, such as land, buildings, equipment, or artwork."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

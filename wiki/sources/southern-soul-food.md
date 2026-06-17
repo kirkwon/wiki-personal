@@ -1,6 +1,7 @@
 ---
 type: source
 title: Southern and Soul Food
+description: "Southern and Soul Food"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

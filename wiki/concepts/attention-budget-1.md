@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Attention Budget
+description: "The attention budget framework treats attention as a finite, scarce resource that must be deliberately allocated throughout the day."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

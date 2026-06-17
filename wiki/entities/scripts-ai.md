@@ -1,5 +1,6 @@
 ---
 title: Scripts (AI)
+description: "A Script (AI) is a predefined sequence of instructions designed to automate tasks within various domains like cooking, photography, or personal finance management."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,7 @@
 ---
 title: san-francisco-city-guide
+description: "--
+San Francisco City Guide"
 type: concept
 domain: Local San Francisco
 created: 2025-04-15

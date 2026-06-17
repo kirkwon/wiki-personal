@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Covered Calls
+description: "A covered call strategy involves selling call options against stock you already own, generating premium income."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

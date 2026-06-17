@@ -1,5 +1,6 @@
 ---
 title: concepts
+description: "In cooking, concepts refer to fundamental ideas such as flavor profiles, cooking techniques (e.g., sautéing, baking), and ingredient combinations that form the basis of recipes and culinary practices."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

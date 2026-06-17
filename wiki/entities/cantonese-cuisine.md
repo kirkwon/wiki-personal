@@ -1,5 +1,6 @@
 ---
 title: Cantonese Cuisine
+description: "Cantonese cuisine refers to the traditional culinary style originating from Guangdong province in China, characterized by its emphasis on fresh ingredients, subtle flavors, and a variety of cooking te."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

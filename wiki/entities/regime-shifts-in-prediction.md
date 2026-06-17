@@ -1,5 +1,6 @@
 ---
 title: Regime shifts in prediction
+description: "Regime shifts in prediction"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Group polarization
+description: "Group polarization is the phenomenon where group discussions lead to more extreme positions than initially held by individual members."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

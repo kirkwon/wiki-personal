@@ -1,5 +1,6 @@
 ---
 title: lee-friedlander
+description: "Lee-Friedlander is an innovative fusion technique combining leftover ingredients with Friedlander's method of layered presentation to create visually appealing and cost-effective dishes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

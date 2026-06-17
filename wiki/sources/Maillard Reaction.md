@@ -1,6 +1,12 @@
 ---
 type: source
 title: 'Source: Maillard Reaction.md'
+description: "Field: Gastronomy
+Type: Chemical Process
+Discovered: 1912 by Louis-Camille Maillard
+Temperature Range: 285-330°F (140-165°C)
+Also Known As: Non-enzymatic browning
+Related Concepts: [[caramelization]]."
 created: 2026-05-09
 updated: 2026-05-09
 sources:

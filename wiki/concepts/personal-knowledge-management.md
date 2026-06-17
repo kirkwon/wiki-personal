@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Personal Knowledge Management
+description: "Personal Knowledge Management
+Personal Knowledge Management (PKM) is the process of collecting, organizing, and retrieving information to support individual learning, work, and decision-making."
 created: 2026-06-10
 updated: 2026-06-10
 tags: ["knowledge-management", "productivity", "pkm"]

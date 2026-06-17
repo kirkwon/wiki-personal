@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Seasoning Methods
+description: "Seasoning methods are the techniques used to add flavor to dishes throughout the cooking process."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

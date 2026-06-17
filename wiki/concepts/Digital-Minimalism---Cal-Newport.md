@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Digital Minimalism - Cal Newport
+description: "--
+Digital Minimalism - Cal Newport"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

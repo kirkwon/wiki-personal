@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Approach
+description: "Approach is a universal mental model functioning as a conceptual tool or principle for understanding and navigating complex situations."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Vietnamese Green Tea
+description: "--
+Vietnamese Green Tea"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

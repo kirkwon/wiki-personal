@@ -1,5 +1,6 @@
 ---
 title: 红茶风味谱系
+description: "红茶的风味跨度极大，从麦芽甜到烟熏泥土，层次丰富。"
 created: 2026-04-24
 updated: 2026-04-24
 type: concept

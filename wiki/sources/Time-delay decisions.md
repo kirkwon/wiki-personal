@@ -1,6 +1,8 @@
 ---
 type: source
 title: Time-delay decisions
+description: "--
+Time-delay decisions"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

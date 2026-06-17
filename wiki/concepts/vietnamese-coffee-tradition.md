@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Vietnamese Coffee Tradition
+description: "--
+Vietnamese Coffee Tradition"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

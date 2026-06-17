@@ -1,5 +1,6 @@
 ---
 title: Building a Second Brain - Tiago Forte
+description: "Building a Second Brain - Tiago Forte"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Growth Mindset in Organizations
+description: "Growth Mindset in Organizations"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

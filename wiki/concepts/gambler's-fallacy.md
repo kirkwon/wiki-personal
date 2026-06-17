@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Gambler's Fallacy
+description: "The gambler's fallacy is the belief that past random events affect future independent events."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

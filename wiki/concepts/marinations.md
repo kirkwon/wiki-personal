@@ -1,5 +1,6 @@
 ---
 title: Marinations
+description: "Marination refers to the process of soaking food items, typically meat or vegetables, in a seasoned liquid mixture before cooking."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

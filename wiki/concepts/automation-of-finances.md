@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Automation of Finances
+description: "--
+Automation of Finances"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

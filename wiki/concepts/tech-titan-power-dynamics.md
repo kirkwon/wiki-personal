@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Tech Titan Power Dynamics
+description: "--
+Tech Titan Power Dynamics"
 created: 2026-05-04
 updated: 2026-05-04
 tags:

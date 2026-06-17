@@ -1,5 +1,6 @@
 ---
 title: OpenAI
+description: "OpenAI is an artificial intelligence research laboratory consisting of the for-profit OpenAI LP and its parent company, the non-profit OpenAI Inc."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

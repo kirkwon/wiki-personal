@@ -1,5 +1,6 @@
 ---
 title: soy-sauce-mirin
+description: "Soy sauce-mirin is a combination of two Japanese condiments; soy sauce provides umami depth while mirin adds sweetness to dishes."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

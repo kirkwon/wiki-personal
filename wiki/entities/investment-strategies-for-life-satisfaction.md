@@ -1,5 +1,6 @@
 ---
 title: Investment Strategies for Life Satisfaction
+description: "Investment Strategies for Life Satisfaction"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

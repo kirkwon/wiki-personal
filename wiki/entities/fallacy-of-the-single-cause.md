@@ -1,5 +1,6 @@
 ---
 title: Fallacy of the single cause
+description: "Fallacy of the single cause"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

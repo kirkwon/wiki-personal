@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Paradox of Power
+description: "The Paradox of Power is a central concept in Stephen R."
 created: 2026-04-18
 updated: 2026-05-09
 tags:

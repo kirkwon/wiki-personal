@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Fear, Anxiety, and Worry as Tools
+description: "--
+Fear, Anxiety, and Worry as Tools"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Emotional intelligence in communication
+description: "Emotional intelligence in communication"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

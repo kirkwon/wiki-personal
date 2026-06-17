@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Personal Knowledge Management System
+description: "Personal Knowledge Management System"
 created: 2026-06-10
 updated: 2026-06-10
 tags: [knowledge-management]

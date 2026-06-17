@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Add cross-references to concepts/70-80-percent-budget-rule.md"
+description: "Research: Add cross-references to concepts/70-80-percent-budget-rule.md"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

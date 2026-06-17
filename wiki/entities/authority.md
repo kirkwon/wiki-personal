@@ -1,5 +1,6 @@
 ---
 title: Authority
+description: "Authority refers to the recognized expertise or credibility of an individual within a specific domain such as cooking (e.g., Gordon Ramsay), photography (e.g., Annie Leibovitz), personal finance (e.g.."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

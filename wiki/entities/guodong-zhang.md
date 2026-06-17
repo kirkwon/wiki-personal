@@ -1,5 +1,6 @@
 ---
 title: Guodong Zhang
+description: "Guodong Zhang is an individual with diverse interests spanning cooking to cognitive science."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: source
 title: Groups
+description: "Groups is a conceptual tool or principle that helps understand and navigate complex situations."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

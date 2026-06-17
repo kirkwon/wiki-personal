@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Nate Silver
+description: "Nate Silver
+Statistician, data journalist, and political forecaster known for his work on prediction and signal detection."
 created: 2026-04-29
 updated: 2026-05-10
 tags: 

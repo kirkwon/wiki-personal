@@ -1,5 +1,6 @@
 ---
 title: david-md
+description: "'David-MD' is an integrated platform that combines recipes, photographic techniques, financial management tools, and cognitive science insights to enhance personal development in cooking, photography."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

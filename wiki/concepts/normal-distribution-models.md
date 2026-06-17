@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Normal Distribution Models
+description: "Normal Distribution Models"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

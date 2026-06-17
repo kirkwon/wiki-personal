@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Apple Notes
+description: "Apple Notes
+Apple Notes is a simple and intuitive note-taking app that comes pre-installed on Apple devices."
 created: 2026-06-10
 updated: 2026-06-10
 tags: [digital-note-taking, productivity]

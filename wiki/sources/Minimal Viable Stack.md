@@ -1,6 +1,8 @@
 ---
 type: summary
 title: Minimal Viable Stack
+description: "--
+Minimal Viable Stack"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

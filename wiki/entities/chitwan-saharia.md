@@ -1,5 +1,6 @@
 ---
 title: Chitwan Saharia
+description: "The Chitwan Saharias are an indigenous ethnic group from Nepal's Terai region, known for their rich cultural heritage which includes traditional cooking methods using local ingredients, a deep-rooted."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

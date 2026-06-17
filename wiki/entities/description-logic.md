@@ -1,5 +1,6 @@
 ---
 title: Description Logic
+description: "Description Logic (DL) is a family of formal knowledge representation languages used to describe the concepts within various domains such as cooking recipes, photographic categorizations, financial pr."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

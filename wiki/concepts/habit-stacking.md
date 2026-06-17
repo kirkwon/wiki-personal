@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Habit Stacking
+description: "Habit stacking is a technique for building new habits by layering them onto existing routines."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

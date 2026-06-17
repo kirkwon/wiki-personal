@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 红茶
+description: "红茶是全发酵茶，汤色红亮，滋味浓郁。与普洱茶的后发酵工艺不同，红茶通过完全氧化获得风味。"
 created: 2026-04-29
 updated: 2026-04-24
 tags:

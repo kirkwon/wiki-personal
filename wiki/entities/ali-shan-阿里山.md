@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 阿里山 (Ali Shan)
+description: "--
+阿里山 (Ali Shan - Ali Mountain)"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

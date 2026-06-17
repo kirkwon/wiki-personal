@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Four Actions Framework
+description: "--
+Four Actions Framework"
 created: 2026-04-29
 updated: 2026-05-12
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Fifth Discipline - Peter M. Senge
+description: "The Fifth Discipline - Peter M."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

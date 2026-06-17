@@ -1,6 +1,8 @@
 ---
 type: source
 title: Research Add Cross References to Concepts Algorithm
+description: "Research Add Cross References to Concepts Algorithm
+This source discusses the importance of mental models in understanding human thought, behavior, and decision-making."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [research, mental-models, artificial-intelligence, psychology]

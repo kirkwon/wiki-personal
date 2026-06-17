@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: presence-human-purpose-and-the-field-of-the-future'
+description: "Presence — Human Purpose and the Field of the Future"
 created: 2026-05-09
 updated: 2026-05-10
 sources: ["presence-human-purpose-and-the-field-of-the-future---peter-m-senge.md", "Field.md"]

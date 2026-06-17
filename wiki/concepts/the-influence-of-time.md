@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Influence of Time
+description: "The Influence of Time"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

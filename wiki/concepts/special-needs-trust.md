@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Special Needs Trust
+description: "--
+Special Needs Trust"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

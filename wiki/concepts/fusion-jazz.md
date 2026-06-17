@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Fusion Jazz
+description: "Fusion jazz is the genre that emerged from Miles Davis's electric experiments, combining jazz improvisation with rock rhythms, electric instruments, and studio production techniques."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

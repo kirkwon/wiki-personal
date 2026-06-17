@@ -1,5 +1,6 @@
 ---
 title: Afternoon Tea
+description: "Afternoon tea is a traditional British social event typically occurring between 3 pm and 5 pm, involving the consumption of tea accompanied by various snacks such as scones, sandwiches, and cakes."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

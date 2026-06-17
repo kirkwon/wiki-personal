@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Habit Change Golden Rule
+description: "--
+Habit Change Golden Rule"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

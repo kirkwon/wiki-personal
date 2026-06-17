@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Qualified Personal Residence Trust (QPRT)
+description: "--
+Qualified Personal Residence Trust (QPRT)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

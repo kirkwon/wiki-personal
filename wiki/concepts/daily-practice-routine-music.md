@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Daily Practice Routine for Music
+description: "--
+Daily Practice Routine for Music"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

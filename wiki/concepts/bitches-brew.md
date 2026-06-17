@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Bitches Brew
+description: "Bitches Brew (1970) is the landmark fusion album by Miles Davis that birthed jazz-rock fusion."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

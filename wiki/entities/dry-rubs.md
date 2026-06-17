@@ -1,5 +1,6 @@
 ---
 title: Dry Rubs
+description: "A dry rub is a mixture of herbs and spices that is applied directly to the surface of meat before cooking."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

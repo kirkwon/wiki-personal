@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Sneaker Waves
+description: "Sneaker waves are large, unexpected waves that can surge onto the beach or strike without warning at Ocean Beach."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Long-Term Care Planning
+description: "--
+Long-Term Care Planning"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Flexibility in Decision-Making
+description: "Flexibility in Decision-Making"
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

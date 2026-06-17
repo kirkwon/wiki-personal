@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Henri Cartier-Bresson
+description: "--
+Henri Cartier-Bresson"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

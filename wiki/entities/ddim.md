@@ -1,5 +1,6 @@
 ---
 title: DDIM
+description: "DDIM stands for Data-driven Decision Investment Model, which is an analytical framework used to optimize resource allocation based on data insights."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

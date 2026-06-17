@@ -1,5 +1,6 @@
 ---
 title: Bourbon
+description: "Bourbon is a type of American whiskey that derives its distinct flavor from corn mash, aged in new charred oak barrels, primarily used for cooking or cocktail making due to its sweet and robust profil."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Spaced Repetition
+description: "Spaced repetition is a learning technique where you review information at increasing intervals over time rather than concentrating study in a single session (massed study or cramming)."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

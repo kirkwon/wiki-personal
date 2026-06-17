@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Step-Up in Basis
+description: "Step-up in basis is a tax benefit that occurs when inherited assets receive a new cost basis equal to their fair market value at the time of the original owner's death, rather than carrying over the o."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

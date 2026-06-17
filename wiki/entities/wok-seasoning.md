@@ -1,5 +1,6 @@
 ---
 title: Wok Seasoning
+description: "Wok seasoning is the process of coating a carbon steel or cast iron wok with oil to create a non-stick surface and prevent rust."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

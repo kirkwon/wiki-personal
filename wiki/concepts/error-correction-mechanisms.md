@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Error-correction mechanisms
+description: "Error-correction mechanisms"
 created: 2026-04-29
 updated: 2026-05-10
 tags:

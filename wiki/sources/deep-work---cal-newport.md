@@ -2,6 +2,7 @@
 
 type: source
 title: "Source: deep-work"
+description: "Source: deep-work---cal-newport.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources: ["deep-work---cal-newport.md"]

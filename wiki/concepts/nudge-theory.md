@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Nudge Theory
+description: "[[nudge-theory]], introduced by Richard H."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

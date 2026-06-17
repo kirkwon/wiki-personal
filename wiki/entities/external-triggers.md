@@ -1,5 +1,6 @@
 ---
 title: external triggers
+description: "External triggers are events or stimuli originating outside an individual that prompt specific actions or reactions within various domains such as cooking (e.g., a timer going off), photography (e.g.."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

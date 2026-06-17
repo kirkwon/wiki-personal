@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Scott E. Page
+description: "Professor of complex systems and author of The Model Thinker (2024)."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

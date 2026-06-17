@@ -1,5 +1,6 @@
 ---
 title: incentive-design
+description: "Incentive-design refers to the strategic creation of motivations or rewards within systems to influence behavior positively."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

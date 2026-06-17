@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Economical Phrasing
+description: "--
+Economical Phrasing"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Four Actions Framework (Eliminate, Reduce, Raise, Create)
+description: "Four Actions Framework (ERRC Grid)"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Atomic Habits - James Clear
+description: "--
+Atomic Habits - James Clear"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

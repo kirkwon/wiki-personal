@@ -1,5 +1,6 @@
 ---
 title: stoicism-vs-buddhism
+description: "Stoicism emphasizes rational control over emotions through virtue, while Buddhism focuses on mindfulness and the cessation of suffering through enlightenment; both philosophies can influence personal."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

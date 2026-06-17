@@ -2,6 +2,7 @@
 created: 2026-04-24
 updated: 2026-05-09
 title: Wok Hei (镬气)
+description: "[[wok-hei]] (粤语：鑊氣 / 鑒氣，意为'锅的呼吸') is the distinctive smoky, charred flavor achieved in wok cooking through extremely high heat and rapid cooking."
 type: concept
 tags:
 - cooking-technique

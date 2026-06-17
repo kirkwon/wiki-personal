@@ -1,5 +1,6 @@
 ---
 title: So Good They Cant Ignore You - Cal Newport
+description: "So Good They Cant Ignore You - Cal Newport"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

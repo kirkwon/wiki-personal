@@ -1,5 +1,6 @@
 ---
 title: ReLU Activation Function
+description: "ReLU Activation Function"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

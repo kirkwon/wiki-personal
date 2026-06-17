@@ -1,5 +1,6 @@
 ---
 title: False consensus effect
+description: "False consensus effect"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

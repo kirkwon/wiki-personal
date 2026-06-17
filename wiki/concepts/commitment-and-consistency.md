@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Commitment and Consistency
+description: "--
+Commitment and Consistency"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

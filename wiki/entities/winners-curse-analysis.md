@@ -1,5 +1,6 @@
 ---
 title: winners-curse-analysis
+description: "winners-curse-analysis"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

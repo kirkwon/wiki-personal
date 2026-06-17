@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Add cross-references to comparisons/personal-vault-content-migration-plan.md"
+description: "Research: Add cross-references to comparisons/personal-vault-content-migration-plan.md"
 created: 2026-06-10
 origin: deep-research
 tags: [research]

@@ -1,6 +1,8 @@
 ---
 type: source
 title: Superforecasting - Philip E Tetlock & Dan Gardner
+description: "--
+Superforecasting - Philip E Tetlock & Dan Gardner"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

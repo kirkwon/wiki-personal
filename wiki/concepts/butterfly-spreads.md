@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Butterfly Spreads
+description: "A butterfly spread combines multiple options at different strike prices to create a position with limited risk and limited reward."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

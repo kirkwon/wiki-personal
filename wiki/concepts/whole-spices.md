@@ -1,5 +1,6 @@
 ---
 title: Whole Spices
+description: "Whole spices are unground or minimally processed seeds, berries, nuts, or roots used in cooking to enhance flavor profiles; they retain aromatic oils that can be visually appealing for photography and."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

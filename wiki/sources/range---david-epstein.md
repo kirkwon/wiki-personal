@@ -1,6 +1,7 @@
 ---
 type: source
 title: Range - David Epstein
+description: "Range - David Epstein"
 created: 2026-05-03
 updated: 2026-05-10
 tags:

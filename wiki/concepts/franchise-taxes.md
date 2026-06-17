@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Franchise Taxes
+description: "Franchise taxes are annual state fees required to maintain corporate status."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

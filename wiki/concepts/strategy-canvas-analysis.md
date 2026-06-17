@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Strategy Canvas Analysis
+description: "--
+Strategy Canvas Analysis"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

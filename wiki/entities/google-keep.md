@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Google Keep
+description: "Google Keep
+Google Keep is a minimalistic note-taking app that excels in quick capture and simplicity."
 created: 2026-06-10
 updated: 2026-06-10
 tags: [digital-note-taking, productivity]

@@ -4,6 +4,7 @@ ingested: 2026-05-03
 sha256: cd5bdc19aa7a94444ecc73f4ffb79b92b91a287e0d0637d1dfce6fac085056cf
 updated: 2026-05-10
 title: Algorithms to Live By - Brian Christian & Tom Griffiths
+description: "Algorithms to Live By - Brian Christian & Tom Griffiths"
 type: note
 created: '2026-05-14'
 ---

@@ -1,5 +1,6 @@
 ---
 title: Risk Sensitivity
+description: "Risk sensitivity refers to an individual's inclination towards considering potential negative outcomes when making decisions across various domains such as cooking (e.g., choosing ingredients), photog."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

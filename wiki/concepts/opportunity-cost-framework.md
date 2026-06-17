@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Opportunity Cost Framework
+description: "--
+Opportunity Cost Framework"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

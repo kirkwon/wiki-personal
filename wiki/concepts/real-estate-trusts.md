@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Real Estate Trusts
+description: "--
+Real Estate Trusts"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

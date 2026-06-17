@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Backtesting Pitfalls in Factor Investing
+description: "--
+Backtesting Pitfalls in Factor Investing"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

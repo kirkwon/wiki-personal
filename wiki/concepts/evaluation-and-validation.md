@@ -1,6 +1,9 @@
 ---
 type: concept
 title: Ocena i walidacja
+description: "Ocena i walidacja
+Definicja
+Ocena i walidacja to procesy, które są wykorzystywane do oceny i potwierdzenia skuteczności systemów AI."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [ocena, walidacja]

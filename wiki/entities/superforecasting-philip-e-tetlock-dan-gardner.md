@@ -1,5 +1,6 @@
 ---
 title: superforecasting - Philip E Tetlock  Dan Gardner
+description: "superforecasting - Philip E Tetlock  Dan Gardner"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Roasting Profiles
+description: "A roasting profile refers to the specific combination of temperature and time settings used during the cooking process to achieve desired flavors, textures, and doneness in food items such as meats or."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

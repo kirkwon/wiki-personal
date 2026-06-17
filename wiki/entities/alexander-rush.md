@@ -1,5 +1,6 @@
 ---
 title: Alexander Rush
+description: "Alexander Rush is an individual with diverse interests spanning cooking, photography, personal finance management, and cognitive science."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

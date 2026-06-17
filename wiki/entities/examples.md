@@ -9,6 +9,8 @@ tags: []
 related: []
 status: draft | review | complete
 title: '{{title}}'
+description: "Examples
+<!-- Real-world implementations -->"
 updated: *id001
 
 ---

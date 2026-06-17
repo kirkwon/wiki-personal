@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Fallacy of Induction
+description: "The fallacy of induction is the error of assuming that because something has happened repeatedly in the past, it will continue to happen in the future — particularly in systems governed by randomness."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

@@ -9,6 +9,8 @@ tags: []
 related: []
 status: draft | review | complete
 title: '{{title}}'
+description: "Core Components
+<!-- Breakdown of the framework structure -->"
 updated: *id001
 
 ---

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Seduction of Optimism
+description: "--
+The Seduction of Optimism"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

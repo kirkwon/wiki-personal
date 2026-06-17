@@ -1,6 +1,7 @@
 ---
 type: source
 title: Tex-Mex
+description: "Tex-Mex is Texas-Mexican fusion cuisine born from Tejano culture (Texans of Mexican descent)."
 created: 2026-04-24
 updated: 2026-05-09
 source_url: Gastronomy/Cuisines/American/Concepts/tex-mex.md

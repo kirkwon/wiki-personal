@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Smarter Faster Better - Charles Duhigg
+description: "--
+Smarter Faster Better - Charles Duhigg"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

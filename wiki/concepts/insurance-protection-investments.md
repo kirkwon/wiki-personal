@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Insurance Protection for Investments
+description: "--
+Insurance Protection for Investments"
 created: 2026-04-22
 updated: 2026-04-22
 tags:

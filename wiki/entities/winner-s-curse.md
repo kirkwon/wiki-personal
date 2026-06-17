@@ -1,5 +1,6 @@
 ---
 title: Winner's curse
+description: "The Winner's Curse refers to the phenomenon where an individual who wins a bid or contest ends up overpaying due to incomplete information about other participants' valuations."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

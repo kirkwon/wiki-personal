@@ -1,6 +1,7 @@
 ---
 type: source
 title: Scatterfocus
+description: "Scatterfocus is presented as a systematic productivity skill for improving efficiency and output."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

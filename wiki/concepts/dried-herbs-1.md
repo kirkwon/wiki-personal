@@ -1,5 +1,6 @@
 ---
 title: Dried Herbs
+description: "Dried herbs are the dehydrated form of fresh herbs commonly used to enhance flavors in cooking; they also serve as a subject for photographic documentation due to their vibrant colors and textures, ca."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

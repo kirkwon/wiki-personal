@@ -1,6 +1,8 @@
 ---
 type: entity
 title: The Habit Loop
+description: "The Habit Loop
+The Habit Loop is a mental model that describes how habits are formed, maintained, and changed."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [mental-models, psychology, behavior]

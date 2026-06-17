@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Gunpowder Tea (珠茶)
+description: "--
+Gunpowder Tea (珠茶)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

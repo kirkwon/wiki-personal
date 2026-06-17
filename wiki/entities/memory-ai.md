@@ -1,5 +1,6 @@
 ---
 title: Memory (AI)
+description: "Memory in AI refers to the system's ability to store, retrieve, and utilize information over time, similar to human memory processes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

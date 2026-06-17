@@ -1,5 +1,6 @@
 ---
 title: Attribution error
+description: "Attribution error refers to the cognitive bias where individuals incorrectly infer the causes of others' behaviors, often over-attributing actions to dispositional factors rather than situational ones."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

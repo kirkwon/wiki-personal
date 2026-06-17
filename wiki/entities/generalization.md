@@ -1,5 +1,6 @@
 ---
 title: Generalization
+description: "Generalization is the process of applying broad concepts or principles learned from specific instances to new, related situations."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

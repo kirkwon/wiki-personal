@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Importance of Focus
+description: "The Importance of Focus"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

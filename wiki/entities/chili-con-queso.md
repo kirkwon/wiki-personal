@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Chili con queso
+description: "El chili con queso es un dip de queso fundido característico de la cocina Tex-Mex."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

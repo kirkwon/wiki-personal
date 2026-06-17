@@ -1,5 +1,6 @@
 ---
 title: Uncertainty in AI
+description: "In artificial intelligence (AI), uncertainty refers to the inherent unpredictability of AI systems' decisions due to incomplete data or complex algorithms."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

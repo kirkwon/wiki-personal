@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Grit_ The Power of Passion and Perseverance - Angela Duckworth.md'
+description: "Source: Grit_ The Power of Passion and Perseverance - Angela Duckworth.md"
 created: 2026-05-11
 updated: 2026-05-11
 sources:

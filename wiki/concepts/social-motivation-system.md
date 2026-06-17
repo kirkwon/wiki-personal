@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Brain's Social Motivation System
+description: "Brain's Social Motivation System"
 created: 2026-05-03
 updated: 2026-05-12
 tags:

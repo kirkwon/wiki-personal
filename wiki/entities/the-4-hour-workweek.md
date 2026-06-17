@@ -1,6 +1,8 @@
 ---
 type: entity
 title: The 4-Hour Workweek
+description: "--
+The 4-Hour Workweek"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Category:Cognitive Biases
+description: "Category:Cognitive Biases"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

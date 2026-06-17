@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Focus on Process, Not Outcomes
+description: "--
+Focus on Process, Not Outcomes"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

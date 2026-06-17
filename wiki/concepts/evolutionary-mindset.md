@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Evolutionary Mindset
+description: "Definition
+The idea that evolution shaped our brains to prioritize immediate concerns over long-term gains, creating a systematic bias toward short-term thinking."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Luck and Risk Duality
+description: "--
+Luck and Risk Duality"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

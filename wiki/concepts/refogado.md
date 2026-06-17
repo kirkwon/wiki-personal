@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Refogado（葡萄牙版芳香基料）
+description: "--
+Refogado（葡萄牙版芳香基料）"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

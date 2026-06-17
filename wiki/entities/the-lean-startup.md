@@ -1,5 +1,6 @@
 ---
 title: The Lean Startup
+description: "The Lean Startup is an approach to building businesses that focuses on short product development cycles to test market assumptions, adapt quickly, and avoid the waste of resources on unviable products."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

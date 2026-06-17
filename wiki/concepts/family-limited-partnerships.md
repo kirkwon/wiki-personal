@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Family Limited Partnerships
+description: "--
+Family Limited Partnerships (FLPs)"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

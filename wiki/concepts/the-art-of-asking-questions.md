@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Art of Asking Questions
+description: "The Art of Asking Questions"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

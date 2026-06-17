@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Evolutionary Models
+description: "Models of how traits, strategies, and behaviors evolve over time through processes of variation, selection, and retention."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

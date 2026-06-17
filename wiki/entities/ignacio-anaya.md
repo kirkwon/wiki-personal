@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Ignacio "Nacho" Anaya
+description: "--
+Ignacio 'Nacho' Anaya"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

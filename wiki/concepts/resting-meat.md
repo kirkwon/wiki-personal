@@ -1,5 +1,6 @@
 ---
 title: Resting Meat
+description: "Resting meat is the technique of allowing cooked meat to sit after removal from heat before cutting or serving."
 created: 2026-04-24
 updated: 2026-05-09
 type: concept

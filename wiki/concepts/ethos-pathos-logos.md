@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Ethos, Pathos, Logos (Aristotle's Modes of Persuasion)
+description: "Ethos, Pathos, Logos (Aristotle's Modes of Persuasion)"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

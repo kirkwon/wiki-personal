@@ -1,5 +1,6 @@
 ---
 title: trading
+description: "Trading is the exchange of goods or services between parties to mutually benefit from each other's offerings."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

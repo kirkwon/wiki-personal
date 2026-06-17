@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Power of Perspective
+description: "The Power of Perspective"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

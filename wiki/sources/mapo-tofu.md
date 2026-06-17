@@ -1,6 +1,7 @@
 ---
 type: source
 title: Mapo Tofu
+description: "麻婆豆腐（Mapo Tofu）是四川菜系最具代表性的菜品之一，以嫩豆腐搭配麻辣鲜香的酱汁为特色。Mapo tofu (麻婆豆腐, Mápó dòufu) is the iconic Sichuan dish of silken tofu in a spicy, numbing, aromatic sauce."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Catastrophe Models
+description: "Models of sudden, discontinuous changes in systems."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Protein Denaturation
+description: "Protein denaturation is the process by which proteins lose their native structure due to heat, acid, or mechanical action."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

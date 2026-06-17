@@ -1,5 +1,6 @@
 ---
 title: Data Augmentation
+description: "Data augmentation is the process of artificially expanding a dataset by creating modified versions of existing data points to improve model robustness and generalization."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

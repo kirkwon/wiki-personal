@@ -1,5 +1,6 @@
 ---
 title: Asset-Diversifikation
+description: "Asset-Diversifikation"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: summary
 title: Occam's Razor application
+description: "--
+Occam's Razor application"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

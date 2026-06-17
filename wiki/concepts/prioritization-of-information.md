@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Prioritization of Information and Action
+description: "Prioritization of Information and Action"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

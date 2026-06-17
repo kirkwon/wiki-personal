@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Matcha (抹茶)
+description: "Matcha is a Japanese green tea from Uji, Kyoto Prefecture, made by shade-growing, steaming, drying, and stone-grinding leaves into fine powder."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

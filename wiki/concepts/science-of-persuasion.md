@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Science of Persuasion
+description: "Science of Persuasion"
 created: 2026-05-03
 updated: 2026-05-12
 tags:

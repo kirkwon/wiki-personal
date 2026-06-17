@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Be Proactive
+description: "Being proactive is the first habit in Stephen R."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

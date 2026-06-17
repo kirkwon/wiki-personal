@@ -1,6 +1,7 @@
 ---
 type: source
 title: Man's Search for Meaning - Viktor Frankl
+description: "Man's Search for Meaning - Viktor Frankl"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

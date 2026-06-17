@@ -1,5 +1,6 @@
 ---
 title: Deep Learning
+description: "Deep learning is an advanced subset of machine learning inspired by the neural networks found in human brains."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

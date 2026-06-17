@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Predictably Irrational - Dan Ariely
+description: "-
+Predictably Irrational"
 created: 2026-04-29
 updated: 2026-05-10
 tags:

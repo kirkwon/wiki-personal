@@ -1,5 +1,6 @@
 ---
 title: Classifier Guidance
+description: "Classifier guidance refers to the process of using algorithms or expert systems to categorize items into predefined groups based on their attributes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

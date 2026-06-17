@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Risk Tolerance vs Risk Capacity
+description: "--
+Risk Tolerance vs Risk Capacity"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

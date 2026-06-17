@@ -1,6 +1,8 @@
 ---
-type: stub
+type: concept
 title: Music Theory & Jazz
+description: "--
+Music Theory & Jazz"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

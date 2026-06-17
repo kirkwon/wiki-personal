@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Metaphors and Analogies in Creative Problem-Solving
+description: "Metaphors and Analogies in Creative Problem-Solving"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

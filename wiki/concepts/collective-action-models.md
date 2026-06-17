@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Collective Action Models
+description: "Collective Action Models"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

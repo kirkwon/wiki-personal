@@ -1,5 +1,6 @@
 ---
 title: Charlie Parker
+description: "Charlie Parker was an influential jazz musician known for his innovative approach to improvisation and complex chord progressions, which parallels the creativity required in cooking and photography."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

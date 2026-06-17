@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Portfolio Concentration Risk
+description: "--
+Portfolio Concentration Risk"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

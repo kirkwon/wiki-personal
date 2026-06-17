@@ -1,5 +1,6 @@
 ---
 title: The Five Mother Sauces
+description: "The Five Mother Sauces (Sauces Mères)"
 type: concept
 created: 2026-04-24
 updated: 2026-05-09

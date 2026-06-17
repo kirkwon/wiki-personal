@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Mental Models
+description: "Mental Models
+Mental models are simplified representations of reality, capturing the essential elements, relationships, and rules of a domain."
 created: 2026-05-03
 updated: 2026-06-13
 tags:

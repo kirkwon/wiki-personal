@@ -1,5 +1,6 @@
 ---
 title: yunnan-cuisine
+description: "Yunnan cuisine refers to the traditional foods originating from Yunnan province in China, characterized by its diverse ingredients including rare mushrooms, bamboo shoots, and various herbs, often pre."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

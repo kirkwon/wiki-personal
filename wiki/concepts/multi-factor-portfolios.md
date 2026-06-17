@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Multi-Factor Portfolios
+description: "--
+Multi-Factor Portfolios"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

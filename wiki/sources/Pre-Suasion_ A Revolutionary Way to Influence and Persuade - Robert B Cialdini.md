@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Pre-Suasion: A Revolutionary Way to Influence and Persuade'
+description: "--
+Pre-Suasion: A Revolutionary Way to Influence and Persuade"
 author: Robert B. Cialdini
 year: 2024
 created: 2026-05-03

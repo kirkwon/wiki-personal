@@ -1,5 +1,6 @@
 ---
 title: lasting-effect
+description: "A 'lasting-effect' refers to the enduring impact or outcome of an activity or decision that persists over time."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

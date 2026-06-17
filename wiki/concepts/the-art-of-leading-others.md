@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Art of Leading Others
+description: "The Art of Leading Others"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

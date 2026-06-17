@@ -9,6 +9,10 @@ tags:
 - investing
 - budgeting
 title: The Index Card Rules
+description: "Field**: [[personal-finance]]
+Type**: Financial Framework
+Purpose**: Simple, actionable personal finance rules
+Key Principles**: Simplicity, automation, low costs"
 type: concept
 updated: 2026-05-09
 related:

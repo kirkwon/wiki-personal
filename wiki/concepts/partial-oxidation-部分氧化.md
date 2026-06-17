@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 部分氧化 (Partial Oxidation)
+description: "--
+部分氧化 (Partial Oxidation)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

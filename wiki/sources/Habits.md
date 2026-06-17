@@ -1,6 +1,8 @@
 ---
 type: source
 title: Habits Source Summary
+description: "--
+Habits Source Summary"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: GTD Capture, Clarify, Organize, Review, Engage
+description: "GTD Capture, Clarify, Organize, Review, Engage"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

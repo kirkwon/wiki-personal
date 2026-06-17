@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Small Batch Production
+description: "Small Batch Production"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

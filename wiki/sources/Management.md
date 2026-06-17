@@ -1,6 +1,7 @@
 ---
 type: source
 title: Management
+description: "Management is a universal mental model—a conceptual tool for understanding patterns and relationships in complex situations."
 source_url: null
 created: 2026-04-29
 updated: 2026-05-10

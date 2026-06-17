@@ -1,6 +1,7 @@
 ---
 type: source
 title: Healthcare
+description: "Healthcare is framed as a conceptual tool or mental model for navigating complex situations."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

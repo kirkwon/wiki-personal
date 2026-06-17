@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Challenging Words / Language Influence
+description: "Challenging Words / Language Influence"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

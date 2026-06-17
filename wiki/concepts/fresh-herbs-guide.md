@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Fresh Herbs Guide
+description: "A practical guide to selecting, storing, and preparing fresh herbs for cooking."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

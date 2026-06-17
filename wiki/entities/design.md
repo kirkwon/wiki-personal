@@ -1,6 +1,7 @@
 ---
 type: note
 title: 'Expertise OS: Theme Design Specifications'
+description: "Expertise OS: Theme Design Specifications"
 created: 2026-05-14
 updated: 2026-05-14
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: proposition-13
+description: "Proposition 13 refers to California's 1978 property tax reform law that significantly reduced property tax rates by capping them at a base rate set in 1975-76 and limiting annual increases to 2% or th."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

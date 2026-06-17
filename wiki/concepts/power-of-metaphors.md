@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Power of Metaphors
+description: "Metaphors function as cognitive tools that help us comprehend complex ideas by relating them to familiar experiences."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

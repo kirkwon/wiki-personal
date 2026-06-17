@@ -1,6 +1,8 @@
 ---
 type: source
 title: Meditations — Marcus Aurelius
+description: "--
+Meditations — Marcus Aurelius"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

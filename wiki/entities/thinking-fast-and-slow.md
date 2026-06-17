@@ -1,5 +1,6 @@
 ---
 title: thinking-fast-and-slow
+description: "thinking-fast-and-slow"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

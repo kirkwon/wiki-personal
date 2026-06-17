@@ -1,5 +1,6 @@
 ---
 title: David Thompson
+description: "David Thompson is an avid cook with a passion for photography, often capturing culinary creations through his lens."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

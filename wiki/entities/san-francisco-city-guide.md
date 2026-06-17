@@ -1,5 +1,6 @@
 ---
 title: San Francisco City Guide
+description: "San Francisco City Guide"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Debt Coverage Ratio
+description: "--
+Debt Coverage Ratio"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Buddhism
+description: "Buddhism is a spiritual tradition that emphasizes personal enlightenment through meditation, ethical living, and understanding the nature of reality."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Jason Wei
+description: "Jason Wei is an enthusiast of culinary arts with a keen interest in photography to capture his gastronomic creations."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

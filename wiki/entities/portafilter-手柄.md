@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Portafilter（手柄）
+description: "手柄（Portafilter）是压力咖啡机的核心部件，用于盛放和固定咖啡粉饼，在萃取过程中承受高压。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

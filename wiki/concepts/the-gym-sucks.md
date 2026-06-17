@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Gym Sucks
+description: "'The Gym Sucks' is a chapter challenging the value of traditional workouts and strict routines by suggesting more flexible approaches to fitness and self-improvement."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

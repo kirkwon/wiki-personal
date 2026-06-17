@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Good Judgment Project
+description: "Good Judgment Project"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

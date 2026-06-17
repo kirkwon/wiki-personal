@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Mastery
+description: "Mastery is a universal mental model serving as a conceptual tool for understanding patterns and relationships in complex situations."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

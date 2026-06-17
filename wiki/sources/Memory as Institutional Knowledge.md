@@ -1,6 +1,8 @@
 ---
 type: summary
 title: Memory as Institutional Knowledge
+description: "--
+Memory as Institutional Knowledge"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

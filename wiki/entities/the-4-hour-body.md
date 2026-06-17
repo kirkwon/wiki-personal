@@ -1,6 +1,7 @@
 ---
 type: entity
 title: The 4-Hour Body
+description: "The 4-Hour Body is a 2010 book by Timothy Ferriss that challenges conventional health and fitness advice, proposing instead a personalized approach to body transformation emphasizing genetics, hormone."
 created: 2026-04-29
 updated: 2026-05-10
 tags:

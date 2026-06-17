@@ -1,5 +1,6 @@
 ---
 title: Overfitting in Deep Neural Networks
+description: "Overfitting in Deep Neural Networks"
 type: problem
 tags:
 - problem

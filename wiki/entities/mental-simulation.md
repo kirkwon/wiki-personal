@@ -1,5 +1,6 @@
 ---
 title: Mental Simulation
+description: "Mental simulation is the cognitive process of imagining or visualizing scenarios, actions, or outcomes in one's mind, without immediate external stimuli."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

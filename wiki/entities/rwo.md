@@ -1,5 +1,6 @@
 ---
 title: RWO
+description: "RWO stands for 'Recipes Worth Observing,' referring to cooking techniques or dishes that are noteworthy due to their complexity, innovation, or the skill required to prepare them."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

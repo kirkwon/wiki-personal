@@ -1,6 +1,7 @@
 ---
 type: source
 title: Making
+description: "Making is a mental model referenced in Algorithms to Live By by Brian Christian and Tom Griffiths."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

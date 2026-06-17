@@ -1,6 +1,8 @@
 ---
 type: concept
 title: LEAPS (Long-term Equity AnticiPation Securities)
+description: "--
+LEAPS (Long-term Equity AnticiPation Securities)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

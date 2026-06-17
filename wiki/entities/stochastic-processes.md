@@ -1,5 +1,6 @@
 ---
 title: stochastic-processes
+description: "Stochastic processes are mathematical models that describe systems or phenomena subject to randomness over time, such as fluctuating ingredient quantities in cooking recipes, unpredictable light patte."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

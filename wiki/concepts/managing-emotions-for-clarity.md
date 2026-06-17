@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Managing Emotions for Clarity
+description: "Managing Emotions for Clarity"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

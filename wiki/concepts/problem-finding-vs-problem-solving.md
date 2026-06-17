@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Problem Finding vs. Problem Solving
+description: "Problem Finding vs. Problem Solving"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

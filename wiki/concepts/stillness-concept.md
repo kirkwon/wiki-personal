@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Stillness (Concept)
+description: "Stillness refers to the cultivation of inner quietude — a state of mental calm and clarity that serves as the foundation for better decision-making, creative insight, relationship health, and personal."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

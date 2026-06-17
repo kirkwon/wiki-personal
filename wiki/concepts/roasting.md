@@ -1,5 +1,6 @@
 ---
 title: roasting
+description: "Roasting is the process of cooking food, typically meats or vegetables, at high temperatures in an oven until it reaches a desired level of caramelization and tenderness."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

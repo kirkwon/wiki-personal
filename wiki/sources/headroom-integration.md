@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: headroom-integration.md"
+description: "Source: headroom-integration.md"
 created: 2026-06-13
 updated: 2026-06-13
 sources: ["headroom-integration.md"]

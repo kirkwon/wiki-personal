@@ -1,5 +1,6 @@
 ---
 title: self-serving-bias
+description: "Self-serving bias is the cognitive tendency to attribute positive outcomes to one's own actions while attributing negative outcomes to external factors."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

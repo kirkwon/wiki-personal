@@ -1,5 +1,6 @@
 ---
 title: Miles Davis
+description: "Miles Davis was an influential jazz trumpeter and composer known for his innovative approach to music that blended various genres."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

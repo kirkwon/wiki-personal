@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Linear Models
+description: "Simple models that assume linear relationships between variables — proportional changes in input produce proportional changes in output."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

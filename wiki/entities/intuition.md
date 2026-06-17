@@ -1,5 +1,6 @@
 ---
 title: intuition
+description: "Intuition is an immediate understanding or perception without the need for conscious reasoning, often based on experience and subconscious cues."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

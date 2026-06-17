@@ -1,5 +1,6 @@
 ---
 title: Scenario-planning
+description: "Scenario planning is the strategic process of envisioning and analyzing possible future events or conditions to inform decision-making."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

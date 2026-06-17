@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Mental Models in Innovation
+description: "Mental Models in Innovation"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

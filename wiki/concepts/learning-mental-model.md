@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Learning as a Mental Model
+description: "--
+Learning as a Mental Model"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

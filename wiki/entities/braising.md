@@ -1,5 +1,6 @@
 ---
 title: Braising
+description: "Braising is a cooking technique that involves searing meat at high heat and then slowly simmering it in a covered pot with a small amount of liquid to tenderize the tough fibers."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Cappuccino
+description: "A cappuccino is a popular coffee beverage made by combining equal parts of espresso, steamed milk, and frothed milk."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

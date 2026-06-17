@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Metaphor and Analogy in Decision-Making
+description: "Metaphor and Analogy in Decision-Making"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,5 +1,6 @@
 ---
 title: House money effect
+description: "The House Money Effect refers to the psychological phenomenon where individuals are more likely to take risks with money they perceive as a windfall or 'house' money, rather than their own hard-earned."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

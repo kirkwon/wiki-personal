@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Mission burrito
+description: "El Mission burrito es un burrito grande estilo San Francisco, aunque su origen se atribuye a Texas."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

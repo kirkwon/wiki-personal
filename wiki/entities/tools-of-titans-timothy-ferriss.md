@@ -1,5 +1,6 @@
 ---
 title: Tools of Titans - Timothy Ferriss
+description: "Tools of Titans - Timothy Ferriss"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

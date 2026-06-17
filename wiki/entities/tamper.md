@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Tamper (压粉器)
+description: "压粉器是用于将手柄中的咖啡粉均匀压实的重要工具，确保萃取过程中水流均匀通过粉饼。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

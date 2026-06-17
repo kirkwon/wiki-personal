@@ -1,5 +1,6 @@
 ---
 title: Endowment effect
+description: "The endowment effect is a cognitive bias where individuals ascribe higher value to items they own compared to identical or similar objects not owned by them."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

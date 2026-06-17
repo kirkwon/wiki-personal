@@ -1,5 +1,6 @@
 ---
 title: Embodied Agents
+description: "An embodied agent is an interactive system with physical presence or simulation that can perform tasks autonomously within certain environments, such as a robotic kitchen assistant for cooking or phot."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

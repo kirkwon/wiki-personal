@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 预浸泡
+description: "预浸泡是在正式高压萃取前，先以低压（3-4巴）饱和咖啡粉5-10秒，再施加全压萃取的技术。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

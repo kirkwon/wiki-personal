@@ -1,5 +1,6 @@
 ---
 title: scientific-method
+description: "The scientific method is an empirical approach involving systematic observation, measurement, experimentation, formulation of hypotheses, testing, analysis, and conclusion to understand phenomena or s."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

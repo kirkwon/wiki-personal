@@ -1,5 +1,6 @@
 ---
 title: speed
+description: "In cooking, speed refers to the efficiency of preparation and execution of recipes, impacting overall kitchen workflow."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

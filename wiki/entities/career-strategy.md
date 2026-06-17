@@ -1,5 +1,6 @@
 ---
 title: Career Strategy
+description: "A Career Strategy is a structured plan that aligns one's professional goals with their interests in cooking, photography, personal finance, and cognitive science to achieve long-term success."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

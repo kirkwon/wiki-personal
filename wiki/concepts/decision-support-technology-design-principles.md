@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Decision Support Technology Design Principles
+description: "Decision Support Technology Design Principles"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

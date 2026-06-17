@@ -1,6 +1,8 @@
 ---
 type: source
 title: The Four - Scott Galloway
+description: "--
+The Four - Scott Galloway"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

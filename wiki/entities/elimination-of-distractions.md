@@ -1,5 +1,6 @@
 ---
 title: elimination-of-distractions
+description: "elimination-of-distractions"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

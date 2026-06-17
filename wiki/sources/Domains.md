@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Source: Domains.md'
+description: "Key Entities
+- Domains (mental model) — Central."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

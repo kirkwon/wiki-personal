@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Freedom of Financial Independence
+description: "--
+The Freedom of Financial Independence"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

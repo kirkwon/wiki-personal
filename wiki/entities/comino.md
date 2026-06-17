@@ -1,5 +1,6 @@
 ---
 title: comino
+description: "A comino is an insignificant or negligible amount of something, often used metapromorphically to describe small quantities in recipes (Cooking), minimal impact elements in photography composition (Pho."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

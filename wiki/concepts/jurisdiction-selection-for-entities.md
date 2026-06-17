@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Jurisdiction Selection for Entities
+description: "--
+Jurisdiction Selection for Entities"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

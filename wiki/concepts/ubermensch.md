@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Übermensch (Overman)
+description: "The Übermensch (Overman or Superman) is Nietzsche's vision of a future type of human being who creates new values beyond conventional good and evil."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

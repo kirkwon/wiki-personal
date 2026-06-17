@@ -1,5 +1,6 @@
 ---
 title: Policy Gradient
+description: "A Policy Gradient is an approach in reinforcement learning that directly optimizes the policy—the strategy of choosing actions—by adjusting it based on the gradient of expected rewards."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

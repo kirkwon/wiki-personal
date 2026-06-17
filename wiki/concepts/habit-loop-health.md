@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Habit Loop for Health
+description: "Habit Loop for Health"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

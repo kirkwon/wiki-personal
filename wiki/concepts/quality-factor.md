@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Quality Factor
+description: "The quality factor is based on the premise that high-quality companies—those that are profitable, have stable earnings, and carry low debt—tend to outperform the market over time."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

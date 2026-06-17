@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Remote Work as New Norm
+description: "--
+Remote Work as New Norm"
 created: 2026-05-04
 updated: 2026-05-04
 tags:

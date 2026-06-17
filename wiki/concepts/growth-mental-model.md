@@ -2,6 +2,7 @@
 
 type: concept
 title: Growth (Mental Model)
+description: "Growth (Mental Model)"
 created: 2026-04-29
 updated: 2026-05-12
 tags: [mental-model, general, decision-making, self-improvement, philosophy, mark-manson]

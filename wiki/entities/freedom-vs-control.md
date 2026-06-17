@@ -1,5 +1,6 @@
 ---
 title: freedom-vs-control
+description: "Freedom-vs-control represents the balance between autonomy and structure within various domains; in cooking, it's choosing ingredients freely while following recipes; in photography, selecting subject."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Many Model Thinker
+description: "The Many Model Thinker"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

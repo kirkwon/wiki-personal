@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Oil Vaporization in Wok Cooking (烹饪中的油雾化)
+description: "--
+Oil Vaporization in Wok Cooking (烹饪中的油雾化)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

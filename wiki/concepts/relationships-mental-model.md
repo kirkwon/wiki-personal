@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Relationships Mental Model
+description: "--
+Relationships Mental Model"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

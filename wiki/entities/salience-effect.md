@@ -1,5 +1,6 @@
 ---
 title: salience-effect
+description: "The salience effect refers to the phenomenon where certain stimuli or information stand out more prominently in our perception due to their distinctiveness or relevance, influencing decision-making pr."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

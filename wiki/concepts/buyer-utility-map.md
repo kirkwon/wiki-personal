@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Buyer Utility Map
+description: "The buyer utility map is a tool for assessing a product or service's utility across the full cycle of the buyer experience."
 created: 2026-05-03
 updated: 2026-05-12
 tags:

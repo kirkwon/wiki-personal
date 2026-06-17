@@ -1,6 +1,7 @@
 ---
 type: entity
 title: 老姜（Old Ginger）
+description: "老姜是中餐'圣三一'芳香基底的核心成员，具有辛辣、温暖、微甜、泥土气息的风味特征。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

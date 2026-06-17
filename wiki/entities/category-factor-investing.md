@@ -1,5 +1,6 @@
 ---
 title: Category:Factor Investing
+description: "Category:Factor Investing"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

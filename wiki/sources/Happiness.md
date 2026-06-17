@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Source: Happiness.md'
+description: "Key Entities
+- Happiness (mental model) – New conceptual tool; central to this source."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Begin with the End in Mind
+description: "Begin with the End in Mind"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

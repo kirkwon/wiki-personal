@@ -1,5 +1,6 @@
 ---
 title: Visual Design
+description: "Visual design refers to the art of creating visual content that is both functional and appealing."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

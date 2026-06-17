@@ -1,6 +1,7 @@
 ---
 type: source
 title: Miles Davis - Musical Evolution and Innovations
+description: "Miles Davis — Musical Evolution and Innovations"
 created: 2026-04-24
 updated: 2026-05-09
 source_url: Music Theory & Jazz/miles-davis.md

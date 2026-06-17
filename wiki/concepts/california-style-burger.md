@@ -1,6 +1,8 @@
 ---
 type: concept
 title: California Style Burger
+description: "--
+California Style Burger"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

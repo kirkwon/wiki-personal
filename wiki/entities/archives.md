@@ -1,5 +1,6 @@
 ---
 title: Archives
+description: "An archive is a collection of historical documents or records providing information about a place, institution, or group of people."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

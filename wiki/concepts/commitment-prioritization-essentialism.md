@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Commitment Prioritization in Essentialism
+description: "--
+Commitment Prioritization in Essentialism"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

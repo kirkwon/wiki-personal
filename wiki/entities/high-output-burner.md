@@ -1,6 +1,8 @@
 ---
 type: entity
 title: High-Output Burner (高功率灶具)
+description: "--
+High-Output Burner (高功率灶具)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

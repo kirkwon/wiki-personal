@@ -2,6 +2,7 @@
 
 type: source
 title: "Experiment and Exploration: Forms of World-Disclosure - Sönke Ahrens"
+description: "Experiment and Exploration: Forms of World-Disclosure"
 created: 2026-04-29
 updated: 2026-04-29
 tags: ['mental-model', 'world-disclosure', 'sonke-ahrens', 'book', 'ahrens', 'philosophy', 'epistemology']

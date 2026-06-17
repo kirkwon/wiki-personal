@@ -1,5 +1,6 @@
 ---
 title: Ethos Pathos Logos
+description: "- Ethos refers to establishing credibility or ethical appeal by demonstrating expertise in cooking techniques, photographic composition principles, financial acumen, or cognitive theories."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

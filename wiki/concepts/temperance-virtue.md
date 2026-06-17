@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Temperance (Virtue)
+description: "Temperance is the virtue of self-control, moderation, and balance — particularly in the face of difficulty, temptation, or excess."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

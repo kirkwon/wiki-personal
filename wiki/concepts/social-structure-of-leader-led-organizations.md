@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Social Structure of Leader-Led Organizations
+description: "Social Structure of Leader-Led Organizations"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

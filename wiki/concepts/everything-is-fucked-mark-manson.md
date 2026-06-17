@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Everything Is F_cked - Mark Manson
+description: "--
+Everything Is F_cked - Mark Manson"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

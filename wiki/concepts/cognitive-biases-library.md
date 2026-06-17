@@ -7,6 +7,7 @@ tags:
 - decision-making
 - psychology
 title: Cognitive Biases Library
+description: "Cognitive Biases Library"
 type: concept
 updated: 2026-05-09
 related:

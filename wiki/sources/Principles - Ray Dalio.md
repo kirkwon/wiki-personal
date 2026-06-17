@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Principles - Ray Dalio.md'
+description: "Source: Principles - Ray Dalio.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources:

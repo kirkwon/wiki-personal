@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Rule of 110 (Asset Allocation)
+description: "--
+Rule of 110 (Asset Allocation)"
 created: 2026-04-29
 updated: 2026-05-09
 tags:

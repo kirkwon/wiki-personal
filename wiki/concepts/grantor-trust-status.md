@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Grantor Trust Status
+description: "--
+Grantor Trust Status"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

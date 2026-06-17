@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Design for Complex Change
+description: "Design for Complex Change"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

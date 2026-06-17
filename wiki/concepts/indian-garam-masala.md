@@ -1,5 +1,6 @@
 ---
 title: Indian Garam Masala
+description: "Indian Garam Masala is a blend of ground spices commonly used in Indian cuisine to enhance flavor profiles."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

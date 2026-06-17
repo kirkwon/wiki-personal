@@ -1,6 +1,7 @@
 ---
 type: comparison
 title: I Will Teach You to Be Rich
+description: "I Will Teach You to Be Rich"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

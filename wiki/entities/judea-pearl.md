@@ -1,5 +1,6 @@
 ---
 title: Judea Pearl
+description: "Judea Pearl is an influential computer scientist known for his work on artificial intelligence, particularly in the areas of causality and probabilistic reasoning."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

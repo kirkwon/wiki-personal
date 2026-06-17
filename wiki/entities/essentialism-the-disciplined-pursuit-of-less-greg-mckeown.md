@@ -1,5 +1,6 @@
 ---
 title: Essentialism_The_Disciplined_Pursuit_of_Less-Greg_McKeown
+description: "Essentialism_The_Disciplined_Pursuit_of_Less-Greg_McKeown"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

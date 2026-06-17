@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Care
+description: "Care is a conceptual tool or principle that helps understand and navigate complex situations."
 created: 2026-05-04
 updated: 2026-05-04
 tags:

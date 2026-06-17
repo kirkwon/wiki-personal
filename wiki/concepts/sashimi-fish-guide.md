@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Sashimi Fish Guide
+description: "--
+Sashimi Fish Guide (刺身用魚のガイド)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

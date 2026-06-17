@@ -1,5 +1,6 @@
 ---
 title: multitasking
+description: "Multitasking refers to the ability to perform multiple tasks simultaneously or switch between them efficiently."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

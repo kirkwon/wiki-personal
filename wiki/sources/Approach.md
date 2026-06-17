@@ -1,6 +1,7 @@
 ---
 type: source
 title: Approach.md
+description: "Approach is presented as a universal mental model serving as a conceptual tool for navigating complex situations."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

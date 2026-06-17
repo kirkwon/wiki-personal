@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Strategy Canvas
+description: "The strategy canvas is a central analytical tool in Blue Ocean Strategy for mapping how an industry competes across key factors."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

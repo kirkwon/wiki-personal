@@ -1,6 +1,8 @@
 ---
 type: entity
 title: I Will Teach You to Be Rich
+description: "--
+I Will Teach You to Be Rich"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

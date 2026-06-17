@@ -1,6 +1,8 @@
 ---
 type: concept
 title: HIIT (High-Intensity Interval Training)
+description: "--
+HIIT (High-Intensity Interval Training)"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

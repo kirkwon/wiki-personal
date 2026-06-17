@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Alcatraz Island
+description: "Alcatraz Island
+Alcatraz Island est une île dans la baie de [[san-francisco]], célèbre pour son ancienne prison fédérale."
 created: 2026-04-24
 updated: 2026-06-11
 tags: 

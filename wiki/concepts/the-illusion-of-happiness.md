@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Illusion of Happiness
+description: "--
+The Illusion of Happiness"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

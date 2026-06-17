@@ -1,5 +1,6 @@
 ---
 title: hunan-cuisine
+description: "Hunan cuisine is an integral part of Chinese culinary tradition originating from Hunan province, known for its bold flavors featuring spicy Sichuan peppercorns, garlic, and chili peppers."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

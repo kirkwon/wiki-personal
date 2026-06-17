@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Wok Cooking Masterclass
+description: "--
+Wok Cooking Masterclass"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,7 @@
 ---
 type: note
 title: Knowledge Pipeline Architecture
+description: "Knowledge Pipeline Architecture"
 created: 2026-05-14
 updated: 2026-05-14
 tags: []

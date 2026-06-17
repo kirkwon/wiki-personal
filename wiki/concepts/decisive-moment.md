@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Decisive Moment
+description: "The decisive moment is a concept in photography, coined by [[henri-cartier-bresson]], referring to the perfect instant when all visual elements in a scene come together — when composition, subject act."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

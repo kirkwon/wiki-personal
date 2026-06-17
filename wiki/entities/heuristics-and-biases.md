@@ -1,5 +1,6 @@
 ---
 title: Heuristics and Biases
+description: "Heuristics and Biases"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

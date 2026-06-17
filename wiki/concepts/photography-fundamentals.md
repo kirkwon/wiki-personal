@@ -21,6 +21,7 @@ related:
 - metering-modes
 - street-photography
 title: Photography Fundamentals
+description: "Photography Fundamentals"
 type: note
 ---
 --

@@ -1,6 +1,10 @@
 ---
 type: source
 title: 'Source: Enemy.md'
+description: "Key Entities
+- Enemy (mental model) – New conceptual tool; not yet in wiki index
+- Sun Tzu – Ancient strategist, referenced via The Art of War; not currently in wiki index
+- The Art of War – Classical."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

@@ -5,6 +5,9 @@ sources:
 tags:
 - general
 title: YouTube Watch Later Playlist
+description: "--
+YouTube Watch Later Playlist
+Total Videos: 764"
 type: comparison
 updated: '2026-04-24'
 ---

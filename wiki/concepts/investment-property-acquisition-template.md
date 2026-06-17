@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Investment Property Acquisition Template
+description: "--
+Investment Property Acquisition Template"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

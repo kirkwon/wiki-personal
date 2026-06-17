@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Evan Williams 12/18
+description: "--
+Evan Williams 12/18"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

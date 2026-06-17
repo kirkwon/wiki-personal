@@ -1,5 +1,6 @@
 ---
 title: Coffee Brewers
+description: "A coffee brewer is an individual who specializes in preparing coffee using various methods such as espresso machines, French presses, or drip brewers."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

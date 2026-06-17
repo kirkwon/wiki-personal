@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Letters from a Stoic - Seneca
+description: "--
+Letters from a Stoic - Seneca"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

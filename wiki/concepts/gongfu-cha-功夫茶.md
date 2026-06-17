@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 功夫茶冲泡
+description: "功夫茶是传统乌龙茶冲泡方式，采用小壶小杯、多泡递增的技法，强调温度控制和风味层次的变化。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

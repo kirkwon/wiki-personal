@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Automation and Outsourcing
+description: "Automation and Outsourcing"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

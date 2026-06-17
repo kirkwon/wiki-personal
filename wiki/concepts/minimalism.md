@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Minimalism in Photography
+description: "Minimalism is a universal conceptual tool for navigating complexity through pattern recognition."
 created: 2026-04-24
 updated: 2026-05-10
 tags:

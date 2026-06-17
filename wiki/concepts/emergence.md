@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Emergence
+description: "The phenomenon where complex collective behavior arises from simple individual rules."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Uncertainty in Artificial Intelligence
+description: "Uncertainty in Artificial Intelligence"
 type: concept
 tags:
 - concept

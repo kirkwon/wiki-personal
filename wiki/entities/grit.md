@@ -1,5 +1,6 @@
 ---
 title: grit
+description: "Grit is the perseverance and passion towards long-term goals, enabling individuals to overcome challenges in cooking by perfecting recipes, achieving mastery in photography through continuous learning."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

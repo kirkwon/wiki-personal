@@ -1,5 +1,6 @@
 ---
 title: StyleGAN
+description: "StyleGAN is an advanced generative adversarial network (GAN) designed to produce high-resolution, realistic images by learning stylistic features from input data."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

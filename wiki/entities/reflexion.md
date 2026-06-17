@@ -1,5 +1,6 @@
 ---
 title: Reflexion
+description: "Reflection refers to the process of introspection where one critically examines their own actions, decisions, or experiences in various domains such as cooking (evaluating recipes), photography (asses."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

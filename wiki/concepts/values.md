@@ -2,6 +2,7 @@
 
 type: concept
 title: Values as a Mental Model
+description: "Values as a Mental Model"
 created: 2026-04-29
 updated: 2026-05-12
 tags: [mental-model, decision-making, productivity, philosophy, mental-models, allen]

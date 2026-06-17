@@ -1,5 +1,6 @@
 ---
 title: Vanishing Gradient Problem
+description: "Vanishing Gradient Problem"
 type: problem
 tags:
 - problem

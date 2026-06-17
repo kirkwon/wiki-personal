@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 'Presence: Human Purpose and the Field of the Future'
+description: "--
+Presence: Human Purpose and the Field of the Future"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

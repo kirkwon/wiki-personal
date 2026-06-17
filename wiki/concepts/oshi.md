@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Oshi
+description: "押し寿司は、箱に入れて押した寿司。関西スタイル。酢飯と具を箱に入れて押し付けて、長方形に切り分ける。"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

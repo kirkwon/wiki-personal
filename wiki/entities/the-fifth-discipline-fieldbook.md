@@ -1,6 +1,8 @@
 ---
 type: entity
 title: The Fifth Discipline Fieldbook
+description: "--
+The Fifth Discipline Fieldbook"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

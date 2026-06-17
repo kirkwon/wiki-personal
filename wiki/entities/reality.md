@@ -1,5 +1,6 @@
 ---
 title: reality
+description: "Reality is the objective state of existence that encompasses all phenomena as they are independent of perception or interpretation."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

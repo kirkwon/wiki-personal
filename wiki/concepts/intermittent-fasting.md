@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Intermittent Fasting
+description: "Intermittent fasting is a dietary strategy that cycles between periods of eating and fasting, used to optimize metabolic health, improve hormone balance, and promote fat loss."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Local San Francisco
+description: "Local San Francisco refers to the geographical area within the city of San Francisco, California, known for its diverse culinary scene with an emphasis on farm-to-table restaurants and food trucks."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

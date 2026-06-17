@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 通道效应
+description: "通道效应是指水流在咖啡粉床中不均匀通过，导致部分区域过度萃取、部分区域萃取不足的现象。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Comfort Food
+description: "Comfort food refers to dishes that provide emotional satisfaction and a sense of home, often characterized by hearty portions, rich flavors, and simple preparation."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

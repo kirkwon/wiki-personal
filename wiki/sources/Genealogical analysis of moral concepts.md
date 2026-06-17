@@ -1,6 +1,8 @@
 ---
 type: summary
 title: Genealogical analysis of moral concepts
+description: "--
+Genealogical analysis of moral concepts"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

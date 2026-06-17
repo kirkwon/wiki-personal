@@ -1,6 +1,8 @@
 ---
 type: source
 title: Nudge - Richard H. Thaler & Cass R. Sunstein
+description: "--
+Nudge - Richard H."
 created: 2026-04-29
 updated: 2026-05-10
 tags:

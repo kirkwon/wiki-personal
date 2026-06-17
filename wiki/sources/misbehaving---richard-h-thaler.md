@@ -2,6 +2,7 @@
 
 type: source
 title: "Source: misbehaving"
+description: "Source: misbehaving---richard-h-thaler.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources: ["misbehaving---richard-h-thaler.md"]

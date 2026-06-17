@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Authority Principle
+description: "One of Cialdini's six principles of influence."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

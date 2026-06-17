@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Compounding
+description: "Compounding is the process by which investment returns generate their own returns over time."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

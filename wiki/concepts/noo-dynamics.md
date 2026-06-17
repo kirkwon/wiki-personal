@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Noö-Dynamics
+description: "Noö-dynamics refers to the tension in human existence between who we are and who we could become."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

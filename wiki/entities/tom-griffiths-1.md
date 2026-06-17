@@ -1,5 +1,6 @@
 ---
 title: Tom Griffiths
+description: "Tom Griffiths is an interdisciplinary expert with a focus on cognitive science, particularly in the realms of machine learning and human-computer interaction."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

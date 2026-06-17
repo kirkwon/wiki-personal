@@ -1,5 +1,6 @@
 ---
 title: Why We Work - Barry Schwartz
+description: "Why We Work - Barry Schwartz"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

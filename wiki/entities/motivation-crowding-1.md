@@ -1,5 +1,6 @@
 ---
 title: motivation-crowding
+description: "Motivation-crowding occurs when external rewards or pressures undermine intrinsic motivation in an activity."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

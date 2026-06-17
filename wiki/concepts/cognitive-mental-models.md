@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Cognitive Mental Models
+description: "Cognitive Mental Models
+Cognitive mental models focus on how people process information, perceive reality, and make decisions."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [cognitive-science, mental-models, psychology]

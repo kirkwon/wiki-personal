@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Out of Control - Kevin Kelly
+description: "--
+Out of Control - Kevin Kelly"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

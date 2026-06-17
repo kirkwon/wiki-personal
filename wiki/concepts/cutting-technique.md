@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 切り方（Cutting technique）
+description: "刺身や寿司ネタの切り方。穀物に逆らって切る角度と方法が重要。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Social Security
+description: "Social Security is a federal retirement income program."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

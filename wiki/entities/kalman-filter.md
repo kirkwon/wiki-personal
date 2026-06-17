@@ -1,5 +1,6 @@
 ---
 title: Kalman Filter
+description: "A Kalman Filter is an algorithm that uses mathematical models to estimate the state of a dynamic system over time, accounting for noise in measurements."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

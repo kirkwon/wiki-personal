@@ -1,6 +1,7 @@
 ---
 type: source
 title: Persuasion Source
+description: "This source defines persuasion as a universal mental model for navigating complex situations."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -7,6 +7,7 @@ domain: Quant Strategy
 created: 2025-04-15
 updated: 2026-05-12
 title: Quant Strategy
+description: "This domain covers topics related to quant strategy."
 ---
 --
 

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Salmon
+description: "養殖または野生。通年。油っこく、脂が多い。"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

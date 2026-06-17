@@ -1,5 +1,6 @@
 ---
 title: Quantile Regression
+description: "Quantile regression is an econometric technique that estimates the conditional median or other quantiles of the response variable, providing insights into the distributional effects across different p."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

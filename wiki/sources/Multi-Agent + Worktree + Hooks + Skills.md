@@ -1,6 +1,8 @@
 ---
 type: source
 title: Multi-Agent + Worktree + Hooks + Skills.md
+description: "--
+Multi-Agent + Worktree + Hooks + Skills"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

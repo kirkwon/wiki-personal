@@ -9,6 +9,11 @@ tags: []
 related: []
 status: draft | review | complete
 title: '{{title}}'
+description: "Resources
+- Documentation: [[]]
+- Official Site:
+- GitHub:
+- Tutorials:"
 updated: *id001
 
 ---

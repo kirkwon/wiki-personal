@@ -1,5 +1,6 @@
 ---
 title: DCGAN
+description: "A Deep Convolutional Generative Adversarial Network (DCGAN) is an advanced machine learning model that generates new images by learning the distribution of a given dataset through adversarial training."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

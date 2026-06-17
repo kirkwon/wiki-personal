@@ -1,5 +1,6 @@
 ---
 title: Ilya Sutskever
+description: "Ilya Sutskever is the CEO of OpenAI, an artificial intelligence research lab known for its advancements in deep learning algorithms."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

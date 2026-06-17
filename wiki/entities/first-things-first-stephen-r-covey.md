@@ -1,5 +1,6 @@
 ---
 title: First Things First - Stephen R Covey
+description: "First Things First - Stephen R Covey"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

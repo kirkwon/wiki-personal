@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Mindset Reframing for Health
+description: "Mindset Reframing for Health"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

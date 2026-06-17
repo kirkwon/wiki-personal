@@ -1,5 +1,6 @@
 ---
 title: Convolutional Neural Networks (CNNs)
+description: "Convolutional Neural Networks (CNNs)"
 type: concept
 tags:
 - concept

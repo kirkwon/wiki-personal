@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Indian Summer à San Francisco
+description: "--
+Indian Summer à San Francisco"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

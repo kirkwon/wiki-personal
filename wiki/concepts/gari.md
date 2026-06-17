@@ -1,6 +1,7 @@
 ---
 type: concept
 title: ガリ（Gari）
+description: "酢漬けの生姜。口直し、抗菌、消化を助ける。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

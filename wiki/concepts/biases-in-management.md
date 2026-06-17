@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Biases in Management
+description: "--
+Biases in Management"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

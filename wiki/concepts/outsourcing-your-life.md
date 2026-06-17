@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Outsourcing Your Life
+description: "Outsourcing Your Life"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

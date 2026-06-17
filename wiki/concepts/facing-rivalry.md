@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Facing Rivalry
+description: "Facing rivalry is the practice of dealing with competition and rivalries — both personal and professional — through a Stoic lens."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

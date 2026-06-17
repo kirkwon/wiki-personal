@@ -1,5 +1,6 @@
 ---
 title: Liking bias
+description: "Liking bias is the tendency to favor or prefer things that we like personally, which can skew our objectivity in areas such as cooking (favoring recipes similar to our own), photography (preferring st."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

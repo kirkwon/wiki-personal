@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Effective Listening
+description: "Covey identifies effective listening as a core skill that underpins personal relationships, decision quality, and productivity."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

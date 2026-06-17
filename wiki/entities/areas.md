@@ -1,5 +1,6 @@
 ---
 title: Areas
+description: "An 'Area of Interest' refers to a specific domain or subject that an individual is passionate about and seeks knowledge in."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Making It All Work
+description: "'Making It All Work' refers to the strategic integration of diverse interests such as cooking, photography, personal finance management, and cognitive science principles into daily life for enhanced p."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

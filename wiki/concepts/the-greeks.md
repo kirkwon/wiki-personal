@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Greeks
+description: "The Greeks είναι τα βασικά μέτρα ευαισθησίας που περιγράφουν πώς επηρεάζεται η τιμή ενός option από αλλαγές στις μεταβλητές της αγοράς."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

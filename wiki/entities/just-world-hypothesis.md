@@ -1,5 +1,6 @@
 ---
 title: Just-world hypothesis
+description: "Just-world hypothesis"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

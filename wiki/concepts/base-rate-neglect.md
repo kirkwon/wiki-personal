@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Base Rate Neglect
+description: "Base rate neglect is the tendency to ignore general prevalence information (prior probabilities) in favor of specific, individuating information."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

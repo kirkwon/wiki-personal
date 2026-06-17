@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Active Revision Techniques
+description: "Active Revision Techniques"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

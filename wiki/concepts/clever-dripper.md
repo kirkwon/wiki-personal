@@ -1,5 +1,6 @@
 ---
 title: Clever Dripper
+description: "A Clever Dripper refers to an individual who adeptly manages resources or information flow in various domains such as cooking (efficiency in ingredient usage), photography (optimal light capture), per."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

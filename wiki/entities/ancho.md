@@ -1,5 +1,6 @@
 ---
 title: ancho
+description: "Ancho refers to the width of an object or space, often used in cooking to describe the thickness of dried chili peppers (ancho chiles) when they are rehydrated for use in recipes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

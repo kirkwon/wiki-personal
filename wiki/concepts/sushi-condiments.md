@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Sushi Condiments
+description: "--
+Sushi Condiments (寿司の調味料)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

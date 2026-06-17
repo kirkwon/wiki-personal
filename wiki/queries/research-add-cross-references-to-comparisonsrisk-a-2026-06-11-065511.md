@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Add cross-references to comparisons/risk-assessment-framework.md"
+description: "Research: Add cross-references to comparisons/risk-assessment-framework.md"
 created: 2026-06-10
 origin: deep-research
 tags: [research]

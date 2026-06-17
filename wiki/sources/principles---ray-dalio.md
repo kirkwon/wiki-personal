@@ -1,6 +1,7 @@
 ---
 type: source
 title: Principles - Ray Dalio
+description: "Principles - Ray Dalio"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

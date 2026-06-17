@@ -1,5 +1,6 @@
 ---
 title: Brian Christian
+description: "Brian Christian is an author known for his exploration of the intersection between technology and humanity, particularly through cognitive science lenses."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

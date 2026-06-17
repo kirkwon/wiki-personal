@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Anomalies and Exceptions in AI
+description: "Anomalies and Exceptions in AI"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

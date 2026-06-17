@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Grandview Park
+description: "The namesake hill of the Golden Gate Heights neighborhood, Grandview Park is the highest point in the neighborhood at approximately 500 feet elevation, offering 360-degree panoramic views of Ocean Bea."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

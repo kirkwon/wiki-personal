@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Fair Process
+description: "Fair process is a leadership principle that builds trust and voluntary commitment by ensuring people are engaged in decisions."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

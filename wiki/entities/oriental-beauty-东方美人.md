@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 东方美人 (Oriental Beauty / Bai Hao)
+description: "--
+东方美人 (Oriental Beauty / Bai Hao)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

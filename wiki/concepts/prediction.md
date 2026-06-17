@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Prediction
+description: "Prediction is the process of making forecasts about future outcomes based on available information."
 created: 2026-04-29
 updated: 2026-05-10
 tags:

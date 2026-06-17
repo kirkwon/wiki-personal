@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Libertarian Paternalism
+description: "Libertarian Paternalism"
 created: 2026-04-29
 updated: 2026-05-12
 tags:

@@ -1,6 +1,7 @@
 ---
 type: entity
 title: MTUM ETF
+description: "MTUM is a Smart Beta ETF that implements the momentum factor."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Diffusion Models
+description: "A diffusion model is an approach used to simulate the spread of substances or ideas over time and space, often represented mathematically by partial differential equations."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

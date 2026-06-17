@@ -1,5 +1,6 @@
 ---
 title: Daniel Kahneman
+description: "Daniel Kahneman is an Israeli-American psychologist and Nobel laureate, widely regarded as the father of behavioral economics."
 created: 2026-05-03
 updated: 2026-05-10
 type: entity

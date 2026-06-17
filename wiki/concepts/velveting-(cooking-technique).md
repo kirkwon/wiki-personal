@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Velveting (cooking technique)
+description: "--
+Velveting (Cooking Technique)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

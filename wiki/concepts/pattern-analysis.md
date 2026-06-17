@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Pattern Analysis in Digital Life
+description: "Pattern Analysis in Digital Life"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Decision Quality Checklist
+description: "--
+Decision Quality Checklist"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

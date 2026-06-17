@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Looking Back / Reflection in Problem-Solving
+description: "-
+Looking Back / Reflection in Problem-Solving"
 created: 2026-05-03
 updated: 2026-05-11
 tags:

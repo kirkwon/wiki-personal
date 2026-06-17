@@ -1,6 +1,8 @@
 ---
 type: source
 title: Research Add Cross-References to Comparisons Company Structure Guide
+description: "Research Add Cross-References to Comparisons Company Structure Guide
+This source provides a comprehensive guide to creating company structure charts, including ownership, governance, and management re."
 created: 2026-06-12
 updated: 2026-06-12
 tags: [research, company-structure, comparisons]

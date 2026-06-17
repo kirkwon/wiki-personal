@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Embracing Imperfection
+description: "Embracing Imperfection"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

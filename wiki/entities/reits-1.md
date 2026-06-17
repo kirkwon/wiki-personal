@@ -1,5 +1,6 @@
 ---
 title: REITs
+description: "Real Estate Investment Trusts (REITs) are investment vehicles that allow individuals to pool their money into large-scale real estate portfolios, typically focusing on income-generating properties lik."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

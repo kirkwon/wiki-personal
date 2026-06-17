@@ -1,5 +1,6 @@
 ---
 title: Small Cap Premium
+description: "The Small Cap Premium is the additional cost investors are willing to pay over the market average price per share for small-cap stocks due to their perceived higher risk and potential for growth."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

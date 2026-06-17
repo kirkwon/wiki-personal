@@ -1,5 +1,6 @@
 ---
 title: Taiwanese Gongfu
+description: "Taiwanese Gongfu refers to the meticulous and skillful approach applied in various disciplines such as cooking (e.g., preparing traditional dishes like beef tendon soup), photography (capturing images."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

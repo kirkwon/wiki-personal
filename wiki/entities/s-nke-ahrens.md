@@ -1,5 +1,6 @@
 ---
 title: Sönke Ahrens
+description: "Sönke Ahrens is an author known primarily for his work on personal finance with the bestselling book 'Your Money or Your Life.' He has also contributed to cognitive science through his writing that ex."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

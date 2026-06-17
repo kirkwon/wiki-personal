@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Gastronomy.md'
+description: "Source: Gastronomy.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources:

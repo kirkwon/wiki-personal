@@ -1,5 +1,6 @@
 ---
 title: priorities
+description: "Priorities are the essential tasks or goals that take precedence over others based on their importance to my well-being and long-term objectives."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

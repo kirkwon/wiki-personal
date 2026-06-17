@@ -1,5 +1,6 @@
 ---
 title: 绿茶-lǚ-chá
+description: "绿茶-lǚ-chá refers to green tea, which is unfermented tea leaves from Camellia sinensis plant."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

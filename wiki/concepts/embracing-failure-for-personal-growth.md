@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Embracing Failure for Personal Growth
+description: "Embracing Failure for Personal Growth"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

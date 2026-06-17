@@ -1,6 +1,7 @@
 ---
 type: source
 title: 'Source: Paul-Elder Critical Thinking Framework.md'
+description: "Source: Paul-Elder Critical Thinking Framework.md"
 created: 2026-05-09
 updated: 2026-05-09
 sources:

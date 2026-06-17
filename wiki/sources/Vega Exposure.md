@@ -1,6 +1,7 @@
 ---
 type: source
 title: Vega Exposure
+description: "Placeholder skill card with no descriptive content."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

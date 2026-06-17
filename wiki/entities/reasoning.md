@@ -1,5 +1,6 @@
 ---
 title: Reasoning
+description: "Reasoning is the cognitive process of drawing conclusions from evidence or premises through logical thought patterns."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

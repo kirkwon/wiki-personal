@@ -1,5 +1,6 @@
 ---
 title: trust-administration
+description: "Trust-administration refers to the management and oversight of assets or resources entrusted to an individual's care."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: Credit Assignment
+description: "Credit assignment is the process of determining which actions or decisions are responsible for an outcome, such as identifying which ingredient made a dish taste better in cooking, attributing success."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Reframing Adversity
+description: "Reframing adversity is the cognitive practice of viewing obstacles, setbacks, and difficulties not as impediments but as the very means through which growth and success are achieved."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

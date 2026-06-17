@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Quadrant 2 Focus
+description: "Quadrant 2 refers to activities that are important but not urgent—proactive investments in prevention, planning, relationship-building, learning, and personal renewal."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

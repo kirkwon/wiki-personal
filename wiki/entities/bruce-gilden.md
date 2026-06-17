@@ -1,5 +1,6 @@
 ---
 title: bruce-gilden
+description: "Bruce Gilden is an acclaimed American photographer known for his high-contrast black-and-white street photography that captures raw human emotions and interactions."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

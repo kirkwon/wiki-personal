@@ -1,5 +1,6 @@
 ---
 title: Dex‑NVG
+description: "Dex-NVG refers to Dexcom's Continuous Glucose Monitoring system designed with Night Vision (NVG) compatibility."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

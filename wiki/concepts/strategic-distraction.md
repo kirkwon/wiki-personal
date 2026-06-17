@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Strategic Distraction
+description: "Strategic Distraction"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

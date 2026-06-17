@@ -1,5 +1,6 @@
 ---
 title: Geografische-Diversifikation
+description: "Geografische-Diversifikation"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

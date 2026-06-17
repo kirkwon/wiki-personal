@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Behavioral Biases in Finance
+description: "--
+Behavioral Biases in Finance"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

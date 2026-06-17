@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Free Spirit (Nietzschean Concept)
+description: "--
+Free Spirit (Nietzschean Concept)"
 created: 2026-05-04
 updated: 2026-05-04
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Sensor Fusion
+description: "Sensor fusion is the process of integrating data from multiple sensors to produce more accurate, reliable, and comprehensive information than what could be obtained by using any individual sensor alon."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

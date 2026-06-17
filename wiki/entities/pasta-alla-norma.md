@@ -1,5 +1,6 @@
 ---
 title: pasta-alla-norma
+description: "Pasta alla Norma is an Italian pasta dish originating from Sicily, featuring spaghetti or other long pasta with a rich tomato sauce made from San Marzano tomatoes, garlic, and fresh basil; topped with."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 16th Avenue Tiled Steps
+description: "--
+16th Avenue Tiled Steps"
 created: 2025-04-15
 updated: 2026-04-24
 tags:

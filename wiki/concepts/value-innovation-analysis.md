@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Value Innovation Analysis
+description: "--
+Value Innovation Analysis"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

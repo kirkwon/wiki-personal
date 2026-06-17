@@ -1,5 +1,6 @@
 ---
 title: Tipping Behavior
+description: "Tipping behavior is a specific manifestation of irrational decision-making where economic choices are heavily influenced by social cues, emotions, and the desire to appear generous or socially accepte."
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

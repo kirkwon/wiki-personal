@@ -1,5 +1,6 @@
 ---
 title: roth-ira
+description: "A Roth IRA is an individual retirement account that allows post-tax contributions to grow tax-free, with qualified distributions in retirement being taxed as ordinary income."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

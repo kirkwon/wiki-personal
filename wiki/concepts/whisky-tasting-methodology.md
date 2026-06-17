@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Whisky Tasting Methodology
+description: "--
+Whisky Tasting Methodology"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

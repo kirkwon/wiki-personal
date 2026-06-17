@@ -1,5 +1,6 @@
 ---
 title: tortellini
+description: "Tortellini are Italian pasta pockets typically filled with cheese or meat, commonly served in broth as part of the cuisine's rich culinary tradition."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

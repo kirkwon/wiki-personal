@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Nudging / Libertarian Paternalism
+description: "Nudging / Libertarian Paternalism"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

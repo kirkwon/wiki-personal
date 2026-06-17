@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Post Corona - Scott Galloway
+description: "--
+Post Corona - Scott Galloway"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

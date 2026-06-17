@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Tom Griffiths
+description: "Tom Griffiths is a cognitive scientist and professor who collaborates with Brian Christian on applying computational thinking to human life."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

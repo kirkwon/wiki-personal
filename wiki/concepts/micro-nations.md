@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Micro-Nations
+description: "Micro-nations are small countries or territories seeking self-determination, autonomy, and economic growth by leveraging unique advantages in a post-corona world order."
 created: 2026-05-04
 updated: 2026-05-04
 tags:

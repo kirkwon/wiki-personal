@@ -1,5 +1,6 @@
 ---
 title: Illusion of control
+description: "The illusion of control is a cognitive bias where individuals overestimate their ability to influence outcomes that are largely determined by chance or external factors."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

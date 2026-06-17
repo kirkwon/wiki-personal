@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Making It All Work - David Allen
+description: "--
+Making It All Work - David Allen"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

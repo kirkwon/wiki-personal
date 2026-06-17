@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 茶叶氧化
+description: "氧化是茶叶加工的核心环节，决定了茶类的风味特征。乌龙茶通过控制8-80%的部分氧化实现独特风味。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

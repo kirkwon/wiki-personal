@@ -1,6 +1,8 @@
 ---
 type: source
 title: 'Clear Thinking: Turning Ordinary Moments into Extraordinary Results'
+description: "--
+Clear Thinking: Turning Ordinary Moments into Extraordinary Results"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

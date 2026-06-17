@@ -1,6 +1,8 @@
 ---
 type: source
 title: Blue Ocean Strategy - W Chan Kim & Renee Mauborgne
+description: "--
+Blue Ocean Strategy - W Chan Kim & Renee Mauborgne"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

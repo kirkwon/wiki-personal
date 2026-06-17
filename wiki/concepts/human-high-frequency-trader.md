@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Human High-Frequency Trader
+description: "Human High-Frequency Trader"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

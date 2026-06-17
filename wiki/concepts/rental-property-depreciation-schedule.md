@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Rental Property Depreciation Schedule
+description: "--
+Rental Property Depreciation Schedule"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

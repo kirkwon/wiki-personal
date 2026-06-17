@@ -1,6 +1,7 @@
 ---
 type: source
 title: Dishonesty
+description: "Source documenting the Dishonesty mental model, referencing Dan Ariely's The Honest Truth About Dishonesty."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

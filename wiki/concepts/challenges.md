@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Challenges
+description: "Challenges is a universal mental model that serves as a conceptual tool for making sense of patterns and relationships in complex situations."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

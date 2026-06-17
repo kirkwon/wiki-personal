@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Beta (Investing)
+description: "A measure of a stock's or portfolio's volatility relative to the overall market."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

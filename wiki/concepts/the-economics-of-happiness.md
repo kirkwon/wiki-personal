@@ -1,6 +1,7 @@
 ---
 type: concept
 title: The Economics of Happiness
+description: "The Economics of Happiness"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

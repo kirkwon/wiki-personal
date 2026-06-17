@@ -1,5 +1,6 @@
 ---
 title: shanghai-cuisine
+description: "Shanghai cuisine refers to the diverse culinary traditions originating from Shanghai, China, characterized by an amalgamation of flavors from various regional dishes with a focus on seafood and tea-in."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

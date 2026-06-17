@@ -1,6 +1,7 @@
 ---
 type: entity
 title: 大吉岭茶
+description: "大吉岭茶是产自印度西孟加拉邦大吉岭地区的红茶，被誉为'茶中香槟'。其标志性特征是独特的麝香葡萄风味（Muscatel），由喜马拉雅风土塑造。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

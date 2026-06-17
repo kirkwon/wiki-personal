@@ -1,5 +1,6 @@
 ---
 title: The Honest Truth About Dishonesty
+description: "The Honest Truth About Dishonesty"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

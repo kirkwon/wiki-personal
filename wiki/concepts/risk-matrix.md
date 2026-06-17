@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Risk Matrix
+description: "A visual prioritization tool that plots risks on a grid of probability (Very Low to Very High) against impact (Minimal to Catastrophic) to determine priority level."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

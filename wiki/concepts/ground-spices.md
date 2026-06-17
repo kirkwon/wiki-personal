@@ -1,5 +1,6 @@
 ---
 title: Ground Spices
+description: "Ground spices are finely pulverized ingredients derived from various parts of plants used to enhance the flavor, aroma, and color in culinary dishes."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Zero to One - Peter Thiel & Blake Masters
+description: "--
+Zero to One - Peter Thiel & Blake Masters"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Herbs and Spices
+description: "Herbs and spices are natural ingredients derived from plants used to enhance the flavor, color, and aroma of food."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

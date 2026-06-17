@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Innovation Accounting
+description: "Innovation Accounting"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

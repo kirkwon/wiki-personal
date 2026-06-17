@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Sushi Rice Preparation
+description: "--
+Sushi Rice Preparation (酢飯の調理)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

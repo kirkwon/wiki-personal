@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Validation of Mental Models"
+description: "Research: Validation of Mental Models"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

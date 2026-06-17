@@ -1,5 +1,6 @@
 ---
 title: Belief‑Desire‑Intention (BDI)
+description: "Belief‑Desire‑Intention (BDI)"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

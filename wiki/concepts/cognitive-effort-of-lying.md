@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Cognitive Effort of Lying
+description: "Cognitive Effort of Lying"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

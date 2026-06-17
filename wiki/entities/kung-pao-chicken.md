@@ -1,6 +1,7 @@
 ---
 type: entity
 title: 宫保鸡丁
+description: "宫保鸡丁（宫保鸡丁）是经典川菜，以甜、酸、辣、咸的完美平衡为特征。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

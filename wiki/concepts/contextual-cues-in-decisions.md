@@ -1,5 +1,6 @@
 ---
 title: Contextual Cues in Decision-Making
+description: "Contextual Cues in Decision-Making"
 created: 2026-05-03
 updated: 2026-05-03
 type: concept

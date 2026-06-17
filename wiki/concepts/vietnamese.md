@@ -1,5 +1,6 @@
 ---
 title: Vietnamese
+description: "A Vietnamese individual is someone from or related to Vietnam, with cultural influences that may impact their culinary preferences, such as a penchant for pho or banh mi cuisine."
 created: 2026-06-10
 updated: 2026-06-10
 type: concept

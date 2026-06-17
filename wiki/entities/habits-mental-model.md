@@ -1,5 +1,6 @@
 ---
 title: habits-mental-model
+description: "A habit-mental model is an individual's cognitive framework that shapes their approach to daily tasks such as cooking, photography, personal finance management, and understanding cognitive processes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

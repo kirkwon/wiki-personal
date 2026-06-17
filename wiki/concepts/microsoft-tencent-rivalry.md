@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Microsoft vs Tencent Rivalry
+description: "Microsoft vs Tencent Rivalry"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

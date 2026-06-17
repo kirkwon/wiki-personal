@@ -1,5 +1,6 @@
 ---
 title: Personal Legend
+description: "A Personal Legend is Sinek's term for the deep-seated sense of purpose or calling that drives an individual throughout their lives."
 created: 2026-05-03
 updated: 2026-05-12
 type: concept

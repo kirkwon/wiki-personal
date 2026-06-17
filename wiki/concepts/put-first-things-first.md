@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Put First Things First
+description: "Put First Things First"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

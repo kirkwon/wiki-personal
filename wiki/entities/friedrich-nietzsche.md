@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Friedrich Nietzsche
+description: "Friedrich Nietzsche
+German philosopher (1844–1900) known for his radical critique of traditional morality, religion, and philosophy."
 created: 2026-05-04
 updated: 2026-06-11
 tags:

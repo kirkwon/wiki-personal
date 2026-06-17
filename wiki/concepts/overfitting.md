@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Overfitting
+description: "Creating models that are too complex for the problem, capturing noise rather than signal."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

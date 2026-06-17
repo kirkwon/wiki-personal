@@ -1,5 +1,6 @@
 ---
 title: Capital Gains
+description: "Capital gains refer to the profit from the sale of an asset, such as stocks or real estate, where the selling price exceeds the purchase price."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

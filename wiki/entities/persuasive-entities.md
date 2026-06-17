@@ -1,5 +1,6 @@
 ---
 title: Persuasive entities
+description: "A persuasive entity is an influential factor or concept that can sway opinions, decisions, or behaviors in various domains such as cooking (e.g., a signature recipe), photography (e.g., a renowned pho."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

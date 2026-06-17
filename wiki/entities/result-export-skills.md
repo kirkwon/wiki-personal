@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Result Export Skills
+description: "--
+Result Export Skills"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

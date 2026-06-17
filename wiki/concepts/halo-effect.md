@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Halo Effect
+description: "The halo effect is a cognitive bias where a positive impression of one aspect of something influences the overall opinion of that thing."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

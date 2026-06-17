@@ -1,5 +1,6 @@
 ---
 title: Rationality under Uncertainty
+description: "Rationality under Uncertainty"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 大吉岭采摘季体系
+description: "采摘季体系是大吉岭茶的核心特征，不同季节采摘产生截然不同的风味，这是理解大吉岭茶的关键。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Stir-Fry Technique（炒菜技法）
+description: "--
+Stir-Fry Technique（炒菜技法 / 爆炒技术）"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

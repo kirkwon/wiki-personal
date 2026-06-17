@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Multiplier
+description: "A [[mental-model]] for understanding how certain leaders and thinkers amplify the intelligence and capability of those around them, creating environments where people contribute their best thinking."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

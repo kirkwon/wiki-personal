@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Tools of Titans
+description: "Tools of Titans by Timothy Ferriss compiles the habits, rituals, and strategies of world-class performers across business, health, and creative domains."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

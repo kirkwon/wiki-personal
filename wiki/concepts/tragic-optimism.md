@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Tragic Optimism
+description: "Tragic optimism is Viktor Frankl's concept of maintaining optimism and hope in the face of the unavoidable realities of human existence—the tragic triad of pain, guilt, and death."
 created: 2026-05-03
 updated: 2026-05-09
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: White Hat - Facts and Data
+description: "White Hat - Facts and Data"
 created: 2026-05-03
 updated: 2026-05-09
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Productivity
+description: "Productivity is a universal mental model—not merely a metric of output per hour, but a conceptual tool for navigating complexity through pattern recognition."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

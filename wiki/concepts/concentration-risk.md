@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Concentration Risk
+description: "Concentration risk occurs when investments are excessively exposed to a single asset, fund, manager, stock, company, or sector, creating a single point of failure."
 created: 2026-04-24
 updated: 2026-05-09
 tags:

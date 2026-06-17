@@ -1,5 +1,6 @@
 ---
 title: Score-Based Models
+description: "Score-Based Models are computational frameworks that assign numerical values to elements based on predefined criteria or performance metrics."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,8 @@
 ---
 type: source
 title: Street Photography Guide
+description: "--
+Street Photography Source"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

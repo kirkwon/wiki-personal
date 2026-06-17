@@ -1,6 +1,8 @@
 ---
 type: source
 title: Slow Productivity - Cal Newport
+description: "--
+Slow Productivity - Cal Newport"
 created: 2026-04-29
 updated: 2026-05-03
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Inbox
+description: "An Inbox is a digital container where incoming messages, notifications, or tasks are stored until addressed."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,7 @@
 ---
 type: entity
 title: Velveeta
+description: "Velveeta es un queso procesado americano, suave y fundente, utilizado comúnmente en la cocina Tex-Mex, especialmente en el chili con queso."
 created: 2026-04-24
 updated: 2026-04-24
 tags:

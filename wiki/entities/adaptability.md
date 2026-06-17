@@ -1,5 +1,6 @@
 ---
 title: adaptability
+description: "Adaptability refers to the ability to adjust one's strategies or behaviors effectively when faced with new challenges or changing circumstances in various domains such as cooking (modifying recipes)."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

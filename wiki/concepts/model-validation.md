@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Model Validation
+description: "Testing and validating models against reality to ensure they provide useful insights rather than confirming biases or overfitting to noise."
 created: 2026-05-03
 updated: 2026-05-03
 tags:

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 烘焙缺陷
+description: "咖啡烘焙中的常见缺陷包括烧焦、尖头、烘焙不均、欠烘和过烘，每种缺陷都有特定的成因和预防措施。"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

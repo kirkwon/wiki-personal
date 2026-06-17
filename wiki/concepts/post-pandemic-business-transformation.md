@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Post-Pandemic Business Transformation
+description: "--
+Post-Pandemic Business Transformation"
 created: 2026-05-04
 updated: 2026-05-04
 tags:

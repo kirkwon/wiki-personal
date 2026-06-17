@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Flow States
+description: "Flow states are mental states of complete absorption in an activity, characterized by deep focus, loss of self-consciousness, and intrinsic motivation."
 created: 2026-04-29
 updated: 2026-04-29
 tags:

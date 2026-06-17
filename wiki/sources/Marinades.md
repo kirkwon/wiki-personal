@@ -1,6 +1,8 @@
 ---
 type: source
 title: Marinades and Mise en Place
+description: "--
+Marinades and Mise en Place"
 created: 2026-04-24
 updated: 2026-05-09
 tags:

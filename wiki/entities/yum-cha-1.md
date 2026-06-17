@@ -1,5 +1,6 @@
 ---
 title: Yum Cha
+description: "Yum Cha is a traditional Chinese dining experience centered around dim sum, where patrons enjoy small, bite-sized portions of food served in steamer baskets or on small plates while seated at a commun."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,5 +1,6 @@
 ---
 title: ReLU Activation Function
+description: "ReLU Activation Function"
 type: solution
 tags:
 - solution

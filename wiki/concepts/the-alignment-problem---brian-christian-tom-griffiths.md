@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Alignment Problem - Brian Christian Tom Griffiths
+description: "--
+The Alignment Problem - Brian Christian & Tom Griffiths"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

@@ -1,5 +1,6 @@
 ---
 title: mental-model
+description: "A mental model is an individual's internal representation of the external world that guides their understanding and decision-making processes in various domains such as cooking (recipe structure), pho."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

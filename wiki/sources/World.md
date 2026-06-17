@@ -1,6 +1,8 @@
 ---
 type: source
 title: World (mental model source)
+description: "--
+World (mental model source)"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

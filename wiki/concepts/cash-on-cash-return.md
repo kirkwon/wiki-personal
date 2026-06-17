@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Cash on Cash Return
+description: "--
+Cash on Cash Return"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

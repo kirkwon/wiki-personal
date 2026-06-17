@@ -1,6 +1,8 @@
 ---
 type: source
 title: Letters from a Stoic - Seneca
+description: "--
+Letters from a Stoic - Seneca"
 created: 2026-05-03
 updated: 2026-05-03
 tags:

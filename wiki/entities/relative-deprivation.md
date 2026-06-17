@@ -1,5 +1,6 @@
 ---
 title: Relative deprivation
+description: "Relative deprivation refers to the perception of disadvantage experienced when comparing oneself unfavorably to others in similar situations or groups, often leading to feelings of resentment or dissa."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

@@ -1,6 +1,9 @@
 ---
 type: source
 title: 'Source: Impact.md'
+description: "Key Entities
+- Impact (mental model) — New universal mental model; cross-referenced with Cal Newport, David Epstein, Barry Schwartz, Greg McKeown, Atul Gawande
+- Cal Newport — Author of Slow Productiv."
 created: 2026-05-10
 updated: 2026-05-10
 sources:

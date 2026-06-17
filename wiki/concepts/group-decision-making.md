@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Group Decision-Making
+description: "--
+Group Decision-Making"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

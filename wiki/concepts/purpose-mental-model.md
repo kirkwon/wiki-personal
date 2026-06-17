@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Purpose (Mental Model)
+description: "--
+Purpose (Mental Model)"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

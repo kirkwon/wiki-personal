@@ -1,6 +1,8 @@
 ---
 type: entity
 title: The Beginning of Infinity
+description: "--
+The Beginning of Infinity"
 created: 2026-04-29
 updated: 2026-05-10
 tags:

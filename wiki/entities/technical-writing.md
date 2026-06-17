@@ -1,5 +1,6 @@
 ---
 title: Technical Writing
+description: "Technical writing is the process of conveying complex information clearly and effectively to specialized audiences through written documents such as manuals, reports, or guides."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

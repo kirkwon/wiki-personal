@@ -1,5 +1,6 @@
 ---
 title: Yee Whye Teh
+description: "Yee Whye Teh is an individual with a multifaceted interest in the culinary arts, capturing moments through photography, managing personal finances prudently, and exploring cognitive processes."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

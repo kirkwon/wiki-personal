@@ -1,6 +1,7 @@
 ---
 type: summary
 title: Wiki Index
+description: "> Automated directory of all wiki pages. | Total pages: 4581"
 tags: [meta]
 ---
 

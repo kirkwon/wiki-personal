@@ -1,6 +1,8 @@
 ---
 type: entity
 title: Marinada de cilantro y comino
+description: "--
+Marinada de cilantro y comino"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

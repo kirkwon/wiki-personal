@@ -1,5 +1,6 @@
 ---
 title: heuristic-proproblem-solving
+description: "heuristic-proproblem-solving"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

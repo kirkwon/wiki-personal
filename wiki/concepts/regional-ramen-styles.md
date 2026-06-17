@@ -1,6 +1,7 @@
 ---
 type: concept
 title: 地域ラーメンスタイル
+description: "日本各地域で独自に発展したラーメンのスタイル。"
 created: 2026-04-24
 updated: 2026-04-24
 tags:

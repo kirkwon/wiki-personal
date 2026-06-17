@@ -1,5 +1,6 @@
 ---
 title: Default effect
+description: "The default effect is the tendency to choose an option that is presented as the standard or pre-selected choice in a given context."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

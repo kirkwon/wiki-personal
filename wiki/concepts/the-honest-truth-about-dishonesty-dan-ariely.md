@@ -1,6 +1,8 @@
 ---
 type: concept
 title: The Honest Truth About Dishonesty - Dan Ariely
+description: "--
+The Honest Truth About Dishonesty"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

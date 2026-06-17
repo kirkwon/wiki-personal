@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Source: raw/ingested/YouTube-Watch-Later.md"
+description: "Source: raw/ingested/YouTube-Watch-Later.md"
 created: 2026-06-05
 updated: 2026-06-05
 sources: ["raw/ingested/YouTube-Watch-Later.md"]

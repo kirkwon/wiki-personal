@@ -1,7 +1,8 @@
 ---
 tags: [concept, stub]
 created: 2026-06-16
-type: concept-stub
+type: concept
+description: "Causal Portfolio Analysis"
 ---
 
 # Causal Portfolio Analysis

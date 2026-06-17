@@ -1,5 +1,6 @@
 ---
 title: Restraint bias
+description: "Restraint bias is the tendency to underestimate one's ability to exercise self-control when faced with temptations or impulsive choices."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

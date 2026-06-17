@@ -1,6 +1,8 @@
 ---
 type: concept
 title: Savings Rate Over Returns
+description: "--
+Savings Rate Over Returns"
 created: 2026-04-29
 updated: 2026-04-29
 tags:

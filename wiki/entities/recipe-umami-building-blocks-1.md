@@ -1,5 +1,6 @@
 ---
 title: recipe:umami-building-blocks
+description: "recipe:umami-building-blocks"
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

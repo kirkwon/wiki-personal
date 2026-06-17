@@ -1,5 +1,6 @@
 ---
 title: Transformer Models
+description: "A Transformer Model is an advanced machine learning architecture that processes sequences of data (like recipes or photos) in parallel, focusing on the relationships between elements to generate predi."
 created: 2026-06-10
 updated: 2026-06-10
 type: entity

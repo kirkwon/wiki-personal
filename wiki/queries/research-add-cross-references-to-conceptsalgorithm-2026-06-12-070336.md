@@ -1,6 +1,7 @@
 ---
 type: query
 title: "Research: Add cross-references to concepts/algorithms-mental-model.md"
+description: "Research: Add cross-references to concepts/algorithms-mental-model.md"
 created: 2026-06-12
 origin: deep-research
 tags: [research]

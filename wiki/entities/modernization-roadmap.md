@@ -1,6 +1,7 @@
 ---
 type: note
 title: 'Modernization Roadmap: Dashboard Pro'
+description: "Modernization Roadmap: Dashboard Pro"
 created: 2026-05-14
 updated: 2026-05-14
 tags: []

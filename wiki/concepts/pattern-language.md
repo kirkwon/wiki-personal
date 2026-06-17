@@ -1,6 +1,7 @@
 ---
 type: concept
 title: Pattern Language
+description: "Pattern language is a vocabulary and framework for describing recurring structures and behaviors in complex systems."
 created: 2026-05-03
 updated: 2026-05-11
 tags:

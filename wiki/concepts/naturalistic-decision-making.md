@@ -1,5 +1,6 @@
 ---
 title: Naturalistic Decision Making
+description: "Naturalistic Decision Making"
 created: 2026-05-03
 updated: 2026-05-09
 type: concept

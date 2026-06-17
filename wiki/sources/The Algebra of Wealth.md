@@ -1,5 +1,6 @@
 ---
 title: The Algebra of Wealth
+description: "The Algebra of Wealth"
 sources:
 - The Algebra of Wealth.md
 tags:
