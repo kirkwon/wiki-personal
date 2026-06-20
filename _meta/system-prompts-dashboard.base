@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.hasTag("system-prompts")
+properties:
+  file.name:
+    displayName: Page
+  note.type:
+    displayName: Type
+  note.summary:
+    displayName: Summary
+  note.confidence:
+    displayName: Confidence
+  note.updated:
+    displayName: Updated
+views:
+  - type: table
+    name: All System Prompt Pages
+    order:
+      - file.name
+      - note.type
+      - summary
+      - confidence
+      - updated
+  - type: cards
+    name: Card View
+    order:
+      - file.name
+      - note.type
+      - summary
+  - type: table
+    name: By Type
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - summary
+      - confidence

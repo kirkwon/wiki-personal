@@ -7,3 +7,5 @@
   - Created: [[wiki/sources/cl4r1t4s-leaked-system-prompts]], [[references/claude-fable-5-system-prompt]], [[concepts/system-prompt-architecture-patterns]], [[concepts/anthropic-system-prompt-evolution]], [[wiki/synthesis/system-prompt-arms-race]]
   - Raw source: raw/sources/CL4R1T4S/ (66 files preserving provider directory structure)
   - Pattern analysis: 22 keyword patterns tracked across all prompts, Anthropic evolution mapped 3.5→Fable 5
+
+- 2026-06-19: WIKI_DASHBOARD name="system-prompts-dashboard" tool=bases view=table/cards filter="tag:system-prompts" — Created dashboard for CL4R1T4S system prompt pages. Also created _meta/dashboard.md main dashboard note.
