@@ -890,8 +890,9 @@
       }
     ],
     "id": "review-61",
-    "resolved": false,
-    "createdAt": 1781333841294
+    "resolved": true,
+    "createdAt": 1781333841294,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "missing-page",
@@ -947,8 +948,9 @@
       }
     ],
     "id": "review-63",
-    "resolved": false,
-    "createdAt": 1781333841294
+    "resolved": true,
+    "createdAt": 1781333841294,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -975,8 +977,9 @@
       }
     ],
     "id": "review-64",
-    "resolved": false,
-    "createdAt": 1781333841294
+    "resolved": true,
+    "createdAt": 1781333841294,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -1206,8 +1209,9 @@
       }
     ],
     "id": "review-72",
-    "resolved": false,
-    "createdAt": 1781335562384
+    "resolved": true,
+    "createdAt": 1781335562384,
+    "resolvedAction": "Queued for research"
   },
   {
     "type": "suggestion",
@@ -1311,7 +1315,8 @@
       }
     ],
     "id": "review-76",
-    "resolved": false,
-    "createdAt": 1781336170927
+    "resolved": true,
+    "createdAt": 1781336170927,
+    "resolvedAction": "Queued for research"
   }
 ]

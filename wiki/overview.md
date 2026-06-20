@@ -1,17 +1,6 @@
----
-type: overview
-title: Wiki Overview
-description: "Wiki Overview
-Introduction
-The wiki is a collection of pages that contain information about various concepts and entities related to personal knowledge management, software development, and artificial."
-created: 2026-05-14
-updated: 2026-06-13
-tags: []
----
 # Wiki Overview
 ## Introduction
 The wiki is a collection of pages that contain information about various concepts and entities related to personal knowledge management, software development, and artificial intelligence. It covers topics such as critic separation, triage inbox, skill auto-patch, and goal primitive, providing a comprehensive overview of the loop engineering process.
-
 ## Main Topics
 * Personal Knowledge Management
 * Critical Thinking
@@ -35,7 +24,6 @@ The wiki is a collection of pages that contain information about various concept
 * Memory Tiering
 * Information Architecture
 * Knowledge Management
-
 ## References
 * [[concepts/personal-knowledge-management]] - Personal Knowledge Management
 * [[concepts/critical-thinking]] - Critical Thinking

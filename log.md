@@ -3,3 +3,7 @@
 - 2026-06-15: Created [[concepts/self-harness-paradigm]] distilling the Self-Harness Paradigm (WMH loop, three-layered system from methodology-loop.md, Karpathy influence). Updated schema.md tag taxonomy with agent-systems/methodology/improvement tags.
 - 2026-06-15: HERMES_HISTORY_INGEST memories=2 sessions=53 pages_created=4 pages_updated=0 mode=full
   - Created: [[concepts/loop-engineering]], [[concepts/self-harness-paradigm]], [[concepts/causal-ai-pipeline]], [[wiki/entities/hermes-agent]]\n
+- 2026-06-19: CL4R1T4S INGEST — Ingested 66 leaked system prompts from elder-plinius/CL4R1T4S repo (26 providers, ~220K words). Created 5 pages:
+  - Created: [[wiki/sources/cl4r1t4s-leaked-system-prompts]], [[references/claude-fable-5-system-prompt]], [[concepts/system-prompt-architecture-patterns]], [[concepts/anthropic-system-prompt-evolution]], [[wiki/synthesis/system-prompt-arms-race]]
+  - Raw source: raw/sources/CL4R1T4S/ (66 files preserving provider directory structure)
+  - Pattern analysis: 22 keyword patterns tracked across all prompts, Anthropic evolution mapped 3.5→Fable 5

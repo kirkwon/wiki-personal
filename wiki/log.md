@@ -1785,3 +1785,5 @@ Ingested the Loop Engineering Plan source document, creating new pages for criti
 
 ## 2026-06-13
 ingest | Memory Tiering
+
+## [2026-06-16] ingest | Research Implementing Critic Separation

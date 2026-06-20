@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781669023522,
+  "updatedAt": 1781674914533,
   "files": {
     "purpose.md": {
       "hash": "57f567db079a9282cb6b5eb3d5c50a19",
@@ -36,6 +36,11 @@
       "hash": "cb4e021fdc90b92d02f3605951b31bcc",
       "size": 4937,
       "mtimeMs": 1781507167377
+    },
+    "wiki/TYPE_REGISTRY.md": {
+      "hash": "5d8e07933d9716edf07264c8e8e952cf",
+      "size": 5023,
+      "mtimeMs": 1781669198283
     },
     "wiki/WikiLink.md": {
       "hash": "264a8c8fd76ce215864553814ef3bfd8",
@@ -396,6 +401,11 @@
       "hash": "5d6c47cdae5048d56236027744e04079",
       "size": 2503,
       "mtimeMs": 1781666528233
+    },
+    "wiki/concepts/agent-looping.md": {
+      "hash": "37ecf2c1c65d40344cb4e3d4fe87f739",
+      "size": 2169,
+      "mtimeMs": 1781674837454
     },
     "wiki/concepts/agent-skills-and-tool-calling.md": {
       "hash": "1ad391dbd678ceb0009d32c267f5b31c",
@@ -2308,9 +2318,9 @@
       "mtimeMs": 1781667224543
     },
     "wiki/concepts/critic-separation.md": {
-      "hash": "09b7a06980191da86a64c3c0d923fa85",
-      "size": 914,
-      "mtimeMs": 1781335562209
+      "hash": "2fa2f4597f0fc0680a17ce284503d53a",
+      "size": 2666,
+      "mtimeMs": 1781674837450
     },
     "wiki/concepts/critical-rationalism.md": {
       "hash": "3013b08476e182a129bb4eaedcc95e6e",
@@ -13267,6 +13277,11 @@
       "size": 873,
       "mtimeMs": 1781666529828
     },
+    "wiki/entities/critic-agent.md": {
+      "hash": "17603a078bf0b6ecb47a356fe187120f",
+      "size": 1959,
+      "mtimeMs": 1781674765855
+    },
     "wiki/entities/critical-thinking.md": {
       "hash": "b4651079ac5e702b8a0808d26202e908",
       "size": 970,
@@ -19568,9 +19583,9 @@
       "mtimeMs": 1781666530394
     },
     "wiki/log.md": {
-      "hash": "d56bd769072f3aa7f7c39689c68de857",
-      "size": 44011,
-      "mtimeMs": 1781336170780
+      "hash": "d54bc1b342b846baa4fe2a90a317dae3",
+      "size": 44077,
+      "mtimeMs": 1781674913661
     },
     "wiki/mental-models-index.md": {
       "hash": "3bf7cdc7a27be9e559d764157cb84810",
@@ -19578,9 +19593,9 @@
       "mtimeMs": 1781154727240
     },
     "wiki/overview.md": {
-      "hash": "2a75eb872493628933d0268eb3e9b07d",
-      "size": 2583,
-      "mtimeMs": 1781666530395
+      "hash": "f910f0c64753d257ef15c499bb9a2c8e",
+      "size": 2270,
+      "mtimeMs": 1781674913658
     },
     "wiki/queries/alternative-investments.md": {
       "hash": "c23d6aefbe352d850d0b26b483851fcd",
@@ -19741,6 +19756,11 @@
       "hash": "debc66f83a312ba6bb32f5d958e3202d",
       "size": 6140,
       "mtimeMs": 1781666530409
+    },
+    "wiki/queries/research-implementing-critic-separation-2026-06-17-052850.md": {
+      "hash": "26615ae61b7c34c776a7bd7b08aafadd",
+      "size": 15516,
+      "mtimeMs": 1781674130715
     },
     "wiki/queries/research-implementing-pkm-system-2026-06-12-070528.md": {
       "hash": "aca5365945d7d13594fbc24a9c5d2211",
@@ -22841,6 +22861,11 @@
       "hash": "6d9ef8608de8836029b4140a8af230cf",
       "size": 610,
       "mtimeMs": 1781666530684
+    },
+    "wiki/sources/research-implementing-critic-separation-2026-06-17-052850.md": {
+      "hash": "9362c493aedddcfac0ef5a623cd692a0",
+      "size": 4959,
+      "mtimeMs": 1781674765853
     },
     "wiki/sources/research-implementing-pkm-system-2026-06-12-070528.md": {
       "hash": "94eb94faa1600ec686eacc784a0d9941",

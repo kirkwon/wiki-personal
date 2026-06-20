@@ -3,7 +3,7 @@ tags: [permanent-question, research, ai-agents]
 created: 2026-05-25
 question: "What are the frontier approaches for agents to improve their own scaffolding, tool use, and learning harness? Metalearning, self-critique, recursive improvement — what's working?"
 type: permanent-question
-reviewed: 2026-05-25
+reviewed: 2026-06-17
 status: Active - accumulating
 ---
 
@@ -110,6 +110,9 @@ Agents can potentially improve at multiple levels:
 - Yao et al. — "ReAct: Synergizing Reasoning and Acting in Language Models"
 - Bai et al. — "Constitutional AI: Harmlessness from AI Feedback"
 - Anand et al. — "Unleashing the Power of Agents with a Unified Memory System"
+- Zhang et al. — "Self-Harness: Harnesses That Improve Themselves" (2026, arXiv:2606.09498) — Formalizes the Weakness Mining → Harness Proposal → Proposal Validation loop for model-specific harness self-improvement. The canonical paper for the Self-Harness paradigm discussed above.
+- Lou et al. — "AutoHarness: Improving LLM Agents by Synthesizing a Code Harness" (2026, arXiv:2603.03329) — Automatic synthesis of code harnesses constraining agent actions to valid operations. Direct academic reference for agent harness automation.
+- Pan et al. — "Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference" (2026, arXiv:2606.05922) — Improving agent harnesses without ground-truth validation using retrospective self-preference. Relevant to self-improvement in settings without explicit evaluators.
 
 ## Emerging Methodology
 
@@ -135,4 +138,5 @@ This is like a personal learning journal, but automated.
 - [[methodology-loop]]
 
 ## Last Updated
-_2026-06-13_ — Added Self-Harness paradigm, methodology-loop, critic separation, skill auto-patch, /goal primitive, memory tiering
+_2026-06-17_ — Added new papers (Self-Harness, AutoHarness, Evolving Agents in the Dark) to Key Papers section
+_2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Harness applied, dashboard fixes, Headroom compression, /last30days skill, loop engineering

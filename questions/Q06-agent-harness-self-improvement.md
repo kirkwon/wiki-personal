@@ -3,7 +3,7 @@ tags: [permanent-question, research, ai-agents]
 created: 2026-05-25
 question: "Beyond generic metalearning — what specific architectural and algorithmic ideas let agents build better toolchains, improve their own prompting, and recursively self-optimize? How does this apply to quantitative research workflows?"
 type: permanent-question
-reviewed: 2026-06-12
+reviewed: 2026-06-17
 ---
 
 # Q06: Agent Recursive Self-Improvement
@@ -82,6 +82,9 @@ Most deployed "self-improvement" is:
 - Not fully autonomous recursive improvement
 
 ## Key Papers
+- Zhang et al. — "Self-Harness: Harnesses That Improve Themselves" (2026, arXiv:2606.09498) — Formalizes Weakness Mining → Harness Proposal → Proposal Validation with regression testing. The canonical paper for the self-improving harness paradigm deployed in Hermes.
+- Lou et al. — "AutoHarness: Improving LLM Agents by Synthesizing a Code Harness" (2026, arXiv:2603.03329) — Automatic code harness synthesis constraining agent actions to valid operations.
+- Pan et al. — "Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference" (2026, arXiv:2606.05922) — Harness improvement without ground-truth validation sets, using self-preference optimization.
 - Reflection agents (see Q02) — most practical self-improvement mechanism currently
 - Toolformer for tool synthesis
 - Self-verification mechanisms (detect own errors before outputting)
@@ -168,4 +171,5 @@ This transforms the harness from a linear execution pipeline into a **goal-direc
 - [[memory-tiering]] — 4-tier memory hierarchy with promote/demote/archive
 
 ## Last Updated
+_2026-06-17_ — Added key papers (Self-Harness, AutoHarness, Evolving Agents in the Dark) to Key Papers section
 _2026-06-12_ — Added June 2026 findings: loop engineering, Self-Harness Karpathy, methodology-loop, Headroom MCP, memory tiering, /goal primitive

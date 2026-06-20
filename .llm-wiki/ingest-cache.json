@@ -235,6 +235,18 @@
         "wiki/log.md",
         "wiki/overview.md"
       ]
+    },
+    "research-implementing-critic-separation-2026-06-17-052850.md": {
+      "hash": "b2c5ff237206f92e043dc4ccaba921a5a76e50a083dfe9aa753e1814acd4681b",
+      "timestamp": 1781674913802,
+      "filesWritten": [
+        "wiki/sources/research-implementing-critic-separation-2026-06-17-052850.md",
+        "wiki/entities/critic-agent.md",
+        "wiki/concepts/critic-separation.md",
+        "wiki/concepts/agent-looping.md",
+        "wiki/overview.md",
+        "wiki/log.md"
+      ]
     }
   }
 }
