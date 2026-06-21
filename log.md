@@ -9,3 +9,9 @@
   - Pattern analysis: 22 keyword patterns tracked across all prompts, Anthropic evolution mapped 3.5→Fable 5
 
 - 2026-06-19: WIKI_DASHBOARD name="system-prompts-dashboard" tool=bases view=table/cards filter="tag:system-prompts" — Created dashboard for CL4R1T4S system prompt pages. Also created _meta/dashboard.md main dashboard note.
+
+- 2026-06-21: INGEST source="arxiv:2510.04542" pages_created=4 pages_updated=0 mode=raw
+  - Created: [[papers/code-world-models-general-game-playing]], [[concepts/code-world-models]], [[concepts/llm-as-compiler]], [[concepts/verifiable-planning]]
+  - Source: Lehrach et al. (2025), Google DeepMind — "Code World Models for General Game Playing"
+  - Cross-linked to: alphazero, game-theory-and-strategic-analysis, strategic-decision-framework
+  - Game theory application: CWM pattern applied to multi-agent strategic reasoning and verifiable planning

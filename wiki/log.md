@@ -1787,3 +1787,10 @@ Ingested the Loop Engineering Plan source document, creating new pages for criti
 ingest | Memory Tiering
 
 ## [2026-06-16] ingest | Research Implementing Critic Separation
+
+## [2026-06-21] create | Web Extraction Provider Architecture
+- Created `concepts/web-extraction-provider-architecture.md` — documents the per-capability provider split (search vs extract)
+- Created `entities/crawl4ai.md` — free local extraction backend (Playwright + heuristic)
+- Created `entities/scrapegraphai.md` — LLM-powered extraction backend (Ollama gemma4)
+- Updated `entities/hermes-agent.md` — added Web Extraction section, architectural change note, new cross-links
+- Architectural change: Crawl4AI + ScrapeGraphAI added as extract-only backends, eliminating Firecrawl credit dependency for web_extract

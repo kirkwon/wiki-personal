@@ -143,8 +143,27 @@ Hermes operates across multiple interfaces:
 - **Voice** — microphone input with local STT (Whisper base) and Kokoro TTS output
 - **Desktop app** — Electron/React-based native client
 
+## Web Extraction (Provider Architecture)
+
+Hermes uses a **pluggable web provider system** with per-capability routing (search vs. extract can use different backends). See [[concepts/web-extraction-provider-architecture]].
+
+| Backend | Type | Search | Extract | Cost | Status |
+|---|---|---|---|---|---|
+| Firecrawl | Cloud | ✅ | ✅ | Credits | Active (search) |
+| [[entities/crawl4ai]] | Local | ❌ | ✅ | **Free** | **Active (extract)** |
+| [[entities/scrapegraphai]] | Local | ❌ | ✅ | **Free** (Ollama) | Available |
+| DDGS | Local | ✅ | ❌ | Free | Available |
+| Tavily/Exa/Brave | Cloud | ✅ | ✅ | Credits | Available |
+
+Config: `web.backend: firecrawl` (search) + `web.extract_backend: crawl4ai` (extract). Switch extract backend without code changes via `hermes config set web.extract_backend <name>`.
+
+**Architectural change (2026-06-21):** Added Crawl4AI + ScrapeGraphAI as extract-only backends. This eliminates the Firecrawl credit dependency for content extraction — all `web_extract` calls now run locally, free. See [[concepts/web-extraction-provider-architecture]].
+
 ## Related
 
 - [[entities/hermes-skill]] — Skill system definition
 - [[entities/gbrain]] — Cold storage knowledge base
 - [[entities/headroom]] — Session compression proxy
+- [[concepts/web-extraction-provider-architecture]] — Web extraction plugin system
+- [[entities/crawl4ai]] — Free local extraction backend
+- [[entities/scrapegraphai]] — LLM-powered extraction backend
