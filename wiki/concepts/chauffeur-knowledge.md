@@ -4,10 +4,11 @@ title: Chauffeur Knowledge
 created: 2026-04-29
 updated: 2026-04-29
 tags:
-- cognitive-bias
 - knowledge
+- learning
+- skill-candidate
+- cognitive-bias
 - expertise
-sources:
 - The Art of Thinking Clearly - Rolf Dobelli.md
 related:
 - expert-illusion

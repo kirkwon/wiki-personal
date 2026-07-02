@@ -5,10 +5,12 @@ description: "Scatterfocus is the mind-wandering mode of attention, where the mi
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- knowledge
+- learning
+- skill-candidate
 - productivity
 - attention
 - creativity
-sources:
 - Hyperfocus - Chris Bailey.md
 related:
 - hyperfocus

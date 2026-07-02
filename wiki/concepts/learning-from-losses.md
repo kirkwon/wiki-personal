@@ -5,10 +5,11 @@ description: "Learning from losses is the practice of extracting wisdom and grow
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- knowledge
+- learning
+- skill-candidate
 - decision-making
-- mental-models
 - psychology
-sources:
 - quit-the-power-of-knowing-when-to-walk-away
 - Learning from Losses
 related: [quit-the-power-of-knowing-when-to-walk-away---annie-duke, embracing-failure-for-personal-growth, inattention-to-results]

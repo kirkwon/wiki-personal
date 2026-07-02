@@ -4,10 +4,11 @@ title: Mental Models (Learning Context)
 created: 2026-04-29
 updated: 2026-04-29
 tags:
+- knowledge
 - learning
+- skill-candidate
 - cognitive-science
 - decision-making
-sources:
 - The Fifth Discipline Fieldbook - Peter M Senge.md
 related:
 - five-disciplines-framework

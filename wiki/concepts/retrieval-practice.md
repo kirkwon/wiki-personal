@@ -5,10 +5,11 @@ description: "Retrieval practice is the act of actively recalling information fr
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- knowledge
 - learning
+- skill-candidate
 - cognitive-science
 - memory
-sources:
 - make-it-stick
 - Retrieval Practice
 related: ["desirable-difficulties", "spaced-repetition", "active-revision-techniques", "generation-effect", "make-it-stick---peter-c-brown-et-al", "elaborative-interrogation", "f Feynman-technique-learning"]

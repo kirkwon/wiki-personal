@@ -6,11 +6,12 @@ Tax Torpedoes in Retirement"
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - retirement
-- taxes
-- tax-strategy
-sources:
+- tax
+- skill-candidate
+- personal-finance
+- Tax Torpedoes.md
 - Tax Torpedoes.md
 related:
 - required-minimum-distributions

@@ -5,10 +5,12 @@ description: "Validated learning is the core epistemology of the lean startup me
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- knowledge
+- learning
+- skill-candidate
 - entrepreneurship
 - epistemology
 - experimentation
-sources:
 - the-lean-startup
 - Validated Learning
 related: [the-lean-startup---eric-ries, build-measure-learn, minimum-viable-product-mvp, innovation-accounting, pivot-or-persevere, thinking-in-bets---annie-duke, superforecasting-methodology]

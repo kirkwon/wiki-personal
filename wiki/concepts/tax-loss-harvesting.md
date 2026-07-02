@@ -6,10 +6,12 @@ Tax-Loss Harvesting"
 created: 2026-04-24
 updated: 2026-05-09
 tags:
-- tax-optimization
+- finance
 - investing
+- tax
+- skill-candidate
 - personal-finance
-sources:
+- Financial Reporting Templates.md
 - Financial Reporting Templates.md
 related:
 - tax-optimization-templates

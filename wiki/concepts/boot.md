@@ -5,10 +5,12 @@ description: "In the context of 1031 exchanges and real estate transactions, boo
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
-- taxes
+- finance
 - real-estate
-sources:
+- tax
+- skill-candidate
+- personal-finance
+- 1031 Exchange Strategy.md
 - 1031 Exchange Strategy.md
 related:
 - 1031-exchange-strategy

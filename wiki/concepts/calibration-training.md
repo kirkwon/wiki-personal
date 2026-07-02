@@ -6,10 +6,12 @@ Calibration training"
 created: 2026-04-29
 updated: 2026-04-29
 tags:
+- knowledge
+- learning
+- skill-candidate
 - prediction
-- statistics
 - decision-making
-sources:
+- statistics
 - The Signal and the Noise - Nate Silver.md
 related:
 - signal-to-noise-ratio

@@ -6,10 +6,12 @@ Capital Gains vs. Property Tax Tradeoff"
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - real-estate
-- taxes
-sources:
+- tax
+- skill-candidate
+- personal-finance
+- Proposition 19 Overview.md
 - Proposition 19 Overview.md
 related:
 - proposition-19

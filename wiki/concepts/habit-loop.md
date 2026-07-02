@@ -5,11 +5,13 @@ description: "The Habit Loop is a neurological feedback loop that governs how ha
 created: 2026-05-03
 updated: 2026-05-12
 tags:
+- knowledge
+- learning
+- skill-candidate
+- cognitive-science
 - psychology
 - behavioral-economics
 - productivity
-- learning
-- cognitive-science
 - habits
 - behavioral-science
 - habit-formation

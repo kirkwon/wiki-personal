@@ -5,11 +5,12 @@ description: "The Feynman Technique"
 created: 2026-05-03
 updated: 2026-05-09
 tags:
-- mental-models
+- knowledge
 - learning
+- skill-candidate
 - cognitive-science
 - problem-solving
-sources:
+- mental-models
 - super-thinking
 - The Feynman Technique
 related: [mental-models, spaced-repetition, deliberate-practice, personal-knowledge-vault-readme, super-thinking-gabriel-weinberg, growth-mindset]

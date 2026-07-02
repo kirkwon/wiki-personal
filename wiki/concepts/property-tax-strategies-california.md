@@ -4,11 +4,12 @@ title: Property Tax Strategies California
 created: 2026-04-24
 updated: 2026-04-24
 tags:
+- finance
 - real-estate
-- taxes
+- tax
+- skill-candidate
 - california
-- investment
-sources:
+- Bay Area Market Analysis.md
 - Bay Area Market Analysis.md
 related:
 - proposition-19-overview

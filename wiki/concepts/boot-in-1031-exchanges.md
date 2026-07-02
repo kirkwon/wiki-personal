@@ -4,10 +4,12 @@ title: Boot in 1031 Exchanges
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - real-estate
-- tax-optimization
-sources:
+- tax
+- skill-candidate
+- personal-finance
+- 1031 Exchange Strategy.md
 - 1031 Exchange Strategy.md
 related:
 - 1031-exchange-strategy

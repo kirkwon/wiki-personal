@@ -6,11 +6,13 @@ Section 1256 Tax Treatment"
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
+- investing
+- tax
+- skill-candidate
 - options
 - derivatives
-- taxes
-sources:
+- Options Trading.md
 - Options Trading.md
 related:
 - options-trading

@@ -1,5 +1,11 @@
 ---
-tags: [permanent-question, research, ml-theory]
+tags:
+- knowledge
+- learning
+- skill-candidate
+- permanent-question
+- research
+- ml-theory
 created: 2026-05-25
 question: "What approaches meaningfully accelerate learning — curriculum learning, active learning, knowledge distillation, continual learning, few-shot adaptation? What tradeoffs matter?"
 type: permanent-question

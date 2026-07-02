@@ -4,10 +4,12 @@ title: Memory
 created: 2026-04-29
 updated: 2026-04-29
 tags:
-- mental-model
+- knowledge
 - learning
+- skill-candidate
 - cognitive-science
-sources:
+- mental-model
+- Memory.md
 - Memory.md
 confidence: medium
 ---

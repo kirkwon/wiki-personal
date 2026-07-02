@@ -4,11 +4,12 @@ title: Tax-Advantaged Accounts Priority
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - investing
-- taxes
+- tax
 - retirement
-sources:
+- skill-candidate
+- The Index Card Rules.md
 - The Index Card Rules.md
 related:
 - index-card-rules

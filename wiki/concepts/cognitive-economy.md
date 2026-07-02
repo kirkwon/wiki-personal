@@ -5,11 +5,12 @@ description: "Cognitive economy refers to the practice of minimizing cognitive l
 created: 2026-05-03
 updated: 2026-05-03
 tags:
-- psychology
+- knowledge
+- learning
+- skill-candidate
 - cognitive-science
 - decision-making
-- mental-models
-sources:
+- psychology
 - Pre-Suasion_ A Revolutionary Way to Influence and Persuade - Robert B Cialdini.md
 related:
 - pre-suasion

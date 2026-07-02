@@ -4,11 +4,13 @@ title: California Property Tax Transfer Rules
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - real-estate
+- tax
+- skill-candidate
 - california-tax
 - estate-planning
-sources:
+- Proposition 19 Overview.md
 - Proposition 19 Overview.md
 related:
 - proposition-19-overview

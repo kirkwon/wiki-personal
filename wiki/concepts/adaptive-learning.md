@@ -5,9 +5,10 @@ description: "Adaptive learning refers to the process of developing digital comp
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- knowledge
 - learning
+- skill-candidate
 - productivity
-sources:
 - the-para-method-simplify-organize-and-master-your-digital-life
 - Adaptive Learning
 related: [active-revision-techniques, experiment-and-exploration-forms-of-world-disclosure---snke-ahrens, the-para-method]

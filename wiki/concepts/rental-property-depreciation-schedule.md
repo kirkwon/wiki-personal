@@ -6,10 +6,12 @@ Rental Property Depreciation Schedule"
 created: 2026-04-24
 updated: 2026-04-24
 tags:
+- finance
 - real-estate
-- tax-optimization
+- tax
+- skill-candidate
 - investing
-sources:
+- Financial Reporting Templates.md
 - Financial Reporting Templates.md
 related:
 - rental-property-depreciation

@@ -5,11 +5,12 @@ description: "Spaced repetition is a learning technique where you review informa
 created: 2026-05-03
 updated: 2026-05-09
 tags:
-- mental-models
+- knowledge
 - learning
+- skill-candidate
 - cognitive-science
 - memory
-sources:
+- mental-models
 - super-thinking
 - Spaced Repetition
 related: ["mental-models", "feynman-technique", "deliberate-practice", "personal-knowledge-vault-readme", "retrieval-practice", "desirable-difficulties", "active-revision-techniques", "make-it-stick---peter-c-brown-et-al", "how-to-take-smart-notes---snke-ahrens", "super-thinking-gabriel-weinberg", "growth-mindset"]

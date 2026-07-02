@@ -5,11 +5,12 @@ description: "Deep focus refers to sustained, intense concentration on a single 
 created: 2026-05-03
 updated: 2026-05-09
 tags:
+- knowledge
+- learning
+- skill-candidate
 - productivity
 - cognitive-science
 - neuroscience
-sources:
-- slow-productivity
 - Deep Focus
 related: ["slow-productivity", "the-value-of-deep-focus", "crafting-a-slow-workflow", "decision-quality-vs-outcome-quality", "time-management-matrix", "slow-productivity---cal-newport", "flow-states", "quadrant-2-focus", "strategic-batching", "focus-enhancement-techniques"]
 ---

@@ -6,10 +6,11 @@ Feedback loop design"
 created: 2026-04-29
 updated: 2026-04-29
 tags:
-- productivity
+- knowledge
 - learning
+- skill-candidate
+- productivity
 - mental-models
-sources:
 - Feedback loop design.md
 - Out of Control - Kevin Kelly.md
 related:

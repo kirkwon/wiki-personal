@@ -6,10 +6,12 @@ Rental Property Depreciation"
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- tax-optimization
+- finance
 - real-estate
+- tax
+- skill-candidate
 - investing
-sources:
+- Financial Reporting Templates.md
 - Financial Reporting Templates.md
 related:
 - tax-optimization-templates

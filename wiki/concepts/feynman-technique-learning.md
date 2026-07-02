@@ -5,10 +5,11 @@ description: "Feynman Technique (Learning)"
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- knowledge
 - learning
+- skill-candidate
 - cognitive-science
 - problem-solving
-sources:
 - make-it-stick
 - Feynman Technique (Learning)
 related: [make-it-stick---peter-c-brown-et-al, elaborative-interrogation, retrieval-practice, how-to-solve-it---george-polya, teaching-problem-solving]

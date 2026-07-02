@@ -5,11 +5,13 @@ description: "Structured, effortful practice focused on improving performance in
 created: 2026-05-03
 updated: 2026-05-10
 tags:
-- mental-models
+- knowledge
 - learning
-- skill-development
-- productivity
+- skill-candidate
 - cognitive-science
+- skill-development
+- mental-models
+- productivity
 - career
 sources:
 - super-thinking

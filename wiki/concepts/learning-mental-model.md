@@ -6,9 +6,11 @@ Learning as a Mental Model"
 created: 2026-04-29
 updated: 2026-04-29
 tags:
-- mental-model
+- knowledge
 - learning
-sources:
+- skill-candidate
+- mental-model
+- Learning.md
 - Learning.md
 related:
 - thinking-mental-model

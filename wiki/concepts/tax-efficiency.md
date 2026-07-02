@@ -5,11 +5,13 @@ description: "Tax efficiency refers to how effectively an investment vehicle min
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
-- investments
+- finance
+- investing
+- tax
+- skill-candidate
 - tax-efficiency
-- taxable-accounts
-sources:
+- personal-finance
+- Mutual Funds vs ETFs in Taxable Accounts.md
 - Mutual Funds vs ETFs in Taxable Accounts.md
 related:
 - mutual-funds-vs-etfs-in-taxable-accounts

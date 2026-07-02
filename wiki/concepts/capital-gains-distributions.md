@@ -6,12 +6,13 @@ Capital Gains Distributions"
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
-- investments
-- taxes
+- finance
+- investing
+- tax
+- skill-candidate
 - mutual-funds
 - etf
-sources:
+- Mutual Funds vs ETFs in Taxable Accounts.md
 - Mutual Funds vs ETFs in Taxable Accounts.md
 related:
 - mutual-funds-vs-etfs-in-taxable-accounts

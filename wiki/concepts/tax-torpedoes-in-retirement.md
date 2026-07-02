@@ -3,11 +3,12 @@ created: '2026-04-24'
 sources:
 - raw/ingested/Personal Finance/Concepts/Tax Torpedoes.md
 tags:
-- budgeting
-- general
+- finance
 - retirement
-- taxes
-title: Tax Torpedoes in Retirement
+- tax
+- skill-candidate
+- budgeting
+- Tax Torpedoes.md
 type: concept
 updated: '2026-04-24'
 ---

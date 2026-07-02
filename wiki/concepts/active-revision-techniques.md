@@ -5,10 +5,11 @@ description: "Active Revision Techniques"
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- knowledge
 - learning
+- skill-candidate
 - cognitive-science
 - productivity
-sources:
 - make-it-stick
 - Active Revision Techniques
 related: [retrieval-practice, spaced-repetition, elaborative-interrogation, f Feynman-technique-learning, make-it-stick---peter-c-brown-et-al, how-to-take-smart-notes---snke-ahrens]
