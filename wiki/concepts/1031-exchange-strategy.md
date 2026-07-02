@@ -3,6 +3,7 @@ created: 2026-04-24
 sources:
 - 1031 Exchange Strategy.md
 tags:
+- skill-candidate
 - finance
 - real-estate
 - investing

@@ -6,6 +6,7 @@ Leverage Risk Analysis"
 created: 2026-04-22
 updated: 2026-04-22
 tags:
+- skill-candidate
 - finance
 - risk-management
 - real-estate

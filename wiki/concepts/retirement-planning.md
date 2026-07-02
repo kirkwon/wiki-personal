@@ -4,6 +4,7 @@ sources:
 - Tax Torpedoes.md
 - Retirement Planning.md
 tags:
+- skill-candidate
 - finance
 - retirement
 - investing
