@@ -6,12 +6,14 @@ Risk Assessment Framework"
 created: 2026-04-24
 updated: 2026-05-09
 tags:
-- personal-finance
+- finance
 - risk-management
+- real-estate
+- portfolio
 - decision-making
 - investment-risk
 - portfolio-risk
-- decision-making-frameworks
+- personal-finance
 sources:
 - Risk Assessment Framework.md
 related:

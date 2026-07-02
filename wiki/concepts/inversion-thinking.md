@@ -4,6 +4,7 @@ title: Inversion Thinking
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- strategy
 - decision-making
 - mental-models
 - creativity

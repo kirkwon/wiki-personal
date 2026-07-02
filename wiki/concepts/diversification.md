@@ -5,11 +5,12 @@ description: "Diversification is the basic risk management strategy — don't pu
 created: 2026-04-24
 updated: 2026-05-09
 tags:
-- personal-finance
-- investing
+- finance
 - risk-management
-- diversification
 - portfolio
+- investing
+- diversification
+- personal-finance
 sources:
 - Alternative Investments.md
 - Risk Management.md

@@ -4,8 +4,11 @@ title: Tenant Risk Assessment
 created: 2026-04-24
 updated: 2026-04-24
 tags:
+- finance
 - real-estate
 - risk-management
+- investing
+- personal-finance
 sources:
 - Risk Assessment Framework.md
 related:

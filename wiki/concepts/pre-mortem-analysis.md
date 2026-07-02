@@ -6,11 +6,11 @@ Pre-Mortem Analysis"
 created: 2026-04-24
 updated: 2026-05-09
 tags:
+- strategy
 - decision-making
-- mental-models
 - risk-management
+- mental-models
 - cognitive-bias
-- organizational
 sources:
 - decision-making-frameworks.md
 - cognitive-biases-library.md

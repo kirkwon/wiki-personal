@@ -6,9 +6,11 @@ description: "Low-probability, high-impact events; systemic failures challenging
 created: 2026-05-03
 updated: 2026-05-03
 tags:
-- risk
 - finance
+- risk-management
+- tail-risk
 - philosophy
+- portfolio-theory
 sources:
 - antifragile
 - Tail Risk and Extreme Outcomes

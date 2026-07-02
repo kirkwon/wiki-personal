@@ -5,11 +5,12 @@ description: "Concentration risk occurs when investments are excessively exposed
 created: 2026-04-24
 updated: 2026-05-09
 tags:
-- personal-finance
-- investing
+- finance
 - risk-management
-- alternative-investments
+- portfolio
+- investing
 - concentration-risk
+- personal-finance
 sources:
 - Alternative Investments.md
 - Risk Management.md

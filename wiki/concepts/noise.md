@@ -5,7 +5,14 @@ title: Noise
 description: "Noise refers to unwanted variability in judgment and decision-making — the gap between how a person or system actually performs and how consistently it could perform."
 created: 2026-04-29
 updated: 2026-05-10
-tags: ['cognitive-science', 'decision-making', 'mental-models', 'mental-model', 'epistemology']
+tags:
+- strategy
+- decision-making
+- mental-models
+- finance
+- risk-management
+- epistemology
+- cognitive-science
 sources: ["Calibration training.md", "Model selection and validation frameworks.md"]
 related: [calibration-training, prediction, uncertainty, the-signal-and-the-noise nate-silver, the-signal-and-the-noise-nate-silver, scatterfocus]
 confidence: medium

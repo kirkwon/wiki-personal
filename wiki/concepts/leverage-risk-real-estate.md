@@ -4,9 +4,12 @@ title: Leverage Risk in Real Estate
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - real-estate
 - risk-management
+- leverage
+- investing
+- personal-finance
 sources:
 - Risk Assessment Framework.md
 related:

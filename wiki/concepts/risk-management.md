@@ -6,10 +6,11 @@ description: "--
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - risk-management
 - portfolio
 - volatility
+- personal-finance
 sources:
 - Risk Management.md
 related:

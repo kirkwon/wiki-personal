@@ -5,9 +5,10 @@ description: "Factor investing is a systematic approach to selecting stocks base
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- quant
-- factor
+- finance
 - investing
+- factors
+- quantitative
 - systematic
 sources:
 - factor-investing.md

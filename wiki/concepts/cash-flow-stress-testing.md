@@ -6,11 +6,13 @@ Cash Flow Stress Testing"
 created: 2026-04-24
 updated: 2026-05-09
 tags:
-- personal-finance
+- finance
 - real-estate
 - risk-management
+- stress-testing
+- investing
+- personal-finance
 - investment-risk
-- real-estate-investment
 sources:
 - Risk Assessment Framework.md
 related:
