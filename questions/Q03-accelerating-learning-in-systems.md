@@ -79,12 +79,26 @@ For a personal system learning about finance:
 - **Triage inbox feedback loop**: A persistent inbox where raw inputs (ideas, errors, observations) are triaged, prioritized, and fed back into the learning system — closing the loop between discovery and action.
 - **Skill auto-patch from learning**: When an agent learns something new, the skill file itself is patched to encode that knowledge permanently — the system improves its own capabilities over time.
 
+### LLM-as-Compiler — Learning Acceleration via Externalization
+
+The [[concepts/llm-as-compiler|LLM-as-Compiler]] pattern (Lehrach et al., 2025, DeepMind) reframes LLMs from direct actors to translators — converting natural language specifications into executable code, then handing off to classical solvers. This is a novel **learning acceleration technique**:
+
+- **Learning via externalization**: Instead of the LLM *learning* to reason (probabilistic, slow, unverifiable), it *compiles* the reasoning task into executable code (deterministic, fast, verifiable)
+- **Eliminates CoT's core weakness**: Chain-of-Thought is probabilistic and unverifiable — the LLM might make an arithmetic error on step 3. CWM's reasoning is deterministic and verifiable — the code either runs correctly or doesn't
+- **Generalization without weight updates**: The LLM doesn't need to have seen the domain — it needs to understand the rules and express them as code. This is few-shot learning without the "learned from examples" step
+
+See [[concepts/code-world-models]], [[concepts/verifiable-planning]], [[papers/code-world-models-general-game-playing]].
+
 ## Connections
 - [[Q02]] — accelerated learning feeds self-improvement
 - [[Q01]] — these techniques reduce the skills gap
 - [[loop-engineering]] — core methodology for building learning loops into agent systems
 - [[methodology-loop]] — meta-loop that governs how methodology evolves through usage
+- [[concepts/llm-as-compiler]] — LLM-as-compiler as learning acceleration via externalization
+- [[concepts/code-world-models]] — CWM pattern for learning transfer through code generation
+- [[concepts/verifiable-planning]] — verifiability eliminates probabilistic learning errors
 
 ## Last Updated
+_2026-06-24_ — Added LLM-as-Compiler / Code World Models section: learning acceleration via externalization. Updated Connections with new references.
 _2026-05-25_ — Initial research position
 _2026-06-13_ — Added loop engineering / agent systems methodology, updated status to Active - accumulating, added [[loop-engineering]] and [[methodology-loop]] connections

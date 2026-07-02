@@ -4,10 +4,11 @@ title: Required Minimum Distributions (RMDs)
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - retirement
-- taxes
+- tax
 - rmd
+- personal-finance
 sources:
 - Required Minimum Distributions.md
 related:

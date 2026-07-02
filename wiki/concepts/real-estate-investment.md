@@ -3,9 +3,12 @@ created: 2026-04-24
 sources:
 - Alternative Investments.md
 tags:
-- personal-finance
-- investing
+- finance
 - real-estate
+- investing
+- investment-strategy
+- tax
+- personal-finance
 title: Real Estate Investment
 type: concept
 updated: 2026-05-09

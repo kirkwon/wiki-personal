@@ -5,10 +5,11 @@ description: "Illiquidity risk is the inability or danger that alternative inves
 created: 2026-04-24
 updated: 2026-05-09
 tags:
-- personal-finance
-- investing
+- finance
 - risk-management
+- investing
 - alternative-investments
+- personal-finance
 sources:
 - Alternative Investments.md
 related:

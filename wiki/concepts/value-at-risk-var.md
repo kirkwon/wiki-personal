@@ -6,9 +6,11 @@ Value at Risk (VaR)"
 created: 2026-04-24
 updated: 2026-05-09
 tags:
-- personal-finance
+- finance
 - risk-management
-- quantitative-analysis
+- quantitative
+- portfolio-theory
+- personal-finance
 - investment-risk
 sources:
 - Risk Assessment Framework.md

@@ -4,9 +4,11 @@ title: Single Property Analysis
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - real-estate
+- investing
 - investment-analysis
+- personal-finance
 sources:
 - Financial Reporting Templates.md
 related:

@@ -1,10 +1,10 @@
 ---
 tags: [permanent-question, research, ml-alternatives]
-status: Stable — no recent progress
+status: Active — accumulating (CWM/LLM-as-compiler as neural-symbolic integration)
 created: 2026-05-25
 question: "What non-transformer architectures show promise? Energy-based models, neural-symbolic, state space models (Mamba), differentiable logic, Hopfield networks — what's state of art and practical utility?"
 type: permanent-question
-reviewed: 2026-05-25
+reviewed: 2026-06-24
 ---
 
 # Q04: Symbolic AI and Energy-Based (Non-Transformer) Models
@@ -14,7 +14,7 @@ reviewed: 2026-05-25
 
 ## Current State of Knowledge
 
-**No recent work (June 2026). Focus shifted to causal inference, loop engineering, and agent memory systems.**
+**June 2026: CWM/LLM-as-Compiler emerged as the most practical neural-symbolic integration pattern — added below.**
 
 ### State Space Models (Mamba / S4)
 - **What they are**: Recurrent models that can be computed like convolutions, competitive with transformers on long sequences
@@ -59,12 +59,32 @@ reviewed: 2026-05-25
 2. **GNN + Market microstructure**: Model order book as graph, predict price impact.
 3. **EBM for tail risk**: Learn the energy landscape of returns, identify when system is in a high-energy (risky) state.
 
+### LLM-as-Compiler + Code World Models — Neural-Symbolic in Practice
+
+The [[concepts/llm-as-compiler|LLM-as-Compiler]] pattern (Lehrach et al., 2025, DeepMind) is the most practically deployed neural-symbolic approach to date. The [[concepts/code-world-models|Code World Model]] pattern reframes the LLM from *direct actor* to *translator* — converting natural language specifications into executable code, then handing off to classical solvers ([[concepts/monte-carlo-tree-search|MCTS]], constraint solvers).
+
+**Why this is neural-symbolic integration:**
+
+| Element | Neural Component | Symbolic Component |
+|---------|-----------------|-------------------|
+| Role | LLM translates rules | Executable code encodes formal constraints |
+| Reasoning | Semantic understanding (fuzzy, flexible) | Search/planning (deterministic, verifiable) |
+| Correctness | Probabilistic (may hallucinate) | Decidable (code runs or doesn't) |
+| Output | Heuristic evaluation function | MCTS search tree, game plan |
+
+**The key insight:** The LLM provides the *semantic bridge* (natural language → formal code), while the symbolic side handles *formal reasoning* (search, constraints, optimization). This division of labor exploits each component's strength — exactly what neural-symbolic integration aims to do ([[concepts/verifiable-planning]]).
+
+**For finance specifically:** Financial rules (Black-Scholes, factor model constraints, no-arbitrage conditions) can be encoded as CWM programs, then solved by classical optimizers rather than relying on LLM prediction. This directly addresses Q04's "Hybrid That Could Work" list — the CWM pattern provides an architecture for implementing PINN-like constraints without needing to train neural networks.
+
+See [[papers/code-world-models-general-game-playing]], [[wiki/synthesis/cwm-game-theory-application]].
+
 ## Key Papers
 - Gu & Dao — "Mamba" (2023)
 - LeCun — "A Tutorial on Energy-Based Models" (2019, comprehensive overview)
 - Garcez et al. — "Neural-Symbolic Learning and Reasoning" (2019, survey)
 - Raissi et al. — "Physics-Informed Neural Networks" (2019, PINNs)
 - Hamilton et al. — "Embedding Entities and Relations for Learning" (2018, knowledge graph embeddings)
+- Lehrach et al. — "Code World Models for General Game Playing" (2025, arxiv:2510.04542, Google DeepMind)
 
 
 
@@ -123,7 +143,12 @@ The "energy-based" framing is mostly interesting as conceptual — diffusion mod
 ## Connections
 - [[Q02]] — symbolic reasoning could enable better agent tool use
 - [[Q05]] — GNNs and PINNs are directly applicable to predictive finance
+- [[concepts/llm-as-compiler]] — LLM-as-Compiler as neural-symbolic integration (CWM pattern)
+- [[concepts/code-world-models]] — CWM: LLM generates executable symbolic code for classical solvers
+- [[concepts/verifiable-planning]] — Executability as the bridge between neural and symbolic
+- [[papers/code-world-models-general-game-playing]] — Source paper: Lehrach et al. 2025
 
 ## Last Updated
-_2026-05-25_ — Initial research position
+_2026-06-24_ — Added LLM-as-Compiler / Code World Models section as the most practical neural-symbolic integration pattern (DeepMind CWM 2025). Updated status from Stable to Active.
 _2026-06-12_ — Status set to stable; no recent progress
+_2026-05-25_ — Initial research position

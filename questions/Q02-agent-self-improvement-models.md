@@ -90,14 +90,48 @@ Agents can potentially improve at multiple levels:
 |- Critical for agents doing long-running autonomous work — prevents drift
 
 **Memory Tiering**
-|- Not all memory is equally important. Agents benefit from explicit memory tiers:
-|  1. **Ephemeral** (current conversation context) — fast, small, volatile
-|  2. **Working** (session-level reflections, in-progress results) — lasts a session
-|  3. **Semantic** (facts, patterns, lessons across sessions) — persistent, retrievable
-|  4. **Procedural** (skills, methodologies, templates) — executable knowledge, versioned
-|  5. **Episodic** (full run traces with metadata) — auditable, replayable
-|- Tiering allows an agent to decide *what to remember* and *how fast to retrieve*, rather than drowning in uniform storage
-|- Hermes implements this via: `memories/` (episodic + procedural), skill files (procedural), and system prompt (working/ephemeral)
+- Not all memory is equally important. Agents benefit from explicit memory tiers:
+  1. **Ephemeral** (current conversation context) — fast, small, volatile
+  2. **Working** (session-level reflections, in-progress results) — lasts a session
+  3. **Semantic** (facts, patterns, lessons across sessions) — persistent, retrievable
+  4. **Procedural** (skills, methodologies, templates) — executable knowledge, versioned
+  5. **Episodic** (full run traces with metadata) — auditable, replayable
+- Tiering allows an agent to decide *what to remember* and *how fast to retrieve*, rather than drowning in uniform storage
+- Hermes implements this via: `memories/` (episodic + procedural), skill files (procedural), and system prompt (working/ephemeral)
+
+**The CL4R1T4S Dataset — 66 Leaked System Prompts as Self-Improvement Evidence**
+
+The [[wiki/sources/cl4r1t4s-leaked-system-prompts|CL4R1T4S]] repository (maintained by Pliny/elder-plinius) contains 66 leaked system prompts from 26 major AI providers (Anthropic, OpenAI, xAI, Google, Devin, Cursor, Windsurf, Replit, etc.). This dataset reveals how the industry actually solves agent self-improvement in production:
+
+| Pattern | Prevalence | Relevance to Q02 |
+|---------|-----------|-----------------|
+| Search-before-answer mandate | ~100% of 2026 prompts | Training-data insufficiency is universal — every provider independently concluded that static knowledge must be augmented by dynamic retrieval |
+| Dynamic tool discovery | Sophisticated systems (Anthropic Fable 5/Opus 4.7, Hermes) | **The key architectural convergence.** Instead of static tool lists, tools are loaded on-demand via `tool_search` — identical to Hermes skill-loading ([[prompt-architecture-operations]]). The prompt lists visible tools as \"partial by design.\" |
+| Skills pre-read mandate | Anthropic Fable 5 | \"Reading the relevant SKILL.md is a **required first step** before writing any code\" — independently converged with Hermes's mandatory skill-loading pattern in SOUL.md |
+| Modular prompt sectioning | Anthropic (tag-based namespacing) | Enables A/B testing of prompt components — each section independently versioned. This is **prompt-level self-improvement infrastructure**: the prompt itself supports iterative improvement of its own components |
+| Apology avoidance | 13 prompts (spreading) | Convergent UX research finding — excessive apology erodes trust. Minor but shows how shared behavioral patterns emerge across providers |
+
+**Three key insights for agent self-improvement:**
+
+1. **The prompt has become the product specification.** Claude Fable 5's 17.5K-word prompt is not just behavioral instructions — it's a 1,597-line document covering tool schemas (15+ JSON-schema), file system architecture, MCP connectors, API permissions, copyright enforcement, and safety protocols. The system prompt absorbs what would traditionally be product documentation, API specs, and integration guides. This confirms the Q02 thesis that **prompt-level** self-improvement is the most immediately impactful level — because the prompt *is* the product interface.
+
+2. **Dynamic tool discovery is the dominant 2026 pattern.** Both Anthropic (Fable 5/Opus 4.7) and Hermes independently arrived at the same architecture: deferred capability loading. The prompt searches for tools the way it searches for information. This validates the design decisions in [[prompt-architecture-operations]] and confirms that **static tool lists don't scale** — any agent with a growing tool surface needs a capability resolution layer.
+
+3. **Skills-environments are the convergence point.** The independent emergence of mandatory SKILL.md pre-read in both Anthropic Fable 5 and Hermes Agent is the strongest evidence yet that **externalized, environment-specific skill encoding** (rather than in-weight knowledge) is the right architecture for agent self-improvement. Both systems treat skill files as constraint documents encoding knowledge that isn't and shouldn't be in training data.
+
+See: [[wiki/synthesis/system-prompt-arms-race]], [[concepts/system-prompt-architecture-patterns]], [[concepts/anthropic-system-prompt-evolution]], [[references/claude-fable-5-system-prompt]].
+
+**Code World Models (CWM) for Toolchain Synthesis**
+
+The [[concepts/code-world-models|Code World Model]] pattern (Lehrach et al., 2025, Google DeepMind) reframes LLMs from *direct actors* to *compilers* — translating natural language specifications into executable code, then handing off to classical solvers. This is directly relevant to Q02's "Tool level" of self-improvement:
+
+- **Tool synthesis**: Instead of the LLM *using* a fixed toolset, it *generates* new tools (CWM functions) on-demand for each novel problem domain
+- **Division of labor**: LLM handles semantic translation (natural language → code); classical solver (MCTS, constraints) handles multi-step reasoning
+- **Verifiability**: CWM outputs are executable — correctness is decidable, not probabilistic
+
+Applied to agent self-improvement: an agent that encounters a novel task class could CWM-compile the task rules into executable code, then iterate on the code rather than iterating on in-context prompting. This shifts self-improvement from "better prompting" to "better tool generation" — a higher-leverage level of the improvement stack.
+
+See: [[papers/code-world-models-general-game-playing]], [[concepts/llm-as-compiler]], [[concepts/verifiable-planning]].
 
 ### What Doesn't Work (Yet)
 - Fully autonomous code improvement (AI reviewing+modifying its own code) — too many failure modes
@@ -136,7 +170,14 @@ This is like a personal learning journal, but automated.
 - [[loop-engineering]]
 - [[memory-tiering]]
 - [[methodology-loop]]
+- [[wiki/synthesis/system-prompt-arms-race]] — CL4R1T4S dataset synthesis: 66 prompts reveal convergent evolution on dynamic tool discovery and skills pre-read
+- [[concepts/system-prompt-architecture-patterns]] — Cross-cutting patterns from 66 leaked prompts
+- [[concepts/anthropic-system-prompt-evolution]] — Anthropic's 3.5 → Fable 5 evolution as a case study in prompt-level self-improvement
+- [[concepts/code-world-models]] — CWM pattern for toolchain synthesis by agent systems
+- [[concepts/llm-as-compiler]] — LLM as translator → executable artifact → classical solver
+- [[concepts/verifiable-planning]] — Why executability beats probability for agent decisions
 
 ## Last Updated
+_2026-06-24_ — Added: CL4R1T4S dataset (66 leaked prompts, system prompt arms race, dynamic tool discovery convergence, skills pre-read mandate). Added CWM/LLM-as-compiler pattern for toolchain synthesis. Updated Connections with new references.
 _2026-06-17_ — Added new papers (Self-Harness, AutoHarness, Evolving Agents in the Dark) to Key Papers section
 _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Harness applied, dashboard fixes, Headroom compression, /last30days skill, loop engineering

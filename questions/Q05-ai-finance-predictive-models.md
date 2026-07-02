@@ -149,6 +149,41 @@ Introduced a separate **critic model** in the backtest loop to detect:
 
 The critic runs *after* each backtest iteration, independent of the strategy loop, and produces a validation report. If the critic flags systematic issues, the backtest is marked as "needs review" rather than accepted. This separation prevents the signal model from optimizing against the validation criteria.
 
+### 6. Web Extraction Infrastructure — Free Alternative Data Pipelines
+
+Deployed free, local web extraction backends (Crawl4AI + ScrapeGraphAI) via Hermes's pluggable Web Extraction Provider Architecture. This eliminates the Firecrawl credit dependency for extraction, enabling unbounded alternative data collection for predictive models:
+
+| Backend | Speed | Quality | Use Case |
+|---------|-------|---------|----------|
+| [[entities/crawl4ai]] | ~1-4s/URL | Good (heuristic markdown) | Default extraction — news, filings, earnings transcripts |
+| [[entities/scrapegraphai]] | ~30-60s/URL | Best (LLM-filtered) | Quality-sensitive research — sentiment, structured data |
+
+**Impact on Q05 predictive models:**
+- Sentiment extraction from earnings calls, news, and social media is now cost-free
+- Regulatory filing analysis (SEC EDGAR, international equivalents) — unlimited extraction scale
+- Options data provider scraping — alternative sources for IV surfaces and flow data
+- Macro data from central bank and government sources — automated ingestion pipelines
+
+See [[concepts/web-extraction-provider-architecture]] for the architecture, [[entities/crawl4ai]] and [[entities/scrapegraphai]] for tool details.
+
+### 7. Game-Theoretic Finance Analysis — Gap Identified and Started
+
+The [[wiki/gaps/game-theory-gaps|Game Theory Gaps]] audit (2026-06-21) identified **GAP-1: No Game-Theoretic Finance Analysis** as the highest-leverage gap across all agent skills:
+
+**Problem identified:** Current finance skills treat markets as optimization or description problems. No skill models: Who are the players? What are their payoffs? What's the equilibrium? What move exploits mispricing?
+
+**Missing capabilities identified:**
+- Player belief modeling (what does the other side believe?)
+- Payoff matrix construction for market scenarios
+- Nash equilibrium computation for competitive dynamics
+- Signaling game analysis (what do options flows signal about informed traders?)
+- Mechanism design for trade execution (optimal order splitting as a game against predatory strategies)
+- Agent-based market simulation to test strategies against adaptive opponents
+
+**Status:** STARTED (2026-06-21). A new `game-theoretic-finance-analysis` skill has been created to operationalize this. The project is in early stage — see the skill for current progress.
+
+**Connection to CWM pattern:** The [[wiki/synthesis/cwm-game-theory-application|CWM Game Theory Application]] synthesis maps the Lehrach et al. CWM pattern to financial decision-making: encode market rules as executable code, then use classical solvers (MCTS, game tree search) rather than direct LLM prediction. This is an architectural template for the game-theoretic finance analysis skill.
+
 ## Causal ML — The Most Underused Addition to Finance ML
 
 The gap between academic and practitioner finance ML is largely causal:
@@ -215,6 +250,12 @@ Key insight: **Predict regimes, not returns.** Regime classification (bull/bear,
 - [[Q04]] — symbolic models may help with interpretability and causality
 - [[loop-engineering]] — critic separation and Self-Harness patterns applied to backtest validation
 - [[headroom-integration]] — columnar compression enabling long-window backtests
+- [[concepts/web-extraction-provider-architecture]] — free alternative data pipelines for predictive models
+- [[entities/crawl4ai]] — fast, free local extraction backend
+- [[entities/scrapegraphai]] — LLM-powered extraction for quality-sensitive research
+- [[wiki/gaps/game-theory-gaps]] — GAP-1: game-theoretic finance analysis (started)
+- [[wiki/synthesis/cwm-game-theory-application]] — CWM pattern mapped to financial strategic decision-making
 
 ## Last Updated
+_2026-06-24_ — Added: Web extraction infrastructure (free alternative data pipelines via Crawl4AI/ScrapeGraphAI). Added game-theoretic finance analysis (GAP-1, started). Updated Connections with new references.
 _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step + EconML CATE), Self-Harness for data scripts, headroom compression (5-8x), portfolio dashboard, critic separation for backtest validation

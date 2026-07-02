@@ -6,11 +6,13 @@ Low Volatility Factor"
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- quant
-- factor
+- finance
 - investing
+- factors
 - volatility
 - risk
+- portfolio-theory
+- quant
 sources:
 - factor-investing.md
 related:

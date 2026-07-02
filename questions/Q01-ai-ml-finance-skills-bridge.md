@@ -105,7 +105,7 @@ and for whom a strategy works. Relevant for factor investing and risk management
 ## Status
 _Active — accumulating_ — June 2026 brought several practical pipeline advances that deepened the causal/automation layer.
 
-## June 2026 Findings
+## June 2026 Findings (Updated Jun 24)
 
 ### Causal AI Pipeline (DoWhy/EconML) — Applied Deepening
 
@@ -129,6 +129,18 @@ Fixed multiple bugs in the real-time portfolio dashboard (streamlit-based):
 - **Cash drift bug**: Portfolio cash balance drifted from actual due to incorrect dividend accrual timing. Fixed by switching to transaction-level accounting (cash_events log) instead of daily snapshots.
 - **NAV stutter**: Dashboard NAV line would freeze on certain market regimes. Root cause: stale WebSocket subscription that timed out silently. Fixed with heartbeat/reconnect logic.
 - **SPY beta miscalc**: Rolling 60-day beta was using incorrect benchmark alignment (missing market open gap). Fixed by aligning to daily close-to-close returns.
+
+### Web Extraction Infrastructure — Free Alternative Data Pipelines
+
+Deployed free, local web extraction backends (Crawl4AI + ScrapeGraphAI) via Hermes's pluggable Web Extraction Provider Architecture ([[concepts/web-extraction-provider-architecture]]). Key implications for the finance data pipeline:
+
+- **Crawl4AI** (62k GitHub stars): Fast (~1-4s per URL), free, local Playwright-based extraction. Replaces Firecrawl credit dependency for URL→markdown. Default extract backend now configured to route all extraction through Crawl4AI, with Firecrawl reserved for web search only. See [[entities/crawl4ai]].
+
+- **ScrapeGraphAI** (23k GitHub stars): LLM-powered extraction via Ollama gemma4 (free, local). Slower (~30-60s) but produces dramatically cleaner output — strips ads, nav, boilerplate via SmartScraperGraph. Used for quality-sensitive research extraction where SNR matters. See [[entities/scrapegraphai]].
+
+- **Architecture** (`web.extract_backend` config): search and extract now route independently — web_search stays on Firecrawl (search capability), web_extract switches to Crawl4AI/ScrapeGraphAI. This eliminates credit dependency for extraction, enabling unlimited alternative data scraping for research workflows. See [[concepts/web-extraction-provider-architecture]].
+
+**Impact on Layer 4 (Software Infrastructure):** Alternative data collection (sentiment, news, regulatory filings, earnings transcripts) is now cost-free and unbounded — no Firecrawl credit ceiling. This transforms the "Alternative data" bullet from a credit-constrained capability to an unlimited research pipeline.
 
 ### Headroom Compression
 
@@ -161,5 +173,29 @@ Loop engineering (see [[loop-engineering]]) emerged as a meta-skill for financia
 - [[headroom-integration]] — compression layer applied to financial data pipeline; enables larger backtest windows in-memory
 - [[memory-tiering]] — emerging pattern for managing the growing body of findings, strategies, and eval results across hot/warm/cold tiers
 
+### New Finance Theory Depth — Mean-Variance Myopia, PCA+RMT, and Smart Money Concepts
+
+Added three new concept/source pages that deepen Layers 1–2 and provide practical filtering approaches:
+
+**Mean-Variance Myopia Under Stochastic Volatility** ([[wiki/concepts/mean-variance-myopia-under-stochastic-volatility]], June 30): The static M-V efficient frontier is the myopic special case of the full intertemporal portfolio problem. Under stochastic volatility, optimal demand = myopic M-V + intertemporal hedging term. All three SV models tested (Stein/Stein, Heston, extended Heston+CEV) produce positive hedging demand. Key practical insight: our [[mean-variance-analyzer]] computes the myopic baseline correctly but underestimates hedging demand for horizons > 1 month under SV. The Heston model via EKF ([[sources/optimal-investment-stochastic-volatility-chiarella-hsiao]]) enables latent volatility estimation from equity returns alone — no options data needed.
+
+**PCA + Random Matrix Theory** ([[sources/pca-random-matrix-theory-equity-markets]], June 27): The S&P 500's 125,250 covariance entries collapse to 5–15 real eigenportfolios via Marchenko-Pastur screening. Everything else is noise. Practical implication for Layer 2 (factor models): principled factor count selection (vs arbitrary K or %-variance thresholds). The eigenportfolio + residual trading pattern is exactly what stat-arb funds do — factor-hedged mean reversion.
+
+**Smart Money Concepts ICT in Python** ([[sources/smart-money-concepts-ict-python]], June 29): 1.8k-star Python package implementing ICT-based OHLC pattern detection. Key extractable ideas: (a) Order Block lifecycle as a general zone state machine (active → breaker → invalidated) — applicable to statistical zones from PCA eigenportfolio bands, not just exact price levels; (b) FVG on factor-hedged residuals — detecting gaps in idiosyncratic returns after stripping the 5–15 eigenportfolio factors, making Fair Value Gaps more tradeable; (c) session-aware analysis as a complement to vol regime modeling. The package itself has no statistical validation — these are ideas worth extracting, not ready-made signals.
+
+### New Paper: FinAcumen — Selective Experience Memory for Financial Reasoning
+
+[[raw/papers/2606.17642]] (June 16, arXiv:2606.17642): FinAcumen is a financial reasoning agent framework using a **self-evolving experience memory harness** with τ-gated selective retrieval. Key architectural contributions:
+
+1. **Self-evolving memory bank**: accumulates experience from prior trajectories, distills successful strategies AND failure-derived cautionary rules
+2. **τ-gated selective retrieval**: memory is only activated when semantic relevance exceeds a calibrated threshold — prevents irrelevant memories from degrading performance
+3. **Deterministic financial tool environment**: numerical computation, retrieval, visual decoding, answer verification — all grounded, not LLM-guessed
+
+This is relevant to Layer 4 (Software Infrastructure) and Layer 5 (Research + Iteration) for finance skill-building. The thresholded memory retrieval pattern is more sophisticated than naive RAG for financial reasoning — particularly important because financial data is noisy and irrelevant memories are costly.
+
+**Key connection to existing work:** The τ-gated approach complements our Self-Harness pattern for financial scripts. Self-Harness provides execution-time verification; FinAcumen's memory harness provides pre-execution context selection. Both could compose: retrieve relevant experience → verify against Self-Harness eval criteria → execute.
+
 ## Last Updated
+_2026-07-01_ — Added: Mean-Variance Myopia under stochastic volatility paper, PCA+RMT for factor models, Smart Money Concepts ICT patterns, and FinAcumen financial reasoning agent (τ-gated selective memory harness)
+_2026-06-24_ — Added: Web Extraction Infrastructure section (Crawl4AI + ScrapeGraphAI free alternative data pipelines) within June 2026 findings
 _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness applied, dashboard fixes, Headroom compression, /last30days skill, loop engineering

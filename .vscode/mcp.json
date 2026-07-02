@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "graphmind": {
+      "args": [
+        "mcp"
+      ],
+      "command": "/Users/kirkwon/.local/bin/graphmind",
+      "env": {
+        "PATH": "/Users/kirkwon/.graphmind/bin:/usr/local/bin:/usr/bin:/bin"
+      },
+      "type": "stdio"
+    }
+  }
+}

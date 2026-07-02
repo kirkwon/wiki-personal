@@ -6,8 +6,10 @@ Net Operating Income (NOI)"
 created: 2026-04-24
 updated: 2026-04-24
 tags:
+- finance
 - real-estate
 - investing
+- personal-finance
 - metrics
 sources:
 - Financial Reporting Templates.md

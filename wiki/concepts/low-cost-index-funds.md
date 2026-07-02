@@ -4,10 +4,13 @@ title: Low-Cost Index Funds
 created: 2026-04-24
 updated: 2026-04-24
 tags:
-- personal-finance
+- finance
 - investing
 - index-funds
 - fees
+- factors
+- passive-investing
+- personal-finance
 sources:
 - The Index Card Rules.md
 related:

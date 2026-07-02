@@ -4,11 +4,12 @@ sources:
 - Tax Torpedoes.md
 - Retirement Planning.md
 tags:
-- personal-finance
+- finance
 - retirement
-- taxes
-- saving
 - investing
+- tax
+- personal-finance
+- saving
 - compounding
 title: Retirement Planning
 type: concept

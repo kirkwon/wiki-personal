@@ -4,9 +4,12 @@ title: Cross-Sectional Momentum
 created: 2026-04-24
 updated: 2026-04-24
 tags:
+- finance
 - investing
+- factors
 - momentum
 - metrics
+- quantitative
 sources:
 - momentum-strategy.md
 related:

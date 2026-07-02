@@ -3,12 +3,12 @@ created: 2026-04-24
 sources:
 - 1031 Exchange Strategy.md
 tags:
-- personal-finance
+- finance
 - real-estate
-- taxes
 - investing
-- tax-optimization
 - investment-strategy
+- tax
+- personal-finance
 title: 1031 Exchange Strategy
 description: "1031 Exchange Strategy"
 type: concept

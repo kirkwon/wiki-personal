@@ -94,3 +94,5 @@ The difference from naive "learn by doing" is the structured loop: weakness-awar
 - **[[loop-engineering]]** provides the probing-and-boundary-mapping techniques used in the Weakness Mine stage
 - **[[memory-tiering]]** informs the meta-loop's data lifecycle management — harnesses move through hot (active improvement), warm (validated, periodic re-check), and cold (archived with hash) tiers
 - **[[methodology-loop]]** is the full three-layered system this paradigm powers
+- **[[concepts/scaffold-optimization]]** is the RL-automated version of this paradigm — Ornith-1.0 implements Weakness Mine → Harness Propose → Proposal Validate as gradient updates rather than manual iteration
+- **[[papers/ornith-1-self-improving-coding|Ornith-1.0]]** is the first open-source concrete instantiation of self-harness as RL-based scaffold optimization, proving 2× improvement on Terminal-Bench
