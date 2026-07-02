@@ -6,9 +6,11 @@ description: "Shared resources depleted by individual self-interest, harming all
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- strategy
+- decision-making
+- game-theory
 - mental-models
 - systems-thinking
-- game-theory
 sources:
 - super-thinking
 - Tragedy of the Commons

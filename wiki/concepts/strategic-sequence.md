@@ -6,9 +6,11 @@ created: 2026-05-03
 updated: 2026-05-11
 tags:
 - strategy
+- decision-making
 - business
 - validation
 - mental-models
+- game-theory
 sources:
 - blue-ocean-strategy
 - Strategic Sequence

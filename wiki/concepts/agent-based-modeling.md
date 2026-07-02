@@ -5,10 +5,12 @@ description: "Agent-based modeling (ABM) is a computational simulation technique
 created: 2026-05-03
 updated: 2026-05-09
 tags:
+- finance
+- research
+- strategy
 - technology
 - complexity-science
 - models
-- complexity
 - systems
 sources:
 - out-of-control

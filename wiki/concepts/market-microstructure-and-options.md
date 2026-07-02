@@ -3,7 +3,15 @@ type: concept
 title: Market Microstructure and the Options Market
 created: 2026-05-24
 updated: 2026-05-24
-tags: [market-microstructure, quantitative-finance, options-strategy, implied-volatility, volatility-surface, institutional-flow]
+tags:
+- finance
+- strategy
+- game-theory
+- quantitative-finance
+- market-microstructure
+- options-strategy
+- volatility-surface
+- institutional-flow
 sources: []
 confidence: medium
 ---

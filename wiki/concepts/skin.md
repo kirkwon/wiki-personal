@@ -4,8 +4,11 @@ title: Skin
 created: 2026-04-29
 updated: 2026-04-29
 tags:
+- strategy
+- finance
+- risk-management
 - mental-model
-- general
+- game-theory
 sources:
 - Skin.md
 related:

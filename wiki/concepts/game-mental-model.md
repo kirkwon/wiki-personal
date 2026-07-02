@@ -5,8 +5,12 @@ description: "Game is a universal mental model that serves as a conceptual tool 
 created: 2026-04-29
 updated: 2026-04-29
 tags:
+- strategy
+- finance
+- risk-management
 - mental-model
 - decision-making
+- game-theory
 sources:
 - Game.md
 - skin-in-the-game

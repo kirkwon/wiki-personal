@@ -3,7 +3,15 @@ type: concept
 title: Institutional Flow Mechanics
 created: 2026-05-24
 updated: 2026-05-24
-tags: [institutional-flow, quantitative-finance, market-microstructure, risk-parity, factor-investing]
+tags:
+- finance
+- strategy
+- game-theory
+- quantitative-finance
+- market-microstructure
+- risk-parity
+- factor-investing
+- institutional-flow
 sources: []
 confidence: medium
 ---

@@ -6,8 +6,10 @@ description: "Prisoner's Dilemma | concept | mental-models, game-theory, strateg
 created: 2026-05-03
 updated: 2026-05-03
 tags:
-- mental-models
+- strategy
+- decision-making
 - game-theory
+- mental-models
 - strategic-thinking
 sources:
 - super-thinking

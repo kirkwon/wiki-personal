@@ -6,7 +6,10 @@ description: "Game Theory. A framework for modeling decision-making where the ou
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- strategy
+- finance
 - mental-models
+- game-theory
 - strategic-thinking
 - decision-making
 sources:

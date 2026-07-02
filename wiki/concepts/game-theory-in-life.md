@@ -6,6 +6,8 @@ description: "Game Theory in Life. Applying mathematical models of strategic int
 created: 2026-05-03
 updated: 2026-05-03
 tags:
+- strategy
+- finance
 - decision-making
 - game-theory
 - behavioral-economics
