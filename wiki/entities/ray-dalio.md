@@ -1,8 +1,6 @@
----
 type: entity
 title: Ray Dalio
-description: "Ray Dalio
-Ray Dalio is an investor, author, and founder of Bridgewater Associates, one of the world's largest and most influential hedge funds."
+description: "Ray Dalio is an investor, author, and founder of Bridgewater Associates, one of the world's largest and most influential hedge funds."
 created: 2026-05-03
 updated: 2026-05-10
 tags:

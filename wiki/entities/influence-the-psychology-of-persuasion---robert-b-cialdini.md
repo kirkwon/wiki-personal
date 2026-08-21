@@ -1,8 +1,6 @@
----
 type: entity
 title: 'Influence: The Psychology of Persuasion'
-description: "-
-Influence: The Psychology of Persuasion"
+description: "Influence: The Psychology of Persuasion"
 created: 2026-04-29
 updated: 2026-05-10
 tags:
