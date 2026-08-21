@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 title: paradox-of-choice---barry-schwartz
 description: "paradox-of-choice---barry-schwartz"
 created: 2026-06-10

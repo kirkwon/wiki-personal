@@ -15,6 +15,13 @@ related:
 - bebop
 - jazz-harmony
 - charlie-parker
+dates:
+  - date: "1917-10-21"
+    event: "Born in Cheraw, South Carolina"
+  - date: "1945-01-01"
+    event: "Key architect of bebop movement with Charlie Parker"
+  - date: "1993-01-06"
+    event: "Died"
 ---
 --
 # Dizzy Gillespie
@@ -28,3 +35,9 @@ Gillespie was one of the primary figures who formalized the harmonic innovations
 ## Legacy
 
 Gillespie's contributions to jazz harmony and trumpet technique remain foundational. He was also known for his showmanship, including his iconic bent trumpet and puffed cheeks.
+
+## Timeline
+
+**1917-10-21** | Born in Cheraw, South Carolina
+**1945-01-01** | Key architect of bebop movement with Charlie Parker
+**1993-01-06** | Died

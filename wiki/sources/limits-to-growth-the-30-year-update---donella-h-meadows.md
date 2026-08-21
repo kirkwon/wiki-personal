@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 
 type: source
 title: "Source: limits-to-growth-the-30-year-update"

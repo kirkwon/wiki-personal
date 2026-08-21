@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: source
 title: "How Quant Hedge Funds Compress 500 Stocks Into 5 Hidden Forces"
 author: "Livsun (@L1vsun)"

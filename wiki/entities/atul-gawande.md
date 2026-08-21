@@ -12,7 +12,13 @@ tags:
 sources:
 - the-checklist-manifesto
 - Atul Gawande
-related: [checklists-as-cognitive-aids, the-checklist-manifesto---atul-gawande, systematic-decision-making, being-mortal, care, building-checklists-guide, checklists-in-resource-limited-settings, checklists-and-change-management, the-wrongness-of-perfection]
+related: [checklists-as-cognitive-aids, the-checklist-manifesto
+dates:
+  - date: "2009-12-22"
+    event: "Published The Checklist Manifesto"
+  - date: "2014-10-07"
+    event: "Published Being Mortal"
+---atul-gawande, systematic-decision-making, being-mortal, care, building-checklists-guide, checklists-in-resource-limited-settings, checklists-and-change-management, the-wrongness-of-perfection]
 ---
 # Atul Gawande
 
@@ -37,3 +43,8 @@ Atul Gawande is a surgeon, public health researcher, and author best known for h
 - [[the-wrongness-of-perfection]]
 - [[care]] — Mental model for navigating complexity through pattern and relationship recognition
 - [[being-mortal]] — Gawande's exploration of mortality and care
+
+## Timeline
+
+**2009-12-22** | Published The Checklist Manifesto
+**2014-10-07** | Published Being Mortal

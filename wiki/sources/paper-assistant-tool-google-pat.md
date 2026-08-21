@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: source
 tags: [paper, peer-review, ai-review, scientific-review, inference-scaling]
 related: [autoresearch-pattern, evaluation-patterns, scientific-research]

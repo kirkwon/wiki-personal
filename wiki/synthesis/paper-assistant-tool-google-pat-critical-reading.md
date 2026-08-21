@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: synthesis
 tags: [critical-analysis, paper-review, peer-review, ai-review]
 related: [paper-assistant-tool-google-pat, autoresearch-pattern, evaluation-patterns]

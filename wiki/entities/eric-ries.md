@@ -11,7 +11,11 @@ tags:
 sources:
 - the-lean-startup
 - Eric Ries
-related: [the-lean-startup---eric-ries, build-measure-learn, minimum-viable-product-mvp, validated-learning, pivot-or-persevere]
+related: [the-lean-startup
+dates:
+  - date: "2011-09-13"
+    event: "Published The Lean Startup"
+---eric-ries, build-measure-learn, minimum-viable-product-mvp, validated-learning, pivot-or-persevere]
 ---
 # Eric Ries
 
@@ -20,3 +24,7 @@ Author of *The Lean Startup* (2024), Eric Ries is the central figure behind the 
 His framework introduces concepts like the Build-Measure-Learn feedback loop, the Minimum Viable Product (MVP), innovation accounting, and the pivot-or-persevere decision framework. These ideas have become foundational in startup culture and connect to broader themes of probabilistic thinking, decision-making under uncertainty, and real-options analysis.
 
 Related concepts: [[build-measure-learn]], [[minimum-viable-product-mvp]], [[validated-learning]], [[pivot-or-persevere]], [[innovation-accounting]]
+
+## Timeline
+
+**2011-09-13** | Published The Lean Startup

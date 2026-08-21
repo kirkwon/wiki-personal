@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: synthesis
 tags: [autoresearch, matrix, technology, domain, cross-reference]
 related: [awesome-autoresearch]

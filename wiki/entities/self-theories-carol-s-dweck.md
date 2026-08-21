@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 title: self-theories---carol-s-dweck
 description: "self-theories---carol-s-dweck"
 created: 2026-06-10

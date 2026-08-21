@@ -25,7 +25,15 @@ related:
 - dual-process-theory
 - the-five-dysfunctions-of-a-team
 - building-a-decision-culture
-- the-power-of-habit---charles-duhigg
+- the-power-of-habit
+dates:
+  - date: "2012-02-28"
+    event: "Published The Power of Habit"
+  - date: "2016-03-08"
+    event: "Published Smarter Faster Better"
+  - date: "2024-02-20"
+    event: "Published Supercommunicators"
+---charles-duhigg
 - habit-loop
 - keystone-habits
 - supercommunicators
@@ -90,3 +98,9 @@ Duhigg's research on cue-routine-reward loops is foundational to understanding h
 - [[emotional-intelligence-in-communication]] — Broader theme of communication effectiveness
 - [[building-a-cohesive-team]] — Broader theme of group dynamics and communication
 - [[The Power of Habit - Charles Duhigg]] — Related wiki page
+
+## Timeline
+
+**2012-02-28** | Published The Power of Habit
+**2016-03-08** | Published Smarter Faster Better
+**2024-02-20** | Published Supercommunicators

@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: decision
 tags: [cao, orchestration, architecture, migration, queue]
 related: [symphony, queue, autoresearch-curation, autoresearch-pattern]

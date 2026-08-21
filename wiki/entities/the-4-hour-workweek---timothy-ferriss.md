@@ -14,7 +14,13 @@ tags:
 sources:
 - the-4-hour-workweek
 - The 4-Hour Workweek - Timothy Ferriss
-related: ["lifestyle-design", "outsourcing-your-life", "inbox-resistance", "human-high-frequency-trader", "time-management-matrix", "decision-making-frameworks", "tasks", "deep-work - Cal Newport", "getting-things-done---david-allen", "deep-work---Cal-Newport", "tools", "tools-of-titans---timothy-ferriss", "building-a-second-brain---tiago-forte"]
+related: ["lifestyle-design", "outsourcing-your-life", "inbox-resistance", "human-high-frequency-trader", "time-management-matrix", "decision-making-frameworks", "tasks", "deep-work - Cal Newport", "getting-things-done
+dates:
+  - date: "2007-04-24"
+    event: "First published"
+  - date: "2009-12-15"
+    event: "Expanded and updated edition"
+---david-allen", "deep-work---Cal-Newport", "tools", "tools-of-titans---timothy-ferriss", "building-a-second-brain---tiago-forte"]
 ---
 # The 4-Hour Workweek - Timothy Ferriss
 
@@ -48,3 +54,8 @@ Ferriss's approach represents one expression of the [[tasks]] mental model — f
 ## Related
 
 [[tools]], [[tools-of-titans---timothy-ferriss]], [[building-a-second-brain---tiago-forte]]
+
+## Timeline
+
+**2007-04-24** | First published
+**2009-12-15** | Expanded and updated edition

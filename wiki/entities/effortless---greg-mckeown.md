@@ -17,6 +17,9 @@ related:
 - mindfulness-presence-productivity
 - emotional-intelligence-effortless
 - balanced-living
+dates:
+  - date: "2021-04-20"
+    event: "Published Effortless"
 ---
 -
 # Effortless - Greg McKeown
@@ -49,3 +52,7 @@ McKeown identifies warning signs: optimization becoming obsession, sacrificing r
 - [[balanced-living]]
 - [[prioritization-effortless]]
 ---
+
+## Timeline
+
+**2021-04-20** | Published Effortless

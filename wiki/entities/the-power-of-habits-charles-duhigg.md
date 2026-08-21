@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 title: the-power-of-habits---charles-duhigg
 description: "the-power-of-habits---charles-duhigg"
 created: 2026-06-10

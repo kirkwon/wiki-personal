@@ -16,7 +16,19 @@ tags:
 sources:
 - first-things-first
 - Stephen R. Covey
-related: [first-things-first-principle, time-management-matrix, quadrant-2-focus, decision-making-frameworks, be-proactive, begin-with-the-end-in-mind, think-win-win, seek-first-to-understand, synergize, sharpen-the-saw, strategic-vs-reactive-thinking, decision-quality-vs-outcome-quality, effective-listening, building-a-cohesive-team, communication-skills, first-things-first---stephen-r-covey, the-index-card-rules, the-8th-habit---stephen-r-covey, the-7-habits-of-highly-effective-people-stephen-r-covey, ideas-mental-model, habits, the-7-habits-of-highly-effective-people, the-8th-habit, the-8th-habit-from-effectiveness-to-greatness---stephen-r-covey, habit, infinite-game-mindset]
+related: [first-things-first-principle, time-management-matrix, quadrant-2-focus, decision-making-frameworks, be-proactive, begin-with-the-end-in-mind, think-win-win, seek-first-to-understand, synergize, sharpen-the-saw, strategic-vs-reactive-thinking, decision-quality-vs-outcome-quality, effective-listening, building-a-cohesive-team, communication-skills, first-things-first
+dates:
+  - date: "1932-10-24"
+    event: "Born"
+  - date: "1989-08-01"
+    event: "Published The 7 Habits of Highly Effective People"
+  - date: "1994-01-01"
+    event: "Published First Things First"
+  - date: "2004-11-15"
+    event: "Published The 8th Habit"
+  - date: "2012-07-16"
+    event: "Died"
+---stephen-r-covey, the-index-card-rules, the-8th-habit---stephen-r-covey, the-7-habits-of-highly-effective-people-stephen-r-covey, ideas-mental-model, habits, the-7-habits-of-highly-effective-people, the-8th-habit, the-8th-habit-from-effectiveness-to-greatness---stephen-r-covey, habit, infinite-game-mindset]
 ---
 # Stephen R. Covey
 
@@ -51,3 +63,11 @@ Covey's work has shaped approaches to personal productivity, leadership developm
 ## Related Concepts
 
 His framework connects to [[decision-making-frameworks]], [[effective-listening]], [[building-a-cohesive-team]], [[communication-skills]], [[strategic-vs-reactive-thinking]], and [[decision-quality-vs-outcome-quality]]. Additional related concepts include [[paradox-of-power]], [[purposeful-habits]], [[proactive-influence]], [[begin-with-principle]], and [[win-win-through-effective-communication]].
+
+## Timeline
+
+**1932-10-24** | Born
+**1989-08-01** | Published The 7 Habits of Highly Effective People
+**1994-01-01** | Published First Things First
+**2004-11-15** | Published The 8th Habit
+**2012-07-16** | Died

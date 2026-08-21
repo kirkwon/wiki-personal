@@ -14,6 +14,15 @@ sources:
 related:
 - decisive-moment
 - street-photography
+dates:
+  - date: "1908-08-22"
+    event: "Born in Chanteloup-en-Brie, France"
+  - date: "1947-01-01"
+    event: "Co-founded Magnum Photos"
+  - date: "1952-01-01"
+    event: "Published The Decisive Moment"
+  - date: "2004-08-03"
+    event: "Died"
 ---
 --
 # Henri Cartier-Bresson
@@ -33,3 +42,10 @@ Henri Cartier-Bresson (1908-2004) was a French photographer and one of the pione
 ## Legacy
 
 Cartier-Bresson's philosophy of presence, anticipation, and capturing fleeting moments remains central to [[street-photography]] practice today.
+
+## Timeline
+
+**1908-08-22** | Born in Chanteloup-en-Brie, France
+**1947-01-01** | Co-founded Magnum Photos
+**1952-01-01** | Published The Decisive Moment
+**2004-08-03** | Died

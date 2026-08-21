@@ -6,6 +6,9 @@ updated: 2026-06-10
 type: entity
 tags: []
 sources: []
+dates:
+  - date: "1959-08-17"
+    event: "Released — recorded March 2 and April 22, 1959"
 ---
 
 # Kind of Blue
@@ -20,3 +23,6 @@ In personal finance, "Kind of Blue" symbolizes the importance of taking calculat
 - [[concepts/modal-jazz]]
 - [[entities/miles-davis]]
 
+## Timeline
+
+**1959-08-17** | Released — best-selling jazz album of all time

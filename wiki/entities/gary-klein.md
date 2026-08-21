@@ -14,6 +14,13 @@ sources:
 - Gary Klein
 confidence: high
 related: ["recognition-primed-decision-model", "naturalistic-decision-making", "two-views-of-decision-kahneman-vs-klein"]
+dates:
+  - date: "1998-01-01"
+    event: "Published Sources of Power: How People Make Decisions"
+  - date: "2003-01-01"
+    event: "Published The Power of Intuition"
+  - date: "2009-01-01"
+    event: "Published Streetlights and Shadows"
 ---
 
 # Gary Klein
@@ -53,3 +60,9 @@ Although their conclusions seem to contrast, Klein and Kahneman engaged in a pro
 ## Sources
 
 - [[raw/books/sources-of-power-how-people-make-decisions---gary-klein.md]]
+
+## Timeline
+
+**1998-01-01** | Published Sources of Power: How People Make Decisions
+**2003-01-01** | Published The Power of Intuition
+**2009-01-01** | Published Streetlights and Shadows

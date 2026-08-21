@@ -14,7 +14,17 @@ tags:
 sources:
 - mans-search-for-meaning
 - Viktor Frankl
-related: [logotherapy, tragic-optimism, will-to-meaning, will---mark-manson, man-s-search-for-meaning, growth-mindset, embracing-failure-for-personal-growth, meaning-finding-framework, world-disclosure, infinite-game-mindset]
+related: [logotherapy, tragic-optimism, will-to-meaning, will
+dates:
+  - date: "1905-03-26"
+    event: "Born in Vienna, Austria"
+  - date: "1942-01-01"
+    event: "Deported to Auschwitz concentration camp"
+  - date: "1946-01-01"
+    event: "Published Man's Search for Meaning"
+  - date: "1997-09-02"
+    event: "Died in Vienna"
+---mark-manson, man-s-search-for-meaning, growth-mindset, embracing-failure-for-personal-growth, meaning-finding-framework, world-disclosure, infinite-game-mindset]
 ---
 # Viktor Frankl
 
@@ -46,3 +56,10 @@ Viktor Frankl was an Austrian psychiatrist, neurologist, and philosopher who fou
 ## Legacy
 
 Frankl's work profoundly influenced later thinkers on meaning and well-being, including Mark Manson (*Will*) and the broader field of existential psychology. His emphasis on meaning over happiness provides a counterpoint to positive psychology approaches that focus primarily on affect.
+
+## Timeline
+
+**1905-03-26** | Born in Vienna, Austria
+**1942-01-01** | Deported to Auschwitz concentration camp
+**1946-01-01** | Published Man's Search for Meaning
+**1997-09-02** | Died in Vienna

@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: concept
 tags: [autoresearch, research-loop, experiment-automation, ml-research, methodology]
 related: [awesome-autoresearch, karpathy-autoresearch-loop, experiment-loop, iterative-research]

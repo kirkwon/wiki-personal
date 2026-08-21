@@ -14,7 +14,15 @@ tags:
 sources:
 - digital-minimalism
 - Cal Newport
-related: ["digital-minimalism---cal-newport", "purposeful-use-principle", "digital-minimalism", "deliberate-practice", "skill-capital", "craft-capital-vs-career-capital", "newport-career-strategy", "paradox-of-choice", "grit-concept", "active-revision-techniques", "slow-productivity", "deep-focus", "the-paradox-of-busyness", "time-management-matrix", "the-infinite-game---simon-sinek", "slow-productivity---cal-newport", "strategic-batching", "saying-no-boundaries", "solitude-and-creativity", "deep-work", "environment", "planning", "stillness", "deep-work - Cal Newport", "slow-productivity - Cal Newport", "so-good-they-cant-ignore-you - Cal Newport", "quadrant-2-focus", "so-good-they-cant-ignore-you---cal-newport", "mastery", "so-good-they-can't-ignore-you---cal-newport"]
+related: ["digital-minimalism
+dates:
+  - date: "2016-01-05"
+    event: "Published Deep Work"
+  - date: "2019-02-05"
+    event: "Published Digital Minimalism"
+  - date: "2024-03-05"
+    event: "Published Slow Productivity"
+---cal-newport", "purposeful-use-principle", "digital-minimalism", "deliberate-practice", "skill-capital", "craft-capital-vs-career-capital", "newport-career-strategy", "paradox-of-choice", "grit-concept", "active-revision-techniques", "slow-productivity", "deep-focus", "the-paradox-of-busyness", "time-management-matrix", "the-infinite-game---simon-sinek", "slow-productivity---cal-newport", "strategic-batching", "saying-no-boundaries", "solitude-and-creativity", "deep-work", "environment", "planning", "stillness", "deep-work - Cal Newport", "slow-productivity - Cal Newport", "so-good-they-cant-ignore-you - Cal Newport", "quadrant-2-focus", "so-good-they-cant-ignore-you---cal-newport", "mastery", "so-good-they-can't-ignore-you---cal-newport"]
 ---
 # Cal Newport
 
@@ -64,3 +72,9 @@ His framework contrasts with [[hooked---nir-eyal]]'s approach to building habit-
 - Relates to [[environment]] on how surroundings shape performance
 - Connects to [[planning]] and [[stillness]] as complementary practices for focused work
 - Connects to [[mastery]] through the focus on deliberate practice and skill accumulation
+
+## Timeline
+
+**2016-01-05** | Published Deep Work
+**2019-02-05** | Published Digital Minimalism
+**2024-03-05** | Published Slow Productivity

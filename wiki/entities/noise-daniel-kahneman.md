@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 title: noise---daniel-kahneman
 description: "noise---daniel-kahneman"
 created: 2026-06-10

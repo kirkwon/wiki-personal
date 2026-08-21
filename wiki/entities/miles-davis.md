@@ -26,6 +26,21 @@ related:
 - jazz-harmony
 - modal-jazz
 - bebop
+dates:
+  - date: "1926-05-26"
+    event: "Born in Alton, Illinois"
+  - date: "1945-01-01"
+    event: "Bebop era begins — sessions with Charlie Parker"
+  - date: "1949-01-01"
+    event: "Birth of the Cool recordings"
+  - date: "1959-08-17"
+    event: "Kind of Blue released"
+  - date: "1969-01-01"
+    event: "Bitches Brew recording sessions"
+  - date: "1970-03-30"
+    event: "Bitches Brew released"
+  - date: "1991-09-28"
+    event: "Died in Santa Monica, California"
 ---
 --
 # Miles Davis
@@ -88,3 +103,12 @@ Influenced Wynton Marsalis, Chris Botti, Terence Blanchard, Herbie Hancock, Wayn
 - "Miles: The Autobiography" by Miles Davis and Quincy Troupe
 - "Miles Davis: The Definitive Biography" by Ian Carr
 - "The Miles Davis Companion" by Gary Carner
+
+## Timeline
+
+**1926-05-26** | Born in Alton, Illinois
+**1945-01-01** | Bebop era begins — sessions with Charlie Parker
+**1949-01-01** | Birth of the Cool recordings
+**1959-08-17** | Kind of Blue released
+**1970-03-30** | Bitches Brew released
+**1991-09-28** | Died in Santa Monica, California

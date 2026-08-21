@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: synthesis
 tags: [autoresearch, harnesses, infra, tools, comparison]
 related: [awesome-autoresearch, autoresearch-pattern, karpathy-autoresearch-loop]

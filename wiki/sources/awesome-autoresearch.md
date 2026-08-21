@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: source
 tags: [autoresearch, curated-list, awesome-list, survey]
 related: [autoresearch-pattern, karpathy-autoresearch-loop, experiment-loop]

@@ -1,4 +1,6 @@
 ---
+date: 2026-06-10
+
 type: source
 title: 'Source: essentialism-the-disciplined-pursuit-of-less'
 ---

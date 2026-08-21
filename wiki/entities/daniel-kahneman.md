@@ -16,7 +16,21 @@ sources:
 - raw/books/thinking-fast-and-slow
 - Daniel Kahneman
 confidence: high
-related: ["amos-tversky", "prospect-theory", "dual-process-theory", "cognitive-biases-library", "heuristics-and-biases", "system-1-vs-system-2-thinking", "thinking-fast-and-slow---daniel-kahneman", "noise-a-flaw-in-human-judgment---daniel-kahneman"]
+related: ["amos-tversky", "prospect-theory", "dual-process-theory", "cognitive-biases-library", "heuristics-and-biases", "system-1-vs-system-2-thinking", "thinking-fast-and-slow
+dates:
+  - date: "1934-03-05"
+    event: "Born in Tel Aviv"
+  - date: "1974-01-01"
+    event: "Published Judgment Under Uncertainty with Tversky"
+  - date: "1979-01-01"
+    event: "Published Prospect Theory with Tversky"
+  - date: "2002-10-09"
+    event: "Awarded Nobel Memorial Prize in Economic Sciences"
+  - date: "2011-10-25"
+    event: "Published Thinking, Fast and Slow"
+  - date: "2024-03-27"
+    event: "Died"
+---daniel-kahneman", "noise-a-flaw-in-human-judgment---daniel-kahneman"]
 ---
 
 # Daniel Kahneman
@@ -85,3 +99,12 @@ Kahneman's work closely parallels and sometimes contrasts with [[gary-klein]]'s 
 - [[thinking-fast-and-slow---daniel-kahneman]] — Book summary
 
 See also: [[thinking-fast-and-slow---daniel-kahneman]] for the book summary.
+
+## Timeline
+
+**1934-03-05** | Born in Tel Aviv
+**1974-01-01** | Published Judgment Under Uncertainty with Tversky
+**1979-01-01** | Published Prospect Theory with Tversky
+**2002-10-09** | Awarded Nobel Memorial Prize in Economic Sciences
+**2011-10-25** | Published Thinking, Fast and Slow
+**2024-03-27** | Died

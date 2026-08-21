@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 title: the-para-method---tiago-forte
 description: "the-para-method---tiago-forte"
 created: 2026-06-10

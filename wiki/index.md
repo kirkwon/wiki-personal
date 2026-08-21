@@ -1,4 +1,6 @@
 ---
+date: 2026-07-15
+
 type: summary
 title: Wiki Index
 description: "> Automated directory of all wiki pages. | Total pages: 4581"
@@ -4603,4 +4605,16 @@ tags: [meta]
 - [[sources/will---mark-manson]] - Will - Mark Manson
 - [[sources/youtubevideosystemguide---unknown]] - Source: youtubevideosystemguide
 - [[sources/zero-to-one---peter-thiel-blake-masters]] - Zero to One - Peter Thiel & Blake Masters
-- [[sources/zero-to-one-peter-thiel-blake-masters]] - Zero to One - Peter Thiel & Blake Masters
+| [[sources/zero-to-one-peter-thiel-blake-masters]] - Zero to One - Peter Thiel & Blake Masters
+
+## Domain Masters (Architecture Extension - 2026-07-15)
+
+### Core Architecture Extensions
+- [[../concepts/documentation-master]] - Documentation curation and maintenance layer
+- [[../concepts/decision-master]] - Decision-making and governance layer
+- [[../concepts/productivity-master]] - Workflow optimization and leverage layer
+- [[../concepts/knowledge-master]] - Knowledge lifecycle management layer
+
+### Loop Engineering Extensions
+- [[../concepts/self-health-loop]] - Autonomous system health monitoring and repair
+- [[../concepts/learning-loop]] - Three-tier improvement loop (Execution/Harness/Meta)

@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 title: csv-lens---csv-inspector
 description: "csv-lens---csv-inspector"
 created: 2026-06-10

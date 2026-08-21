@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: synthesis
 tags: [autoresearch, finance, trading, quant, cross-reference]
 related: [awesome-autoresearch, factors, mean-variance-myopia-under-stochastic-volatility, pca-random-matrix-theory-equity-markets]

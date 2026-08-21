@@ -9,7 +9,15 @@ tags:
 - mathematics
 - problem-solving
 related:
-- how-to-solve-it ---george-polya
+- how-to-solve-it
+dates:
+  - date: "1887-12-13"
+    event: "Born in Budapest, Hungary"
+  - date: "1945-01-01"
+    event: "Published How to Solve It"
+  - date: "1985-09-07"
+    event: "Died"
+---george-polya
 - polya-four-steps
 - heuristic-problem-solving
 - heuristic-proproblem-solving
@@ -34,3 +42,9 @@ Key contributions:
 - Acknowledgment of subconscious incubation in problem-solving
 
 His ideas complement [[thinking-in-bets---annie-duke]] (probabilistic framing), [[naturalistic-decision-making]] (intuitive recognition), and [[paul-elder-critical-thinking-framework]] (reflective analysis).
+
+## Timeline
+
+**1887-12-13** | Born in Budapest, Hungary
+**1945-01-01** | Published How to Solve It
+**1985-09-07** | Died

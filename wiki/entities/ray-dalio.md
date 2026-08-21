@@ -21,7 +21,17 @@ related:
 - principles
 - big-cycle-theory
 - power-transition-west-to-east
-- principles-for-dealing-with-the-changing-world-order---ray-dalio
+- principles-for-dealing-with-the-changing-world-order
+dates:
+  - date: "1949-08-01"
+    event: "Born"
+  - date: "1975-01-01"
+    event: "Founded Bridgewater Associates"
+  - date: "2017-09-19"
+    event: "Published Principles: Life and Work"
+  - date: "2021-11-30"
+    event: "Published Principles for Dealing with the Changing World Order"
+---ray-dalio
 - scenario-planning
 - decision-making-under-uncertainty
 - how-the-economic-machine-works---ray-dalio
@@ -72,3 +82,10 @@ Dalio's approach has been formalized as a universal mental model ([[dalio-mental
 - [[antifragility]] and [[black-swan-events]] – His cyclical view sits in tension with these concepts, which emphasize radical unpredictability over historical pattern recognition.
 - [[radical-transparency]] – Related concept
 - [[solutions-mental-model]], [[tendency]], [[reality-mental-model]] – Connected mental models
+
+## Timeline
+
+**1949-08-01** | Born
+**1975-01-01** | Founded Bridgewater Associates
+**2017-09-19** | Published Principles: Life and Work
+**2021-11-30** | Published Principles for Dealing with the Changing World Order

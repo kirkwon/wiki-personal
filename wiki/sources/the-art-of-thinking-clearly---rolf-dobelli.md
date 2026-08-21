@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 
 type: source
 title: "Source: the-art-of-thinking-clearly"

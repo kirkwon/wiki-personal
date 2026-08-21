@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: log
 tags: [cao, orchestration, migration, process]
 related: [cao-adoption-2026-06-29]

@@ -13,7 +13,15 @@ tags:
 sources:
 - how-to-decide
 - Annie Duke
-related: ["decision-quality-vs-outcome-quality", "strategic-vs-reactive-thinking", "framing-effects-in-decision-making", "how-to-decide---annie-duke", "thinking-in-bets", "kelly-criterion", "martingale-strategy", "prospect-theory", "dual-process-theory", "bayesian-thinking", "thinking-in-bets---annie-duke", "quit---annie-duke", "decision-tracking", "bet-sizing", "quit-the-power-of-knowing-when-to-walk-away", "experiences"]
+related: ["decision-quality-vs-outcome-quality", "strategic-vs-reactive-thinking", "framing-effects-in-decision-making", "how-to-decide
+dates:
+  - date: "2004-01-01"
+    event: "Won WSOP Main Event"
+  - date: "2018-02-06"
+    event: "Published Thinking in Bets"
+  - date: "2022-09-27"
+    event: "Published Quit: The Power of Knowing When to Walk Away"
+---annie-duke", "thinking-in-bets", "kelly-criterion", "martingale-strategy", "prospect-theory", "dual-process-theory", "bayesian-thinking", "thinking-in-bets---annie-duke", "quit---annie-duke", "decision-tracking", "bet-sizing", "quit-the-power-of-knowing-when-to-walk-away", "experiences"]
 ---
 
 # Annie Duke
@@ -60,3 +68,9 @@ Duke's poker career provided extensive experience in making repeated decisions u
 - [[decision-tracking]] — Central practice in Duke's methodology for improving decision quality
 - [[bet-sizing]] — Discussed in relation to [[kelly-criterion]] and [[martingale-strategy]]
 - [[quit-the-power-of-knowing-when-to-walk-away]] — Directly related to her book on quitting as a decision skill
+
+## Timeline
+
+**2004-01-01** | Won WSOP Main Event
+**2018-02-06** | Published Thinking in Bets
+**2022-09-27** | Published Quit: The Power of Knowing When to Walk Away

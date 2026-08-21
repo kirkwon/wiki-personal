@@ -1,11 +1,16 @@
 ---
-tags: [permanent-question, research, ai-agents]
+
+tags: [permanent-question, research]
 created: 2026-05-25
 question: "What are the frontier approaches for agents to improve their own scaffolding, tool use, and learning harness? Metalearning, self-critique, recursive improvement — what's working?"
 type: permanent-question
-reviewed: 2026-06-17
-status: Active - accumulating
+reviewed: 2026-05-25
+confidence: 0.95
+evidence_count: 22
+last_evidence_date: "2026-08-19" 
+
 ---
+
 
 # Q02: Agent Self-Improvement Models
 
@@ -181,3 +186,1339 @@ This is like a personal learning journal, but automated.
 _2026-06-24_ — Added: CL4R1T4S dataset (66 leaked prompts, system prompt arms race, dynamic tool discovery convergence, skills pre-read mandate). Added CWM/LLM-as-compiler pattern for toolchain synthesis. Updated Connections with new references.
 _2026-06-17_ — Added new papers (Self-Harness, AutoHarness, Evolving Agents in the Dark) to Key Papers section
 _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Harness applied, dashboard fixes, Headroom compression, /last30days skill, loop engineering
+
+## Evidence Log
+
+<!-- Weekly scan appends dated evidence blocks below this line.
+     Format: ### YYYY-MM-DD: <topic>
+             - Finding
+             - Source: [[wikilink]] or URL
+             - Confidence: High/Medium/Low
+-->
+
+### 2026-06-12: Self-Harness paradigm — harness is the improvement surface
+- Hermes skill system lets agents write, patch, and version their own procedures. The execution harness (not LLM weights) is the primary surface for self-improvement.
+- Source: [[self-harness]]
+- Confidence: High
+
+### 2026-06-17: Key papers: Self-Harness, AutoHarness, Evolving Agents in the Dark
+- Three 2026 papers formalize harness self-improvement: Self-Harness (Weakness Mine → Harness Proposal → Validation), AutoHarness (code harness synthesis), Evolving Agents (self-preference optimization without ground truth).
+- Source: arXiv:2606.09498, arXiv:2603.03329, arXiv:2606.05922
+- Confidence: High
+
+### 2026-06-24: CL4R1T4S — convergent architecture across 26 AI providers
+
+### 2026-07-30: GPT-Red: Automated Red Teaming via Self-Play at Scale
+
+### 2026-07-01: TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning
+
+### 2026-07-01: Hierarchical Experimentalist Agents
+
+### 2025-07-01: SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via
+
+### 2026-07-15: Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Vis
+
+### 2025-09-03: The Landscape of Agentic Reinforcement Learning for LLMs: A Survey
+
+### 2026-07-16: KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Ev
+
+### 2025-09-08: Bootstrapping Task Spaces for Self-Improvement
+
+### 2026-07-16: Self-Improvements in Modern Agentic Systems: A Survey
+
+### 2026-07-20: SVR-R1: Bootstrapping Multi-modal Reasoning with Self-verification in Reinforcem
+
+### 2025-09-29: WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level
+
+### 2026-07-24: AREX: Towards a Recursively Self-Improving Agent for Deep Research
+
+### 2025-10-01: Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified
+
+### 2026-07-24: NVIDIA-labs OO Agents: Native Python Object-Oriented Agents
+
+### 2026-07-27: Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Lea
+
+### 2025-10-08: Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and
+
+### 2025-10-08: Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for
+
+### 2025-10-14: Self-Improving LLM Agents at Test-Time
+
+### 2025-10-29: SPICE: Self-Play In Corpus Environments Improves Reasoning
+
+### 2025-11-07: Scaling Agent Learning via Experience Synthesis
+
+### 2025-11-13: WMPO: World Model-based Policy Optimization for Vision-Language-Action Models
+
+### 2025-12-05: SIMA 2: A Generalist Embodied Agent for Virtual Worlds
+
+### 2025-12-24: Reinforcement Learning for Self-Improving Agent with Skill Library
+
+### 2026-01-08: MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecula
+
+### 2026-01-23: From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantific
+
+### 2026-01-27: Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability
+
+### 2026-02-04: FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriente
+
+### 2026-02-04: Scaling Small Agents Through Strategy Auctions
+
+### 2026-02-09: Self-Improving World Modelling with Latent Actions
+
+### 2026-02-12: Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters
+
+### 2026-02-13: The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving
+
+### 2026-03-03: Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data
+
+### 2026-03-11: SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive
+
+### 2026-04-14: TRACE: Capability-Targeted Agentic Training
+
+### 2026-05-01: Synthetic Computers at Scale for Long-Horizon Productivity Simulation
+
+### 2026-05-06: ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration
+
+### 2026-05-12: G-Zero: Self-Play for Open-Ended Generation from Zero Data
+
+### 2026-05-18: Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design
+
+### 2026-05-26: ECHO: Terminal Agents Learn World Models for Free
+
+### 2026-05-28: OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration
+
+### 2026-06-03: Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories
+
+### 2026-06-03: Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment 
+
+### 2026-06-03: The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Develop
+
+### 2026-06-08: CORE: Contrastive Reflection Enables Rapid Improvements in Reasoning
+
+### 2026-06-15: From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomo
+
+### 2026-06-15: StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning
+
+### 2026-06-19: ENPIRE: Agentic Robot Policy Self-Improvement in the Real World
+
+### 2026-07-01: TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning
+
+### 2026-07-01: Hierarchical Experimentalist Agents
+
+### 2026-07-15: Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Vis
+
+### 2026-07-16: KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Ev
+
+### 2026-07-16: Self-Improvements in Modern Agentic Systems: A Survey
+
+### 2026-07-24: AREX: Towards a Recursively Self-Improving Agent for Deep Research
+
+### 2026-08-03: Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudina
+
+### 2026-08-03: SAF-OPD: Stable Advantage Fusion for On-Policy Distillation
+
+### 2026-08-03: RL^2-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for V
+
+### 2026-08-03: Not All Tokens Deserve Equal Credit: Counterfactual Sensitivity Credit Reallocat
+
+### 2026-08-03: In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving
+
+### 2026-08-03: One Future, Every Robot: Label-Efficient Collective-State Prediction with Decent
+
+### 2026-08-03: SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark fo
+
+### 2026-08-03: Enhancing Rubric-based RL via Self-Distillation
+
+### 2026-08-03: Evaluation-Verification Reward for Consistent Multi-Reference Image Editing
+
+### 2026-08-03: Meshy T2: Fast Native Mesh Generation with Flow Matching
+
+### 2026-08-03: N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Token
+
+### 2026-08-03: From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open
+
+### 2026-08-03: β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation
+
+### 2026-08-03: AMRD: Adaptive Multi-Teacher Relational Distillation for Lightweight Speech Emot
+
+### 2026-08-03: Multi-Head Attention Residuals
+
+### 2026-08-03: LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structure
+
+### 2026-08-03: Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Founda
+
+### 2026-08-04: SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space
+
+### 2026-08-04: Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Model
+
+### 2026-08-04: ICDAR 2026 Competition on Information Extraction from Atomic Layer Deposition/Et
+
+### 2026-08-04: RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender System
+
+### 2026-08-04: DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimo
+
+### 2026-08-04: DAPD: Dual-Anchored Policy Distillation
+
+### 2026-08-04: LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks
+
+### 2026-08-04: LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation
+
+### 2026-08-04: Progressive Agent Skill Generation via Reinforcement Learning
+
+### 2026-08-04: WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reacti
+
+### 2026-08-04: SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zer
+
+### 2026-08-04: WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning
+
+### 2026-08-04: StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph
+
+### 2026-08-04: Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout
+
+### 2026-08-04: Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous 
+
+### 2026-08-04: VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Poli
+
+### 2026-08-04: Weak-to-Strong On-Policy Distillation
+
+### 2026-08-04: Constitutional Midtraining: Content Presence Drives Alignment Gains
+- HF trending paper (arxiv: 2607.26654). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2607.26654]] | https://huggingface.co/papers/2607.26654
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.26246). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2607.26246]] | https://huggingface.co/papers/2607.26246
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28590). Keywords: ppo, distillation. Status: pending-review.
+- Source: [[papers/2607.28590]] | https://huggingface.co/papers/2607.28590
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01755). Keywords: rlvr. Status: pending-review.
+- Source: [[papers/2608.01755]] | https://huggingface.co/papers/2608.01755
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01973). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.01973]] | https://huggingface.co/papers/2608.01973
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01954). Keywords: preference learning. Status: pending-review.
+- Source: [[papers/2608.01954]] | https://huggingface.co/papers/2608.01954
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.29613). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2607.29613]] | https://huggingface.co/papers/2607.29613
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02023). Keywords: grpo, ppo, curriculum learning. Status: pending-review.
+- Source: [[papers/2608.02023]] | https://huggingface.co/papers/2608.02023
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02603). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.02603]] | https://huggingface.co/papers/2608.02603
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01678). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.01678]] | https://huggingface.co/papers/2608.01678
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00079). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.00079]] | https://huggingface.co/papers/2608.00079
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01964). Keywords: agent loop, ppo. Status: pending-review.
+- Source: [[papers/2608.01964]] | https://huggingface.co/papers/2608.01964
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01735). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.01735]] | https://huggingface.co/papers/2608.01735
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01827). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.01827]] | https://huggingface.co/papers/2608.01827
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.29241). Keywords: self-evolving. Status: pending-review.
+- Source: [[papers/2607.29241]] | https://huggingface.co/papers/2607.29241
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.26848). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.26848]] | https://huggingface.co/papers/2607.26848
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.26326). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.26326]] | https://huggingface.co/papers/2607.26326
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01397). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.01397]] | https://huggingface.co/papers/2608.01397
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28227). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.28227]] | https://huggingface.co/papers/2607.28227
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28374). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.28374]] | https://huggingface.co/papers/2607.28374
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.27230). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.27230]] | https://huggingface.co/papers/2607.27230
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.25289). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2607.25289]] | https://huggingface.co/papers/2607.25289
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28582). Keywords: reinforcement learning, policy optimization, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2607.28582]] | https://huggingface.co/papers/2607.28582
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.23802). Keywords: self-improvement, self-play, reinforcement learning, reward model. Status: pending-review.
+- Source: [[papers/2607.23802]] | https://huggingface.co/papers/2607.23802
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.23782). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2607.23782]] | https://huggingface.co/papers/2607.23782
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28675). Keywords: ppo. Status: pending-review.
+- Source: [[papers/26
+### 2026-08-05: Autonomous email triage with Bayesian sender trust, SPF/DKIM/DMARC authentication gate, and centralized safety reference for fraud, theft, and identity leakage.
+- Source: [[email-safety-system.md]]
+- Confidence: Medium
+
+### 2026-08-05: Centralized blog draft pipeline: 2 active drafts, 12 verified candidates across 3 tiers, organized into thematic series.
+- Source: [[blog-content-pipeline.md]]
+- Confidence: Medium
+
+### 2026-08-05: Self-maintaining personal knowledge graph: ~19,800 pages, 8 ingestion pipelines, cron-driven sync across GBrain + NotebookLM + Obsidian wiki.
+- Source: [[gbrain-knowledge-ecosystem.md]]
+- Confidence: Medium
+
+### 2026-08-05: 13 MCP servers configured across Hermes, providing tools for search, code, finance, data, and automation. n8n deployed as visual automation layer. Docker infrastructure running.
+- Source: [[mcp-infrastructure.md]]
+- Confidence: High
+
+### 2026-08-05: > **Skill stub** — auto-generated by knowledge-maintenance on 2026-08-02.
+- Source: [[agent-subsystem-build.md]]
+- Confidence: Medium
+
+### 2026-08-05: Loop engineering is the practice of structuring agent improvement as a closed-loop system with a **critic/doer separation** — one component acts, another validates. This separation enables the agent t...
+- Source: [[loop-engineering.md]]
+- Confidence: Low
+
+### 2026-08-05: Three interconnected skill systems: (1) **Book Skills Dashboard** — interactive HTML visualization of 303 skills/concepts from 33 books with D3.js network graphs, (2) **Hermes Skills Library** — 320 i...
+- Source: [[skills-ecosystem.md]]
+- Confidence: Low
+
+### 2026-08-05: Designing self-running agent loops: heartbeat, SKILL.md, state files, verifiers, worktrees, MCP — transitioning from prompting to engineering autonomous systems.
+- Source: [[loop-engineering.md]]
+- Confidence: High
+
+### 2026-08-05: Applied causal inference (Pearl/DoWhy/EconML) for risk management and portfolio construction, building toward an autonomous causal hedge signal generator.
+- Source: [[causal-ai-hedge-agent.md]]
+- Confidence: Medium
+
+### 2026-08-05: Live portfolio dashboard (port 5001) with allocation, concentration, tax-loss harvesting, and performance views.
+- Source: [[portfolio-dashboard.md]]
+- Confidence: Medium
+
+### 2026-08-05: > **Skill stub** — auto-generated by knowledge-maintenance on 2026-08-02.
+- Source: [[cross-linker.md]]
+- Confidence: Medium
+
+### 2026-08-05: Autonomous email triage with Bayesian sender trust, SPF/DKIM/DMARC authentication gate, and centralized safety reference for fraud, theft, and identit...
+- Source: [[email-safety-system.md]]
+- Confidence: Medium
+
+### 2026-08-05: Self-maintaining personal knowledge graph: ~19,800 pages, 8 ingestion pipelines, cron-driven sync across GBrain + NotebookLM + Obsidian wiki.
+- Source: [[gbrain-knowledge-ecosystem.md]]
+- Confidence: Medium
+
+### 2026-08-05: > **Skill stub** — auto-generated by knowledge-maintenance on 2026-08-02.
+- Source: [[dify-ollama-embedding-setup.md]]
+- Confidence: Medium
+
+### 2026-08-05: > **Skill stub** — auto-generated by knowledge-maintenance on 2026-08-02.
+- Source: [[gbrain-dual-layer-acl.md]]
+- Confidence: Medium
+
+### 2026-08-05: > **Skill stub** — auto-generated by knowledge-maintenance on 2026-08-02.
+- Source: [[agent-subsystem-build.md]]
+- Confidence: Medium
+
+### 2026-08-05: Applied BINEVAL (binary question decomposition) methodology to 6 evaluation/critique skills. Created shared reference file. Each skill now decomposes ...
+- Source: [[bineval-skill-patches.md]]
+- Confidence: Medium
+
+### 2026-08-05: 4-tier memory hierarchy for Hermes agent: HOT (session state), WARM (MEMORY.md), COOL (session search), COLD (GBrain/wikis). Implements importance-sco...
+
+### 2026-08-05: RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cac
+
+### 2026-08-05: MiniWorld: Democratizing the Training of Video World Models from Scratch
+
+### 2026-08-05: ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?
+
+### 2026-08-05: When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, a
+
+### 2026-08-05: Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent
+
+### 2026-08-05: PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Person
+
+### 2026-08-05: PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Lear
+
+### 2026-08-05: CAPEval: A Decoupled Caption Evaluation across Understanding and Generation
+
+### 2026-08-05: TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning
+
+### 2026-08-05: JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusi
+
+### 2026-08-05: Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Un
+
+### 2026-08-05: SkillJack: Persistent Skill Backdoors in Self-Evolving Agents
+
+### 2026-08-05: UniWorld-Design: From Pixel Generation to Layer-Native Design
+
+### 2026-08-05: GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Vi
+
+### 2026-08-05: Any-OPD: Heterogeneous On-Policy Distillation for Flow-Matching Models via Repre
+
+### 2026-08-05: InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthe
+
+### 2026-08-05: AgentStream: How Well Do Self-Evolving LLM Agents Perform Under Streaming Tasks?
+
+### 2026-08-05: MemSFT: Mitigating Alignment Tax with an External Parametric Memory
+
+### 2026-08-05: Wnuan: Staged Post-Training for Question Answering over Proprietary Enterprise K
+
+### 2026-08-06: DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial P
+
+### 2026-08-06: Self-Evolving Coding Agents
+
+### 2026-08-06: ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assi
+
+### 2026-08-06: AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities
+
+### 2026-08-06: Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data
+
+### 2026-08-06: K-EXAONE 2.0 Technical Report
+
+### 2026-08-06: Distill Where You Fail: Recovering Learning Signals of Negative RL-Groups from A
+
+### 2026-08-06: BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Langua
+
+### 2026-08-06: WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World 
+
+### 2026-08-06: When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation
+
+### 2026-08-06: The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monit
+
+### 2026-08-06: Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horiz
+
+### 2026-08-06: SKILL-KD: Contrastive Skill Distillation for LLM Agents
+
+### 2026-08-06: ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation
+
+### 2026-08-06: Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Ear
+
+### 2026-08-06: Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Sele
+
+### 2026-08-06: HelloWorld: Enabling Socially Interactive Characters in Video World Models
+
+### 2026-08-06: OPD-V: Visual On-Policy Self-Distillation with Modality Balance
+
+### 2026-08-06: Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking
+
+### 2026-08-06: When Many Answers Are Valid, Voting Fails: Symbolic Verification for Best-of-K C
+
+### 2026-08-07: DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous 
+
+### 2026-08-07: Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulu
+
+### 2026-08-07: From Economic Agents to Agentic Economies: A Systems Blueprint for Economic Worl
+
+### 2026-08-07: ContextMaster: Interactive Multi-Shot Video Creation via Fixed-Budget Sparse Con
+
+### 2026-08-07: OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Re
+
+### 2026-08-07: EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinf
+
+### 2026-08-07: SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding
+
+### 2026-08-07: CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks
+
+### 2026-08-07: AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning
+
+### 2026-08-07: On-Policy Delta Distillation for Multilingual Math Reasoning
+
+### 2026-08-07: Recursive Synthesis for Long-Horizon Terminal Tasks
+
+### 2026-08-07: Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised Wor
+
+### 2026-08-08: GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splat
+
+### 2026-08-10: Relevant but Incomplete: Referential Dangling as a Paradigm-Level Failure Mode i
+
+### 2026-08-10: Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual
+
+### 2026-08-10: FATE: Frame-Level Audio-Visual Temporal Embedding
+
+### 2026-08-10: Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chun
+
+### 2026-08-10: OneEmo: A Unified Multimodal Reasoning Model for Emotion Perception, Understandi
+
+### 2026-08-10: Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence
+
+### 2026-08-10: Beyond Simply Environment Scaling: Designing Effective Environment Distributions
+
+### 2026-08-10: SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task L
+
+### 2026-08-10: Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning
+
+### 2026-08-10: YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family
+
+### 2026-08-10: When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Sel
+
+### 2026-08-10: SimWAM: A Simple World Action Model for End-to-End Autonomous Driving
+
+### 2026-08-10: The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, an
+
+### 2026-08-11: The Loss Does Not See the Basis, but Adam Does
+
+### 2026-08-11: WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaborat
+
+### 2026-08-11: Vision-Language Grounding as Bidirectional Concept Correspondence
+
+### 2026-08-11: What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conve
+
+### 2026-08-11: Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher
+
+### 2026-08-11: RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance
+
+### 2026-08-11: Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval
+
+### 2026-08-12: Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness
+
+### 2026-08-12: UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommendation Models
+
+### 2026-08-12: AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss
+
+### 2026-08-12: Reference-Free Post-Training of Open Large Language Models for Multilingual Mach
+
+### 2026-08-12: ComBodied Agents: a New Paradigm of Human-Centric Agentic AI
+
+### 2026-08-12: iFAN: Inference-Aware Learning for Plain Mask Transformers
+
+### 2026-08-12: SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discover
+
+### 2026-08-12: SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Pe
+
+### 2026-08-12: Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evo
+
+### 2026-08-12: The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents
+
+### 2026-08-12: On-Policy Self-Distillation without Any Supervision
+
+### 2026-08-12: Business Arena: Benchmarking LLM Agents in a Realistic Marketplace
+
+### 2026-08-12: MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation
+
+### 2026-08-12: Omega-S: A Functional Resilience Index for LLM Fine-Tuning
+
+### 2026-08-12: The Loss Does Not See the Basis, but Adam Does
+
+### 2026-08-12: WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaborat
+
+### 2026-08-12: Vision-Language Grounding as Bidirectional Concept Correspondence
+
+### 2026-08-12: What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conve
+
+### 2026-08-12: Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher
+
+### 2026-08-12: RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance
+
+### 2026-08-12: Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval
+
+### 2026-08-13: Parameter Exploration for RLVR via Variational Learning
+
+### 2026-08-13: Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Age
+
+### 2026-08-13: Self-Evolving Embodied Agents via Skill-Harness Evolution
+
+### 2026-08-13: AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses
+
+### 2026-08-13: From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-
+
+### 2026-08-13: StateFlow: Building, Evolving, and Accessing 3D World States for Previsualizatio
+
+### 2026-08-13: Agent Safety Should Be a Runtime Contract
+
+### 2026-08-13: ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignme
+
+### 2026-08-14: Context-Matched Distillation: Teacher Causality for Autoregressive Video Distill
+
+### 2026-08-14: Mitigating Gender Bias in English to Romanian Machine Translation
+
+### 2026-08-14: Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing
+
+### 2026-08-14: PixSDS: Why Latent SDS Makes Noisy Pixels
+
+### 2026-08-14: Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and 
+
+### 2026-08-14: Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning
+
+### 2026-08-14: SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in 
+
+### 2026-08-14: UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos
+
+### 2026-08-14: LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time
+
+### 2026-08-14: DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation
+
+### 2026-08-14: Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intellige
+
+### 2026-08-14: DarwinX: Evolving Agent Harnesses Through Natural Selection
+
+### 2026-08-14: Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attent
+
+### 2026-08-14: AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
+
+### 2026-08-14: LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-
+
+### 2026-08-14: Alaya-EVOKE: From Linear-Scaling Supervision to Endless World
+
+### 2026-08-14: How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in 
+
+### 2026-08-14: Intern-S2-Preview: Scientific Agentic Foundation Model
+
+### 2026-08-14: ReRound: Reconstructive Rounding to Resolve Midpoint Ambiguity in Calibration-Fr
+
+### 2026-08-17: Amplified Does Not Mean Predictive: Reasoning Behaviors in Thinking Models
+
+### 2026-08-17: Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi
+
+### 2026-08-17: A Pathway to General-Purpose Scientific AI: Multimodal Comprehension of Scientif
+
+### 2026-08-17: UNMASK: Discovering and Causally Verifying Spurious Shortcuts in Text Classifier
+
+### 2026-08-17: SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Rea
+
+### 2026-08-17: UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Mu
+
+### 2026-08-17: PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment
+
+### 2026-08-17: Multimodal Model Diffing for Feature Discovery and Control
+
+### 2026-08-17: CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Im
+
+### 2026-08-17: Verifier-Induced Support Reshaping in On-Policy Optimization
+
+### 2026-08-18: Valid Per-Field Selective Risk Control for Document Extraction: Three Failure Mo
+
+### 2026-08-18: Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respon
+
+### 2026-08-18: GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective 
+
+### 2026-08-18: WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Ri
+
+### 2026-08-18: Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting f
+
+### 2026-08-18: Drive, Pack, Fly: The Travelling Thief Problem with Drone
+
+### 2026-08-18: UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrati
+
+### 2026-08-18: Is this Citation on Point?
+- HF trending paper (arxiv: 2608.12571). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.12571]] | https://huggingface.co/papers/2608.12571
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15930). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.15930]] | https://huggingface.co/papers/2608.15930
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16435). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.16435]] | https://huggingface.co/papers/2608.16435
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16072). Keywords: reinforcement learning, dpo, policy optimization. Status: pending-review.
+- Source: [[papers/2608.16072]] | https://huggingface.co/papers/2608.16072
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15659). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.15659]] | https://huggingface.co/papers/2608.15659
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16328). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.16328]] | https://huggingface.co/papers/2608.16328
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14606). Keywords: bootstrap. Status: pending-review.
+- Source: [[papers/2608.14606]] | https://huggingface.co/papers/2608.14606
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14639). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.14639]] | https://huggingface.co/papers/2608.14639
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00220). Keywords: reinforcement learning, dpo, ppo, policy optimization. Status: pending-review.
+- Source: [[papers/2608.00220]] | https://huggingface.co/papers/2608.00220
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14546). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.14546]] | https://huggingface.co/papers/2608.14546
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09928). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.09928]] | https://huggingface.co/papers/2608.09928
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14284). Keywords: reward model, ppo. Status: pending-review.
+- Source: [[papers/2608.14284]] | https://huggingface.co/papers/2608.14284
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10835). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.10835]] | https://huggingface.co/papers/2608.10835
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14277). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.14277]] | https://huggingface.co/papers/2608.14277
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09209). Keywords: reward model. Status: pending-review.
+- Source: [[papers/2608.09209]] | https://huggingface.co/papers/2608.09209
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14075). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.14075]] | https://huggingface.co/papers/2608.14075
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03744). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.03744]] | https://huggingface.co/papers/2608.03744
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13760). Keywords: self-correction, alignment. Status: pending-review.
+- Source: [[papers/2608.13760]] | https://huggingface.co/papers/2608.13760
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11045). Keywords: dpo. Status: pending-review.
+- Source: [[papers/2608.11045]] | https://huggingface.co/papers/2608.11045
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13505). Keywords: reinforcement learning, ppo, distillation. Status: pending-review.
+- Source: [[papers/2608.13505]] | https://huggingface.co/papers/2608.13505
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08975). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.08975]] | https://huggingface.co/papers/2608.08975
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13546). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.13546]] | https://huggingface.co/papers/2608.13546
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12990). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.12990]] | https://huggingface.co/papers/2608.12990
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13560). Keywords: self-improvement, recursive self. Status: pending-review.
+- Source: [[papers/2608.13560]] | https://huggingface.co/papers/2608.13560
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12149). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.12149]] | https://huggingface.co/papers/2608.12149
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07545). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2608.07545]] | https://huggingface.co/papers/2608.07545
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12743). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.12743]] | https://huggingface.co/papers/2608.12743
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13489). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.13489]] | https://huggingface.co/papers/2608.13489
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11745). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.11745]] | https://huggingface.co/papers/2608.11745
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11752). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.11752]] | https://huggingface.co/papers/2608.11752
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10538). Keywords: reinforcement learning, ppo. Status: pending-review.
+- Source: [[papers/2608.10538]] | https://huggingface.co/papers/2608.10538
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.29211). Keywords: reinforcement learning, hindsight. Status: pending-review.
+- Source: [[papers/2607.29211]] | https://huggingface.co/papers/2607.29211
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13430). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.13430]] | https://huggingface.co/papers/2608.13430
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12997). Keywords: ppo, distillation. Status: pending-review.
+- Source: [[papers/2608.12997]] | https://huggingface.co/papers/2608.12997
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11660). Keywords: distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.11660]] | https://huggingface.co/papers/2608.11660
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08606). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.08606]] | https://huggingface.co/papers/2608.08606
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13391). Keywords: alignment, distillation. Status: pending-review.
+- Source: [[papers/2608.13391]] | https://huggingface.co/papers/2608.13391
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11878). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.11878]] | https://huggingface.co/papers/2608.11878
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11274). Keywords: constitutional ai, rlhf, dpo. Status: pending-review.
+- Source: [[papers/2608.11274]] | https://huggingface.co/papers/2608.11274
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12314). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.12314]] | https://huggingface.co/papers/2608.12314
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11562). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.11562]] | https://huggingface.co/papers/2608.11562
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12307). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.12307]] | https://huggingface.co/papers/2608.12307
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11350). Keywords: reinforcement learning, self-evolving. Status: pending-review.
+- Source: [[papers/2608.11350]] | https://huggingface.co/papers/2608.11350
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12123). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.12123]] | https://huggingface.co/papers/2608.12123
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09805). Keywords: reinforcement learning, grpo, policy optimization, rlvr. Status: pending-review.
+- Source: [[papers/2608.09805]] | https://huggingface.co/papers/2608.09805
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06614). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.06614]] | https://huggingface.co/papers/2608.06614
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09853). Keywords: reward model. Status: pending-review.
+- Source: [[papers/2608.09853]] | https://huggingface.co/papers/2608.09853
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07169). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.07169]] | https://huggingface.co/papers/2608.07169
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07565). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.07565]] | https://huggingface.co/papers/2608.07565
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07886). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.07886]] | https://huggingface.co/papers/2608.07886
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03499). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.03499]] | https://huggingface.co/papers/2608.03499
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05136). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.05136]] | https://huggingface.co/papers/2608.05136
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03887). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.03887]] | https://huggingface.co/papers/2608.03887
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07463). Keywords: alignment, distillation. Status: pending-review.
+- Source: [[papers/2608.07463]] | https://huggingface.co/papers/2608.07463
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08621). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.08621]] | https://huggingface.co/papers/2608.08621
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06296). Keywords: grpo, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.06296]] | https://huggingface.co/papers/2608.06296
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06065). Keywords: grpo, hindsight, distillation. Status: pending-review.
+- Source: [[papers/2608.06065]] | https://huggingface.co/papers/2608.06065
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07645). Keywords: recursive self. Status: pending-review.
+- Source: [[papers/2608.07645]] | https://huggingface.co/papers/2608.07645
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10692). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.10692]] | https://huggingface.co/papers/2608.10692
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11079). Keywords: self-evolving, ppo. Status: pending-review.
+- Source: [[papers/2608.11079]] | https://huggingface.co/papers/2608.11079
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03216). Keywords: distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.03216]] | https://huggingface.co/papers/2608.03216
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10915). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.10915]] | https://huggingface.co/papers/2608.10915
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10812). Keywords: reinforcement learning, grpo, policy optimization, distillation. Status: pending-review.
+- Source: [[papers/2608.10812]] | https://huggingface.co/papers/2608.10812
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11205). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.11205]] | https://huggingface.co/papers/2608.11205
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08627). Keywords: dpo. Status: pending-review.
+- Source: [[papers/2608.08627]] | https://huggingface.co/papers/2608.08627
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09900). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.09900]] | https://huggingface.co/papers/2608.09900
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06614). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.06614]] | https://huggingface.co/papers/2608.06614
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09853). Keywords: reward model. Status: pending-review.
+- Source: [[papers/2608.09853]] | https://huggingface.co/papers/2608.09853
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07169). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.07169]] | https://huggingface.co/papers/2608.07169
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07565). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.07565]] | https://huggingface.co/papers/2608.07565
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07886). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.07886]] | https://huggingface.co/papers/2608.07886
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03499). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.03499]] | https://huggingface.co/papers/2608.03499
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05136). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.05136]] | https://huggingface.co/papers/2608.05136
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06714). Keywords: agent loop. Status: pending-review.
+- Source: [[papers/2608.06714]] | https://huggingface.co/papers/2608.06714
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07468). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.07468]] | https://huggingface.co/papers/2608.07468
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05219). Keywords: ppo, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.05219]] | https://huggingface.co/papers/2608.05219
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07051). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.07051]] | https://huggingface.co/papers/2608.07051
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02831). Keywords: reinforcement learning, self-evolving, verifiable reward. Status: pending-review.
+- Source: [[papers/2608.02831]] | https://huggingface.co/papers/2608.02831
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03573). Keywords: reinforcement learning, policy optimization. Status: pending-review.
+- Source: [[papers/2608.03573]] | https://huggingface.co/papers/2608.03573
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03571). Keywords: curriculum learning. Status: pending-review.
+- Source: [[papers/2608.03571]] | https://huggingface.co/papers/2608.03571
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06756). Keywords: reinforcement learning, verifiable reward, distillation. Status: pending-review.
+- Source: [[papers/2608.06756]] | https://huggingface.co/papers/2608.06756
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06013). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.06013]] | https://huggingface.co/papers/2608.06013
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03796). Keywords: ppo, distillation. Status: pending-review.
+- Source: [[papers/2608.03796]] | https://huggingface.co/papers/2608.03796
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01310). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.01310]] | https://huggingface.co/papers/2608.01310
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04314). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.04314]] | https://huggingface.co/papers/2608.04314
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04569). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.04569]] | https://huggingface.co/papers/2608.04569
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01492). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.01492]] | https://huggingface.co/papers/2608.01492
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04378). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.04378]] | https://huggingface.co/papers/2608.04378
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05466). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.05466]] | https://huggingface.co/papers/2608.05466
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05802). Keywords: reinforcement learning, distillation. Status: pending-review.
+- Source: [[papers/2608.05802]] | https://huggingface.co/papers/2608.05802
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05987). Keywords: reinforcement learning, recursive self, grpo, policy optimization. Status: pending-review.
+- Source: [[papers/2608.05987]] | https://huggingface.co/papers/2608.05987
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06352). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.06352]] | https://huggingface.co/papers/2608.06352
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05137). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.05137]] | https://huggingface.co/papers/2608.05137
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06197). Keywords: reinforcement learning, ppo. Status: pending-review.
+- Source: [[papers/2608.06197]] | https://huggingface.co/papers/2608.06197
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28609). Keywords: reinforcement learning, reward model, alignment. Status: pending-review.
+- Source: [[papers/2607.28609]] | https://huggingface.co/papers/2607.28609
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04956). Keywords: ppo, distillation. Status: pending-review.
+- Source: [[papers/2608.04956]] | https://huggingface.co/papers/2608.04956
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06020). Keywords: self-evolving, alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.06020]] | https://huggingface.co/papers/2608.06020
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01481). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.01481]] | https://huggingface.co/papers/2608.01481
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03451). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.03451]] | https://huggingface.co/papers/2608.03451
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03506). Keywords: reward model. Status: pending-review.
+- Source: [[papers/2608.03506]] | https://huggingface.co/papers/2608.03506
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.00482). Keywords: self-correction, grpo. Status: pending-review.
+- Source: [[papers/2607.00482]] | https://huggingface.co/papers/2607.00482
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05131). Keywords: distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.05131]] | https://huggingface.co/papers/2608.05131
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05070). Keywords: ppo, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.05070]] | https://huggingface.co/papers/2608.05070
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04349). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.04349]] | https://huggingface.co/papers/2608.04349
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05000). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.05000]] | https://huggingface.co/papers/2608.05000
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04436). Keywords: reinforcement learning, grpo. Status: pending-review.
+- Source: [[papers/2608.04436]] | https://huggingface.co/papers/2608.04436
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28048). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2607.28048]] | https://huggingface.co/papers/2607.28048
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05139). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.05139]] | https://huggingface.co/papers/2608.05139
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04570). Keywords: ppo, bootstrap. Status: pending-review.
+- Source: [[papers/2608.04570]] | https://huggingface.co/papers/2608.04570
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03632). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.03632]] | https://huggingface.co/papers/2608.03632
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04964). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.04964]] | https://huggingface.co/papers/2608.04964
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05042). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.05042]] | https://huggingface.co/papers/2608.05042
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00782). Keywords: reinforcement learning, grpo, policy optimization, verifiable reward. Status: pending-review.
+- Source: [[papers/2608.00782]] | https://huggingface.co/papers/2608.00782
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04505). Keywords: dpo, ppo. Status: pending-review.
+- Source: [[papers/2608.04505]] | https://huggingface.co/papers/2608.04505
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02580). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.02580]] | https://huggingface.co/papers/2608.02580
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.24821). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2607.24821]] | https://huggingface.co/papers/2607.24821
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05102). Keywords: reinforcement learning, grpo. Status: pending-review.
+- Source: [[papers/2608.05102]] | https://huggingface.co/papers/2608.05102
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03392). Keywords: self-evolving. Status: pending-review.
+- Source: [[papers/2608.03392]] | https://huggingface.co/papers/2608.03392
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03207). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.03207]] | https://huggingface.co/papers/2608.03207
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01862). Keywords: reinforcement learning, bootstrap. Status: pending-review.
+- Source: [[papers/2608.01862]] | https://huggingface.co/papers/2608.01862
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.25614). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2607.25614]] | https://huggingface.co/papers/2607.25614
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00155). Keywords: self-evolving. Status: pending-review.
+- Source: [[papers/2608.00155]] | https://huggingface.co/papers/2608.00155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02437). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.02437]] | https://huggingface.co/papers/2608.02437
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03316). Keywords: ppo, distillation. Status: pending-review.
+- Source: [[papers/2608.03316]] | https://huggingface.co/papers/2608.03316
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02392). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.02392]] | https://huggingface.co/papers/2608.02392
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03971). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.03971]] | https://huggingface.co/papers/2608.03971
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03509). Keywords: self-evolving. Status: pending-review.
+- Source: [[papers/2608.03509]] | https://huggingface.co/papers/2608.03509
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02711). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.02711]] | https://huggingface.co/papers/2608.02711
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03974). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.03974]] | https://huggingface.co/papers/2608.03974
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04007). Keywords: reinforcement learning, hindsight, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.04007]] | https://huggingface.co/papers/2608.04007
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02589). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.02589]] | https://huggingface.co/papers/2608.02589
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01837). Keywords: reinforcement learning, grpo, ppo, distillation. Status: pending-review.
+- Source: [[papers/2608.01837]] | https://huggingface.co/papers/2608.01837
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04003). Keywords: self-improvement, agent loop, recursive self, ppo. Status: pending-review.
+- Source: [[papers/2608.04003]] | https://huggingface.co/papers/2608.04003
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03979). Keywords: grpo, policy optimization. Status: pending-review.
+- Source: [[papers/2608.03979]] | https://huggingface.co/papers/2608.03979
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03700). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.03700]] | https://huggingface.co/papers/2608.03700
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03874). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.03874]] | https://huggingface.co/papers/2608.03874
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01127). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.01127]] | https://huggingface.co/papers/2608.01127
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01247). Keywords: distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.01247]] | https://huggingface.co/papers/2608.01247
+- Confidence: Low (auto-matched, not yet reviewed)
+- Source: [[memory-tier-system.md]]
+- Confidence: Medium
+07.28675]] | https://huggingface.co/papers/2607.28675
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.29025). Keywords: reinforcement learning, reward model. Status: pending-review.
+- Source: [[papers/2607.29025]] | https://huggingface.co/papers/2607.29025
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.18082). Keywords: policy optimization, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2607.18082]] | https://huggingface.co/papers/2607.18082
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28996). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.28996]] | https://huggingface.co/papers/2607.28996
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28443). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.28443]] | https://huggingface.co/papers/2607.28443
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.15820). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.15820]] | https://huggingface.co/papers/2607.15820
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.27888). Keywords: reinforcement learning, grpo, ppo, verifiable reward. Status: pending-review.
+- Source: [[papers/2607.27888]] | https://huggingface.co/papers/2607.27888
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.26991). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2607.26991]] | https://huggingface.co/papers/2607.26991
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.29209). Keywords: reinforcement learning, grpo, verifiable reward, rlvr. Status: pending-review.
+- Source: [[papers/2607.29209]] | https://huggingface.co/papers/2607.29209
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.27851). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2607.27851]] | https://huggingface.co/papers/2607.27851
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.21461). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2607.21461]] | https://huggingface.co/papers/2607.21461
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.13104). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2607.13104]] | https://huggingface.co/papers/2607.13104
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.12625). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2607.12625]] | https://huggingface.co/papers/2607.12625
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.05382). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2607.05382]] | https://huggingface.co/papers/2607.05382
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.29315). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2606.29315]] | https://huggingface.co/papers/2606.29315
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.32017). Keywords: reinforcement learning agent. Status: pending-review.
+- Source: [[papers/2606.32017]] | https://huggingface.co/papers/2606.32017
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.19980). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2606.19980]] | https://huggingface.co/papers/2606.19980
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2604.18401). Keywords: reinforcement learning agent. Status: pending-review.
+- Source: [[papers/2604.18401]] | https://huggingface.co/papers/2604.18401
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.14502). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2606.14502]] | https://huggingface.co/papers/2606.14502
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2605.28742). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2605.28742]] | https://huggingface.co/papers/2605.28742
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.04455). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2606.04455]] | https://huggingface.co/papers/2606.04455
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.01770). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2606.01770]] | https://huggingface.co/papers/2606.01770
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.03979). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2606.03979]] | https://huggingface.co/papers/2606.03979
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2605.28805). Keywords: self-correction. Status: pending-review.
+- Source: [[papers/2605.28805]] | https://huggingface.co/papers/2605.28805
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2605.24517). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2605.24517]] | https://huggingface.co/papers/2605.24517
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2605.15871). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2605.15871]] | https://huggingface.co/papers/2605.15871
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2605.09959). Keywords: self-improvement, self-play. Status: pending-review.
+- Source: [[papers/2605.09959]] | https://huggingface.co/papers/2605.09959
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2605.03042). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2605.03042]] | https://huggingface.co/papers/2605.03042
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2604.28181). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2604.28181]] | https://huggingface.co/papers/2604.28181
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2604.05336). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2604.05336]] | https://huggingface.co/papers/2604.05336
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2603.06333). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2603.06333]] | https://huggingface.co/papers/2603.06333
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2602.21320). Keywords: self-play. Status: pending-review.
+- Source: [[papers/2602.21320]] | https://huggingface.co/papers/2602.21320
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2602.09877). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2602.09877]] | https://huggingface.co/papers/2602.09877
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2602.10604). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2602.10604]] | https://huggingface.co/papers/2602.10604
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2602.06130). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2602.06130]] | https://huggingface.co/papers/2602.06130
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2602.02751). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2602.02751]] | https://huggingface.co/papers/2602.02751
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2602.03798). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2602.03798]] | https://huggingface.co/papers/2602.03798
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2601.18778). Keywords: self-improvement, self-play. Status: pending-review.
+- Source: [[papers/2601.18778]] | https://huggingface.co/papers/2601.18778
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2601.15690). Keywords: self-improvement, self-correction. Status: pending-review.
+- Source: [[papers/2601.15690]] | https://huggingface.co/papers/2601.15690
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2601.02075). Keywords: self-correction. Status: pending-review.
+- Source: [[papers/2601.02075]] | https://huggingface.co/papers/2601.02075
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2512.17102). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2512.17102]] | https://huggingface.co/papers/2512.17102
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2512.04797). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2512.04797]] | https://huggingface.co/papers/2512.04797
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2511.09515). Keywords: self-correction. Status: pending-review.
+- Source: [[papers/2511.09515]] | https://huggingface.co/papers/2511.09515
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2511.03773). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2511.03773]] | https://huggingface.co/papers/2511.03773
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2510.24684). Keywords: self-improvement, self-play. Status: pending-review.
+- Source: [[papers/2510.24684]] | https://huggingface.co/papers/2510.24684
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2510.07841). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2510.07841]] | https://huggingface.co/papers/2510.07841
+- Confidence: Low (auto-matched, not yet reviewed)
+  Academic P
+- HF trending paper (arxiv: 2510.05571). Keywords: self-improvement, self-correction. Status: pending-review.
+- Source: [[papers/2510.05571]] | https://huggingface.co/papers/2510.05571
+- Confidence: Low (auto-matched, not yet reviewed)
+  Synthesi
+- HF trending paper (arxiv: 2509.24107). Keywords: self-play. Status: pending-review.
+- Source: [[papers/2509.24107]] | https://huggingface.co/papers/2509.24107
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.21653). Keywords: reinforcement learning agent. Status: pending-review.
+- Source: [[papers/2607.21653]] | https://huggingface.co/papers/2607.21653
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.20709). Keywords: agent loop. Status: pending-review.
+- Source: [[papers/2607.20709]] | https://huggingface.co/papers/2607.20709
+- Confidence: Low (auto-matched, not yet reviewed)
+  Self-Play
+- HF trending paper (arxiv: 2509.25541). Keywords: self-improvement, self-play. Status: pending-review.
+- Source: [[papers/2509.25541]] | https://huggingface.co/papers/2509.25541
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.21461). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2607.21461]] | https://huggingface.co/papers/2607.21461
+- Confidence: Low (auto-matched, not yet reviewed)
+  Feedba
+- HF trending paper (arxiv: 2509.22644). Keywords: reinforcement learning agent. Status: pending-review.
+- Source: [[papers/2509.22644]] | https://huggingface.co/papers/2509.22644
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.10966). Keywords: self-correction. Status: pending-review.
+- Source: [[papers/2607.10966]] | https://huggingface.co/papers/2607.10966
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.13104). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2607.13104]] | https://huggingface.co/papers/2607.13104
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2509.04575). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2509.04575]] | https://huggingface.co/papers/2509.04575
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.12625). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2607.12625]] | https://huggingface.co/papers/2607.12625
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2509.02547). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2509.02547]] | https://huggingface.co/papers/2509.02547
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.05382). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2607.05382]] | https://huggingface.co/papers/2607.05382
+- Confidence: Low (auto-matched, not yet reviewed)
+  Multi-Agent Mul
+- HF trending paper (arxiv: 2506.24119). Keywords: self-play. Status: pending-review.
+- Source: [[papers/2506.24119]] | https://huggingface.co/papers/2506.24119
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.29315). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2606.29315]] | https://huggingface.co/papers/2606.29315
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.32017). Keywords: reinforcement learning agent. Status: pending-review.
+- Source: [[papers/2606.32017]] | https://huggingface.co/papers/2606.32017
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.26115). Keywords: self-improvement, self-play. Status: pending-review.
+- Source: [[papers/2607.26115]] | https://huggingface.co/papers/2607.26115
+- Confidence: Low (auto-matched, not yet reviewed)
+- 66 leaked system prompts show convergent evolution: dynamic tool discovery (Anthropic + Hermes independently), mandatory skills pre-read, prompt as product spec. Validates skill-based self-improvement as industry-standard pattern.
+- Source: [[wiki/sources/cl4r1t4s-leaked-system-prompts]]
+- Confidence: High
+
+### 2026-08-19: Scaffold compression via causal masking — E2-Explainer (arXiv:2608.12921)
+
+### 2026-08-19: V-RAE: Rethinking Video Latent Spaces for Generation
+
+### 2026-08-19: Demystifying Agent Skills: Why They Work-Until They Don't
+
+### 2026-08-19: Cross-Model Memory Transfer via Target-Side Reader Adaptation
+
+### 2026-08-19: CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Gu
+
+### 2026-08-19: MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Ve
+
+### 2026-08-19: Agent Lightning v1.0: Towards Harnessed Agentic RL
+
+### 2026-08-19: FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution
+
+### 2026-08-19: Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation
+
+### 2026-08-19: Energy-Guided Flow Matching
+
+### 2026-08-19: Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Ind
+
+### 2026-08-19: From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents
+
+### 2026-08-19: Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements
+
+### 2026-08-20: SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents
+
+### 2026-08-20: The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning
+
+### 2026-08-20: Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL
+
+### 2026-08-20: Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical In
+
+### 2026-08-20: Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditi
+
+### 2026-08-20: FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents
+
+### 2026-08-20: SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution
+
+### 2026-08-20: LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents
+- HF trending paper (arxiv: 2608.17393). Keywords: reinforcement learning, alignment. Status: pending-review.
+- Source: [[papers/2608.17393]] | https://huggingface.co/papers/2608.17393
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18933). Keywords: self-evolving, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.18933]] | https://huggingface.co/papers/2608.18933
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18423). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.18423]] | https://huggingface.co/papers/2608.18423
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18746). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.18746]] | https://huggingface.co/papers/2608.18746
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16590). Keywords: self-evolving. Status: pending-review.
+- Source: [[papers/2608.16590]] | https://huggingface.co/papers/2608.16590
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17253). Keywords: reinforcement learning, verifiable reward. Status: pending-review.
+- Source: [[papers/2608.17253]] | https://huggingface.co/papers/2608.17253
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14229). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.14229]] | https://huggingface.co/papers/2608.14229
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18852). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.18852]] | https://huggingface.co/papers/2608.18852
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17310). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.17310]] | https://huggingface.co/papers/2608.17310
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16002). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.16002]] | https://huggingface.co/papers/2608.16002
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16393). Keywords: agent loop. Status: pending-review.
+- Source: [[papers/2608.16393]] | https://huggingface.co/papers/2608.16393
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05811). Keywords: dpo. Status: pending-review.
+- Source: [[papers/2608.05811]] | https://huggingface.co/papers/2608.05811
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17512). Keywords: alignment, grpo, policy optimization. Status: pending-review.
+- Source: [[papers/2608.17512]] | https://huggingface.co/papers/2608.17512
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16157). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.16157]] | https://huggingface.co/papers/2608.16157
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17528). Keywords: dpo, ppo. Status: pending-review.
+- Source: [[papers/2608.17528]] | https://huggingface.co/papers/2608.17528
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14221). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.14221]] | https://huggingface.co/papers/2608.14221
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17566). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.17566]] | https://huggingface.co/papers/2608.17566
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17050). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.17050]] | https://huggingface.co/papers/2608.17050
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14036). Keywords: self-evolving. Status: pending-review.
+- Source: [[papers/2608.14036]] | https://huggingface.co/papers/2608.14036
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13556). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.13556]] | https://huggingface.co/papers/2608.13556
+- Confidence: Low (auto-matched, not yet reviewed)
+- Granger-style edge masking identifies minimal communication subgraphs that preserve task outcome; pruning them cuts communication cost at competitive performance — scaffold optimization by intervention rather than observation, with an amortized explainer distilled for cheap post-hoc topology selection.
+- Source: [[papers/e2-explainer-mas-topologies]]
+- Confidence: High

@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 title: Principles---ray-dalio
 description: "Principles---ray-dalio"
 created: 2026-06-10

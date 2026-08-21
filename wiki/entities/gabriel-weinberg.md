@@ -14,6 +14,11 @@ sources:
 - super-thinking
 - Gabriel Weinberg
 related: [super-thinking-gabriel-weinberg, mental-models, bayesian-thinking, cognitive-biases-library, mental-model-library]
+dates:
+  - date: "2008-09-25"
+    event: "Founded DuckDuckGo"
+  - date: "2019-06-04"
+    event: "Published Super Thinking"
 ---
 # Gabriel Weinberg
 
@@ -32,3 +37,8 @@ The book is organized into seven parts for improving decision-making across doma
 - **Part VII: Learning/Growth** — Growth Mindset, Feynman Technique, Spaced Repetition, Deliberate Practice, Dunning-Kruger Effect
 
 His work connects closely to [[daniel-kahneman]] and [[gary-klein]]'s perspectives on decision-making, and extends the [[cognitive-biases-library]] with practical application frameworks. It is part of the broader mental model ecosystem including [[mental-model-library]].
+
+## Timeline
+
+**2008-09-25** | Founded DuckDuckGo
+**2019-06-04** | Published Super Thinking

@@ -1794,3 +1794,13 @@ ingest | Memory Tiering
 - Created `entities/scrapegraphai.md` — LLM-powered extraction backend (Ollama gemma4)
 - Updated `entities/hermes-agent.md` — added Web Extraction section, architectural change note, new cross-links
 - Architectural change: Crawl4AI + ScrapeGraphAI added as extract-only backends, eliminating Firecrawl credit dependency for web_extract
+
+## [2026-07-15] create | Domain Masters & Learning Loop Architecture
+- Created `concepts/documentation-master.md` — Documentation curation and maintenance layer
+- Created `concepts/decision-master.md` — Decision-making and governance layer
+- Created `concepts/productivity-master.md` — Workflow optimization and leverage layer
+- Created `concepts/learning-loop.md` — Three-tier improvement loop (Execution/Harness/Meta)
+- Extended `concepts/knowledge-master.md` — Replaced stub with full knowledge lifecycle architecture
+- Created `concepts/self-health-loop.md` — Autonomous system health monitoring and repair tiers
+- Created `concepts/p6-hermes-architecture-layers-domain-masters.md` — NotebookLM source document
+- Updated `wiki/index.md` — Added Domain Masters section with architecture extensions

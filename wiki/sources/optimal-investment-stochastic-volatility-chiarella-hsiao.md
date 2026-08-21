@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: source
 title: "Optimal Investment Strategies under Stochastic Volatility – Estimation and Applications"
 authors: "Carl Chiarella and Chih-Ying Hsiao"

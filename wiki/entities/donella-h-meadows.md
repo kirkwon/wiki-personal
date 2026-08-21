@@ -13,7 +13,17 @@ tags:
 sources:
 - thinking-in-systems
 - Donella H. Meadows
-related: [thinking-in-systems---donella-h-meadows, systems-thinking, leverage-points, feedback-loops, limits-to-growth, world3-model, planetary-boundaries, sustainability-frameworks]
+related: [thinking-in-systems
+dates:
+  - date: "1972-01-01"
+    event: "Co-authored The Limits to Growth"
+  - date: "2001-02-21"
+    event: "Died"
+  - date: "2004-06-01"
+    event: "Published Limits to Growth: The 30-Year Update (posthumous)"
+  - date: "2008-01-01"
+    event: "Published Thinking in Systems (posthumous)"
+---donella-h-meadows, systems-thinking, leverage-points, feedback-loops, limits-to-growth, world3-model, planetary-boundaries, sustainability-frameworks]
 ---
 # Donella H. Meadows
 
@@ -32,3 +42,10 @@ Donella H. Meadows was a scientist, systems theorist, and author best known for 
 ## Core Ideas
 
 Meadows emphasized feedback loops, delays, and nonlinear relationships as fundamental to how complex systems operate. She highlighted emergent properties and the importance of understanding these dynamics when addressing global challenges such as resource constraints and carrying capacity. Her later book *Thinking in Systems* distills decades of research into accessible frameworks for understanding interconnected systems.
+
+## Timeline
+
+**1972-01-01** | Co-authored The Limits to Growth
+**2001-02-21** | Died
+**2004-06-01** | Published Limits to Growth: The 30-Year Update (posthumous)
+**2008-01-01** | Published Thinking in Systems (posthumous)

@@ -16,7 +16,13 @@ tags:
 sources:
 - the-great-mental-models-vol-1
 - Shane Parrish
-related: [the-great-mental-models-shane-parrish, decision-making-frameworks, cognitive-biases-library, clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish, the-art-of-asking-questions, managing-emotions-for-clarity, clear-thinking---shane-parrish, mental-models, systematic-decision-making, the-great-mental-models-vol-1-shane-parrish, innovation-mental-model, techniques, clear-thinking, clarity-mental-model, the-great-mental-models---shane-parrish, thinking-mental-model]
+related: [the-great-mental-models-shane-parrish, decision-making-frameworks, cognitive-biases-library, clear-thinking-turning-ordinary-moments-into-extraordinary-results
+dates:
+  - date: "2019-06-04"
+    event: "Published The Great Mental Models (Vol. 1)"
+  - date: "2023-10-17"
+    event: "Published Clear Thinking"
+---shane-parrish, the-art-of-asking-questions, managing-emotions-for-clarity, clear-thinking---shane-parrish, mental-models, systematic-decision-making, the-great-mental-models-vol-1-shane-parrish, innovation-mental-model, techniques, clear-thinking, clarity-mental-model, the-great-mental-models---shane-parrish, thinking-mental-model]
 ---
 # Shane Parrish
 
@@ -61,3 +67,8 @@ Parrish's framework aligns with the [[processes]] mental model by emphasizing th
 *The Great Mental Models (Vol. 1)* and *Clear Thinking: Turning Ordinary Moments into Extraordinary Results*, 2024
 ^[raw/articles/the-great-mental-models-vol-1---shane-parrish.md]
 ^[raw/articles/clear-thinking-turning-ordinary-moments-into-extraordinary-results---shane-parrish.md]
+
+## Timeline
+
+**2019-06-04** | Published The Great Mental Models (Vol. 1)
+**2023-10-17** | Published Clear Thinking

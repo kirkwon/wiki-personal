@@ -11,6 +11,19 @@ tags:
 sources:
 - raw/books/thinking-fast-and-slow"
 - Amos Tversky
+dates:
+  - date: "1937-03-16"
+    event: "Born"
+  - date: "1974-01-01"
+    event: "Published Judgment Under Uncertainty: Heuristics and Biases with Kahneman"
+  - date: "1979-01-01"
+    event: "Published Prospect Theory with Kahneman"
+  - date: "1992-01-01"
+    event: "Published Advances in Prospect Theory with Kahneman"
+  - date: "1996-06-02"
+    event: "Died"
+  - date: "2002-10-09"
+    event: "Kahneman awarded Nobel Prize — Tversky recognized posthumously"
 ---
 -daniel-kahneman.md]
 confidence: high
@@ -51,3 +64,11 @@ Although he died before the Nobel Prize was awarded to [[daniel-kahneman]] in 20
 ## Sources
 
 - [[raw/books/thinking-fast-and-slow---daniel-kahneman.md]]
+
+## Timeline
+
+**1937-03-16** | Born
+**1974-01-01** | Published Judgment Under Uncertainty with Kahneman
+**1979-01-01** | Published Prospect Theory with Kahneman
+**1996-06-02** | Died
+**2002-10-09** | Kahneman awarded Nobel Prize — Tversky recognized posthumously

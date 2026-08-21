@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: concept
 tags: [autoresearch, karpathy, experiment-loop, ml-training, nanoGPT]
 related: [awesome-autoresearch, autoresearch-pattern, nanoGPT, experiment-loop]

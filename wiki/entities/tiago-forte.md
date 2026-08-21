@@ -13,7 +13,13 @@ tags:
 sources:
 - building-a-second-brain
 - Tiago Forte
-related: ["building-a-second-brain---tiago-forte", "second-brain", "para-method", "the-para-method", "personal-knowledge-vault", "how-to-take-smart-notes---snke-ahrens", "getting-things-done---david-allen", "the-para-method-simplify-organize-and-master-your-digital-life---tiago-forte", "forte-mental-model", "para", "personal-knowledge-vault-readme", "tools", "the-4-hour-workweek---timothy-ferriss", "thinking-mental-model"]
+related: ["building-a-second-brain
+dates:
+  - date: "2022-06-14"
+    event: "Published Building a Second Brain"
+  - date: "2023-04-25"
+    event: "Published The PARA Method"
+---tiago-forte", "second-brain", "para-method", "the-para-method", "personal-knowledge-vault", "how-to-take-smart-notes---snke-ahrens", "getting-things-done---david-allen", "the-para-method-simplify-organize-and-master-your-digital-life---tiago-forte", "forte-mental-model", "para", "personal-knowledge-vault-readme", "tools", "the-4-hour-workweek---timothy-ferriss", "thinking-mental-model"]
 ---
 # Tiago Forte
 
@@ -47,3 +53,8 @@ Tiago Forte's work connects to [[personal-knowledge-vault]] and [[personal-knowl
 ## Relationship to Other Thinkers
 
 His work connects to [[david-allen]]'s Getting Things Done and [[s-nke-ahrens]]' How to Take Smart Notes, offering a complementary organizational taxonomy that emphasizes action-oriented categorization.
+
+## Timeline
+
+**2022-06-14** | Published Building a Second Brain
+**2023-04-25** | Published The PARA Method

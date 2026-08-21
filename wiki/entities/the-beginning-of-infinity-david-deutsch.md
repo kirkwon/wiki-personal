@@ -27,6 +27,9 @@ related:
 - explanatory-power-analysis
 - knowledge-mental-model
 - idea-mental-model
+dates:
+  - date: "2011-03-31"
+    event: "Published"
 ---
 --
 # The Beginning of Infinity
@@ -50,3 +53,7 @@ The book provides philosophical grounding for the induction mental model, framin
 ## Relevance to Productivity
 
 The book provides the epistemological foundation for error-correction mechanisms as a practical skill, framing systematic improvement of workflows and decisions as a direct application of Deutsch's theory of knowledge creation. Deutsch's concept of explanatory power has been adapted as a productivity skill—[[explanatory-power-analysis]]—where the practice of auditing workflows and identifying high-impact methods mirrors the epistemological process of evaluating and refining explanations.
+
+## Timeline
+
+**2011-03-31** | Published

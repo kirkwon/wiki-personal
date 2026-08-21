@@ -1,4 +1,6 @@
 ---
+date: 2026-06-29
+
 type: synthesis
 tags: [autoresearch, evaluation, red-teaming, benchmarking, security]
 related: [awesome-autoresearch, autoresearch-pattern]

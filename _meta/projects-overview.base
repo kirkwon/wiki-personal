@@ -1,0 +1,48 @@
+filters:
+  and:
+    - file.inFolder("projects")
+    - file.name != "TEMPLATE"
+    - file.name != "DASHBOARD"
+properties:
+  file.name:
+    displayName: Project
+  note.title:
+    displayName: Title
+  note.status:
+    displayName: Status
+  note.priority:
+    displayName: Priority
+  note.updated:
+    displayName: Updated
+formulas:
+  days_stale: "floor((now() - note.updated) / 86400000)"
+views:
+  - type: table
+    name: Active Projects
+    filters:
+      and:
+        - note.status == "active"
+    order:
+      - file.name
+      - priority
+      - updated
+      - formula.days_stale
+  - type: cards
+    name: Active Cards
+    filters:
+      and:
+        - note.status == "active"
+    order:
+      - file.name
+      - priority
+      - updated
+  - type: table
+    name: All Projects by Status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - priority
+      - updated
+      - formula.days_stale

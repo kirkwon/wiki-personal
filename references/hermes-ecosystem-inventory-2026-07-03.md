@@ -1,3 +1,11 @@
+---
+type: reference
+title: "Hermes Skill Ecosystem — Complete Inventory"
+created: 2026-07-03
+updated: 2026-07-03
+tags: [hermes, skills, ecosystem, inventory]
+---
+
 # Hermes Skill Ecosystem — Complete Inventory
 
 > Generated 2026-07-03

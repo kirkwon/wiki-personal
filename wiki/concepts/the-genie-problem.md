@@ -1,4 +1,6 @@
 ---
+date: 2026-06-16
+
 type: concept
 title: The Genie Problem
 description: "The Genie Problem is a framing concept from [[the-alignment-problem---brian-christian-tom-griffiths]] describing the challenge of intractable computation — the idea that even well-intentioned AI syste."

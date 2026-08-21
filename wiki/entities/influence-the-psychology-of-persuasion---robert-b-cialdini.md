@@ -20,7 +20,15 @@ related:
 - cognitive-biases-library
 - robert-b-cialdini
 - persuasion
-- thinking-fast-and-slow ---daniel-kahneman
+- thinking-fast-and-slow
+dates:
+  - date: "1984-01-01"
+    event: "First published"
+  - date: "2006-01-01"
+    event: "Revised edition published"
+  - date: "2016-01-01"
+    event: "New and updated edition"
+---daniel-kahneman
 ---
 -
 # Influence: The Psychology of Persuasion
@@ -54,3 +62,9 @@ Cialdini's work provides the source material for the Situations mental model, wh
 - [[robert-b-cialdini]]
 - [[persuasion]]
 - [[thinking-fast-and-slow---daniel-kahneman]]
+
+## Timeline
+
+**1984-01-01** | First published
+**2006-01-01** | Revised edition
+**2016-01-01** | New and updated edition

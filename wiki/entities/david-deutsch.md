@@ -8,7 +8,13 @@ created: 2026-04-17
 updated: 2026-04-17
 tags: ['person', 'physicist', 'philosopher', 'author', 'philosophy', 'science', 'epistemology', 'physics', 'cognitive-science', 'philosophy-of-science']
 related: ["the-beginning-of-infinity"]
-
+dates:
+  - date: "1985-01-01"
+    event: "Published paper formalizing universal quantum computer"
+  - date: "1997-01-01"
+    event: "Published The Fabric of Reality"
+  - date: "2011-03-31"
+    event: "Published The Beginning of Infinity"
 ---
 # David Deutsch
 
@@ -33,3 +39,9 @@ Deutsch's work connects to [[thinking-mental-model]], [[ideas-mental-model]], [[
 - *The Beginning of Infinity* (2011)
 - Related to [[the-most-human-human---brian-christian-tom-griffiths]] on creativity and AI
 - Related to [[algorithms-to-live-by---brian-christian-tom-griffiths]] on optimization and knowledge growth
+
+## Timeline
+
+**1985-01-01** | Published paper formalizing universal quantum computer
+**1997-01-01** | Published The Fabric of Reality
+**2011-03-31** | Published The Beginning of Infinity

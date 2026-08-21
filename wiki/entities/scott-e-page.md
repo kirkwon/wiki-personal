@@ -11,7 +11,11 @@ tags:
 sources:
 - the-model-thinker
 - Scott E. Page
-related: [the-model-thinker---scott-e-page, many-model-thinker, model-selection]
+related: [the-model-thinker
+dates:
+  - date: "2018-11-27"
+    event: "Published The Model Thinker"
+---scott-e-page, many-model-thinker, model-selection]
 ---
 # Scott E. Page
 
@@ -27,3 +31,7 @@ Professor of complex systems and author of *The Model Thinker* (2024). Page advo
 ## Related Work
 
 Connects to [[decision-making-frameworks]], [[problem-solving]], and [[decision-making-under-uncertainty]].
+
+## Timeline
+
+**2018-11-27** | Published The Model Thinker

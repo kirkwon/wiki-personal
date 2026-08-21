@@ -19,6 +19,7 @@ insights from the vault and is synthesized quarterly into methodology notes.
 | Q04 | [Symbolic AI and energy-based models](Q04-symbolic-energy-based-models.md) | Stable — no recent progress |
 | Q05 | [AI + Finance predictive models](Q05-ai-finance-predictive-models.md) | Active — accumulating |
 | Q06 | [Agent recursive self-improvement](Q06-agent-harness-self-improvement.md) | Active — accumulating |
+| Q07 | [Post-60/40 portfolio construction](Q07-post-60-40-portfolio-construction.md) | Active — initial scaffold |
 
 ## Rhythm
 - **Weekly**: Hermes scans recent vault additions for relevant connections
