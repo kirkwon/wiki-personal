@@ -4,9 +4,7 @@ date: 2026-06-16
 
 type: concept
 title: Flaw of Neglected Probability
-description: "sources:
-- fooled
-- Flaw of Neglected Probability
+description: "Sources: fooled, Flaw of Neglected Probability"
 ----randomness-by-nassim-nicholas-taleb.md']
 related: [expected-value-ev, probability-and-judgment-under-uncertainty, cognitive-biases-library, bet-si."
 created: 2026-05-03
