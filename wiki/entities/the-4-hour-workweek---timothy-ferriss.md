@@ -1,4 +1,3 @@
----
 type: entity
 title: The 4-Hour Workweek - Timothy Ferriss
 description: "The 4-Hour Workweek - Timothy Ferriss"
@@ -14,7 +13,7 @@ tags:
 sources:
 - the-4-hour-workweek
 - The 4-Hour Workweek - Timothy Ferriss
-related: ["lifestyle-design", "outsourcing-your-life", "inbox-resistance", "human-high-frequency-trader", "time-management-matrix", "decision-making-frameworks", "tasks", "deep-work - Cal Newport", "getting-things-done
+# repaired-dropped: related: ["lifestyle-design", "outsourcing-your-life", "inbox-resistance", "human-high-frequency-trader", "time-management-matrix", "decision-making-frameworks", "tasks", "deep-work - Cal Newport", "getting-things-done
 dates:
   - date: "2007-04-24"
     event: "First published"

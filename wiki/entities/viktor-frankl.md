@@ -1,4 +1,3 @@
----
 type: entity
 title: Viktor Frankl
 description: "Viktor Frankl was an Austrian psychiatrist, neurologist, and philosopher who founded logotherapy, a psychotherapeutic approach centered on meaning-finding."
@@ -14,7 +13,7 @@ tags:
 sources:
 - mans-search-for-meaning
 - Viktor Frankl
-related: [logotherapy, tragic-optimism, will-to-meaning, will
+related: [logotherapy, tragic-optimism, will-to-meaning, will]
 dates:
   - date: "1905-03-26"
     event: "Born in Vienna, Austria"

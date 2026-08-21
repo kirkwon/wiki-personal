@@ -1,4 +1,3 @@
----
 title: Daniel Kahneman
 description: "Daniel Kahneman is an Israeli-American psychologist and Nobel laureate, widely regarded as the father of behavioral economics."
 created: 2026-05-03
@@ -16,7 +15,7 @@ sources:
 - raw/books/thinking-fast-and-slow
 - Daniel Kahneman
 confidence: high
-related: ["amos-tversky", "prospect-theory", "dual-process-theory", "cognitive-biases-library", "heuristics-and-biases", "system-1-vs-system-2-thinking", "thinking-fast-and-slow
+# repaired-dropped: related: ["amos-tversky", "prospect-theory", "dual-process-theory", "cognitive-biases-library", "heuristics-and-biases", "system-1-vs-system-2-thinking", "thinking-fast-and-slow
 dates:
   - date: "1934-03-05"
     event: "Born in Tel Aviv"

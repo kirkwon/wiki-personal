@@ -1,4 +1,3 @@
----
 type: entity
 title: Tiago Forte
 description: "Tiago Forte is a productivity consultant and expert in digital information management."
@@ -13,7 +12,7 @@ tags:
 sources:
 - building-a-second-brain
 - Tiago Forte
-related: ["building-a-second-brain
+# repaired-dropped: related: ["building-a-second-brain
 dates:
   - date: "2022-06-14"
     event: "Published Building a Second Brain"

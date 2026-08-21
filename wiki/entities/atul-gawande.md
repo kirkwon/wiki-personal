@@ -1,4 +1,3 @@
----
 type: entity
 title: Atul Gawande
 description: "Atul Gawande is a surgeon, public health researcher, and author best known for his advocacy of checklists as a tool for improving reliability in complex professional environments and for exploring end."
@@ -12,7 +11,7 @@ tags:
 sources:
 - the-checklist-manifesto
 - Atul Gawande
-related: [checklists-as-cognitive-aids, the-checklist-manifesto
+# repaired-dropped: related: [checklists-as-cognitive-aids, the-checklist-manifesto
 dates:
   - date: "2009-12-22"
     event: "Published The Checklist Manifesto"

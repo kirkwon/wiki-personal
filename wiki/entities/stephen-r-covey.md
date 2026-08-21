@@ -1,4 +1,3 @@
----
 type: entity
 title: Stephen R. Covey
 description: "Stephen R. Covey was an American educator, author, businessman, keynote speaker, and management consultant known for his work on personal development, effectiveness, and leadership."
@@ -16,7 +15,7 @@ tags:
 sources:
 - first-things-first
 - Stephen R. Covey
-related: [first-things-first-principle, time-management-matrix, quadrant-2-focus, decision-making-frameworks, be-proactive, begin-with-the-end-in-mind, think-win-win, seek-first-to-understand, synergize, sharpen-the-saw, strategic-vs-reactive-thinking, decision-quality-vs-outcome-quality, effective-listening, building-a-cohesive-team, communication-skills, first-things-first
+# repaired-dropped: related: [first-things-first-principle, time-management-matrix, quadrant-2-focus, decision-making-frameworks, be-proactive, begin-with-the-end-in-mind, think-win-win, seek-first-to-understand, synergize, sharpen-the-saw, strategic-vs-reactive-thinking, decision-quality-vs-outcome-quality, effective-listening, building-a-cohesive-team, communication-skills, first-things-first
 dates:
   - date: "1932-10-24"
     event: "Born"

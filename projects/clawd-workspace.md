@@ -1,5 +1,3 @@
----
-slug: clawd-workspace
 title: Clawd Workspace Infrastructure
 status: active
 priority: P3

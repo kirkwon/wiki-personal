@@ -1,4 +1,3 @@
----
 type: entity
 title: Annie Duke
 description: "Annie Duke is a former professional poker player, author, and decision-making expert."
@@ -13,7 +12,7 @@ tags:
 sources:
 - how-to-decide
 - Annie Duke
-related: ["decision-quality-vs-outcome-quality", "strategic-vs-reactive-thinking", "framing-effects-in-decision-making", "how-to-decide
+# repaired-dropped: related: ["decision-quality-vs-outcome-quality", "strategic-vs-reactive-thinking", "framing-effects-in-decision-making", "how-to-decide
 dates:
   - date: "2004-01-01"
     event: "Won WSOP Main Event"

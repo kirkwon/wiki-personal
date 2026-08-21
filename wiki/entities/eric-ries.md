@@ -1,4 +1,3 @@
----
 type: entity
 title: Eric Ries
 description: "Author of The Lean Startup (2024), Eric Ries is the central figure behind the lean startup methodology."
@@ -11,7 +10,7 @@ tags:
 sources:
 - the-lean-startup
 - Eric Ries
-related: [the-lean-startup
+# repaired-dropped: related: [the-lean-startup
 dates:
   - date: "2011-09-13"
     event: "Published The Lean Startup"

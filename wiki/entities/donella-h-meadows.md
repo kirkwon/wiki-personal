@@ -1,4 +1,3 @@
----
 type: entity
 title: Donella H. Meadows
 description: "Donella H. Meadows was a scientist, systems theorist, and author best known for co-authoring the groundbreaking 1972 book The Limits to Growth and its 2004 update, Limits to Growth: The 30-Year Update."
@@ -13,7 +12,7 @@ tags:
 sources:
 - thinking-in-systems
 - Donella H. Meadows
-related: [thinking-in-systems
+# repaired-dropped: related: [thinking-in-systems
 dates:
   - date: "1972-01-01"
     event: "Co-authored The Limits to Growth"

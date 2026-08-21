@@ -1,4 +1,3 @@
----
 type: entity
 title: Cal Newport
 description: "Cal Newport is a computer scientist, professor at Georgetown University, and author known for his work on deep work, digital minimalism, slow productivity, and career strategy."
@@ -14,7 +13,7 @@ tags:
 sources:
 - digital-minimalism
 - Cal Newport
-related: ["digital-minimalism
+# repaired-dropped: related: ["digital-minimalism
 dates:
   - date: "2016-01-05"
     event: "Published Deep Work"

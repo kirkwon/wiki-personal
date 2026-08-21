@@ -1,5 +1,3 @@
----
-slug: academic-analysis-2026-05-07
 title: Academic Paper Analysis Project
 status: active
 priority: P3
