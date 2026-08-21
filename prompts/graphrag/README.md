@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: concept
 title: "GraphRAG Search Strategy Prompts"
 source: "Microsoft GraphRAG — extracted from github.com/ChristopherLyon/graphrag-workbench"
