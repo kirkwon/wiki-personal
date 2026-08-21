@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Everything Is F*cked: A Book About Hope - Mark Manson'
 author: Mark Manson

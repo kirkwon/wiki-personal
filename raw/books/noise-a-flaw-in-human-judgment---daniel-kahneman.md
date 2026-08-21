@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Noise: A Flaw in Human Judgment - Daniel Kahneman'
 author: Daniel Kahneman

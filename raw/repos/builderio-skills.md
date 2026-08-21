@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: source
 source_url: https://github.com/BuilderIO/skills
 sha256: 9c48c099024fc2cbcb85bb2cc44c0a0b03f65b42b1f19985cd37dba87973c7f8

@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Pre-Suasion: A Revolutionary Way to Influence and Persuade - Robert B. Cialdini'
 author: Robert B. Cialdini

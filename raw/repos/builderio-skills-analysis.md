@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: raw
 title: "BuilderIO Skills — Repo Analysis"
 source: "github.com/BuilderIO/skills"

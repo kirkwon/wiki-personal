@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Presence: Human Purpose and the Field of the Future - Peter M. Senge'
 author: Peter M. Senge

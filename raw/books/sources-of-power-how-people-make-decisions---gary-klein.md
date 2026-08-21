@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Sources of Power: How People Make Decisions - Gary Klein'
 author: Gary Klein

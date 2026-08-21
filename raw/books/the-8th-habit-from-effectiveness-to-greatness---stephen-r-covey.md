@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'The 8th Habit: From Effectiveness to Greatness - Stephen R. Covey'
 author: Stephen R. Covey

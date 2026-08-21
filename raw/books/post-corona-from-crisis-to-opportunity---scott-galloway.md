@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Post Corona: From Crisis to Opportunity - Scott Galloway'
 author: Scott Galloway

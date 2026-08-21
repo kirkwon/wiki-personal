@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Quit: The Power of Knowing When to Walk Away - Annie Duke'
 author: Annie Duke

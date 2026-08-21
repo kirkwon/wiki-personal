@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Influence: The Psychology of Persuasion - Robert B. Cialdini'
 author: Robert B. Cialdini

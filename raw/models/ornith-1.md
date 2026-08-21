@@ -1,4 +1,6 @@
 ---
+date: 2026-06-28
+
 source_url: https://github.com/deepreinforce-ai/Ornith-1
 hf_url: https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B
 publisher: deepreinforce-ai

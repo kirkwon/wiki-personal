@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Essentialism: The Disciplined Pursuit of Less - Greg McKeown'
 author: Greg McKeown

@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Experiment and Exploration: Forms of World-Disclosure - Sönke Ahrens'
 author: Sönke Ahrens

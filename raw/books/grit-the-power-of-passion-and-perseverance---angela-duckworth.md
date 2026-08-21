@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Grit: The Power of Passion and Perseverance - Angela Duckworth'
 author: Angela Duckworth

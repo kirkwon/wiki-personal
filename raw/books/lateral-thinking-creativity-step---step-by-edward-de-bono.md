@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Lateral Thinking: Creativity Step - Step by Edward de Bono'
 author: Step by Edward de Bono

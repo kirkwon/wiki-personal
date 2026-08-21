@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: source
 source_url: https://github.com/ChristopherLyon/graphrag-workbench
 sha256: 0f8fa542b9f44d69ed2566fe0ed2a5a2dd5a660732cabbbca046a074d661b48e

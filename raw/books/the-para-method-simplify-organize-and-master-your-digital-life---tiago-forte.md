@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'The PARA Method: Simplify, Organize, and Master Your Digital Life - Tiago
   Forte'

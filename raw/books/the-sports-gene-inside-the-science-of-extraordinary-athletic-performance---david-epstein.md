@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'The Sports Gene: Inside the Science of Extraordinary Athletic Performance
   - David Epstein'

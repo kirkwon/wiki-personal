@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Clear Thinking: Turning Ordinary Moments into Extraordinary Results - Shane
   Parrish'

@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: source
 source_url: https://github.com/aouicher/graphmind
 sha256: 32e14fb056df1004d1bb0306053534af1ff7f5cc3dda74367fc80a9747131b3c

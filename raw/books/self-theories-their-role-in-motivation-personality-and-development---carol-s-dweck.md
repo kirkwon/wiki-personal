@@ -1,4 +1,6 @@
 ---
+date: 2026-05-24
+
 source_type: book
 title: 'Self-Theories: Their Role in Motivation, Personality, and Development - Carol
   S. Dweck'
