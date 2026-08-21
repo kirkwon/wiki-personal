@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: Policy Gradient Methods
 ingested_via: put_page

@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: concept
 title: Via Negativa (Subtraction / What to Stop Doing)
 related:

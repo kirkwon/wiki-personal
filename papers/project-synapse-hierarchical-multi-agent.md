@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: 'Project Synapse: Hierarchical Multi-Agent Framework with Hybrid Memory'
 year: 2026

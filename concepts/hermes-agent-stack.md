@@ -267,3 +267,25 @@ Communication → Analysis:  User's "check X" → triggers new eval
 - [[premortem-skill]] — Decision analysis skill
 - [[super-hermes-prisms]] — Analytical prism system
 - [[architecture/hermes-system-overview]] — Data pipelines, processes, storage (Mermaid diagrams)
+
+---
+
+## Domain Master Extensions (2026-07-15)
+
+The core 7-stage stack integrates with four Domain Master layers and two Loop Engine layers:
+
+### Domain Masters
+| Master | Integration Points |
+|:-------|:-------------------|
+| [[documentation-master]] | Awareness, Learning |
+| [[decision-master]] | Analysis, Learning |
+| [[productivity-master]] | Interaction, Learning |
+| [[knowledge-master]] | Awareness, Exploration, Learning |
+
+### Loop Layers
+| Layer | Function |
+|:------|:---------|
+| [[learning-loop]] | Three-tier improvement (Execution/Harness/Meta) |
+| [[self-health-loop]] | Continuous system monitoring and repair |
+
+See [[sources/p6-hermes-architecture-layers-domain-masters.md]] for full architectural extension specification.

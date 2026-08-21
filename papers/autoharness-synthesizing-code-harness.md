@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: 'AutoHarness: Improving LLM Agents by Synthesizing a Code Harness'
 year: 2026

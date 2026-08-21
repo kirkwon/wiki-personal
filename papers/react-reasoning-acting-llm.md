@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: 'ReAct: Synergizing Reasoning and Acting in Language Models'
 year: 2022

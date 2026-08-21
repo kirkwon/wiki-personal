@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: concept
 title: Academic Paper Library - Research Corpus for Agentic Architecture
 aliases:

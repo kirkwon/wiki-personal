@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: Fabric Of Reality Deutsch
 ingested_via: put_page

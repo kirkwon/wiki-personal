@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: Playing Atari With Deep Reinforcement Learning
 ingested_via: put_page

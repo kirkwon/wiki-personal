@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: Gpt3 Brown
 ingested_via: put_page

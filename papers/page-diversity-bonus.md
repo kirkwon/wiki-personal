@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: Page Diversity Bonus
 ingested_via: put_page

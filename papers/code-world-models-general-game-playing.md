@@ -1,4 +1,6 @@
 ---
+date: 2026-06-21
+
 type: paper
 title: "Code World Models for General Game Playing"
 authors: ["Lehrach, W.", "Hennes, D.", "Lazaro-Gredilla, M."]

@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: Retrieval-Augmented Generation with Graphs (GraphRAG)
 year: 2024

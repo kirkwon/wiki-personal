@@ -1,4 +1,6 @@
 ---
+date: 2026-06-30
+
 type: concept
 title: "Self-Maintaining Knowledge Base"
 source: "Slite guide + @femke_plantinga tweet + @0xcodez tweet"

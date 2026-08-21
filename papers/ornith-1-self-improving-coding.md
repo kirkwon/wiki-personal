@@ -1,10 +1,13 @@
 ---
 type: entity
-title: Ornith-1.0: Self-Improving Open-Source Models for Agentic Coding
+title: "Ornith-1.0: Self-Improving Open-Source Models for Agentic Coding"
 created: 2026-06-28
 updated: 2026-06-28
 tags: [model, agent-systems, improvement, methodology]
 sources: [raw/models/ornith-1.md]
+dates:
+  - date: "2026-06-21"
+    event: "Published by Deep Reinforce AI"
 ---
 
 # Ornith-1.0: Self-Improving Open-Source Models for Agentic Coding
@@ -66,3 +69,7 @@ This is a concrete instantiation of the [[concepts/self-harness-paradigm]]: the 
 - [[concepts/self-harness-paradigm]] — Ornith is a concrete RL-based implementation of this loop
 - [[projects/causal-ai-hedge-agent]] — P3 Skill→LoRA workstream directly benefits from scaffold co-optimization
 - [[concepts/co-failure-ceiling]] — understanding ensemble limits informs when to route to Ornith vs fallback models
+
+## Timeline
+
+**2026-06-21** | Published by Deep Reinforce AI

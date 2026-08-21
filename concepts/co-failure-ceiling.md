@@ -27,6 +27,10 @@ The fundamental upper bound on how much any multi-model strategy (routing, votin
 
 Validates the **single-model improvement** approach used by [[papers/ornith-1-self-improving-coding|Ornith-1.0]]: rather than building expensive ensembles, invest in making the single model better via [[concepts/scaffold-optimization]].
 
+## Upgrade Path: From Statistics to Causal Estimation (2026-08-18)
+
+[[papers/causal-discovery-effect-constraints|Zhang, Van den Broeck & Wang (UAI 2026)]] provide a principled upgrade: estimate β as a **posterior over causal structure conditional on the co-failure event** (adaptive multilevel splitting for the rare-posterior-mass regime). This separates shared-cause co-failure (structural ceiling, fixable by decoupling components) from coincidental co-occurrence — a distinction frequency-counted β cannot make. Code: [MLS-Framework](https://github.com/ZCX031116/MLS-Framework).
+
 ## Connections
 
 - [[papers/co-failure-ceiling]] — the full paper page with empirical data

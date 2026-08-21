@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: Halo Effect Cialdini
 ingested_via: put_page

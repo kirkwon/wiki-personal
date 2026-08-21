@@ -1,4 +1,6 @@
 ---
+date: 2026-06-13
+
 type: paper
 title: Do Stock Prices Move Too Much
 ingested_via: put_page
