@@ -775,6 +775,36 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-08-20: Looped Language Models Improve Compositional Tool Calling
 
 ### 2026-08-20: FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents
+
+### 2026-08-21: Towards Quantifying Benchmark Optimization in ASR Models
+
+### 2026-08-21: FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving
+
+### 2026-08-21: ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World
+
+### 2026-08-21: PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-C
+
+### 2026-08-21: Towards Real-Time and Adaptable LiDAR Scene Completion
+
+### 2026-08-21: Bounded Agents: Delegation Security for Multi-Agent AI Systems
+- HF trending paper (arxiv: 2608.15888). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.15888]] | https://huggingface.co/papers/2608.15888
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16490). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.16490]] | https://huggingface.co/papers/2608.16490
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19861). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.19861]] | https://huggingface.co/papers/2608.19861
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14022). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.14022]] | https://huggingface.co/papers/2608.14022
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19758). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.19758]] | https://huggingface.co/papers/2608.19758
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19936). Keywords: risk, quant, var. Status: pending-review.
+- Source: [[papers/2608.19936]] | https://huggingface.co/papers/2608.19936
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.18423). Keywords: market. Status: pending-review.
 - Source: [[papers/2608.18423]] | https://huggingface.co/papers/2608.18423
 - Confidence: Low (auto-matched, not yet reviewed)

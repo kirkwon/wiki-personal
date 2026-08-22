@@ -862,6 +862,26 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-08-20: Training Chemical Plausibility-Aware Large Language Models for Single-Step Retro
 
 ### 2026-08-20: The Problem Is the Problem: Towards Scalable Mathematical Discovery
+
+### 2026-08-21: Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learne
+
+### 2026-08-21: FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving
+
+### 2026-08-21: 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+
+### 2026-08-21: WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
+- HF trending paper (arxiv: 2608.20336). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.20336]] | https://huggingface.co/papers/2608.20336
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20335). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.20335]] | https://huggingface.co/papers/2608.20335
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19758). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.19758]] | https://huggingface.co/papers/2608.19758
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19863). Keywords: transformer, attention, prediction. Status: pending-review.
+- Source: [[papers/2608.19863]] | https://huggingface.co/papers/2608.19863
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.16977). Keywords: attention. Status: pending-review.
 - Source: [[papers/2608.16977]] | https://huggingface.co/papers/2608.16977
 - Confidence: Low (auto-matched, not yet reviewed)

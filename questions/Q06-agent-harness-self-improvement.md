@@ -1984,6 +1984,56 @@ https://huggingface.co/papers/2608.02287
 ### 2026-08-20: The Problem Is the Problem: Towards Scalable Mathematical Discovery
 
 ### 2026-08-20: LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents
+
+### 2026-08-21: QuoteBench: How Matched Scores Can Hide Command-Path Failures
+
+### 2026-08-21: Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Har
+
+### 2026-08-21: CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical 
+
+### 2026-08-21: Repo0: Design-Driven Zero-to-All Code Generation
+
+### 2026-08-21: 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+
+### 2026-08-21: WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
+
+### 2026-08-21: FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis
+
+### 2026-08-21: EXIMO: VLM Guided Exploration of VLA Policies
+
+### 2026-08-21: PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-C
+
+### 2026-08-21: Bounded Agents: Delegation Security for Multi-Agent AI Systems
+- HF trending paper (arxiv: 2608.15888). Keywords: agentic, multi-agent. Status: pending-review.
+- Source: [[papers/2608.15888]] | https://huggingface.co/papers/2608.15888
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19861). Keywords: gui, workflow, execution. Status: pending-review.
+- Source: [[papers/2608.19861]] | https://huggingface.co/papers/2608.19861
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19891). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.19891]] | https://huggingface.co/papers/2608.19891
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18580). Keywords: agentic, terminal agent, environment, execution. Status: pending-review.
+- Source: [[papers/2608.18580]] | https://huggingface.co/papers/2608.18580
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20336). Keywords: planning. Status: pending-review.
+- Source: [[papers/2608.20336]] | https://huggingface.co/papers/2608.20336
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20335). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.20335]] | https://huggingface.co/papers/2608.20335
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19854). Keywords: code generation, gui, planning. Status: pending-review.
+- Source: [[papers/2608.19854]] | https://huggingface.co/papers/2608.19854
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19776). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.19776]] | https://huggingface.co/papers/2608.19776
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08466). Keywords: self-improvement, agent harness, gui, workflow. Status: pending-review.
+- Source: [[papers/2608.08466]] | https://huggingface.co/papers/2608.08466
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13547). Keywords: gui, execution. Status: pending-review.
+- Source: [[papers/2608.13547]] | https://huggingface.co/papers/2608.13547
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.17393). Keywords: agent harness, orchestration, harness, environment. Status: pending-review.
 - Source: [[papers/2608.17393]] | https://huggingface.co/papers/2608.17393
 - Confidence: Low (auto-matched, not yet reviewed)

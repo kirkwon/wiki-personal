@@ -114,6 +114,11 @@ If bonds/debt are too correlated to equities to serve as counterweights, what re
 ### 2026-08-19: MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Ve
 
 ### 2026-08-19: From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Gen
+
+### 2026-08-21: CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical 
+- HF trending paper (arxiv: 2608.19776). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.19776]] | https://huggingface.co/papers/2608.19776
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.18076). Keywords: rebalancing. Status: pending-review.
 - Source: [[papers/2608.18076]] | https://huggingface.co/papers/2608.18076
 - Confidence: Low (auto-matched, not yet reviewed)

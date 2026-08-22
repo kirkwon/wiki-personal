@@ -523,6 +523,41 @@ _2026-05-25_ — Initial research position
 ### 2026-08-20: Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditi
 
 ### 2026-08-20: SoftVTBench: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deforma
+
+### 2026-08-21: GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipul
+
+### 2026-08-21: CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical 
+
+### 2026-08-21: Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learne
+
+### 2026-08-21: 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+
+### 2026-08-21: ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World
+
+### 2026-08-21: WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
+
+### 2026-08-21: Towards Real-Time and Adaptable LiDAR Scene Completion
+- HF trending paper (arxiv: 2608.16490). Keywords: generative model, geometry. Status: pending-review.
+- Source: [[papers/2608.16490]] | https://huggingface.co/papers/2608.16490
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20336). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.20336]] | https://huggingface.co/papers/2608.20336
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14022). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.14022]] | https://huggingface.co/papers/2608.14022
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20335). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.20335]] | https://huggingface.co/papers/2608.20335
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19863). Keywords: representation learning, embedding. Status: pending-review.
+- Source: [[papers/2608.19863]] | https://huggingface.co/papers/2608.19863
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19776). Keywords: manifold, geometry, topology. Status: pending-review.
+- Source: [[papers/2608.19776]] | https://huggingface.co/papers/2608.19776
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19759). Keywords: generative model, geometry. Status: pending-review.
+- Source: [[papers/2608.19759]] | https://huggingface.co/papers/2608.19759
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.18701). Keywords: diffusion. Status: pending-review.
 - Source: [[papers/2608.18701]] | https://huggingface.co/papers/2608.18701
 - Confidence: Low (auto-matched, not yet reviewed)

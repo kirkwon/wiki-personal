@@ -1,13 +1,13 @@
 ---
 type: dashboard
 title: Project Dashboard
-created: 2026-08-21
+created: 2026-08-22
 tags: [dashboard, auto-generated]
 ---
 
 # Project Dashboard
 
-> Auto-generated 2026-08-21 06:30 | 0 projects
+> Auto-generated 2026-08-22 06:30 | 0 projects
 > Edit individual project files in `~/brain/projects/` — this file regenerates.
 
 ---
@@ -48,4 +48,4 @@ tags: [dashboard, auto-generated]
 
 ---
 
-*Last generated: 2026-08-21 06:30 by `generate-project-dashboard.py`*
+*Last generated: 2026-08-22 06:30 by `generate-project-dashboard.py`*
