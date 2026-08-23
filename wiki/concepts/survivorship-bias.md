@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Survivorship Bias
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- decision-making
-sources:
-- The Art of Thinking Clearly - Rolf Dobelli.md
-related:
-- cognitive-biases-library
-- hindsight-bias
-- base-rate-neglect
-- reference-class-forecasting
----
+
 -
 # Survivorship Bias
 
@@ -32,3 +16,5 @@ Links to [[hindsight-bias]] (overestimating predictability after the fact), [[ba
 ## Practical Guardrail
 When analyzing success stories, actively ask: "How many people tried this and failed?" and "What do the losers have in common?"
 ---
+
+See also: [[cognitive-biases-library]]

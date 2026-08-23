@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: DSCR Loans — Debt Service Coverage Ratio Loans
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- financing
-- loans
-sources:
-- Bay Area Market Analysis.md
-related:
-- real-estate-investment
-- bay-area-real-estate-market-analysis
-- investment-property-financing
----
+
 -
 # Préstamos DSCR
 
@@ -34,3 +18,7 @@ Los DSCR Loans son instrumentos de financiamiento diseñados para propiedades de
 ## Contexto del Bay Area
 Con rendimientos de renta del 4.2% y precios elevados, los inversores necesitan estrategias de financiamiento que maximicen el flujo de caja. Los DSCR Loans permiten adquirir propiedades con enfoque en generación de ingresos por alquiler.
 ---
+
+See also: [[real-estate-investment]]
+
+See also: [[bay-area-real-estate-market-analysis]]

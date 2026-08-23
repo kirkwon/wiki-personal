@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Predictably Irrational - Dan Ariely
-description: "-
-Predictably Irrational"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- book
-- behavioral-economics
-- cognitive-bias
-- books
-- decision-making
-sources:
-- Norms.md
-- Examines.md
-related:
-- norms-mental-model
-- cognitive-biases-library
-- thinking-fast-and-slow ---daniel-kahneman
+daniel-kahneman
 - examines
 - dan-ariely
 ---
@@ -37,3 +17,9 @@ related:
 
 - **Norms mental model**: This work is referenced as a cross-source perspective for the [[Norms]] mental model, illustrating how social norms function as cognitive shortcuts that influence behavior across domains.
 - **Examines mental model**: The book connects to the [[examines]] mental model through its focus on identifying patterns in human irrationality.
+
+See also: [[norms-mental-model]]
+
+See also: [[cognitive-biases-library]]
+
+See also: [[thinking-fast-and-slow]]

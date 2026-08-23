@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Data as a mental model
-description: "--
-Data as a mental model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-sources:
-- Data.md
-confidence: medium
-related:
-- biases
-- thinking-mental-model
-- reality-mental-model
-- superforecasting
-- the-art-of-thinking-clearly---rolf-dobelli
+rolf-dobelli
 ---
 --
 # Data as a mental model
@@ -34,3 +14,5 @@ Key considerations:
 - Risk of being fooled by apparent patterns in randomness
 - Cognitive biases affecting data interpretation
 - Operational definition needed to differentiate from adjacent mental models
+
+See also: [[the-art-of-thinking-clearly]]

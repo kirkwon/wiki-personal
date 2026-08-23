@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Ego Is the Enemy - Ryan Holiday
-description: "--
-Ego Is the Enemy - Ryan Holiday"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- mental-model
-- philosophy
-sources:
-- Humility.md
-related:
-- ryan-holiday
-- humility
-- the-obstacle-is-the-way
-- stillness
----
+
 --
 # Ego Is the Enemy - Ryan Holiday
 
@@ -36,3 +17,7 @@ The book serves as the primary source for the Humility mental model in this wiki
 ## Author
 
 Ryan Holiday is also known for [[the-obstacle-is-the-way]] and [[stillness]], both already in the wiki.
+
+See also: [[ryan-holiday]]
+
+See also: [[humility]]

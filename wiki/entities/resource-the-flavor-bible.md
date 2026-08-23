@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 'Resource: The Flavor Bible'
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking
-- resource
-- flavor
-- gastronomy
-sources:
-- Gastronomy.md
-related:
-- flavor-theory
-- ingredient-pairings
-- aromatics
----
+
 -
 # Resource: The Flavor Bible
 
@@ -28,3 +11,5 @@ Key features:
 
 This resource directly supports [[ingredient-pairings]] and [[flavor-theory]], providing the empirical backbone for understanding flavor combinations.
 ---
+
+See also: [[aromatics]]

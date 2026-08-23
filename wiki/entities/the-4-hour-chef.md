@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The 4-Hour Chef
-description: "The 4-Hour Chef by Timothy Ferriss uses cooking as a teaching and learning metaphor."
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- book
-- cooking
-- learning
-- meta-learning
-- books
-sources:
-- Meals.md
-- Cooking.md
-related:
-- timothy-ferriss
-- meals
-- how-to-take-smart-notes ---snke-ahrens
+snke-ahrens
 - how-to-solve-it---george-polya
 - cooking-mental-model
 - recipes-mental-model
@@ -36,3 +17,9 @@ related:
 
 ## Connection to Mental Models
 The book aligns with the wiki's broader framework of using structured, deconstructable frameworks ([[recipes-mental-model]]) to navigate complexity.
+
+See also: [[timothy-ferriss]]
+
+See also: [[meals]]
+
+See also: [[how-to-take-smart-notes]]

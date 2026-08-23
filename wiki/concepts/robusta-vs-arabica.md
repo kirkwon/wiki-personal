@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Robusta vs Arabica
-description: "--
-Robusta vs Arabica"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- coffee
-- comparison
-- arabica
-- robusta
-sources:
-- Robusta.md
-- Arabica.md
-related:
-- arabica-coffee-coffea-arabica
-- robusta-coffee-coffea-canephora
-- coffee-bean-processing-咖啡豆处理
-- coffee-roasting-咖啡烘焙
----
+
 --
 # Robusta vs Arabica
 
@@ -60,3 +39,7 @@ Arabica dominates specialty coffee due to complex flavor profiles, while Robusta
 Robusta cho phép tỷ lệ lỗi cao hơn, thời gian lên men ngắn hơn do hạt cứng hơn.
 
 See also: [[arabica-coffee-coffea-arabica]], [[robusta-coffee-coffea-canephora]].
+
+See also: [[coffee-bean-processing-咖啡豆处理]]
+
+See also: [[coffee-roasting-咖啡烘焙]]

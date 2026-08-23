@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Cast Iron Skillet
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- gastronomy
-- equipment
-- technique
-sources:
-- burgers.md
-related:
-- americana-burgers
-- maillard-reaction
-- smash-burger
----
+
 -
 # Cast Iron Skillet
 
@@ -40,3 +24,7 @@ Patelnia żeliwna to kluczowe narzędzie kulinarne dla uzyskania chrupiącej sk�
 - „The Burger Lab" by J. Kenji López-Alt
 ---
 ^raw/articles/burgers.md
+
+See also: [[americana-burgers]]
+
+See also: [[smash-burger]]

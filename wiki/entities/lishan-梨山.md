@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 梨山 (Lishan - Pear Mountain)
-description: "--
-梨山 (Lishan - Pear Mountain)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- tea
-- oolong
-- taiwan
-- taiwanese
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- ali-shan-阿里山
-- tea-oxidation-茶叶氧化
----
+
 --
 # 梨山 (Lishan - Pear Mountain)
 
@@ -38,3 +19,9 @@ related:
 ## 风味谱系
 
 深乌龙类型，高海拔赋予矿物质特质。
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[ali-shan-阿里山]]
+
+See also: [[tea-oxidation-茶叶氧化]]

@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Seek First to Understand, Then to Be Understood
-description: "Seek First to Understand, Then to Be Understood"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- communication-skills
-- mental-models
-sources:
-- the-7-habits-of-highly-effective-people
-- Seek First to Understand, Then to Be Understood
-related: [effective-listening, think-win-win, radical-transparency]
----
+
 # Seek First to Understand, Then to Be Understood
 
 This habit places empathetic listening before advocacy. Covey argues that most people listen with the intent to reply rather than to understand, which undermines genuine communication and trust.
@@ -31,3 +16,5 @@ This habit directly connects to [[effective-listening]] and [[communication-skil
 ## Source
 
 [[the-7-habits-of-highly-effective-people---stephen-r-covey]] - Stephen R. Covey
+
+Sources: [[the-7-habits-of-highly-effective-people]]

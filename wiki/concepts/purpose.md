@@ -1,31 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Purpose
-description: "Purpose is the deep, motivating reason behind one's actions—the driving force that gives work and life coherence."
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- productivity
-- mental-models
-- allen
-- leadership
-- philosophy
-- mental-model
-sources:
-- Making It All Work - David Allen.md
-- Find Your Why - Simon Sinek.md
-related:
-- life
-- values
-- work-life-integration
-- deep-work - Cal Newport
-- golden-circle
-- leadership
-- passion
-- grit-concept
-- infinite-game-mindset
----
+
 --
 # Purpose (Why)
 
@@ -64,3 +37,7 @@ Allen positions purpose as the lens through which all productivity decisions sho
 ## Application
 
 Discovering purpose involves looking at personal passions, relationships, and community engagement—not just career advancement. Aligning personal life with professional goals requires clarity on what you are ultimately working toward. Understanding and consistently applying one's Purpose leads to lasting results in leadership, relationships, and career development.
+
+See also: [[leadership]]
+
+See also: [[passion]]

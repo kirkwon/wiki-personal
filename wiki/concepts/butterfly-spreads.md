@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Butterfly Spreads
-description: "A butterfly spread combines multiple options at different strike prices to create a position with limited risk and limited reward."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- options
-- options-trading
-- range-bound
-- risk-management
-sources:
-- Options Trading Guide.md
-related:
-- theta-time-decay
-- options-fundamentals
-- straddle-strategies
-- credit-spreads
-- iron-condors
----
+
 --
 # Butterfly Spreads
 
@@ -76,3 +54,7 @@ A butterfly spread combines multiple options at different strike prices to creat
 Stock XYZ at $50, long call butterfly: Buy $45 call, sell 2 $50 calls, buy $55 call. Net debit $3.00, max profit $2.00 at $50 strike. Maximum loss $3.00 if stock moves beyond wings.^[raw/articles/Options Trading Guide.md]
 
 Butterfly spreads share theta management considerations with [[theta-time-decay]] and connect to other defined-risk strategies like [[credit-spreads]] and [[iron-condors]].
+
+See also: [[options-fundamentals]]
+
+See also: [[straddle-strategies]]

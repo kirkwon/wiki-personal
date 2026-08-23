@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: LEAPS (Long-term Equity AnticiPation Securities)
-description: "--
-LEAPS (Long-term Equity AnticiPation Securities)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- options
-- options-trading
-- personal-finance
-- investing
-related:
-- theta-time-decay
-- covered-calls
-- retirement-planning
-- ITM-vs-OTM-options
-- options-position-sizing
-sources:
-- Options Trading Guide.md
----
+
 --
 # LEAPS (Long-term Equity AnticiPation Securities)
 
@@ -65,3 +44,11 @@ LEAPS enable multi-year growth positions, dividend capture when combined with di
 - Example: $500,000 portfolio, LEAPS put strike $45, 2-year expiration, premium $5. Protection level $45 per share.
 
 LEAPS are a powerful tool for integrating options into long-term financial planning alongside strategies like [[covered-calls]] and [[protective-puts]].
+
+See also: [[theta-time-decay]]
+
+See also: [[retirement-planning]]
+
+See also: [[ITM-vs-OTM-options]]
+
+See also: [[options-position-sizing]]

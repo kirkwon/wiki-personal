@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: In-the-Money vs Out-of-the-Money Options
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- options
-sources:
-- Options Trading Guide.md
-related:
-- options-fundamentals
-- theta-time-decay
-- covered-calls
-- credit-spreads
----
+
 -
 # In-the-Money vs Out-of-the-Money Options
 
@@ -67,3 +50,11 @@ The choice between ITM and OTM options affects premium cost, theta sensitivity, 
 
 Selecting the right moneyness depends on risk tolerance, time horizon, market volatility, and capital considerations.^[raw/articles/Options Trading Guide.md]
 ---
+
+See also: [[options-fundamentals]]
+
+See also: [[theta-time-decay]]
+
+See also: [[covered-calls]]
+
+See also: [[credit-spreads]]

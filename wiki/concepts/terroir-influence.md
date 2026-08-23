@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 风土影响
-description: "风土（Terroir）是大吉岭茶独特风味的核心因素，包括海拔、气候、土壤和微气候的综合作用。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- darjeeling
-- terroir
-- geography
-related:
-- darjeeling-tea
-- 地理标志保护
-- 风味理论
-sources:
-- Darjeeling Tea.md
----
+
 --
 # 风土影响
 
@@ -37,3 +19,5 @@ sources:
 - **微气候**：每个茶园独特条件
 
 风土影响是大吉岭茶被称为"茶中香槟"的基础，也是其获得地理标志保护的原因。
+
+See also: [[darjeeling-tea]]

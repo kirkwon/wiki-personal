@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Radical Transparency
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- organizational-management
-- communication
-- decision-making
-related:
-- principles-ray-dalio
-- building-a-decision-culture
-- effective-listening
-- the-five-dysfunctions-of-a-team---patrick-lencioni
+patrick-lencioni
 sources:
 - principles---ray-dalio.md
 ---
@@ -36,3 +22,7 @@ Radical transparency is a culture of complete openness and honesty in communicat
 ## Practical Application
 In organizations, radical transparency means regular open feedback loops, accessible decision records, and a culture where challenging ideas is encouraged rather than punished.
 ---
+
+See also: [[principles-ray-dalio]]
+
+See also: [[the-five-dysfunctions-of-a-team]]

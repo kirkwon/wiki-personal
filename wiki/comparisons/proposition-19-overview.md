@@ -1,23 +1,4 @@
----
-created: 2026-04-24
-sources:
-- Proposition 19 Overview.md
-tags:
-- personal-finance
-- real-estate
-- california-tax
-- estate-planning
-date: 2026-04-24
-title: Proposition 19 Overview
-type: comparison
-updated: 2026-05-09
-related:
-- proposition-13-context
-- 1031-exchange-strategy
-- trusts-guide
-- real-estate-investment
-- tax-torpedoes-in-retirement
----
+
 -
 
 # Proposition 19 Overview
@@ -381,3 +362,7 @@ Proposition 19 represents a significant evolution in California property tax law
 ---
 *Created: 2026-04-22*
 *Last Updated: 2026-04-22*
+
+See also: [[real-estate-investment]]
+
+See also: [[tax-torpedoes-in-retirement]]

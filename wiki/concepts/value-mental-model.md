@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Value as a Mental Model
-description: "--
-Value as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- behavioral-economics
-sources:
-- Value.md
-related:
-- framing-effects
-- prospect-theory
-- cognitive-biases-library
-- decision-making-frameworks
-- decision-making-under-uncertainty
-confidence: medium
----
+
 --
 # Value as a Mental Model
 
@@ -44,3 +23,5 @@ How does the "value" mental model differ from [[framing-effects]] or [[prospect-
 - [[predictably-irrational-dan-ariely]]
 - [[thinking-fast-and-slow---daniel-kahneman]]
 - [[decision-making-frameworks]]
+
+See also: [[decision-making-under-uncertainty]]

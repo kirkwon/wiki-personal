@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Typica Coffee Variety
-description: "--
-Typica Coffee Variety"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- arabica
-- variety
-sources:
-- Arabica.md
-related:
-- arabica-coffee-coffea-arabica
-- bourbon-coffee-variety
----
+
 --
 # Typica Coffee Variety
 
@@ -28,3 +11,7 @@ Typica is a classic Arabica coffee variety with origins in Yemen and Ethiopia. I
 - **Use**: Traditional quality coffee
 
 Typica was one of the first coffee varieties spread globally and remains a benchmark for evaluating coffee quality.
+
+See also: [[arabica-coffee-coffea-arabica]]
+
+See also: [[bourbon-coffee-variety]]

@@ -1,17 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Cultural Variation in Dishonesty
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- cultural-psychology
-- behavioral-economics
-- ethics
-sources:
-- The (Honest) Truth About Dishonesty - Dan Ariely.md
-related:
-- the-honest-truth-about-dishonesty---dan-ariely
+dan-ariely
 - situational-ethics
 - cognitive-biases-library
 ---
@@ -31,3 +18,5 @@ How different societies view lying and the influence of cultural norms on honest
 - Relates to [[cognitive-biases-library]] — cultural norms interact with cognitive biases
 - Complements [[building-a-decision-culture]] — understanding cultural variation helps design better ethical frameworks
 ---
+
+See also: [[the-honest-truth-about-dishonesty]]

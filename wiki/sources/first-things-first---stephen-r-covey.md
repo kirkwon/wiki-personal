@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: First Things First - Stephen R. Covey
-description: "First Things First - Stephen R."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- decision-making
-- time-management
-- books
-sources:
-- first-things-first
-- First Things First - Stephen R. Covey
----
+
 # First Things First - Stephen R. Covey
 
 Source document summarizing Stephen R. Covey's 2024 book on time management and prioritization. The book introduces the Time Management Matrix, distinguishes between urgent and important tasks, and argues that meaningful progress comes from focusing on Quadrant 2 (important but not urgent). It also covers effective listening, communication skills, crisis management, personal values in decision-making, and a systematic approach to decisions.
@@ -31,3 +16,5 @@ Source document summarizing Stephen R. Covey's 2024 book on time management and 
 
 ## Connection to Wiki
 Covey's framework complements existing decision-making content including [[decision-making-frameworks]], [[strategic-vs-reactive-thinking]], and [[working-backwards-in-problem-solving]]. The urgent/important distinction provides a qualitative lens that contrasts with the quantitative approaches in [[thinking-in-bets---annie-duke]] and [[thinking-fast-and-slow---daniel-kahneman]].
+
+Sources: [[First Things First - Stephen R. Covey]]

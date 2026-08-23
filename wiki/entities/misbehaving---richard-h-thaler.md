@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Misbehaving - Richard H. Thaler
-description: "--
-Misbehaving - Richard H."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- behavioral-economics
-- decision-making
-sources:
-- Data.md
-related:
-- data-mental-model
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - biases
 ---
 --
@@ -29,3 +13,5 @@ Key themes:
 - Understanding these deviations can improve decision-making frameworks
 
 Thaler's work is referenced alongside Taleb's *Fooled by Randomness* in the [[data-mental-model]] entry as a cross-source perspective on how people misinterpret data and narrative.
+
+See also: [[thinking-fast-and-slow]]

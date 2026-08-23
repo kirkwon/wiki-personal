@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Iron Condor
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- income-generation
-- risk-management
-sources:
-- Options Trading.md
-related:
-- options
-- the-greeks-options
-- covered-call-strategy
-- vertical-spread
-- risk-management
----
+
 -
 # Iron Condor
 
@@ -39,3 +20,9 @@ An iron condor is an options strategy combining a bull put spread and a bear cal
 ## Σχέση με τους Ελληνικούς
 Η στρατηγική αυτή απαιτεί κατανόηση των [[The Greeks (Options)]] για τη διαχείριση δέλτα και θήτα κινδύνου.
 ---
+
+See also: [[options]]
+
+See also: [[vertical-spread]]
+
+See also: [[risk-management]]

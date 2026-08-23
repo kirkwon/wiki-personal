@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Environment Design
-description: "--
-Environment Design"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- habit-formation
-sources:
-- The PARA Method_ Simplify, Organize, and Master Your Digital Life - Tiago Forte.md
-related:
-- habit-testing
-- fizzgogg-behavior-model
-- external-triggers
----
+
 --
 # Environment Design
 
@@ -35,3 +18,7 @@ Rather than relying on willpower, environment design changes the path of least r
 ## Connection to Habit Formation
 
 Environment design pairs with the [[2-minute-rule]] and [[external-triggers]] to make new habits easier to start. When the environment supports the behavior, less conscious effort is required.
+
+See also: [[habit-testing]]
+
+See also: [[fizzgogg-behavior-model]]

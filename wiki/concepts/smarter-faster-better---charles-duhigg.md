@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Smarter Faster Better - Charles Duhigg
-description: "--
-Smarter Faster Better - Charles Duhigg"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- productivity
-- psychology
-- decision-making
-sources:
-- Habit.md
-related:
-- habit
-- decision-making-frameworks
-- mental-models
-- supercommunicators-charles-duhigg
----
+
 --
 # Smarter Faster Better - Charles Duhigg
 
@@ -34,3 +14,11 @@ Charles Duhigg's Smarter Faster Better explores the science of productivity, foc
 ## Connection to Habit Mental Model
 
 Duhigg treats habits as central to productivity, showing how automatic routines free cognitive resources for higher-level thinking. This connects to the broader habit mental model and informs how habitual patterns shape organizational and personal performance.
+
+See also: [[habit]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[mental-models]]
+
+See also: [[supercommunicators-charles-duhigg]]

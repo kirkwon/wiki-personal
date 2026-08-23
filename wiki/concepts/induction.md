@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Induction
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- epistemology
-- decision-making
-sources:
-- Induction.md
-related:
-- ideas-mental-model
-- thinking-mental-model
-- biases
-- problem-solving
-- the-beginning-of-infinity-david-deutsch
-- david-deutsch
----
+
 -
 # Induction
 
@@ -43,3 +24,5 @@ In David Deutsch's framework from *The Beginning of Infinity*, induction relates
 ## Sources
 - [[the-beginning-of-infinity-david-deutsch]] by David Deutsch
 ---
+
+See also: [[david-deutsch]]

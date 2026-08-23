@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Symmetry and Patterns in Photography
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- minimalism
-- framing-composition
----
+
 -
 # Symmetry and Patterns in Photography
 
@@ -31,3 +16,9 @@ Patterns use repeating elements like windows, bricks, leaves, or textures. Fill 
 - Windows on building: Repeating pattern
 - Brick wall: Textural pattern
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[minimalism]]
+
+See also: [[framing-composition]]

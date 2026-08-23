@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Metering Modes
-description: "Metering modes determine how the camera measures light to calculate exposure."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- exposure
-- fundamentals
-- camera
-sources:
-- photography-fundamentals.md
-related:
-- exposure-triangle
-- street-photography
-- golden-hour
-- camera-modes
-- photography-fundamentals
----
+
 --
 # Metering Modes
 
@@ -42,3 +22,7 @@ Metering modes determine how the camera measures light to calculate exposure.
 Evaluative metering is the default for most general photography including [[street-photography]]. Spot metering is valuable during [[golden-hour]] when lighting contrasts are extreme.
 
 See [[photography-fundamentals]] for how metering fits into the broader fundamentals.
+
+See also: [[exposure-triangle]]
+
+See also: [[camera-modes]]

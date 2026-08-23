@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Philosophy as Mental Model
-description: "--
-Philosophy as Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- philosophy
-- mental-models
-- universal-conceptual-tool
-sources:
-- Philosophy.md
-related:
-- thinking-mental-model
-- reality-mental-model
-- planning
-- stillness
-- care
-- the-obstacle-is-the-way
-- ryan-holiday
----
+
 --
 # Philosophy as Mental Model
 
@@ -44,3 +22,5 @@ The confidence rating is 0.7, indicating moderate certainty. This entry is preli
 - [[stillness]] - Stillness as a navigational principle
 - [[the-obstacle-is-the-way]] - Ryan Holiday's obstacle framework
 - [[care]] - Care as a conceptual tool
+
+See also: [[ryan-holiday]]

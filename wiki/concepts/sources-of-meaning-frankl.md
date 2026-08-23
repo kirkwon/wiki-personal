@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Sources of Meaning (Frankl)
-description: "Sources of Meaning (Frankl)"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- philosophy
-- meaning
-sources:
-- mans-search-for-meaning
-- Sources of Meaning (Frankl)
-related: [logotherapy, will-to-meaning, tragic-optimism, science-of-joy]
----
+
 # Sources of Meaning (Frankl)
 
 Viktor Frankl identified three primary sources through which individuals can find meaning in life. These sources are not mutually exclusive and often intersect in practice.
@@ -27,3 +12,11 @@ Viktor Frankl identified three primary sources through which individuals can fin
 ## Implications
 
 These sources suggest that meaning is not found passively but actively constructed through engagement with life's demands and challenges. The framework provides a counterpoint to approaches that focus primarily on happiness or pleasure as the measure of a good life.
+
+See also: [[logotherapy]]
+
+See also: [[will-to-meaning]]
+
+See also: [[tragic-optimism]]
+
+See also: [[science-of-joy]]

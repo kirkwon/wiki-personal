@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Policies
-description: "Policies is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- policy
-sources:
-- Policies.md
-related:
-- principles---ray-dalio
+ray-dalio
 - how-the-economic-machine-works---ray-dalio
 - decision-making-frameworks
 - systematic-decision-making
@@ -30,3 +16,5 @@ This mental model connects to existing decision-making frameworks and systematic
 Confidence in this model is moderate (0.7), suggesting it is still being refined as a framework for application.^[raw/articles/Policies.md]
 
 See also: [[principles-ray-dalio]], [[how-the-economic-machine-works---ray-dalio]], and [[a-template-for-understanding-big-debt-crises---ray-dalio]].
+
+See also: [[principles]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Portfolio Concentration Risk
-description: "--
-Portfolio Concentration Risk"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- real-estate
-- risk-management
-- investment-risk
-- real-estate-investment
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- diversification-strategies-investments
-- real-estate-investment
-- diversification-strategies
----
+
 --
 # Portfolio Concentration Risk
 
@@ -52,3 +31,9 @@ The risk that an investment portfolio is overly concentrated in a single geograp
 **Target**: 30-40% small, 40-50% mid, 10-20% large.
 
 Diversification across these dimensions is the primary risk reduction technique in the [[risk-assessment-framework]].
+
+See also: [[diversification-strategies-investments]]
+
+See also: [[real-estate-investment]]
+
+See also: [[diversification-strategies]]

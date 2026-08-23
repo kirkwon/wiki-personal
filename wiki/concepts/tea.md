@@ -1,23 +1,4 @@
----
-created: 2026-04-24
-sources:
-- Pu-erh Tea.md
-tags:
-- tea
-- beverages
-date: 2026-04-24
-title: Tea
-type: concept
-updated: 2026-05-09
-related:
-- 普洱茶
-- 生普洱
-- 熟普洱
-- 黑茶
-- 红茶
-- 乌龙茶
-- 功夫茶
----
+
 -
 
 # Tea
@@ -255,3 +236,13 @@ Result: Smooth, low-acidity, refreshing
 ---
 *Tea index created: 2026-04-21 | Updated: 2026-04-29 | Next: Create tea type pages*
 ---
+
+See also: [[生普洱]]
+
+See also: [[熟普洱]]
+
+See also: [[黑茶]]
+
+See also: [[红茶]]
+
+See also: [[功夫茶]]

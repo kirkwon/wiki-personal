@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Automation of Finances
-description: "--
-Automation of Finances"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- automation
-- investing
-sources:
-- I Will Teach You to Be Rich.md
-related:
-- conscious-spending
-- the-4-buckets-framework
-- personal-finance
-- the-index-card-rules
----
+
 --
 # Automation of Finances
 
@@ -47,3 +28,5 @@ This approach aligns with [[the-index-card-rules]] philosophy of removing decisi
 
 See also: [[conscious-spending]], [[the-4-buckets-framework]]
 ^[raw/articles/I Will Teach You to Be Rich.md]
+
+See also: [[personal-finance]]

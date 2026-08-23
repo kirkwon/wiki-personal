@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Three Laws of Systems Thinking
-description: "--
-The Three Laws of Systems Thinking"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- systems-thinking
-- organizational-learning
-sources:
-- The Fifth Discipline - Peter M Senge.md
-related:
-- systems-thinking
-- learning-organizations
-- patterns-that-program-the-future
----
+
 --
 # The Three Laws of Systems Thinking
 
@@ -23,3 +6,9 @@ Fundamental laws governing how systems behave, explaining why traditional manage
 
 ## Key Insight
 Traditional management approaches often fail because they treat complex, interdependent issues as if they were simple, linear problems. The three laws reveal how systems produce unintended consequences through interconnection and feedback.
+
+See also: [[systems-thinking]]
+
+See also: [[learning-organizations]]
+
+See also: [[patterns-that-program-the-future]]

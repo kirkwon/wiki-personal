@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Long-Term Care Planning
-description: "--
-Long-Term Care Planning"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- retirement
-- healthcare
-- insurance
-sources:
-- Healthcare Costs in Retirement.md
-related:
-- healthcare-costs-in-retirement
-- retirement-planning
-- insurance
----
+
 --
 # Long-Term Care Planning
 
@@ -68,3 +49,5 @@ Long-term care is the largest single variable in retirement healthcare costs, wi
 
 ## See Also
 [[healthcare-costs-in-retirement]], [[health-savings-account-strategy]]
+
+See also: [[retirement-planning]]

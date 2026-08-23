@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 岩茶
-description: "岩茶指武夷山地区乌龙茶，以矿物质感强著称，大红袍是代表性品种。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- gastronomy
-- chinese
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- da-hong-pao-大红袍
-- tea-oxidation-茶叶氧化
----
+
 --
 # 岩茶
 
@@ -29,3 +12,7 @@ related:
 
 ## 代表品种
 [[da-hong-pao-大红袍]]
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[tea-oxidation-茶叶氧化]]

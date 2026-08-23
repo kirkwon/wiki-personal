@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Loss Aversion
-description: "Loss aversion is the tendency for losses to loom larger than equivalent gains."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- cognitive-bias
-- behavioral-economics
-- decision-making
-- prospect-theory
-sources:
-- thinking-fast-and-slow
-- Loss Aversion
-related: ["prospect-theory", "framing-effects-in-decision-making", "endowment-effect", "cognitive-biases-library", "dread-aversion", "framing-effects", "expected-value-ev"]
----
+
 
 # Loss Aversion
 
@@ -48,3 +32,7 @@ Loss aversion interacts with [[dread-aversion]] — the anticipation of future l
 - [[thinking-in-bets---annie-duke]] — Duke's framework attempts to counteract loss aversion
 - [[expected-value-ev]] — Expected value considerations contrast with loss-averse behavior
 - [[dread-aversion]] — Anticipation of losses adds additional emotional weight
+
+Sources: [[thinking-fast-and-slow]]
+
+See also: [[framing-effects]]

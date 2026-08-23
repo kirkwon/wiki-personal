@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: North Beach
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- neighborhoods
-sources:
-- san-francisco-city-guide.md
-related:
-- san-francisco
-- italian-cuisine
-- washington-square
----
+
 -
 # North Beach
 
@@ -30,3 +14,7 @@ Quartier italien historique avec une scène gastronomique italienne et une vie n
 Scène italienne réputée. Recommandation de dîner dans ce quartier plutôt que dans les zones touristiques.
 
 ---
+
+See also: [[san-francisco]]
+
+See also: [[italian-cuisine]]

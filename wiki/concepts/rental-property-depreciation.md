@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Rental Property Depreciation
-description: "--
-Rental Property Depreciation"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- tax
-- skill-candidate
-- investing
-- Financial Reporting Templates.md
-- Financial Reporting Templates.md
-related:
-- tax-optimization-templates
-- net-operating-income
-- real-estate-investment
----
+
 --
 # Rental Property Depreciation
 
@@ -37,3 +17,7 @@ Where depreciable basis = Building Value (Purchase Price - Land Value)
 ## Tracking
 
 The [[single-property-analysis-template]] includes depreciation analysis in the annual performance metrics section, and the [[tax-optimization-templates]] include a full depreciation schedule table tracking annual amounts, tax shields, and cumulative depreciation over 27.5 years.
+
+See also: [[net-operating-income]]
+
+See also: [[real-estate-investment]]

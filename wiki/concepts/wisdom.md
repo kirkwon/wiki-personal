@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Wisdom
-description: "Wisdom is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-related:
-- the-wisdom-of-crowds
-- superforecasting
-- prediction-markets
-- thinking-mental-model
-- brain-mental-model
-- solutions
-sources:
-- Wisdom.md
-confidence: medium
----
+
 --
 # Wisdom
 
@@ -37,3 +17,9 @@ Wisdom connects to [[superforecasting]], which uses probabilistic thinking and d
 ## Confidence and Open Questions
 
 This concept currently carries a confidence rating of 0.7, indicating it is a draft or conceptual placeholder rather than a rigorously validated claim. The boundary between general wisdom as a mental model and specific theories like crowd wisdom warrants further refinement.^[raw/articles/Wisdom.md]
+
+See also: [[thinking-mental-model]]
+
+See also: [[brain-mental-model]]
+
+See also: [[solutions]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Purpose (Mental Model)
-description: "--
-Purpose (Mental Model)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- decision-making
-sources:
-- Purpose.md
-related:
-- planning
-- care
-- obstacles
-- solutions
-- stillness
-- reality
-- the-infinite-game---simon-sinek
+simon-sinek
 - getting-things-done---david-allen
 ---
 --
@@ -58,3 +37,9 @@ Next review: 2026-07-17
 ## Applicability
 
 Universal across all domains.
+
+See also: [[solutions]]
+
+See also: [[reality]]
+
+See also: [[the-infinite-game]]

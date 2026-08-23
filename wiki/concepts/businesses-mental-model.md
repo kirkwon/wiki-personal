@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Businesses as a mental model
-description: "--
-Businesses as a mental model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- business
-sources:
-- Businesses.md
-related:
-- business
-- management
-- mental-models
-- scott-galloway
----
+
 --
 # Businesses as a mental model
 
@@ -37,3 +19,7 @@ This mental model is closely related to the existing [[business]] mental model a
 ## Confidence
 
 Confidence is moderate (0.7), with the entry being skeletal and evidence minimal—a single cross-source reference with no substantive elaboration.
+
+See also: [[mental-models]]
+
+See also: [[scott-galloway]]

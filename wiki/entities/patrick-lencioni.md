@@ -1,17 +1,13 @@
----
+Sources: [[the-five-dysfunctions-of-a-team]]
 
-date: 2026-05-03
-type: entity
-title: Patrick Lencioni
-description: "Business author known for team dynamics and organizational health through popular management concepts."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- person
-- books
-- management
-sources:
-- the-five-dysfunctions-of-a-team
-- Patrick Lencioni
-related: [the-five-dysfunctions-of-a-team, absence-of-trust, fear-of-conflict, lack-of-commitment, avoidance-of-accountability, inattention-to-results, building-a-cohesive-team]
----
+See also: [[absence-of-trust]]
+
+See also: [[fear-of-conflict]]
+
+See also: [[lack-of-commitment]]
+
+See also: [[avoidance-of-accountability]]
+
+See also: [[inattention-to-results]]
+
+See also: [[building-a-cohesive-team]]

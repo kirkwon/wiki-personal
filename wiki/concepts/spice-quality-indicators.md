@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Spice Quality Indicators
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- spices
-- gastronomy
-- cooking-techniques
-sources:
-- Cumin.md
-related:
-- cumin-cuminum-cyminum
-- herbs-spices
-- herbs-spices-dried-herbs
----
+
 -
 # Spice Quality Indicators
 
@@ -37,3 +21,9 @@ Evaluating spice quality before purchase and during storage ensures optimal flav
 ## Storage Impact
 Proper storage (airtight, cool, dark, dry) preserves quality. Whole seeds last 2-3 years; ground spices last 6-12 months. Buying whole and grinding fresh is the best practice for maximum aroma.
 ---
+
+See also: [[cumin-cuminum-cyminum]]
+
+See also: [[herbs-spices]]
+
+See also: [[herbs-spices-dried-herbs]]

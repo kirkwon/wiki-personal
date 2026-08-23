@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Single Property Analysis Template
-description: "--
-Single Property Analysis Template"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- template
-- real-estate
-- investing
-sources:
-- Financial Reporting Templates.md
-related:
-- net-operating-income
-- cap-rate
-- cash-on-cash-return
-- debt-coverage-ratio
-- break-even-ratio
-- depreciation-schedule
-- real-estate-investment-templates
----
+
 --
 # Single Property Analysis Template
 
@@ -50,3 +28,15 @@ A comprehensive template for analyzing individual investment properties, trackin
 ## Related Templates
 - [[multi-property-portfolio-template]]
 - [[investment-property-acquisition-template]]
+
+See also: [[net-operating-income]]
+
+See also: [[cap-rate]]
+
+See also: [[cash-on-cash-return]]
+
+See also: [[debt-coverage-ratio]]
+
+See also: [[break-even-ratio]]
+
+See also: [[real-estate-investment-templates]]

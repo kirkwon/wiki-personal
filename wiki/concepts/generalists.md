@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Generalists
-description: "Generalists is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- learning
-- problem-solving
-sources:
-- Generalists.md
-related:
-- specialization-and-generalization
-- problem-solving
-- brain-mental-model
-- ideas-mental-model
-- range-david-epstein
----
+
 --
 # Generalists
 
@@ -47,3 +28,5 @@ David Epstein's book *Range* argues that generalists often outperform specialist
 ## Applicability
 
 Universal — applicable across personal decision-making, career planning, learning strategies, and creative work.
+
+See also: [[range-david-epstein]]

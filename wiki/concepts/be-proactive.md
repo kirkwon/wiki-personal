@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Be Proactive
-description: "Being proactive is the first habit in Stephen R."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- mental-models
-- decision-making
-sources:
-- the-7-habits-of-highly-effective-people
-- Be Proactive
-related: [begin-with-the-end-in-mind, put-first-things-first, time-management-matrix]
----
+
 # Be Proactive
 
 Being proactive is the first habit in Stephen R. Covey's framework, and it centers on taking responsibility for one's own life and responses rather than reacting automatically to external events. A proactive person recognizes that while they cannot control external circumstances, they can control their reactions to them.
@@ -31,3 +16,11 @@ Being proactive connects to [[sharpen-the-saw]] through self-awareness and to [[
 ## Source
 
 [[the-7-habits-of-highly-effective-people---stephen-r-covey]] - Stephen R. Covey
+
+Sources: [[the-7-habits-of-highly-effective-people]]
+
+See also: [[begin-with-the-end-in-mind]]
+
+See also: [[put-first-things-first]]
+
+See also: [[time-management-matrix]]

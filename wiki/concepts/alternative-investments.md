@@ -1,32 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Alternative Investments
-description: "--
-Alternative Investments"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- diversification
-- risk-management
-sources:
-- Alternative Investments.md
-related:
-- real-estate-investment
-- risk-assessment-framework
-- retirement-planning
-- diversification
-- private-equity
-- commodities-investing
-- commodities
-- collectibles-as-investments
-- cryptocurrency-investments
-- farmland-and-timber-investments
-- infrastructure-investments
-- risk-management
----
+
 --
 # Alternative Investments
 
@@ -105,3 +77,5 @@ Connects to [[decision-making-under-uncertainty]] and [[expected-value-ev]] thro
 - [[cryptocurrency-investments]]
 - [[farmland-and-timber-investments]]
 - [[infrastructure-investments]]
+
+See also: [[risk-management]]

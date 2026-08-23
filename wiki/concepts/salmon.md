@@ -1,29 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Salmon
-description: "養殖または野生。通年。油っこく、脂が多い。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- seafood
-- ingredient
-- cooking
-- gastronomy
-- japanese
-- cuisine
-sources:
-- Gastronomy.md
-- sushi-sashimi.md
-related:
-- salmon-collars
-- recipe:glazed-salmon-collars
-- resting-meat
-- seasonings
-- sashimi
-- nigiri
-- sushi-and-sashimi
----
+
 --
 # 鮭（Sake/Salmon）
 
@@ -43,3 +18,5 @@ Proper [[resting-meat]] after cooking is important for salmon to maximize juicin
 - [[sashimi]]
 - [[nigiri]]
 - [[sushi-and-sashimi]]
+
+See also: [[seasonings]]

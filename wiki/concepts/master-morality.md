@@ -1,20 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Master Morality
-description: "One half of Nietzsche's master vs. slave morality framework."
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- philosophy
-- moral-philosophy
-sources:
-- Beyond Good and Evil - Friedrich Nietzsche.md
-related:
-- master-vs-slave-morality
-- beyond-good-and-evil-nietzsche
-- will-to-power
----
+
 --
 # Master Morality
 
@@ -30,3 +14,5 @@ One half of Nietzsche's master vs. slave morality framework. Master morality ori
 ## Related
 
 See [[master-vs-slave-morality]], [[slave-morality]], and [[will-to-power]].
+
+See also: [[beyond-good-and-evil-nietzsche]]

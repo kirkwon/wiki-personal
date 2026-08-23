@@ -1,20 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Micro-Nations
-description: "Micro-nations are small countries or territories seeking self-determination, autonomy, and economic growth by leveraging unique advantages in a post-corona world order."
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- geopolitics
-- economics
-sources:
-- Post Corona_ From Crisis to Opportunity - Scott Galloway.md
-related:
-- nationalism-vs-globalization
-- post-pandemic-business-transformation
-- scott-galloway
----
+
 --
 # Micro-Nations
 
@@ -32,3 +16,7 @@ Micro-nations are small countries or territories seeking self-determination, aut
 - [[nationalism-vs-globalization]]
 - [[platform-dominance]]
 - [[skin-in-the-game]]
+
+See also: [[post-pandemic-business-transformation]]
+
+See also: [[scott-galloway]]

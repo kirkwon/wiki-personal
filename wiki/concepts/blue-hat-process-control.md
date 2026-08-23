@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Blue Hat - Process Control
-description: "Blue Hat - Process Control"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- decision-making
-- metaprocess
-- facilitation
-- group-dynamics
-- thinking
-- framework
-- metacognition
-sources:
-- six-thinking-hats
-- Blue Hat - Process Control
-related: ["six-thinking-hats", "systematic-decision-making", "building-a-cohesive-team", "effective-listening", "decision-making-frameworks", "communication-skills"]
----
+
 # Blue Hat - Process Control
 
 The Blue Hat is the metaprocess hat that manages the overall discussion and coordinates all other hats. It serves as the facilitator's role, deciding which hat to use next, setting the sequence of perspectives, and ensuring the group stays on track. As metacognition over the discussion, it represents the mode of thinking focused on managing and coordinating the thinking process itself.
@@ -39,3 +20,9 @@ The Blue Hat acts as the orchestrator of the thinking process, encapsulating and
 ## Connections
 
 The Blue Hat connects directly to [[systematic-decision-making]] and [[building-a-cohesive-team]] by providing a structured way to manage group deliberation. This metaprocess role also relates to [[effective-listening]] by ensuring participants are heard in the appropriate context.
+
+Sources: [[six-thinking-hats]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[communication-skills]]

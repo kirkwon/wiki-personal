@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Meal Mental Model
-description: "Meal is a universal conceptual tool that provides a mental shortcut for understanding patterns and relationships in complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- learning
-sources:
-- Meal.md
-related:
-- recipes-mental-model
-- solutions
-- group
-- stillness
-- planning
-confidence: 0.7
----
+
 --
 # Meal Mental Model
 
@@ -36,3 +16,7 @@ This model is applicable across domains, connecting to [[Solutions]], [[group]],
 
 ## Source
 Referenced from [[the-4-hour-chef---timothy-ferriss]] by Timothy Ferriss.
+
+See also: [[solutions]]
+
+See also: [[planning]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Ragù alla Bolognese
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- italian
-- pasta
-- emilia-romagna
-sources:
-- pasta.md
-related:
-- pasta
-- tagliatelle
-- fresh-pasta-making
----
+
 -
 # Ragù alla Bolognese
 
@@ -34,3 +18,7 @@ The ragù is slow-cooked for 3-4 hours, developing deep flavor through long brai
 
 This dish exemplifies the Emilia-Romagna tradition and pairs best with [[tagliatelle]] due to the flat, wide shape that captures the rich meat sauce.
 ---
+
+See also: [[pasta]]
+
+See also: [[fresh-pasta-making]]

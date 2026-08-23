@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Multi-Property Portfolio Template
-description: "--
-Multi-Property Portfolio Template"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- template
-- real-estate
-- investing
-sources:
-- Financial Reporting Templates.md
-related:
-- single-property-analysis-template
-- cap-rate
-- cash-on-cash-return
-- real-estate-investment-templates
----
+
 --
 # Multi-Property Portfolio Template
 
@@ -35,3 +16,11 @@ Compares each property on purchase price, current value, monthly rent, expenses,
 - Total monthly income, expenses, cash flow
 - Annual cash flow, portfolio value, equity
 - Portfolio LTV, cash on cash, cap rate, debt coverage ratio
+
+See also: [[single-property-analysis-template]]
+
+See also: [[cap-rate]]
+
+See also: [[cash-on-cash-return]]
+
+See also: [[real-estate-investment-templates]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Rule of Thirds
-description: "The rule of thirds is a fundamental composition technique that divides the frame into a 3x3 grid of nine equal parts."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- composition
-- fundamentals
-sources:
-- composition-techniques.md
-- photography-fundamentals.md
-related:
-- composition-techniques
-- photography-fundamentals
-- street-photography
-- leading-lines
-- golden-ratio-composition
----
+
 --
 # Rule of Thirds
 
@@ -45,3 +25,9 @@ Creates balance and natural tension, mimicking how humans naturally view scenes.
 ## When to Break the Rule
 
 Center composition can work for symmetry or a strong central subject. Breaking the rule intentionally creates tension, imbalance, or surprise when the effect demands it.
+
+See also: [[street-photography]]
+
+See also: [[leading-lines]]
+
+See also: [[golden-ratio-composition]]

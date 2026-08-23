@@ -1,25 +1,4 @@
----
-date: 2026-06-30
-type: concept
-title: "Mean-Variance Myopia Under Stochastic Volatility"
-description: "The static mean-variance efficient frontier is the myopic special case of the full intertemporal portfolio problem. When volatility is stochastic, the optimal strategy includes a positive intertemporal hedging demand that static M-V ignores."
-created: 2026-06-30
-updated: 2026-06-30
-tags:
-  - portfolio-theory
-  - stochastic-volatility
-  - intertemporal-hedging
-  - limitation
-sources:
-  - optimal-investment-stochastic-volatility-chiarella-hsiao
-  - pca-random-matrix-theory-equity-markets
-related:
-  - factors
-  - factor-investing
-  - mean-variance-analyzer
-  - asymmetry-hunter
-  - causal-portfolio-research
----
+
 
 # Mean-Variance Myopia Under Stochastic Volatility
 
@@ -88,3 +67,7 @@ links:
 1. How do we incorporate intertemporal hedging demand into our existing mean-variance-analyzer without making it impractically complex? A simple approximation: add a regime-sensitive adjustment to the covariance matrix based on the current vol state.
 2. Can we estimate the EKF-based latent volatility from our existing data feeds (Yahoo Finance CSV API, FRED), or do we need options data? The paper shows equity returns alone are sufficient.
 3. For our bond-hedging causal model (causal-portfolio-research), how much does the intertemporal hedge change the optimal allocation vs the static bond allocation of 5-8%?
+
+Sources: [[optimal-investment-stochastic-volatility-chiarella-hsiao]]
+
+Sources: [[pca-random-matrix-theory-equity-markets]]

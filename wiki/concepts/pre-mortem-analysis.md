@@ -1,29 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Pre-Mortem Analysis
-description: "--
-Pre-Mortem Analysis"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- strategy
-- decision-making
-- risk-management
-- mental-models
-- cognitive-bias
-sources:
-- decision-making-frameworks.md
-- cognitive-biases-library.md
-related:
-- decision-making-frameworks
-- real-options-analysis
-- risk-assessment-framework
-- cognitive-biases-library
-- scenario-planning
-- decision-tracking
-- red-teaming
----
+
 --
 # Pre-Mortem Analysis
 
@@ -46,3 +21,5 @@ Decision: Launch a new product
 - Related to [[scenario-planning]], [[decision-tracking]], and [[red-teaming]].
 - Pre-mortems counter [[planning-fallacy]] and [[overconfidence-and-certainty]] by forcing consideration of negative outcomes.
 - Also connected to [[real-options-analysis]] (test of reversibility and risk management), [[risk-assessment-framework]] (risk assessment), and [[decision-making-frameworks]] (one of many frameworks).
+
+See also: [[cognitive-biases-library]]

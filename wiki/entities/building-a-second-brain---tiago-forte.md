@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Building a Second Brain - Tiago Forte
-description: "-
-Building a Second Brain - Tiago Forte"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- books
-- productivity
-- personal-knowledge-management
-- book
-- knowledge-management
-sources:
-- Brain.md
-- Tools.md
-related:
-- personal-knowledge-vault
-- personal-knowledge-vault-readme
-- brain-mental-model
-- tools
-- the-4-hour-workweek ---timothy-ferriss
+timothy-ferriss
 - tools-of-titans---timothy-ferriss
 ---
 -
@@ -51,3 +29,5 @@ This framework connects to existing personal knowledge management concepts in th
 - [[tools]]
 - [[the-4-hour-workweek-timothy-ferriss]]
 - [[tools-of-titans---timothy-ferriss]]
+
+See also: [[the-4-hour-workweek]]

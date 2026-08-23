@@ -1,15 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Polya's Four-Step Problem-Solving Framework
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- problem-solving
-- heuristics
-- decision-making
-related:
-- how-to-solve-it---george-polya
+george-polya
 - heuristic-problem-solving
 - decision-making-frameworks
 - decision-tracking
@@ -29,3 +18,5 @@ George Polya's central contribution is a simple yet powerful four-step process f
 
 This framework directly connects to [[decision-tracking]]—Polya's "Looking Back" phase is essentially a precursor to Annie Duke's practice of recording and reviewing decisions. It also relates to [[decision-quality-vs-outcome-quality]], since Polya explicitly asks you to evaluate the process independent of the result.
 ---
+
+See also: [[how-to-solve-it]]

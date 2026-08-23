@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Range - David Epstein
-description: "--
-Range - David Epstein"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- learning
-- productivity
-- mental-model
-related:
-- cross-training-in-different-skills-or-disciplines
-- personal-knowledge-vault
-- superforecasting
-- problem-solving
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 sources:
 - Cross-training in different skills or disciplines.md
 ---
@@ -40,3 +23,9 @@ Epstein's work directly supports the practice of [[Cross-training in different s
 - [[superforecasting]] — Diverse perspectives improve predictive accuracy.
 - [[experiment-and-exploration-forms-of-world-disclosure---snke-ahrens]] — Exploring diverse knowledge domains.
 - [[personal-knowledge-vault]] — Managing knowledge across domains.
+
+See also: [[cross-training-in-different-skills-or-disciplines]]
+
+See also: [[problem-solving]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

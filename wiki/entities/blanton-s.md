@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Blanton's
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- spirits
-- bourbon
-- whisky
-- tasting
-sources:
-- Whisky Tasting Notes.md
-related:
-- spirits-index
-- bourbon
-- whisky-tasting-notes
----
+
 -
 # Blanton's
 
@@ -38,3 +21,5 @@ Single Barrel Kentucky Bourbon. Rated as a collector's bourbon and one of the hi
 
 See [[spirits-index]] and [[bourbon]] for broader context.
 ---
+
+See also: [[whisky-tasting-notes]]

@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Bright Idea / Insight in Problem-Solving
-description: "-
-Bright Idea / Insight in Problem-Solving"
-created: 2026-05-03
-updated: 2026-05-11
-tags:
-- problem-solving
-- cognition
-- creativity
-- cognitive-science
-- learning
-related:
-- how-to-solve-it ---george-polya
+george-polya
 - heuristic-problem-solving
 - naturalistic-decision-making
 - polya-four-steps
@@ -31,3 +16,5 @@ A "bright idea" or insight is the moment when a solution becomes clear—often a
 This view connects to [[naturalistic-decision-making]], where Gary Klein's research shows that experienced decision-makers recognize patterns rapidly based on prior experience. Both Polya and Klein treat expertise as building a repertoire of patterns, but Polya emphasizes deliberate strategic engagement while Klein emphasizes intuitive recognition.
 
 The concept also relates to the "subconscious work" heuristic—problems often continue to percolate below conscious awareness, and solutions surface when the mind has had time to process. Polya's broader framework positions systematic effort and creative intuition as complementary rather than opposed, and his "When to stop" guidance warns against avoiding creative intuition in favor of purely systematic approaches.
+
+See also: [[how-to-solve-it]]

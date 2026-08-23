@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Communication-taito
-description: "--
-Communication-taito"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- skill
-sources:
-- Communication.md
-related:
-- communication-skills
-- supercommunicators-charles-duhigg
-- scatterfocus
-- deep-work - Cal Newport
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 ---
 --
 # Communication-taito
@@ -45,3 +26,5 @@ Communication-taito sisältää menetelmät, tekniikat ja kehykset, jotka maksim
 
 Communication-taito liittyy [[supercommunicators-charles-duhigg]] -kirjaan, [[scatterfocus]] -keskittymismalliin ja [[communication-skills]] -perinteiseen viestintätaitoon. Se myös yhdistää [[deep-work---cal-newport]]:n ja [[thinking-fast-and-slow---daniel-kahneman]]:n ajattelutapoihin tehokkuuden parantamisessa.
 ^[raw/articles/Communication.md]
+
+See also: [[thinking-fast-and-slow]]

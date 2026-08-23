@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Experimentation
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Experimentation.md
-related:
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - world-disclosure
 - planning
 - decomposing-and-recombining
@@ -49,3 +37,5 @@ Drawing on Sönke Ahrens' framework from *Experiment and Exploration: Forms of W
 - How does this model interact with other mental models like [[planning]] or [[problem-solving]]?
 - At what point does experimentation shift from productive inquiry to aimless trial?
 ---
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

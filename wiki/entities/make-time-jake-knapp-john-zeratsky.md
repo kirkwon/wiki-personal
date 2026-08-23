@@ -1,16 +1,7 @@
----
+See also: [[daily-highlight]]
 
-date: 2026-05-03
-title: Make Time - Jake Knapp & John Zeratsky
-created: 2026-05-03
-updated: 2026-05-03
-type: entity
-tags:
-- person
-- productivity
-- books
-sources:
-- make-time
-- Make Time - Jake Knapp & John Zeratsky
-related: [daily-highlight, the-busy-trap, the-infinity-pool, laser-focus-techniques]
----
+See also: [[the-busy-trap]]
+
+See also: [[the-infinity-pool]]
+
+See also: [[laser-focus-techniques]]

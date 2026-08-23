@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Time Value of Money Decisions
-description: "--
-Time Value of Money Decisions"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- mental-models
-sources:
-- The Algebra of Wealth.md
-related:
-- wealth-formula-focus-stoicism-time-diversification
-- the-algebra-of-wealth
-- retirement-planning
-- real-estate-investment
----
+
 --
 # Time Value of Money Decisions
 
@@ -54,3 +35,7 @@ Geld verdoppelt sich bei: 72 ÷ Zinssatz = Jahre bis zur Verdopplung
 - [[retirement-planning]] – Zeitrahmen und Decumulation
 - [[real-estate-investment]] – Immobilien als Vermögenswert
 - [[investment-strategies-for-life-satisfaction]] – Langfristige Ausrichtung
+
+See also: [[wealth-formula-focus-stoicism-time-diversification]]
+
+See also: [[the-algebra-of-wealth]]

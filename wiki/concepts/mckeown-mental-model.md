@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Mckeown Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- decision-making
-- productivity
-sources:
-- Mckeown.md
-related:
-- essentialism
-- effortless
-- minimalism
-- effort
-- decision-making-frameworks
----
+
 -
 # Mckeown Mental Model
 
@@ -39,3 +21,7 @@ McKeown functions as a universal mental model—applicable across all domains—
 
 McKeown's framework connects to existing wiki concepts including [[minimalism]], [[effort]], [[decision-making-frameworks]], [[quadrant-2-focus]], and [[the-index-card-rules]]. It provides a complementary lens to these models by emphasizing elimination and focus rather than optimization of existing processes.
 ---
+
+See also: [[essentialism]]
+
+See also: [[effortless]]

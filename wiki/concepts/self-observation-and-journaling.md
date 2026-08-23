@@ -1,18 +1,11 @@
----
+See also: [[stoicism]]
 
-date: 2026-05-03
-type: concept
-title: Self-Observation and Journaling
-description: "Self-Observation and Journaling | concept | philosophy, productivity, mental-models, psychology."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- productivity
-- mental-models
-- psychology
-sources:
-- the-daily-stoic
-- Self-Observation and Journaling
-related: [stoicism, ryan-holiday, active-revision-techniques, categorizing-information, science-of-joy, embracing-failure-for-personal-growth]
----
+See also: [[ryan-holiday]]
+
+See also: [[active-revision-techniques]]
+
+See also: [[categorizing-information]]
+
+See also: [[science-of-joy]]
+
+See also: [[embracing-failure-for-personal-growth]]

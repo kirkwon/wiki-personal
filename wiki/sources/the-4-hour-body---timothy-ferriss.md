@@ -1,24 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The 4-Hour Body - Timothy Ferriss
-description: "The 4-Hour Body - Timothy Ferriss"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- health
-- fitness
-- intermittent-fasting
-- hiit
-- metabolic-flexibility
-- sleep-optimization
-- mindset
-- habit-formation
-- book
-sources:
-- the-4-hour-body
-- The 4-Hour Body - Timothy Ferriss
----
+
 # The 4-Hour Body - Timothy Ferriss
 
 Timothy Ferriss's *The 4-Hour Body* presents an unconventional approach to health, fitness, and body transformation. The book challenges conventional dietary and exercise regimens, offering alternative strategies centered on genetic understanding, sleep optimization, intermittent fasting, high-intensity interval training, and mindset work.
@@ -41,3 +21,7 @@ Timothy Ferriss's *The 4-Hour Body* presents an unconventional approach to healt
 ## Core Concepts
 
 The book's central argument is that conventional health advice (excessive cardio, extreme calorie restriction) is often counterproductive, and that optimized approaches (fasting, HIIT, targeted supplementation, sleep hygiene, mindset work) yield better results in less time. The "body as experiment" ethos runs throughout, encouraging N=1 experimentation and continuous adjustment.
+
+Sources: [[the-4-hour-body]]
+
+Sources: [[The 4-Hour Body - Timothy Ferriss]]

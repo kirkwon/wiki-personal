@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: First-Order and Second-Order Thinking
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- mental-models
-- systems-thinking
-sources:
-- Super Thinking - Gabriel Weinberg.md
-related:
-- super-thinking-gabriel-weinberg
-- decision-quality-vs-outcome-quality
-- working-backwards-in-problem-solving
-- decision-making-frameworks
----
+
 -
 # First-Order and Second-Order Thinking
 
@@ -35,3 +18,5 @@ Weinberg emphasizes that super thinking involves moving beyond first-order intui
 
 Related to [[super-thinking-gabriel-weinberg]] and [[thinking-fast-and-slow---daniel-kahneman]].
 ---
+
+See also: [[decision-making-frameworks]]

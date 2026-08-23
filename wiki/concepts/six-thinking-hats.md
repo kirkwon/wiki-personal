@@ -1,26 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Six Thinking Hats
-description: "The Six Thinking Hats is Edward de Bono's parallel thinking method for structured group deliberation, developed by [[edward-de-bono]]."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- decision-making
-- frameworks
-- group-dynamics
-- parallel-thinking
-- creativity
-- problem-solving
-- communication-skills
-- thinking
-- framework
-- mental-models
-sources:
-- six-thinking-hats
-- Six Thinking Hats
-related: ["decision-making-frameworks", "decisions-in-teams", "group-decision-polarization", "systematic-decision-making", "building-a-cohesive-team", "white-hat-facts-and-data", "red-hat-emotions-and-intuition", "black-hat-cautionary-perspective", "yellow-hat-positive-viewpoints", "green-hat-new-ideas", "blue-hat-process-control", "lateral-thinking", "edward-de-bono", "structured-group-thinking", "perspectives-in-decision-making"]
----
+
 # Six Thinking Hats
 
 The Six Thinking Hats is Edward de Bono's parallel thinking method for structured group deliberation, developed by [[edward-de-bono]]. It uses six colored hats to represent distinct modes of thought, enabling groups and individuals to consider all angles systematically rather than engaging in adversarial debate. Each hat encourages a specific perspective during decision-making and problem-solving.
@@ -62,3 +40,15 @@ This framework connects to [[emotion-and-intuition-in-decisions]] by legitimizin
 ## Source
 
 De Bono, *Lateral Thinking: Creativity Step by Step* (2024), Chapter 4; see also [[Six Thinking Hats - Edward de Bono]]
+
+Sources: [[six-thinking-hats]]
+
+See also: [[decisions-in-teams]]
+
+See also: [[group-decision-polarization]]
+
+See also: [[systematic-decision-making]]
+
+See also: [[building-a-cohesive-team]]
+
+See also: [[lateral-thinking]]

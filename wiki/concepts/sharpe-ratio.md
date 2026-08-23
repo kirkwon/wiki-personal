@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Sharpe Ratio
-description: "Measures risk-adjusted return by dividing excess return over the risk-free rate by portfolio standard deviation."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- investing
-- metrics
-- portfolio-management
-- personal-finance
-- risk-metrics
-sources:
-- Financial Reporting Templates.md
-- Risk Management.md
-related:
-- stock-and-bond-tracking
-- portfolio-performance-template
-- financial-reporting-templates
-- standard-deviation
-- bet-sizing
-- risk-management
----
+
 --
 # Sharpe Ratio
 
@@ -44,3 +21,7 @@ Used to compare portfolio return per unit of risk. A higher Sharpe Ratio indicat
 ## Connections
 
 Links to [[standard-deviation]] and [[bet-sizing]].
+
+See also: [[financial-reporting-templates]]
+
+See also: [[risk-management]]

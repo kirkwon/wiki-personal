@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Four-step problem-solving framework
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- problem-solving
-sources:
-- Four-step problem-solving framework.md
-related:
-- polya-four-steps
-- problem-solving
-- scatterfocus
-- active-revision-techniques
-- how-to-solve-it---george-polya
+george-polya
 ---
 -
 # Four-step problem-solving framework
@@ -39,3 +22,5 @@ This framework is distinct from [[polya-four-steps]], which describes George Pol
 
 Related concepts include [[active-revision-techniques]], [[scatterfocus]], and [[problem-solving]].
 ---
+
+See also: [[how-to-solve-it]]

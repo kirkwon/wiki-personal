@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Ingredients (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general-knowledge
-related:
-- recipes-mental-model
-- ingredient-pairings
-- categorizing-information
-- the-4-hour-chef
-- wok-hei
-sources:
-- Ingredients.md
-confidence: medium
----
+
 -
 # Ingredients (mental model)
 
@@ -38,3 +20,5 @@ Links to [[recipes-mental-model]] (structured frameworks for navigating complexi
 
 How does this model distinctively differ from [[recipes-mental-model]] or [[categorizing-information]]? The abstraction level is high but elaboration from a single source limits clarity of differentiation.
 ---
+
+See also: [[the-4-hour-chef]]

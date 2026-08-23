@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Hyperbolic Discounting
-description: "Hyperbolic Discounting"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- behavioral-economics
-- decision-making
-- cognitive-bias
-sources:
-- the-winners-curse
-- Hyperbolic Discounting
-related: [self-control-and-addiction, commitment-devices, decision-making-under-uncertainty]
----
+
 # Hyperbolic Discounting
 
 Hyperbolic discounting describes the tendency for people to prefer smaller immediate rewards over larger future rewards, with the degree of discounting being disproportionately high for near-term options. This present bias leads to procrastination, under-saving, and addictive behaviors.
@@ -32,3 +17,7 @@ Hyperbolic discounting describes the tendency for people to prefer smaller immed
 - Removing tempting options from the immediate environment
 
 Thaler's chapter on self-control and addiction emphasizes that these failures are predictable and can be designed around, connecting to the broader theme of [[decision-making-under-uncertainty]] and institutional design.
+
+See also: [[self-control-and-addiction]]
+
+See also: [[commitment-devices]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Zero-Cost Bias
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- decision-making
-- behavioral-economics
-sources:
-- Predictably Irrational - Dan Ariely.md
-related:
-- predictably-irrational-dan-ariely
-- decision-making-frameworks
-- prospect-theory
----
+
 -
 # Zero-Cost Bias
 
@@ -35,3 +19,7 @@ The disproportionate psychological pull of "free" — when zero is involved in p
 
 Connects to [[prospect-theory]]'s asymmetric valuation of gains and losses, and to Ariely's broader argument that irrationality is systematic and therefore manageable through better system design.
 ---
+
+See also: [[predictably-irrational-dan-ariely]]
+
+See also: [[decision-making-frameworks]]

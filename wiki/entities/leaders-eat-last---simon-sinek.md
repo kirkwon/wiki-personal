@@ -1,29 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Leaders Eat Last - Simon Sinek
-description: "--
-Leaders Eat Last - Simon Sinek"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- book
-- leadership
-- culture
-- books
-sources:
-- Leaders Eat Last - Simon Sinek.md
-- Sense.md
-related:
-- simon-sinek
-- triple-bottom-line
-- belonging-in-leadership
-- service-over-profit-leadership
-- infinite-game-mindset
-- sense
-- building-a-cohesive-team
-- trust-fundamentals
----
+
 --
 # Leaders Eat Last - Simon Sinek
 
@@ -56,3 +31,13 @@ The book is cited as the source for the [[sense]] mental model, where "sense" re
 - [[building-a-cohesive-team]]
 - [[trust-fundamentals]]
 - [[sense]]
+
+See also: [[simon-sinek]]
+
+See also: [[triple-bottom-line]]
+
+See also: [[belonging-in-leadership]]
+
+See also: [[service-over-profit-leadership]]
+
+See also: [[infinite-game-mindset]]

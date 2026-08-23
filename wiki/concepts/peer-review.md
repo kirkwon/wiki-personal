@@ -1,13 +1,4 @@
----
-date: 2026-06-13
-type: concept
-title: Peer Review
-created: 2026-06-13
-updated: 2026-06-13
-tags: [peer-review, critical-thinking]
-related: [validation-of-mental-models, mental-models, incremental-validation, social-validation, design-experiments]
-sources: ["research-validation-of-mental-models-2026-06-13-065345.md"]
----
+
 # Peer Review
 Peer review is the process of sharing a mental model with others and receiving feedback. This process helps identify areas for improvement and refine the mental model.
 
@@ -26,3 +17,13 @@ Peer review has a wide range of applications, including business, economics, pol
 ## References
 [[research-validation-of-mental-models-2026-06-13-065345.md]]
 ---
+
+See also: [[validation-of-mental-models]]
+
+See also: [[mental-models]]
+
+See also: [[incremental-validation]]
+
+See also: [[social-validation]]
+
+See also: [[design-experiments]]

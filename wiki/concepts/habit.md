@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Habit
-description: "Habit is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- psychology
-sources:
-- Habit.md
-related:
-- hook-model
-- external-triggers
-- internal-triggers
-- user-investment-habit
-- habit-testing
-- fizzgogg-behavior-model
-- attention-budget
-- attention-residue
-- hyperfocus---chris-bailey
+chris-bailey
 - atomic-habits---james-clear
 - smarter-faster-better---charles-duhigg
 - supercommunicators-charles-duhigg
@@ -51,3 +29,5 @@ Habit is applicable universally. It connects to existing behavior models like th
 ## Confidence
 
 Moderate (0.7). The model is aggregative, synthesizing external sources rather than presenting original research, but the cross-source consensus strengthens its validity as a unifying framework.
+
+See also: [[hyperfocus]]

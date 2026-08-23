@@ -1,18 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 北京菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
----
+
 -
 # 北京菜
 
@@ -40,3 +26,5 @@ related:
 - 羊肉和山珍
 - 咸鲜风味
 ---
+
+See also: [[chinese-regional-cuisines]]

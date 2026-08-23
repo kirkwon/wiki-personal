@@ -1,17 +1,17 @@
----
+Sources: [[ego-is-the-enemy]]
 
-date: 2026-05-03
-type: concept
-title: Ego Is the Enemy
-description: "Ego Is the Enemy: Recognizing that excessive self-regard is the primary obstacle to growth and wisdom."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- philosophy
-- personal-development
-sources:
-- ego-is-the-enemy
-- Ego Is the Enemy
-related: [ryan-holiday, ego-as-barrier-to-learning, egotistical-leader, ego-in-relationships, ego-in-social-media, overconfidence-and-certainty, ascription-bias, skin-in-the-game]
----
+See also: [[ryan-holiday]]
+
+See also: [[ego-as-barrier-to-learning]]
+
+See also: [[egotistical-leader]]
+
+See also: [[ego-in-relationships]]
+
+See also: [[ego-in-social-media]]
+
+See also: [[overconfidence-and-certainty]]
+
+See also: [[ascription-bias]]
+
+See also: [[skin-in-the-game]]

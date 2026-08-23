@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Leaders Eat Last - Simon Sinek
-description: "--
-Leaders Eat Last - Simon Sinek"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- leadership
-- mental-model
-- trust
-- management
-sources:
-- Employees.md
-related:
-- simon-sinek
-- management
-- care
-- trust-fundamentals
-- building-a-cohesive-team
-- the-five-dysfunctions-of-a-team
-- infinite-game-mindset
----
+
 --
 # Leaders Eat Last - Simon Sinek
 
@@ -43,3 +20,7 @@ This framework connects directly to several existing mental models:
 
 ## Relevance
 The ideas in *Leaders Eat Last* reinforce the importance of psychological safety, servant leadership, and long-term trust-building as cornerstones of effective organizations and relationships.
+
+See also: [[simon-sinek]]
+
+See also: [[infinite-game-mindset]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Bay Area Housing Deficit
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- bay-area
-- housing-shortage
-sources:
-- Bay Area Market Analysis.md
-related:
-- real-estate-investment
-- bay-area-real-estate-market-analysis
-- proposition-19-overview
----
+
 -
 # Déficit de Vivienda del Bay Area
 
@@ -32,3 +16,9 @@ El déficit contribuye directamente a la escasez de oferta, manteniendo los prec
 ## Conexión con estrategias de inversión
 Este déficit representa una oportunidad a largo plazo para inversores que priorizan la apreciación y los flujos de caja, aunque los precios de entrada elevados y los riesgos regulatorios requieren una planificación cuidadosa. La construcción de nuevas unidades permanece limitada, lo que sugiere que la presión de demanda se mantendrá.
 ---
+
+See also: [[real-estate-investment]]
+
+See also: [[bay-area-real-estate-market-analysis]]
+
+See also: [[proposition-19-overview]]

@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Begin with the End in Mind
-description: "Begin with the End in Mind"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- mental-models
-- decision-making
-sources:
-- the-7-habits-of-highly-effective-people
-- Begin with the End in Mind
-related: [be-proactive, put-first-things-first, working-backwards]
----
+
 # Begin with the End in Mind
 
 This habit emphasizes the importance of having a clear vision or purpose that shapes priorities, goals, values, and principles. Covey argues that without a defined end state, effort becomes scattered and reactive rather than directed.
@@ -31,3 +16,11 @@ This concept connects to [[working-backwards-in-problem-solving]], where definin
 ## Source
 
 [[the-7-habits-of-highly-effective-people---stephen-r-covey]] - Stephen R. Covey
+
+Sources: [[the-7-habits-of-highly-effective-people]]
+
+See also: [[be-proactive]]
+
+See also: [[put-first-things-first]]
+
+See also: [[working-backwards]]

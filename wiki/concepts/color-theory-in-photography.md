@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Color Theory in Photography
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-- color
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- photography-fundamentals
----
+
 -
 # Color Theory in Photography
 
@@ -37,3 +22,5 @@ Color theory in photography involves using color harmony and temperature to crea
 
 See [[composition-techniques]] for the broader context of composition techniques in photography.
 ---
+
+See also: [[photography-fundamentals]]

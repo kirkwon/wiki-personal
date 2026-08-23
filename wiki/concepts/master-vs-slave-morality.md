@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Master vs. Slave Morality
-description: "Master vs. Slave Morality"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- philosophy
-- morality
-- psychology
-- values
-- moral-philosophy
-sources:
-- beyond-good-and-evil
-- Master vs. Slave Morality
-related: [ressentiment, will-to-power, revaluation-of-all-values, genealogical-analysis-of-morality, free-spirit-nietzsche, beyond-good-and-evil-nietzsche, genealogical-analysis-of-moral-concepts, friedrich-nietzsche, slave-morality, master-morality]
----
+
 # Master vs. Slave Morality
 
 Nietzsche's framework distinguishing two origins of moral value systems. Master morality originates from nobility and is characterized by values of strength, creativity, pride, and self-affirmation. Slave morality originates from resentment and is characterized by values of meekness, equality, pity, and humility. This distinction is central to Nietzsche's critique of Christianity and conventional ethics. He argues that slave morality gained dominance through historical circumstances and psychological mechanisms, not because it is more true or rational.
@@ -43,3 +26,11 @@ Slave morality originates from ressentiment — the resentment of the powerless 
 ## Relevance
 
 This framework helps analyze how moral systems can serve power dynamics rather than universal truth. It connects to [[ressentiment]] as the psychological mechanism driving slave morality, and to [[genealogical-analysis-of-morality]] and [[genealogical-analysis-of-moral-concepts]] as the method for tracing these origins. It also connects to [[will-to-power]], [[revaluation-of-all-values]], and [[free-spirit-nietzsche]].
+
+See also: [[beyond-good-and-evil-nietzsche]]
+
+See also: [[friedrich-nietzsche]]
+
+See also: [[slave-morality]]
+
+See also: [[master-morality]]

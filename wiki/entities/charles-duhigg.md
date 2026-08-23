@@ -1,39 +1,6 @@
----
-type: entity
-title: Charles Duhigg
-description: "Charles Duhigg
-Charles Duhigg is an American investigative journalist and non-fiction author, known for his works exploring the science of habits, productivity, and communication."
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- person
-- author
-- journalism
-- psychology
-- behavioral-economics
-- productivity
-- habits
-- behavioral-science
-- communication
-- books
-related:
-- supercommunicators-charles-duhigg-book-summary
-- the-power-of-habit-concept
-- smarter-faster-better
-- hook-model
-- fizzgogg-behavior-model
-- dual-process-theory
-- the-five-dysfunctions-of-a-team
-- building-a-decision-culture
-- the-power-of-habit
-dates:
-  - date: "2012-02-28"
-    event: "Published The Power of Habit"
-  - date: "2016-03-08"
-    event: "Published Smarter Faster Better"
-  - date: "2024-02-20"
-    event: "Published Supercommunicators"
----charles-duhigg
+
+
+## Related
 - habit-loop
 - keystone-habits
 - supercommunicators
@@ -47,7 +14,8 @@ dates:
 - decision-making-frameworks
 - storytelling-in-communication
 - the-power-of-habit-charles-duhigg
-sources:
+
+## Sources
 - supercommunicators---charles-duhigg.md
 - smarter-faster-better---charles-duhigg.md
 - the-power-of-habit---charles-duhigg.md
@@ -57,8 +25,6 @@ sources:
 - Supercommunicators - Charles Duhigg.md
 - The Power of Habit - Charles Duhigg.md
 - supercommunicators-charles-duhigg.md
-
----
 
 # Charles Duhigg
 Charles Duhigg is an American investigative journalist and non-fiction author, known for his works exploring the science of habits, productivity, and communication. He is a Pulitzer Prize-winning reporter for *The New York Times*. His work synthesizes neuroscience, corporate case studies, organizational behavior, and communication research into accessible frameworks, explaining how habits form and how they can be changed.
@@ -104,3 +70,13 @@ Duhigg's research on cue-routine-reward loops is foundational to understanding h
 **2012-02-28** | Published The Power of Habit
 **2016-03-08** | Published Smarter Faster Better
 **2024-02-20** | Published Supercommunicators
+
+See also: [[supercommunicators-charles-duhigg-book-summary]]
+
+See also: [[the-power-of-habit-concept]]
+
+See also: [[smarter-faster-better]]
+
+See also: [[dual-process-theory]]
+
+See also: [[the-five-dysfunctions-of-a-team]]

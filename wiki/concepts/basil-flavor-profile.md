@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Basil Flavor Profile
-description: "--
-Basil Flavor Profile"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- herbs
-- cooking
-- flavor
-sources:
-- Basil.md
-related:
-- basil-ocimum-basilicum
-- aromatics
-- herb-blends
-- má-là-flavor
----
+
 --
 # Basil Flavor Profile
 
@@ -54,3 +35,5 @@ Fresh basil frozen in oil retains flavor significantly better than dried basil, 
 - [[aromatics]] - Aromatic ingredients
 - [[basil-ocimum-basilicum]] - Basil entity page
 - [[má-là-flavor]] - Numbing-spicy flavor profile
+
+See also: [[herb-blends]]

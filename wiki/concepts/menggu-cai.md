@@ -1,18 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 蒙古菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
----
+
 -
 # 蒙古菜
 
@@ -40,3 +26,5 @@ related:
 - 简单烹饪
 - 饱腹、满足
 ---
+
+See also: [[chinese-regional-cuisines]]

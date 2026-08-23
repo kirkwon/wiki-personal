@@ -1,15 +1,4 @@
----
-date: 2026-06-12
-type: concept
-title: Responsible Research and Innovation
-description: "Responsible Research and Innovation
-Responsible Research and Innovation (RRI) is an approach to research and innovation that emphasizes the importance of considering the social, ethical, and environme."
-created: 2026-06-12
-updated: 2026-06-12
-tags: [rri, ai, wellbeing]
-related: [algorithms-for-wellbeing, human-centered-design, wellbeing]
-sources: ["research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md"]
----
+
 # Responsible Research and Innovation
 Responsible Research and Innovation (RRI) is an approach to research and innovation that emphasizes the importance of considering the social, ethical, and environmental implications of new technologies. In the context of AI systems, RRI is essential for ensuring that AI systems are developed and deployed in a way that promotes wellbeing and minimizes harm.
 
@@ -26,3 +15,9 @@ RRI is crucial in AI systems as it helps to ensure that AI systems are developed
 * [[Algorithms for Wellbeing]]
 * [[Human-Centered Design]]
 * [[Wellbeing]]
+
+See also: [[algorithms-for-wellbeing]]
+
+See also: [[human-centered-design]]
+
+See also: [[wellbeing]]

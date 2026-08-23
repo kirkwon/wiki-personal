@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Savings Rate vs Returns
-description: "--
-Savings Rate vs Returns"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- behavioral-finance
-sources:
-- The Psychology of Money.md
-related:
-- personal-finance
-- investment-strategies-for-life-satisfaction
-- lifestyle-inflation
-- compounding-time
----
+
 --
 # Savings Rate vs Returns
 
@@ -44,3 +25,7 @@ Savings rate matters because it determines how much capital is available for com
 
 ## See Also
 [[money-scripts]] | [[compounding-time]] | [[personal-finance]] | [[financial-independence]]
+
+See also: [[investment-strategies-for-life-satisfaction]]
+
+See also: [[lifestyle-inflation]]

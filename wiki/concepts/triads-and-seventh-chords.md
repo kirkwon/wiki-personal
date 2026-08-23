@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Triads and Seventh Chords
-description: "--
-Triads and Seventh Chords"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- theory
-- chords
-sources:
-- music-theory-fundamentals.md
-related:
-- music-theory-fundamentals
-- jazz-harmony
-- chord-voicings
----
+
 --
 # Triads and Seventh Chords
 
@@ -41,3 +23,5 @@ Seventh chords add a fourth note to a triad, creating richer harmonic colors.
 - **Half-Diminished 7th**: Diminished triad + Minor 7th (C-Eb-Gb-Bb)
 
 These chord types are fundamental to [[jazz-harmony]] and the practice of [[chord-voicings]].
+
+See also: [[music-theory-fundamentals]]

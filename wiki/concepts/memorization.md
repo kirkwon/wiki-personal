@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Memorization
-description: "Memorization is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- learning
-- cognitive-science
-sources:
-- Memorization.md
-confidence: medium
-related:
-- active-revision-techniques
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - brain-mental-model
 - thinking-mental-model
 - how-to-take-smart-notes---snke-ahrens
@@ -33,3 +17,7 @@ This mental model is referenced in *Make It Stick* by Peter C. Brown, Henry L. R
 ## Related Concepts
 
 Memorization connects to active revision techniques, note-taking strategies from Sönke Ahrens' work, and broader cognitive science frameworks for learning and thinking.^[raw/articles/Memorization.md]
+
+See also: [[active-revision-techniques]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Noise (Judgment Variability)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-science
-- decision-making
-sources:
-- Variability.md
-related:
-- variability
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - decision-quality-vs-outcome-quality
 - cognitive-biases-library
 confidence: medium
@@ -43,3 +29,5 @@ Recognizing noise as a feature of judgment rather than a flaw changes how we app
 - [[decision-quality-vs-outcome-quality]] — Separating decision process from outcomes
 - [[cognitive-biases-library]] — Systematic errors versus random variability
 ---
+
+See also: [[thinking-fast-and-slow]]

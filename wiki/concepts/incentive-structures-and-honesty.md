@@ -1,17 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Incentive Structures and Honesty
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- behavioral-economics
-- ethics
-- organizational-behavior
-sources:
-- The (Honest) Truth About Dishonesty - Dan Ariely.md
-related:
-- the-honest-truth-about-dishonesty---dan-ariely
+dan-ariely
 - incremental-dishonesty-fudge-factor
 - expected-value-ev
 - ethical-design-manipulation-question
@@ -32,3 +19,5 @@ How different reward systems promote or discourage dishonesty within organizatio
 - Connects to [[decision-making-under-uncertainty]] — people make dishonest decisions under uncertain incentive landscapes
 - Complements [[skin-in-the-game---nassim-nicholas-taleb]] — accountability structures reduce dishonesty
 ---
+
+See also: [[the-honest-truth-about-dishonesty]]

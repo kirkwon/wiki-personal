@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Workflow auditing
-description: "Workflow auditing is the practice of systematically reviewing how time, attention, and effort are spent in order to identify efficiency losses and optimize output."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-sources:
-- Vulnerability-based trust assessment.md
-related:
-- personal-knowledge-vault
-- deep-work - Cal Newport
-- building-a-second-brain---tiago-forte
+tiago-forte
 - scatterfocus
 ---
 --
@@ -38,3 +23,5 @@ This concept is central to the "Vulnerability-based trust assessment" skill card
 - [[building-a-second-brain---tiago-forte]]
 - [[scatterfocus]]
 - [[error-correction-mechanisms]]
+
+See also: [[building-a-second-brain]]

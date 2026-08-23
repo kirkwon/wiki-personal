@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Central Bank Monetary Policy
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- economics
-- finance
-- monetary-policy
-sources:
-- How the Economic Machine Works - Ray Dalio.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - rates
 - markets
 - inflation
@@ -29,3 +16,5 @@ Key functions include:
 
 Understanding central bank actions is essential for anticipating changes in credit conditions, asset prices, and economic momentum.
 ---
+
+See also: [[how-the-economic-machine-works]]

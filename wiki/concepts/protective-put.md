@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Protective Put
-description: "--
-Protective Put (Married Put)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-- hedging
-sources:
-- Options Trading.md
-related:
-- options-trading
-- put-option
-- covered-call
-- risk-management
----
+
 --
 # Protective Put (Married Put)
 
@@ -40,3 +20,5 @@ Insurance against market crash. Κόστος: το premium που πληρώνο
 - [[put-option]]
 - [[covered-call]]
 - [[options-trading]]
+
+See also: [[risk-management]]

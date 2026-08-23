@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Emergence
-description: "The phenomenon where complex collective behavior arises from simple individual rules."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- complexity
-- models
-- systems
-sources:
-- the-model-thinker
-- Emergence
-related: [agent-based-modeling, cellular-automata, systems-dynamics-models, complexity]
----
+
 # Emergence
 
 The phenomenon where complex collective behavior arises from simple individual rules. Central to understanding why [[agent-based-modeling]] and [[cellular-automata]] are powerful — they demonstrate that sophisticated system-level patterns require no central designer.
@@ -32,3 +17,7 @@ Emergence implies that [[top-down-control]] is often less effective than designi
 ## See Also
 
 [[agent-based-modeling]], [[cellular-automata]], [[complex-adaptive-systems]]
+
+Sources: [[the-model-thinker]]
+
+See also: [[complexity]]

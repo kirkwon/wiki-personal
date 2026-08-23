@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Pecorino Romano
-description: "Pecorino Romano is a sharp, salty sheep's milk cheese from Rome and Lazio."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- ingredient
-- italian
-- cheese
-sources:
-- pasta.md
-related:
-- carbonara
-- cacio-e-pepe
-- italian-pasta
-- parmigiano-reggiano
----
+
 --
 # Pecorino Romano
 
@@ -35,3 +17,9 @@ Pecorino Romano is a sharp, salty sheep's milk cheese from Rome and Lazio. It is
 In carbonara, Pecorino is combined with egg yolks to create a rich, creamy coating. In cacio e pepe, it is the sole cheese, emulsified with starchy pasta water and black pepper to form a silky sauce.
 
 [[wikilink-carbonara]] | [[wikilink-cacio-e-pepe]] | [[wikilink-italian-pasta]]
+
+See also: [[carbonara]]
+
+See also: [[cacio-e-pepe]]
+
+See also: [[italian-pasta]]

@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Analyzes
-description: "Analyzes is a universal mental model that serves as a conceptual tool for navigating complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-related:
-- thinking-mental-model
-- problem
-- analysis
-- biases
-- dual-process-theory
-- decision-making-frameworks
-- dan-ariely
-- predictably-irrational
-sources:
-- Analyzes.md
-confidence: medium
----
+
 --
 # Analyzes
 
@@ -50,3 +27,9 @@ The model is referenced through Dan Ariely's *Predictably Irrational*, which sug
 
 - How does "Analyzes" meaningfully differ from the existing [[analysis]] mental model or [[thinking-mental-model]]?
 - What specific techniques or heuristics does this model recommend beyond generic pattern recognition?
+
+See also: [[problem]]
+
+See also: [[dan-ariely]]
+
+See also: [[predictably-irrational]]

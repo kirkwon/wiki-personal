@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Nudges
-description: "Nudges are a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- behavioral-economics
-sources:
-- Nudges.md
-related:
-- choice-architecture
-- decision-making-frameworks
-- framing-effects
-- cognitive-biases-library
-- prospect-theory
-- dual-process-theory
-- decision-culture
----
+
 --
 # Nudges
 
@@ -46,3 +25,5 @@ The practical application of nudges is choice architecture—the deliberate desi
 ## Confidence
 
 Moderate (0.7) — the concept is well-established in behavioral economics but the wiki's current documentation is sparse.
+
+See also: [[choice-architecture]]

@@ -1,18 +1,7 @@
----
+Sources: [[lateral-thinking-creativity-step-by-step]]
 
-date: 2026-05-03
-type: concept
-title: Challenging Words
-description: "Using precise language to question underlying assumptions and unlock novel perspectives on problems."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- creativity
-- problem-solving
-- language
-- mental-models
-sources:
-- lateral-thinking-creativity-step-by-step
-- Challenging Words
-related: [lateral-thinking, breaking-barriers-to-thinking, problem-finding-vs-problem-solving]
----
+See also: [[lateral-thinking]]
+
+See also: [[breaking-barriers-to-thinking]]
+
+See also: [[problem-finding-vs-problem-solving]]

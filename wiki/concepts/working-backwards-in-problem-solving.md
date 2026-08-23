@@ -1,15 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Working Backwards in Problem-Solving
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- problem-solving
-- heuristics
-- reasoning
-related:
-- how-to-solve-it---george-polya
+george-polya
 - heuristic-problem-solving
 - polya-four-steps
 - real-options-analysis
@@ -26,3 +15,5 @@ Polya describes this as one of the most powerful strategies in the "devising a p
 
 This technique connects to [[real-options-analysis]], which treats decisions as flexible options and reasons about future states before committing. It also relates to [[scenario-planning]], where you construct plausible futures and work backward to identify what actions would be required.
 ---
+
+See also: [[how-to-solve-it]]

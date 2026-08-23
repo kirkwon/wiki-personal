@@ -1,29 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Dizzy Gillespie
-description: "Dizzy Gillespie (1917–1993) was a trumpeter and key architect of the bebop movement."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- jazz
-- bebop
-- musicians
-sources:
-- bebop.md
-related:
-- bebop
-- jazz-harmony
-- charlie-parker
-dates:
-  - date: "1917-10-21"
-    event: "Born in Cheraw, South Carolina"
-  - date: "1945-01-01"
-    event: "Key architect of bebop movement with Charlie Parker"
-  - date: "1993-01-06"
-    event: "Died"
----
+
 --
 # Dizzy Gillespie
 
@@ -42,3 +17,9 @@ Gillespie's contributions to jazz harmony and trumpet technique remain foundatio
 **1917-10-21** | Born in Cheraw, South Carolina
 **1945-01-01** | Key architect of bebop movement with Charlie Parker
 **1993-01-06** | Died
+
+See also: [[bebop]]
+
+See also: [[jazz-harmony]]
+
+See also: [[charlie-parker]]

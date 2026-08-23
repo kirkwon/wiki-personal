@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Golden Hour
-description: "Golden hour is the period shortly after sunrise and before sunset when the sun is low in the sky, creating warm, soft, golden light prized by photographers for its beautiful, flattering quality."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- lighting
-- composition
-- golden-hour
-- sunrise
-- sunset
-sources:
-- golden-hour.md
-related:
-- photography-fundamentals
-- composition-techniques
-- street-photography
-- sunset-district
-- ocean-beach
-- golden-gate-heights
-- blue-hour
----
+
 --
 # Golden Hour
 
@@ -162,3 +138,7 @@ Great golden hour locations in SF include [[ocean-beach]] (sunset beach and wave
 ## Related Concepts
 
 See also [[blue-hour]] for the cool blue light period after sunset, [[composition-techniques]] for composing during golden hour, and [[street-photography]] for candid shots in golden light.
+
+See also: [[photography-fundamentals]]
+
+See also: [[golden-gate-heights]]

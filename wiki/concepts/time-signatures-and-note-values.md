@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Time Signatures and Note Values
-description: "--
-Time Signatures and Note Values"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- theory
-- rhythm
-sources:
-- music-theory-fundamentals.md
-related:
-- music-theory-fundamentals
-- rhythm-and-meter
----
+
 --
 # Time Signatures and Note Values
 
@@ -41,3 +24,5 @@ Time signatures indicate how many beats per measure and what note value gets one
 | 𝅘𝅥𝅰 | Sixteenth note | 1/4 beat in 4/4 |
 
 Rests indicate silence and correspond to each note value. Understanding time signatures and note values is core to [[rhythm-and-meter]] and overall music theory fundamentals.
+
+See also: [[music-theory-fundamentals]]

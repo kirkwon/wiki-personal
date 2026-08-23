@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: synthesis
-tags: [autoresearch, software-optimization, performance, clusters]
-related: [awesome-autoresearch, autoresearch-pattern, karpathy-autoresearch-loop]
----
 
 # Software / Systems Optimization Autoresearch — Technique Cluster Matrix
 
@@ -114,3 +108,5 @@ These require no GPU, no cloud, and no special hardware:
 - [[karpathy-autoresearch-loop]] — the original three-file architecture
 - [[performance-optimization]] — if this concept exists
 - [[apple-silicon-mlx]] — if this concept exists
+
+See also: [[awesome-autoresearch]]

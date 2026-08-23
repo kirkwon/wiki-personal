@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Emotional Financial Decisions
-description: "--
-Emotional Financial Decisions"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- psychology
-- decision-making
-sources:
-- The Psychology of Money.md
-related:
-- reasonable-vs-rational-decisions
-- overconfidence-and-certainty
----
+
 --
 # Emotional Financial Decisions
 
@@ -33,3 +16,7 @@ Warning signs of poor financial psychology include emotional decision-making dri
 - Focus on systems rather than goals.
 - Practice tail event thinking.
 - Surround yourself with better influences.
+
+See also: [[reasonable-vs-rational-decisions]]
+
+See also: [[overconfidence-and-certainty]]

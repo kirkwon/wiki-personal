@@ -1,28 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Cialdini's Six Principles of Influence
-description: "--
-Cialdini's Six Principles of Influence"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- persuasion
-- cognitive-bias
-- mental-models
-sources:
-- Pre-Suasion_ A Revolutionary Way to Influence and Persuade - Robert B Cialdini.md
-related:
-- pre-suasion
-- cognitive-biases-library
-- decision-making-frameworks
-- reciprocity
-- social-proof
-- authority-bias
-- scarcity
-- liking
----
+
 --
 # Cialdini's Six Principles of Influence
 
@@ -50,3 +26,15 @@ These principles map onto well-documented cognitive biases: reciprocation relate
 - [[pre-suasion]]
 - [[cognitive-biases-library]]
 - [[thinking-fast-and-slow---daniel-kahneman]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[reciprocity]]
+
+See also: [[social-proof]]
+
+See also: [[authority-bias]]
+
+See also: [[scarcity]]
+
+See also: [[liking]]

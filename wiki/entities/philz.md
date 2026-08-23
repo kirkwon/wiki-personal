@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Philz Coffee
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- coffee-shops
-sources:
-- san-francisco-city-guide.md
-related:
-- favorite-coffee-shops
-- blue-bottle
-- ritual
----
+
 -
 # Philz Coffee
 
@@ -26,3 +10,9 @@ Chaîne de cafés locale avec des emplacements dans le Mission, le Castro et d'a
 - Partie intégrante de la scène café de San Francisco
 
 ---
+
+See also: [[favorite-coffee-shops]]
+
+See also: [[blue-bottle]]
+
+See also: [[ritual]]

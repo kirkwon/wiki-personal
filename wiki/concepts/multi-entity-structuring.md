@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Multi-Entity Structuring
-description: "--
-Multi-Entity Structuring"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- asset-protection
-- real-estate
-- business-entity
-sources:
-- Company Structure Guide.md
-related:
-- real-estate-investment-entity-structure
-- charging-order-protection
-- business-entity-types
----
+
 --
 # Multi-Entity Structuring
 
@@ -53,3 +34,5 @@ The recommended three-level structure for real estate investors:
 - [[real-estate-investment-entity-structure]] for property-specific applications
 - [[charging-order-protection]] for creditor defense
 - [[jurisdiction-selection-for-entities]] for formation state decisions
+
+See also: [[business-entity-types]]

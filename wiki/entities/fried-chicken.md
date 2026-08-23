@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Fried Chicken
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- technique
-- comfort-food
-- southern-soul-food
-sources:
-- southern-soul-food.md
-related:
-- southern-soul-food
-- comfort-food
-- maillard-reaction
----
+
 -
 # Fried Chicken
 
@@ -44,3 +27,7 @@ The Maillard reaction is central to achieving the crispy, golden crust that defi
 - [[collard-greens]]
 - [[hoppin-john]]
 ---
+
+See also: [[southern-soul-food]]
+
+See also: [[comfort-food]]

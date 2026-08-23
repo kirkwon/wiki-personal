@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Grantor Retained Annuity Trust (GRAT)
-description: "--
-Grantor Retained Annuity Trust (GRAT)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- tax-planning
-sources:
-- Trusts Guide.md
-related:
-- section-7520-rate
-- irrevocable-trusts
-- qualified-personal-residence-trust-qpert-qpst
-- trusts-guide
----
+
 --
 # Grantor Retained Annuity Trust (GRAT)
 
@@ -49,3 +29,9 @@ An irrevocable trust where the settlor receives annuity payments for a fixed ter
 - Compliance with GRAT documentation requirements
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[section-7520-rate]]
+
+See also: [[irrevocable-trusts]]
+
+See also: [[qualified-personal-residence-trust-qpert-qpst]]

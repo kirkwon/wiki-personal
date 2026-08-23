@@ -1,40 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: San Francisco
-description: "Ville vibrant et vallonnée de ~875 000 habitants, située à l'extrémité de la presqu'île de San Francisco."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- local
-- sf
-- bay-area
-- travel
-- neighborhoods
-sources:
-- san-francisco-city-guide.md
-related:
-- sunset-district
-- ocean-beach
-- golden-gate-heights
-- golden-gate-bridge
-- mission-district
-- soma
-- north-beach
-- chinatown
-- castro
-- haight-ashbury
-- pacific-heights
-- richmond-district
-- favorite-coffee-shops
-- favorite-restaurants
-- golden-gate-park
-- lombard-street
-- alcatraz-island
-- coit-tower
-- russian-hill
-- cable-cars
----
+
 --
 # San Francisco
 
@@ -83,3 +47,7 @@ Cafés : Blue Bottle, Philz, Ritual, Four Barrel, Sightglass, Wrecking Ball. Res
 - Éviter les pièges touristiques, privilégier les restaurants de quartier
 - Prévoir du temps pour marcher dans les collines
 - Le brouillard se dissipera — être patient pour les vues
+
+See also: [[favorite-coffee-shops]]
+
+See also: [[favorite-restaurants]]

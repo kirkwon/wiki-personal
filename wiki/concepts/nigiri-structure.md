@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Nigiri Structure
-description: "--
-Nigiri Structure (握り寿司の構造)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- sushi
-- nigiri
-- structure
-sources:
-- sushi-sashimi.md
-related:
-- sushi-and-sashimi
-- sushi-rice-preparation
-- sashimi-fish-guide
----
+
 --
 # Nigiri Structure (握り寿司の構造)
 
@@ -51,3 +32,5 @@ related:
 
 - [[sushi-rice-preparation]] - 酢飯の作り方
 - [[sashimi-fish-guide]] - トッピングの魚種
+
+See also: [[sushi-and-sashimi]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: On the Shortness of Life - Seneca
-description: "--
-On the Shortness of Life by Seneca"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- philosophy
-- productivity
-- stoicism
-sources:
-- Life audit and time tracking.md
-related:
-- life-audit-and-time-tracking
-- stillness
-- quadrant-2-focus
----
+
 --
 # On the Shortness of Life by Seneca
 
@@ -31,3 +13,5 @@ Seneca's *On the Shortness of Life* is a philosophical essay arguing that life i
 ## Relevance to Life Audit
 
 Seneca's essay provides the philosophical basis for the audit step in the life audit cycle: before optimizing, one must first honestly assess where time is going. This connects to [[stillness]] as a practice of pausing to observe, and to [[quadrant-2-focus]] in prioritizing what is truly important.
+
+See also: [[life-audit-and-time-tracking]]

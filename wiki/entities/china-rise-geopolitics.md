@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: entity
-title: China Rise Geopolitics
-description: "--
-China Rise Geopolitics"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- geopolitics
-- economics
-- nation-state
-related:
-- power-transition-west-to-east
-- principles-for-dealing-with-the-changing-world-order---ray-dalio
+ray-dalio
 - the-four---scott-galloway
 sources:
 - principles-for-dealing-with-the-changing-world-order---ray-dalio.md
@@ -33,3 +19,7 @@ China's rapid economic ascent is a central theme in Dalio's analysis of the chan
 
 China's geopolitical rise complements [[the-four---scott-galloway]]'s analysis of platform dominance by adding nation-state power dynamics to the competitive landscape. It also relates to [[scenario-planning]] by requiring investors and policymakers to model multiple geopolitical futures.
 ^[raw/articles/principles-for-dealing-with-the-changing-world-order---ray-dalio.md]
+
+See also: [[power-transition-west-to-east]]
+
+See also: [[principles-for-dealing-with-the-changing-world-order]]

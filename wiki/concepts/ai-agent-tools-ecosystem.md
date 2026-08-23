@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: AI Agent工具生态
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- technology
-- ai
-- productivity
-sources:
-- YouTube-Watch-Later.md
-related:
-- claude-code
-- mcp-protocol
-- personal-knowledge-vault
----
+
 -
 # AI Agent工具生态
 
@@ -42,3 +26,5 @@ AI Agent工具生态是当前技术发展最集中的领域之一，涉及本地
 [[mcp-protocol]] | [[claude-code]] | [[local-ai-models]]
 
 ---
+
+See also: [[personal-knowledge-vault]]

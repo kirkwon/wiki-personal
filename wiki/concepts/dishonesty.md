@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Dishonesty
-description: "Dishonesty is a mental model and conceptual tool for understanding how people self-deceive, rationalize dishonest behavior, and maintain a gap between their stated values and actual actions."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- behavioral-economics
-- cognitive-bias
-confidence: 0.7
-related:
-- biases
-- cognitive-biases-library
-- overconfidence-and-certainty
-- decision-making-frameworks
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - dan-ariely
 sources:
 - Dishonesty.md
@@ -43,3 +26,5 @@ This model relates to [[biases]] as a category of cognitive shortcuts, [[cogniti
 ## Open Questions
 
 How distinct is this model from the broader cognitive biases library? Should it function as a standalone mental model or a sub-page of [[biases]]?
+
+See also: [[thinking-fast-and-slow]]

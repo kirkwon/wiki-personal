@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The Paradox of Choice - Barry Schwartz
-description: "The Paradox of Choice - Barry Schwartz"
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- decision-making
-- psychology
-- behavioral-economics
-- books
-- mental-model
-sources:
-- the-paradox-of-choice
-- The Paradox of Choice - Barry Schwartz
----
+
 # The Paradox of Choice - Barry Schwartz
 
 Barry Schwartz's *The Paradox of Choice* (2024 edition) argues that an abundance of options, while seemingly liberating, actually leads to anxiety, decision paralysis, and decreased satisfaction. More options lead to increased anxiety, decision paralysis, regret, and lower satisfaction. The book examines how consumer choice ecosystems at a societal level shape individual wellbeing, drawing on psychological research on choice overload and behavioral economics principles.^[raw/articles/Society.md]
@@ -47,3 +31,5 @@ The book provides a societal-level lens on how choice ecosystems function as a m
 ## Connections
 
 This work connects to [[choice-overload]], [[paradox-of-choice]], [[decision-making-under-uncertainty]], [[thinking-fast-and-slow---daniel-kahneman]], [[overconfidence-and-certainty]], [[dread-aversion]], and [[emotions-and-intuition-in-decisions]]. It presents a counterpoint to the wiki's emphasis on structured decision-making frameworks by arguing that adding more process and analysis can itself become a burden.
+
+Sources: [[The Paradox of Choice - Barry Schwartz]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Find Your Why - Simon Sinek
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- leadership
-- mental-model
-sources:
-- Leadership.md
-related:
-- simon-sinek
-- leadership
-- infinite-game-mindset
----
+
 -
 # Find Your Why - Simon Sinek
 
@@ -22,3 +6,5 @@ Simon Sinek's Find Your Why is a source referenced in the Leadership mental mode
 
 Connects to [[simon-sinek]] and [[infinite-game-mindset]].
 ---
+
+See also: [[leadership]]

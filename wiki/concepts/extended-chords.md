@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Extended Chords
-description: "Utvidede akkorder er akkorder med forlengelser utover de grunnleggende (tert, kvint, septim)."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- harmony
-- chords
-related:
-- jazz-harmony
-- music-theory-fundamentals
-sources:
-- jazz-harmony.md
----
+
 --
 # Extended Chords
 
@@ -46,3 +30,5 @@ Utvidede akkorder er akkorder med forlengelser utover de grunnleggende (tert, kv
 ## Relatert
 - [[jazz-harmony]]
 - [[altered-chords]]
+
+See also: [[music-theory-fundamentals]]

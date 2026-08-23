@@ -1,17 +1,7 @@
----
+See also: [[zero-to-one-thinking]]
 
-date: 2026-05-03
-type: concept
-title: First Mover Advantage
-description: "First Mover Advantage. The benefit gained by being the initial player in a new market, allowing it to establish brand loyalty and infrastructure."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- strategy
-- entrepreneurship
-- competition
-sources:
-- zero-to-one
-- First Mover Advantage
-related: [zero-to-one-thinking, platform-dominance, strategic-vs-reactive-thinking, zero-sum-vs-infinite-game]
----
+See also: [[platform-dominance]]
+
+See also: [[strategic-vs-reactive-thinking]]
+
+See also: [[zero-sum-vs-infinite-game]]

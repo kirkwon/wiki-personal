@@ -1,32 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Arabica Coffee (Coffea arabica)
-description: "--
-Arabica Coffee (Coffea arabica)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- coffee
-- arabica
-- beans
-- specialty
-- beverage
-related:
-- robusta-coffee-coffea-canephora
-- coffee-bean-processing-咖啡豆处理
-- pour-over-coffee
-- french-press-coffee-法压壶咖啡
-- coffee-roasting-咖啡烘焙
-- robusta-vs-arabica
-- bourbon-coffee-variety
-- geisha-coffee-variety
-- caturra-coffee-variety
-- typica-coffee-variety
-- specialty-coffee-grading
-sources:
-- Arabica.md
----
+
 --
 # Arabica Coffee (Coffea arabica)
 
@@ -220,3 +192,15 @@ Process: Partial pulp removal, sticky beans. Flavor: Balanced fruit sweetness, c
 - **Trend**: Direct trade, traceability, single-origin focus
 
 See also: [[robusta-coffee-coffea-canephora]], [[coffee-bean-processing-咖啡豆处理]], [[pour-over-coffee]], [[french-press-coffee-法压壶咖啡]], [[coffee-roasting-咖啡烘焙]].
+
+See also: [[robusta-vs-arabica]]
+
+See also: [[bourbon-coffee-variety]]
+
+See also: [[geisha-coffee-variety]]
+
+See also: [[caturra-coffee-variety]]
+
+See also: [[typica-coffee-variety]]
+
+See also: [[specialty-coffee-grading]]

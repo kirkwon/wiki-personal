@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Asset Allocation
-description: "Asset allocation matches the distribution of assets to risk tolerance and timeline."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- investing
-- portfolio-management
-- personal-finance
-- risk-management
-- asset-allocation
-- portfolio
-sources:
-- Financial Reporting Templates.md
-- Risk Management.md
-related:
-- stock-and-bond-tracking
-- investment-strategies-for-life-satisfaction
-- financial-reporting-templates
-- risk-management
-- diversification
-- risk-tolerance-assessment
----
+
 --
 # Asset Allocation
 
@@ -55,3 +31,11 @@ Quarterly or annually to maintain target asset allocation.
 ## Performance by Asset Class
 
 Tracked alongside total portfolio value, return, beta, and Sharpe ratio for comprehensive portfolio assessment.
+
+See also: [[investment-strategies-for-life-satisfaction]]
+
+See also: [[financial-reporting-templates]]
+
+See also: [[risk-management]]
+
+See also: [[diversification]]

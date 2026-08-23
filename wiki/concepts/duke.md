@@ -1,15 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Duke
-description: "Duke is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-related:
-- thinking-in-bets---annie-duke
+annie-duke
 - how-to-decide---annie-duke
 - decision-quality-vs-outcome-quality
 - decision-tracking
@@ -28,3 +17,5 @@ The model is rooted in Annie Duke's work on decision-making, particularly from [
 Duke functions as a universal mental model applicable across domains, offering a framework for navigating complexity through pattern and relationship recognition.
 
 This concept connects to [[thinking-in-bets---annie-duke]], [[decision-quality-vs-outcome-quality]], and [[decision-tracking]].
+
+See also: [[thinking-in-bets]]

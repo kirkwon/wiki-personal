@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Delta
-description: "Το delta μέτρηση την ευαισθησία ενός επενδυτικού χαρτιού στις αγοραστικές κινήσεις."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- risk-management
-- beta
-- market-correlation
-sources:
-- Risk Management.md
-related:
-- standard-deviation
-- sharpe-ratio
-- market-risk
----
+
 --
 # Delta
 
@@ -28,3 +10,9 @@ related:
 - β = 0.5: Κινείται 50% λιγότερο από την αγορά
 
 Χρησιμοποιείται για κατανόηση αγοραστικής συσχέτισης.
+
+See also: [[standard-deviation]]
+
+See also: [[sharpe-ratio]]
+
+See also: [[market-risk]]

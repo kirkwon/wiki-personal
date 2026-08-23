@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Alignment
-description: "Alignment is a conceptual tool and principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- mental-model
-- ai
-- decision-making
-- ai-safety
-- technology
-sources:
-- Alignment.md
-- the-alignment-problem
-- Alignment
-related: [ai-safety-methods, intractable-computation, genie-problem, consistency-in-ai, social-value-alignment, decision-making-frameworks, mental-models, superforecasting, solutions-mental-model]
----
+
 # Alignment
 
 Alignment is a conceptual tool and principle that helps understand and navigate complex situations. It provides a mental shortcut or framework for making sense of patterns and relationships in the world. In the context of artificial intelligence, alignment refers specifically to the challenge of ensuring that AI systems behave in ways that are consistent with human values and intentions—without it, AI systems may optimize for objectives that diverge from what humans actually want or need.
@@ -61,3 +43,11 @@ The concept is most prominently developed in Brian Christian and Tom Griffiths' 
 
 - Brian Christian & Tom Griffiths, *The Alignment Problem*
 - [[the-alignment-problem---brian-christian-tom-griffiths]]
+
+Sources: [[Alignment]]
+
+See also: [[intractable-computation]]
+
+See also: [[genie-problem]]
+
+See also: [[consistency-in-ai]]

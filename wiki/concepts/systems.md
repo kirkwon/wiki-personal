@@ -1,37 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Systems
-description: "Systems is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- systems-thinking
-- complexity
-related:
-- thinking-mental-model
-- overview
-- planning
-- group
-- solutions
-- brain-mental-model
-- perspective
-- reality-mental-model
-- analysis
-- care
-- environment
-- stillness
-- obstacles
-- opportunities
-- effort
-- humanity
-- minimalism
-- recipes-mental-model
-sources:
-- Systems.md
-confidence: medium
----
+
 --
 # Systems
 
@@ -71,3 +38,29 @@ Systems thinking functions as a universal mental model for navigating complexity
 - [[Solutions]]
 - [[brain-mental-model]]
 - [[analysis]]
+
+See also: [[group]]
+
+See also: [[solutions]]
+
+See also: [[perspective]]
+
+See also: [[reality-mental-model]]
+
+See also: [[care]]
+
+See also: [[environment]]
+
+See also: [[stillness]]
+
+See also: [[obstacles]]
+
+See also: [[opportunities]]
+
+See also: [[effort]]
+
+See also: [[humanity]]
+
+See also: [[minimalism]]
+
+See also: [[recipes-mental-model]]

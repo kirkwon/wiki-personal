@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Nudge - Richard H. Thaler & Cass R. Sunstein
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- person
-- behavioral-economics
-- decision-making
-sources:
-- Nudge.md
-related:
-- nudge
-- libertarian-paternalism
-- choice-architecture
-- framing-effects
----
+
 -
 # Nudge - Richard H. Thaler & Cass R. Sunstein
 
@@ -31,3 +14,9 @@ Richard H. Thaler and Cass R. Sunstein are the authors of *Nudge: Improving Deci
 
 Their work connects to [[thinking-fast-and-slow---daniel-kahneman]] through shared roots in cognitive science, and to [[framing-effects]] and [[decision-making-frameworks]] as a prescriptive approach to leveraging cognitive biases rather than merely describing them.
 ---
+
+See also: [[nudge]]
+
+See also: [[libertarian-paternalism]]
+
+See also: [[choice-architecture]]

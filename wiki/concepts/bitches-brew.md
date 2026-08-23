@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Bitches Brew
-description: "Bitches Brew (1970) is the landmark fusion album by Miles Davis that birthed jazz-rock fusion."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- fusion
-- music
-- albums
-sources:
-- miles-davis.md
-related:
-- miles-davis
-- fusion
-- bebop
-- modal-jazz
----
+
 --
 # Bitches Brew
 
@@ -42,3 +23,5 @@ As one of Miles Davis's two most consequential innovations (alongside [[kind-of-
 - [[fusion]] – The broader genre this album pioneered
 - [[miles-davis]] – The bandleader behind the work
 - [[in-a-silent-way]] (1969) – Proto-fusion predecessor
+
+See also: [[bebop]]

@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Cialdini's Six Principles of Influence
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- psychology
-- behavioral-economics
-- cognitive-bias
-- mental-model
-sources:
-- Cialdini.md
-related:
-- biases
-- framing-effects
-- decision-making-frameworks
-- social-proof
-- reciprocity
-- authority
-- scarcity
-- liking
-- commitment-consistency
----
+
 -
 # Cialdini's Six Principles of Influence
 
@@ -39,3 +16,11 @@ These principles operate as mental shortcuts that simplify decision-making but c
 ## Application
 The six principles are applicable across domains—negotiation, marketing, leadership, and personal relationships—functioning as a framework for recognizing influence patterns in complex social situations.
 ---
+
+See also: [[decision-making-frameworks]]
+
+See also: [[authority]]
+
+See also: [[scarcity]]
+
+See also: [[liking]]

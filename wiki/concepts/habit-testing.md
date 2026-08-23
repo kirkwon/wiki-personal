@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Habit Testing
-description: "Habit testing is a method for determining whether a product has become truly habit-forming."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- product-design
-- behavioral-psychology
-- metrics
-sources:
-- hooked
-- Habit Testing
-related: [hook-model, internal-triggers, user-investment-habit]
----
+
 # Habit Testing
 
 Habit testing is a method for determining whether a product has become truly habit-forming. The core test is simple: do users return without an external trigger?
@@ -39,3 +24,5 @@ Habit testing involves tracking:
 Habit testing validates whether the [[hook-model]] loop is working as intended. It separates true habit formation from mere engagement driven by external prompts. This connects to [[internal-triggers]] — a successful habit test indicates that internal triggers have been established.
 
 ^[raw/articles/hooked---nir-eyal.md]
+
+See also: [[user-investment-habit]]

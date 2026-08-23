@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Real Estate Investment Templates
-description: "--
-Real Estate Investment Templates"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- template
-- investing
-sources:
-- Financial Reporting Templates.md
-related:
-- single-property-analysis-template
-- multi-property-portfolio-template
-- investment-property-acquisition-template
-- financial-reporting-templates
----
+
 --
 # Real Estate Investment Templates
 
@@ -38,3 +19,5 @@ Core set of templates for real estate investment analysis covering single proper
 - Debt Coverage Ratio
 - Depreciation Schedule (27.5-year)
 - Sensitivity Analysis / What-If Scenarios
+
+See also: [[financial-reporting-templates]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Culture
-description: "Culture is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Culture.md
-related:
-- thinking-mental-model
-- planning
-- reality-mental-model
-- decision-culture
-- building-a-decision-culture
----
+
 --
 # Culture
 
@@ -45,3 +27,5 @@ The model emphasizes pattern and relationship recognition. By observing cultural
 ## Limitations
 
 The definition is currently broad and lacks concrete examples. Almost anything could qualify as a "cultural pattern," which risks making the model unfalsifiable. More sources and specific applications are needed to develop this concept further.
+
+See also: [[reality-mental-model]]

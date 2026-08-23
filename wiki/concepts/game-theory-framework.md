@@ -1,18 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 博弈论框架
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- decision-making
-- cognitive-science
-sources:
-- YouTube-Watch-Later.md
-related:
-- scroll-amp-ink
-- decision-making-frameworks
-- thinking-in-bets---annie-duke
+annie-duke
 ---
 -
 # 博弈论框架
@@ -34,3 +20,5 @@ Scroll & Ink的视频探讨如何在商业中运用博弈论，不通过直接�
 [[scroll-amp-ink]] | [[decision-making-frameworks]] | [[thinking-in-bets---annie-duke]]
 
 ---
+
+See also: [[thinking-in-bets]]

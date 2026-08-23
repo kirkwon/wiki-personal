@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-title: Antifragility
-type: concept
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- philosophy
-- decision-making
-- risk
-- resilience
-- mental-model
-- cognitive-bias
-- risk-analysis
-- systems-dynamics
-sources:
-- skin-in-the-game
-- Antifragility
----
+
 -nassim-nicholas-taleb.md", "antifragile---nassim-nicholas-taleb.md", "Antifragility.md", "skin-in-the-game---nassim-nicholas-taleb", "the-black-swan---nassim-nicholas-taleb", "Variability.md"]
 related: ["skin-in-the-game-nassim-nicholas-taleb", "black-swan-events", "embracing-failure-for-personal-growth", "decision-making-under-uncertainty", "real-options-analysis", "skin-in-the-game", "antifragile-rules", "embracing-randomness-for-growth", "tail-risk-and-extreme-outcomes", "mental-models", "variability", "noise-judgment-variability"]
 confidence: medium
@@ -82,3 +64,5 @@ Antifragility requires that participants bear consequences. Without accountabili
 
 ## Contrasts
 - Contrasts with [[reducing-variability-through-statistical-measures]], which Taleb argues increases fragility
+
+Sources: [[Antifragility]]

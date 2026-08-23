@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Tenant Risk Assessment
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- risk-management
-- investing
-- personal-finance
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- real-estate-investment
----
+
 -
 # Tenant Risk Assessment
 
@@ -31,3 +14,7 @@ Evaluating risks associated with tenants including credit quality, income stabil
 ## Scoring
 Excellent: corporate lease, strong credit. Good: stable residential, good credit. Average: mixed tenant base, moderate credit. Poor: high-risk tenants, poor credit. Critical: non-paying tenants, legal issues.
 ---
+
+See also: [[risk-assessment-framework]]
+
+See also: [[real-estate-investment]]

@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-title: The Five Mother Sauces
-description: "The Five Mother Sauces (Sauces Mères)"
-type: concept
-created: 2026-04-24
-updated: 2026-05-09
-sources:
-- mother-sauces.md
-tags:
-- french
-- sauces
-- gastronomy
-- cooking-techniques
-related:
-- category-cooking-techniques
-- roux
-- emulsione
-- béchamel
-- velouté
-- espagnole
-- hollandaise
-- salsa-di-pomodoro
----
+
 --
 
 # The Five Mother Sauces (Sauces Mères)
@@ -254,3 +231,19 @@ The five mother sauces (*sauces mères*) are the foundation of French cuisine, c
 - [[french-cuisine]]
 - [[Cooking Techniques]]
 - [[gastronomy]]
+
+See also: [[category-cooking-techniques]]
+
+See also: [[roux]]
+
+See also: [[emulsione]]
+
+See also: [[béchamel]]
+
+See also: [[velouté]]
+
+See also: [[espagnole]]
+
+See also: [[hollandaise]]
+
+See also: [[salsa-di-pomodoro]]

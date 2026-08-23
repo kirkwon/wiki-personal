@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Nudge Theory
-description: "[[nudge-theory]], introduced by Richard H."
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- behavioral-economics
-- decision-making
-- psychology
-- mental-model
-sources:
-- nudge
-- Nudge Theory
-related: [choice-architecture, ethical-design-manipulation-question, default-effects, decision-making-frameworks, choices, cognitive-biases-library, paradox-of-choice, radical-transparency, skin-in-the-game]
----
+
 # Nudge Theory
 
 [[nudge-theory]], introduced by Richard H. Thaler and Cass R. Sunstein, describes the practice of subtly influencing behavior through small environmental or contextual changes without restricting options or using incentives. A "nudge" is any aspect of the choice architecture that alters behavior predictably without forbidding options. It represents one pole of the [[choices]] mental model: rather than suffering from choice overload, people can be guided toward better outcomes through careful design.^[raw/articles/Choices.md]
@@ -52,3 +36,5 @@ The moral implications of nudging center on the tension between improving welfar
 - [[thinking-fast-and-slow---daniel-kahneman]] — cognitive biases that nudges exploit
 - [[thinking-in-bets---annie-duke]] — probabilistic decision-making complement
 - [[decision-making-frameworks]] — nudge theory is one framework among many for improving decisions
+
+Sources: [[nudge]]

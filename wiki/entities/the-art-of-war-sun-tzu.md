@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Art of War - Sun Tzu
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- person
-- strategy
-sources:
-- Battle.md
-related:
-- battle-mental-model
-- decision-making-frameworks
-- planning
----
+
 -
 # The Art of War - Sun Tzu
 
@@ -35,3 +20,7 @@ Sun Tzu's work serves as a foundational source for the [[battle-mental-model]], 
 
 Referenced as a cross-source perspective in the Battle mental model documentation.
 ---
+
+See also: [[decision-making-frameworks]]
+
+See also: [[planning]]

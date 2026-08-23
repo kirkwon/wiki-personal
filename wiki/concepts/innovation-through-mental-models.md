@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Innovation Through Mental Models
-description: "--
-Innovation Through Mental Models"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- innovation
-- creativity
-sources:
-- The Great Mental Models Vol 1 - Shane Parrish.md
-related:
-- inventors-paradox
-- creativity-mental-model
-- ideas-mental-model
----
+
 --
 # Innovation Through Mental Models
 
@@ -28,3 +10,5 @@ Parrish examines the role mental models play in innovation — how the framework
 
 ## Related
 Connects to [[inventors-paradox]] and broader creativity frameworks in the wiki.
+
+See also: [[ideas-mental-model]]

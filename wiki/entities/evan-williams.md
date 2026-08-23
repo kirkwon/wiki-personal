@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Evan Williams
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- spirits
-- bourbon
-- whisky
-- tasting
-sources:
-- Whisky Tasting Notes.md
-related:
-- spirits-index
-- bourbon
-- whisky-tasting-notes
----
+
 -
 # Evan Williams 12/18
 
@@ -38,3 +21,5 @@ Kentucky Bourbon with an age statement. Rated as a budget sipper, good for mixin
 
 See [[spirits-index]] and [[bourbon]].
 ---
+
+See also: [[whisky-tasting-notes]]

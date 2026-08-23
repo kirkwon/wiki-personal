@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Intractable Computation
-description: "--
-Intractable Computation"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- ai-safety
-- technology
-- computation
-sources:
-- The Alignment Problem - Brian Christian  Tom Griffiths.md
-related:
-- genie-problem
-- alignment
-- ai-safety-methods
----
+
 --
 # Intractable Computation
 
@@ -30,3 +12,9 @@ Key implications:
 - Alignment methods must account for computational limits when designing verification and oversight processes.
 
 This connects to broader themes in [[decision-making-under-uncertainty]] and [[superforecasting]], where dealing with limited information and computational constraints is a recurring challenge.
+
+See also: [[genie-problem]]
+
+See also: [[alignment]]
+
+See also: [[ai-safety-methods]]

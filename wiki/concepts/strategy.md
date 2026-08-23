@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Strategy
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- decision-making
-- philosophy
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - planning
 - positioning
 - situation
@@ -34,3 +21,5 @@ Connects to [[planning]] (strategy requires planning), [[situation]] (strategy r
 ## Tension
 The competitive framing of *The Art of War* contrasts with cooperative frameworks in the wiki. The source acknowledges this tension in its "when to stop" guidance, warning against treating every situation as zero-sum.
 ---
+
+See also: [[the-art-of-war]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 叉烧
-description: "叉烧（Char Siu，叉烧，Chā shāo）是粤菜经典烧腊菜品，即中式烧烤猪肉。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- chinese
-- cantonese
-- recipe
-- meat
-- cuisine
-sources:
-- cantonese-cuisine.md
-related:
-- cantonese-cuisine
-- dim-sum
-- wok-hei
-- roast-duck
-- yum-cha
----
+
 --
 # 叉烧 (Char Siu)
 
@@ -44,3 +23,13 @@ related:
 - 用于面汤
 
 叉烧是粤式饮茶文化的核心组成部分，也是烧鸭店和点心店的热门菜品。^[raw/articles/cantonese-cuisine.md]
+
+See also: [[cantonese-cuisine]]
+
+See also: [[dim-sum]]
+
+See also: [[wok-hei]]
+
+See also: [[roast-duck]]
+
+See also: [[yum-cha]]

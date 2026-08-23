@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Subtle Art of Not Giving a F*ck - Mark Manson
-description: "--
-The Subtle Art of Not Giving a F*ck - Mark Manson"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- philosophy
-- personal-development
-- mental-model
-sources:
-- Principle.md
-related:
-- principle-as-mental-model
-- will---mark-manson
+mark-manson
 - thinking-in-bets---annie-duke
 ---
 --
@@ -31,3 +14,7 @@ Mark Manson's *The Subtle Art of Not Giving a F*ck* argues that effective living
 
 ## Relevance to Principle Mental Model
 Manson's contribution to the principle framework is the idea that principles must be filtered through personal values. His perspective emphasizes that the most useful principle is one that clarifies what to care about and what to let go.
+
+See also: [[principle-as-mental-model]]
+
+See also: [[will]]

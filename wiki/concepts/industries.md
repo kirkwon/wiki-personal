@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Industries
-description: "Industries is a mental model that functions as a conceptual tool for navigating complexity through pattern and relationship recognition."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- business
-sources:
-- Industries.md
-related:
-- markets
-- business
-- decision-making-frameworks
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - building-a-cohesive-team
 - infinite-game-mindset
 confidence: medium
@@ -51,3 +35,5 @@ The model is distinct from [[decision-making-frameworks]] in that it provides an
 ## Open Questions
 
 Is "Industries" distinct enough from [[markets]] or [[business]] as mental models, or is it redundant? The common thread across these four sources is using industry-level analysis as a cognitive shortcut, but the breadth of the model—from macro cycles to operational checklists—raises questions about whether it is a coherent abstraction or a forced one.^[raw/articles/Industries.md]
+
+See also: [[how-the-economic-machine-works]]

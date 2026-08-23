@@ -1,29 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Jazz Harmony
-description: "Jazz-harmoni utvider tradisjonell harmoni med akkorderforlengelser (7., 9., 11., 13.), altererte toner og komplekse progressjoner."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- jazz
-- harmony
-- chords
-- extensions
-- progressions
-- music
-- theory
-related:
-- music-theory-fundamentals
-- modes
-- jazz-scales
-- chord-voicings
-- rhythm-changes
-- jazz-improvisation
-- bebop
-sources:
-- jazz-harmony.md
----
+
 --
 # Jazz Harmony
 
@@ -182,3 +157,7 @@ Cmaj7: E - G - B - C
 - [[chord-voicings]]
 - [[jazz-improvisation]]
 - [[rhythm-changes]]
+
+See also: [[music-theory-fundamentals]]
+
+See also: [[bebop]]

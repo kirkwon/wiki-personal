@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: System as a Mental Model
-description: "--
-System as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- System.md
-related:
-- thinking-mental-model
-- reality-mental-model
-- analysis
-- problem-md
-- donella-meadows
----
+
 --
 # System as a Mental Model
 
@@ -42,3 +23,5 @@ System as a mental model connects to [[thinking-mental-model]], [[reality-mental
 - What specific leverage points does the System model highlight that other frameworks miss?
 
 Confidence in this model's universal applicability is moderate (0.7).
+
+See also: [[donella-meadows]]

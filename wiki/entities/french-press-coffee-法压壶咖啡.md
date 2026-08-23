@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 法压壶咖啡
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- technique
-- equipment
-- immersion-brewing
-sources:
-- French Press.md
-- french-press-coffee-法压壶咖啡
-related:
-- immersion-brewing-浸泡式萃取
-- bloom-technique-闷蒸技术
-- coffee
-- pour-over-coffee
-- arabica-coffee-coffea-arabica
----
+
 -
 # 法压壶咖啡
 
@@ -67,3 +47,7 @@ related:
 - [[pour-over-coffee]] — 滴滤咖啡对比
 - [[arabica-coffee-coffea-arabica]] — 咖啡豆参考
 ---
+
+Sources: [[french-press-coffee-法压壶咖啡]]
+
+See also: [[coffee]]

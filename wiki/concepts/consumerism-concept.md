@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Consumerism
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- capitalism
-- society
-- culture
-sources:
-- Adrift - Scott Galloway.md
-related:
-- responsible-capitalism
-- the-four
-- scott-galloway
----
+
 -
 # Consumerism
 
@@ -35,3 +19,5 @@ Relates to [[the-four]] on how consumer platforms dominate markets and [[scott-g
 ## Source
 ^[Adrift - Scott Galloway.md]
 ---
+
+See also: [[responsible-capitalism]]

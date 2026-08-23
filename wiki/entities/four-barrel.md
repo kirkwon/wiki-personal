@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Four Barrel
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- coffee-shops
-sources:
-- san-francisco-city-guide.md
-related:
-- favorite-coffee-shops
-- blue-bottle
-- sightglass
----
+
 -
 # Four Barrel
 
@@ -26,3 +10,9 @@ Café de spécialité avec plusieurs emplacements à San Francisco.
 - Fait partie de la scène café notable de la ville
 
 ---
+
+See also: [[favorite-coffee-shops]]
+
+See also: [[blue-bottle]]
+
+See also: [[sightglass]]

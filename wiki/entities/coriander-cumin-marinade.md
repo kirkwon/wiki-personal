@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Marinada de cilantro y comino
-description: "--
-Marinada de cilantro y comino"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- marinade
-- cilantro
-- cumin
-sources:
-- Cilantro-Coriander.md
-related:
-- cilantrocoriander-coriandrum-sativum
-- cumin-cuminum-cyminum
-- herbs-spices
----
+
 --
 # Marinada de cilantro y comino
 
@@ -43,3 +24,9 @@ Marinada versátil que combina cilantro fresco con comino tostado y otros aromá
 ## Notas
 
 El comino tostado es un complemento natural del cilantro, ambos pertenecen a la familia Apiaceae y comparten notas terrosas y cálidas.
+
+See also: [[cilantrocoriander-coriandrum-sativum]]
+
+See also: [[cumin-cuminum-cyminum]]
+
+See also: [[herbs-spices]]

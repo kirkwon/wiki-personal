@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Art of War - Sun Tzu
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- strategy
-- philosophy
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- sun-tzu
-- strategic-assessment-frameworks
-- terrain-analysis
-- intelligence-gathering
-- deception-tactics
-- positioning
-- water-as-strategy
-- planning
----
+
 -
 # The Art of War - Sun Tzu
 
@@ -59,3 +38,17 @@ The source explicitly warns against:
 12. The Attack by Fire – Timing and fire as weapon
 13. The Use of Spies – Intelligence and espionage
 ---
+
+See also: [[sun-tzu]]
+
+See also: [[strategic-assessment-frameworks]]
+
+See also: [[terrain-analysis]]
+
+See also: [[intelligence-gathering]]
+
+See also: [[deception-tactics]]
+
+See also: [[positioning]]
+
+See also: [[water-as-strategy]]

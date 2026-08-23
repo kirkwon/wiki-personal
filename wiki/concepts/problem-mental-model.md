@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Problem (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Problem.md
-confidence: 0.7
-related:
-- problem-solving
-- working-backwards-in-problem-solving
-- what-is-the-unknown
-- decomposing-and-recombining
-- the-most-human-human
-- solutions-mental-model
----
+
 -
 # Problem (mental model)
 
@@ -30,3 +11,5 @@ This model connects to existing frameworks like [[decomposing-and-recombining]] 
 The concept is referenced in [[the-most-human-human]] by Brian Christian and Tom Griffiths, and further developed in their work on AI alignment in [[the-alignment-problem---brian-christian-tom-griffiths]].
 
 ---
+
+See also: [[working-backwards-in-problem-solving]]

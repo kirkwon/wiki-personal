@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Motion Blur and Freezing Motion
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- fundamentals
-- exposure
-- shutter-speed
-sources:
-- photography-fundamentals.md
-related:
-- shutter-speed
-- exposure-triangle
-- street-photography
----
+
 -
 # Motion Blur and Freezing Motion
 
@@ -26,3 +9,5 @@ Motion blur and freezing motion are controlled by shutter speed.
 
 See [[shutter-speed]] and [[exposure-triangle]] for detailed guidance.
 ---
+
+See also: [[street-photography]]

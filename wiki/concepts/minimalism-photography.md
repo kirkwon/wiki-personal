@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Minimalism in Photography
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- negative-space-photography
-- post-processing
----
+
 -
 # Minimalism in Photography
 
@@ -33,3 +18,9 @@ Minimalism simplifies composition to essential elements, removing distractions t
 
 Minimalism is closely related to the use of negative space and shares philosophical principles with broader minimalism concepts.
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[negative-space-photography]]
+
+See also: [[post-processing]]

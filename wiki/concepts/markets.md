@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Markets
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Markets.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - decision-making-frameworks
 - systematic-decision-making
 - skin-in-the-game
@@ -45,3 +33,5 @@ The model is rated at 0.7 confidence—useful as a heuristic but subject to simp
 
 - [[how-the-economic-machine-works---ray-dalio]]
 ---
+
+See also: [[how-the-economic-machine-works]]

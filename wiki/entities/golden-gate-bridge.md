@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Golden Gate Bridge
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- landmarks
-sources:
-- san-francisco-city-guide.md
-related:
-- san-francisco
-- presidio
-- golden-gate-park
-- ocean-beach
----
+
 -
 # Golden Gate Bridge
 
@@ -31,3 +14,11 @@ Pont emblématique reliant San Francisco à le comté de Marin au nord. Situé a
 Peut être visité à pied, en voiture ou en ferry. Les vues depuis Crissy Field et les sentiers côtières de Lands End sont recommandées.
 
 ---
+
+See also: [[san-francisco]]
+
+See also: [[presidio]]
+
+See also: [[golden-gate-park]]
+
+See also: [[ocean-beach]]

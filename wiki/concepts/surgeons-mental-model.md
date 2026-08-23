@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Surgeons (mental model)
-description: "--
-Surgeons (mental model)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- complexity
-related:
-- atul-gawande
-- complications-a-surgeons-notes-on-an-imperfect-science---atul-gawande
+atul-gawande
 - the-checklist-manifesto---atul-gawande
 - checklists
 - decision-making-under-uncertainty
@@ -44,3 +30,5 @@ The model is drawn from [[atul-gawande]]'s clinical experience and his book *[[C
 
 ## Applicability
 Universal—applicable to any domain involving complex systems, incomplete information, and the need to act despite uncertainty.
+
+See also: [[complications-a-surgeons-notes-on-an-imperfect-science]]

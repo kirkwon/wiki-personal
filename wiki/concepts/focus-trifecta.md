@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Focus Trifecta
-description: "Definition
-Der Focus Trifecta ist ein strukturiertes Framework zur Lenkung der Aufmerksamkeit auf aktivitäten, die den größten Hebel für den Wohlstandsaufbau haben."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- career
-- wealth-building
-- productivity
-sources:
-- The Algebra of Wealth.md
-related:
-- the-algebra-of-wealth
-- personal-finance
-- career-strategy
-- the-index-card-rules
----
+
 --
 # Focus Trifecta
 
@@ -49,3 +29,11 @@ Netzwerkqualität > Quantität: 5 Mentoren, 20 aktive berufliche Beziehungen, 10
 
 ## Distraction Economy
 Social Media, Nachrichten, Konsumismus und scheinbar produktive Beschäftigung rauben den Fokus. Gegenmaßnahmen: Time Blocking, digitale Minimalismus, klare Priorisierung (3 große Ziele pro Jahr).
+
+See also: [[the-algebra-of-wealth]]
+
+See also: [[personal-finance]]
+
+See also: [[career-strategy]]
+
+See also: [[the-index-card-rules]]

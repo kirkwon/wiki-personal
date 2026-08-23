@@ -1,22 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: Gall's Law
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- mental-models
-- systems-thinking
-- decision-making
-sources:
-- The Systems Bible - John Gall.md
-related:
-- the-systems-bible-john-gall
-- fundamental-theorem-of-systems
-- system-replacement-vs-repair
-- antifragility
-- systematic-decision-making
----
+
 -
 # Gall's Law
 
@@ -38,3 +20,9 @@ Gall's Law is closely related to [[antifragility]]—both recognize that systems
 ## When to Stop
 Gall warns against using his law to justify never building complex systems, or to abandon working systems prematurely. The law is a guide for evolution, not a reason for stasis.
 ---
+
+See also: [[the-systems-bible-john-gall]]
+
+See also: [[fundamental-theorem-of-systems]]
+
+See also: [[system-replacement-vs-repair]]

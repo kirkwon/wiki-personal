@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Composition Techniques
-description: "--
-Composition Techniques"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- composition
-- fundamentals
-- lighting
-- techniques
-sources:
-- composition-techniques.md
-- golden-hour.md
-related:
-- photography-fundamentals
-- street-photography
-- golden-hour
-- post-processing
-- photography
----
+
 --
 # Composition Techniques
 
@@ -84,3 +61,9 @@ Rules should be learned first, then deliberately broken when the subject or effe
 - Subject too small → get closer or use telephoto lens
 
 [[photography-fundamentals]] provides the prerequisite camera basics. See also [[leading-lines]], [[framing]], [[negative-space]], [[golden-ratio]], [[color-theory-in-photography]], [[perspective]], [[minimalism]], [[breaking-the-rules]], and [[golden-hour]] for deeper dives into individual techniques and lighting conditions that enhance composition.
+
+See also: [[street-photography]]
+
+See also: [[post-processing]]
+
+See also: [[photography]]

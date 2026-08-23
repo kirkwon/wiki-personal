@@ -1,24 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Tech Titan Power Dynamics
-description: "--
-Tech Titan Power Dynamics"
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- technology
-- business-strategy
-- competition
-sources:
-- Post Corona_ From Crisis to Opportunity - Scott Galloway.md
-related:
-- amazon-apple-rivalry
-- platform-dominance
-- google-uber-rivalry
-- microsoft-tencent-rivalry
-- scott-galloway
----
+
 --
 # Tech Titan Power Dynamics
 
@@ -37,3 +17,5 @@ Tech titan power dynamics refers to the ongoing power struggles between major te
 - [[platform-dominance]]
 - [[google-uber-rivalry]]
 - [[microsoft-tencent-rivalry]]
+
+See also: [[scott-galloway]]

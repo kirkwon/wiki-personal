@@ -1,19 +1,45 @@
----
+Sources: [[blue-ocean-strategy]]
 
-date: 2026-05-03
-type: concept
-title: Blue Ocean Strategy
-description: "Identifying and creating new, untapped market spaces rather than competing in existing ones."
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- strategy
-- business
-- decision-making
-- mental-models
-- market-strategy
-sources:
-- blue-ocean-strategy
-- Blue Ocean Strategy
-related: ["value-innovation", "strategy-canvas", "red-ocean", "four-actions-framework-eliminate-reduce-raise-create", "six-paths-framework", "non-customer-analysis", "strategic-sequence", "fair-process-leadership", "tipping-point-leadership-bos", "decision-making-frameworks", "scenario-planning", "four-actions-framework", "tipping-point-leadership", "fair-process", "strategic-vs-reactive-thinking", "opportunities", "infinite-game-mindset", "value-innovation-analysis", "strategy-canvas-analysis", "six-paths-framework-for-market-boundary-reconstruction", "buyer-utility-map", "strategic-sequence-testing"]
----
+See also: [[value-innovation]]
+
+See also: [[strategy-canvas]]
+
+See also: [[red-ocean]]
+
+See also: [[four-actions-framework-eliminate-reduce-raise-create]]
+
+See also: [[six-paths-framework]]
+
+See also: [[non-customer-analysis]]
+
+See also: [[strategic-sequence]]
+
+See also: [[fair-process-leadership]]
+
+See also: [[tipping-point-leadership-bos]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[scenario-planning]]
+
+See also: [[four-actions-framework]]
+
+See also: [[tipping-point-leadership]]
+
+See also: [[fair-process]]
+
+See also: [[strategic-vs-reactive-thinking]]
+
+See also: [[opportunities]]
+
+See also: [[infinite-game-mindset]]
+
+See also: [[value-innovation-analysis]]
+
+See also: [[strategy-canvas-analysis]]
+
+See also: [[six-paths-framework-for-market-boundary-reconstruction]]
+
+See also: [[buyer-utility-map]]
+
+See also: [[strategic-sequence-testing]]

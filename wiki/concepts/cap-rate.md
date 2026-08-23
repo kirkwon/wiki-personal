@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Cap Rate (Capitalization Rate)
-description: "--
-Cap Rate (Capitalization Rate)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- investing
-- metrics
-sources:
-- Financial Reporting Templates.md
-related:
-- net-operating-income
-- cash-on-cash-return
-- real-estate-investment
-- financial-reporting-templates
----
+
 --
 # Cap Rate (Capitalization Rate)
 
@@ -41,3 +22,7 @@ The cap rate is used in the [[single-property-analysis-template]] and [[multi-pr
 ## Limitations
 
 Does not account for financing, appreciation, or tax benefits. Should be used alongside other metrics like debt coverage ratio and break-even ratio for comprehensive evaluation.
+
+See also: [[real-estate-investment]]
+
+See also: [[financial-reporting-templates]]

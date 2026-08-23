@@ -1,30 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Tax-Loss Harvesting
-description: "--
-Tax-Loss Harvesting"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- finance
-- investing
-- tax
-- skill-candidate
-- personal-finance
-- Financial Reporting Templates.md
-- Financial Reporting Templates.md
-related:
-- tax-optimization-templates
-- 1031-exchange-strategy
-- tax-torpedoes-in-retirement
-- financial-reporting-templates
-- cost-basis
-- return-of-capital
-- real-estate-investment
-- sensitivity-analysis-investing
-- single-property-analysis
----
+
 --
 # Tax-Loss Harvesting
 
@@ -67,3 +41,7 @@ Tax-loss harvesting complements other tax optimization strategies like depreciat
 - [[1031-exchange-strategy]]
 - [[tax-torpedoes-in-retirement]]
 - [[single-property-analysis]]
+
+See also: [[financial-reporting-templates]]
+
+See also: [[real-estate-investment]]

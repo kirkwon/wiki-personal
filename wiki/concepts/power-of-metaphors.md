@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Power of Metaphors
-description: "Metaphors function as cognitive tools that help us comprehend complex ideas by relating them to familiar experiences."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- mental-models
-- cognitive-science
-- problem-solving
-sources:
-- the-great-mental-models-vol-1
-- Power of Metaphors
-related: [analogy-in-problem-solving, working-backwards-in-problem-solving, generalization-in-problem-solving, problem-solving]
----
+
 # Power of Metaphors
 
 Metaphors function as cognitive tools that help us comprehend complex ideas by relating them to familiar experiences. They shape thinking patterns by providing structural mappings between known and unknown domains.
@@ -31,3 +16,7 @@ Being conscious of the metaphors we useâ€”and considering alternative metaphorsâ
 ## Source
 Shane Parrish, *The Great Mental Models (Vol. 1)*, Chapter 3
 ^[raw/articles/the-great-mental-models-vol-1---shane-parrish.md]
+
+Sources: [[the-great-mental-models-vol-1]]
+
+See also: [[problem-solving]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: So Good They Can't Ignore You - Cal Newport
-description: "--
-So Good They Can't Ignore You"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- career-capital
-- deliberate-practice
-- mission
-sources:
-- Mastery.md
-related:
-- mastery
-- deep-work - Cal Newport
-- specialization-and-generalization
-- deliberate-practice
----
+
 --
 # So Good They Can't Ignore You
 
@@ -34,3 +14,9 @@ Cal Newport's book argues that passionate careers are built, not found, through 
 ## Connection to Mastery
 
 This framework treats mastery as the product of sustained, strategic skill development — aligning with mastery as a mental model for navigating career complexity.
+
+See also: [[mastery]]
+
+See also: [[specialization-and-generalization]]
+
+See also: [[deliberate-practice]]

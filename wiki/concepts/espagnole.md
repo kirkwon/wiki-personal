@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Espagnole
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- french
-- sauces
-- cooking-techniques
-sources:
-- mother-sauces.md
-related:
-- the-five-mother-sauces
-- roux
-- demi-glace
-- bordelaise
----
+
 -
 # Espagnole
 
@@ -49,3 +32,7 @@ L'espagnole è una salsa marrone ricca e dal sapore profondo, una delle cinque m
 ## Usi Comuni
 Gravy, stufati, base per demi-glace.
 ---
+
+See also: [[the-five-mother-sauces]]
+
+See also: [[roux]]

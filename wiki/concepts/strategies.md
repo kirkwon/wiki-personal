@@ -1,31 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Strategies
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- productivity
-- influence
-related:
-- thinking-mental-model
-- planning
-- brain-mental-model
-- problem-solving
-- decision-making-frameworks
-- atomic-habits-james-clear
-- pre-suasion-robert-b-cialdini
-- slow-productivity-cal-newport
-- post-corona-scott-galloway
-- tools-of-titans-timothy-ferriss
-- everything-is-f_cked-mark-manson
-- thinking-in-bets-annie-duke
-sources:
-- Strategies.md
-confidence: medium
----
+
 -
 # Strategies
 
@@ -81,3 +54,15 @@ A strategy is a structured approach to understanding and acting within complex e
 - [[brain-mental-model]] — Cognitive foundations for strategy
 - [[influence-persuasion]] — Cialdini's domain of strategic influence
 ---
+
+See also: [[pre-suasion-robert-b-cialdini]]
+
+See also: [[slow-productivity-cal-newport]]
+
+See also: [[post-corona-scott-galloway]]
+
+See also: [[tools-of-titans-timothy-ferriss]]
+
+See also: [[everything-is-f_cked-mark-manson]]
+
+See also: [[thinking-in-bets-annie-duke]]

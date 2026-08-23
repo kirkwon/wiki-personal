@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Camera Perspective Angles
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- street-photography
-- leading-lines
----
+
 -
 # Camera Perspective Angles
 
@@ -31,3 +16,9 @@ Changing your camera position creates different emotional effects and visual per
 
 Changing perspective is one of the simplest yet most effective composition tools. Even small shifts in camera height or angle can dramatically alter the mood and narrative of an image.
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[street-photography]]
+
+See also: [[leading-lines]]

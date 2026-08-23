@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The 7 Habits of Highly Effective People - Stephen R. Covey
-description: "The 7 Habits of Highly Effective People - Stephen R."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- productivity
-- mental-models
-- decision-making
-sources:
-- the-7-habits-of-highly-effective-people
-- The 7 Habits of Highly Effective People - Stephen R. Covey
----
+
 # The 7 Habits of Highly Effective People - Stephen R. Covey
 
 Stephen R. Covey's *The 7 Habits of Highly Effective People* presents a framework of seven interconnected habits organized into three phases: private victory (self-mastery), public victory (team effectiveness), and renewal. The book moves from character-based habits—[[be-proactive]], [[begin-with-the-end-in-mind]], and [[put-first-things-first]]—to relationship habits—[[think-win-win]], [[seek-first-to-understand]], and [[synergize]]—and culminates in continuous self-renewal through [[sharpen-the-saw]].
@@ -44,3 +29,5 @@ This framework connects to [[communication-skills]], [[effective-listening]], [[
 ## Conclusion
 
 The seven habits are presented as a unified system. Their interconnected nature means developing one habit strengthens the others, creating a foundation for both personal growth and professional success while contributing to positive change on a larger scale.
+
+Sources: [[the-7-habits-of-highly-effective-people]]

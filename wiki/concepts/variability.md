@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Variability
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-science
-- decision-making
-sources:
-- Variability.md
-related:
-- antifragility
-- noise-judgment-variability
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - decision-making-under-uncertainty
 confidence: medium
 ---
@@ -51,3 +36,5 @@ The mental model of variability synthesizes these two perspectives: variability 
 - What specific patterns does variability reveal that uniformity would obscure?
 - When should variability be leveraged and when should it be managed?
 ---
+
+See also: [[thinking-fast-and-slow]]

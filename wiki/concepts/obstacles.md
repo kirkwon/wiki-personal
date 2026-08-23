@@ -1,24 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Obstacles Mental Model
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- decision-making
-- resilience
-sources:
-- Obstacles.md
-related:
-- ryan-holiday
-- stillness
-- planning
-- thinking-mental-model
-- solutions
-- embracing-failure-for-personal-growth
-- decision-making-frameworks
----
+
 -
 # Obstacles Mental Model
 
@@ -37,3 +17,9 @@ This model connects to broader decision-making and resilience concepts including
 ## Source
 Derived from [[the-obstacle-is-the-way-ryan-holiday]].
 ---
+
+See also: [[ryan-holiday]]
+
+See also: [[stillness]]
+
+See also: [[solutions]]

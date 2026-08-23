@@ -1,19 +1,4 @@
----
-date: 2026-04-18
-type: concept
-title: Win-Win Communication
-created: 2026-04-18
-updated: 2026-04-18
-tags:
-- communication-skills
-- mental-models
-- leadership
-sources:
-- The 8th Habit_ From Effectiveness to Greatness - Stephen R. Covey.md
-related:
-- communication-skills
-- building-a-cohesive-team
-- the-8th-habit-from-effectiveness-to-greatness---stephen-r-covey
+stephen-r-covey
 - the-five-dysfunctions-of-a-team
 ---
 -
@@ -39,3 +24,5 @@ Win-win communication seeks solutions where all parties benefit, fostering trust
 ## Practical Application
 Begin conversations by seeking to understand before being understood. Focus on creating value for all parties rather than winning at someone else's expense. This approach builds the relational foundation for proactive influence and purposeful habits.
 ---
+
+See also: [[the-8th-habit-from-effectiveness-to-greatness]]

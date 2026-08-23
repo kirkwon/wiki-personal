@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Monopoly vs competition
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- business
-- strategy
-- mental-model
-sources:
-- Thiel.md
-related:
-- thiel-mental-model
-- zero-to-one-thinking
-- peter-thiel
-- platform-dominance
----
+
 -
 # Monopoly vs competition
 
@@ -30,3 +13,5 @@ A key concept from Peter Thiel's philosophy: monopolies drive progress while com
 ## Connections
 Relates to [[platform-dominance]] and existing strategic thinking across the wiki. Complements [[thiel-mental-model]] and [[zero-to-one-thinking]].
 ---
+
+See also: [[peter-thiel]]

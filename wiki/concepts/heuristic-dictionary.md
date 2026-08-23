@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Heuristic Dictionary
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- problem-solving
-- heuristics
-- learning
-sources:
-- How to Solve It - George Polya.md
-related:
-- polya-four-steps
-- heuristic-proproblem-solving
-- decomposing-and-recombining
----
+
 -
 # Heuristic Dictionary
 
@@ -38,3 +22,9 @@ The Heuristic Dictionary is Polya's comprehensive taxonomy of problem-solving ta
 
 This dictionary serves as a practical reference for selecting and applying strategies during the "Devising a Plan" phase of problem-solving.
 ---
+
+See also: [[polya-four-steps]]
+
+See also: [[heuristic-proproblem-solving]]
+
+See also: [[decomposing-and-recombining]]

@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-title: Recognition-Primed Decision Model
-description: "Recognition-Primed Decision Model"
-created: 2026-05-03
-updated: 2026-05-09
-type: concept
-tags:
-- decision-making
-- psychology
-- cognitive-science
-- mental-models
-sources:
-- raw/books/sources-of-power-how-people-make-decisions
-- Recognition-Primed Decision Model
-confidence: high
-related: [naturalistic-decision-making, mental-simulation-in-decision-making, two-views-of-decision-kahneman-vs-klein]
----
+
 
 # Recognition-Primed Decision Model
 
@@ -59,3 +42,5 @@ This contrasts with [[daniel-kahneman]]'s dual-process framework, which emphasiz
 ## Sources
 
 - [[raw/books/sources-of-power-how-people-make-decisions---gary-klein.md]]
+
+See also: [[mental-simulation-in-decision-making]]

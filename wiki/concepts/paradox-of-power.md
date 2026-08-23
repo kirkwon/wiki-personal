@@ -1,25 +1,4 @@
----
-date: 2026-04-18
-type: concept
-title: Paradox of Power
-description: "The Paradox of Power is a central concept in Stephen R."
-created: 2026-04-18
-updated: 2026-05-09
-tags:
-- mental-models
-- philosophy
-- productivity
-- leadership
-sources:
-- The 8th Habit_ From Effectiveness to Greatness - Stephen R. Covey.md
-- The 8th Habit_ From Effectiveness to Greatness - Stephen R Covey.md
-related:
-- antifragility
-- embracing-failure-for-personal-growth
-- paradox-of-choice
-- purposeful-habits
-- proactive-influence
-- the-8th-habit ---stephen-r-covey
+stephen-r-covey
 - embracing-contradiction
 - world-disclosure
 - the-8th-habit-from-effectiveness-to-greatness---stephen-r-covey
@@ -65,3 +44,5 @@ Rather than choosing between competing demands (efficiency vs. relationships, op
 - [[begin-with-principle]]
 - [[purposeful-habits]]
 - [[win-win-through-effective-communication]]
+
+See also: [[the-8th-habit]]

@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Obstacles to Essentialism
-description: "--
-Obstacles to Essentialism"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- psychology
-- mental-models
-sources:
-- Essentialism_ The Disciplined Pursuit of Less - Greg McKeown.md
-related:
-- essentialism---greg-mckeown
+greg-mckeown
 - paradox-of-choice
 - cognitive-biases-library
 ---
@@ -28,3 +13,5 @@ Chapter 4 identifies key barriers preventing individuals from pursuing an essent
 These obstacles connect to broader psychological patterns. The societal pressure to accumulate commitments parallels the [[paradox-of-choice]] concern with choice overload. Personal insecurities may also relate to cognitive biases like [[confirmation-bias]] and [[inattention-to-results]] — tendencies that make it hard to critically evaluate whether current commitments are truly serving one's values.
 
 Recognizing these obstacles is the first step toward overcoming them and adopting a more selective, essentialist approach to life.
+
+See also: [[essentialism]]

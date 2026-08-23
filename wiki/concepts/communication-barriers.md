@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Communication Barriers
-description: "Communication Barriers"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- communication
-- psychology
-- problem-solving
-- soft-skills
-related:
-- supercommunicators-charles-duhigg-book-summary
-- effective-communication
-- emotional-intelligence-in-communication
-sources:
-- supercommunicators
-- supercommunicators-charles-duhigg-book-summary
----
+
 # Communication Barriers
 
 Communication barriers are obstacles that hinder the effective transmission and reception of messages, leading to misunderstandings, frustration, and breakdowns in interpersonal or group interactions. Identifying and overcoming these barriers is essential for [[effective-communication]].
@@ -42,3 +23,7 @@ As discussed in "[[supercommunicators-charles-duhigg-book-summary|Supercommunica
 *   **Non-Verbal Awareness:** Paying attention to body language, tone of voice, and other non-verbal cues, and ensuring one's own non-verbal signals align with the message.
 *   **Creating a Conducive Environment:** Minimizing distractions and ensuring a comfortable setting for conversation.
 *   **Adapting Communication Style:** Adjusting one's approach based on the audience, context, and cultural nuances.
+
+Sources: [[supercommunicators]]
+
+Sources: [[supercommunicators-charles-duhigg-book-summary]]

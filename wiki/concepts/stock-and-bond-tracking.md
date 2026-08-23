@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Stock and Bond Investment Templates
-description: "--
-Stock and Bond Investment Templates"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- investing
-- template
-- stocks
-- bonds
-sources:
-- Financial Reporting Templates.md
-related:
-- stock-investment-tracker
-- bond-investment-template
-- portfolio-performance-template
-- asset-allocation
-- financial-reporting-templates
----
+
 --
 # Stock and Bond Investment Templates
 
@@ -41,3 +20,11 @@ Templates for tracking stock and bond portfolio performance across asset classes
 - Portfolio return, annualized return, beta, Sharpe ratio
 - Asset allocation (target vs actual by asset class)
 - Performance by asset class
+
+See also: [[stock-investment-tracker]]
+
+See also: [[bond-investment-template]]
+
+See also: [[asset-allocation]]
+
+See also: [[financial-reporting-templates]]

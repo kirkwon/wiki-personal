@@ -1,22 +1,4 @@
----
 
-
-date: 2026-04-17
-type: entity
-title: David Deutsch
-description: "David Deutsch is a physicist and philosopher of science, best known for his work on the many-worlds interpretation of quantum mechanics and for his book The Beginning of Infinity."
-created: 2026-04-17
-updated: 2026-04-17
-tags: ['person', 'physicist', 'philosopher', 'author', 'philosophy', 'science', 'epistemology', 'physics', 'cognitive-science', 'philosophy-of-science']
-related: ["the-beginning-of-infinity"]
-dates:
-  - date: "1985-01-01"
-    event: "Published paper formalizing universal quantum computer"
-  - date: "1997-01-01"
-    event: "Published The Fabric of Reality"
-  - date: "2011-03-31"
-    event: "Published The Beginning of Infinity"
----
 # David Deutsch
 
 David Deutsch is a physicist and philosopher of science, best known for his work on the many-worlds interpretation of quantum mechanics and for his book *The Beginning of Infinity*. He is a Visiting Professor of Physics at the University of Oxford and a Fellow of the Royal Society.
@@ -46,3 +28,5 @@ Deutsch's work connects to [[thinking-mental-model]], [[ideas-mental-model]], [[
 **1985-01-01** | Published paper formalizing universal quantum computer
 **1997-01-01** | Published The Fabric of Reality
 **2011-03-31** | Published The Beginning of Infinity
+
+See also: [[the-beginning-of-infinity]]

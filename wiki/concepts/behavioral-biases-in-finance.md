@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Behavioral Biases in Finance
-description: "--
-Behavioral Biases in Finance"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- behavioral-economics
-- cognitive-bias
-- decision-making
-sources:
-- The Psychology of Money.md
-related:
-- cognitive-biases-library
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - prospect-theory
 - decision-quality-vs-outcome-quality
 ---
@@ -50,3 +33,5 @@ These biases connect to [[cognitive-biases-library]] and [[thinking-fast-and-slo
 Recognizing these biases allows investors to separate decision quality from outcome quality [[decision-quality-vs-outcome-quality]]. A good process can still produce a bad outcome due to bad luck, and a bad process can still produce a good outcome due to good luck.^[raw/articles/The Psychology of Money.md]
 
 The key is to focus on process rather than outcomes — you can control your decisions but not the results.^[raw/articles/The Psychology of Money.md]
+
+See also: [[thinking-fast-and-slow]]

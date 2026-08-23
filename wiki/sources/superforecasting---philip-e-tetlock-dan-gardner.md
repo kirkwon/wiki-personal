@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Superforecasting - Philip E. Tetlock & Dan Gardner
-description: "Superforecasting - Philip E."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- decision-making
-- prediction
-- cognitive-science
-sources:
-- superforecasting
-- Superforecasting - Philip E. Tetlock & Dan Gardner
----
+
 # Superforecasting - Philip E. Tetlock & Dan Gardner
 
 ## Summary
@@ -45,3 +30,5 @@ sources:
 - [[decision-tracking]]
 - [[decision-making-under-uncertainty]]
 - [[thinking-fast-and-slow---daniel-kahneman]]
+
+Sources: [[superforecasting]]

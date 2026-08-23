@@ -1,31 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Stir-Fry Technique（炒菜技法）
-description: "--
-Stir-Fry Technique（炒菜技法 / 爆炒技术）"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- cooking-technique
-- wok
-- chinese-cuisine
-- stir-fry
-- cooking-techniques
-- technique
-- chinese
-sources:
-- Wok Hei.md
-- Aromatics.md
-related:
-- wok-hei
-- wok-cooking
-- maillard-reaction
-- wok-seasoning
-- aromatics-the-holy-trinity
-- flavor-theory
-- chinese-cuisine
----
+
 --
 # Stir-Fry Technique（炒菜技法 / 爆炒技术）
 
@@ -66,3 +39,5 @@ related:
 
 ## 相关概念
 [[wok-hei]] | [[wok-cooking]] | [[maillard-reaction]] | [[wok-seasoning]] | [[aromatics-the-holy-trinity]] | [[flavor-theory]]
+
+See also: [[chinese-cuisine]]

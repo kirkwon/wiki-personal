@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Twaddle Tendency
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- communication
-- simplicity
-sources:
-- The Art of Thinking Clearly - Rolf Dobelli.md
-related:
-- simple-logic
-- complexity
-- chauffeur-knowledge
----
+
 -
 # Twaddle Tendency
 
@@ -29,3 +13,5 @@ The preference for complex explanations over simple ones. We equate complexity w
 ## Guardrail
 When evaluating explanations, favor simplicity unless complexity is genuinely warranted by the problem. Ask: "Can this be explained more simply?"
 ---
+
+See also: [[complexity]]

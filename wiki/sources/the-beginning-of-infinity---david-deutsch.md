@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The Beginning of Infinity - David Deutsch
-description: "The Beginning of Infinity - David Deutsch"
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- books
-- philosophy
-- epistemology
-- physics
-- knowledge
-- science
-sources:
-- the-beginning-of-infinity
-- The Beginning of Infinity - David Deutsch
----
+
 # The Beginning of Infinity - David Deutsch
 
 David Deutsch's *The Beginning of Infinity* (2024) is a work of philosophy of science and epistemology that argues the universe is infinite and explorable, and that progress is unlimited because knowledge growth is the fundamental driver of civilization. The book introduces core concepts including the reach of explanations, conjecture and criticism as the mechanism of knowledge growth, the optimist's metaphor, critical rationalism, constructor theory, and the nature of creativity.
@@ -112,3 +95,7 @@ Deutsch's framework connects to several existing decision-making and knowledge-g
 - His explanatory reach concept relates to [[problem-solving]] and [[experiment-and-exploration-forms-of-world-disclosure---snke-ahrens]]
 - His views on creativity connect to [[the-most-human-human---brian-christian-tom-griffiths]]
 - His optimism principle relates to [[embracing-failure-for-personal-growth]]
+
+Sources: [[the-beginning-of-infinity]]
+
+Sources: [[The Beginning of Infinity - David Deutsch]]

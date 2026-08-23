@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Geisha Coffee Variety
-description: "--
-Geisha Coffee Variety"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- arabica
-- variety
-sources:
-- Arabica.md
-related:
-- arabica-coffee-coffea-arabica
-- bourbon-coffee-variety
----
+
 --
 # Geisha Coffee Variety
 
@@ -28,3 +11,7 @@ Geisha (also spelled Gesha) is an ultra-premium Arabica coffee variety originati
 - **Use**: Ultra-premium specialty coffee
 
 Geisha coffees regularly command some of the highest prices in the specialty coffee market due to their distinctive and complex flavor profiles.
+
+See also: [[arabica-coffee-coffea-arabica]]
+
+See also: [[bourbon-coffee-variety]]

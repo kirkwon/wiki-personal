@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Wealth-Building-Frameworks
-description: "--
-Wealth-Building-Frameworks"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- wealth-building
-- investing
-- decision-making
-sources:
-- The Algebra of Wealth.md
-related:
-- the-algebra-of-wealth
-- the-psychology-of-money
-- the-index-card-rules
-- i-will-teach-you-to-be-rich
-- career-strategy
----
+
 --
 # Wealth-Building-Frameworks
 
@@ -34,3 +13,13 @@ Verschiedene Frameworks für den systematischen Wohlstandsabbau, die psychologis
 
 ## Gemeinsame Prinzipien
 Langfristige Sichtweise, automatisierte Systeme, emotionale Disziplin, Diversifikation, frühes Starten.
+
+See also: [[the-algebra-of-wealth]]
+
+See also: [[the-psychology-of-money]]
+
+See also: [[the-index-card-rules]]
+
+See also: [[i-will-teach-you-to-be-rich]]
+
+See also: [[career-strategy]]

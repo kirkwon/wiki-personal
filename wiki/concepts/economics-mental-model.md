@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Economics as a Mental Model
-description: "--
-Economics as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- economics
-- behavioral-economics
-sources:
-- Economics.md
-- Misbehaving - Richard H Thaler
-- Nudge - Richard H Thaler  Cass R Sunstein
-related:
-- markets
-- rates
-- leverage
-- how-the-economic-machine-works
----
+
 --
 # Economics as a Mental Model
 
@@ -55,3 +34,7 @@ The concept of choice architecture—how choices are presented—relates to [[fr
 - How does economics as a mental model differ from [[markets]] or [[how-the-economic-machine-works---ray-dalio]] as specific applications?
 - What specific economic principles (e.g., opportunity cost, marginal utility, comparative advantage) belong in this framework?
 - How can Thaler's behavioral insights be integrated more deeply with existing decision-making content?
+
+Sources: [[Misbehaving - Richard H Thaler]]
+
+See also: [[how-the-economic-machine-works]]

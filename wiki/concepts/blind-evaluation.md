@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Blind Evaluation
-description: "Blind evaluation removes identifying information — names, demographics, backgrounds — from assessments to reduce the influence of irrelevant factors."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cognitive-bias
-- decision-making
-- organizational
-sources:
-- cognitive-biases-library.md
-related:
-- cognitive-biases-library
-- halo-effect
-- in-group-bias
-- building-a-decision-culture
----
+
 --
 # Blind Evaluation
 
@@ -29,3 +11,7 @@ Blind evaluation removes identifying information — names, demographics, backgr
 
 ## Connection to Other Concepts
 Counters [[halo-effect]] and [[in-group-bias]]. Part of organizational mitigation strategies alongside [[red-teaming]] and [[diverse-teams]].
+
+See also: [[cognitive-biases-library]]
+
+See also: [[building-a-decision-culture]]

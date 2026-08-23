@@ -1,20 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Overview
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- systems-thinking
-- decision-making
-sources:
-- Overview.md
-related:
-- recipes-mental-model
-- planning
-- solutions
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - mental-models
 ---
 -
@@ -43,3 +27,7 @@ Overview functions as a meta-framework: using "Overview" helps apply other model
 ## Sources
 - [[Limits to Growth_ The 30-Year Update - Donella H Meadows]]
 ---
+
+See also: [[solutions]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

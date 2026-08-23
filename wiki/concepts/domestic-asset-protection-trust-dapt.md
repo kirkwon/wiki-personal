@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Domestic Asset Protection Trust (DAPT)
-description: "--
-Domestic Asset Protection Trust (DAPT)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- asset-protection
-sources:
-- Trusts Guide.md
-related:
-- irrevocable-trusts
-- asset-protection
-- trusts-guide
----
+
 --
 # Domestic Asset Protection Trust (DAPT)
 
@@ -46,3 +27,7 @@ An irrevocable trust established in a state with favorable asset protection laws
 - Limited access to assets during lifetime
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[irrevocable-trusts]]
+
+See also: [[asset-protection]]

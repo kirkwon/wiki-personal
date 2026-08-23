@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Techniques
-description: "Techniques is a universal conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- techniques
-- learning
-- decision-making
-sources:
-- Techniques.md
-related:
-- thinking-mental-model
-- problem-solving
-- decision-making-frameworks
-- six-thinking-hats
-- lateral-thinking
-- bloom-technique-闷蒸技术
-- immersion-brewing-浸泡式萃取
----
+
 --
 # Techniques
 
@@ -31,3 +9,5 @@ This mental model serves as a meta-layer connecting various technique-oriented a
 The model applies broadly across general domains and functions as a framework for recognizing patterns and relationships in complex situations. It connects to existing mental models like [[thinking-mental-model]], [[problem-solving]], and [[decision-making-frameworks]], as well as specific technique pages such as [[bloom-technique-闷蒸技术]], [[immersion-brewing-浸泡式萃取]], and [[six-thinking-hats]].
 
 Techniques as a meta-model emphasizes that having structured approaches — whether for learning, persuasion, creative problem-solving, or decision-making — provides a common lens for navigating uncertainty and complexity.
+
+See also: [[lateral-thinking]]

@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Win-Win through Effective Communication
-description: "--
-Win-Win through Effective Communication"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- communication
-- leadership
-- mental-models
-related:
-- the-8th-habit---stephen-r-covey
+stephen-r-covey
 - effective-listening
 - communication-skills
 - building-a-cohesive-team
@@ -39,3 +26,5 @@ Rather than pursuing zero-sum outcomes or positional bargaining, win-win communi
 
 ## Role in the 8th Habit
 Creating win-win situations through effective communication is the starting point of Covey's seven-step framework for cultivating greatness.
+
+See also: [[the-8th-habit]]

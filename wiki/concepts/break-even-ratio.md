@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Break-Even Ratio
-description: "Measures the occupancy and viability threshold by comparing operating expenses to gross income."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- investing
-- metrics
-sources:
-- Financial Reporting Templates.md
-related:
-- net-operating-income
-- real-estate-investment
-- financial-reporting-templates
----
+
 --
 # Break-Even Ratio
 
@@ -34,3 +17,7 @@ Measures the occupancy and viability threshold by comparing operating expenses t
 ## Usage
 
 Tracked in the [[single-property-analysis-template]] as part of annual performance metrics alongside [[net-operating-income]] and [[cash-on-cash-return]].
+
+See also: [[real-estate-investment]]
+
+See also: [[financial-reporting-templates]]

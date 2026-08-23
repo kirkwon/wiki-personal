@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Free spirit perspective and value creation
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- mental-models
-sources:
-- Free spirit perspective and value creation.md
-confidence: medium
-related:
-- scatterfocus
-- deep-work - Cal Newport
-- getting-things-done---david-allen
+david-allen
 - hyperfocus---chris-bailey
 - building-a-second-brain---tiago-forte
 - attention-budget
@@ -66,3 +50,5 @@ The concept is attributed to Friedrich Nietzsche's *Beyond Good and Evil*. Howev
 
 Medium. The framework is coherent and practical, but the single-source attribution and tenuous Nietzsche connection reduce confidence in its philosophical grounding.
 ---
+
+See also: [[getting-things-done]]

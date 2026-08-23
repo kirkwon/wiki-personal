@@ -1,30 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 粤菜
-description: "粤菜（Cantonese Cuisine）是中国最具影响力的地方菜系之一，以清淡、新鲜、本味为核心理念。它是西方最熟悉的中华菜系，因其温和的风味和烹饪技法（蒸、炒）更易被接受。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- chinese
-- cantonese
-- cuisine
-- gastronomy
-- cooking-techniques
-sources:
-- cantonese-cuisine.md
-related:
-- dim-sum
-- roast-duck
-- wok-hei
-- chinese-cuisine
-- chinese-regional-cuisines
-- sichuan-cuisine
-- char-siu
-- yum-cha
-- five-cantonese-principles
-- steaming
----
+
 --
 # 粤菜
 
@@ -104,3 +78,17 @@ related:
 - 《The Wisdom of the Chinese Kitchen》— Grace Young
 - 《Mastering the Art of Chinese Cooking》— Eileen Yin-Fei Lo
 - 《Every Grain of Rice》— Fuchsia Dunlop
+
+See also: [[wok-hei]]
+
+See also: [[chinese-cuisine]]
+
+See also: [[chinese-regional-cuisines]]
+
+See also: [[sichuan-cuisine]]
+
+See also: [[yum-cha]]
+
+See also: [[five-cantonese-principles]]
+
+See also: [[steaming]]

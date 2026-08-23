@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Qualified Intermediary
-description: "--
-Qualified Intermediary"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- real-estate
-- taxes
-- tax-optimization
-sources:
-- 1031 Exchange Strategy.md
-related:
-- 1031-exchange-strategy
-- real-estate-investment
-- boot-in-1031-exchanges
-- 1031-identification-rules
----
+
 --
 # Qualified Intermediary
 
@@ -45,3 +25,9 @@ A **qualified intermediary** (QI) is an independent third party who facilitates 
 When selecting a QI, investors should verify credentials, insurance coverage, track record, and experience with 1031 transactions. Interview and choose a QI with a good reputation, and ensure the QI controls all exchange proceeds and distributions. Due diligence is critical since QI failure (bankruptcy, incompetence) is a key risk in the exchange process.
 
 See also [[1031-exchange-strategy]].
+
+See also: [[real-estate-investment]]
+
+See also: [[boot-in-1031-exchanges]]
+
+See also: [[1031-identification-rules]]

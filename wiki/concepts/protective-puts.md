@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Protective Puts
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- options
-sources:
-- Options Trading Guide.md
-related:
-- options-fundamentals
-- options-for-retirement-planning
-- risk-assessment-framework
----
+
 -
 # Protective Puts
 
@@ -42,3 +26,9 @@ A protective put strategy involves buying put options on stock you own to hedge 
 
 Protective puts are a fundamental risk management tool in options trading, providing downside protection while maintaining upside participation.^[raw/articles/Options Trading Guide.md]
 ---
+
+See also: [[options-fundamentals]]
+
+See also: [[options-for-retirement-planning]]
+
+See also: [[risk-assessment-framework]]

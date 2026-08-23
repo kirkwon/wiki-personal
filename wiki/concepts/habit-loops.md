@@ -1,18 +1,15 @@
----
+Sources: [[smarter-faster-better]]
 
-date: 2026-05-03
-type: concept
-title: Habit Loops
-description: "Understanding the cyclical process that governs how routines and behaviors are formed."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- productivity
-- habits
-- cognitive-science
-sources:
-- smarter-faster-better
-- Habit Loops
-related: [hook-model, fizzgogg-behavior-model, internal-triggers, external-triggers, habit-stacking, willpower-as-trainable-resource, organizational-habit-change]
----
+See also: [[hook-model]]
+
+See also: [[fizzgogg-behavior-model]]
+
+See also: [[internal-triggers]]
+
+See also: [[external-triggers]]
+
+See also: [[habit-stacking]]
+
+See also: [[willpower-as-trainable-resource]]
+
+See also: [[organizational-habit-change]]

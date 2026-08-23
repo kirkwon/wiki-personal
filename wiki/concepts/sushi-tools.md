@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Sushi Tools
-description: "--
-Sushi Tools (寿司道具)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- sushi
-- equipment
-- cooking
-sources:
-- sushi-sashimi.md
-related:
-- sushi-and-sashimi
-- sushi-rice-preparation
-- sushi-grade-fish
----
+
 --
 # Sushi Tools (寿司道具)
 
@@ -43,3 +24,9 @@ related:
 - 包丁は使用前に研ぐ
 - 米は室温で提供する
 - 握り寿司は魚の側だけに軽く醤油をつける
+
+See also: [[sushi-and-sashimi]]
+
+See also: [[sushi-rice-preparation]]
+
+See also: [[sushi-grade-fish]]

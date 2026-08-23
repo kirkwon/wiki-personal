@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Tendency
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-biases
-- decision-making
-related:
-- thinking-mental-model
-- cognitive-biases-library
-- group
-- effort
-- care
-- brain-mental-model
-- the-art-of-thinking-clearly---rolf-dobelli
+rolf-dobelli
 sources:
 - Tendency.md
 confidence: 0.7
@@ -29,3 +12,11 @@ Dobelli's *The Art of Thinking Clearly* frames tendency within the broader lands
 
 Tendency is broadly applicable across domains and serves as a lens for navigating complexity through pattern and relationship recognition.
 ---
+
+See also: [[group]]
+
+See also: [[effort]]
+
+See also: [[care]]
+
+See also: [[the-art-of-thinking-clearly]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Aperture
-description: "Aperture is the opening in a camera lens that controls how much light enters the camera."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- exposure
-- fundamentals
-- lens
-sources:
-- photography-fundamentals.md
-related:
-- exposure-triangle
-- shutter-speed
-- iso
-- composition-techniques
-- depth-of-field
-- camera-modes
----
+
 --
 # Aperture
 
@@ -40,3 +19,7 @@ Aperture is the opening in a camera lens that controls how much light enters the
 | f/16 – f/22 | Bright scenes, maximum depth | Deep depth, everything in focus |
 
 Aperture is closely tied to [[composition-techniques]], as the depth of field directly affects how subjects are isolated from backgrounds. It is one of the three pillars of the [[exposure-triangle]] alongside [[shutter-speed]] and [[iso]]. See [[exposure-triangle]] for how aperture interacts with shutter speed and ISO.
+
+See also: [[depth-of-field]]
+
+See also: [[camera-modes]]

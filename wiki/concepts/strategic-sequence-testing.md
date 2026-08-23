@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Strategic Sequence Testing
-description: "--
-Strategic Sequence Testing"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- strategy
-- market-strategy
-- business
-sources:
-- Blue Ocean Strategy - W Chan Kim  Renee Mauborgne.md
-related:
-- blue-ocean-strategy
-- buyer-utility-map
-- value-innovation-analysis
----
+
 --
 # Strategic Sequence Testing
 
@@ -28,3 +10,9 @@ Strategic sequence testing is the final step in validating a blue ocean idea. It
 4. **Adoption** - Can the company overcome the organizational, political, and legal hurdles to bring the idea to market?
 
 This sequence ensures that a blue ocean strategy is not just conceptually attractive but practically viable. Each hurdle must be cleared before moving to the next, providing a disciplined process for turning market insight into executable strategy.
+
+See also: [[blue-ocean-strategy]]
+
+See also: [[buyer-utility-map]]
+
+See also: [[value-innovation-analysis]]

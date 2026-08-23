@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Regional Spice Blend Systems
-description: "--
-Regional Spice Blend Systems"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- spices
-- gastronomy
-- cooking-techniques
-- flavor-theory
-- herbs
-- cooking
-sources:
-- Cumin.md
-related:
-- cumin-cuminum-cyminum
-- herbs-spices
-- ingredient-pairings
-- mexican-cuisine
-- indian-cuisine
-- the-five-mother-sauces
-- herb-blends
-- middle-eastern-cuisine
-- mediterranean-cuisine
----
+
 --
 # Regional Spice Blend Systems
 
@@ -52,3 +25,15 @@ Spice blends are organized frameworks of complementary spices that define region
 - **Signature**: Rustic, earthy, savory
 
 The cumin-coriander pairing appears in all four systems, making it the most universal spice combination in global cooking. These blend systems connect to broader [[flavor-theory]] principles and the practice of [[ingredient-pairings]] in global cuisines.
+
+See also: [[cumin-cuminum-cyminum]]
+
+See also: [[herbs-spices]]
+
+See also: [[mexican-cuisine]]
+
+See also: [[indian-cuisine]]
+
+See also: [[the-five-mother-sauces]]
+
+See also: [[herb-blends]]

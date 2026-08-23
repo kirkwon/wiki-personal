@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: entity
-title: Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne
-description: "Blue Ocean Strategy - W."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- strategy
-- business
-sources:
-- blue-ocean-strategy
-- Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne
-related: [blue-ocean-strategy, value-innovation, strategy-canvas, four-actions-framework-eliminate-reduce-raise-create, six-paths-framework, non-customer-analysis, strategic-sequence, fair-process-leadership, tipping-point-leadership-bos]
----
+
 # Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne
 
 *Blue Ocean Strategy* is a business strategy book by W. Chan Kim and Renee Mauborgne that argues companies can escape destructive competition by creating uncontested market space ("blue oceans") rather than battling rivals in existing markets ("red oceans"). The core thesis is that the most powerful strategies create new market space that is simultaneously low-cost and differentiated — breaking the conventional value-cost tradeoff through what the authors call [[value-innovation]].
@@ -27,3 +12,9 @@ Key case studies include Cirque du Soleil, Southwest Airlines, and Nintendo Wii,
 - [[decision-making-frameworks]] — connects to broader strategy thinking
 - [[scenario-planning]] — similar spirit of exploring non-obvious market spaces
 - [[thinking-in-bets]] — different decision paradigm, but related to how bold bets on new markets are framed
+
+Sources: [[Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne]]
+
+See also: [[non-customer-analysis]]
+
+See also: [[strategic-sequence]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Real Estate Trusts
-description: "--
-Real Estate Trusts"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- real-estate
-sources:
-- Trusts Guide.md
-related:
-- real-estate-investment
-- 1031-exchange-strategy
-- trusts-guide
----
+
 --
 # Real Estate Trusts
 
@@ -55,3 +36,7 @@ Trust structures for holding real estate assets, providing creditor protection, 
 - Asset protection for vacation property
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[real-estate-investment]]
+
+See also: [[1031-exchange-strategy]]

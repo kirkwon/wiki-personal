@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Topics
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-confidence: medium
-sources:
-- Topics.md
-related:
-- solutions
-- group
-- stillness
-- thinking-mental-model
-- ideas-mental-model
-- effort
-- planning
-- overview
----
+
 -
 # Topics
 
@@ -46,3 +25,9 @@ The model is referenced in Greg McKeown's *Multipliers*, linking it to leadershi
 - Limited elaboration in source material; the model may benefit from further exploration and examples across domains.
 - Confidence remains moderate (0.7) pending deeper investigation.
 ---
+
+See also: [[solutions]]
+
+See also: [[planning]]
+
+See also: [[overview]]

@@ -1,13 +1,4 @@
----
-date: 2026-06-16
-type: source
-title: Research Implementing Critic Separation
-created: 2026-06-16
-updated: 2026-06-16
-tags: [research]
-related: [critic-separation, agent-looping, ai-assisted-software-development]
-sources: ["research-implementing-critic-separation-2026-06-17-052850.md"]
----
+
 # Research Implementing Critic Separation
 ## Introduction
 Implementing Critic Separation is a crucial aspect of AI-assisted software development, which involves separating the coding agent's role from the PR review agent's role. This separation is essential to ensure that verification remains objective and rigorous, catching architectural drifts, security vulnerabilities, and logic errors that might pass standard unit tests.
@@ -53,3 +44,7 @@ Future research directions include exploring the application of Critic Separatio
 [13] **Loop Engineering - by Addy Osmani - Elevate** (addyo.substack.com)
 [14] **docs/operating-loops.md** (github.com)
 [15] **What Is Loop Engineering? The Complete Guide** (remio.ai)
+
+See also: [[critic-separation]]
+
+See also: [[agent-looping]]

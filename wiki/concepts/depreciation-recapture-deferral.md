@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Depreciation Recapture Deferral
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- tax
-- skill-candidate
-- personal-finance
-- 1031 Exchange Strategy.md
-- 1031 Exchange Strategy.md
-related:
-- 1031-exchange-strategy
-- real-estate-investment
----
+
 -
 # Depreciation Recapture Deferral
 
@@ -28,3 +11,7 @@ related:
 - Long-term benefit comes from continuous deferral through multiple exchanges
 - Eventually must sell or face depreciation recapture when exiting the exchange cycle
 ---
+
+See also: [[1031-exchange-strategy]]
+
+See also: [[real-estate-investment]]

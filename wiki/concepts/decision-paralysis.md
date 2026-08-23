@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Decision Paralysis
-description: "A state in which an individual is unable to make a decision due to an overwhelming number of options, excessive fear of making the wrong choice, or the belief that more information is needed before co."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- decision-making
-- psychology
-- cognitive-bias
-sources:
-- the-paradox-of-choice
-- Decision Paralysis
-related: [choice-overload, paradox-of-choice, dread-aversion, decision-making-under-uncertainty, decision-tracking, decision-making-frameworks, decision-quality-vs-outcome-quality]
----
+
 # Decision Paralysis
 
 A state in which an individual is unable to make a decision due to an overwhelming number of options, excessive fear of making the wrong choice, or the belief that more information is needed before committing. Decision paralysis is a direct consequence of choice overload.
@@ -56,3 +41,5 @@ Decision paralysis is the cognitive freezing that occurs when the perceived cost
 - [[decision-tracking]] — monitoring outcomes to reduce future paralysis
 - [[decision-making-frameworks]] — structured approaches to reduce paralysis
 - [[decision-quality-vs-outcome-quality]] — focusing on process over results
+
+See also: [[paradox-of-choice]]

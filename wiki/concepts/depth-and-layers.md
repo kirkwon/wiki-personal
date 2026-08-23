@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Depth and Layers
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-- fundamentals
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- photography-fundamentals
----
+
 -
 # Depth and Layers
 
@@ -38,3 +23,5 @@ Three basic layers:
 
 See [[composition-techniques]] for the broader context of composition techniques.
 ---
+
+See also: [[photography-fundamentals]]

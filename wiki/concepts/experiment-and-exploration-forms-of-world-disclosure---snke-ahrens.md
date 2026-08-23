@@ -1,16 +1,4 @@
----
 
-date: 2026-04-29
-type: source
-title: "Experiment and Exploration: Forms of World-Disclosure - Sönke Ahrens"
-description: "Experiment and Exploration: Forms of World-Disclosure"
-created: 2026-04-29
-updated: 2026-04-29
-tags: ['mental-model', 'world-disclosure', 'sonke-ahrens', 'book', 'ahrens', 'philosophy', 'epistemology']
-sources: ["Forms.md", "Experiment and Exploration_ Forms of World-Disclosure - Sönke Ahrens.md"]
-related: ["forms", "world-disclosure", "planning", "sönke-ahrens", "how-to-take-smart-notes"]
-
----
 # Experiment and Exploration: Forms of World-Disclosure
 
 Sönke Ahrensin kirja "Experiment and Exploration: Forms of World-Disclosure" (2024) esittelee maailmanavaus-käsitteen (world-disclosure), jossa ihmiskunta tulkii todellisuutta kokeilemalla ja tutkimalla.
@@ -48,3 +36,13 @@ Teknologinen kehitys (avaruustutkimus, tekoäly, bioteknologia) laajentaa ihmise
 
 ## Yhteys muihin teoksiin
 Kirja laajentaa Ahrensin aiemman työn "How to Take Smart Notes" -kirjan tuomaa älykkyyden erotteluun maailmanavaus-filosofiasta.
+
+See also: [[forms]]
+
+See also: [[world-disclosure]]
+
+See also: [[planning]]
+
+See also: [[sönke-ahrens]]
+
+See also: [[how-to-take-smart-notes]]

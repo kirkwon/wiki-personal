@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: 乌龙茶
-description: "乌龙茶是半发酵茶，兼具绿茶的清香和红茶的醇厚，风味层次丰富。"
-created: 2026-04-29
-updated: 2026-04-24
-tags:
-- tea
-- oolong
-- beverages
-sources:
-- Pu-erh Tea.md
-related:
-- 茶
-- 普洱茶
-- 红茶
-- 功夫茶
----
+
 --
 # 乌龙茶（Oolong Tea）
 
@@ -32,3 +14,9 @@ related:
 - [[普洱茶]] — 后发酵茶
 - [[black-tea-红茶-hóng-chá]] — 全发酵茶
 - [[tea]] — 茶类总览
+
+See also: [[茶]]
+
+See also: [[红茶]]
+
+See also: [[功夫茶]]

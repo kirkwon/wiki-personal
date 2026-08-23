@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Mise en Place
-description: "Mise en place (French: 'everything in its place') is the practice of pre-preparing and organizing all ingredients before beginning to cook."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- cooking
-- technique
-- meal-planning
-- preparation
-- workflow
-- gastronomy
-- productivity
-sources:
-- the-4-hour-chef
-- Mise en Place
-related: ["batch-cooking", "meal-prep-blueprint", "cooking-techniques", "intuitive-cooking", "stir-fry-technique", "wok-hei", "marinades", "velveting-(cooking-technique)", "aromatics"]
----
+
 # Mise en Place
 
 Mise en place (French: "everything in its place") is the practice of pre-preparing and organizing all ingredients before beginning to cook. Timothy Ferriss identifies it as a foundational time-efficiency technique in *The 4-Hour Chef*. It is essential for wok cooking where speed and heat retention are critical.
@@ -101,3 +82,13 @@ Mise en place connects to [[batch-cooking]] (preparing components in advance) an
 
 ## See Also
 [[marinades]] | [[stir-fry-technique]] | [[wok-hei]]
+
+Sources: [[the-4-hour-chef]]
+
+See also: [[cooking-techniques]]
+
+See also: [[intuitive-cooking]]
+
+See also: [[velveting-(cooking-technique)]]
+
+See also: [[aromatics]]

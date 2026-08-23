@@ -1,32 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Learning Organizations
-description: "--
-Learning Organizations"
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- organizational-learning
-- systems-thinking
-- management
-- learning
-- organization
-sources:
-- The Fifth Discipline - Peter M Senge.md
-- The Fifth Discipline Fieldbook - Peter M Senge.md
-related:
-- the-fifth-discipline
-- systems-thinking
-- the-three-laws-of-systems-thinking
-- patterns-that-program-the-future
-- five-whys-technique
-- visionary-leadership
-- co-evolutionary-relationships
-- five-disciplines-framework
-- management
-- planning
----
+
 --
 # Learning Organizations
 
@@ -57,3 +29,9 @@ Organizations that continuously learn and adapt through systemic change. Accordi
 ## Connection to Other Concepts
 
 Learning organizations connect to [[systems-thinking]] as the fifth discipline, [[the-three-laws-of-systems-thinking]] as the governing principles, and [[patterns-that-program-the-future]] as the mechanism for disrupting recurring problems. The [[five-whys-technique]] serves as a diagnostic tool for root-cause analysis within these organizations. The [[five-disciplines-framework]] provides the foundational structure, and they are closely tied to [[management]] and [[planning]].
+
+See also: [[the-fifth-discipline]]
+
+See also: [[visionary-leadership]]
+
+See also: [[co-evolutionary-relationships]]

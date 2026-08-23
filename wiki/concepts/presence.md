@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Presence
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- systems-thinking
-- decision-making
-sources:
-- Presence.md
-related:
-- stillness
-- environment
-- planning
-- thinking-mental-model
-- peter-m-senge
----
+
 -
 # Presence
 
@@ -42,3 +24,5 @@ Derived from Peter M. Senge's *Presence: Human Purpose and the Field of the Futu
 ## Confidence
 Moderate (0.7) — the source provides a high-level framework without detailed elaboration.
 ---
+
+See also: [[peter-m-senge]]

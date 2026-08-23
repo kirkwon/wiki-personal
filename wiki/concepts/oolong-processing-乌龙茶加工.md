@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 乌龙茶加工 (Oolong Processing)
-description: "--
-乌龙茶加工 (Oolong Processing)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- oolong
-- processing
-- technique
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- partial-oxidation-部分氧化
-- gongfu-brewing-功夫茶冲泡
----
+
 --
 # 乌龙茶加工 (Oolong Processing)
 
@@ -39,3 +20,9 @@ related:
 - **视觉**: 均匀颜色，完整叶片，良好成型
 - **芳香**: 强烈特征芳香，多层 scent，无异味
 - **冲泡**: 清澈茶汤，复杂风味，顺滑口感，愉悦余味
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[partial-oxidation-部分氧化]]
+
+See also: [[gongfu-brewing-功夫茶冲泡]]

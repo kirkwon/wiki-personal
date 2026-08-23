@@ -1,18 +1,1 @@
----
-
-date: 2026-05-03
-type: source
-title: 'Influence: The Psychology of Persuasion - Robert B. Cialdini'
-description: "Mastering psychological principles to understand and ethically apply persuasive techniques in daily life."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- psychology
-- persuasion
-- behavioral-economics
-- decision-making
-sources:
-- influence-the-psychology-of-persuasion
-- 'Influence: The Psychology of Persuasion - Robert B. Cialdini'
----
+Sources: [[influence-the-psychology-of-persuasion]]

@@ -1,17 +1,11 @@
----
+Sources: [[out-of-control]]
 
-date: 2026-05-03
-type: concept
-title: Evolution of Cooperation
-description: "The historical development of cooperative behavior, often modeled by game theory."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- technology
-- behavioral-economics
-- game-theory
-sources:
-- out-of-control
-- Evolution of Cooperation
-related: [kevin-kelly, self-organization-and-emergence, strategic-bluffing, skin-in-the-game, decision-making-frameworks]
----
+See also: [[kevin-kelly]]
+
+See also: [[self-organization-and-emergence]]
+
+See also: [[strategic-bluffing]]
+
+See also: [[skin-in-the-game]]
+
+See also: [[decision-making-frameworks]]

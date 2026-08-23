@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Free Spirit (Nietzsche)
-description: "Free Spirit (Nietzsche)"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- individuality
-- values
-sources:
-- beyond-good-and-evil
-- Free Spirit (Nietzsche)
-related: [revaluation-of-all-values, ubermensch, will-to-power, master-vs-slave-morality]
----
+
 # Free Spirit (Nietzsche)
 
 The Free Spirit is Nietzsche's ideal type of intellectual — someone who has freed themselves from conventional moral frameworks and creates personal values.
@@ -28,3 +13,5 @@ The Free Spirit is Nietzsche's ideal type of intellectual — someone who has fr
 ## Connection to Other Concepts
 
 The Free Spirit connects to [[revaluation-of-all-values]] as the practical expression of value creation, to [[ubermensch]] as the aspirational endpoint, and to [[will-to-power]] as the driving force behind intellectual independence. It also relates to [[the-game-of-success]] in exploring what makes individuals effective beyond conventional measures.
+
+See also: [[master-vs-slave-morality]]

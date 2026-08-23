@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Regime shifts in prediction
-description: "--
-Regime shifts in prediction"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- prediction
-- uncertainty
-- decision-making
-sources:
-- The Signal and the Noise - Nate Silver.md
-related:
-- when-to-stop-predicting
-- overfitting
-- uncertainty
----
+
 --
 # Regime shifts in prediction
 
@@ -33,3 +15,7 @@ Rapid changes that invalidate historical patterns, rendering past data unreliabl
 ## When to Stop
 
 When rapid change renders historical patterns invalid, prediction costs exceed forecast value, or overconfidence leads to excessive risk-taking.
+
+See also: [[when-to-stop-predicting]]
+
+See also: [[uncertainty]]

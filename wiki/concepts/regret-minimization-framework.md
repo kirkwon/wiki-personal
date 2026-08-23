@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Regret Minimization Framework
-description: "--
-Regret Minimization Framework"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- decision-making
-- mental-models
-sources:
-- decision-making-frameworks.md
-related:
-- embracing-failure-for-personal-growth
-- the-algebra-of-happiness---scott-galloway
+scott-galloway
 - decision-making-frameworks
 ---
 --
@@ -31,3 +16,5 @@ Katkeruusminimointikehys kysyy: "Mikä valinta aiheuttaa vähiten katkeruutta?" 
 ## Yhteydet
 - [[embracing-failure-for-personal-growth]] – Katkeruuden käsittely liittyy epäonnistumisen uudelleenkehykseen
 - [[the-algebra-of-happiness---scott-galloway]] – Pitkäaikaiset päätökset ja elämänstrategia
+
+See also: [[the-algebra-of-happiness]]

@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: El Farolito
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- restaurants
-sources:
-- san-francisco-city-guide.md
-related:
-- mission-district
-- favorite-restaurants
----
+
 -
 # El Farolito
 
@@ -25,3 +10,7 @@ Taqueria réputée du Mission District, sœur de La Taqueria pour les burritos.
 - Alternative locale à La Taqueria
 
 ---
+
+See also: [[mission-district]]
+
+See also: [[favorite-restaurants]]

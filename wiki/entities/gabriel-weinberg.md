@@ -1,26 +1,4 @@
----
-date: 2026-05-03
-type: entity
-title: Gabriel Weinberg
-description: "Founder of DuckDuckGo and author of Super Thinking (2024), a beginner-level book that presents mental models as a toolkit for better decision-making, problem-solving, and learning."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- person
-- books
-- mental-models
-- decision-making
-- author
-sources:
-- super-thinking
-- Gabriel Weinberg
-related: [super-thinking-gabriel-weinberg, mental-models, bayesian-thinking, cognitive-biases-library, mental-model-library]
-dates:
-  - date: "2008-09-25"
-    event: "Founded DuckDuckGo"
-  - date: "2019-06-04"
-    event: "Published Super Thinking"
----
+
 # Gabriel Weinberg
 
 Founder of DuckDuckGo and author of *Super Thinking* (2024), a beginner-level book that presents mental models as a toolkit for better decision-making, problem-solving, and learning. The book's core thesis is that combining multiple mental models yields deeper insight and better outcomes than relying on any single framework.
@@ -43,3 +21,11 @@ His work connects closely to [[daniel-kahneman]] and [[gary-klein]]'s perspectiv
 
 **2008-09-25** | Founded DuckDuckGo
 **2019-06-04** | Published Super Thinking
+
+Sources: [[super-thinking]]
+
+See also: [[super-thinking-gabriel-weinberg]]
+
+See also: [[mental-models]]
+
+See also: [[bayesian-thinking]]

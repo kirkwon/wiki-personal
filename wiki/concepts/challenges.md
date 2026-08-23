@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Challenges
-description: "Challenges is a universal mental model that serves as a conceptual tool for making sense of patterns and relationships in complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- productivity
-sources:
-- Challenges.md
-confidence: medium
-related:
-- obstacles
-- problem-mental-model
-- growth-mindset
-- limits-to-growth
-- the-obstacle-is-the-way
-- grit-concept
-- checklists
-- the-alignment-problem---brian-christian-tom-griffiths
+brian-christian-tom-griffiths
 - being-mortal
 ---
 --
@@ -54,3 +32,11 @@ Confidence is moderate (0.7) due to the breadth of cross-source convergence acro
 ## Open Questions
 
 The boundary between "challenges" and "obstacles" remains somewhat unclear. Holiday's adversarial framing sits alongside Meadows' structural/systemic perspective, suggesting these may be complementary lenses rather than synonyms.
+
+See also: [[limits-to-growth]]
+
+See also: [[the-obstacle-is-the-way]]
+
+See also: [[grit-concept]]
+
+See also: [[checklists]]

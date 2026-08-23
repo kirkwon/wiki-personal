@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Rosemary Flavor Profile
-description: "--
-Rosemary Flavor Profile"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- herbs
-- spices
-- flavor-theory
-- aromatics
-sources:
-- Rosemary.md
-related:
-- rosemary-rosmarinus-officinalis
-- aromatics
-- aromatics-the-holy-trinity
-- ingredient-pairings
----
+
 --
 # Rosemary Flavor Profile
 
@@ -46,3 +26,11 @@ Rosemary pairs excellently with hearty, robust ingredients: lamb, chicken, pork,
 - Toast briefly to enhance aroma
 - Crush to release oils before adding to dishes
 - Can handle long cooking times (roasting, braising, grilling)
+
+See also: [[rosemary-rosmarinus-officinalis]]
+
+See also: [[aromatics]]
+
+See also: [[aromatics-the-holy-trinity]]
+
+See also: [[ingredient-pairings]]

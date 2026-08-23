@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-title: Ingredient Pairings
-description: "Ingredient pairings refer to the principles of combining foods and flavors so they complement each other harmoniously."
-created: 2026-04-24
-updated: 2026-05-09
-type: concept
-tags:
-- technique
-- gastronomy
-- ingredient
-- cooking
-- flavor
-sources:
-- Gastronomy.md
-related:
-- flavor-theory
-- aromatics
-- seasonings
-- salmon
----
+
 --
 
 # Ingredient Pairings
@@ -40,3 +20,9 @@ Ingredient pairings refer to the principles of combining foods and flavors so th
 - [[Cooking Techniques]]
 - [[flavor-theory]]
 - [[aromatics-the-holy-trinity]]
+
+See also: [[aromatics]]
+
+See also: [[seasonings]]
+
+See also: [[salmon]]

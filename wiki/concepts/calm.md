@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Calm
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Calm.md
-related:
-- stillness
-- ryan-holiday
-- the-obstacle-is-the-way
----
+
 -
 # Calm
 
@@ -25,3 +10,7 @@ This model draws from Ryan Holiday's *Stillness Is the Key*, which argues that s
 
 Calm connects to related mental models like [[stillness]], [[settings]], and [[Solutions]], offering a complementary perspective on how we orient ourselves within complexity.
 ---
+
+See also: [[ryan-holiday]]
+
+See also: [[the-obstacle-is-the-way]]

@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Espresso (意大利浓缩咖啡)
-description: "--
-Espresso (意大利浓缩咖啡)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- espresso
-- pressure
-- concentrated
-- barista
-sources:
-- Espresso.md
-related:
-- coffee
-- pour-over-coffee
-- french-press-coffee-法压壶咖啡
-- arabica-coffee-coffea-arabica
-- bloom-technique-闷蒸技术
-- immersion-brewing-浸泡式萃取
----
+
 --
 # Espresso (意大利浓缩咖啡)
 
@@ -79,3 +56,11 @@ related:
 - **玛奇朵**：浓缩上标记少量奶泡
 
 参见 [[pour-over-coffee]] 了解滴滤式冲煮对比，[[french-press-coffee-法压壶咖啡]] 了解浸泡式冲煮。
+
+See also: [[coffee]]
+
+See also: [[arabica-coffee-coffea-arabica]]
+
+See also: [[bloom-technique-闷蒸技术]]
+
+See also: [[immersion-brewing-浸泡式萃取]]

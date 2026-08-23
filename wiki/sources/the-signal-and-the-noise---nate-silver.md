@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: source
-title: The Signal and the Noise - Nate Silver
-description: "The Signal and the Noise - Nate Silver"
-created: 2026-04-29
-updated: 2026-05-10
-sources:
-- the-signal-and-the-noise
-- The Signal and the Noise - Nate Silver
-tags: [books, prediction, statistics]
-related: []
----
+
 
 # The Signal and the Noise - Nate Silver
 
@@ -71,3 +59,7 @@ This source is referenced in the Predictions mental model as a key authority on 
 - [[decision-quality-vs-outcome-quality]]
 - [[decision-making-under-uncertainty]]
 - [[monte-carlo-simulations]]
+
+Sources: [[the-signal-and-the-noise]]
+
+Sources: [[The Signal and the Noise - Nate Silver]]

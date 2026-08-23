@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: LEAPS
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- long-term-investing
-sources:
-- Options Trading.md
-related:
-- options
-- time-decay
-- rho
----
+
 -
 # LEAPS
 
@@ -26,3 +10,7 @@ LEAPS (Long-term Equity Anticipation Securities) are options with expiration dat
 - Περισσότερο ευαίσθητο σε επιτοκια (ρό)
 - Προσφέρονται μεγαλύτερης ελεύθερης κινητικότητας
 ---
+
+See also: [[options]]
+
+See also: [[time-decay]]

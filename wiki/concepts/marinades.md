@@ -1,33 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Marinades
-description: "Marinades are liquid mixtures used to infuse flavor and sometimes tenderize ingredients before cooking."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- technique
-- marinade
-- preparation
-- flavor-infusion
-- asian-cuisine
-- cuisine
-- cooking
-- gastronomy
-sources:
-- Marinades.md
-related:
-- aromatics
-- wok-hei
-- stir-fry-technique
-- chinese-sauces
-- flavor-building
-- velveting-(cooking-technique)
-- mise-en-place
-- chinese-cuisine
-- dry-rubs
-- wet-brining
----
+
 --
 # Marinades
 
@@ -113,3 +84,9 @@ Marinades are liquid mixtures used to infuse flavor and sometimes tenderize ingr
 
 ## See Also
 [[velveting-(cooking-technique)]] | [[mise-en-place]] | [[dry-rubs]] | [[wet-brining]] | [[aromatics]] | [[stir-fry-technique]] | [[flavor-building]]
+
+See also: [[wok-hei]]
+
+See also: [[chinese-sauces]]
+
+See also: [[chinese-cuisine]]

@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Storytelling as Decision Knowledge
-description: "Storytelling as Decision Knowledge"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- cognitive-science
-- mental-models
-sources:
-- sources-of-power-how-people-make-decisions
-- Storytelling as Decision Knowledge
-related: [recognition-primed-decision-model, naturalistic-decision-making, decision-making-frameworks]
----
+
 # Storytelling as Decision Knowledge
 
 Gary Klein identifies storytelling as a fundamental mechanism for conveying expertise and lessons learned in high-stakes decision-making contexts. Stories are not merely entertainment—they are how experts encode, share, and preserve the patterns that underpin intuitive judgment.
@@ -27,3 +12,7 @@ Narrative serves multiple functions in decision-making:
 Klein argues that organizations should create cultures that value and encourage storytelling, rather than relying solely on formal procedures or databases. This connects to [[naturalistic-decision-making]]'s emphasis on how expertise actually develops and is shared in practice.
 
 Related: [[metaphor-and-analogy-in-decision-making]], [[decision-making-in-teams]]
+
+See also: [[recognition-primed-decision-model]]
+
+See also: [[decision-making-frameworks]]

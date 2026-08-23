@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Section 7520 Rate
-description: "--
-IRS Section 7520 Rate"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- tax-planning
-sources:
-- Trusts Guide.md
-related:
-- grantor-retained-annuity-trust-grat
-- qualified-personal-residence-trust-qpert-qpst
-- trusts-guide
----
+
 --
 # IRS Section 7520 Rate
 
@@ -38,3 +19,7 @@ The discount rate published by the IRS used to calculate the present value of an
 - Proper valuation critical for maximizing tax benefits
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[grantor-retained-annuity-trust-grat]]
+
+See also: [[qualified-personal-residence-trust-qpert-qpst]]

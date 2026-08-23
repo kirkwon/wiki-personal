@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Put Option
-description: "Put Option είναι ένα διαφορικό σύμβολο (option) που δίνει το δικαίωμα, αλλά όχι την υποχρέωση, να πουλήσετε ένα πέρασμα σε ένα προκαθορισμένο strike price μέχρι την ημερομηνία expiration."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-sources:
-- Options Trading.md
-related:
-- options-trading
-- protective-put
-- call-option
-- risk-management
----
+
 --
 # Put Option
 
@@ -41,3 +23,5 @@ Put Option είναι ένα διαφορικό σύμβολο (option) που �
 - [[call-option]]
 - [[protective-put]]
 - [[options-trading]]
+
+See also: [[risk-management]]

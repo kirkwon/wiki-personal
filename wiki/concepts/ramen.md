@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: ラーメン
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- ramen
-- noodle-soup
-- cuisine
-sources:
-- ramen.md
-related:
-- japanese-cuisine
-- dashi
-- sushi-rice
-- tonkotsu
-- chashu
----
+
 -
 # ラーメン
 
@@ -91,3 +72,7 @@ related:
 3. 柔軟煮卵をマスターする
 4. ラーメンナイトを開催する
 ---
+
+See also: [[sushi-rice]]
+
+See also: [[chashu]]

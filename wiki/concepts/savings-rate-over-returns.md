@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Savings Rate Over Returns
-description: "--
-Savings Rate Over Returns"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- investing
-- budgeting
-sources:
-- The Psychology of Money.md
-related:
-- investment-strategies-for-life-satisfaction
-- lifestyle-inflation
-- compounding-time
----
+
 --
 # Savings Rate Over Returns
 
@@ -37,3 +19,9 @@ This reframes savings as the gap between what you earn and what you expect to ha
 ## Connection to Compounding Time
 
 Starting early with even small amounts matters because of compounding. Warren Buffett's wealth: 90% accumulated after age 65.^[raw/articles/The Psychology of Money.md] The greatest asset is compounding time — time in market > timing the market.
+
+See also: [[investment-strategies-for-life-satisfaction]]
+
+See also: [[lifestyle-inflation]]
+
+See also: [[compounding-time]]

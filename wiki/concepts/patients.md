@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Patients
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- gawande
-- patience
-- uncertainty
-sources:
-- Patients.md
-related:
-- care
-- effort
-- stillness
-- minimalism
-- reality-mental-model
-- being-mortal
-- the-checklist-manifesto---atul-gawande
+atul-gawande
 ---
 -
 # Patients
@@ -51,3 +31,5 @@ The model is rated with moderate confidence (0.7), reflecting that it is somewha
 - How does it differ meaningfully from [[care]] or [[stillness]]?
 - In what domains does the "patient stance" prove most valuable?
 ---
+
+See also: [[being-mortal]]

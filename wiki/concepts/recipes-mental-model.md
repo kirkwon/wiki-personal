@@ -1,20 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Recipes as Mental Model
-description: "--
-Recipes as Mental Model"
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- learning
-- problem-solving
-sources:
-- Recipes.md
-related:
-- decomposing-and-recombining
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - how-to-solve-it---george-polya
 - working-backwards-in-problem-solving
 - management
@@ -44,3 +28,5 @@ This concept connects to [[decomposing-and-recombining]], which also emphasizes 
 - [[working-backwards-in-problem-solving]] — Starting from desired outcomes
 - [[Solutions]] — Solutions as a mental model for navigating complexity
 - [[framework-template]] — Documentation of structured frameworks
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

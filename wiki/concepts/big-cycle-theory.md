@@ -1,16 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Big Cycle Theory
-description: "Big Cycle Theory is Ray Dalio's framework for understanding the long-term rise and decline of empires, nations, and economic systems."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- geopolitics
-- macro-economics
-- mental-models
-related:
-- principles-for-dealing-with-the-changing-world-order---ray-dalio
+ray-dalio
 - power-transition-west-to-east
 - scenario-planning
 - decision-making-under-uncertainty
@@ -38,3 +26,5 @@ Dalio applies this framework to the current moment, arguing that the United Stat
 
 The cyclical, somewhat deterministic nature of Big Cycle Theory contrasts with [[antifragility]] and [[black-swan-events]], which emphasize radical unpredictability and systems that improve under stress rather than following predictable arcs.
 ^[raw/articles/principles-for-dealing-with-the-changing-world-order---ray-dalio.md]
+
+See also: [[principles-for-dealing-with-the-changing-world-order]]

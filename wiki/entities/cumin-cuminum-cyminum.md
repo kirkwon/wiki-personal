@@ -1,40 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Cumin (Cuminum cyminum)
-description: "--
-Cumin (Cuminum cyminum)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- spices
-- ingredient
-- herbs-spices
-- mexican-cuisine
-- indian-cuisine
-- middle-eastern-cuisine
-- mediterranean-cuisine
-- herbs
-- cooking
-- gastronomy
-sources:
-- Cumin.md
-related:
-- herbs-spices
-- herbs-spices-dried-herbs
-- ingredient-pairings
-- mexican-cuisine
-- indian-cuisine
-- the-five-mother-sauces
-- basil-ocimum-basilicum
-- cilantrocoriandrum-sativum
-- cilantrocoriander-coriandrum-sativum
-- herb-blends
-- middle-eastern-cuisine
-- mediterranean-cuisine
-- wok-hei
-- bloom-technique-闷蒸技术
----
+
 --
 # Cumin (Cuminum cyminum)
 
@@ -191,3 +155,9 @@ Used in ancient Egypt and Rome. Major Silk Road trade commodity. Spread globally
 - [[cilantrocoriander-coriandrum-sativum]]
 - [[herb-blends]]
 - [[bloom-technique-闷蒸技术]]
+
+See also: [[the-five-mother-sauces]]
+
+See also: [[basil-ocimum-basilicum]]
+
+See also: [[wok-hei]]

@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Letters from a Stoic - Seneca
-description: "Letters from a Stoic - Seneca"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- stoicism
-- personal-development
-sources:
-- letters-from-a-stoic
-- Letters from a Stoic - Seneca
----
+
 # Letters from a Stoic - Seneca
 
 Seneca's *Letters from a Stoic* is a collection of 20 letters of practical philosophical advice addressed to Lucilius. The work covers topics ranging from the urgency of time and purposeful living, to the nature of true friendship, facing death without fear, moderation as a guiding principle, simple living over luxury, emotional regulation through reason, and the imperative to practice what one preaches.
@@ -54,3 +40,5 @@ Seneca's *Letters from a Stoic* is a collection of 20 letters of practical philo
 ## Connection to Wiki Themes
 
 This work connects to existing pages on [[balancing-ambition-with-well-being]], [[time-management-matrix]], [[quadrant-2-focus]], [[the-five-dysfunctions-of-a-team]], [[cognitive-biases-library]], [[embracing-failure-for-personal-growth]], and [[decision-quality-vs-outcome-quality]].
+
+Sources: [[Letters from a Stoic - Seneca]]

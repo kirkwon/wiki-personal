@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Specialty Coffee Grading
-description: "--
-Specialty Coffee Grading"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- quality
-sources:
-- Arabica.md
-related:
-- arabica-coffee-coffea-arabica
-- coffee-bean-processing-咖啡豆处理
----
+
 --
 # Specialty Coffee Grading
 
@@ -33,3 +17,7 @@ Specialty coffee grading is a quality classification system used to evaluate cof
 - **Stinker**: Fermented, off-flavors
 
 The grading system helps consumers and roasters identify quality levels and supports the premium pricing of specialty coffee.
+
+See also: [[arabica-coffee-coffea-arabica]]
+
+See also: [[coffee-bean-processing-咖啡豆处理]]

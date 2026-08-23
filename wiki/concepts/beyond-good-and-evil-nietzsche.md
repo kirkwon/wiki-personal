@@ -1,25 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Beyond Good and Evil
-description: "--
-Beyond Good and Evil"
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- philosophy
-- books
-- moral-philosophy
-sources:
-- Beyond Good and Evil - Friedrich Nietzsche.md
-related:
-- friedrich-nietzsche
-- master-vs-slave-morality
-- will-to-power
-- genealogical-analysis-of-moral-concepts
-- free-spirit-nietzschean-concept
-- revaluation-of-all-values
----
+
 --
 # Beyond Good and Evil
 
@@ -39,3 +18,15 @@ Moral systems are human creations with psychological origins, not divine or rati
 ## Ethical Guardrails
 
 Nietzsche provides "when to stop" conditions to prevent his critique from becoming nihilism or justification for cruelty. The philosophy is meant to enable self-overcoming and value creation, not destruction for its own sake.
+
+See also: [[friedrich-nietzsche]]
+
+See also: [[master-vs-slave-morality]]
+
+See also: [[will-to-power]]
+
+See also: [[genealogical-analysis-of-moral-concepts]]
+
+See also: [[free-spirit-nietzschean-concept]]
+
+See also: [[revaluation-of-all-values]]

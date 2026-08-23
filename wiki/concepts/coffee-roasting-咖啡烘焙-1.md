@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 咖啡烘焙
-description: "咖啡烘焙是通过热量、时间、气流和豆子特性控制复杂化学反应的过程，可开发超过1000种风味化合物。核心化学反应包括美拉德反应、焦糖化和热解。"
-created: 2026-04-24
-updated: 2026-05-03
-tags:
-- coffee
-- technique
-- beverages
-sources:
-- Roasting.md
-- arabica.md
-related:
-- coffee
-- coffee-bean-processing-咖啡豆处理
-- maillard-reaction
-- caramelization
-- arabica-coffee-coffea-arabica
-- robusta-coffee-coffea-canephora
-- rate-of-rise-roasting
-- roast-profiles
-- roasting-defects
----
+
 --
 # 咖啡烘焙
 
@@ -87,3 +63,19 @@ related:
 - **含水量**：高含水量需要更长的干燥阶段
 
 咖啡烘焙与[[coffee-bean-processing-咖啡豆处理]]密切相关，是咖啡加工链的最终环节。
+
+See also: [[coffee]]
+
+See also: [[maillard-reaction]]
+
+See also: [[caramelization]]
+
+See also: [[arabica-coffee-coffea-arabica]]
+
+See also: [[robusta-coffee-coffea-canephora]]
+
+See also: [[rate-of-rise-roasting]]
+
+See also: [[roast-profiles]]
+
+See also: [[roasting-defects]]

@@ -1,12 +1,4 @@
----
-date: 2026-06-28
-type: concept
-title: Scaffold Optimization
-created: 2026-06-28
-updated: 2026-06-28
-tags: [meta, agent-systems, methodology, improvement]
-sources: [raw/models/ornith-1.md, papers/ornith-1-self-improving-coding]
----
+
 
 # Scaffold Optimization
 
@@ -54,3 +46,5 @@ Scaffold optimization is the RL-automated version of the [[concepts/self-harness
 - [[concepts/self-harness-paradigm]] — the manual methodology that scaffold optimization automates
 - [[concepts/co-failure-ceiling]] — when scaffold/ensembling stops helping, measured by β
 - [[concepts/loop-engineering]] — the meta-skill of building and optimizing improvement loops
+
+Sources: [[papers/ornith-1-self-improving-coding]]

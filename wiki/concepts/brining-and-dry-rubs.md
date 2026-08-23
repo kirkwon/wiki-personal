@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Brining and Dry Rubs
-description: "--
-Brining and Dry Rubs"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- technique
-- cooking
-- gastronomy
-sources:
-- Marinades.md
-related:
-- marinades
-- flavor-building
----
+
 --
 # Brining and Dry Rubs
 
@@ -37,3 +20,7 @@ Brining and dry rubs are advanced flavoring techniques that complement marinades
 - Best of both worlds
 
 These techniques represent alternative approaches to flavor infusion when marinades are not the preferred method.
+
+See also: [[marinades]]
+
+See also: [[flavor-building]]

@@ -1,37 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Reality (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- philosophy
-- cognitive-science
-confidence: medium
-sources:
-- Reality.md
-related:
-- world-disclosure
-- solutions-mental-model
-- stillness
-- settings
-- environment
-- care
-- minimalism
-- management
-- recipes-mental-model
-- overview
-- thinking-mental-model
-- markets
-- effort
-- tendency
-- humanity
-- biases
-- ideas-mental-model
-- business
-- david-mental-model
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 ---
 -
 # Reality (mental model)
@@ -56,3 +23,9 @@ This model relates to other mental models in the wiki including [[solutions-ment
 - How does this model interact with concepts of truth or perception?
 - What distinguishes this constructivist framing from more realist-oriented models like [[antifragility]] or [[skin-in-the-game]]?
 ---
+
+See also: [[world-disclosure]]
+
+See also: [[david-mental-model]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

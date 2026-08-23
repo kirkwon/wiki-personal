@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Pressure Profiling (压力曲线)
-description: "--
-Pressure Profiling (压力曲线)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- espresso
-- technique
-- advanced
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- pre-infusion
----
+
 --
 # Pressure Profiling (压力曲线)
 
@@ -35,3 +17,7 @@ related:
 - 低压结尾：干净的收尾
 
 部分现代咖啡机支持压力曲线编程，是进阶意式咖啡师调节风味的工具。
+
+See also: [[espresso-意大利浓缩咖啡]]
+
+See also: [[pre-infusion]]

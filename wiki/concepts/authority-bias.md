@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Authority Bias
-description: "Authority bias is the tendency to attribute greater accuracy to the opinion of an authority figure and be more influenced by that opinion than it merits."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- mental-models
-- cognitive-bias
-- social-intelligence
-sources:
-- super-thinking
-- Authority Bias
-related: ["cognitive-biases-library", "social-proof", "reciprocity", "mental-models", "super-thinking-gabriel-weinberg", "in-group-out-group-bias"]
----
+
 # Authority Bias
 
 Authority bias is the tendency to attribute greater accuracy to the opinion of an authority figure and be more influenced by that opinion than it merits. Excessive deference to authority figures — giving too much weight to the opinions of those perceived as experts or in positions of power. Covered in Part VI of *Super Thinking*.
@@ -33,3 +18,7 @@ Authority bias connects to [[social-proof]] (conforming to perceived norms), [[r
 
 ## Related Pages
 Related to [[super-thinking-gabriel-weinberg]], [[social-proof]], and [[reciprocity]].
+
+Sources: [[super-thinking]]
+
+See also: [[mental-models]]

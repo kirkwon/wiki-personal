@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Reserve Currency Dynamics
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- macroeconomics
-- geopolitics
-- currency
-sources:
-- Principles for Dealing with the Changing World Order - Ray Dalio.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - dynamics
 - big-cycle-framework
 ---
@@ -32,3 +19,5 @@ Key implications:
 
 Related: [[how-the-economic-machine-works---ray-dalio]], [[dynamics]], [[big-cycle-framework]]
 ---
+
+See also: [[how-the-economic-machine-works]]

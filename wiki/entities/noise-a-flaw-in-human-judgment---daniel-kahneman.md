@@ -1,22 +1,4 @@
----
-
-date: 2026-05-03
-type: entity
-title: 'Noise: A Flaw in Human Judgment'
-description: "-"
-Noise: A Flaw in Human Judgment""
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- book
-- decision-making
-- psychology
-- behavioral-economics
-sources:
-- Noise_ A Flaw in Human Judgment - Daniel Kahneman.md
-related:
-- daniel-kahneman
-- thinking-fast-and-slow ---daniel-kahneman
+daniel-kahneman
 - cognitive-biases-library
 - decision-making-frameworks
 - systematic-decision-making
@@ -60,3 +42,5 @@ Human judgment is far more variable than people realize. When different experts 
 - [[thinking-fast-and-slow---daniel-kahneman]]
 - [[thinking-in-bets---annie-duke]]
 - [[Superforecasting - Philip E Tetlock  Dan Gardner]]
+
+See also: [[thinking-fast-and-slow]]

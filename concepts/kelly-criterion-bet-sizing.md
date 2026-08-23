@@ -1,27 +1,4 @@
----
-date: 2026-06-13
 
-type: concept
-title: Kelly Criterion (Bet Sizing)
-related:
-  - margin-of-safety-financial
-  - tail-event-thinking
-  - leverage-and-randomness
-  - peril-of-leverage
-  - base-rate-neglect
-sources:
-  - Super Thinking - Gabriel Weinberg
-ingested_via: put_page
-ingested_at: '2026-06-13T17:08:26.276Z'
-source_kind: put_page
-tags:
-  - concept
-  - decision-making
-  - finance
-  - probability
-  - risk
-  - strategy
----
 
 # Kelly Criterion (Bet Sizing)
 
@@ -66,3 +43,15 @@ If the Kelly formula says "don't bet" (f* ≤ 0), you have no edge — skip the 
 - Leverage and Risk — what happens when you over-bet
 - Peril of Leverage — the downside of over-concentration
 - Base Rate Neglect — misestimating probabilities
+
+Sources: [[Super Thinking - Gabriel Weinberg]]
+
+See also: [[margin-of-safety-financial]]
+
+See also: [[tail-event-thinking]]
+
+See also: [[leverage-and-randomness]]
+
+See also: [[peril-of-leverage]]
+
+See also: [[base-rate-neglect]]

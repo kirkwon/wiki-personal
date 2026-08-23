@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Time Management Matrix
-description: "Time Management Matrix"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- productivity
-- decision-making
-- time-management
-- mental-models
-sources:
-- first-things-first
-- Time Management Matrix
-related: ["quadrant-2-focus", "first-things-first-principle", "strategic-vs-reactive-thinking", "decision-making-frameworks", "systematic-decision-making", "working-backwards-in-problem-solving", "Eisenhower Matrix"]
----
+
 
 # Time Management Matrix
 
@@ -54,3 +38,7 @@ The Time Management Matrix, introduced by Stephen R. Covey, is a central framewo
 ## When to Be Cautious
 
 Covey emphasizes that optimization itself can become harmful — when productivity systems create more work than they save, or when relationships and health are sacrificed for output, it is time to reassess.
+
+See also: [[first-things-first-principle]]
+
+See also: [[strategic-vs-reactive-thinking]]

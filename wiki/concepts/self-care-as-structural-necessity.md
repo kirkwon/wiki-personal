@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Self-Care as Structural Necessity
-description: "--
-Self-Care as Structural Necessity"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- well-being
-- self-improvement
-- mark-manson
-sources:
-- Everything Is F_cked_ A Book About Hope - Mark Manson.md
-related:
-- effort
-- perseverance
-- stress
-- resilience
----
+
 --
 # Self-Care as Structural Necessity
 
@@ -44,3 +24,9 @@ This concept supports [[effort]] and [[Perseverance]] mental models by ensuring 
 - [[will---mark-manson]] – Manson's broader philosophy on intentionality
 - [[being-mortal]] – Atul Gawande on accepting limitations
 - [[minimalism]] – Reducing unnecessary commitments to protect capacity
+
+See also: [[perseverance]]
+
+See also: [[stress]]
+
+See also: [[resilience]]

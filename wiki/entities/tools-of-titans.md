@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Tools of Titans
-description: "Tools of Titans by Timothy Ferriss compiles the habits, rituals, and strategies of world-class performers across business, health, and creative domains."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- productivity
-- habits
-- high-performers
-sources:
-- Habits.md
-related:
-- habits
-- timothy-ferriss
-- the-4-hour-workweek
----
+
 --
 # Tools of Titans
 
@@ -29,3 +11,9 @@ related:
 
 ## Relevance
 Provides empirical examples of habit patterns across domains, supporting the universal applicability of the Habits mental model.
+
+See also: [[habits]]
+
+See also: [[timothy-ferriss]]
+
+See also: [[the-4-hour-workweek]]

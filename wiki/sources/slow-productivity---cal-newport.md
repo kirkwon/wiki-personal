@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Slow Productivity - Cal Newport
-description: "Slow Productivity - Cal Newport"
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- productivity
-- books
-- philosophy
-- mental-model
-sources:
-- slow-productivity
-- Slow Productivity - Cal Newport
----
+
 # Slow Productivity - Cal Newport
 
 Cal Newport's 2024 book *Slow Productivity* challenges the modern cult of busyness by arguing that meaningful output requires depth, intentionality, and boundaries rather than volume and constant activity. The book presents a counter-movement to hustle culture, drawing on neuroscience of attention, cultural critique, and practical strategies for knowledge workers. It argues that sustainable productivity requires a shift away from relentless optimization toward doing fewer things, at a natural pace, and producing work that genuinely matters.^[raw/articles/Society.md]
@@ -51,3 +36,7 @@ Slow productivity represents a societal-level critique of how productivity norms
 ## Connections to Wiki Themes
 
 This source connects to [[time-management-matrix]], [[quadrant-2-focus]], [[deep-focus]], [[decision-quality-vs-outcome-quality]], [[the-infinite-game---simon-sinek]], and [[will---mark-manson]].
+
+Sources: [[slow-productivity]]
+
+Sources: [[Slow Productivity - Cal Newport]]

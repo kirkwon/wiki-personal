@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Commitments
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Commitments.md
-related:
-- planning
-- solutions
-- stillness
-- environment
-- settings
-- management
-- effort
-- decision-making-frameworks
-- systematic-decision-making
----
+
 -
 # Commitments
 
@@ -31,3 +10,15 @@ This model complements existing mental models like [[planning]], [[Solutions]], 
 
 The model is grounded in Greg McKeown's philosophy of essentialism, which advocates for the disciplined pursuit of less.^[raw/articles/Commitments.md]
 ---
+
+See also: [[solutions]]
+
+See also: [[environment]]
+
+See also: [[settings]]
+
+See also: [[management]]
+
+See also: [[effort]]
+
+See also: [[systematic-decision-making]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Manager Risk
-description: "Manager risk is the dependence on the skill, expertise, and judgment of investment managers, sponsors, or management teams."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- risk-management
-- alternative-investments
-sources:
-- Alternative Investments.md
-related:
-- alternative-investments
-- private-equity
-- real-estate-investment
-- risk-assessment-framework
-- risk-management
----
+
 --
 # Manager Risk
 
@@ -44,3 +24,7 @@ Manager risk is the dependence on the skill, expertise, and judgment of investme
 - [[risk-management]]
 - [[valuation-risk]]
 - [[private-equity]]
+
+See also: [[real-estate-investment]]
+
+See also: [[risk-assessment-framework]]

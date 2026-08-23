@@ -1,23 +1,4 @@
----
-date: 2026-04-22
-type: concept
-title: Risk Transfer Strategies
-description: "--
-Risk Transfer Strategies"
-created: 2026-04-22
-updated: 2026-04-22
-tags:
-- risk-management
-- investment-risk
-- legal
-related:
-- risk-assessment-framework
-- hedging-strategies
-- insurance-protection-investments
-- entity-structure-strategies
-sources:
-- Risk Assessment Framework.md
----
+
 --
 # Risk Transfer Strategies
 
@@ -41,3 +22,9 @@ Methods for shifting risk from the investor to third parties through contractual
 - Cross-border entity structuring
 
 Risk transfer is one of three mitigation approaches in [[risk-assessment-framework]] alongside risk reduction and risk acceptance.
+
+See also: [[hedging-strategies]]
+
+See also: [[insurance-protection-investments]]
+
+See also: [[entity-structure-strategies]]

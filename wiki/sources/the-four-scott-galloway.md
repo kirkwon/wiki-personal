@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: source
-title: The Four - Scott Galloway
-description: "--
-The Four - Scott Galloway"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- business
-- mental-model
-- technology
-sources:
-- Companies.md
-related:
-- post-corona-from-crisis-to-opportunity
-- platform-dominance
-- companies-mental-model
-- the-algebra-of-happiness---scott-galloway
+scott-galloway
 ---
 --
 # The Four - Scott Galloway
@@ -39,3 +21,11 @@ Galloway's *The Four* identifies four companies — Apple, Amazon, Google, and F
 ## Connection to Companies Mental Model
 
 This is the foundational source for the Companies mental model, providing the analytical framework for understanding corporate power dynamics.
+
+See also: [[post-corona-from-crisis-to-opportunity]]
+
+See also: [[platform-dominance]]
+
+See also: [[companies-mental-model]]
+
+See also: [[the-algebra-of-happiness]]

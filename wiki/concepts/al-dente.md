@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Al Dente
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking-technique
-- italian
-- pasta
-sources:
-- pasta.md
-related:
-- pasta
-- cacio-e-pepe
-- fresh-pasta-making
----
+
 -
 # Al Dente
 
@@ -37,3 +21,7 @@ The standard for proper pasta doneness — firm to the bite with slight resistan
 
 Al dente is non-negotiable for proper Italian pasta — overcooking ruins the texture and destroys the sauce-binding capacity of the starchy water.
 ---
+
+See also: [[pasta]]
+
+See also: [[fresh-pasta-making]]

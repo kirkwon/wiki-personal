@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-title: The Upside of Irrationality - Dan Ariely
-description: "The Upside of Irrationality - Dan Ariely"
-created: 2026-05-03
-updated: 2026-05-03
-type: source
-tags:
-- books
-- behavioral-economics
-- decision-making
-- psychology
-sources:
-- the-upside-of-irrationality
-- The Upside of Irrationality - Dan Ariely
----
+
 # The Upside of Irrationality - Dan Ariely
 
 Dan Ariely's 2024 book explores how human irrationality, rather than being merely a flaw, can have functional value when understood and leveraged correctly. The book blends psychology with economic theory to examine systematic deviations from rational decision-making.
@@ -40,3 +25,5 @@ Dan Ariely's 2024 book explores how human irrationality, rather than being merel
 
 This book extends and reinforces existing wiki concepts around [[cognitive-biases-library]], [[overconfidence-and-certainty]], [[prospect-theory]], [[dual-process-theory]], and [[emotion-and-intuition-in-decisions]]. It introduces novel empirical findings on tipping behavior, fairness perception, and willingness to pay for good deeds that connect to [[morality-and-decision-making]] and [[decision-tracking]].
 ^[raw/articles/the-upside-of-irrationality---dan-ariely.md]
+
+Sources: [[the-upside-of-irrationality]]

@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Secondary Dominants
-description: "--
-Secondary Dominants"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- harmony
-- chords
-related:
-- jazz-harmony
-- music-theory-fundamentals
-sources:
-- jazz-harmony.md
----
+
 --
 # Secondary Dominants
 
@@ -37,3 +20,5 @@ Eksempel i C-dur: Cmaj7 - A7 - Dmin7 - G7
 ## Relatert
 - [[jazz-harmony]]
 - [[ii-v-i-progression]]
+
+See also: [[music-theory-fundamentals]]

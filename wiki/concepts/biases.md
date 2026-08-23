@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Biases
-description: "Biases function as mental shortcuts for navigating complex situations, providing frameworks for making sense of patterns and relationships in the world, allowing rapid pattern recognition and sense-ma."
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- mental-model
-- cognitive-bias
-sources:
-- Biases.md
-- Bias.md
-confidence: medium
-related:
-- thinking-fast-and-slow ---daniel-kahneman
+daniel-kahneman
 - cognitive-biases-library
 - dual-process-theory
 - confirmation-bias
@@ -49,3 +34,5 @@ Bias as a mental model serves as a navigational principle for understanding how 
 - [[the-art-of-thinking-clearly---rolf-dobelli]]
 - [[cognitive-biases-library]]
 - Brian Christian and Tom Griffiths' *Algorithms to Live By*
+
+See also: [[thinking-fast-and-slow]]

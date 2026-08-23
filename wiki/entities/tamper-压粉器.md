@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Tamper（压粉器）
-description: "压粉器（Tamper）是用于压实咖啡粉的器具，确保咖啡粉床均匀致密，为高压萃取提供一致阻力。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- equipment
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- portafilter-手柄
-- espresso-channeling
----
+
 --
 # Tamper（压粉器）
 
@@ -35,3 +19,7 @@ related:
 - 缺少抛光动作
 
 不均匀压粉会导致 [[espresso-channeling]]（通道效应）。
+
+See also: [[espresso-意大利浓缩咖啡]]
+
+See also: [[portafilter-手柄]]

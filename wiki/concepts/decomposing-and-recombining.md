@@ -1,15 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Decomposing and Recombining
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- problem-solving
-- heuristics
-- complexity
-related:
-- how-to-solve-it---george-polya
+george-polya
 - heuristic-problem-solving
 - decision-making-frameworks
 - polya-four-steps
@@ -25,3 +14,5 @@ Polya identifies this as one of the most fundamental strategies in problem-solvi
 
 After solving the sub-problems, the recombination phase requires attention: the parts must fit together correctly, and interactions between them may introduce new complications.
 ---
+
+See also: [[how-to-solve-it]]

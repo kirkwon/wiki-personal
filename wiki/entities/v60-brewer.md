@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-title: Hario V60
-description: "The Hario V60 is a conical pour-over brewer with a single large hole at the bottom."
-created: 2026-04-24
-updated: 2026-04-24
-type: entity
-tags:
-- coffee
-- equipment
-- brewing
-sources:
-- Pour Over.md
-related:
-- pour-over-coffee
-- chemex-brewer
-- kalita-wave-brewer
----
+
 --
 # Hario V60
 
@@ -34,3 +17,9 @@ The Hario V60 is a conical pour-over brewer with a single large hole at the bott
 
 ## Best For
 Brewers who want to highlight nuanced acidity and complex flavor notes in single-origin specialty coffee.
+
+See also: [[pour-over-coffee]]
+
+See also: [[chemex-brewer]]
+
+See also: [[kalita-wave-brewer]]

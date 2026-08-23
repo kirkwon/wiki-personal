@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Depth and Layers in Photography
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- leading-lines
-- framing-composition
----
+
 -
 # Depth and Layers in Photography
 
@@ -34,3 +19,9 @@ Creating depth is essential for making 2D images feel three-dimensional. Layerin
 2. **Middle ground**: Main subject
 3. **Background**: Sets context, adds depth
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[leading-lines]]
+
+See also: [[framing-composition]]

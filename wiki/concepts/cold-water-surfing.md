@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Cold-Water Surfing
-description: "--
-Cold-Water Surfing"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- surfing
-- safety
-- gear
-sources:
-- ocean-beach.md
-related:
-- ocean-beach
-- sneaker-waves
----
+
 --
 # Cold-Water Surfing
 
@@ -35,3 +18,5 @@ Cold water increases the risk of hypothermia, reduces dexterity, and can cause c
 ## Local Context
 
 Ocean Beach's cold-water surfing community is dedicated and experienced, with local surf schools and shops like Sunset Surf Shop providing gear and lessons.^[ocean-beach.md]
+
+See also: [[ocean-beach]]

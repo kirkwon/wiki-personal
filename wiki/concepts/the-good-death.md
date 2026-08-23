@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: The Good Death
-description: "The Good Death is Gawande's framework for what makes dying a meaningful experience."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- healthcare
-- mortality
-- end-of-life
-- medical-ethics
-sources:
-- being-mortal
-- The Good Death
-related: [being-mortal-atul-gawande, autonomy-in-end-of-life-decisions, rituals-and-mortality, quality-vs-quantity-of-life]
----
+
 # The Good Death
 
 The Good Death is Gawande's framework for what makes dying a meaningful experience. It centers on four elements: autonomy, comfort, dignity, and family involvement.
@@ -28,3 +12,11 @@ The Good Death is Gawande's framework for what makes dying a meaningful experien
 **Family involvement** means that the dying process is not isolated from loved ones. Meaningful connection with family — and the space for honest conversation about what matters — is itself a form of care.
 
 The concept of the good death reframes medical success. Rather than measuring success by how long a patient survives, it measures by whether the patient's final experience reflected their values and was shared with the people they love.
+
+Sources: [[being-mortal]]
+
+See also: [[being-mortal-atul-gawande]]
+
+See also: [[rituals-and-mortality]]
+
+See also: [[quality-vs-quantity-of-life]]

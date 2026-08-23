@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Technique
-description: "Technique on systemaattisen tehokkuuden ja tulosten parantamisen käytäntö."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- skill
-sources:
-- Technique.md
-related:
-- active-revision-techniques
-- scatterfocus
-- personal-knowledge-vault
-- problem-solving
-- decision-making-frameworks
-- hyperfocus---chris-bailey
+chris-bailey
 - building-a-second-brain---tiago-forte
 - the-index-card-rules
 ---
@@ -48,3 +29,9 @@ Technique liittyy läheisesti [[scatterfocus]]-käsitteeseen sisäisen yhteyteen
 ## Lähteet
 
 Taitoa käsitellään 68 eri lähteessä, mukaan lukien David Allenin Getting Things Done, Sönke Ahrens'in How to Take Smart Notes, Cal Newportin Slow Productivity, Ray Dalion Principles, Annie Doken How to Decide ja Thinking in Bets, Ryan Holidayn The Obstacle Is the Way ja Stillness Is the Key, Nassim Nicholas Talebin Antifragile ja The Black Swan, Daniel Kahnemanin Noise, sekä Charles Duhigin Smarter Faster Better.
+
+See also: [[personal-knowledge-vault]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[hyperfocus]]

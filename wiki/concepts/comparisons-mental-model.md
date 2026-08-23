@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Comparisons (mental model)
-description: "--
-Comparisons (mental model)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- comparison
-- decision-making
-sources:
-- Comparisons.md
-related:
-- framing-effects
-- decision-making-frameworks
-- cognitive-biases-library
-- biases
-- decision-quality-vs-outcome-quality
-- decision-tracking
-- dual-process-theory
-confidence: medium
----
+
 --
 # Comparisons (mental model)
 
@@ -55,3 +32,5 @@ Comparisons help people evaluate options, make decisions, and understand complex
 ## Sources
 
 - Dan Ariely, Predictably Irrational
+
+See also: [[biases]]

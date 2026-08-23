@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Options
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- mental-models
-sources:
-- The Paradox of Choice - Barry Schwartz.md
-related:
-- choices
-- decisions
-- choice-overload
-- decision-paralysis
-- decision-making-frameworks
----
+
 -
 # Options
 
@@ -35,3 +18,5 @@ Options are the building blocks of decisions, but too many options lead to [[cho
 - [[choice-overload]] — burden from too many options
 - [[decision-tracking]] — monitoring which options you choose and their outcomes
 ---
+
+See also: [[decision-making-frameworks]]

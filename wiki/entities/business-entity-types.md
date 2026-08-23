@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Business Entity Types
-description: "--
-Business Entity Types"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- business-entity
-- tax-planning
-sources:
-- Company Structure Guide.md
-related:
-- personal-finance
-- trusts-guide
-- real-estate-investment
----
+
 --
 # Business Entity Types
 
@@ -54,3 +36,7 @@ LPs used for estate planning and wealth transfer among family members. General p
 - [[multi-entity-structuring]] for layered structures
 - [[trusts-guide]] for estate planning connections
 - [[real-estate-investment-entity-structure]] for investor-specific structuring
+
+See also: [[personal-finance]]
+
+See also: [[real-estate-investment]]

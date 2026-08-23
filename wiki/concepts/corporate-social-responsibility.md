@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Corporate Social Responsibility
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- business
-- ethics
-- sustainability
-sources:
-- Adrift - Scott Galloway.md
-related:
-- responsible-capitalism
-- b-corporations
-- decision-culture
----
+
 -
 # Corporate Social Responsibility (CSR)
 
@@ -32,3 +16,7 @@ CSR is one mechanism within the broader [[responsible-capitalism]] framework for
 ## Source
 ^[Adrift - Scott Galloway.md]
 ---
+
+See also: [[b-corporations]]
+
+See also: [[decision-culture]]

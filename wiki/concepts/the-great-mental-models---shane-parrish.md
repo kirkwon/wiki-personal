@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Great Mental Models (Vol. 1) - Shane Parrish
-description: "--
-The Great Mental Models (Vol. 1) - Shane Parrish"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- decision-making
-- cognitive-biases
-- innovation
-sources:
-- The Great Mental Models Vol 1 - Shane Parrish.md
-related:
-- thinking-mental-model
-- mental-models
-- cognitive-biases-library
-- decision-making-frameworks
-- innovation-through-mental-models
----
+
 --
 # The Great Mental Models (Vol. 1) - Shane Parrish
 
@@ -47,3 +26,9 @@ The book is organized around key mental models:
 
 ## Connections to Existing Wiki
 This source reinforces and unifies themes across multiple existing pages: [[thinking-mental-model]], [[ideas-mental-model]], [[reality-mental-model]], [[problem-md]], [[biases]], [[decision-making-frameworks]], [[superforecasting]], and [[how-to-solve-it---george-polya]].
+
+See also: [[mental-models]]
+
+See also: [[cognitive-biases-library]]
+
+See also: [[innovation-through-mental-models]]

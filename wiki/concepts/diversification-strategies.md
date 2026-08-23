@@ -1,22 +1,4 @@
----
-date: 2026-04-22
-type: concept
-title: Diversification Strategies
-description: "--
-Diversification Strategies"
-created: 2026-04-22
-updated: 2026-04-22
-tags:
-- risk-management
-- investment-risk
-- portfolio-risk
-related:
-- portfolio-concentration-risk
-- risk-assessment-framework
-- hedging-strategies
-sources:
-- Risk Assessment Framework.md
----
+
 --
 # Diversification Strategies
 
@@ -39,3 +21,5 @@ Multiple cities, states, and international exposure reduce local economic, regul
 - **Opportunistic**: Development and ground-up construction
 
 Diversification directly addresses [[portfolio-concentration-risk]] and is the first line of defense in the [[risk-assessment-framework]].
+
+See also: [[hedging-strategies]]

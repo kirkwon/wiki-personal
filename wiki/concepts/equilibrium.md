@@ -1,16 +1,9 @@
----
+Sources: [[super-thinking]]
 
-date: 2026-05-03
-type: concept
-title: Equilibrium
-description: "A stable state in a system where all opposing forces are balanced."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- mental-models
-- systems-thinking
-sources:
-- super-thinking
-- Equilibrium
-related: [mental-models, systems-are-dynamic, emergent-properties, feedback-loops]
----
+See also: [[mental-models]]
+
+See also: [[systems-are-dynamic]]
+
+See also: [[emergent-properties]]
+
+See also: [[feedback-loops]]

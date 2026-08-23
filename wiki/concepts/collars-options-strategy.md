@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Collars (Options Strategy)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- options
-sources:
-- Options Trading Guide.md
-related:
-- protective-puts
-- covered-calls
-- options-for-retirement-planning
----
+
 -
 # Collars (Options Strategy)
 
@@ -42,3 +26,9 @@ A collar combines a protective put with a covered call to limit both downside ri
 
 Collars are a balanced risk management strategy suitable for conservative portfolios seeking both protection and income.^[raw/articles/Options Trading Guide.md]
 ---
+
+See also: [[protective-puts]]
+
+See also: [[covered-calls]]
+
+See also: [[options-for-retirement-planning]]

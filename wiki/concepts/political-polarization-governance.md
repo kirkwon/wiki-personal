@@ -1,17 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Political Polarization and Governance Challenges
-description: "--
-Political Polarization and Governance Challenges"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- geopolitics
-- governance
-- decision-making
-related:
-- principles-for-dealing-with-the-changing-world-order---ray-dalio
+ray-dalio
 - scenario-planning
 - decision-quality-vs-outcome-quality
 - group-decision-polarization
@@ -34,3 +21,5 @@ Political polarization is identified by Dalio as a key factor undermining instit
 
 This concept connects to [[group-decision-polarization]] in the decision-making literature, which examines how collective decisions become more extreme than individual preferences. It also relates to [[decision-quality-vs-outcome-quality]] by suggesting that governance quality—like decision quality—can be separated from short-term outcomes. The need to navigate polarization aligns with [[scenario-planning]] approaches that model multiple political futures.
 ^[raw/articles/principles-for-dealing-with-the-changing-world-order---ray-dalio.md]
+
+See also: [[principles-for-dealing-with-the-changing-world-order]]

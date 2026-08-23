@@ -1,30 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Planning
-description: "Planning is a universal mental model for navigating complex situations through pattern and relationship recognition."
-created: 2026-05-04
-updated: 2026-05-10
-tags:
-- mental-model
-- planning
-- decision-making
-- problem-solving
-- general
-- productivity
-- learning
-sources:
-- Planning.md
-- Minimalism.md
-related:
-- problem-solving
-- decision-making-frameworks
-- world-disclosure
-- solutions-mental-model
-- group
-- working-backwards-in-problem-solving
-- polya-four-steps
-- experiment-and-exploration-forms-of-world-disclosure ---snke-ahrens
+snke-ahrens
 - thinking-in-bets---annie-duke
 - solutions
 - stillness
@@ -106,3 +80,5 @@ Planning intersects with several existing mental models in the wiki and is one o
 - The source claims 16 cross-source references but explicitly lists only 5, with 11 unnamed. These need verification.
 - Whether Planning should remain a distinct entry or be folded into existing problem-solving and decision-making pages is an open question given its broad applicability framing.
 - Empirical support for Planning as a standalone mental model is limited; evidence is largely anecdotal and author-driven.^[raw/Planning.md]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

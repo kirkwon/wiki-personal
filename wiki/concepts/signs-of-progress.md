@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Signs of Progress
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- problem-solving
-- heuristic-proproblem-solving
-sources:
-- How to Solve It - George Polya.md
-related:
-- polya-four-steps
-- what-is-the-unknown
-- decomposing-and-recombining
----
+
 -
 # Signs of Progress
 
@@ -21,3 +6,9 @@ Signs of Progress are indicators that you are moving toward a solution while wor
 
 Related heuristics include "Did you use all the data?", "Look at the unknown", and "Here is a problem related to yours and solved before."
 ---
+
+See also: [[polya-four-steps]]
+
+See also: [[what-is-the-unknown]]
+
+See also: [[decomposing-and-recombining]]

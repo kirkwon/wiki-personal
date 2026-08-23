@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Overfitting
-description: "Creating models that are too complex for the problem, capturing noise rather than signal."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- statistics
-- prediction
-- decision-making
-sources:
-- The Signal and the Noise - Nate Silver.md
-related:
-- signal-to-noise-ratio
-- model-selection
-- calibration-training
-- monte-carlo-simulations
----
+
 --
 # Overfitting
 
@@ -33,3 +15,7 @@ Creating models that are too complex for the problem, capturing noise rather tha
 ## Connection to Silver
 
 Silver emphasizes that many prediction failures in finance and economics stem from overfitted models that captured noise during stable periods.
+
+See also: [[calibration-training]]
+
+See also: [[monte-carlo-simulations]]

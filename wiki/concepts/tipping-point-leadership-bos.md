@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Tipping Point Leadership
-description: "Tipping Point Leadership"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- strategy
-- leadership
-- organizational-change
-sources:
-- blue-ocean-strategy
-- Tipping Point Leadership
-related: [blue-ocean-strategy, fair-process-leadership, strategic-sequence, decision-making-frameworks]
----
+
 # Tipping Point Leadership
 
 **Tipping Point Leadership** is an approach for driving rapid organizational change by leveraging three key enablers:
@@ -25,3 +10,9 @@ related: [blue-ocean-strategy, fair-process-leadership, strategic-sequence, deci
 The concept is designed to help leaders break through organizational inertia and execute blue ocean strategy without requiring unlimited resources or consensus. It connects to [[fair-process-leadership]] (as the motivational enabler) and to the broader challenge of [[building-a-decision-culture]] in organizations resistant to change.
 
 Tipping point leadership creates an interesting tension with fair process — the former emphasizes rapid change through key influencers, while the latter emphasizes broad engagement. The book resolves this by positioning fair process as the trust-building mechanism within the tipping point model.
+
+Sources: [[blue-ocean-strategy]]
+
+See also: [[strategic-sequence]]
+
+See also: [[decision-making-frameworks]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Rule of 25x Expenses
-description: "--
-Rule of 25x Expenses"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- retirement
-- investing
-- personal-finance
-related:
-- retirement-planning
-- 4-percent-rule
-- asset-allocation-by-age
-sources:
-- Retirement Planning.md
----
+
 --
 # Rule of 25x Expenses
 
@@ -40,3 +22,5 @@ This rule derives directly from the [[4-percent-rule]]. A 4% withdrawal rate imp
 - [[retirement-planning]] — Overall retirement framework
 - [[4-percent-rule]] — Withdrawal rate details
 - [[healthcare-costs-in-retirement]] — Major expense to factor in
+
+See also: [[asset-allocation-by-age]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Effortlessness
-description: "-
-Effortless - Greg McKeown"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- mental-models
-- productivity
-- decision-making
-- mental-model
-- books
-sources:
-- Mckeown.md
-- Effortless.md
-- Living.md
-related:
-- effortless ---greg-mckeown
+greg-mckeown
 - effort
 - minimalism
 - essentialism
@@ -71,3 +52,5 @@ The existing [[effort]] mental model in this wiki emphasizes sustained work, per
 ## Confidence
 
 Low to medium (0.7) — single-source attribution with limited elaboration.
+
+See also: [[effortless]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: General Decision Framework
-description: "--
-General Decision Framework"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- decision-making
-- mental-models
-sources:
-- decision-making-frameworks.md
-related:
-- decision-making-frameworks
-- decision-tracking
-- decision-quality-vs-outcome-quality
-- bayesian-thinking
----
+
 --
 # General Decision Framework
 
@@ -74,3 +56,5 @@ Sijoitus Apple vs. ETF vs. joukkovelat:
 - [[decision-tracking]] – Seuranta vaihe vastaa decision journalia
 - [[decision-quality-vs-outcome-quality]] – Painotettu pisteytys erottaa prosessin laadun tuloksesta
 - [[bayesian-thinking]] – Epävarmuuden huomioiminen vastaa Bayesian-pohjaista ajattelua
+
+See also: [[decision-making-frameworks]]

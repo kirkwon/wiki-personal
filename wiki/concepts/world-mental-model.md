@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: World (mental model)
-description: "--
-World (mental model)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-related:
-- overview
-- reality-mental-model
-- thinking-mental-model
-- world-disclosure
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - principles-for-dealing-with-the-changing-world-order---ray-dalio
 - post-corona---scott-galloway
 - the-beginning-of-infinity---david-deutsch
@@ -56,3 +40,9 @@ Moderate (0.7). The model is synthesized from multiple sources rather than a sin
 
 - How does "World" as a mental model differ from existing universal models like [[overview]] or [[reality-mental-model]]?
 - What specific decision-making heuristics does this model provide beyond pattern recognition?
+
+See also: [[thinking-mental-model]]
+
+See also: [[world-disclosure]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

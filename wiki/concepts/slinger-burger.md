@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Slinger Burger
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- american-cuisine
-- burger
-- gastronomy
-- regional
-sources:
-- burgers.md
-related:
-- americana-burgers
-- jucy-lucy
-- smash-burger
----
+
 -
 # Slinger Burger
 
@@ -37,3 +20,5 @@ Slinger jest jednym z pięciu głównych regionalnych stylów burgów amerykańs
 - „Burger: A History" by Josh Ozersky
 ---
 ^raw/articles/burgers.md
+
+See also: [[americana-burgers]]

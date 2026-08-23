@@ -1,17 +1,9 @@
----
+Sources: [[thinking-fast-and-slow]]
 
-date: 2026-05-03
-type: concept
-title: Overconfidence and Certainty
-description: "The cognitive bias of believing one's own judgment is superior, leading to poor risk assessment."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- cognitive-bias
-- decision-making
-- psychology
-sources:
-- thinking-fast-and-slow
-- Overconfidence and Certainty
-related: [cognitive-biases-library, decision-quality-vs-outcome-quality, dual-process-theory, ascription-bias]
----
+See also: [[cognitive-biases-library]]
+
+See also: [[decision-quality-vs-outcome-quality]]
+
+See also: [[dual-process-theory]]
+
+See also: [[ascription-bias]]

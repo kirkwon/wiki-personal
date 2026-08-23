@@ -1,16 +1,4 @@
----
-date: 2026-06-12
-type: concept
-title: Ocena i walidacja
-description: "Ocena i walidacja
-Definicja
-Ocena i walidacja to procesy, które są wykorzystywane do oceny i potwierdzenia skuteczności systemów AI."
-created: 2026-06-12
-updated: 2026-06-12
-tags: [ocena, walidacja]
-related: [ai-assisted-decision-making, human-ai-collaboration]
-sources: ["research-add-cross-references-to-conceptsai-as-dec-2026-06-12-072520.md"]
----
+
 # Ocena i walidacja
 ## Definicja
 Ocena i walidacja to procesy, które są wykorzystywane do oceny i potwierdzenia skuteczności systemów AI.
@@ -26,3 +14,7 @@ Ocena i walidacja to procesy, które są wykorzystywane do oceny i potwierdzenia
 ## Odnośniki
 * [[concepts/ai-assisted-decision-making]]
 * [[concepts/human-ai-collaboration]]
+
+See also: [[ai-assisted-decision-making]]
+
+See also: [[human-ai-collaboration]]

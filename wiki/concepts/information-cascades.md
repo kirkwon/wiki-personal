@@ -1,17 +1,7 @@
----
+Sources: [[the-wisdom-of-crowds]]
 
-date: 2026-05-03
-type: concept
-title: Information Cascades
-description: "When individuals abandon their own data and follow the observed actions of a group."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- cognitive-bias
-- mental-models
-sources:
-- the-wisdom-of-crowds
-- Information Cascades
-related: [wisdom-of-crowds, group-decision-polarization, herd-behavior, decision-making-under-uncertainty]
----
+See also: [[wisdom-of-crowds]]
+
+See also: [[group-decision-polarization]]
+
+See also: [[decision-making-under-uncertainty]]

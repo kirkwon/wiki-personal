@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Obstacle Is the Way
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- philosophy
-- mental-models
-- productivity
-sources:
-- The Obstacle Is the Way - Ryan Holiday.md
-related:
-- ryan-holiday
-- stoicism
-- ethos-pathos-logos
-- temperance
-- growth-mindset
-- embracing-failure-for-personal-growth
-- hyperfocus
-- attention-budget
----
+
 -
 # The Obstacle Is the Way
 
@@ -66,3 +44,5 @@ The book importantly warns against over-optimization:
 - [[attention-budget]] — Knowing limits of optimization
 
 ---
+
+See also: [[ryan-holiday]]

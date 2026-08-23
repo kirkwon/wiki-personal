@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Thinking in Systems - Donella H. Meadows
-description: "-
-Thinking in Systems - Donella H Meadows"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- books
-- mental-model
-- systems-thinking
-- leverage-points
-- sustainability
-sources:
-- Change.md
-- Systems.md
-related:
-- donella-meadows
-- change
-- limits-to-growth
-- leverage-points
-- systems
-- the-systems-bible ---john-gall
+john-gall
 - the-fifth-discipline---peter-m-senge
 ---
 -
@@ -44,3 +21,11 @@ Meadows' work is one of the seven source perspectives informing the [[systems]] 
 ## Connection to Change
 
 Meadows' framework represents systems-based change — the understanding that in complex systems, the most effective change comes from identifying and intervening at high-leverage points rather than applying surface-level fixes.
+
+See also: [[donella-meadows]]
+
+See also: [[change]]
+
+See also: [[leverage-points]]
+
+See also: [[the-systems-bible]]

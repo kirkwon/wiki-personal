@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Deep Work
-description: "Deep work refers to sustained, focused effort on cognitively demanding tasks without distraction."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- focus
-sources:
-- The PARA Method_ Simplify, Organize, and Master Your Digital Life - Tiago Forte.md
-related:
-- flow-states
-- systematic-decision-making
-- quadrat-2-focus
----
+
 --
 # Deep Work
 
@@ -27,3 +11,7 @@ Deep work sessions are protected blocks of time where you eliminate distractions
 ## Measurement
 
 Effectiveness can be tracked through distraction-free focus sessions completed per day, output per hour, and task completion rates against goals.
+
+See also: [[flow-states]]
+
+See also: [[systematic-decision-making]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Charitable Remainder Trust
-description: "--
-Charitable Remainder Trust (CRT)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- tax-planning
-sources:
-- Trusts Guide.md
-related:
-- charitable-lead-trust
-- irrevocable-trusts
-- tax-torpedoes-in-retirement
-- trusts-guide
----
+
 --
 # Charitable Remainder Trust (CRT)
 
@@ -54,3 +34,9 @@ An irrevocable trust that pays income to non-charitable beneficiaries for a peri
 - Requires charitable commitment
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[charitable-lead-trust]]
+
+See also: [[irrevocable-trusts]]
+
+See also: [[tax-torpedoes-in-retirement]]

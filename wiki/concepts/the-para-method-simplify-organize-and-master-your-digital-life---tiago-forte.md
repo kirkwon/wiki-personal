@@ -1,18 +1,4 @@
----
-
-date: 2026-04-29
-type: concept
-title: 'The PARA Method: Simplify Organize and Master Your Digital Life - Tiago Forte'
-description: "-"
-The PARA Method: Simplify Organize and Master Your Digital Life""
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- knowledge-management
-- mental-model
-related:
-- building-a-second-brain ---tiago-forte
+tiago-forte
 - forte-mental-model
 - personal-knowledge-vault
 sources:
@@ -32,3 +18,5 @@ Tiago Forte's PARA method is an organizational framework for digital information
 - **Archives** — Inactive items no longer needing action
 
 This method serves as the organizational backbone of Forte's broader "Building a Second Brain" system, providing a mental model for navigating digital complexity through pattern recognition and structured categorization.
+
+See also: [[building-a-second-brain]]

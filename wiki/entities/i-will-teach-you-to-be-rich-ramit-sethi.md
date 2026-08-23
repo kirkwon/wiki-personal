@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: I Will Teach You to Be Rich
-description: "--
-I Will Teach You to Be Rich"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- book
-- automation
-- investing
-sources:
-- I Will Teach You to Be Rich.md
-related:
-- ramit-sethi
-- conscious-spending-plan
-- freedom-number
-- debt-avalanche-vs-snowball
----
+
 --
 # I Will Teach You to Be Rich
 
@@ -40,3 +20,11 @@ A six-week personal finance action program by Ramit Sethi that focuses on automa
 ## See Also
 [[the-psychology-of-money]] | [[the-algebra-of-wealth]] | [[risk-management]]
 ^[raw/articles/I Will Teach You to Be Rich.md]
+
+See also: [[ramit-sethi]]
+
+See also: [[conscious-spending-plan]]
+
+See also: [[freedom-number]]
+
+See also: [[debt-avalanche-vs-snowball]]

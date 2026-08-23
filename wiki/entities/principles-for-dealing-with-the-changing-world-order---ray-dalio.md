@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Principles for Dealing with the Changing World Order - Ray Dalio
-description: "--
-Principles for Dealing with the Changing World Order - Ray Dalio"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- business
-- economics
-sources:
-- Industries.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - principles---ray-dalio
 - industries
 - markets
@@ -32,3 +17,5 @@ Ray Dalio's *Principles for Dealing with the Changing World Order* analyzes long
 ## Connection to Industries Mental Model
 
 Dalio's perspective contributes to [[industries]] by providing the macro-cyclical dimension—showing that industry structures follow long-term patterns tied to broader economic and geopolitical forces.^[raw/articles/Industries.md]
+
+See also: [[how-the-economic-machine-works]]

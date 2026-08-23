@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Cilantro/Coriander (Coriandrum sativum)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- herbs
-- spices
-- ingredient
-- mexican-cuisine
-- indian-cuisine
-- thai-cuisine
-- vietnamese-cuisine
-- middle-eastern-cuisine
-sources:
-- Cilantro-Coriander.md
-related:
-- herbs-spices
-- herbs-spices-dried-herbs
-- aromatic-the-holy-trinity
-- mexican-cuisine
-- indian-cuisine
-- thai-cuisine
-- cantonese-cuisine
-- wok-hei
-- aromatic
----
+
 -
 # Cilantro/Coriander (Coriandrum sativum)
 
@@ -212,3 +185,7 @@ Tostar semillas de coriandro hasta que sean aromáticas, mezclar con cáscara y 
 - [[cantonese-cuisine]]
 - [[aromatics-the-holy-trinity]]
 ---
+
+See also: [[herbs-spices-dried-herbs]]
+
+See also: [[wok-hei]]

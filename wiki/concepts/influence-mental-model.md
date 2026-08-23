@@ -1,29 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Influence as a Mental Model
-description: "-
-Influence as a Mental Model"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- mental-model
-- psychology
-- decision-making
-- cognitive-bias
-- cognitive-science
-sources:
-- Cialdini.md
-- Influence.md
-related:
-- biases
-- framing-effects
-- decision-making-frameworks
-- cialdinis-six-principles-of-influence
-- pre-suasion
-- cognitive-biases-library
-- dual-process-theory
-- thinking-fast-and-slow ---daniel-kahneman
+daniel-kahneman
 - perspective
 ---
 -
@@ -67,3 +42,9 @@ This model complements existing frameworks in the wiki such as [[biases]], [[fra
 - Where does pre-suasion fit within the existing mental model taxonomy?
 - Cialdini's six specific principles are not yet fully documented in the wiki—consider adding them as a subtopic.
 - The tension between external persuasion tactics and internal cognitive biases remains an area for exploration.
+
+See also: [[cialdinis-six-principles-of-influence]]
+
+See also: [[pre-suasion]]
+
+See also: [[thinking-fast-and-slow]]

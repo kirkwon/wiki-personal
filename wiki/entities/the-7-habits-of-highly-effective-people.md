@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The 7 Habits of Highly Effective People
-description: "--
-The 7 Habits of Highly Effective People"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- productivity
-- effectiveness
-- habits
-sources:
-- Habits.md
-related:
-- habits
-- stephen-r-covey
-- first-things-first---stephen-r-covey
+stephen-r-covey
 - the-8th-habit
 ---
 --
@@ -35,3 +17,7 @@ related:
 
 ## Relevance
 One of the earliest systematic frameworks for effectiveness habits, providing historical foundation for the Habits mental model.
+
+See also: [[habits]]
+
+See also: [[stephen-r-covey]]

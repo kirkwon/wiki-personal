@@ -1,13 +1,4 @@
----
-date: 2026-06-13
-type: concept
-title: Design Experiments
-created: 2026-06-13
-updated: 2026-06-13
-tags: [design-experiments, critical-thinking]
-related: [validation-of-mental-models, mental-models, peer-review, incremental-validation, social-validation]
-sources: ["research-validation-of-mental-models-2026-06-13-065345.md"]
----
+
 # Design Experiments
 Design experiments are the process of designing tests to validate a mental model, conducting the tests, and refining the mental model based on the results.
 
@@ -26,3 +17,13 @@ Design experiments have a wide range of applications, including business, econom
 ## References
 [[research-validation-of-mental-models-2026-06-13-065345.md]]
 ---
+
+See also: [[validation-of-mental-models]]
+
+See also: [[mental-models]]
+
+See also: [[peer-review]]
+
+See also: [[incremental-validation]]
+
+See also: [[social-validation]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Consistency in AI Decision-Making
-description: "--
-Consistency in AI Decision-Making"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- ai-safety
-- technology
-- decision-making
-sources:
-- The Alignment Problem - Brian Christian  Tom Griffiths.md
-related:
-- alignment
-- anomalies-in-ml
-- ai-safety-methods
-- decision-making-frameworks
----
+
 --
 # Consistency in AI Decision-Making
 
@@ -29,3 +10,11 @@ Key tensions:
 - **Alignment tradeoff**: Stricter consistency can improve reliability but may also constrain the system's ability to reflect nuanced human values in complex situations.
 
 This concept parallels [[decision-quality-vs-outcome-quality]]—a system can make high-quality decisions in most cases while still failing on rare but important exceptions.
+
+See also: [[alignment]]
+
+See also: [[anomalies-in-ml]]
+
+See also: [[ai-safety-methods]]
+
+See also: [[decision-making-frameworks]]

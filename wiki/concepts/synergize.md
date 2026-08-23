@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Synergize
-description: "Synergy is the principle that collective effort produces results greater than the sum of individual contributions."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- mental-models
-- decision-making
-- communication-skills
-sources:
-- the-7-habits-of-highly-effective-people
-- Synergize
-related: [think-win-win, seek-first-to-understand, building-a-cohesive-team]
----
+
 # Synergize
 
 Synergy is the principle that collective effort produces results greater than the sum of individual contributions. Covey describes it as the culmination of the interdependent habits—win-win thinking and empathetic listening create the conditions for creative collaboration.
@@ -32,3 +16,7 @@ Synergy connects to [[building-a-cohesive-team]] through its emphasis on collect
 ## Source
 
 [[the-7-habits-of-highly-effective-people---stephen-r-covey]] - Stephen R. Covey
+
+Sources: [[the-7-habits-of-highly-effective-people]]
+
+See also: [[seek-first-to-understand]]

@@ -1,33 +1,4 @@
----
 
-date: 2026-04-29
-type: concept
-title: 'Influence: The Psychology of Persuasion - Robert B. Cialdini'
-description: "--"
-Influence: The Psychology of Persuasion""
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- psychology
-- decision-making
-- persuasion
-- cognitive-bias
-- books
-related:
-- reciprocity-principle
-- commitment-and-consistency
-- social-proof-principle
-- authority-principle
-- liking-principle
-- scarcity-principle
-- the-wisdom-of-crowds
-- superforecasting
-- ethical-design-manipulation-question
-- decision-culture
-sources:
-- Influence_ The Psychology of Persuasion - Robert B. Cialdini.md
-
----
 --
 # Influence: The Psychology of Persuasion
 
@@ -46,3 +17,17 @@ A core tension in the book is the line between ethical persuasion and manipulati
 
 ## Relationship to Other Frameworks
 Cialdini's framework complements Kahneman's dual-process theory and Dobelli's cognitive bias compendium with a structured, actionable framework rather than a bias catalog. Social Proof overlaps with [[the-wisdom-of-crowds]] and [[group-decision-polarization]]. Scarcity connects to [[fear-of-missing-out-fomo]] and [[dread-aversion]].
+
+See also: [[reciprocity-principle]]
+
+See also: [[social-proof-principle]]
+
+See also: [[authority-principle]]
+
+See also: [[liking-principle]]
+
+See also: [[scarcity-principle]]
+
+See also: [[superforecasting]]
+
+See also: [[decision-culture]]

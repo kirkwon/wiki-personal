@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: 'Essentialism: The Disciplined Pursuit of Less'
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- productivity
-- mental-models
-sources:
-- Mckeown.md
-related:
-- greg-mckeown
-- essentialism
-- minimalism
-- effort
-- decision-making-frameworks
----
+
 -
 # Essentialism: The Disciplined Pursuit of Less
 
@@ -39,3 +21,7 @@ Greg McKeown's *Essentialism* presents a framework for identifying what is truly
 
 This framework connects to [[minimalism]] as a mental model, [[effort]] in how it redirects energy, and [[decision-making-frameworks]] more broadly. It also complements [[quadrant-2-focus]] by providing a philosophical basis for prioritizing high-value activities.
 ---
+
+See also: [[greg-mckeown]]
+
+See also: [[essentialism]]

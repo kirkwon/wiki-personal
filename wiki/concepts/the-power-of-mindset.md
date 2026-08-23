@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: The Power of Mindset
-description: "The Power of Mindset is the final chapter of The Obstacle Is the Way, synthesizing all previous insights into a comprehensive understanding of how mindset determines one's ability to overcome obstacle."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- resilience
-- mental-models
-sources:
-- the-obstacle-is-the-way
-- The Power of Mindset
-related: [the-obstacle-is-the-way-ryan-holiday, growth-mindset, reframing-adversity, embracing-failure-for-personal-growth]
----
+
 # The Power of Mindset
 
 The Power of Mindset is the final chapter of *The Obstacle Is the Way*, synthesizing all previous insights into a comprehensive understanding of how mindset determines one's ability to overcome obstacles.
@@ -26,3 +11,7 @@ This chapter brings together focus, emotion mastery, temperance, time perception
 
 ## Key Takeaway
 Mindset is not passive optimism but an active practice of choosing how to perceive and respond to every obstacle encountered.
+
+Sources: [[the-obstacle-is-the-way]]
+
+See also: [[the-obstacle-is-the-way-ryan-holiday]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Experiences
-description: "Experiences is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- learning
-sources:
-- Experiences.md
-related:
-- range-david-epstein
-- quit-the-power-of-knowing-when-to-walk-away
-- decision-making-frameworks
-- intuition
-- recognition-primed-decision-model
-confidence: medium
----
+
 --
 # Experiences
 
@@ -45,3 +25,5 @@ This model is referenced in [[range-david-epstein]] and [[quit-the-power-of-know
 - [[superforecasting]]
 - [[naturalistic-decision-making]]
 - [[mental-models]]
+
+See also: [[quit-the-power-of-knowing-when-to-walk-away]]

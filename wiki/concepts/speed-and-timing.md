@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Speed and Timing
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - energy-and-momentum
 - battle
 - terrain-analysis
@@ -29,3 +17,5 @@ The principle that strategic success depends on acting at the right moment with 
 ## Connections
 Connects to [[timing]] concepts, [[energy-and-momentum]] (momentum requires timing), [[battle]] (timed engagement), and [[decision-making-under-uncertainty]] (knowing when to act vs. wait).
 ---
+
+See also: [[the-art-of-war]]

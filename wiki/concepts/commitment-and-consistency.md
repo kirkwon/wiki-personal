@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Commitment and Consistency
-description: "--
-Commitment and Consistency"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- psychology
-- persuasion
-- cognitive-bias
-- decision-making
-related:
-- influence-the-psychology-of-persuasion---robert-b-cialdini
+robert-b-cialdini
 - reciprocity-principle
 - social-proof-principle
 - liking-principle
@@ -35,3 +21,5 @@ Commitments — whether public or private, small or large — create psychologic
 
 ## Connection to Decision Quality
 This principle connects to the distinction between decision quality and outcome quality — people may commit to a poor decision and stick with it to maintain consistency, regardless of outcomes.
+
+See also: [[influence-the-psychology-of-persuasion]]

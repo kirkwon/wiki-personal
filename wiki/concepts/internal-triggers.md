@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Internal Triggers
-description: "Internal triggers are emotional states, thoughts, or sensations that cue a behavior or action."
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- behavioral-psychology
-- habit-formation
-- product-design
-- productivity
-- behavioral-economics
-- mental-models
-sources:
-- hooked
-- Internal Triggers
-related: [hook-model, external-triggers, variable-reward-design, cognitive-biases-library, fizzgogg-behavior-model, internal-trigger-mapping, decision-quality-vs-outcome-quality, dread-aversion]
----
+
 # Internal Triggers
 
 Internal triggers are emotional states, thoughts, or sensations that cue a behavior or action. In Nir Eyal's Hooked model, internal triggers are the first step in the engagement loop—they are the reasons a user thinks about taking action. Unlike external triggers (notifications, ads, cues in the environment), internal triggers originate from within the user — they feel like their own idea rather than a response to an external cue.
@@ -50,3 +32,5 @@ Internal trigger mapping extends this concept into a systematic productivity pra
 - [[internal-trigger-mapping]] — The productivity skill built on top of this concept
 
 ^[raw/articles/hooked---nir-eyal.md]
+
+See also: [[external-triggers]]

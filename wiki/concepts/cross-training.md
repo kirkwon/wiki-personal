@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Cross-training in different skills or disciplines
-description: "--
-Cross-training in different skills or disciplines"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- skill
-related:
-- range-david-epstein
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - scatterfocus
 - active-revision-techniques
 - personal-knowledge-vault
@@ -65,3 +51,5 @@ Cross-training in different skills or disciplines is the practice of systematica
 ## Tensions
 
 There is a tension with deep work and focus-oriented approaches (e.g., Cal Newport's [[deep-work---cal-newport]]). Cross-training implies breadth, which can conflict with the depth required for sustained focused work. The key question is when breadth helps versus when depth is more valuable.
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

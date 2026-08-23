@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Digital Minimalism - Cal Newport
-description: "Digital Minimalism - Cal Newport"
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- books
-- productivity
-- technology
-- philosophy
-sources:
-- digital-minimalism
-- Digital Minimalism - Cal Newport
----
+
 # Digital Minimalism - Cal Newport
 
 Cal Newport's 2024 book argues that default digital habits are distraction-filled and undermine deep thinking, wellbeing, and fulfillment. A minimalist, purpose-driven approach to technology use restores cognitive capacity and life satisfaction. It extends the ideas in [[deep-work---cal-newport]] by emphasizing the value of solitude, leisure, and focused attention in an age of constant connectivity.
@@ -58,3 +43,5 @@ This framework directly contrasts with [[hooked---nir-eyal]]'s Hook Model, which
 
 ## Notes
 The argument is largely philosophical and prescriptive rather than empirically rigorous—strong on reasoning, weaker on controlled evidence. Chapter 3 cites research on technology's negative cognitive impacts.
+
+Sources: [[digital-minimalism]]

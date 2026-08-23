@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-title: Skin in the Game
-description: "The principle that decision-makers must bear the consequences of their decisions."
-type: concept
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- decision-making
-- ethics
-- risk
-- philosophy
-- mental-model
-sources:
-- skin-in-the-game
-- Skin in the Game
-related: [antifragility, black-swan-events, decision-quality-vs-outcome-quality, radical-transparency, decision-making-under-uncertainty, accountability, decision-making-frameworks]
----
+
 # Skin in the Game
 
 The principle that decision-makers must bear the consequences of their decisions. Taleb argues this is fundamental to fairness, moral integrity, and system resilience. Without skin in the game, agents can externalize risk onto others while capturing upside gains, creating moral hazard and systemic fragility.
@@ -46,3 +29,11 @@ Systems with skin in the game are antifragile—they adapt and strengthen under 
 - [[decision-tracking]] - Recording decisions to calibrate judgment
 - [[antifragility]] - See also antifragility
 - [[decision-making-frameworks]] - See also decision-making-frameworks
+
+Sources: [[skin-in-the-game]]
+
+See also: [[black-swan-events]]
+
+See also: [[decision-making-under-uncertainty]]
+
+See also: [[accountability]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Stoic Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- philosophy
-- resilience
-sources:
-- Stoic.md
-related:
-- ryan-holiday
-- the-obstacle-is-the-way
-- stillness
-- obstacles
-- effort
-- thinking-mental-model
-- reality-mental-model
----
+
 -
 # Stoic Mental Model
 
@@ -52,3 +32,5 @@ The Stoic model connects to several existing wiki concepts:
 
 Stoicism, as a mental model in this wiki, extends the resilience and decision-making frameworks already present. It provides a structured way to make sense of complexity through pattern recognition, linking to Ryan Holiday's broader body of work on obstacles, stillness, and systematic navigation of difficulty.
 ---
+
+See also: [[ryan-holiday]]

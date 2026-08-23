@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Emotional Intelligence in Communication
-description: "Emotional Intelligence in Communication"
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- psychology
-- communication
-- emotional-intelligence
-- soft-skills
-- self-awareness
-- empathy
-- emotions
-sources:
-- supercommunicators
-- Emotional Intelligence in Communication
-related: [supercommunicators-charles-duhigg-book-summary, social-motivation-system, effective-communication, communication-skills, effective-listening, mirroring-neurons, science-of-persuasion]
----
+
 
 # Emotional Intelligence in Communication
 
@@ -53,3 +34,7 @@ These outcomes are central to the concept of a “supercommunicator” as descri
 ## Development Practices
 
 Developing emotional intelligence in communication involves conscious practice of active listening, perspective‑taking, and mindful responses.
+
+Sources: [[supercommunicators]]
+
+See also: [[supercommunicators-charles-duhigg-book-summary]]

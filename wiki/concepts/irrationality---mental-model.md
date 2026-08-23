@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Irrationality as a Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-science
-- decision-making
-- behavioral-economics
-related:
-- cognitive-biases-library
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - dual-process-theory
 - prospect-theory
 - the-art-of-thinking-clearly---rolf-dobelli
@@ -52,3 +39,5 @@ Irrationality provides a mental shortcut for making sense of the world. When und
 - [[decision-making-frameworks]]
 - [[biases]]
 ---
+
+See also: [[thinking-fast-and-slow]]

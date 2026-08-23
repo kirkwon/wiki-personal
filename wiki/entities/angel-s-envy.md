@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Angel's Envy
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- spirits
-- bourbon
-- whisky
-- tasting
-sources:
-- Whisky Tasting Notes.md
-related:
-- spirits-index
-- bourbon
-- whisky-tasting-notes
----
+
 -
 # Angel's Envy
 
@@ -39,3 +22,5 @@ Kentucky Straight Bourbon finished in port wine barrels. Part of a personal whis
 
 See [[bourbon]] for broader context and [[spirits-index]] for spirits overview.
 ---
+
+See also: [[whisky-tasting-notes]]

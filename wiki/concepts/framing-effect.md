@@ -1,22 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Framing Effect
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- cognitive-bias
-- behavioral-economics
-- decision-making
-sources:
-- Misbehaving - Richard H Thaler.md
-related:
-- cognitive-biases-library
-- decision-making-frameworks
-- choice-architecture
-- prospect-theory
-- mental-accounting
----
+
 -
 # Framing Effect
 
@@ -43,3 +25,7 @@ Understanding framing effects is essential to [[choice-architecture]] and [[nudg
 - [[cognitive-biases-library]] — framing is a core bias
 - [[decision-making-under-uncertainty]] — framing alters perceived risk
 ---
+
+See also: [[decision-making-frameworks]]
+
+See also: [[mental-accounting]]

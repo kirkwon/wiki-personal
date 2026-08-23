@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Events
-description: "Events as a mental model refers to the recognition that unexpected occurrences—particularly extreme ones—play a dominant role in shaping outcomes across history, finance, and personal life."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- decision-making
-- taleb
-sources:
-- The Black Swan - Nassim Nicholas Taleb.md
-related:
-- black-swan-events
-- swans
-- understanding
-- history
-- finance
-- life
-- world
----
+
 --
 # Events
 
@@ -35,3 +14,7 @@ Most people and models focus on the typical and the average, but the most conseq
 
 ## Connection to Other Models
 This mental model underpins [[swans]], [[understanding]], and relates to [[lindy-ness]] as a measure of how long something has persisted as a predictor of future longevity.
+
+See also: [[black-swan-events]]
+
+See also: [[world]]

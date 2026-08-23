@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Craving Brain
-description: "The craving brain refers to the neuroscience behind how habits become encoded and reinforced in the brain."
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- psychology
-- neuroscience
-- behavioral-science
-- habits
-- habit
-- cognitive-science
-sources:
-- the-power-of-habit
-- Craving Brain
-related: ["habit-loop", "golden-rule-of-habit-change", "hook-model", "variable-reward-design", "habit-change-golden-rule", "dual-process-theory"]
----
+
 # Craving Brain
 
 The craving brain refers to the neuroscience behind how habits become encoded and reinforced in the brain. Cravings are the mechanism that links the cue to the reward, creating the neurological basis for automatic behavior. Charles Duhigg explains that when a habit loop is repeated, the brain begins to anticipate the reward before the routine is completed — this anticipation is the craving. Craving is the engine that drives the habit loop, making behaviors automatic and resistant to change.
@@ -39,3 +21,5 @@ This connects to the [[habit-change-golden-rule]]: keeping the cue and reward wh
 - [[hook-model]] — applies similar dopaminergic reward mechanisms to product design
 
 Duhigg frames the craving brain from a neurological perspective, emphasizing the biological basis of automaticity rather than the design implications.
+
+See also: [[golden-rule-of-habit-change]]

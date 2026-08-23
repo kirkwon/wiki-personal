@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Water as Strategy
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-- adaptability
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - energy-and-momentum
 - adaptability
 - terrain-analysis
@@ -34,3 +21,5 @@ Connects to [[energy-and-momentum]] as a mental model, [[adaptability]] concepts
 ## Application
 In any domain—business, personal projects, negotiation—thinking like water means staying flexible, reading the landscape, flowing toward opportunity, and avoiding rigidity.
 ---
+
+See also: [[the-art-of-war]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Find Your Why
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- leadership
-- purpose
-sources:
-- Sinek.md
-related:
-- simon-sinek
-- sinek-mental-model
-- infinite-game-mindset
----
+
 -
 # Find Your Why
 
@@ -29,3 +13,7 @@ related:
 
 This book is a primary source for the [[sinek-mental-model]], which treats Sinek's framework as a universal conceptual tool for pattern recognition and decision-making.
 ---
+
+See also: [[simon-sinek]]
+
+See also: [[infinite-game-mindset]]

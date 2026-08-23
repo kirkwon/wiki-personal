@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Health (mental model)
-description: "--
-Health as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- health
-- pattern-recognition
-sources:
-- Health.md
-related:
-- healthcare
-- timothy-ferriss
-- the-4-hour-body
-- decision-making-frameworks
-confidence: medium
----
+
 --
 # Health as a Mental Model
 
@@ -37,3 +17,11 @@ This concept is distinct from the existing [[Healthcare]] mental model, which fr
 ## Open Questions
 - How does this differ substantively from the existing [[Healthcare]] mental model?
 - What additional cross-source perspectives would strengthen the model?
+
+See also: [[healthcare]]
+
+See also: [[timothy-ferriss]]
+
+See also: [[the-4-hour-body]]
+
+See also: [[decision-making-frameworks]]

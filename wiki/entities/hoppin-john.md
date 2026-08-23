@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Hoppin' John
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- comfort-food
-- southern-soul-food
-- new-years
-sources:
-- southern-soul-food.md
-related:
-- southern-soul-food
-- comfort-food
----
+
 -
 # Hoppin' John
 
@@ -41,3 +25,5 @@ The New Year's tradition connects to superstitions about luck and prosperity. [[
 - [[collard-greens]]
 - [[mac-and-cheese]]
 ---
+
+See also: [[southern-soul-food]]

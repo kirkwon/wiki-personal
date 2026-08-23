@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Technology and the Economy
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- economics
-- technology
-- productivity
-sources:
-- How the Economic Machine Works - Ray Dalio.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - growth
 - markets
 ---
@@ -28,3 +15,5 @@ Key impacts include:
 
 Understanding technology's role helps anticipate shifts in economic structure and investment opportunities.
 ---
+
+See also: [[how-the-economic-machine-works]]

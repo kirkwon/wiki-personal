@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Signal and the Noise - Nate Silver
-description: "--
-The Signal and the Noise - Nate Silver"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- decision-making
-- prediction
-- epistemology
-sources:
-- Model selection and validation frameworks.md
-related:
-- noise
-- prediction
-- uncertainty
-- superforecasting
-- scatterfocus
----
+
 --
 # The Signal and the Noise - Nate Silver
 
@@ -35,3 +14,5 @@ Nate Silver's *The Signal and the Noise* is a book exploring how to distinguish 
 ## Connections to Wiki
 
 Silver's work connects to [[noise]], [[prediction]], and [[uncertainty]] as core epistemic concepts. It also relates to [[superforecasting]] and the practice of distinguishing signal from noise in personal productivity contexts through [[model-selection-and-validation-frameworks]].
+
+See also: [[scatterfocus]]

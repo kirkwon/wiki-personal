@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Ben Felix
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- person
-- investing
-sources:
-- YouTube-Watch-Later.md
-related:
-- personal-finance
-- retirement-planning
-- investment-strategies-for-life-satisfaction
----
+
 -
 # Ben Felix
 
@@ -29,3 +14,5 @@ related:
 [[personal-finance]] | [[retirement-planning]]
 
 ---
+
+See also: [[investment-strategies-for-life-satisfaction]]

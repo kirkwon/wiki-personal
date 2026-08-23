@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Embracing Contradiction
-description: "--
-Embracing Contradiction"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- philosophy
-- leadership
-related:
-- the-8th-habit---stephen-r-covey
+stephen-r-covey
 - paradox-of-power
 - world-disclosure
 sources:
@@ -37,3 +24,5 @@ Rather than seeking to eliminate contradictions or choose one side, embracing co
 
 ## Role in the 8th Habit
 Embracing contradiction is positioned as essential for achieving true effectiveness and ultimately attaining greatness, serving as a catalyst for transformative change.
+
+See also: [[the-8th-habit]]

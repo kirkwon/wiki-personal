@@ -1,31 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Genealogical Analysis of Moral Concepts
-description: "--
-Genealogical Analysis of Moral Concepts"
-created: 2026-05-04
-updated: 2026-05-10
-tags:
-- philosophy
-- methodology
-- moral-philosophy
-- productivity
-- learning
-sources:
-- Beyond Good and Evil - Friedrich Nietzsche.md
-- Genealogical analysis of moral concepts.md
-related:
-- beyond-good-and-evil-nietzsche
-- master-vs-slave-morality
-- friedrich-nietzsche
-- will-to-power
-- scattered-focus
-- attention-budget
-- personal-knowledge-vault
-- beyond-good-and-evil-friedrich-nietzsche
-- framework-template
----
+
 --
 # Genealogical Analysis of Moral Concepts
 
@@ -59,3 +32,7 @@ The productivity interpretation references Friedrich Nietzsche's *Beyond Good an
 ## Related
 
 See [[beyond-good-and-evil-nietzsche]], [[master-vs-slave-morality]], [[will-to-power]], [[scattered-focus]], [[attention-budget]], [[personal-knowledge-vault]], [[Beyond Good and Evil - Friedrich Nietzsche]], and [[framework-template]].
+
+See also: [[friedrich-nietzsche]]
+
+See also: [[beyond-good-and-evil-friedrich-nietzsche]]

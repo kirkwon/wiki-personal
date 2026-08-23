@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Incremental Dishonesty (Fudge Factor)
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- behavioral-economics
-- psychology
-- ethics
-- cognitive-science
-sources:
-- The (Honest) Truth About Dishonesty - Dan Ariely.md
-related:
-- the-honest-truth-about-dishonesty---dan-ariely
+dan-ariely
 - self-image-and-moral-identity
 - cognitive-biases-library
 - ethical-design-manipulation-question
@@ -37,3 +23,5 @@ Dan Ariely's matrix task experiments and other carefully designed studies demons
 - Complements [[decision-tracking]] — tracking decisions reveals patterns of incremental dishonesty
 - Intersects with [[building-a-decision-culture]] — organizational cultures can either enable or constrain the fudge factor
 ---
+
+See also: [[the-honest-truth-about-dishonesty]]

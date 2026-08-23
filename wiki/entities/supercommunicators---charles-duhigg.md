@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Supercommunicators - Charles Duhigg
-description: "--
-Supercommunicators - Charles Duhigg"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- communication
-- psychology
-sources:
-- Factors.md
-related:
-- factors
-- pre-suasion---robert-b-cialdini
+robert-b-cialdini
 - communication-skills
 - supercommunicators-charles-duhigg
 ---
@@ -32,3 +16,5 @@ related:
 ## Connection to Factors
 
 Duhigg's work is one of the two source inspirations for the [[factors]] mental model. The Factors model extends Duhigg's communication-specific insights into a universal framework for identifying relevant variables in any complex situation.
+
+See also: [[pre-suasion]]

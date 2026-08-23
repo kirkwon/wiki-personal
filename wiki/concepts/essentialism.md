@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Essentialism
-description: "Essentialism is the disciplined pursuit of less—identifying what is truly essential and eliminating everything else."
-created: 2026-04-29
-updated: 2026-05-11
-tags:
-- mental-models
-- productivity
-- decision-making
-- mental-model
-- philosophy
-sources:
-- Mckeown.md
-- Essentialism.md
-- Essentialism_ The Disciplined Pursuit of Less - Greg McKeown.md
-related:
-- essentialism ---greg-mckeown
+greg-mckeown
 - minimalism
 - effort
 - decision-making-frameworks
@@ -88,3 +70,5 @@ The model's applicability is labeled universal but confidence is moderate (0.7),
 - [[the-index-card-rules]]
 - [[The Paradox of Choice - Barry Schwartz]]
 - [[Hyperfocus - Chris Bailey]]
+
+See also: [[essentialism]]

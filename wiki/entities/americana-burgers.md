@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Americana Burgers
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- american-cuisine
-- burger
-- gastronomy
-sources:
-- burgers.md
-related:
-- maillard-reaction
-- cast-iron-skillet
-- americana-burgers
----
+
 -
 # Americana Burgers
 
@@ -52,3 +36,5 @@ Kolejność warstw: dolna bułka → sos → sałata → pomidor → patty → s
 - „The Burger Lab" by J. Kenji López-Alt
 ---
 ^raw/articles/burgers.md
+
+See also: [[americana-burgers]]

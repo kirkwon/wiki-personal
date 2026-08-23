@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Empathy
-description: "Empathy is the ability to understand and share the feelings of others."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- mental-models
-- social-intelligence
-- psychology
-- decision-making
-sources:
-- super-thinking
-- Empathy
-related: ["mental-models", "reciprocity", "social-proof", "authority-bias", "super-thinking-gabriel-weinberg", "in-group-out-group-bias"]
----
+
 # Empathy
 
 Empathy is the ability to understand and share the feelings of others. Weinberg includes it in the social and emotional intelligence section of *Super Thinking* as a foundational skill for better decisions and relationships. Covered in Part VI of *Super Thinking* on social and emotional intelligence.
@@ -36,3 +20,7 @@ Empathy connects to [[reciprocity]], [[social-proof]], [[authority-bias]], and [
 ## Related Pages
 
 Related to [[super-thinking-gabriel-weinberg]], [[in-group-out-group-bias]], and [[social-proof]].
+
+Sources: [[super-thinking]]
+
+See also: [[mental-models]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Companies as a Mental Model
-description: "--
-Companies as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- business
-- technology
-sources:
-- Companies.md
-related:
-- the-four-scott-galloway
-- post-corona-from-crisis-to-opportunity
-- platform-dominance
-- markets
-- business
----
+
 --
 # Companies as a Mental Model
 
@@ -45,3 +25,5 @@ This model overlaps with and connects to [[platform-dominance]], [[markets]], an
 
 - [[Post Corona_ From Crisis to Opportunity - Scott Galloway]]
 - [[the-four---scott-galloway]]
+
+See also: [[the-four-scott-galloway]]

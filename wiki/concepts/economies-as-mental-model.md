@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Economies as Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- economics
-sources:
-- Economies.md
-confidence: medium
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - principles---ray-dalio
 - markets
 - opportunities
@@ -52,3 +39,5 @@ This mental model is directly tied to Ray Dalio's frameworks:
 - [[principles-ray-dalio]]
 - [[a-template-for-understanding-big-debt-crises---ray-dalio]]
 ---
+
+See also: [[how-the-economic-machine-works]]

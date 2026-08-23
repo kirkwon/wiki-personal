@@ -1,23 +1,4 @@
----
-created: 2026-04-24
-sources:
-- factor-investing.md
-tags:
-- quant
-- factor
-- investing
-date: 2026-04-24
-title: Factor Investing
-description: "Factor investing is a systematic approach to selecting stocks based on attributes (factors) that have historically provided excess returns."
-type: comparison
-updated: 2026-05-09
-related:
-- momentum-strategy
-- value-factor
-- quality-factor
-- low-volatility-factor
-- smart-beta-etfs
----
+
 --
 
 # Factor Investing
@@ -332,3 +313,9 @@ Different factors outperform in different market regimes:
 - **Factor Research**: AQR, Dimensional Fund Advisors, MSCI
 - **Screening Tools**: Portfolio123, Stock Rover, Finviz
 - **Backtesting**: QuantConnect, Quantopian, Python libraries (pandas, backtrader)
+
+See also: [[value-factor]]
+
+See also: [[quality-factor]]
+
+See also: [[low-volatility-factor]]

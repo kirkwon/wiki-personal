@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Self-Image and Morality
-description: "Self-Image and Morality"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- behavioral-economics
-- morality
-sources:
-- the-honest-truth-about-dishonesty
-- Self-Image and Morality
-related: [ascription-bias, overconfidence-and-certainty, self-image-and-morality, dishonesty-experiments, ethics-and-ai]
----
+
 # Self-Image and Morality
 
 The principle that people cheat just enough to maintain a positive self-image, preserving their moral identity while still benefiting from dishonesty. Moral identity acts as a constraint on the extent of dishonest behavior.
@@ -28,3 +13,9 @@ The principle that people cheat just enough to maintain a positive self-image, p
 ## Connections
 
 This concept relates to [[ascription-bias]], where people attribute positive qualities to themselves, and [[overconfidence-and-certainty]], as individuals overestimate their own moral standing. It extends the [[cognitive-biases-library]] with a dishonesty-specific bias: self-image preservation bias. The findings also connect to [[ethical-design-manipulation-question]]—if people maintain positive self-images while using manipulative products, the ethical implications shift.
+
+Sources: [[the-honest-truth-about-dishonesty]]
+
+See also: [[self-image-and-morality]]
+
+See also: [[dishonesty-experiments]]

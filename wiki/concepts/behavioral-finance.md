@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Behavioral Finance
-description: "--
-Behavioral Finance"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- psychology
-- behavioral-economics
-- decision-making
-sources:
-- The Psychology of Money.md
-related:
-- personal-finance
-- risk-management
-- decision-quality-vs-outcome-quality
-- cognitive-biases-library
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 ---
 --
 # Behavioral Finance
@@ -49,3 +29,11 @@ This framework connects to [[decision-quality-vs-outcome-quality]] by emphasizin
 
 ## See Also
 [[money-scripts]] | [[savings-rate-vs-returns]] | [[reasonable-vs-rational-decisions]] | [[compounding-time]] | [[margin-of-safety-financial]]
+
+See also: [[personal-finance]]
+
+See also: [[risk-management]]
+
+See also: [[cognitive-biases-library]]
+
+See also: [[thinking-fast-and-slow]]

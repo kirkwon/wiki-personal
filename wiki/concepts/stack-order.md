@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Stack Order
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- gastronomy
-- burger
-- technique
-sources:
-- burgers.md
-related:
-- americana-burgers
-- cast-iron-skillet
----
+
 -
 # Stack Order
 
@@ -39,3 +24,7 @@ Stack order to kolejność warstw w budowaniu burga — od dołu do góry — kt
 - Nie za dużo dodatków — prostota konstrukcji jest kluczowa
 ---
 ^raw/articles/burgers.md
+
+See also: [[americana-burgers]]
+
+See also: [[cast-iron-skillet]]

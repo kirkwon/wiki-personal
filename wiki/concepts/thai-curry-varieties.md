@@ -1,29 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: ความหลากหลายของแกงไทย
-description: "ความหลากหลายของแกงไทย"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- thai
-- curry
-- coconut-milk
-- gastronomy
-- thai-cuisine
-- cooking-techniques
-sources:
-- curry-varieties.md
-related:
-- thai-cuisine
-- aromatics-the-holy-trinity
-- flavor-theory
-- ingredient-pairings
-- aromatics
-- wok-hei
-- sichuan-cuisine
-- cantonese-cuisine
----
+
 --
 
 # ความหลากหลายของแกงไทย
@@ -94,3 +69,11 @@ related:
 - [[david-thompson]] — ผู้เขียน "Thai Food"
 - [[aromatics]] — ส่วนประกอบหอมในอาหาร
 - [[sichuan-cuisine]] — เทคนิคพริกแกงแบบจีน
+
+See also: [[thai-cuisine]]
+
+See also: [[ingredient-pairings]]
+
+See also: [[wok-hei]]
+
+See also: [[cantonese-cuisine]]

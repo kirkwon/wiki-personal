@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Hollandaise
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- french
-- sauces
-- cooking-techniques
-- emulsione
-sources:
-- mother-sauces.md
-related:
-- the-five-mother-sauces
-- béarnaise
-- emulsione
-- mousseline
----
+
 -
 # Hollandaise
 
@@ -48,3 +30,7 @@ L'hollandaise è un'emulsione ricca e burrosa a base di tuorli d'uovo, una delle
 ## Usi Comuni
 Uova Benedict, verdure al vapore (asparagi), pesce grigliato, salsa per steak.
 ---
+
+See also: [[the-five-mother-sauces]]
+
+See also: [[emulsione]]

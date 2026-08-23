@@ -1,20 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: Fundamental Theorem of Systems
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- mental-models
-- systems-thinking
-sources:
-- The Systems Bible - John Gall.md
-related:
-- the-systems-bible-john-gall
-- gall-s-law
-- unintended-consequence-analysis
-- system-replacement-vs-repair
----
+
 -
 # Fundamental Theorem of Systems
 
@@ -35,3 +19,9 @@ This theorem connects to [[unintended-consequence-analysis]] and relates to [[de
 ## Practical Application
 Before implementing any system change, ask: "What new problems will this create?" This question alone is one of the most valuable applications of systems thinking.
 ---
+
+See also: [[the-systems-bible-john-gall]]
+
+See also: [[gall-s-law]]
+
+See also: [[system-replacement-vs-repair]]

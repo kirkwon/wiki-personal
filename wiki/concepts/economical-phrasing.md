@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Economical Phrasing
-description: "--
-Economical Phrasing"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- improvisation
-- music-theory
-sources:
-- miles-davis.md
-related:
-- miles-davis
-- jazz-improvisation
-- use-of-space
----
+
 --
 # Economical Phrasing
 
@@ -35,3 +17,7 @@ Economical phrasing is Miles Davis's signature minimalist approach to playing, w
 - Breath attacks for soft entrances
 
 This approach reflects a philosophy of restraint and intentionality in musical expression.^[raw/articles/miles-davis.md]
+
+See also: [[miles-davis]]
+
+See also: [[jazz-improvisation]]

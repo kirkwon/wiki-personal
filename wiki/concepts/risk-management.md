@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: "Risk Management"
-description: "--
-Διαχείριση Κινδύνου"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- risk-management
-- portfolio
-- volatility
-- personal-finance
-sources:
-- Risk Management.md
-related:
-- diversification
-- asset-allocation
-- position-sizing
-- stop-losses
-- hedging-strategies
-- retirement-planning
-- options-trading
----
+
 --
 # Διαχείριση Κινδύνου
 
@@ -35,3 +11,17 @@ related:
 
 ## Σχετικά Συνcepts
 Η διαχείριση κινδύνου συνδέεται στενά με την [[προσαρμογή-αποχώρησης]] μέσω του κινδύνου της σειράς επιστροφών, καθώς και με τα [[εναλλακτικά-επενδύματα]] και τα [[χρηματοοικονομικά-εναλλακτικά]].
+
+See also: [[diversification]]
+
+See also: [[asset-allocation]]
+
+See also: [[position-sizing]]
+
+See also: [[stop-losses]]
+
+See also: [[hedging-strategies]]
+
+See also: [[retirement-planning]]
+
+See also: [[options-trading]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Visual Hierarchy in Slides
-description: "--
-Visual Hierarchy in Slides"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- presentation
-- visual-design
-- slides
-- markdown
-sources:
-- MARP Presentation Creation.md
-related:
-- marp-presentation-creation
-- markdown-to-presentation-conversion
-- data-visualization
----
+
 --
 # Visual Hierarchy in Slides
 
@@ -62,3 +43,5 @@ Side-by-side comparisons using CSS grid for presenting related concepts or alter
 - [[marp-presentation-creation]] — Full presentation workflow
 - [[data-visualization]] — Charts and graphs in presentations
 - [[visual-design]] — Creating clear, hierarchical layouts
+
+See also: [[markdown-to-presentation-conversion]]

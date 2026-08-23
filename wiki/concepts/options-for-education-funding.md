@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Options for Education Funding
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- options
-sources:
-- Options Trading Guide.md
-related:
-- leaps-long-term-equity-anticipation-securities
-- covered-calls
-- options-position-sizing
----
+
 -
 # Options for Education Funding
 
@@ -42,3 +26,9 @@ Options strategies can be used to grow and generate income for education expense
 
 Aligning LEAPS expiration with education funding needs provides a strategic approach to saving for tuition and related costs.^[raw/articles/Options Trading Guide.md]
 ---
+
+See also: [[leaps-long-term-equity-anticipation-securities]]
+
+See also: [[covered-calls]]
+
+See also: [[options-position-sizing]]

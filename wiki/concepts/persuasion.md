@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Persuasion
-description: "Persuasion is a universal mental model for navigating complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- psychology
-- decision-making
-- cognitive-bias
-sources:
-- Persuasion.md
-related:
-- influence-the-psychology-of-persuasion---robert-b-cialdini
+robert-b-cialdini
 - robert-b-cialdini
 - cognitive-biases-library
 - decision-making-frameworks
@@ -48,3 +33,5 @@ Persuasion intersects with several existing mental models and frameworks in this
 
 ## Applicability
 Persuasion is applicable universally across all domains, serving as a tool for understanding patterns and relationships in complex situations with moderate confidence (0.7).
+
+See also: [[influence-the-psychology-of-persuasion]]

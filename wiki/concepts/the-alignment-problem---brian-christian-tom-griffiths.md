@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Alignment Problem - Brian Christian Tom Griffiths
-description: "--
-The Alignment Problem - Brian Christian & Tom Griffiths"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- ai
-- mental-model
-sources:
-- Safety.md
-related:
-- safety
-- the-most-human-human
-- algorithms-to-live-by---brian-christian-tom-griffiths
+brian-christian-tom-griffiths
 ---
 --
 # The Alignment Problem - Brian Christian & Tom Griffiths
@@ -34,3 +17,5 @@ The mental model of [[safety]] is referenced in this work as a conceptual tool f
 
 - [[the-most-human-human---brian-christian-tom-griffiths]]
 - [[algorithms-to-live-by---brian-christian-tom-griffiths]]
+
+See also: [[the-most-human-human]]

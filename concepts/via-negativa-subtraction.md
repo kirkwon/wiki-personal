@@ -1,25 +1,4 @@
----
-date: 2026-06-13
 
-type: concept
-title: Via Negativa (Subtraction / What to Stop Doing)
-related:
-  - inversion
-  - first-principles-thinking
-  - define-enough
-  - unintended-consequence-analysis
-sources:
-  - Super Thinking - Gabriel Weinberg
-ingested_via: put_page
-ingested_at: '2026-06-13T17:08:26.892Z'
-source_kind: put_page
-tags:
-  - concept
-  - decision-making
-  - mental-model
-  - strategy
-  - via-negativa
----
 
 # Via Negativa (Subtraction / What to Stop Doing)
 
@@ -55,3 +34,13 @@ Before adding anything, ask: "If I remove this instead, does the system improve?
 - Inversion — working backward from failure
 - Unintended Consequence Analysis — second-order effects of adding
 - The Power of Enough — knowing when to stop
+
+Sources: [[Super Thinking - Gabriel Weinberg]]
+
+See also: [[inversion]]
+
+See also: [[first-principles-thinking]]
+
+See also: [[define-enough]]
+
+See also: [[unintended-consequence-analysis]]

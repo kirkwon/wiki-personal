@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Salsa di Pomodoro
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- french
-- sauces
-- cooking-techniques
-sources:
-- mother-sauces.md
-related:
-- the-five-mother-sauces
-- ratatouille
-- shakshuka
----
+
 -
 # Salsa di Pomodoro
 
@@ -40,3 +24,5 @@ Pasta, pizza, ratatouille, shakshuka.
 - Pomodori in scatola (tutto l'anno)
 - Pasta di pomodoro (sapore intenso)
 ---
+
+See also: [[the-five-mother-sauces]]

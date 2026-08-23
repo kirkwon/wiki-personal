@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Zeigarnik Effect
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- memory
-- productivity
-sources:
-- The Art of Thinking Clearly - Rolf Dobelli.md
-related:
-- attention-residue
-- procrastination
-- tunnel-vision
----
+
 -
 # Zeigarnik Effect
 
@@ -33,3 +17,5 @@ Use the effect intentionally: starting a task creates mental engagement that can
 ## Guardrail
 If Zeigarnik effect is causing anxiety, either complete the task or deliberately let it go rather than carrying it mentally.
 ---
+
+See also: [[tunnel-vision]]

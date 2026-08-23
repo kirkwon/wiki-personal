@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Mole Poblano
-description: "El mole poblano es la variante más famosa de la salsa mole, originaria de Puebla."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- mexican-cuisine
-- sauce
-- gastronomy
-sources:
-- mole.md
-related:
-- mole
-- los-siete-moles-de-oaxaca
-- mole-verde
-- mexican-cuisine
----
+
 --
 # Mole Poblano
 
@@ -73,3 +55,11 @@ Según la tradición, fue creado por monjas en un convento de Puebla como plato 
 ## Servir
 
 Tradicionalmente con pollo (entero o en piezas), pavo para ocasiones especiales, arroz blanco, tortillas calientes y ajonjolí como guarnición.^[raw/articles/mole.md]
+
+See also: [[mole]]
+
+See also: [[los-siete-moles-de-oaxaca]]
+
+See also: [[mole-verde]]
+
+See also: [[mexican-cuisine]]

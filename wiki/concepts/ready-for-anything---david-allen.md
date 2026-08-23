@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Ready for Anything - David Allen
-description: "--
-Ready for Anything - David Allen"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- books
-- allen
-- gtd
-sources:
-- Ready for Anything - David Allen.md
-related:
-- getting-things-done---david-allen
+david-allen
 - quadrant-2-focus
 - time-management-matrix
 - habit-testing
@@ -63,3 +47,5 @@ The book maps to productivity triggers including overwhelm, procrastination, and
 ## Relationship to Existing Content
 
 The book connects directly to [[getting-things-done---david-allen]], [[quadrant-2-focus]], [[time-management-matrix]], [[habit-testing]], and existing discussions of [[attention-residue]] and [[attention-budget]]. The "when to stop" principles complement [[infinite-game-mindset]] and [[hyperfocus]] by tempering optimization with sustainability.
+
+See also: [[getting-things-done]]

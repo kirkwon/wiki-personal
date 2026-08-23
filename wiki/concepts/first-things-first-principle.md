@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: First Things First Principle
-description: "First Things First Principle"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- productivity
-- decision-making
-- time-management
-- mental-models
-sources:
-- first-things-first
-- First Things First Principle
-related: ["time-management-matrix", "quadrant-2-focus", "personal-values-in-time-management", "strategic-vs-reactive-thinking", "decision-making-frameworks", "balancing-ambition-with-well-being", "effective-listening"]
----
+
 
 # First Things First Principle
 
@@ -50,3 +34,5 @@ Prioritize what matters most over what is merely urgent. Align daily actions wit
 - [[quadrant-2-focus]] — The emphasis on important/not urgent activities.
 - [[effective-listening]] — Communication skill that supports productive relationships.
 - [[systematic-decision-making]] — Structured process aligned with core values.
+
+See also: [[decision-making-frameworks]]

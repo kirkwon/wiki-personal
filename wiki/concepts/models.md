@@ -1,29 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Models
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-sources:
-- Models.md
-related:
-- brain-mental-model
-- care
-- conditions
-- planning
-- recipes-mental-model
-- solutions
-- group
-- stillness
-- environment
-- thinking-mental-model
-- markets
-- overview
----
+
 -
 # Models
 
@@ -55,3 +30,7 @@ Moderate (0.7) — the evidence base is conceptual rather than empirical, drawin
 Models connect to a wide range of existing mental model pages in this wiki, including [[brain-mental-model]], [[care]], [[conditions]], [[planning]], [[recipes-mental-model]], [[Solutions]], [[group]], [[stillness]], [[environment]], [[thinking-mental-model]], and [[markets]].
 
 ---
+
+See also: [[solutions]]
+
+See also: [[overview]]

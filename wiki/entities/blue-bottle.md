@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Blue Bottle
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- coffee-shops
-sources:
-- san-francisco-city-guide.md
-related:
-- favorite-coffee-shops
-- ritual
-- philz
----
+
 -
 # Blue Bottle
 
@@ -26,3 +10,9 @@ Café notoire à San Francisco, plusieurs emplacements dans la ville.
 - Recommandé dans le guide comme café emblématique
 
 ---
+
+See also: [[favorite-coffee-shops]]
+
+See also: [[ritual]]
+
+See also: [[philz]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Salt Fat Acid Heat
-description: "--
-Salt Fat Acid Heat"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking
-- resource
-- book
-- fundamentals
-sources:
-- Cooking Techniques.md
-related:
-- cooking-techniques
-- seasoning-methods
-- heat-based-techniques
----
+
 --
 # Salt Fat Acid Heat
 
@@ -37,3 +18,5 @@ This resource connects to the broader [[Cooking Techniques]] category, offering 
 - [[Cooking Techniques]]
 - [[seasoning-methods]]
 - [[heat-based-techniques]]
+
+See also: [[cooking-techniques]]

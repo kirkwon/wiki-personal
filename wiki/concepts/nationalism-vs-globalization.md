@@ -1,23 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Nationalism vs. Globalization
-description: "--
-Nationalism vs. Globalization"
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- geopolitics
-- philosophy
-- decision-making
-sources:
-- Post Corona_ From Crisis to Opportunity - Scott Galloway.md
-related:
-- skin-in-the-game
-- micro-nations
-- post-pandemic-business-transformation
-- scott-galloway
----
+
 --
 # Nationalism vs. Globalization
 
@@ -36,3 +17,7 @@ Nationalism vs. globalization examines the tension between rising nationalist se
 - [[micro-nations]]
 - [[platform-dominance]]
 - [[decision-making-frameworks]]
+
+See also: [[post-pandemic-business-transformation]]
+
+See also: [[scott-galloway]]

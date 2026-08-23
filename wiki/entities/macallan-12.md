@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Macallan 12
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- spirits
-- scotch
-- whisky
-- tasting
-- beverages
-sources:
-- Whisky Tasting Notes.md
-related:
-- spirits-index
-- scotch
-- whisky-tasting-notes
-- whisky-tasting-methodology
----
+
 -
 # Macallan 12
 
@@ -49,3 +30,9 @@ Highland Single Malt Scotch aged 12 years. Rated as a benchmark for aged Scotch 
 
 See [[spirits-index]] for broader spirits context.
 ---
+
+See also: [[scotch]]
+
+See also: [[whisky-tasting-notes]]
+
+See also: [[whisky-tasting-methodology]]

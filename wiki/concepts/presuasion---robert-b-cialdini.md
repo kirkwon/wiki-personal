@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Pre-Suasion
-description: "Pre-suasion is a concept introduced by Robert B."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- psychology
-- communication
-- mental-model
-sources:
-- Factors.md
-related:
-- factors
-- supercommunicators-charles-duhigg
-- communication-skills
-- framing-effects
----
+
 --
 # Pre-Suasion
 
@@ -35,3 +17,9 @@ The moments before we communicate are as important as the communication itself. 
 ## Connection to Factors
 
 Pre-suasion is one of the two source inspirations for the [[factors]] mental model. The Factors model generalizes Cialdini's insight that contextual variables matter into a universal framework for navigating complexity.
+
+See also: [[supercommunicators-charles-duhigg]]
+
+See also: [[communication-skills]]
+
+See also: [[framing-effects]]

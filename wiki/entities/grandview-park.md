@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Grandview Park
-description: "The namesake hill of the Golden Gate Heights neighborhood, Grandview Park is the highest point in the neighborhood at approximately 500 feet elevation, offering 360-degree panoramic views of Ocean Bea."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- local
-- sf
-- bay-area
-- parks
-- neighborhoods
-sources:
-- golden-gate-heights.md
-related:
-- golden-gate-heights
-- 16th-avenue-tiled-steps
-- golden-gate-park
-- ocean-beach
-- sixteen-avenue-tiled-steps
----
+
 --
 # Grandview Park
 
@@ -52,3 +31,13 @@ The namesake hill of the Golden Gate Heights neighborhood, Grandview Park is the
 - 14th Ave Steps: Access to Grandview Park, steep
 - Moraga St Steps: Residential stairway with garden views
 - Lincoln Park and the Legion of Honor accessible from the area
+
+See also: [[golden-gate-heights]]
+
+See also: [[16th-avenue-tiled-steps]]
+
+See also: [[golden-gate-park]]
+
+See also: [[ocean-beach]]
+
+See also: [[sixteen-avenue-tiled-steps]]

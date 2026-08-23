@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Umami Building Blocks
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking
-- flavor
-- gastronomy
-sources:
-- Gastronomy.md
-related:
-- flavor-theory
-- seasonings
-- ingredient-pairings
-- maillard-reaction
----
+
 -
 # Umami Building Blocks
 
@@ -29,3 +12,7 @@ Core building blocks include:
 
 This concept is central to [[recipe-umami-building-blocks]] and relates to [[flavor-theory]] and [[seasonings]] as practical applications of flavor science.
 ---
+
+See also: [[ingredient-pairings]]
+
+See also: [[maillard-reaction]]

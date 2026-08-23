@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Making It All Work - David Allen
-description: "--
-Making It All Work - David Allen"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- productivity
-- david-allen
-sources:
-- Tasks.md
-related:
-- tasks
-- getting-things-done---david-allen
+david-allen
 - ready-for-anything---david-allen
 ---
 --
@@ -32,3 +16,7 @@ related:
 ## Connection to Tasks Mental Model
 
 This book represents Allen's perspective on tasks as a pattern-recognition tool — understanding how individual tasks relate to broader goals and life contexts.
+
+See also: [[tasks]]
+
+See also: [[getting-things-done]]

@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Thought Experiments
-description: "Thought experiments are hypothetical scenarios used to test ideas, explore implications, and develop intuition about complex problems without real-world experimentation."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- mental-models
-- creativity
-- epistemology
-- decision-making
-- problem-solving
-sources:
-- super-thinking
-- Thought Experiments
-related: ["mental-models", "mental-sandbox", "recognition-primed-decision-model", "super-thinking-gabriel-weinberg", "inversion-thinking", "first-principles-thinking"]
----
+
 # Thought Experiments
 
 Thought experiments are hypothetical scenarios used to test ideas, explore implications, and develop intuition about complex problems without real-world experimentation. Covered in Part V of *Super Thinking*, and included by Weinberg in the creativity and innovation section.
@@ -37,3 +20,7 @@ Thought experiments connect to [[mental-sandbox]] (mental simulation), [[inversi
 ## Related Pages
 
 Related to [[super-thinking-gabriel-weinberg]], [[mental-sandbox]], [[inversion-thinking]], and [[first-principles-thinking]].
+
+Sources: [[super-thinking]]
+
+See also: [[mental-models]]

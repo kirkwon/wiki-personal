@@ -1,13 +1,4 @@
----
-date: 2026-06-13
-type: concept
-title: Critic Separation
-created: 2026-06-13
-updated: 2026-06-17
-tags: [critic-separation, software-development, loop-engineering, ai]
-related: [loop-engineering-plan, self-harness, agent-looping, ai-assisted-software-development]
-sources: ["loop-engineering-plan.md", "research-implementing-critic-separation-2026-06-17-052850.md"]
----
+
 # Critic Separation
 Critic separation is the concept of separating the validation component from the execution component in a software agent. This allows for independent validation of proposed changes, enhancing the reliability and safety of the loop engineering process. Critic Separation is the practice of automating code validation by employing a specialized Critic Agent to review claimed implementations against established Spec contracts and the Agent Constitution.
 
@@ -32,3 +23,9 @@ Critic Separation can be applied in various domains, including:
 1. **AI-Assisted Software Development**: Critic Separation can be used to review and validate code in AI-assisted software development projects.
 2. **Research and Analysis**: Critic Separation can be used to review and validate research and analysis results.
 3. **Code Generation and Testing**: Critic Separation can be used to review and validate generated code and test results.
+
+See also: [[loop-engineering-plan]]
+
+See also: [[self-harness]]
+
+See also: [[agent-looping]]

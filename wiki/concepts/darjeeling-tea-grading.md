@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 大吉岭茶分级系统
-description: "大吉岭茶采用复杂的分级系统，主要基于叶片大小、叶尖含量和外观一致性。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- darjeeling
-- grading
-related:
-- darjeeling-tea
-- 茶的种类
-sources:
-- Darjeeling Tea.md
----
+
 --
 # 大吉岭茶分级系统
 
@@ -43,3 +27,5 @@ sources:
 - **特征表达**：保持茶园和采摘季特征
 
 高海拔茶园和知名茶园区分通常获得更高等级。
+
+See also: [[darjeeling-tea]]

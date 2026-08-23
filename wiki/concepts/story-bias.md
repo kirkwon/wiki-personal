@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Story Bias
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- decision-making
-sources:
-- The Art of Thinking Clearly - Rolf Dobelli.md
-related:
-- cognitive-biases-library
-- confirmation-bias
-- narrative-fallacy
----
+
 -
 # Story Bias
 
@@ -31,3 +16,5 @@ In business and investing, story bias causes us to over-weight anecdotal evidenc
 ## Guardrail
 When presented with a narrative explanation, ask: "What does the data say? How many cases contradict this story?"
 ---
+
+See also: [[cognitive-biases-library]]

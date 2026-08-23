@@ -1,22 +1,4 @@
----
-date: 2026-04-22
-type: concept
-title: Entity Structure Strategies
-description: "--
-Entity Structure Strategies"
-created: 2026-04-22
-updated: 2026-04-22
-tags:
-- risk-management
-- investment-risk
-- legal
-related:
-- risk-assessment-framework
-- risk-transfer-strategies
-- real-estate-investment
-sources:
-- Risk Assessment Framework.md
----
+
 --
 # Entity Structure Strategies
 
@@ -37,3 +19,7 @@ Legal entity selection and structuring to isolate risk between properties and pr
 - Cross-border entities for international tax and liability planning
 
 Entity structure is a risk transfer strategy within [[risk-assessment-framework]].
+
+See also: [[risk-transfer-strategies]]
+
+See also: [[real-estate-investment]]

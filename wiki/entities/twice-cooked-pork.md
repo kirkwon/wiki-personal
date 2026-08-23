@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 回锅肉
-description: "回锅肉（回锅肉）是经典川菜，被称为'不会让你停下来的菜'。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- sichuan
-- chinese
-- recipe
-- dish
-sources:
-- sichuan-cuisine.md
-related:
-- sichuan-cuisine
-- mapo-tofu
-- wok-hei
----
+
 --
 # 回锅肉
 
@@ -29,3 +11,7 @@ related:
 
 ## 烹饪
 五花肉煮熟后切片，在热锅中快速翻炒，加入豆瓣酱和蒜苗，产生浓郁的镬气。
+
+See also: [[sichuan-cuisine]]
+
+See also: [[mapo-tofu]]

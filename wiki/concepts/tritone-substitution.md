@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Tritone Substitution
-description: "--
-Tritone Substitution"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- harmony
-- chords
-related:
-- jazz-harmony
-- music-theory-fundamentals
-sources:
-- jazz-harmony.md
----
+
 --
 # Tritone Substitution
 
@@ -39,3 +22,5 @@ Eksempel: I stedet for G7 → Cmaj7, kan du spille D♭7 → Cmaj7.
 ## Relatert
 - [[jazz-harmony]]
 - [[altered-scale]]
+
+See also: [[music-theory-fundamentals]]

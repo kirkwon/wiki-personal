@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 大红袍 (Da Hong Pao)
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- tea
-- oolong
-- chinese-cuisine
-- chinese
-- rock-tea
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- partial-oxidation-部分氧化
-- gongfu-brewing-功夫茶冲泡
-- rock-tea-岩茶
-- tea-oxidation-茶叶氧化
----
+
 -
 # 大红袍 (Da Hong Pao - Big Red Robe)
 
@@ -42,3 +22,13 @@ related:
 深乌龙类型，接近红茶特征，烘焙风味突出。
 
 ---
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[partial-oxidation-部分氧化]]
+
+See also: [[gongfu-brewing-功夫茶冲泡]]
+
+See also: [[rock-tea-岩茶]]
+
+See also: [[tea-oxidation-茶叶氧化]]

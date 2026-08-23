@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Framework Documentation Template
-description: "--
-Framework Documentation Template"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- meta
-- template
-sources:
-- Framework.md
-related:
-- decision-making-frameworks
-- cv-xcv-framework
-- six-thinking-hats
----
+
 --
 # Framework Documentation Template
 
@@ -44,3 +27,9 @@ The template includes the following sections:
 ## Usage
 
 When creating a new framework page, copy this template and fill in the placeholder fields with specific content for the target framework.
+
+See also: [[decision-making-frameworks]]
+
+See also: [[cv-xcv-framework]]
+
+See also: [[six-thinking-hats]]

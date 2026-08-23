@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Dread Aversion
-description: "Dread aversion describes the anticipatory anxiety and disproportionate aversion people feel toward negative outcomes they expect to experience over time."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- cognitive-bias
-- psychology
-- decision-making
-- behavioral-economics
-sources:
-- thinking-fast-and-slow
-- Dread Aversion
-related: ["loss-aversion", "prospect-theory", "decision-making-under-uncertainty", "dual-process-theory", "overconfidence-and-certainty", "system-1-vs-system-2-thinking"]
----
+
 # Dread Aversion
 
 Dread aversion describes the anticipatory anxiety and disproportionate aversion people feel toward negative outcomes they expect to experience over time. Unlike a one‑time loss, dread involves the extended psychological suffering of anticipating a painful event, which can make people avoid beneficial actions that involve temporary discomfort. According to Daniel Kahneman, dread aversion influences financial decisions, health choices, and other domains where future negative events are possible, and he discusses it in Chapter 7 alongside the role of money in preferences.
@@ -47,3 +31,5 @@ Understanding dread aversion helps explain why people:
 - Procrastinate on important tasks despite knowing the consequences.
 
 These behaviors arise because the anticipation of future pain, loss, or discomfort distorts choices and amplifies avoidance behavior, even when a rational assessment of risk and reward would suggest otherwise.
+
+Sources: [[thinking-fast-and-slow]]

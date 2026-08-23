@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Exit Timing
-description: "Exit timing is the skill of recognizing when to leave a situation — whether an investment, job, project, relationship, or commitment."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- decision-making
-- skill
-sources:
-- Exit Timing.md
-related:
-- decision-making-frameworks
-- decision-quality-vs-outcome-quality
-- thinking-in-bets---annie-duke
+annie-duke
 - superforecasting
 - real-options-analysis
 - expected-value-ev
@@ -44,3 +29,7 @@ Exit timing is the skill of recognizing when to leave a situation — whether an
 - How does exit timing apply across domains — finance, career, relationships, projects?
 
 This concept remains underdeveloped in the wiki due to limited source material. Further reading on decision-making frameworks, real options theory, and behavioral economics would strengthen this page.^[raw/articles/Exit Timing.md]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[thinking-in-bets]]

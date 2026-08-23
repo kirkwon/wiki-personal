@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Southern and Soul Food
-description: "--
-Southern and Soul Food"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- american
-- southern
-- soul-food
-- comfort-food
-- cuisine
-- gastronomy
-- southern-soul-food
-sources:
-- southern-soul-food.md
-related:
-- maillard-reaction
-- caramelization
-- cooking-techniques
-- rice-varieties-index
-- comfort-food
-- american-cuisine
-- braising
-- cast-iron-skillet
----
+
 --
 # Southern and Soul Food
 
@@ -123,3 +96,5 @@ Black-eyed peas, rice, smoked pork or bacon, onion, bell pepper, Cajun seasoning
 - "The Taste of Country Cooking" by Edna Lewis
 - "Soul Food" by Adrian Miller
 - "The Southern Foodways Alliance Community Cookbook"
+
+See also: [[cooking-techniques]]

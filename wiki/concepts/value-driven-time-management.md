@@ -1,22 +1,4 @@
----
-date: 2026-04-18
-type: concept
-title: Value-Driven Time Management
-created: 2026-04-18
-updated: 2026-04-18
-tags:
-- productivity
-- decision-making
-- psychology
-- mental-models
-sources:
-- First Things First - Stephen R. Covey.md
-related:
-- first-things-first-principle
-- time-management-matrix
-- personal-branding-and-wellbeing
-- balancing-ambition-with-well-being
----
+
 -
 # Value-Driven Time Management
 
@@ -43,3 +25,7 @@ This concept reinforces [[balancing-ambition-with-well-being]] — the idea that
 ## Key Takeaway
 Productivity without alignment to personal values is empty efficiency. True time management starts with clarity about what matters.
 ---
+
+See also: [[first-things-first-principle]]
+
+See also: [[time-management-matrix]]

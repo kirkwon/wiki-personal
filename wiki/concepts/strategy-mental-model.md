@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Strategy as a mental model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- strategy
-- planning
-sources:
-- Strategy.md
-related:
-- planning
-- thinking-mental-model
-- reality-mental-model
-- recipes-mental-model
-- overview
-- problem-solving
----
+
 -
 # Strategy as a mental model
 
@@ -39,3 +20,7 @@ This mental model is referenced in [[the-art-of-war-sun-tzu]] as a foundational 
 - [[recipes-mental-model]] — Recipes as a mental model
 - [[decision-making-frameworks]] — Decision-making frameworks
 ---
+
+See also: [[overview]]
+
+See also: [[problem-solving]]

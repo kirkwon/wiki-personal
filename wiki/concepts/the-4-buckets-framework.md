@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: The 4 Buckets Framework
-description: "--
-The 4 Buckets Framework"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- budgeting
-- automation
-sources:
-- I Will Teach You to Be Rich.md
-related:
-- conscious-spending
-- automation-of-finances
-- personal-finance
----
+
 --
 # The 4 Buckets Framework
 
@@ -43,3 +25,5 @@ The goal is NOT to cut everything — it's to cut the unimportant so you can spe
 
 See also: [[conscious-spending]], [[automation-of-finances]]
 ^[raw/articles/I Will Teach You to Be Rich.md]
+
+See also: [[personal-finance]]

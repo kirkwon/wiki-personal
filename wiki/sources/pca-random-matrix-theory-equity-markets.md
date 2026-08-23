@@ -1,22 +1,4 @@
----
-date: 2026-06-29
 
-type: source
-title: "How Quant Hedge Funds Compress 500 Stocks Into 5 Hidden Forces"
-author: "Livsun (@L1vsun)"
-url: "https://x.com/l1vsun/status/2070892216109736002"
-published: 2026-06-27
-tags:
-  - quant
-  - pca
-  - random-matrix-theory
-  - eigenportfolios
-  - factor-models
-  - stat-arb
-related:
-  - factors
-  - factor-investing
----
 
 # How Quant Hedge Funds Compress 500 Stocks Into 5 Hidden Forces
 
@@ -61,3 +43,7 @@ The S&P 500 is not 500 independent bets. Strip away the surface and there are on
 - Directly foundational to the **mean-variance-analyzer** and **causal-portfolio-research** skills — PCA + RMT are the theoretical basis for factor models
 - The eigenportfolio/residual trading pattern is exactly what stat-arb funds do: factor-hedged mean reversion
 - Marchenko-Pastur screening provides a principled way to set the number of factors in factor models (vs. arbitrary K or %-variance-explained thresholds)
+
+See also: [[factors]]
+
+See also: [[factor-investing]]

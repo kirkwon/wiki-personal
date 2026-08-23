@@ -1,24 +1,4 @@
----
-date: 2026-06-13
 
-type: concept
-title: Ergodicity
-related:
-  - tail-event-thinking
-  - margin-of-safety-financial
-  - leverage-and-randomness
-  - base-rate-neglect
-ingested_via: put_page
-ingested_at: '2026-06-13T17:08:28.103Z'
-source_kind: put_page
-tags:
-  - concept
-  - decision-making
-  - mental-model
-  - probability
-  - risk
-  - strategy
----
 
 # Ergodicity
 
@@ -57,3 +37,11 @@ Ask: "If I made this decision 100 times in sequence, would I be better off or ba
 - Tail Event Thinking — rare events that cause ruin
 - Margin of Safety — buffer against non-ergodicity
 - Leverage and Risk — leverage amplifies non-ergodicity
+
+See also: [[tail-event-thinking]]
+
+See also: [[margin-of-safety-financial]]
+
+See also: [[leverage-and-randomness]]
+
+See also: [[base-rate-neglect]]

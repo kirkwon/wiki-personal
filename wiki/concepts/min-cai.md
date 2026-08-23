@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 闽菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
-- fujian-cuisine
----
+
 -
 # 闽菜
 
@@ -43,3 +28,7 @@ related:
 - 微妙调味
 - 发酵食品
 ---
+
+See also: [[chinese-regional-cuisines]]
+
+See also: [[fujian-cuisine]]

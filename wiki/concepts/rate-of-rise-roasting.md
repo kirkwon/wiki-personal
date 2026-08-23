@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: 烘焙升温速率（ROR）
-description: "升温速率（Rate of Rise, ROR）是咖啡烘焙过程中每分钟温度上升速率的关键控制指标，直接影响烘焙特征和风味发展。"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- coffee
-- technique
-- baking
-sources:
-- Roasting.md
-related:
-- coffee-roasting-咖啡烘焙
-- roast-profiles
-- maillard-reaction
-- caramelization
----
+
 --
 # 烘焙升温速率（ROR）
 
@@ -34,3 +16,7 @@ ROR衡量豆温每分钟上升的度数，典型值为10-15°C/分钟。控制RO
 ROR是烘焙曲线分析的重要组成部分，与FC/BC比例（一爆到开始时间比，通常2:1至3:1）共同构成开发比例评估体系。
 
 ROR与[[maillard-reaction]]和[[caramelization]]密切相关，因为升温速率决定了这些化学反应的进程和深度。
+
+See also: [[coffee-roasting-咖啡烘焙]]
+
+See also: [[roast-profiles]]

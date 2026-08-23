@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Luck and Risk Duality
-description: "--
-Luck and Risk Duality"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- decision-making
-- psychology
-- behavioral-economics
-sources:
-- The Psychology of Money.md
-related:
-- decision-quality-vs-outcome-quality
-- survivorship-bias
-- cognitive-biases-library
----
+
 --
 # Luck and Risk Duality
 
@@ -40,3 +21,7 @@ Focusing only on successful outcomes while ignoring failures (survivorship bias)
 ## Connection to Decision Quality
 
 This duality reinforces the principle of separating decision quality from outcome quality [[decision-quality-vs-outcome-quality]]. Good process plus bad luck does not equal a bad decision, and bad process plus good luck does not equal a good decision.^[raw/articles/The Psychology of Money.md]
+
+See also: [[survivorship-bias]]
+
+See also: [[cognitive-biases-library]]

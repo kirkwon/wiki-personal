@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Explanatory power analysis
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- mental-model
-- skill
-sources:
-- Explanatory power analysis.md
-related:
-- david-deutsch
-- the-beginning-of-infinity-david-deutsch
-- scatterfocus
-- hyperfocus
-- error-correction-mechanisms
-- peer-accountability-systems
-- how-to-take-smart-notes
-- building-a-second-brain
----
+
 -
 # Explanatory power analysis
 
@@ -45,3 +23,11 @@ Connects to [[scatterfocus]] and [[hyperfocus]] as attention modes, [[error-corr
 ## Open Questions
 The relationship between Deutsch's epistemological concept (explanatory power as a criterion for scientific quality) and this productivity application is not fully elaborated in the source material. The skill card may conflate the epistemological framework with general productivity optimization.
 ---
+
+See also: [[david-deutsch]]
+
+See also: [[the-beginning-of-infinity-david-deutsch]]
+
+See also: [[how-to-take-smart-notes]]
+
+See also: [[building-a-second-brain]]

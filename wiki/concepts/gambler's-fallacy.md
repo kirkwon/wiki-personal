@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Gambler's Fallacy
-description: "The gambler's fallacy is the belief that past random events affect future independent events."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cognitive-bias
-- decision-making
-- probability
-sources:
-- cognitive-biases-library.md
-related:
-- cognitive-biases-library
-- probability-and-judgment-under-uncertainty
-- base-rate-neglect
----
+
 --
 # Gambler's Fallacy
 
@@ -31,3 +14,5 @@ The gambler's fallacy is the belief that past random events affect future indepe
 
 ## Connection to Other Concepts
 Related to [[probability-and-judgment-under-uncertainty]] and [[base-rate-neglect]]. Connects to betting and investment decisions.
+
+See also: [[cognitive-biases-library]]

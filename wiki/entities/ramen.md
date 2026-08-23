@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: ラーメン (Ramen)
-description: "ラーメンは中華起源の小麦麺を豊かなスープと様々なトッピングと共に提供する日本の麺料理である。中国から伝来し、日本独自の国民的なcomfort foodへと進化した。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- cuisine
-- noodle
-- comfort-food
-- asian
-sources:
-- ramen.md
-related:
-- sichuan-cuisine
-- cantonese-cuisine
-- yum-cha
-- chashu
-- kansui
-- dashi
-- japanese-cuisine
----
+
 --
 # ラーメン (Ramen)
 
@@ -66,3 +43,9 @@ related:
 - [[chashu]] — 必須のトッピング
 - [[dashi]] — 基礎出汁
 - [[japanese-cuisine]] — 日本料理全体との位置づけ
+
+See also: [[sichuan-cuisine]]
+
+See also: [[cantonese-cuisine]]
+
+See also: [[yum-cha]]

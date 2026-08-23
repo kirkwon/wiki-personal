@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Post Corona - Scott Galloway
-description: "--
-Post Corona - Scott Galloway"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- business
-sources:
-- Industries.md
-related:
-- the-four---scott-galloway
+scott-galloway
 - the-algebra-of-happiness---scott-galloway
 - industries
 - markets
@@ -31,3 +17,5 @@ Scott Galloway's *Post Corona: From Crisis to Opportunity* examines how the COVI
 ## Connection to Industries Mental Model
 
 Galloway's perspective contributes to the [[industries]] mental model by showing that industry analysis must account for crisis-driven disruption as a recurring pattern in how industries evolve.^[raw/articles/Industries.md]
+
+See also: [[the-four]]

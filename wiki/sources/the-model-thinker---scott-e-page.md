@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The Model Thinker - Scott E. Page
-description: "The Model Thinker - Scott E."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- decision-making
-- models
-- cognitive-science
-sources:
-- the-model-thinker
-- The Model Thinker - Scott E. Page
----
+
 # The Model Thinker - Scott E. Page
 
 A 2024 book by Scott E. Page covering 27 chapters across 6 parts, introducing a wide range of modeling frameworks for understanding complex phenomena. The central thesis is that using multiple models in concert outperforms relying on any single framework.
@@ -34,3 +19,5 @@ Linear Models, Power Law Models, Normal Distribution Models, Network Models, Gam
 ## Related Pages
 
 [[many-model-thinker]], [[model-selection]], [[model-combination]], [[model-validation]], [[agent-based-modeling]], [[systems-dynamics-models]], [[cellular-automata]], [[network-models]], [[game-theory-models]], [[chaos-models]], [[catastrophe-models]], [[power-law-models]], [[collective-action-models]], [[social-influence-models]], [[evolutionary-models]], [[markov-models]], [[decision-making-frameworks]], [[decision-making-under-uncertainty]], [[problem-solving]]
+
+Sources: [[the-model-thinker]]

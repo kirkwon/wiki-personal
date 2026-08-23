@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Looking Back / Reflection in Problem-Solving
-description: "-
-Looking Back / Reflection in Problem-Solving"
-created: 2026-05-03
-updated: 2026-05-11
-tags:
-- problem-solving
-- reflection
-- decision-making
-- learning
-related:
-- how-to-solve-it ---george-polya
+george-polya
 - polya-four-steps
 - decision-tracking
 - decision-quality-vs-outcome-quality
@@ -39,3 +25,5 @@ These practices are essential for building transferable problem‑solving skill.
 The reflective habit also parallels [[decision-tracking]], where Annie Duke advocates recording and reviewing decisions to calibrate judgment. Both approaches emphasize separating the quality of the decision process from the quality of the outcome—core to [[decision-quality-vs-outcome-quality]].
 
 Polya's looking back is related to the [[paul-elder-critical-thinking-framework]], which stresses questioning assumptions and verifying reasoning. The habit of reflection transforms each problem from a one‑time event into a learning opportunity that builds a repertoire of strategies for future challenges.
+
+See also: [[how-to-solve-it]]

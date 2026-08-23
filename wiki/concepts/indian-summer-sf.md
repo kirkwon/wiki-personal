@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Indian Summer à San Francisco
-description: "--
-Indian Summer à San Francisco"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- climate
-- weather
-sources:
-- san-francisco-city-guide.md
-related:
-- san-francisco
-- ocean-beach
-- sunset-district
----
+
 --
 # Indian Summer à San Francisco
 
@@ -42,3 +23,9 @@ Le guide recommande toujours d'apporter des couches de vêtements, une veste cou
 ## Phrase clé
 
 « Le brouillard se dissipera » — être patient, attendre les vues.
+
+See also: [[san-francisco]]
+
+See also: [[ocean-beach]]
+
+See also: [[sunset-district]]

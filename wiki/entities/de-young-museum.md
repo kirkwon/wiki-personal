@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: De Young Museum
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- museums
-sources:
-- san-francisco-city-guide.md
-related:
-- golden-gate-park
-- legion-of-honor
----
+
 -
 # De Young Museum
 
@@ -25,3 +10,5 @@ Musée d'art situé dans Golden Gate Park.
 - Complément du SFMOMA
 
 ---
+
+See also: [[golden-gate-park]]

@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Living mental model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- thinking
-related:
-- thinking-mental-model
-- solutions-mental-model
-- effort
-- planning
-- perspective
-- care
-- minimalism
-- effortless
-sources:
-- Living.md
-confidence: medium
----
+
 -
 # Living mental model
 
@@ -48,3 +26,5 @@ Living complements existing mental models in the wiki by framing life itself as 
 
 - [[effortless-greg-mckeown]]
 ---
+
+See also: [[effortless]]

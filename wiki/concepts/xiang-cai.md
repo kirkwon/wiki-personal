@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 湘菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- sichuan-cuisine
-- chengdu-vs-chongqing
-- chinese-regional-cuisines
----
+
 -
 # 湘菜
 
@@ -41,3 +25,9 @@ related:
 ## 与川菜的区别
 川菜以花椒麻味为特色，湘菜以新鲜辣椒的烈辣为主，两者辣度难以直接比较。
 ---
+
+See also: [[sichuan-cuisine]]
+
+See also: [[chengdu-vs-chongqing]]
+
+See also: [[chinese-regional-cuisines]]

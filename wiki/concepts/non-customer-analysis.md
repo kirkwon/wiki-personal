@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Non-Customer Analysis
-description: "Non-Customer Analysis"
-created: 2026-05-03
-updated: 2026-05-11
-tags:
-- strategy
-- business
-- marketing
-- market-research
-- mental-models
-sources:
-- blue-ocean-strategy
-- Non-Customer Analysis
-related: [blue-ocean-strategy, six-paths-framework, strategic-sequence, value-innovation, opportunities, strategic-vs-reactive-thinking]
----
+
 # Non-Customer Analysis
 
 **Non-customer analysis** is the systematic process of identifying and targeting people who are not currently customers, arguing that unlocking new demand from non-customers is more valuable than stealing share from existing competitors. Most growth comes from non-customers rather than existing customers. The method examines three tiers of non-customers:
@@ -32,3 +15,5 @@ By understanding why these groups refuse or avoid the industry, companies can id
 - [[opportunities]] – Non-customers as a source of new opportunities
 - [[strategic-sequence]] – Ensuring non-customer demand translates to commercial viability
 - [[strategic-vs-reactive-thinking]] – Proactive demand creation rather than competing for existing customers
+
+See also: [[value-innovation]]

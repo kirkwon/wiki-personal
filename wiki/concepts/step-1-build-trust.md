@@ -1,17 +1,5 @@
----
+Sources: [[the-five-dysfunctions-of-a-team]]
 
-date: 2026-05-03
-type: concept
-title: 'Step 1: Build Trust'
-description: "Step 1: Build Trust | concept | management, team-dynamics, prescriptive."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- management
-- team-dynamics
-- prescriptive
-sources:
-- the-five-dysfunctions-of-a-team
-- 'Step 1: Build Trust'
-related: [absence-of-trust, building-a-cohesive-team, the-five-dysfunctions-of-a-team]
----
+See also: [[absence-of-trust]]
+
+See also: [[building-a-cohesive-team]]

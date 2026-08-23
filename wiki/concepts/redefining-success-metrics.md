@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Redefining Success Metrics
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- business
-- metrics
-- capitalism
-- sustainability
-sources:
-- Adrift - Scott Galloway.md
-related:
-- responsible-capitalism
-- b-corporations
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - scott-galloway
 ---
 -
@@ -37,3 +21,5 @@ Related to [[how-the-economic-machine-works---ray-dalio]] on how economic system
 ## Source
 ^[Adrift - Scott Galloway.md]
 ---
+
+See also: [[how-the-economic-machine-works]]

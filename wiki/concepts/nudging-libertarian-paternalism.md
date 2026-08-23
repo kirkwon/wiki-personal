@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Nudging / Libertarian Paternalism
-description: "Nudging / Libertarian Paternalism"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- behavioral-economics
-- public-policy
-- decision-making
-sources:
-- the-winners-curse
-- Nudging / Libertarian Paternalism
-related: [ethical-design-manipulation-question, framing-effects, choice-overload, decision-making-frameworks]
----
+
 # Nudging / Libertarian Paternalism
 
 Libertarian paternalism (or nudging) is a policy design approach that preserves freedom of choice while steering people toward better decisions through choice architecture—the design of how options are presented. Default options, information framing, and simplified decision environments can significantly improve outcomes without restricting choice.
@@ -35,3 +20,9 @@ Libertarian paternalism (or nudging) is a policy design approach that preserves 
 ## Tensions
 
 Thaler acknowledges limitations: nudging conflicts with personal and cultural values around autonomy, the cost of interventions may exceed benefits, and some contexts require rapid adaptation where systematic analysis would slow response. This connects to [[ethical-design-manipulation-question]]—the tension between empowering habits and exploitative manipulation.
+
+See also: [[framing-effects]]
+
+See also: [[choice-overload]]
+
+See also: [[decision-making-frameworks]]

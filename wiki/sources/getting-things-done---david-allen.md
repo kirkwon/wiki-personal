@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Getting Things Done - David Allen
-description: "Getting Things Done - David Allen"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- productivity
-- books
-- decision-making
-sources:
-- getting-things-done
-- Getting Things Done - David Allen
----
+
 # Getting Things Done - David Allen
 
 David Allen's *Getting Things Done* (2024) presents a comprehensive productivity methodology centered on capturing, clarifying, organizing, reviewing, and engaging with tasks. The book argues that people are overwhelmed not by too much work but by poorly managed commitments and lack of clear organizational systems. Stress stems from "open loops"—unprocessed commitments stored in memory—externalizing which frees cognitive resources.
@@ -24,3 +10,5 @@ Key chapters cover understanding tasks, capturing ideas systematically, converti
 The book emphasizes that effective systems must be personalized—rigid methods fail because they don't fit individual preferences and lifestyles. Continuous improvement through small changes is more sustainable than radical overhauls.
 
 ^[raw/articles/getting-things-done---david-allen.md]
+
+Sources: [[getting-things-done]]

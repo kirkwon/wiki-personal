@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Risk Dashboard
-description: "A portfolio-level monitoring tool providing a real-time overview of aggregate risk levels, trends, and action items across risk categories."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- risk-management
-- real-estate
-- investment-risk
-- monitoring
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- risk-register
-- key-risk-indicators
-- risk-matrix
----
+
 --
 # Risk Dashboard
 
@@ -32,3 +12,9 @@ A portfolio-level monitoring tool providing a real-time overview of aggregate ri
 
 ## Monitoring Frequency
 Daily (cash flow, rent collection), weekly (occupancy, maintenance), monthly (financial performance, market indicators), quarterly (portfolio review, strategic assessment), annually (comprehensive risk assessment, planning).
+
+See also: [[risk-register]]
+
+See also: [[key-risk-indicators]]
+
+See also: [[risk-matrix]]

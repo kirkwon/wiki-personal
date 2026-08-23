@@ -1,25 +1,4 @@
----
-date: 2026-06-29
 
-type: source
-title: "Optimal Investment Strategies under Stochastic Volatility – Estimation and Applications"
-authors: "Carl Chiarella and Chih-Ying Hsiao"
-institution: "UTS Quantitative Finance Research Centre"
-paper_id: "Research Paper 276"
-url: "https://www.uts.edu.au/globalassets/sites/default/files/qfr-archive-03/QFR-rp276.pdf"
-published: 2010-05
-tags:
-  - stochastic-volatility
-  - optimal-investment
-  - heston-model
-  - cev-process
-  - kalman-filter
-  - portfolio-optimization
-  - intertemporal-hedging
-related:
-  - factors
-  - factor-investing
----
 
 # Optimal Investment Strategies under Stochastic Volatility – Estimation and Applications
 
@@ -76,3 +55,7 @@ Three stochastic volatility models are compared for optimal portfolio constructi
 - Merton (1971, 1973) — intertemporal CAPM and continuous-time portfolio theory
 - Cox, Ingersoll & Ross (1985) — CIR process theory
 - Rust (1996) — numerical DP via Markov chain approximation
+
+See also: [[factors]]
+
+See also: [[factor-investing]]

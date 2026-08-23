@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Bond Duration
-description: "A measure of a bond's price sensitivity to interest rate changes."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- bonds
-- investing
-- metrics
-- risk
-sources:
-- Financial Reporting Templates.md
-related:
-- bond-investment-template
-- yield-to-maturity
-- financial-reporting-templates
----
+
 --
 # Bond Duration
 
@@ -25,3 +7,7 @@ A measure of a bond's price sensitivity to interest rate changes. Higher duratio
 ## Usage
 
 Tracked in the [[bond-investment-template]] alongside YTM, coupon rate, and credit rating. Helps investors assess interest rate risk in their bond portfolio.
+
+See also: [[yield-to-maturity]]
+
+See also: [[financial-reporting-templates]]

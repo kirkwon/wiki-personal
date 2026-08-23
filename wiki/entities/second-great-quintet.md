@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Second Great Quintet
-description: "--
-Second Great Quintet"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- musicians
-- improvisation
-sources:
-- miles-davis.md
-related:
-- miles-davis
-- herbie-hancock
-- wayne-shorter
-- ron-carter
-- tony-williams
-- nefertiti
-- esp
----
+
 --
 # Second Great Quintet
 
@@ -38,3 +16,7 @@ The Second Great Quintet was Miles Davis's innovative small group active from 19
 - *Miles in the Sky* (1968)
 
 The ensemble is considered to represent the peak of harmonic complexity in jazz.^[raw/articles/miles-davis.md]
+
+See also: [[miles-davis]]
+
+See also: [[nefertiti]]

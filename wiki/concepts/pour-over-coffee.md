@@ -1,27 +1,4 @@
----
-created: 2026-04-24
-sources:
-- Pour Over.md
-- french-press-coffee-法压壶咖啡
-tags:
-- coffee
-- brewing
-- technique
-- equipment
-- beverages
-date: 2026-04-24
-title: Pour Over Coffee
-type: concept
-updated: 2026-05-09
-related:
-- french-press-coffee-法压壶咖啡
-- arabica-coffee-coffea-arabica
-- coffee-roasting-咖啡烘焙
-- coffee-bean-processing-咖啡豆处理
-- coffee
-- bloom-technique-闷蒸技术
-- immersion-brewing-浸泡式萃取
----
+
 -
 # Pour Over Coffee
 
@@ -404,3 +381,7 @@ By Brew Time:
 
 ---
 *Pour over coffee preparation page created: 2026-04-21*
+
+Sources: [[french-press-coffee-法压壶咖啡]]
+
+See also: [[coffee]]

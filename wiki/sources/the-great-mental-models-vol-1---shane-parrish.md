@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The Great Mental Models (Vol. 1) - Shane Parrish
-description: "The Great Mental Models (Vol. 1) - Shane Parrish"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- mental-models
-- decision-making
-- cognitive-science
-sources:
-- the-great-mental-models-vol-1
-- The Great Mental Models (Vol. 1) - Shane Parrish
----
+
 # The Great Mental Models (Vol. 1) - Shane Parrish
 
 ## Overview
@@ -57,3 +42,5 @@ Examines how mental models shape approaches to innovation, highlighting impact o
 ## Connection to Wiki
 This source connects to [[decision-making-frameworks]], [[cognitive-biases-library]], [[thinking-fast-and-slow---daniel-kahneman]], [[dual-process-theory]], [[overconfidence-and-certainty]], [[problem-solving]], and [[the-five-dysfunctions-of-a-team]].
 ^[raw/articles/the-great-mental-models-vol-1---shane-parrish.md]
+
+Sources: [[the-great-mental-models-vol-1]]

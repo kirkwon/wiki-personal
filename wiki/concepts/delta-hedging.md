@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Delta Hedging
-description: "Delta Hedging είναι η χρήση του delta για τη μέτρηση της έκθεσης σε μετοχές μέσω options. Ο delta δείχνει πόσα shares απαιτούνται για να hedging το position."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-- risk-management
-sources:
-- Options Trading.md
-related:
-- options-trading
-- the-greeks
-- risk-management
-- position-sizing
----
+
 --
 # Delta Hedging
 
@@ -35,3 +16,5 @@ Hedge ratio — ο αριθμός των μετοχών που απαιτούν�
 - [[the-greeks]]
 - [[options-trading]]
 - [[risk-management]]
+
+See also: [[position-sizing]]

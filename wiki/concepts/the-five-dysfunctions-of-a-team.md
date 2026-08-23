@@ -1,17 +1,19 @@
----
+Sources: [[the-five-dysfunctions-of-a-team]]
 
-date: 2026-05-03
-type: concept
-title: The Five Dysfunctions of a Team
-description: "Trust, conflict, commitment, accountability, and results define effective teamwork dynamics."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- management
-- team-dynamics
-sources:
-- the-five-dysfunctions-of-a-team
-- The Five Dysfunctions of a Team
-related: [absence-of-trust, fear-of-conflict, lack-of-commitment, avoidance-of-accountability, inattention-to-results, building-a-cohesive-team, decisions-in-teams, group-decision-polarization, building-a-decision-culture]
----
+See also: [[absence-of-trust]]
+
+See also: [[fear-of-conflict]]
+
+See also: [[lack-of-commitment]]
+
+See also: [[avoidance-of-accountability]]
+
+See also: [[inattention-to-results]]
+
+See also: [[building-a-cohesive-team]]
+
+See also: [[decisions-in-teams]]
+
+See also: [[group-decision-polarization]]
+
+See also: [[building-a-decision-culture]]

@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: BBQ Techniques
-description: "Core BBQ techniques center on low-and-slow smoking, dry rub application, and regional variations in finishing methods."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cuisine
-- american
-- barbecue
-- cooking
-- technique
-sources:
-- bbq-regions.md
-related:
-- bbq-regions
-- texas-bbq
-- kansas-city-bbq
-- carolina-bbq
-- memphis-bbq
-- american-bbq-philosophy
----
+
 --
 # BBQ Techniques
 
@@ -49,3 +27,15 @@ A Kansas City specialty: the fatty point of the brisket is cubed, resmoked with 
 - Using too much sauce (let meat shine; sauce is optional)
 - Not trimming brisket fat cap (trim to 1/4 inch for proper rendering)
 ^[raw/articles/bbq-regions.md]
+
+See also: [[bbq-regions]]
+
+See also: [[texas-bbq]]
+
+See also: [[kansas-city-bbq]]
+
+See also: [[carolina-bbq]]
+
+See also: [[memphis-bbq]]
+
+See also: [[american-bbq-philosophy]]

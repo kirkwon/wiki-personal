@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Reframing Adversity
-description: "Reframing adversity is the cognitive practice of viewing obstacles, setbacks, and difficulties not as impediments but as the very means through which growth and success are achieved."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- resilience
-- mental-models
-sources:
-- the-obstacle-is-the-way
-- Reframing Adversity
-related: [the-obstacle-is-the-way-ryan-holiday, stoicism-as-a-framework, embracing-failure-for-personal-growth, growth-mindset, science-of-joy]
----
+
 # Reframing Adversity
 
 Reframing adversity is the cognitive practice of viewing obstacles, setbacks, and difficulties not as impediments but as the very means through which growth and success are achieved. This concept is central to Stoic philosophy and modern resilience research.
@@ -33,3 +18,7 @@ Ryan Holiday's *The Obstacle Is the Way* operationalizes this through chapters o
 
 ## Related to Decision-Making
 Reframing adversity extends [[decision-making-under-uncertainty]] by adding a perceptual dimension — how you frame a situation before deciding how to act shapes the quality of your response.
+
+Sources: [[the-obstacle-is-the-way]]
+
+See also: [[the-obstacle-is-the-way-ryan-holiday]]

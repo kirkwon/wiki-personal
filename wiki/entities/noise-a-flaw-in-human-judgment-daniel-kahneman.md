@@ -1,16 +1,4 @@
----
 
-
-date: 2026-04-29
-type: entity
-title: "Noise: A Flaw in Human Judgment"
-created: 2026-04-29
-updated: 2026-04-29
-tags: [books, cognitive-science, decision-making]
-sources: ["Variability.md"]
-related: [variability, noise-judgment-variability, thinking-fast-and-slow]
-
----
 # Noise: A Flaw in Human Judgment
 
 *Noise: A Flaw in Human Judgment* is a book by Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein that examines the role of variability—called "noise"—in human judgment and decision-making.
@@ -25,3 +13,9 @@ related: [variability, noise-judgment-variability, thinking-fast-and-slow]
 
 This work provides the Kahneman-side perspective on variability: while *Thinking, Fast and Slow* focused on cognitive biases (systematic errors), *Noise* addresses random variability in judgment, complementing Taleb's antifragility framing of variability as generative.
 ---
+
+See also: [[variability]]
+
+See also: [[noise-judgment-variability]]
+
+See also: [[thinking-fast-and-slow]]

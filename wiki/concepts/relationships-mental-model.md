@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Relationships Mental Model
-description: "--
-Relationships Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- productivity
-- general
-sources:
-- Relationships.md
-related:
-- thinking-mental-model
-- solutions-mental-model
-- personal-knowledge-vault
-- decision-making-frameworks
-- group
-- trust-fundamentals
-- building-a-cohesive-team
-- principles---ray-dalio
+ray-dalio
 - the-8th-habit-from-effectiveness-to-greatness-stephen-r-covey
 - ego-is-the-enemy-ryan-holiday
 - the-algebra-of-happiness-scott-galloway
@@ -66,3 +43,7 @@ The model is described as universal—applicable across all domains of life and 
 - [[group]]
 - [[trust-fundamentals]]
 - [[personal-knowledge-vault]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[principles]]

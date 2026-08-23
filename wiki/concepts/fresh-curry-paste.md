@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Fresh Curry Paste (พริกแกงจากของสด)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking-techniques
-- gastronomy
-- thai-cuisine
-sources:
-- curry-varieties.md
-related:
-- aromatics
-- wok-hei
-- flavor-theory
-- thai-curry-varieties
----
+
 -
 # พริกแกงจากของสด
 
@@ -43,3 +26,7 @@ related:
 เทียบได้กับ [[wok-hei]] ในเรื่องความสำคัญของการรีดอาหาร เทียบได้กับ [[aromatics]] ในเรื่องส่วนประกอบหอม
 
 ---
+
+See also: [[flavor-theory]]
+
+See also: [[thai-curry-varieties]]

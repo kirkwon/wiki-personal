@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Message
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- communication
-- pattern-recognition
-sources:
-- Message.md
-related:
-- ideas-mental-model
-- thinking-mental-model
-- communication-skills
-- supercommunicators-charles-duhigg
-- the-infinite-game---simon-sinek
+simon-sinek
 ---
 -
 # Message
@@ -45,3 +28,5 @@ Message connects to several existing mental models in the wiki:
 
 - [[find-your-why-simon-sinek]]
 ---
+
+See also: [[the-infinite-game]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Altered Scale
-description: "Alterert skala brukes over altererte dominante 7. akkorder."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- harmony
-- scales
-related:
-- jazz-harmony
-- music-theory-fundamentals
-sources:
-- jazz-harmony.md
----
+
 --
 # Altered Scale
 
@@ -36,3 +20,5 @@ Alterert skala gir maksimal spenning over en alterert dominant akkord og løser 
 - [[jazz-harmony]]
 - [[altered-chords]]
 - [[modes]]
+
+See also: [[music-theory-fundamentals]]

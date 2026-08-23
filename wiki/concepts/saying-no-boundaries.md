@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Saying No and Boundary Management
-description: "-
-Saying No and Boundary Management"
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- productivity
-- decision-making
-- communication
-- mental-models
-sources:
-- Slow Productivity - Cal Newport.md
-- Effortless - Greg McKeown.md
-related:
-- slow-productivity ---cal-newport
+cal-newport
 - decision-making-frameworks
 - building-a-decision-culture
 - time-management-matrix
@@ -63,3 +46,5 @@ Saying no is fundamentally a decision-making practice. It connects to [[decision
 - [[prioritization-effortless]]
 - [[delegation-productivity]]
 - [[communication-skills]]
+
+See also: [[slow-productivity]]

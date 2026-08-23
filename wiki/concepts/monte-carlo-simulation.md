@@ -1,22 +1,4 @@
----
-date: 2026-04-22
-type: concept
-title: Monte Carlo Simulation
-description: "--
-Monte Carlo Simulation"
-created: 2026-04-22
-updated: 2026-04-22
-tags:
-- risk-management
-- investment-risk
-- quantitative-analysis
-related:
-- risk-assessment-framework
-- value-at-risk-var
-- stress-testing-investments
-sources:
-- Risk Assessment Framework.md
----
+
 --
 # Monte Carlo Simulation
 
@@ -44,3 +26,7 @@ A computational technique that models investment outcomes by running thousands o
 - Determining appropriate hedging levels
 
 Monte Carlo simulation extends [[value-at-risk-var]] by providing full outcome distributions rather than single-point estimates.
+
+See also: [[risk-assessment-framework]]
+
+See also: [[stress-testing-investments]]

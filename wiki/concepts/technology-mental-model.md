@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Technology as Mental Model
-description: "--
-Technology as Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- technology
-- mental-model
-- minimalism
-related:
-- minimalism
-- attention-budget
-- scatterfocus
-- hyperfocus
-- stillness
-- settings
-- environment
-sources:
-- Technology.md
-confidence: medium
----
+
 --
 # Technology as Mental Model
 
@@ -39,3 +16,5 @@ Kevin Kelly's [[Out-of-Control---Kevin-Kelly]] reframes technology as emergent a
 
 ## Applicability
 This mental model is universal, applicable across domains from personal productivity to organizational strategy. Its confidence rating is moderate (0.7), reflecting that the framework is still forming and may overlap with existing concepts like [[minimalism]], [[settings]], and [[environment]].
+
+See also: [[hyperfocus]]

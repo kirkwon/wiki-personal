@@ -1,32 +1,4 @@
----
-date: 2026-06-27
-type: architecture-doc
-title: Knowledge Ingestion & Processing Architecture
-status: canonical
-created: '2026-06-27T00:00:00.000Z'
-related:
-  - agent-self-organization-architecture
-  - babeltele-compressed-llm-representations
-  - concepts/academic-paper-library
-  - concepts/ai-ml-research-papers
-updated: '2026-06-27T00:00:00.000Z'
-supersedes:
-  - infographic/pipeline-architecture/structured-content-backup-20260510_031524
-  - infographic/knowledge-ecosystem/structured-content
-  - infographic/system-map/structured-content
-ingested_via: put_page
-ingested_at: '2026-06-28T05:42:35.852Z'
-source_kind: put_page
-tags:
-  - gbrain
-  - ingestion
-  - knowledge-architecture
-  - llm-wiki
-  - media-pipeline
-  - notebooklm
-  - pipeline
-  - processing
----
+
 
 # Knowledge Ingestion & Processing Architecture
 
@@ -440,3 +412,9 @@ This architecture connects to the broader knowledge ecosystem:
 - **Sync to GBrain:** `gbrain put knowledge-ingestion-processing-architecture < this-file.md`.
 
 *Last reviewed: 2026-06-27.*
+
+See also: [[agent-self-organization-architecture]]
+
+See also: [[babeltele-compressed-llm-representations]]
+
+See also: [[concepts/academic-paper-library]]

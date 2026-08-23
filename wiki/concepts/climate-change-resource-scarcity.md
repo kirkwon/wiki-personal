@@ -1,17 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Climate Change and Resource Scarcity
-description: "--
-Climate Change and Resource Scarcity"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- geopolitics
-- economics
-- environment
-related:
-- principles-for-dealing-with-the-changing-world-order---ray-dalio
+ray-dalio
 - scenario-planning
 - decision-making-under-uncertainty
 sources:
@@ -33,3 +20,5 @@ Dalio identifies climate change and resource scarcity as increasingly impactful 
 
 The intersection of environmental pressures with economic cycles extends the wiki's existing frameworks in [[decision-making-under-uncertainty]] and [[real-options-analysis]] by introducing long-term systemic risk factors that operate on different timescales than financial markets.
 ^[raw/articles/principles-for-dealing-with-the-changing-world-order---ray-dalio.md]
+
+See also: [[principles-for-dealing-with-the-changing-world-order]]

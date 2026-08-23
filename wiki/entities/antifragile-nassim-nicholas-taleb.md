@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Antifragile - Nassim Nicholas Taleb
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- mental-models
-- risk-analysis
-sources:
-- Variability.md
-related:
-- variability
-- antifragility
-- nassim-nicholas-taleb
-- black-swan-events
----
+
 -
 # Antifragile - Nassim Nicholas Taleb
 
@@ -31,3 +14,11 @@ related:
 
 This work provides the Taleb-side perspective on variability: rather than treating disorder as noise or error, Taleb argues that some systems and strategies gain from variability, offering a positive framing that complements Kahneman's cautionary perspective.
 ---
+
+See also: [[variability]]
+
+See also: [[antifragility]]
+
+See also: [[nassim-nicholas-taleb]]
+
+See also: [[black-swan-events]]

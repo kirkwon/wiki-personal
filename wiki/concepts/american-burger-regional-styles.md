@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: American Burger Regional Styles
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- american-cuisine
-- burger
-- gastronomy
-- regional
-sources:
-- burgers.md
-related:
-- americana-burgers
-- smash-burger
-- jucy-lucy
-- slinger-burger
----
+
 -
 # American Burger Regional Styles
 
@@ -44,3 +26,5 @@ Chili, jajka, frytki na burgerze. St. Louis. [[slinger-burger]]
 Mimo różnic regionalnych, idealny burger wymaga: 15-20% tłuszczu w mięsie, odpowiedniego przyprawiania (sól!), opieczonej bułki chroniącej przed sokami, i wysokotemperaturowego smażenia dla [[maillard-reaction]].
 ---
 ^raw/articles/burgers.md
+
+See also: [[americana-burgers]]

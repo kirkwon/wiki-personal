@@ -1,17 +1,11 @@
----
+Sources: [[the-wisdom-of-crowds]]
 
-date: 2026-05-03
-type: concept
-title: Wisdom of Crowds
-description: "Collective intelligence surpasses individual insight; diverse opinions yield superior group decisions."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- cognitive-science
-- mental-models
-sources:
-- the-wisdom-of-crowds
-- Wisdom of Crowds
-related: [decision-making-frameworks, group-decision-polarization, decision-making-under-uncertainty, information-cascades, diversity-in-decision-making]
----
+See also: [[decision-making-frameworks]]
+
+See also: [[group-decision-polarization]]
+
+See also: [[decision-making-under-uncertainty]]
+
+See also: [[information-cascades]]
+
+See also: [[diversity-in-decision-making]]

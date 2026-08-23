@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Cash-Secured Puts
-description: "A cash-secured put strategy involves selling put options while setting aside cash to purchase the underlying stock if assigned."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- options
-- options-trading
-- income-generation
-sources:
-- Options Trading Guide.md
-related:
-- options-fundamentals
-- covered-calls
-- options-for-retirement-planning
-- credit-spreads
-- theta-time-decay
-- options-position-sizing
----
+
 --
 # Cash-Secured Puts
 
@@ -56,3 +34,11 @@ A cash-secured put strategy involves selling put options while setting aside cas
 - Need to maintain sufficient cash reserves
 
 Cash-secured puts complement [[covered-calls]] as a conservative income strategy and integrate with [[options-position-sizing]].
+
+See also: [[options-fundamentals]]
+
+See also: [[options-for-retirement-planning]]
+
+See also: [[credit-spreads]]
+
+See also: [[theta-time-decay]]

@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: The Algebra of Wealth
-description: "--
-The Algebra of Wealth"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- wealth-building
-- career
-- investing
-- focus
-- stoicism
-sources:
-- The Algebra of Wealth.md
-related:
-- the-psychology-of-money
-- the-index-card-rules
-- i-will-teach-you-to-be-rich
-- career-strategy
-- personal-finance
----
+
 --
 # The Algebra of Wealth
 
@@ -63,3 +40,13 @@ Lifestyle Inflation, Vergleichsfalle, Marktzeitung, Ignorieren von Gebühren, Si
 
 ## Schlüsselerkenntnisse
 Fokus bestimmt das Einkommen, Stoizismus schützt den Wohlstand, Zeit vervielfacht alles, Diversifikation reduziert Risiken. Konsistenz über Jahrzehnte schlägt Intensität über Monate.
+
+See also: [[the-psychology-of-money]]
+
+See also: [[the-index-card-rules]]
+
+See also: [[i-will-teach-you-to-be-rich]]
+
+See also: [[career-strategy]]
+
+See also: [[personal-finance]]

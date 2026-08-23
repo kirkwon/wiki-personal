@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Libertarian Paternalism
-description: "Libertarian Paternalism"
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- behavioral-economics
-- decision-making
-- policy
-- ethics
-- public-policy
-- cognitive-bias
-sources:
-- Nudge.md
-- Nudge - Richard H. Thaler & Cass R. Sunstein.md
-- The Winner's Curse - Richard Thaler.md
-related:
-- nudge
-- choice-architecture
-- framing-effects
-- nudge ---richard-h-thaler-cass-r-sunstein
+richard-h-thaler-cass-r-sunstein
 - default-effects
 - ethics-and-decision-making
 - freedom-vs-control
@@ -69,3 +47,5 @@ Critics raise concerns about manipulation, the assumption that designers know wh
 ## Relation to Other Concepts
 
 Libertarian paternalism sits at the intersection of [[choice-architecture]], [[default-effects]], and [[framing-effects]]. It also relates to the [[environment]] mental model, since it is fundamentally about shaping contexts rather than controlling individuals. It connects to [[decision-culture]] (organizational environments supporting better decisions), [[default-options]] (the power of defaults in choice architecture), [[the-winner-s-curse-richard-thaler]], [[mental-accounting]], and [[fairness-and-social-norms]].
+
+See also: [[nudge]]

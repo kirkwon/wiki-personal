@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Nachos
-description: "Los nachos son un aperitivo clásico de la cocina Tex-Mex, considerado su invención legendaria."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- tex-mex
-- appetizer
-sources:
-- tex-mex.md
-related:
-- tex-mex
-- chili-con-queso
-- mission-burrito
----
+
 --
 # Nachos
 
@@ -40,3 +23,9 @@ Según la leyenda, fueron creados en 1943 por Ignacio "Nacho" Anaya para esposas
 5. Servir inmediatamente
 
 Los nachos representan la esencia del Tex-Mex: tortillas, queso fundido y rellenos simples como la magia del comfort food.
+
+See also: [[tex-mex]]
+
+See also: [[chili-con-queso]]
+
+See also: [[mission-burrito]]

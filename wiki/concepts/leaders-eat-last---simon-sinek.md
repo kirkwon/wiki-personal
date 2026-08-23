@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Leaders Eat Last - Simon Sinek
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- leadership
-- mental-model
-sources:
-- Organization.md
-related:
-- organization-mental-model
-- the-infinite-game---simon-sinek
+simon-sinek
 - the-five-dysfunctions-of-a-team
 ---
 -
@@ -37,3 +23,5 @@ Sinek's emphasis on how leadership and culture shape organizational patterns and
 - [[the-infinite-game---simon-sinek]]
 - [[the-five-dysfunctions-of-a-team]]
 ---
+
+See also: [[the-infinite-game]]

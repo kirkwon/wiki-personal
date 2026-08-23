@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 大吉岭茶冲泡指南
-description: "西方冲泡法
-- 器具：瓷质茶壶或马克杯
-- 水温：200-212°F（93-100°C）
-- 时间：3-4分钟
-- 比例：每8盎司水1茶匙
-- 多泡：2-3次"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- darjeeling
-- brewing
-related:
-- darjeeling-tea
-- 茶叶冲泡
-sources:
-- Darjeeling Tea.md
----
+
 --
 # 大吉岭茶冲泡指南
 
@@ -54,3 +33,5 @@ sources:
 - 浸泡时间过短导致风味不足
 - 使用自来水中的氯会影响口感
 - 应使用过滤水冲泡
+
+See also: [[darjeeling-tea]]

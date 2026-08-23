@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Modal Interchange
-description: "Modal utveksling innebærer å låne akkorder fra parallelldur eller parallellmoll for å skape interessante harmoniske variasjoner."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- harmony
-- chords
-related:
-- jazz-harmony
-- music-theory-fundamentals
-- modes
-sources:
-- jazz-harmony.md
----
+
 --
 # Modal Interchange
 
@@ -34,3 +17,5 @@ Lånede akkorder brukes til å skape overraskelse, spenning og koloristiske effe
 ## Relatert
 - [[jazz-harmony]]
 - [[modes]]
+
+See also: [[music-theory-fundamentals]]

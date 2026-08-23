@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Reasonable vs. Rational Decisions
-description: "--
-Reasonable vs. Rational Decisions"
-created: 2026-04-29
-updated: 2026-05-09
-tags:
-- personal-finance
-- decision-making
-- psychology
-- behavioral-finance
-sources:
-- The Psychology of Money.md
-related:
-- decision-quality-vs-outcome-quality
-- expected-value-ev
-- systematic-decision-making
-- decision-making-under-uncertainty
-- margin-of-safety-financial
----
+
 --
 # Reasonable vs. Rational Decisions
 
@@ -54,3 +33,5 @@ This connects to [[decision-quality-vs-outcome-quality]] by emphasizing that pro
 ## See Also
 
 [[behavioral-finance]] | [[margin-of-safety-financial]] | [[decision-quality-vs-outcome-quality]]
+
+See also: [[decision-making-under-uncertainty]]

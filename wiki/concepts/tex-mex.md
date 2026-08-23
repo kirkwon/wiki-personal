@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Tex-Mex
-description: "La cocina Tex-Mex es una tradición de comida reconfortante americana nacida de la cultura Tejano, es decir, texanos de descendencia mexicana."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- gastronomy
-- american
-- tex-mex
-- mexican-fusion
-- cuisine
-- comfort-food
-- technique
-sources:
-- tex-mex.md
-related:
-- bbq-regions
-- american-cuisine
-- herbs-spices
-- cumin-cuminum-cyminum
-- nachos
-- mission-burrito
-- mexican-cuisine
-- chili-con-queso
-- refried-beans
----
+
 --
 # Tex-Mex
 
@@ -101,3 +74,15 @@ Burrito grande de tortilla de harina con arroz, frijoles, carne, queso, salsa, c
 
 - "The Tex-Mex Cookbook" de Robb Walsh
 - "The Tex-Mex Grill" de Reed Hearon
+
+See also: [[bbq-regions]]
+
+See also: [[american-cuisine]]
+
+See also: [[herbs-spices]]
+
+See also: [[cumin-cuminum-cyminum]]
+
+See also: [[mexican-cuisine]]
+
+See also: [[refried-beans]]

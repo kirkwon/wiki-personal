@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Grantor Trust Status
-description: "--
-Grantor Trust Status"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- tax-planning
-sources:
-- Trusts Guide.md
-related:
-- intentionally-defective-grantor-trust-idgt
-- irrevocable-trusts
-- trusts-guide
----
+
 --
 # Grantor Trust Status
 
@@ -38,3 +19,7 @@ An IRS classification where the grantor of a trust is treated as the owner of tr
 - Long-term holding strategy for appreciated assets
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[intentionally-defective-grantor-trust-idgt]]
+
+See also: [[irrevocable-trusts]]

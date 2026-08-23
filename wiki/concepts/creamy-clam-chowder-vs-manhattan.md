@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Creamy Clam Chowder vs Manhattan Chowder
-description: "--
-Creamy Clam Chowder vs Manhattan Chowder"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- seafood
-- soup
-- american
-- cuisine
-related:
-- new-england-seafood
-- southern-soul-food
-- soup-culture
-sources:
-- new-england-seafood.md
----
+
 --
 # Creamy Clam Chowder vs Manhattan Chowder
 
@@ -38,3 +19,9 @@ New England clam chowder is a creamy, white chowder made with quahogs, potatoes,
 - Same clams and potatoes but with a reddish tint
 
 This distinction is central to New England seafood identity, as noted in the comparison with other regional seafood traditions.
+
+See also: [[new-england-seafood]]
+
+See also: [[southern-soul-food]]
+
+See also: [[soup-culture]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 花椒（Sichuan Peppercorns）
-description: "--
-花椒（Sichuan Peppercorns，花椒）"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- sichuan
-- spices
-- ingredient
-sources:
-- mapo-tofu.md
-related:
-- má-là-flavor
-- mapo-tofu
-- sichuan-cuisine
-- cumin-cuminum-cyminum
----
+
 --
 # 花椒（Sichuan Peppercorns，花椒）
 
@@ -41,3 +21,5 @@ related:
 - [[má-là-flavor]] — 麻辣风味的核心成分
 - [[mapo-tofu]] — 经典应用
 - [[sichuan-cuisine]] — 四川菜系基础调味料
+
+See also: [[cumin-cuminum-cyminum]]

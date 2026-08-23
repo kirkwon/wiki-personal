@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Antifragile - Nassim Nicholas Taleb
-description: "--
-Antifragile - Nassim Nicholas Taleb"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- mental-model
-- philosophy
-sources:
-- Antifragility.md
-related:
-- nassim-nicholas-taleb
-- antifragility
-- skin-in-the-game
-- black-swan-events
-- the-black-swan---nassim-nicholas-taleb
+nassim-nicholas-taleb
 ---
 --
 # Antifragile - Nassim Nicholas Taleb
@@ -40,3 +21,11 @@ Taleb applies antifragility to investment strategy (avoiding debt, embracing opt
 ## Relation to Other Works
 
 This book builds on ideas from [[the-black-swan---nassim-nicholas-taleb]] and connects to [[skin-in-the-game---nassim-nicholas-taleb]].
+
+See also: [[nassim-nicholas-taleb]]
+
+See also: [[antifragility]]
+
+See also: [[skin-in-the-game]]
+
+See also: [[black-swan-events]]

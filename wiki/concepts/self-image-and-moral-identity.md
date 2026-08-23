@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Self-Image and Moral Identity
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- behavioral-economics
-- ethics
-- cognitive-science
-sources:
-- The (Honest) Truth About Dishonesty - Dan Ariely.md
-related:
-- the-honest-truth-about-dishonesty---dan-ariely
+dan-ariely
 - incremental-dishonesty-fudge-factor
 - cognitive-biases-library
 - decision-quality-vs-outcome-quality
@@ -34,3 +20,5 @@ How people's self-perception influences their honest behavior. Individuals maint
 - Intersects with [[cognitive-biases-library]] — self-serving biases in moral reasoning
 - Relevant to [[decision-quality-vs-outcome-quality]] — maintaining self-image can distort honest assessment of decisions
 ---
+
+See also: [[the-honest-truth-about-dishonesty]]

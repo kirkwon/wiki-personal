@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: チャーシュー (Chashu)
-description: "チャーシューはラーメンの必須トッピングであるブrais pork belly。醤油、酒、みりん、砂糖で長時間煮込み、柔らかく深い旨味を帯びた肉に仕上げる。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- cuisine
-- meat
-- braising
-- ingredient
-sources:
-- ramen.md
-related:
-- ramen
-- cantonese-cuisine
-- roast-duck
-- braising
----
+
 --
 # チャーシュー (Chashu)
 
@@ -42,3 +22,5 @@ related:
 - [[ramen]] — ラーメンの主要トッピング
 - [[roast-duck]] — もう一つの中式originの肉料理
 - [[braising]] — 製法の基本的な技法
+
+See also: [[cantonese-cuisine]]

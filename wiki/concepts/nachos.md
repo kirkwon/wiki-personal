@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Nachos
-description: "Los nachos son un aperitivo icónico de la cocina Tex-Mex, inventados en 1943 por Ignacio 'Nacho' Anaya en Piedras Negras, México."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- gastronomy
-- tex-mex
-- snack
-- appetizer
-sources:
-- tex-mex.md
-related:
-- tex-mex
-- ignacio-anaya
----
+
 --
 # Nachos
 
@@ -38,3 +21,7 @@ Según la leyenda, Nacho Anaya preparó papas fritas de tortilla con queso derre
 - Papas fritas de tortilla de maíz
 - Queso cheddar o americano derretido
 - Toppings opcionales: jalapeños, frijoles, carne, guacamole, crema ácida
+
+See also: [[tex-mex]]
+
+See also: [[ignacio-anaya]]

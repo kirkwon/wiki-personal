@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Vertical Spread
-description: "Vertical Spread είναι μια στρατηγική όπου αγοράζω option σε ένα strike και πωλώ option σε διαφορετικό strike με το ίδιο expiration."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-sources:
-- Options Trading.md
-related:
-- options-trading
-- bull-call-spread
-- bear-put-spread
-- risk-management
----
+
 --
 # Vertical Spread
 
@@ -43,3 +25,5 @@ Limited risk, leveraged directional bet.
 - [[options-trading]]
 - [[bull-call-spread]]
 - [[bear-put-spread]]
+
+See also: [[risk-management]]

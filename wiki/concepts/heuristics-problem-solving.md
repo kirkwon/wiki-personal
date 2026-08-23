@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-title: Heuristics Problem Solving
-type: concept
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-science
-- problem-solving
-- mental-models
-sources:
-- Thinking, Fast and Slow - Daniel Kahneman.md
-related:
-- system-1-vs-system-2-thinking
-- cognitive-biases-library
-- dual-process-theory
----
+
 -
 # Heuristics in Problem Solving
 
@@ -30,3 +14,5 @@ These heuristics are products of [[system-1-vs-system-2-thinking]] — System 1 
 
 Heuristics connect to [[generalization-in-problem-solving]] and [[analogy-in-problem-solving]] as forms of intuitive reasoning that can be powerful but imprecise.
 ---
+
+See also: [[dual-process-theory]]

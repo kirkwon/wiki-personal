@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Übermensch (Overman)
-description: "The Übermensch (Overman or Superman) is Nietzsche's vision of a future type of human being who creates new values beyond conventional good and evil."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- morality
-- values
-sources:
-- beyond-good-and-evil
-- Übermensch (Overman)
-related: [free-spirit-nietzsche, revaluation-of-all-values, will-to-power, death-of-god-nietzsche]
----
+
 # Übermensch (Overman)
 
 The Übermensch (Overman or Superman) is Nietzsche's vision of a future type of human being who creates new values beyond conventional good and evil. It appears in the final sections of *Beyond Good and Evil*.
@@ -28,3 +13,9 @@ The Übermensch (Overman or Superman) is Nietzsche's vision of a future type of 
 ## Relationship to Free Spirit
 
 The Übermensch is the ultimate expression of the [[free-spirit-nietzsche]] ideal — someone who has fully liberated themselves from conventional morality and creates life-affirming values. The Free Spirit is the intermediate type working toward this ideal.
+
+See also: [[revaluation-of-all-values]]
+
+See also: [[will-to-power]]
+
+See also: [[death-of-god-nietzsche]]

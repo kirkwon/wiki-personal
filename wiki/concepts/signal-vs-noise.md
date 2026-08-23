@@ -1,31 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Signal vs. Noise
-description: "Signal vs. Noise is a mental model for distinguishing meaningful patterns (signal) from randomness or irrelevant information (noise) in complex situations."
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- mental-model
-- decision-making
-- prediction
-- probability
-- statistics
-sources:
-- Uncertainty.md
-- Signal.md
-- Predictions.md
-confidence: medium
-related:
-- superforecasting
-- prediction-markets
-- biases
-- thinking-mental-model
-- probability-and-judgment-under-uncertainty
-- signal-mental-model
-- predictions
-- the-signal-and-the-noise
----
+
 --
 # Signal vs. Noise
 
@@ -73,3 +46,5 @@ Signal vs. noise is one of the primary tools for navigating uncertainty—it tel
 - [[overconfidence-and-certainty]]
 - [[predictions]]
 - [[the-signal-and-the-noise]]
+
+See also: [[signal-mental-model]]

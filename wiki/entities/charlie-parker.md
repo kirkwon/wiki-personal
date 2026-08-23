@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Charlie Parker
-description: "Charlie Parker (1920–1955) was an alto saxophonist who is widely regarded as one of the most influential musicians in jazz history."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- jazz
-- bebop
-- musicians
-sources:
-- bebop.md
-related:
-- bebop
-- jazz-harmony
-- miles-davis
----
+
 --
 # Charlie Parker
 
@@ -29,3 +11,9 @@ Parker was instrumental in developing the chord-based improvisation style that d
 ## Legacy
 
 Parker's influence extends far beyond bebop itself. His approach to melody, rhythm, and harmony shaped the trajectory of modern jazz and influenced countless saxophonists and improvisers.
+
+See also: [[bebop]]
+
+See also: [[jazz-harmony]]
+
+See also: [[miles-davis]]

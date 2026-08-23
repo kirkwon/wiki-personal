@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Intentionally Defective Grantor Trust (IDGT)
-description: "--
-Intentionally Defective Grantor Trust (IDGT)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- tax-planning
-sources:
-- Trusts Guide.md
-related:
-- grantor-trust-status
-- irrevocable-trusts
-- trusts-guide
----
+
 --
 # Intentionally Defective Grantor Trust (IDGT)
 
@@ -48,3 +29,7 @@ A trust that is defective for income tax purposes but not for estate tax purpose
 - Long-term holding strategy
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[grantor-trust-status]]
+
+See also: [[irrevocable-trusts]]

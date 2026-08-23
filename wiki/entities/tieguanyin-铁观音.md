@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 铁观音 (Tieguanyin)
-description: "铁观音 (Tieguanyin - Iron Goddess of Mercy)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- tea
-- oolong
-- chinese-cuisine
-- chinese
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- partial-oxidation-部分氧化
-- gongfu-brewing-功夫茶冲泡
-- tea-oxidation-茶叶氧化
-- gongfu-cha-功夫茶
----
+
 --
 
 # 铁观音 (Tieguanyin - Iron Goddess of Mercy)
@@ -43,3 +23,13 @@ related:
 - 水温：195-200°F（90-96°C）
 - 每泡时间：20-45秒（首泡20-30秒，后续可延至30-45秒）
 - 可冲泡6-8次，重点保留细腻花香
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[partial-oxidation-部分氧化]]
+
+See also: [[gongfu-brewing-功夫茶冲泡]]
+
+See also: [[tea-oxidation-茶叶氧化]]
+
+See also: [[gongfu-cha-功夫茶]]

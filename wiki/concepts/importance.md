@@ -1,29 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Importance
-description: "Importance is a universal mental model — a conceptual tool that helps people understand and navigate complex situations by providing a mental shortcut for recognizing patterns and relationships.^[raw/."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- productivity
-- leadership
-sources:
-- Importance.md
-related:
-- effort
-- passion
-- priorities
-- quadrant-2-focus
-- decision-making-frameworks
-- systematic-decision-making
-- grit-concept
-- the-index-card-rules
-- mental-models
-confidence: medium
----
+
 --
 # Importance
 
@@ -71,3 +46,11 @@ Importance relates to several existing mental models in the wiki:
 ## Confidence
 
 Medium (0.7). The model has broad cross-source support but remains somewhat abstract. Further development with concrete applications would strengthen its utility.^[raw/articles/Importance.md]
+
+See also: [[passion]]
+
+See also: [[systematic-decision-making]]
+
+See also: [[the-index-card-rules]]
+
+See also: [[mental-models]]

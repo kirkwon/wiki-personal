@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Put First Things First
-description: "Put First Things First"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- mental-models
-- decision-making
-sources:
-- the-7-habits-of-highly-effective-people
-- Put First Things First
-related: [time-management-matrix, quadrant-2-focus, begin-with-the-end-in-mind]
----
+
 # Put First Things First
 
 This habit focuses on prioritizing tasks based on importance rather than urgency. Covey introduces the Time Management Matrix, which classifies activities into four quadrants based on their importance and urgency.
@@ -31,3 +16,5 @@ This habit directly connects to [[time-management-matrix]] and [[quadrant-2-focu
 ## Source
 
 [[the-7-habits-of-highly-effective-people---stephen-r-covey]] - Stephen R. Covey
+
+Sources: [[the-7-habits-of-highly-effective-people]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Individuals Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-related:
-- thinking-mental-model
-- effort
-- perspective
-- humanity
-- management
-- biases
-- decision-making-frameworks
-sources:
-- Individuals.md
-confidence: medium
----
+
 -
 # Individuals Mental Model
 
@@ -53,3 +32,5 @@ The model's strength is its cross-domain recurrence. Whether in behavioral econo
 - The model is broad by design — what concrete examples best illustrate its utility?
 - Confidence is set to 0.7, acknowledging that the model's precision is limited and it risks being unfalsifiable without specific applications.^[raw/articles/Individuals.md]
 ---
+
+See also: [[decision-making-frameworks]]

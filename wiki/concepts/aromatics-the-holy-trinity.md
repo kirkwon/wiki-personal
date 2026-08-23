@@ -1,35 +1,4 @@
----
-created: 2026-04-24
-updated: 2026-05-09
-sources:
-- Aromatics.md
-tags:
-- cooking-technique
-- seasoning
-- aromatics
-- asian-cuisine
-- flavor-base
-- gastronomy
-- cooking-techniques
-- chinese-cuisine
-related:
-- ginger
-- garlic
-- scallion
-- mirepoix
-- sofrito
-- wok-hei
-- stir-fry
-- flavor-theory
-- aromatics
-- stir-fry-technique
-- chinese-cuisine
-- marinades
-date: 2026-04-24
-title: Aromatics - The Holy Trinity
-description: "Aromatics - The Holy Trinity 中餐三宝"
-type: concept
----
+
 --
 
 # Aromatics - The Holy Trinity 中餐三宝
@@ -203,3 +172,5 @@ Aromatics are vegetables and herbs cooked at the beginning of a dish to build it
 
 ## See Also
 [[wok-hei]] | [[stir-fry-technique]] | [[marinades]] | [[chinese-cuisine]] | [[ginger]] | [[garlic]] | [[scallion]] | [[mirepoix]] | [[sofrito]] | [[flavor-theory]]
+
+See also: [[aromatics]]

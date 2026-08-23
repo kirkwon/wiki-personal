@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-title: Extraction Control
-description: "--
-Extraction Control"
-created: 2026-04-24
-updated: 2026-04-24
-type: concept
-tags:
-- coffee
-- brewing
-- technique
-sources:
-- Pour Over.md
-related:
-- pour-over-coffee
-- bloom-technique-闷蒸技术
-- channeling
----
+
 --
 # Extraction Control
 
@@ -39,3 +21,9 @@ Precise extraction measurement requires a refractometer, though experienced brew
 
 ## Connection to Brewers
 Different brewers (V60, Chemex, Kalita Wave) produce meaningfully different cup profiles due to their physical design affecting drainage rate and extraction dynamics.
+
+See also: [[pour-over-coffee]]
+
+See also: [[bloom-technique-闷蒸技术]]
+
+See also: [[channeling]]

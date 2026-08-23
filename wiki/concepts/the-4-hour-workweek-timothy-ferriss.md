@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The 4-Hour Workweek - Timothy Ferriss
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- productivity
-- personal-finance
-sources:
-- Income.md
-related:
-- timothy-ferriss
-- income-mental-model
-- deep-work - Cal Newport
-- getting-things-done---david-allen
+david-allen
 - leverage
 ---
 -
@@ -31,3 +15,5 @@ The book connects to existing productivity themes in the wiki, particularly Cal 
 
 Related pages: [[timothy-ferriss]], [[income-mental-model]], [[deep-work---cal-newport]], [[getting-things-done---david-allen]], [[leverage]]
 ---
+
+See also: [[getting-things-done]]

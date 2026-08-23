@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Value clarification
-description: "--
-Value clarification"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- mental-models
-sources:
-- Value clarification.md
-related:
-- scatterfocus
-- attention-budget
-- attention-residue
-- deep-work - Cal Newport
-- time-management-matrix
-- on-the-shortness-of-life-seneca
-- workflow-auditing
----
+
 --
 # Value clarification
 
@@ -54,3 +32,5 @@ Value clarification connects to several existing productivity frameworks in this
 - [[error-correction-mechanisms]]
 - [[peer-accountability-systems]]
 - [[scatterfocus]]
+
+See also: [[on-the-shortness-of-life-seneca]]

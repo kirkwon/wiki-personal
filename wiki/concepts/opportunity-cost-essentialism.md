@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Opportunity Cost in Essentialism
-description: "--
-Opportunity Cost in Essentialism"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- decision-making
-- productivity
-- mental-models
-sources:
-- Essentialism_ The Disciplined Pursuit of Less - Greg McKeown.md
-related:
-- essentialism---greg-mckeown
+greg-mckeown
 - decision-quality-vs-outcome-quality
 - expected-value-ev
 - decision-tracking
@@ -26,3 +11,5 @@ Chapter 6 of McKeown's *Essentialism* introduces the concept of opportunity cost
 This concept emphasizes making more deliberate choices about what we consume or invest our time in. Rather than simply adding more commitments or optimizing for volume, essentialism asks: what am I giving up by saying yes to this? This aligns with existing opportunity cost discussions in decision-making, connecting to [[expected-value-ev]] and [[decision-quality-vs-outcome-quality]].
 
 The practical implication is that non-essential commitments should be eliminated or minimized, freeing resources for what truly matters. This framework also extends to decision tracking — monitoring whether the opportunity cost of past choices was worth the trade-off.
+
+See also: [[essentialism]]

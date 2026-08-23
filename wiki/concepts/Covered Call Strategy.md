@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Covered Call Strategy
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- income-generation
-sources:
-- Options Trading.md
-related:
-- options
-- iron-condor
-- protective-put-strategy
-- investment-strategies-for-life-satisfaction
-- the-greeks-options
----
+
 -
 # Covered Call Strategy
 
@@ -37,3 +19,9 @@ A covered call is an options strategy where you own the underlying stock and sel
 ## Σχέση με Άλλες Στρατηγικές
 Σχετίζεται με [[Iron Condor]] (εισόδος στους τύπους εισοδήματος) και [[Protective Put Strategy]] (αντίθετη προστατευτική προσέγγιση).
 ---
+
+See also: [[options]]
+
+See also: [[iron-condor]]
+
+See also: [[investment-strategies-for-life-satisfaction]]

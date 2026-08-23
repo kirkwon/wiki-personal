@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-title: Caramelization
-description: "[[caramelization]] is the thermal decomposition (or oxidation) of sugars that occurs at temperatures above 355°F (179°C), producing amber to dark brown colors and butterscotch or burnt sugar flavors."
-created: 2026-04-24
-updated: 2026-05-09
-type: concept
-tags:
-- technique
-- cooking
-- gastronomy
-sources:
-- Maillard Reaction.md
-related:
-- maillard-reaction
-- wok-hei
-- coffee-roasting-咖啡烘焙
----
+
 --
 
 # Caramelization
@@ -41,3 +24,5 @@ Foods often labeled "caramelized" — such as onions — are actually undergoing
 - [[wok-hei]] for high-heat flavor development
 - [[gastronomy]]
 - [[Cooking Techniques]]
+
+See also: [[coffee-roasting-咖啡烘焙]]

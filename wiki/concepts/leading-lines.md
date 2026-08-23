@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Leading Lines
-description: "Leading lines are lines in an image that guide the viewer's eye toward the main subject."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- composition
-- fundamentals
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- photography-fundamentals
-- street-photography
-- rule-of-thirds
-- framing-composition
----
+
 --
 # Leading Lines
 
@@ -46,3 +27,11 @@ Leading lines are lines in an image that guide the viewer's eye toward the main 
 - Railroad tracks: Converging lines to a distant subject
 
 See [[composition-techniques]] for the broader context of composition techniques.
+
+See also: [[photography-fundamentals]]
+
+See also: [[street-photography]]
+
+See also: [[rule-of-thirds]]
+
+See also: [[framing-composition]]

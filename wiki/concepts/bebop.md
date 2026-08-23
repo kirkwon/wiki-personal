@@ -1,30 +1,4 @@
----
-created: 2026-04-24
-sources:
-- bebop.md
-tags:
-- jazz
-- bebop
-- music
-- history
-- improvisation
-- chord-theory
-- theory
-date: 2026-04-24
-title: Bebop
-description: "Bebop (or 'bop') is a revolutionary jazz style that emerged in the 1940s, transforming the genre from dance-oriented big bands into virtuosic small ensembles focused on complex improvisation."
-type: concept
-updated: 2026-05-09
-related:
-- jazz-harmony
-- music-theory-fundamentals
-- music-theory-jazz
-- miles-davis
-- charlie-parker
-- dizzy-gillespie
-- thelonious-monk
-- bud-powell
----
+
 --
 
 # Bebop
@@ -97,3 +71,5 @@ Bebop established the harmonic and improvisational foundation for all subsequent
 ## Related Concepts
 
 Bebop connects directly to [[jazz-harmony]] and [[music-theory-jazz]], and provides the stylistic context in which [[miles-davis]] emerged as a major figure.
+
+See also: [[music-theory-fundamentals]]

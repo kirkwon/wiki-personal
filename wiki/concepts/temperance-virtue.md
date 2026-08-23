@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Temperance (Virtue)
-description: "Temperance is the virtue of self-control, moderation, and balance — particularly in the face of difficulty, temptation, or excess."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- virtue
-- self-control
-sources:
-- the-obstacle-is-the-way
-- Temperance (Virtue)
-related: [the-obstacle-is-the-way-ryan-holiday, stoicism-as-a-framework, balancing-ambition-with-well-being]
----
+
 # Temperance (Virtue)
 
 Temperance is the virtue of self-control, moderation, and balance — particularly in the face of difficulty, temptation, or excess. In Stoic philosophy, it is one of the cardinal virtues alongside courage, justice, and wisdom.
@@ -31,3 +16,7 @@ Temperance is crucial for overcoming obstacles because it prevents overreaction,
 
 ## Open Questions
 How does temperance differ from emotional suppression? Stoic tradition emphasizes control, while modern psychology (e.g., [[dual-process-theory]]) sometimes values emotional awareness and integration.
+
+Sources: [[the-obstacle-is-the-way]]
+
+See also: [[the-obstacle-is-the-way-ryan-holiday]]

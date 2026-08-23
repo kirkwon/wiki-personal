@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 七味（川菜七种风味轮廓）
-description: "川菜以七种不同的风味轮廓（七味）闻名，超越了对单一辣味的认知。四川菜的风味体系不仅限于麻辣，而是由七种风味类型组成，这是理解四川菜复杂味觉层次的关键概念。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- sichuan
-- chinese
-- flavor-profile
-- cuisine
-- flavors
-sources:
-- sichuan-cuisine.md
-related:
-- má-là-flavor
-- sichuan-cuisine
-- mapo-tofu
-- hot-pot
-- doubanjiang
----
+
 --
 # 七味
 
@@ -48,3 +27,7 @@ related:
 - [[sichuan-cuisine]] 提供了七味的完整分类和背景
 - [[má-là-flavor]] 解释了麻辣这一核心风味的感官体验
 - [[doubanjiang]] 是实现这些风味的基础调味料
+
+See also: [[mapo-tofu]]
+
+See also: [[hot-pot]]

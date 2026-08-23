@@ -1,20 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Clear Thinking
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- decision-making
-- rationality
-- mental-models
-sources:
-- Processes.md
-related:
-- processes
-- systematic-decision-making
-- mental-models
----
+
 -
 # Clear Thinking: Turning Ordinary Moments into Extraordinary Results
 
@@ -25,3 +9,9 @@ related:
 - Process-oriented approaches outperform reactive intuition
 - This aligns with the Processes mental model's emphasis on structured frameworks
 ---
+
+See also: [[processes]]
+
+See also: [[systematic-decision-making]]
+
+See also: [[mental-models]]

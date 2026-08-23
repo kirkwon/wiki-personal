@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: BBQ Regions
-description: "American BBQ (barbecue) is more than cooking—it's culture, community, and regional pride."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cuisine
-- american
-- barbecue
-- cooking
-sources:
-- bbq-regions.md
-related:
-- southern-soul-food
-- american-cuisine
-- gastronomy
----
+
 --
 # BBQ Regions
 
@@ -44,3 +26,5 @@ Each style reflects broader regional identity—Texas emphasizes minimalism and 
 - "Franklin Barbecue" by Aaron Franklin
 - "Peace, Love, and Barbecue" by Mike Mills
 ^[raw/articles/bbq-regions.md]
+
+See also: [[gastronomy]]

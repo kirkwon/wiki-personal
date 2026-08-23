@@ -1,24 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Deliberate Practice
-description: "Structured, effortful practice focused on improving performance in any field."
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- knowledge
-- learning
-- skill-candidate
-- cognitive-science
-- skill-development
-- mental-models
-- productivity
-- career
-sources:
-- super-thinking
-- Deliberate Practice
-related: ["mental-models", "spaced-repetition", "feynman-technique", "personal-knowledge-vault-readme", "active-revision-techniques", "skill-capital", "craft-capital-vs-career-capital", "feedback-loops-in-skill-development", "teaching-problem-solving", "super-thinking-gabriel-weinberg", "growth-mindset", "career-capital", "career-mental-model", "cal-newport", "hyperfocus", "deep-work - Cal Newport"]
----
+
 # Deliberate Practice
 
 Structured, effortful practice focused on improving performance in any field. Distinct from passive repetition, entertainment, or routine work. Covered in Part VII of *Super Thinking* and central to Cal Newport's argument that mastery — and by extension career satisfaction — comes from developing rare skills rather than chasing pre-existing passion. Cal Newport emphasizes deliberate practice as the mechanism for building **career capital**—the rare and valuable skills that make you indispensable.
@@ -49,3 +29,15 @@ Weinberg groups deliberate practice with [[spaced-repetition]] and the [[feynman
 
 ## Tension with Passion-First Frameworks
 Newport argues that passion is a result of skill development, not a prerequisite. This contrasts with frameworks like [[grit-concept]] (Duckworth) that emphasize sustained passion, and [[hooked---nir-eyal]] that treats internal emotional triggers as drivers of engagement.
+
+Sources: [[super-thinking]]
+
+See also: [[mental-models]]
+
+See also: [[personal-knowledge-vault-readme]]
+
+See also: [[skill-capital]]
+
+See also: [[craft-capital-vs-career-capital]]
+
+See also: [[super-thinking-gabriel-weinberg]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Illusion of Happiness
-description: "--
-The Illusion of Happiness"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- philosophy
-- psychology
-- mark-manson
-sources:
-- Everything Is F_cked_ A Book About Hope - Mark Manson.md
-related:
-- paradox-of-choice
-- choice-overload
-- decision-quality-vs-outcome-quality
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 ---
 --
 # The Illusion of Happiness
@@ -44,3 +25,5 @@ This concept connects to [[paradox-of-choice]] (Barry Schwartz's argument that m
 - [[paradox-of-choice-barry-schwartz]] – Schwartz's critique of choice abundance
 - [[the-algebra-of-happiness---scott-galloway]] – Galloway's redefinition of happiness
 - [[embracing-failure-for-personal-growth]] – Finding meaning through failure rather than success
+
+See also: [[thinking-fast-and-slow]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Calibration training
-description: "--
-Calibration training"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- knowledge
-- learning
-- skill-candidate
-- prediction
-- decision-making
-- statistics
-- The Signal and the Noise - Nate Silver.md
-related:
-- signal-to-noise-ratio
-- ensemble-prediction-methods
-- probability-and-judgment-under-uncertainty
-- superforecasting---philip-e-tetlock-dan-gardner
+philip-e-tetlock-dan-gardner
 ---
 --
 # Calibration training
@@ -42,3 +22,11 @@ The practice of assessing whether your confidence levels match your actual accur
 ## Connection to Superforecasting
 
 Calibration training is a core component of [[Superforecasting - Philip E Tetlock  Dan Gardner]], where forecasters train to express uncertainty accurately.
+
+See also: [[signal-to-noise-ratio]]
+
+See also: [[ensemble-prediction-methods]]
+
+See also: [[probability-and-judgment-under-uncertainty]]
+
+See also: [[superforecasting]]

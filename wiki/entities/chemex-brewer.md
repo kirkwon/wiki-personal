@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-title: Chemex Brewer
-description: "The Chemex is an hourglass-shaped pour-over brewer made of thick glass with bonded paper filters."
-created: 2026-04-24
-updated: 2026-04-24
-type: entity
-tags:
-- coffee
-- equipment
-- brewing
-sources:
-- Pour Over.md
-related:
-- pour-over-coffee
-- v60-brewer
-- kalita-wave-brewer
----
+
 --
 # Chemex Brewer
 
@@ -35,3 +18,9 @@ The Chemex is an hourglass-shaped pour-over brewer made of thick glass with bond
 
 ## Best For
 Those who prefer a clean, smooth cup with less complexity but more body and clarity.
+
+See also: [[pour-over-coffee]]
+
+See also: [[v60-brewer]]
+
+See also: [[kalita-wave-brewer]]

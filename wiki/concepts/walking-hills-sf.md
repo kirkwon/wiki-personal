@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Marcher dans les collines de San Francisco
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- walking
-sources:
-- san-francisco-city-guide.md
-related:
-- telegraph-hill
-- twin-peaks
-- bernal-heights
----
+
 -
 # Marcher dans les collines de San Francisco
 
@@ -31,3 +15,5 @@ Les collines de San Francisco sont plus escarpées qu'elles n'y paraissent. Cons
 Russian Hill, Nob Hill, Pacific Heights, Telegraph Hill, Twin Peaks, Bernal Heights.
 
 ---
+
+See also: [[twin-peaks]]

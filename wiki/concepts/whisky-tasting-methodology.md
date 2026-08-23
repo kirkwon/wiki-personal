@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Whisky Tasting Methodology
-description: "--
-Whisky Tasting Methodology"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- gastronomy
-- spirits
-- whisky
-- tasting
-- beverages
-sources:
-- Whisky Tasting Notes.md
-related:
-- spirits-index
-- flavor-theory
-- gastronomy
-- whisky-tasting-notes
-- salmon-collars
----
+
 --
 # Whisky Tasting Methodology
 
@@ -52,3 +30,5 @@ Key characteristics for comparing whiskies include proof level, age statement (N
 
 ## Related Concepts
 See [[flavor-theory]] for broader flavor analysis and [[spirits-index]] for spirits overview. This methodology connects to broader [[gastronomy]] practices and food pairing considerations like [[salmon-collars]].
+
+See also: [[whisky-tasting-notes]]

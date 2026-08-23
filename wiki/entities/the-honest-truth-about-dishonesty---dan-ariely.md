@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Honest Truth About Dishonesty - Dan Ariely
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- behavioral-economics
-- cognitive-bias
-sources:
-- Deception.md
-related:
-- dan-ariely
-- deception
-- cognitive-biases-library
-- confirmation-bias
----
+
 -
 # The Honest Truth About Dishonesty
 
@@ -30,3 +13,9 @@ Key findings include:
 
 This book provides the empirical foundation for the [[deception]] mental model, which uses deception as a lens for understanding patterns and relationships across complex situations.
 ---
+
+See also: [[dan-ariely]]
+
+See also: [[cognitive-biases-library]]
+
+See also: [[confirmation-bias]]

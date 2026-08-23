@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Social Security
-description: "Social Security is a federal retirement income program."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- retirement
-- taxes
-sources:
-- Tax Torpedoes.md
-related:
-- social-security-taxation
-- tax-torpedoes
-- retirement-planning
-- provisional-income
----
+
 --
 # Social Security
 
@@ -39,3 +21,5 @@ Social Security taxation is based on provisional income (AGI + tax-free interest
 - Consider restricted applications for optimal benefit timing.^[Tax Torpedoes.md]
 
 Related: [[social-security-taxation]], [[provisional-income]], [[tax-torpedoes]]
+
+See also: [[retirement-planning]]

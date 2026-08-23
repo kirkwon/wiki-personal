@@ -1,18 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 浙菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
----
+
 -
 # 浙菜
 
@@ -40,3 +26,5 @@ related:
 - 海鲜和淡水鱼
 - 优雅、精致
 ---
+
+See also: [[chinese-regional-cuisines]]

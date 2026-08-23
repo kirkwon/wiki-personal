@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The 8th Habit
-description: "The 8th Habit by Stephen R."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- productivity
-- purpose
-- habits
-sources:
-- Habits.md
-related:
-- habits
-- stephen-r-covey
-- the-7-habits-of-highly-effective-people
----
+
 --
 # The 8th Habit
 
@@ -29,3 +11,9 @@ related:
 
 ## Relevance
 Extends the Habits mental model by connecting disciplined habit formation to purpose and meaning.
+
+See also: [[habits]]
+
+See also: [[stephen-r-covey]]
+
+See also: [[the-7-habits-of-highly-effective-people]]

@@ -1,25 +1,4 @@
----
 
-date: 2026-04-29
-type: concept
-title: Misbehaving - Richard H. Thaler
-description: "--"
-Misbehaving: The Making of Behavioral Economics""
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- behavioral-economics
-- choice-architecture
-sources:
-- Behavior.md
-related:
-- richard-h-thaler
-- choice-overload
-- decision-making-frameworks
-- cognitive-biases-library
-
----
 --
 # Misbehaving: The Making of Behavioral Economics
 
@@ -32,3 +11,7 @@ related:
 - The gap between economic theory and actual human behavior
 
 This work connects to [[choice-overload]] and [[decision-making-frameworks]], showing how the design of choices matters as much as the choices themselves.
+
+See also: [[richard-h-thaler]]
+
+See also: [[cognitive-biases-library]]

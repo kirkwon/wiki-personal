@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Decision-Making Frameworks
-description: "-
-Decision-Making Frameworks"
-created: 2026-04-29
-updated: 2026-05-09
-tags:
-- decision-making
-- frameworks
-- problem-solving
-- mental-models
-- cognitive-science
-related:
-- thinking-in-bets ---annie-duke
+annie-duke
 - polya-four-steps
 - thinking-fast-and-slow---daniel-kahneman
 - naturalistic-decision-making
@@ -167,3 +152,5 @@ Polya's systematic heuristics offer a middle ground: more structured than Klein'
 - [[framing-effects-in-decision-making]] – Framing effects
 - [[recognition-primed-decision-model]] – Recognition-primed decision model
 - [[paul-elder-critical-thinking-framework]] – Paul Elder critical thinking framework
+
+See also: [[thinking-in-bets]]

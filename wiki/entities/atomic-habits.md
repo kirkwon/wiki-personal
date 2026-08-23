@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Atomic Habits
-description: "Atomic Habits by James Clear is a foundational text on habit formation."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- habits
-- productivity
-- behavior-change
-sources:
-- Habits.md
-related:
-- habits
-- james-clear
----
+
 --
 # Atomic Habits
 
@@ -28,3 +11,7 @@ related:
 
 ## Relevance
 Central source for the Habits mental model, providing the most widely adopted modern framework for understanding habit formation.
+
+See also: [[habits]]
+
+See also: [[james-clear]]

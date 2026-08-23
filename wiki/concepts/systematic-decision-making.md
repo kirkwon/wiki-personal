@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Systematic Decision Making
-description: "Systematic Decision Making"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- decision-making
-- productivity
-- time-management
-- mental-models
-sources:
-- first-things-first
-- Systematic Decision Making
-related: ["decision-making-frameworks", "time-management-matrix", "personal-values-in-time-management", "first-things-first-principle", "systematic-decision-making"]
----
+
 # Systematic Decision Making
 
 Covey advocates for a structured approach to decisions that considers potential consequences, alignment with core values, and long-term impact. Rather than reacting to immediate pressures, this approach asks what the best course of action is given what matters most. Once priorities are clear via the [[time-management-matrix]], decisions become easier.
@@ -38,3 +22,5 @@ Without a systematic approach, decisions are made reactively — driven by urgen
 
 ## Key Takeaway
 Structure your decisions around clarity, consequences, and values. This turns reactive choices into proactive ones.
+
+See also: [[systematic-decision-making]]

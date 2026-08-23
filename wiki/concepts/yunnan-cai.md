@@ -1,18 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 云南菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
----
+
 -
 # 云南菜
 
@@ -37,3 +23,5 @@ related:
 - 民族多样性
 - 新鲜食材
 ---
+
+See also: [[chinese-regional-cuisines]]

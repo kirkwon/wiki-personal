@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Will to Power
-description: "Nietzsche's concept of the fundamental drive behind all human action."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- philosophy
-- psychology
-- motivation
-- moral-philosophy
-sources:
-- beyond-good-and-evil
-- Will to Power
-related: [will-to-truth, revaluation-of-all-values, master-vs-slave-morality, ubermensch, beyond-good-and-evil-nietzsche, friedrich-nietzsche, free-spirit-nietzschean-concept]
----
+
 # Will to Power
 
 Nietzsche's concept of the fundamental drive behind all human action. It is not merely the desire for domination or control but encompasses self-overcoming, creativity, and the affirmation of life.
@@ -41,3 +25,7 @@ Master morality is an expression of the Will to Power — noble values affirm li
 ## Related
 
 See [[beyond-good-and-evil-nietzsche]], [[master-vs-slave-morality]], [[free-spirit-nietzschean-concept]], and [[revaluation-of-all-values]].
+
+See also: [[ubermensch]]
+
+See also: [[friedrich-nietzsche]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Fried Clams
-description: "Fried clams are a seafood shack classic in New England, made by dredging clam bellies and strips in seasoned cornmeal or flour and frying until golden."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- seafood
-- american
-- new-england
-- fried
-sources:
-- new-england-seafood.md
-related:
-- new-england-seafood
-- clam-chowder
-- lobster-roll
-- seafood-shack-culture
----
+
 --
 # Fried Clams
 
@@ -37,3 +18,7 @@ Fried clams are a seafood shack classic in New England, made by dredging clam be
 - Common accompaniments: tartar sauce, lemon wedges
 
 See also [[new-england-seafood]] and [[seafood-shack-culture]].
+
+See also: [[clam-chowder]]
+
+See also: [[lobster-roll]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Whisky Price Tiers
-description: "--
-Whisky Price Tiers"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- gastronomy
-- spirits
-- whisky
-- tasting
-- beverages
-sources:
-- Whisky Tasting Notes.md
-related:
-- whisky-tasting-notes
-- spirits-index
-- bourbon
----
+
 --
 # Whisky Price Tiers
 
@@ -40,3 +20,5 @@ The best value overall is considered Buffalo Trace and Wild Turkey 101, while An
 ## Related
 
 See [[whisky-tasting-notes]] for detailed tasting notes and [[spirits-index]] for broader context.
+
+See also: [[bourbon]]

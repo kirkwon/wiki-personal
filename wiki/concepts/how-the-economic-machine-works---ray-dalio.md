@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: How the Economic Machine Works - Ray Dalio
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- economics
-- ray-dalio
-sources:
-- Markets.md
-related:
-- markets
-- principles---ray-dalio
+ray-dalio
 - decision-making-under-uncertainty
 - black-swan-events
 - antifragility
@@ -47,3 +33,5 @@ Dalio's framework is a heuristic, not a rigorous model. It simplifies complex dy
 
 - [[markets]]
 ---
+
+See also: [[principles]]

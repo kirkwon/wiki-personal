@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Qualified Personal Residence Trust (QPRT)
-description: "--
-Qualified Personal Residence Trust (QPRT)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- tax-planning
-- real-estate
-sources:
-- Trusts Guide.md
-related:
-- section-7520-rate
-- irrevocable-trusts
-- real-estate-investment
-- trusts-guide
----
+
 --
 # Qualified Personal Residence Trust (QPRT)
 
@@ -50,3 +29,9 @@ An irrevocable trust that transfers a residence to trust while the settlor retai
 - Proper transfer of residence title
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[section-7520-rate]]
+
+See also: [[irrevocable-trusts]]
+
+See also: [[real-estate-investment]]

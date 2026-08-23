@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Golden Ratio
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-- mathematics
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- rule-of-thirds
-- photography-fundamentals
----
+
 -
 # Golden Ratio
 
@@ -34,3 +18,5 @@ The golden ratio is a mathematical ratio of approximately 1:1.618 found througho
 
 The golden ratio is mathematically more complex than the rule of thirds but produces a similar effect in practice. See [[rule-of-thirds]] and [[composition-techniques]] for related techniques.
 ---
+
+See also: [[photography-fundamentals]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Points
-description: "Points is described as a universal conceptual tool for navigating complexity through pattern and relationship recognition."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Points.md
-related:
-- mental-models-library
-- thinking-mental-model
-- recipes-mental-model
-- effort
-- tendency
-- biases
-- decision-making-frameworks
----
+
 --
 # Points
 
@@ -37,3 +17,7 @@ Points overlaps significantly with existing mental model pages such as [[thinkin
 
 ## Status
 This page is based on a stub source with minimal elaboration. The confidence level is 0.7, and the priority is medium. Further elaboration from the author would help clarify how "Points" differs from general mental models.
+
+See also: [[mental-models-library]]
+
+See also: [[decision-making-frameworks]]

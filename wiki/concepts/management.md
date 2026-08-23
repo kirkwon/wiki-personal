@@ -1,22 +1,4 @@
----
-date: 2026-05-04
-title: Management
-description: "Management is a conceptual tool and practice that helps understand and navigate complex situations while systematically improving efficiency and output."
-type: concept
-created: 2026-05-04
-updated: 2026-05-10
-tags:
-- mental-model
-- decision-making
-- productivity
-- learning
-- management
-sources:
-- Management.md
-confidence: medium
-related:
-- management-mental-model
-- getting-things-done ---david-allen
+david-allen
 - deep-work - Cal Newport
 - principles---ray-dalio
 - thinking-fast-and-slow---daniel-kahneman
@@ -110,3 +92,5 @@ Management connects to [[management-mental-model]] as a broader mental model, an
 - [[deep-work---cal-newport]]
 - [[principles-ray-dalio]]
 - [[thinking-fast-and-slow---daniel-kahneman]]
+
+See also: [[getting-things-done]]

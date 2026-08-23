@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Pacific Heights
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- neighborhoods
-sources:
-- san-francisco-city-guide.md
-related:
-- san-francisco
-- painted-ladies
-- victorian-homes
----
+
 -
 # Pacific Heights
 
@@ -27,3 +11,7 @@ Quartier chic avec des vues, des maisons victoriennes et un immobilier très che
 - Presque Nob Hill et Russian Hill
 
 ---
+
+See also: [[san-francisco]]
+
+See also: [[painted-ladies]]

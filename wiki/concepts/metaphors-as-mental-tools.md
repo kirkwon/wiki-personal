@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Metaphors as Mental Tools
-description: "--
-Metaphors as Mental Tools"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- analogy
-- thinking
-- problem-solving
-sources:
-- The Great Mental Models Vol 1 - Shane Parrish.md
-related:
-- analogy-in-problem-solving
-- polya-four-steps
-- thinking-mental-model
----
+
 --
 # Metaphors as Mental Tools
 
@@ -29,3 +10,5 @@ Parrish identifies metaphors as powerful mental tools that help us understand ab
 
 ## Connections
 Relates to [[analogy-in-problem-solving]] and [[polya-four-steps]] on using analogy as a problem-solving technique.
+
+See also: [[thinking-mental-model]]

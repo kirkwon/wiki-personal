@@ -1,17 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Adapting to Uncertainty in Macro Environments
-description: "--
-Adapting to Uncertainty in Macro Environments"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- geopolitics
-- strategy
-related:
-- principles-for-dealing-with-the-changing-world-order---ray-dalio
+ray-dalio
 - decision-making-under-uncertainty
 - real-options-analysis
 - scenario-planning
@@ -34,3 +21,5 @@ Dalio's final chapters emphasize the practical imperative of adapting to an ever
 
 This concept extends [[decision-making-under-uncertainty]] by adding macro-level systemic factors to individual decision frameworks. It connects to [[real-options-analysis]] through the emphasis on maintaining flexibility, and to [[scenario-planning]] through the need to model multiple geopolitical futures rather than relying on single-outcome forecasts.
 ^[raw/articles/principles-for-dealing-with-the-changing-world-order---ray-dalio.md]
+
+See also: [[principles-for-dealing-with-the-changing-world-order]]

@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 压力曲线
-description: "--
-压力曲线（Pressure Profiling）"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- technique
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- espresso-machine-压力咖啡机
-- pre-infusion-预浸泡
----
+
 --
 # 压力曲线（Pressure Profiling）
 
@@ -37,3 +20,7 @@ related:
 ## 设备要求
 
 压力曲线功能需要支持该特性的咖啡机，部分机型提供预编程的压力曲线，手动机型可通过预浸泡模拟类似效果。详见 [[pre-infusion-预浸泡]]。
+
+See also: [[espresso-意大利浓缩咖啡]]
+
+See also: [[espresso-machine-压力咖啡机]]

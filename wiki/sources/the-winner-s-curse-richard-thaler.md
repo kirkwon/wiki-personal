@@ -1,24 +1,4 @@
----
-date: 2024-04-17
-type: source
-title: The Winner's Curse - Richard Thaler
-description: "--
-The Winner's Curse - Richard Thaler"
-created: 2024-04-17
-updated: 2024-04-17
-tags:
-- books
-- behavioral-economics
-- decision-making
-sources:
-- The Winner's Curse - Richard Thaler.md
-related:
-- richard-thaler
-- mental-accounting
-- planning-fallacy
-- libertarian-paternalism
-- easterlin-paradox
----
+
 --
 # The Winner's Curse - Richard Thaler
 
@@ -38,3 +18,13 @@ Richard Thaler's *The Winner's Curse* synthesizes decades of behavioral economic
 - **Economics of Happiness**: Hedonic adaptation and the Easterlin paradox challenge the link between income and happiness.
 - **Behavioral Game Theory**: Fairness, reciprocity, and social norms contradict standard game theory.
 - **Thaler's Law**: Economic behavior is systematically irrational but predictably so, enabling better institutional design.
+
+See also: [[richard-thaler]]
+
+See also: [[mental-accounting]]
+
+See also: [[planning-fallacy]]
+
+See also: [[libertarian-paternalism]]
+
+See also: [[easterlin-paradox]]

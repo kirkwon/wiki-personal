@@ -1,39 +1,4 @@
----
-date: 2026-06-27
-type: architecture-doc
-title: Agent Self-Organization Architecture
-created: '2026-06-27T00:00:00.000Z'
-related:
-  - concepts/self-organization
-  - concepts/self-organization-and-emergence
-  - concepts/emergent-intelligence
-  - concepts/complex-adaptive-systems
-  - concepts/ai-agents
-  - concepts/delegation
-  - papers/project-synapse-hierarchical-multi-agent
-  - babeltele-compressed-llm-representations
-  - >-
-    10-projects/agent-system-integration-2026-05-02/phases/phase2-orchestration/readme
-  - concepts/academic-paper-library
-  - concepts/ai-ml-research-papers
-sources:
-  - raw/agent-self-organization-architecture.md
-updated: '2026-06-27T00:00:00.000Z'
-confidence: high
-ingested_via: put_page
-ingested_at: '2026-06-28T05:43:38.067Z'
-source_kind: put_page
-tags:
-  - agent-architecture
-  - agent-systems
-  - delegation
-  - methodology
-  - multi-agent
-  - orchestration
-  - self-organization
-  - society-of-mind
-  - symphony
----
+
 
 # Agent Self-Organization Architecture
 
@@ -441,3 +406,21 @@ This page connects to the following GBrain pages (links materialized via `gbrain
 Distilled from 53+ Hermes sessions spanning **May 2 – June 27, 2026**, covering: Phase 2 Orchestration design (May 2-3), arxiv literature review (June 13), Kanban orchestrator design (June 14-15), Symphony multi-agent system (June 19-20), and the Society of Mind vision sessions (June 24-25). Authored by Kirk Won with Hermes.
 
 ^[raw/agent-self-organization-architecture.md]
+
+See also: [[concepts/self-organization]]
+
+See also: [[concepts/self-organization-and-emergence]]
+
+See also: [[concepts/emergent-intelligence]]
+
+See also: [[concepts/complex-adaptive-systems]]
+
+See also: [[concepts/ai-agents]]
+
+See also: [[concepts/delegation]]
+
+See also: [[papers/project-synapse-hierarchical-multi-agent]]
+
+See also: [[babeltele-compressed-llm-representations]]
+
+See also: [[concepts/academic-paper-library]]

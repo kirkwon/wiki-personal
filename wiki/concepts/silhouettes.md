@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Silhouettes
-description: "Silhouettes are created by exposing for the bright background (usually the sky) so the subject becomes a dark shape against the light."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- golden-hour.md
-related:
-- golden-hour
-- backlighting
-- composition-techniques
----
+
 --
 # Silhouettes
 
@@ -29,3 +13,9 @@ Silhouettes are created by exposing for the bright background (usually the sky) 
 ## When to Use
 
 Silhouettes are effective for dramatic effects, shape recognition, and abstract compositions. They are commonly used during golden hour with backlighting when the sun is behind the subject.
+
+See also: [[golden-hour]]
+
+See also: [[backlighting]]
+
+See also: [[composition-techniques]]

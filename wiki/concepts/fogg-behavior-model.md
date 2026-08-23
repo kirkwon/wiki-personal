@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Fogg Behavior Model
-description: "The Fogg Behavior Model (FBM) states that behavior occurs when three elements converge simultaneously: motivation, ability, and trigger."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- behavioral-psychology
-- product-design
-sources:
-- hooked
-- Fogg Behavior Model
-related: [hook-model, internal-triggers, variable-reward-design]
----
+
 # Fogg Behavior Model
 
 The Fogg Behavior Model (FBM) states that behavior occurs when three elements converge simultaneously: motivation, ability, and trigger.
@@ -32,3 +18,5 @@ The Fogg Behavior Model is used in the Hook Model's Action phase to explain why 
 The model emphasizes that increasing ability (making actions simpler) is often more effective than increasing motivation. This principle guides the "Designing Action" phase of the Hook Model.
 
 ^[raw/articles/hooked---nir-eyal.md]
+
+See also: [[internal-triggers]]

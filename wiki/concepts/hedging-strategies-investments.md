@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Hedging Strategies for Investments
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- risk-management
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- interest-rate-risk
-- diversification-strategies-investments
----
+
 -
 # Hedging Strategies for Investments
 
@@ -25,3 +10,9 @@ Interest rate hedges (swaps, caps, collars), currency hedges (international prop
 ## Operational Hedging
 Long-term leases (stabilized income stream), rental escalation (inflation protection), expense stop clauses (cost protection), insurance coverage (property and liability protection).
 ---
+
+See also: [[risk-assessment-framework]]
+
+See also: [[interest-rate-risk]]
+
+See also: [[diversification-strategies-investments]]

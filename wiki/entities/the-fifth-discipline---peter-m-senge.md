@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Fifth Discipline - Peter M. Senge
-description: "-
-The Fifth Discipline - Peter M."
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- books
-- mental-model
-- systems-thinking
-- organizational-learning
-sources:
-- Change.md
-- Systems.md
-related:
-- donella-meadows
-- change
-- systems-thinking
-- systems
-- thinking-in-systems ---donella-h-meadows
+donella-h-meadows
 - the-fifth-discipline-fieldbook---peter-m-senge
 - out-of-control---kevin-kelly
 ---
@@ -43,3 +22,9 @@ Senge's framework represents systemic change through organizational learning —
 ## Connection to Systems Mental Model
 
 Senge's work is one of the seven source perspectives informing the [[systems]] mental model.
+
+See also: [[donella-meadows]]
+
+See also: [[change]]
+
+See also: [[systems-thinking]]

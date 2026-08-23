@@ -1,17 +1,7 @@
----
+Sources: [[the-4-hour-chef]]
 
-date: 2026-05-03
-type: concept
-title: Fast Meals - The Art of Scaling & Batch Cooking
-description: "Techniques for preparing large amounts of meals quickly to save time and effort."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- cooking
-- technique
-- meal-planning
-sources:
-- the-4-hour-chef
-- Fast Meals - The Art of Scaling & Batch Cooking
-related: [batch-cooking, meal-prep-blueprint, quick-batch-cooking-proteins]
----
+See also: [[batch-cooking]]
+
+See also: [[meal-prep-blueprint]]
+
+See also: [[quick-batch-cooking-proteins]]

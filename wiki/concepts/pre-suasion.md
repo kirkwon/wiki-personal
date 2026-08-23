@@ -1,29 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Pre-Suasion
-description: "Pre-suasion is a concept introduced by Robert B."
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- psychology
-- persuasion
-- cognitive-science
-- mental-models
-- decision-making
-- behavioral-economics
-- cognitive-bias
-- mental-model
-sources:
-- Pre-Suasion_ A Revolutionary Way to Influence and Persuade - Robert B Cialdini.md
-- Cialdini.md
-related:
-- cialdini-six-principles
-- dual-process-theory
-- attention-budget
-- cognitive-economy
-- ethical-design-manipulation-question
-- thinking-fast-and-slow ---daniel-kahneman
+daniel-kahneman
 - framing-effects
 - decision-making-frameworks
 - influence-six-principles
@@ -54,3 +29,5 @@ Pre-suasion extends beyond the six principles of influence by focusing on what h
 - [[thinking-fast-and-slow---daniel-kahneman]]
 - [[decision-making-frameworks]]
 - [[framing-effects]]
+
+See also: [[thinking-fast-and-slow]]

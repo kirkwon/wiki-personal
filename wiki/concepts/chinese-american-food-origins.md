@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 中国-美国食物的区域溯源
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- kung-pao-chicken
-- mapo-tofu
-- sichuan-cuisine
-- cantonese-cuisine
----
+
 -
 # 中国-美国食物的区域溯源
 
@@ -38,3 +21,11 @@ related:
 - 蛋花汤是粤菜的美式融合版本
 - 热酸汤结合了川菜和上海菜的特点
 ---
+
+See also: [[kung-pao-chicken]]
+
+See also: [[mapo-tofu]]
+
+See also: [[sichuan-cuisine]]
+
+See also: [[cantonese-cuisine]]

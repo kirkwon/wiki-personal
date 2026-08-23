@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Property Tax Strategies California
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- tax
-- skill-candidate
-- california
-- Bay Area Market Analysis.md
-- Bay Area Market Analysis.md
-related:
-- proposition-19-overview
-- tax-torpedoes-in-retirement
-- 1031-exchange-strategy
-- cost-basis
----
+
 -
 # Estrategias Fiscales de Propiedad en California
 
@@ -41,3 +22,9 @@ Modificó las reglas de transferencia de impuestos sobre propiedad, con implicac
 - Posibles cambios legislativos
 - Tasas de ganancia de capital a corto plazo vs beneficios a largo plazo
 ---
+
+See also: [[proposition-19-overview]]
+
+See also: [[tax-torpedoes-in-retirement]]
+
+See also: [[1031-exchange-strategy]]

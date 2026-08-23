@@ -1,32 +1,4 @@
----
-date: 2026-05-03
-title: David Allen
-description: "David Allen
-David Allen is the creator of the Getting Things Done (GTD) methodology and a productivity consultant and author."
-type: entity
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- person
-- productivity
-- books
-- allen
-related:
-- getting-things-done-gtd
-- ready-for-anything-david-allen
-- time-management-matrix
-- personal-knowledge-vault
-- getting-things-done
-- david-allen
-- gtd-method
-- active-revision-techniques
-- building-a-decision-culture
-- life
-- purpose
-- work-life-integration
-- management
-sources:
-- ready-for-anything---david-allen.md
+david-allen.md
 - getting-things-done---david-allen.md
 - Making It All Work - David Allen.md
 
@@ -62,3 +34,7 @@ David Allen is the creator of the Getting Things Done (GTD) methodology and a pr
 
 ## Relationships
 Allen's work connects to [[time-management-matrix]] through shared attention to urgency vs. importance, and to [[personal-knowledge-vault]] through emphasis on externalizing information to reduce cognitive load. His focus on review cycles and reflection loops aligns with [[active-revision-techniques]] and [[building-a-decision-culture]]. He is also related to [[getting-things-done---david-allen]], [[gtd-method]], [[getting-things-done-gtd]], and [[ready-for-anything-david-allen]]. Related concepts include [[life]], [[purpose]], [[work-life-integration]], and [[management]].
+
+See also: [[getting-things-done]]
+
+See also: [[david-allen]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Options as Mental Model
-description: "--
-Options as Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-bias
-sources:
-- Options.md
-related:
-- choice-overload
-- paradox-of-choice
-- decision-making-frameworks
-- decision-paralysis
-- the-paradox-of-choice---barry-schwartz
+barry-schwartz
 ---
 --
 # Options as Mental Model
@@ -53,3 +34,5 @@ When navigating complex decisions, awareness of the Options mental model helps p
 - [[The Paradox of Choice - Barry Schwartz]]
 - [[choice-overload]]
 - [[decision-paralysis]]
+
+See also: [[paradox-of-choice]]

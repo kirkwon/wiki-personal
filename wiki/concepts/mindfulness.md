@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Mindfulness
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- psychology
-- cognitive-science
-sources:
-- Mindfulness.md
-related:
-- ryan-holiday
-- stillness
-- attention-budget
-- hyperfocus
-- scatterfocus
-- thinking-mental-model
----
+
 -
 # Mindfulness
 
@@ -38,3 +19,5 @@ The evidence base is minimal—one cross-source reference from Ryan Holiday's *T
 - Is mindfulness here intended as a distinct mental model or an alias for stillness/attention management?
 - How does this abstract framing differ meaningfully from existing universal mental models like [[thinking-mental-model]] or [[overview]]?
 ---
+
+See also: [[ryan-holiday]]

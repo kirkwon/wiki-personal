@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Facing Rivalry
-description: "Facing rivalry is the practice of dealing with competition and rivalries — both personal and professional — through a Stoic lens."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- competition
-- strategy
-- stoicism
-sources:
-- the-obstacle-is-the-way
-- Facing Rivalry
-related: [the-obstacle-is-the-way-ryan-holiday, infinite-game-mindset, the-game-of-success, stoicism-as-a-framework]
----
+
 # Facing Rivalry
 
 Facing rivalry is the practice of dealing with competition and rivalries — both personal and professional — through a Stoic lens. The key insight is to focus on one's own growth rather than comparing oneself to others.
@@ -27,3 +12,7 @@ This concept connects to [[infinite-game-mindset]] — focusing on long-term gro
 ## Related
 - [[stoicism-as-a-framework]] — Stoic perspective on external comparison
 - [[reframing-adversity]] — Rivalry as an obstacle to reframe
+
+Sources: [[the-obstacle-is-the-way]]
+
+See also: [[the-obstacle-is-the-way-ryan-holiday]]

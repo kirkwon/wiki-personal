@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Trends
-description: "Trends is a universal mental model for understanding and navigating complex situations by recognizing patterns and relationships."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-- decision-making
-sources:
-- Trends.md
-related:
-- limits-to-growth
-- the-four
-- platform-dominance
-- donella-meadows
-- scott-galloway
-- real-options-analysis
----
+
 --
 # Trends
 
@@ -43,3 +23,9 @@ Both perspectives share a common insight: trends are not isolated data points bu
 - [[platform-dominance]] — Galloway's market trends
 - [[real-options-analysis]] — Planning for trend-based uncertainty
 - [[scenario-planning]] — Anticipating possible trend trajectories
+
+See also: [[the-four]]
+
+See also: [[donella-meadows]]
+
+See also: [[scott-galloway]]

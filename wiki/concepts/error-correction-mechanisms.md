@@ -1,61 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Error-correction mechanisms
-description: "Error-correction mechanisms"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- productivity
-- learning
-- mental-models
-- skill
-- cognitive-science
-- mental-model
-- management
-sources:
-- Error-correction mechanisms.md
-- Feedback loop design.md
-- Calibration training.md
-- Communication.md
-- Internal trigger mapping.md
-- Time management and priority setting.md
-- Optimism principle application.md
-- Model selection and validation frameworks.md
-- Free spirit perspective and value creation.md
-- Explanatory power analysis.md
-- Life audit and time tracking.md
-- Management.md
-- Genealogical analysis of moral concepts.md
-related:
-- scatterfocus
-- four-step-problem-solving-framework
-- peer-accountability-systems
-- decision-making-frameworks
-- active-revision-techniques
-- the-beginning-of-infinity-david-deutsch
-- feedback-loop-design
-- calibration-training
-- communication-skill
-- internal-trigger-mapping
-- habit-testing
-- decision-tracking
-- audit-apply-iterate-scale-framework
-- attention-residue
-- optimism-principle-application
-- knowledge
-- brain-mental-model
-- model-selection-and-validation-frameworks
-- systematic-decision-making
-- free-spirit-perspective-and-value-creation
-- explanatory-power-analysis
-- david-deutsch
-- life-audit-and-time-tracking
-- management
-- decision-quality-vs-outcome-quality
-- genealogical-analysis-of-moral-concepts
-confidence: low
----
+
 --
 
 # Error-correction mechanisms
@@ -161,3 +104,7 @@ Error-correction mechanisms pair with [[peer-accountability-systems]] and [[scat
 ## Limitations
 
 This skill is primarily discussed in a single source (Deutsch), which limits broader validation. Claims of broad applicability should be treated with moderate confidence until additional sources are incorporated. Confidence is low, as this concept is mentioned as a related skill but lacks elaboration in the source material.
+
+See also: [[the-beginning-of-infinity-david-deutsch]]
+
+See also: [[feedback-loop-design]]

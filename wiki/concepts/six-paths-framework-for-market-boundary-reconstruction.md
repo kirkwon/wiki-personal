@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Six Paths Framework for Market Boundary Reconstruction
-description: "--
-Six Paths Framework for Market Boundary Reconstruction"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- strategy
-- market-strategy
-- business
-sources:
-- Blue Ocean Strategy - W Chan Kim  Renee Mauborgne.md
-related:
-- blue-ocean-strategy
-- four-actions-framework
-- strategy-canvas-analysis
----
+
 --
 # Six Paths Framework for Market Boundary Reconstruction
 
@@ -30,3 +12,9 @@ The Six Paths Framework provides six analytical paths for discovering unconteste
 6. **Look across time** - Anticipate the trends that will shape the industry and identify emerging noncustomers
 
 Each path offers a different angle for reconstructing market boundaries and identifying blue ocean opportunities.
+
+See also: [[blue-ocean-strategy]]
+
+See also: [[four-actions-framework]]
+
+See also: [[strategy-canvas-analysis]]

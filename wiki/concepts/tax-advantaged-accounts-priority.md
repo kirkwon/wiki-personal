@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Tax-Advantaged Accounts Priority
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- investing
-- tax
-- retirement
-- skill-candidate
-- The Index Card Rules.md
-- The Index Card Rules.md
-related:
-- index-card-rules
-- automated-savings
-- retirement-planning
-- 401k
-- roth-ira
-- hsa
-- 529-plan
----
+
 -
 # Tax-Advantaged Accounts Priority
 
@@ -51,3 +29,7 @@ The recommended order for utilizing tax-advantaged accounts, based on the Index 
 ## See Also
 [[index-card-rules]] | [[automated-savings]] | [[retirement-planning]] | [[personal-finance]]
 ---
+
+See also: [[roth-ira]]
+
+See also: [[hsa]]

@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Types
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Types.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - planning
 - solutions
 - grit-concept
@@ -48,3 +36,5 @@ Types overlaps with several existing mental models in this wiki:
 - [[categorizing-information]]
 - [[decision-making-frameworks]]
 ---
+
+See also: [[how-the-economic-machine-works]]

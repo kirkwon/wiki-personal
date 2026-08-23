@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Risk Matrix
-description: "A visual prioritization tool that plots risks on a grid of probability (Very Low to Very High) against impact (Minimal to Catastrophic) to determine priority level."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- risk-management
-- investment-risk
-- prioritization
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- risk-register
-- stress-testing-investments
-- risk-dashboard
----
+
 --
 # Risk Matrix
 
@@ -46,3 +27,9 @@ The matrix cross-references probability levels (Very Low 5%, Low 15%, Medium 35%
 - Medium: Address within 6-12 months
 - Low: Monitor, address as needed
 - Lowest: Accept or monitor only
+
+See also: [[risk-register]]
+
+See also: [[stress-testing-investments]]
+
+See also: [[risk-dashboard]]

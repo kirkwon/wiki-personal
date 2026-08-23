@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Stoicism as a Framework
-description: "Stoicism as a Framework"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- resilience
-- mental-models
-sources:
-- the-obstacle-is-the-way
-- Stoicism as a Framework
-related: [the-obstacle-is-the-way-ryan-holiday, reframing-adversity, temperance-virtue, mastering-emotion, embracing-failure-for-personal-growth]
----
+
 # Stoicism as a Framework
 
 Stoicism is an ancient Greco-Roman philosophy emphasizing virtue, self-control, and the distinction between what is within our control and what is not. In the context of modern resilience and decision-making, Stoicism provides a practical framework for maintaining clarity and purpose under adversity.
@@ -35,3 +20,7 @@ Stoic principles align closely with [[growth-mindset]], [[grit-concept]], and [[
 
 ## Tensions
 The Stoic emphasis on emotional control can sit in tension with perspectives that value emotional awareness and integration, such as those in [[emotion-and-intuition-in-decisions]] and [[dual-process-theory]]. This raises open questions about whether emotional regulation means suppression or wise channeling.
+
+Sources: [[the-obstacle-is-the-way]]
+
+See also: [[the-obstacle-is-the-way-ryan-holiday]]

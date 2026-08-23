@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Commitment
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Commitment.md
-related:
-- deep-work - Cal Newport
-- effort
-- perseverance
-- grit-concept
-- attention-budget
-confidence: medium
----
+
 -
 # Commitment
 
@@ -53,3 +35,5 @@ What specifically does "Commitment" add beyond what [[effort]] and [[Perseveranc
 - [[grit-concept]]
 - [[attention-budget]]
 ---
+
+See also: [[perseverance]]

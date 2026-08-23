@@ -1,10 +1,4 @@
----
-date: 2026-06-30
 
-type: synthesis
-tags: [critical-analysis, paper-review, peer-review, ai-review]
-related: [paper-assistant-tool-google-pat, autoresearch-pattern, evaluation-patterns]
----
 
 # Critical Reading: Google PAT Paper (arXiv:2606.28277)
 
@@ -102,3 +96,7 @@ PAT's architecture could inform our review workflow: when a PR or task is submit
 | Novelty | ★★★☆☆ | Pipeline is novel; taxonomy is derivative |
 
 **Bottom line:** The paper is stronger as an **engineering case study** than as a **scientific benchmark**. PAT's architecture is worth studying and potentially adapting for our own review workflows. The 34% improvement claim should be treated as promising but not proven until independently reproduced at scale.
+
+See also: [[paper-assistant-tool-google-pat]]
+
+See also: [[autoresearch-pattern]]

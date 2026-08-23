@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Daily Practice Routine for Music
-description: "--
-Daily Practice Routine for Music"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- practice
-- learning
-sources:
-- music-theory-fundamentals.md
-related:
-- music-theory-fundamentals
-- ear-training
----
+
 --
 # Daily Practice Routine for Music
 
@@ -44,3 +27,5 @@ Effective music practice follows a structured routine of 30-60 minutes per day, 
 - Ignoring theory
 
 These principles connect to broader learning strategies relevant to [[ear-training]] and skill development.
+
+See also: [[music-theory-fundamentals]]

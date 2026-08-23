@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: concept
-tags: [autoresearch, karpathy, experiment-loop, ml-training, nanoGPT]
-related: [awesome-autoresearch, autoresearch-pattern, nanoGPT, experiment-loop]
----
 
 # Karpathy Autoresearch Loop
 
@@ -38,3 +32,7 @@ The original autoresearch implementation by Andrej Karpathy, published February 
 - **Empirical gate** — no theoretical justification is accepted; only measured improvement passes
 - **Emergent serendipity** — the agent discovers improvements a human would never think to try because it doesn't need to justify them, only measure them
 - **Git discipline** — clean commit history means every accepted change is reviewed and reproducible
+
+See also: [[awesome-autoresearch]]
+
+See also: [[autoresearch-pattern]]

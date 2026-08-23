@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: The Greeks
-description: "The Greeks είναι τα βασικά μέτρα ευαισθησίας που περιγράφουν πώς επηρεάζεται η τιμή ενός option από αλλαγές στις μεταβλητές της αγοράς."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-- risk-management
-sources:
-- Options Trading.md
-related:
-- options-trading
-- delta-hedging
-- implied-volatility
-- time-decay
-- risk-management
----
+
 --
 # The Greeks
 
@@ -44,3 +24,9 @@ The Greeks είναι τα βασικά μέτρα ευαισθησίας που
 - [[Implied Volatility]]
 - [[Time Decay]]
 - [[options-trading]]
+
+See also: [[implied-volatility]]
+
+See also: [[time-decay]]
+
+See also: [[risk-management]]

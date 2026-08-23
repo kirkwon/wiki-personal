@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Options Trading
-description: "Options (διαφορικά σύμβολα) είναι συμβόλαια παράγωγα που δίνουν το δικαίωμα, αλλά όχι την υποχρέωση, να αγοράσετε ή να πουλήσετε ένα πέρασμα σε προκαθορισμένη τιμή (strike) μέχρι μια συγκεκριμένη ημερ."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-- risk
-- leverage
-- trading
-sources:
-- Options Trading.md
-related:
-- risk-management
-- retirement-planning
-- alternative-investments
-- decision-making-frameworks
-- probability-and-judgment-under-uncertainty
-- real-options-analysis
----
+
 --
 # Options Trading
 
@@ -127,3 +104,9 @@ Bull put spread + bear call spread. Παράγει εισπράξεις όταν
 - [[decision-tracking]]
 - [[kelly-criterion]]
 - [[martingale-strategy]]
+
+See also: [[retirement-planning]]
+
+See also: [[alternative-investments]]
+
+See also: [[decision-making-frameworks]]

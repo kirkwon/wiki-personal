@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 16th Avenue Tiled Steps
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- bay-area
-- landmarks
-sources:
-- golden-gate-heights.md
-related:
-- golden-gate-heights
-- grandview-park
-- ocean-beach
----
+
 -
 # 16th Avenue Tiled Steps
 
@@ -45,3 +28,9 @@ The 16th Avenue Tiled Steps are the signature landmark of Golden Gate Heights â€
 
 One of the best photography spots in the neighborhood â€” colorful, iconic, and popular for photos.
 ---
+
+See also: [[golden-gate-heights]]
+
+See also: [[grandview-park]]
+
+See also: [[ocean-beach]]

@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Allen Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-sources:
-- Allen.md
-related:
-- david-allen
-- getting-things-done---david-allen
+david-allen
 - mental-models
 - planning
 ---
@@ -24,3 +11,7 @@ This model is referenced in connection with [[ready-for-anything-david-allen]], 
 
 Due to the thin nature of the source, specific principles or techniques from this model are not elaborated here. Readers interested in David Allen's broader framework should consult [[getting-things-done---david-allen]] and related productivity resources.
 ---
+
+See also: [[david-allen]]
+
+See also: [[getting-things-done]]

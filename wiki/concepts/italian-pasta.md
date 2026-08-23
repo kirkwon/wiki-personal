@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Italian Pasta
-description: "Pasta is the foundation of Italian cuisine — versatile, affordable, and beloved worldwide."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cuisine
-- italian
-- technique
-- recipe
-sources:
-- pasta.md
-related:
-- italian-cuisine
-- category-cooking-techniques
-- al-dente-technique
-- pasta-shapes-and-sauces
-- carbonara
-- cacio-e-pepe
----
+
 --
 # Italian Pasta
 
@@ -120,3 +99,15 @@ Ingredients: flour (all-purpose or semolina), eggs (2 per cup flour), pinch of s
 Quality ingredients (guanciale, Pecorino Romano, good eggs) and proper technique matter more than elaborate recipes. Al dente is non-negotiable.
 
 [[wikilink-carbonara]] | [[wikilink-cacio-e-pepe]] | [[wikilink-al-dente-technique]] | [[wikilink-pasta-shapes-and-sauces]]
+
+See also: [[italian-cuisine]]
+
+See also: [[category-cooking-techniques]]
+
+See also: [[al-dente-technique]]
+
+See also: [[pasta-shapes-and-sauces]]
+
+See also: [[carbonara]]
+
+See also: [[cacio-e-pepe]]

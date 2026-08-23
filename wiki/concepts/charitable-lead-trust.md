@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Charitable Lead Trust
-description: "--
-Charitable Lead Trust (CLT)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- tax-planning
-sources:
-- Trusts Guide.md
-related:
-- charitable-remainder-trust
-- irrevocable-trusts
-- trusts-guide
----
+
 --
 # Charitable Lead Trust (CLT)
 
@@ -44,3 +25,7 @@ An irrevocable trust that pays income to charitable beneficiaries for a period, 
 - Small charitable payment enables large transfers to heirs
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[charitable-remainder-trust]]
+
+See also: [[irrevocable-trusts]]

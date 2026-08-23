@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Medicare Overview
-description: "Medicare is the federal health insurance program for people age 65 and older, covering hospital, medical, prescription drug, and supplemental coverage."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- retirement
-- healthcare
-- insurance
-sources:
-- Healthcare Costs in Retirement.md
-related:
-- healthcare-costs-in-retirement
-- irmaa
-- retirement-planning
----
+
 --
 # Medicare Overview
 
@@ -60,3 +42,5 @@ Medicare is the federal health insurance program for people age 65 and older, co
 
 ## See Also
 [[irmaa]], [[healthcare-costs-in-retirement]], [[medigap]]
+
+See also: [[retirement-planning]]

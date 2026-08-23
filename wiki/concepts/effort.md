@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Effort
-description: "Effort is a conceptual tool or principle for navigating complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-sources:
-- Effort.md
-related:
-- deep-work - Cal Newport
-- hyperfocus---chris-bailey
+chris-bailey
 - scatterfocus
 - attention-residue
 - attention-budget
@@ -34,3 +20,5 @@ Effort connects to several existing attention and productivity concepts:
 - [[attention-budget]] — treating attention as a finite resource
 
 The distinction between Effort as a mental model and these existing concepts remains underdeveloped in the current source material.^[raw/articles/Effort.md]
+
+See also: [[hyperfocus]]

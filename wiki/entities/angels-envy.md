@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Angel's Envy
-description: "Kentucky Straight Bourbon with a port wine barrel finish."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- beverages
-- spirits
-- whisky
-- bourbon
-sources:
-- Whisky Tasting Notes.md
-related:
-- whisky-tasting-notes
-- spirits-index
-- whisky-tasting-methodology
----
+
 --
 # Angel's Envy
 
@@ -36,3 +18,9 @@ Kentucky Straight Bourbon with a port wine barrel finish. Rated as a premium bou
 
 ## Comparison
 High sweetness (★★★★) and complexity (★★★★★) with moderate spice (★★). Value rated at ★★★.
+
+See also: [[whisky-tasting-notes]]
+
+See also: [[spirits-index]]
+
+See also: [[whisky-tasting-methodology]]

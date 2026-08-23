@@ -1,17 +1,9 @@
----
+Sources: [[thinking-in-bets]]
 
-date: 2026-05-03
-title: Bet Sizing
-description: "Managing risk by determining the optimal proportion of resources committed to a given opportunity."
-created: 2026-05-03
-updated: 2026-05-03
-type: concept
-tags:
-- decision-making
-- mental-models
-- risk-management
-sources:
-- thinking-in-bets
-- Bet Sizing
-related: [kelly-criterion, risk-assessment-framework, decision-making-under-uncertainty, martingale-strategy]
----
+See also: [[kelly-criterion]]
+
+See also: [[risk-assessment-framework]]
+
+See also: [[decision-making-under-uncertainty]]
+
+See also: [[martingale-strategy]]

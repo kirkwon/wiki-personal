@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Methods (mental model)
-description: "--
-Methods (mental model)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Methods.md
-related:
-- recipes-mental-model
-- framework-template
-- problem.md
-- solutions
-- the-index-card-rules
-- stillness
-- getting-things-done---david-allen
+david-allen
 - how-to-take-smart-notes---snke-ahrens
 ---
 --
@@ -57,3 +37,7 @@ Moderate (0.7) — the model is well-supported by source references but remains 
 - [[stillness]]
 - [[how-to-take-smart-notes---snke-ahrens]]
 - [[getting-things-done---david-allen]]
+
+See also: [[solutions]]
+
+See also: [[getting-things-done]]

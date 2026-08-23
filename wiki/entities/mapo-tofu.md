@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 麻婆豆腐
-description: "麻婆豆腐（Mapo Tofu，麻婆豆腐）是四川菜系最具标志性的菜品，以嫩豆腐在麻辣鲜香的酱汁中烹制而成。相传由成都城墙上'老娘麻'（麻婆）所创，最初是简单平价的农家菜，如今已成为世界闻名的经典川菜。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- chinese
-- sichuan
-- mapo-tofu
-- recipe
-- dish
-- sichuan-cuisine
-- technique
-- ingredient
-sources:
-- mapo-tofu.md
-related:
-- sichuan-cuisine
-- wok-hei
-- chinese-cuisine
-- aromatics
-- doubanjiang
-- sichuan-peppercorns-huajiao
-- má-là-flavor
-- fuchsia-dunlop
----
+
 --
 # 麻婆豆腐
 
@@ -120,3 +93,9 @@ related:
 ## 推荐阅读
 
 Fuchsia Dunlop 的《Land of Plenty》《The Food of Sichuan》《Sichuan Cookery》
+
+See also: [[chinese-cuisine]]
+
+See also: [[aromatics]]
+
+See also: [[fuchsia-dunlop]]

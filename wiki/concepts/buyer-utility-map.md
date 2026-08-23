@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Buyer Utility Map
-description: "The buyer utility map is a tool for assessing a product or service's utility across the full cycle of the buyer experience."
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- strategy
-- business
-- analysis
-- market-strategy
-sources:
-- blue-ocean-strategy
-- Buyer Utility Map
-related: ["blue-ocean-strategy", "strategic-sequence", "six-paths-framework", "value-innovation-analysis", "strategic-sequence-testing"]
----
+
 # Buyer Utility Map
 
 The **buyer utility map** is a tool for assessing a product or service's utility across the full cycle of the buyer experience. It identifies the six utility levers that buyers value when purchasing a product or service and the six stages of the buyer experience cycle — purchase, delivery, use, maintenance, upgrade, and disposal. Together, these levers and stages help assess whether a new offering will deliver exceptional utility, identify where buyers experience pain or gain, and reveal where exceptional utility can be created.
@@ -44,3 +28,9 @@ The map evaluates utility across these stages:
 ## Purpose and Application
 
 This tool ensures that a blue ocean idea is grounded in what buyers actually value, preventing strategies that look innovative on paper but fail to connect with market demand. It is used in the first step of the [[strategic-sequence]] — ensuring exceptional buyer utility — and connects to the [[six-paths-framework]] by examining buyer chain dynamics across alternative industries.
+
+Sources: [[blue-ocean-strategy]]
+
+See also: [[value-innovation-analysis]]
+
+See also: [[strategic-sequence-testing]]

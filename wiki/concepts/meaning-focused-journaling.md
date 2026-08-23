@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-title: Meaning-Focused Journaling
-created: 2026-05-03
-updated: 2026-05-03
-type: concept
-tags:
-- psychology
-- journaling
-- meaning
-- reflection
-- practice
-sources:
-- Mans Search for Meaning - Viktor Frankl.md
-related:
-- viktor-frankl
-- logotherapy
-- meaning-finding-framework
-- responsibility-awareness
----
+
 -
 # Meaning-Focused Journaling
 
@@ -32,3 +13,7 @@ A reflective writing practice derived from Frankl's logotherapy, aimed at identi
 ## Connection to Other Concepts
 Supports [[meaning-finding-framework]] as a practical method. Complements [[logotherapy]] techniques and connects to the broader theme of [[embracing-failure-for-personal-growth]].
 ---
+
+See also: [[viktor-frankl]]
+
+See also: [[responsibility-awareness]]

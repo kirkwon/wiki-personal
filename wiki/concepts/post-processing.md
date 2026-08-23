@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Post-Processing
-description: "Post-processing is the act of editing photos after capture to enhance, correct, and style images."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- editing
-- post-processing
-sources:
-- photography-fundamentals.md
-- post-processing.md
-related:
-- photography-fundamentals
-- composition-techniques
-- street-photography
-- golden-hour
-- decisive-moment
-- zone-focusing
----
+
 --
 # Post-Processing
 
@@ -149,3 +128,7 @@ Books: "The Adobe Photoshop Lightroom Classic Book" by Scott Kelby, "The Digital
 
 See [[photography-fundamentals]] for the broader context of processing in the photography workflow.  
 [[photography-fundamentals]] | [[composition-techniques]] | [[street-photography]] | [[golden-hour]]
+
+See also: [[decisive-moment]]
+
+See also: [[zone-focusing]]

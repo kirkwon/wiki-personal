@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Clustering Illusion
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- probability
-sources:
-- The Art of Thinking Clearly - Rolf Dobelli.md
-related:
-- cognitive-biases-library
-- probabilistic-illusion
-- false-causality
----
+
 -
 # Clustering Illusion
 
@@ -31,3 +16,7 @@ Seeing a "hot streak" in coin flips or stock performance and believing the patte
 ## Guardrail
 Ask whether the pattern could reasonably occur by chance alone, and compare to what random data would look like.
 ---
+
+See also: [[cognitive-biases-library]]
+
+See also: [[false-causality]]

@@ -1,21 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Stillness
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- philosophy
-- decision-making
-sources:
-- Stillness.md
-related:
-- planning
-- solutions
-- group
-- ryan-holiday
----
+
 -
 # Stillness
 
@@ -37,3 +20,7 @@ Stillness connects to several existing mental model pages in the wiki, including
 
 The model currently carries a confidence level of 0.7, indicating moderate maturity. It is still being validated and developed, with a single primary source anchoring its intellectual foundation. Additional cross-referencing from other domains could strengthen the model's applicability.
 ---
+
+See also: [[solutions]]
+
+See also: [[ryan-holiday]]

@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Strategy Canvas
-description: "The strategy canvas is a central analytical tool in Blue Ocean Strategy for mapping how an industry competes across key factors."
-created: 2026-05-03
-updated: 2026-05-11
-tags:
-- strategy
-- business
-- analysis
-- mental-models
-sources:
-- blue-ocean-strategy
-- Strategy Canvas
-related: ["blue-ocean-strategy", "value-innovation", "four-actions-framework-eliminate-reduce-raise-create", "six-paths-framework", "four-actions-framework"]
----
+
 # Strategy Canvas
 
 The **strategy canvas** is a central analytical tool in Blue Ocean Strategy for mapping how an industry competes across key factors. It plots the value curves of industry players along the factors the industry competes on, revealing where curves converge (red ocean competition) and where gaps exist (blue ocean opportunity).
@@ -31,3 +15,5 @@ The canvas serves as both a diagnostic tool (revealing competitive inertia) and 
 - [[value-innovation]] – Creating a leap in value revealed by the canvas
 - [[six-paths-framework]] – Exploring divergence opportunities
 - [[strategic-vs-reactive-thinking]] – Moving beyond existing competitive patterns
+
+See also: [[four-actions-framework]]

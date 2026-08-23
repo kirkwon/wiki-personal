@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Concentration Risk
-description: "Concentration risk occurs when investments are excessively exposed to a single asset, fund, manager, stock, company, or sector, creating a single point of failure."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- finance
-- risk-management
-- portfolio
-- investing
-- concentration-risk
-- personal-finance
-sources:
-- Alternative Investments.md
-- Risk Management.md
-related:
-- alternative-investments
-- real-estate-investment
-- private-equity
-- risk-assessment-framework
-- diversification
-- position-sizing
-- risk-management
-- illiquidity-risk
-- manager-risk
----
+
 --
 
 # Concentration Risk
@@ -65,3 +38,11 @@ Concentration risk occurs when investments are excessively exposed to a single a
 - [[diversification]]
 - [[Position Sizing]]
 - [[risk-management]]
+
+See also: [[real-estate-investment]]
+
+See also: [[private-equity]]
+
+See also: [[risk-assessment-framework]]
+
+See also: [[position-sizing]]

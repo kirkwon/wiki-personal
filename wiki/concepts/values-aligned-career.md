@@ -1,17 +1,7 @@
----
+See also: [[cv-xcv-framework]]
 
-date: 2026-05-03
-type: concept
-title: Values-Aligned Career
-description: "Work that reflects your core beliefs, fostering purpose and genuine professional fulfillment."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- career
-- philosophy
-- personal-development
-sources:
-- everything-is-fcked-a-book-about-hope
-- Values-Aligned Career
-related: [cv-xcv-framework, investment-strategies-for-life-satisfaction, balancing-ambition-with-well-being, broken-world-hope-framework]
----
+See also: [[investment-strategies-for-life-satisfaction]]
+
+See also: [[balancing-ambition-with-well-being]]
+
+See also: [[broken-world-hope-framework]]

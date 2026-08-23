@@ -1,48 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Miles Davis
-description: "Miles Davis (May 26, 1926 – September 28, 1991) was a groundbreaking jazz trumpeter, bandleader, and composer from Alton, Illinois."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- jazz
-- musicians
-- trumpet
-- bebop
-- cool-jazz
-- modal-jazz
-- fusion
-- music
-sources:
-- miles-davis.md
-related:
-- john-coltrane
-- charlie-parker
-- herbie-hancock
-- wayne-shorter
-- gil-evans
-- kind-of-blue
-- bitches-brew
-- jazz-harmony
-- modal-jazz
-- bebop
-dates:
-  - date: "1926-05-26"
-    event: "Born in Alton, Illinois"
-  - date: "1945-01-01"
-    event: "Bebop era begins — sessions with Charlie Parker"
-  - date: "1949-01-01"
-    event: "Birth of the Cool recordings"
-  - date: "1959-08-17"
-    event: "Kind of Blue released"
-  - date: "1969-01-01"
-    event: "Bitches Brew recording sessions"
-  - date: "1970-03-30"
-    event: "Bitches Brew released"
-  - date: "1991-09-28"
-    event: "Died in Santa Monica, California"
----
+
 --
 # Miles Davis
 
@@ -113,3 +69,9 @@ Influenced Wynton Marsalis, Chris Botti, Terence Blanchard, Herbie Hancock, Wayn
 **1959-08-17** | Kind of Blue released
 **1970-03-30** | Bitches Brew released
 **1991-09-28** | Died in Santa Monica, California
+
+See also: [[jazz-harmony]]
+
+See also: [[modal-jazz]]
+
+See also: [[bebop]]

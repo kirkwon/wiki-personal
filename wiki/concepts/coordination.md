@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Coordination
-description: "Coordination is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- group
-sources:
-- Coordination.md
-related:
-- the-wisdom-of-crowds
-- james-surowiecki
-- group-decision-polarization
-- communication-skills
-- building-a-cohesive-team
-- group
-- decision-making-frameworks
-confidence: 0.7
----
+
 --
 # Coordination
 
@@ -50,3 +28,5 @@ How does coordination as a mental model differ from or complement the existing [
 ## Sources
 
 - [[the-wisdom-of-crowds---james-surowiecki]]
+
+See also: [[james-surowiecki]]

@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 苏菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
-- jiangsu-cuisine
----
+
 -
 # 苏菜
 
@@ -40,3 +25,7 @@ related:
 - 注重口感
 - 大量使用糖
 ---
+
+See also: [[chinese-regional-cuisines]]
+
+See also: [[jiangsu-cuisine]]

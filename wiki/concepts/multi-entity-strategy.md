@@ -1,22 +1,4 @@
----
-date: 2026-04-22
-type: concept
-title: Multi-Entity Strategy
-created: 2026-04-22
-updated: 2026-04-22
-tags:
-- business-structure
-- entity-selection
-- asset-protection
-- real-estate-investment
-sources:
-- Company Structure Guide.md
-related:
-- real-estate-entity-structures
-- multi-entity-strategy
-- charging-order-protection
-- trusts-guide
----
+
 -
 # Multi-Entity Strategy
 
@@ -78,3 +60,5 @@ Multi-entity layering optimizes risk isolation and liability protection while su
 ## Tags
 
 business-structure, entity-selection, asset-protection, real-estate-investment
+
+See also: [[multi-entity-strategy]]

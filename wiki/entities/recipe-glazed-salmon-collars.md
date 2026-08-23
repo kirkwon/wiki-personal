@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 'Recipe: Glazed Salmon Collars'
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- cooking
-- salmon
-- seafood
-sources:
-- Gastronomy.md
-related:
-- salmon-collars
-- resting-meat
-- flavor-theory
-- seasonings
----
+
 -
 # Recipe: Glazed Salmon Collars
 
@@ -30,3 +12,5 @@ Key elements:
 
 This recipe is a signature dish in the gastronomy portal and connects to [[salmon-collars]] and [[seasonings]].
 ---
+
+See also: [[flavor-theory]]

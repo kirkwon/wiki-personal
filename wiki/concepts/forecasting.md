@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Forecasting
-description: "Forecasting is a universal mental model that serves as a conceptual tool for navigating complex situations through pattern recognition and sense-making."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- prediction
-- decision-making
-sources:
-- Forecasting.md
-- superforecasting
-- Forecasting
-related: [superforecasting, prediction-markets, bayesian-thinking, probability-and-judgment-under-uncertainty, decision-making-under-uncertainty, scenario-planning, monte-carlo-simulations, cognitive-biases-library]
----
+
 # Forecasting
 
 Forecasting is a universal mental model that serves as a conceptual tool for navigating complex situations through pattern recognition and sense-making. It provides a framework for making sense of patterns and relationships in uncertain environments, distinguishing itself from mere prediction by emphasizing probabilistic reasoning and iterative belief updating.
@@ -40,3 +24,9 @@ Forecasting relates closely to [[bayesian-thinking]] through its emphasis on upd
 ## Open Questions
 
 What distinguishes "Forecasting" as a mental model from "Superforecasting" as a practice remains an open boundary question. The model is labeled universal with moderate confidence (0.7), suggesting ongoing refinement of its scope and applicability.
+
+Sources: [[superforecasting]]
+
+Sources: [[Forecasting]]
+
+See also: [[cognitive-biases-library]]

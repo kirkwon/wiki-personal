@@ -1,27 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: System Dynamics
-description: "System dynamics is a methodology for modeling complex systems through feedback loops, stocks, flows, and delays."
-created: 2026-05-03
-updated: 2026-05-11
-tags:
-- systems-thinking
-- modeling
-- sustainability
-- mental-models
-sources:
-- Limits to Growth_ The 30-Year Update - Donella H Meadows.md
-- Thinking in Systems - Donella H. Meadows.md
-related:
-- world3-model
-- limits-to-growth
-- scenario-planning
-- feedback-loops
-- nonlinear-behavior
-- leverage-points
-- complex-adaptive-systems
----
+
 --
 # System Dynamics
 
@@ -41,3 +18,7 @@ System behavior is often counterintuitive. Linear thinking—assuming proportion
 ## Connections
 
 Meadows and colleagues used system dynamics to generate multiple scenarios for future global development, connecting directly to [[scenario-planning]] as a decision-making tool. System dynamics connects to [[feedback-loops]], [[nonlinear-behavior]], [[leverage-points]], and [[complex-adaptive-systems]]. It relates to [[systematic-decision-making]] and complements [[the-checklist-manifesto---atul-gawande]] by focusing on structural understanding rather than checklist compliance.
+
+See also: [[world3-model]]
+
+See also: [[limits-to-growth]]

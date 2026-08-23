@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Smarter Faster Better
-description: "--
-Smarter Faster Better"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- productivity
-- mental-models
-- habits
-sources:
-- Habits.md
-related:
-- habits
-- charles-duhigg
-- supercommunicators-charles-duhigg
----
+
 --
 # Smarter Faster Better
 
@@ -30,3 +11,9 @@ related:
 
 ## Relevance
 Duhigg's work bridges cognitive science and habit formation, providing scientific grounding for the Habits mental model.
+
+See also: [[habits]]
+
+See also: [[charles-duhigg]]
+
+See also: [[supercommunicators-charles-duhigg]]

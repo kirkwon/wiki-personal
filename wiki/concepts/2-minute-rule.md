@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: 2-Minute Rule
-description: "The 2-minute rule is a habit formation technique where any new habit should take less than two minutes to start."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- habit-formation
-sources:
-- The PARA Method_ Simplify, Organize, and Master Your Digital Life - Tiago Forte.md
-related:
-- habit-testing
-- internal-triggers
-- external-triggers
----
+
 --
 # 2-Minute Rule
 
@@ -27,3 +11,7 @@ Instead of committing to a large habit like "exercise for 30 minutes daily," you
 ## Application
 
 This rule is used in the PARA Method alongside environment design, time blocking, and focus enhancement techniques. It connects to [[habit-testing]] by providing a low-stakes way to build consistency before scaling up intensity or duration.
+
+See also: [[internal-triggers]]
+
+See also: [[external-triggers]]

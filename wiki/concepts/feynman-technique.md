@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: The Feynman Technique
-description: "The Feynman Technique"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- knowledge
-- learning
-- skill-candidate
-- cognitive-science
-- problem-solving
-- mental-models
-- super-thinking
-- The Feynman Technique
-related: [mental-models, spaced-repetition, deliberate-practice, personal-knowledge-vault-readme, super-thinking-gabriel-weinberg, growth-mindset]
----
+
 # The Feynman Technique
 
 Learning by teaching and simplifying concepts — if you can't explain something simply, you don't understand it well enough. The Feynman Technique is a learning method where you learn by teaching — you simplify complex concepts to the point where you could explain them to a child, exposing gaps in your understanding. Covered in Part VII of *Super Thinking*.
@@ -35,3 +18,5 @@ Weinberg groups the Feynman Technique alongside [[spaced-repetition]] and [[deli
 
 ## Related Pages
 Related to [[super-thinking-gabriel-weinberg]], [[spaced-repetition]], [[deliberate-practice]], and [[personal-knowledge-vault-readme]].
+
+See also: [[mental-models]]

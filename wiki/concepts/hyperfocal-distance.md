@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Hyperfocal Distance
-description: "--
-Hyperfocal Distance"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- street
-- technique
-- optics
-sources:
-- street-photography.md
-related:
-- street-photography
-- zone-focusing
-- composition-techniques
----
+
 --
 # Hyperfocal Distance
 
@@ -42,3 +23,7 @@ The hyperfocal distance is the point at which the lens focuses where everything 
 ## Connection to Street Photography
 
 Hyperfocal distance complements [[zone-focusing]] as a pre-focusing strategy. Both techniques prioritize speed and discretion, enabling photographers to capture the [[decisive-moment]] without fumbling with focus.
+
+See also: [[street-photography]]
+
+See also: [[composition-techniques]]

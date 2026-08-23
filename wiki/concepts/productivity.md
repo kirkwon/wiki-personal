@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Productivity
-description: "Productivity is a universal mental model—not merely a metric of output per hour, but a conceptual tool for navigating complexity through pattern recognition."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- mental-model
-- cognitive-science
-related:
-- slow-productivity
-- deep-work - Cal Newport
-- getting-things-done---david-allen
+david-allen
 - building-a-second-brain---tiago-forte
 - the-4-hour-workweek---timothy-ferriss
 sources:
@@ -49,3 +35,5 @@ This model bridges time management (Covey/Allen), knowledge management (Forte), 
 - [[hyperfocus]]
 - [[scatterfocus]]
 - [[stillness]]
+
+See also: [[getting-things-done]]

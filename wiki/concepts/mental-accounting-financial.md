@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Mental Accounting (Financial)
-description: "--
-Mental Accounting (Financial)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- psychology
-- behavioral-economics
-sources:
-- The Psychology of Money.md
-related:
-- money-scripts
-- categorizing-information
----
+
 --
 # Mental Accounting (Financial)
 
@@ -34,3 +17,7 @@ Mental accounting connects to money scripts — deeply held beliefs about money 
 - Label money for specific purposes.
 - Create psychological barriers to spending.
 - Automate transfers to designated accounts.^[raw/articles/The Psychology of Money.md]
+
+See also: [[money-scripts]]
+
+See also: [[categorizing-information]]

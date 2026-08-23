@@ -1,28 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Brain's Social Motivation System
-description: "Brain's Social Motivation System"
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- cognitive-science
-- psychology
-- neuroscience
-- communication
-- empathy
-related:
-- cognitive-science-decisions
-- emotional-intelligence-in-communication
-- supercommunicators-charles-duhigg-book-summary
-- mirroring-neurons
-- effective-listening
-- communication-skills
-- building-a-cohesive-team
-sources:
-- supercommunicators
-- cognitive-science-decisions
----
+
 
 # Brain's Social Motivation System
 
@@ -46,3 +22,9 @@ This innate social motivation system is fundamental to effective communication. 
 *   [[emotional-intelligence-in-communication]]
 *   [[building-a-cohesive-team]]
 *   [[cognitive-science-decisions]]
+
+Sources: [[supercommunicators]]
+
+See also: [[supercommunicators-charles-duhigg-book-summary]]
+
+See also: [[communication-skills]]

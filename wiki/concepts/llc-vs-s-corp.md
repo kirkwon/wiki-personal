@@ -1,22 +1,4 @@
----
-date: 2026-04-22
-type: concept
-title: LLC vs S Corporation
-created: 2026-04-22
-updated: 2026-04-22
-tags:
-- business-structure
-- entity-selection
-- tax-planning
-- comparison
-sources:
-- Company Structure Guide.md
-related:
-- llc
-- s-corporation
-- self-employment-tax-optimization
-- entity-selection-framework
----
+
 -
 # LLC vs S Corporation
 
@@ -68,3 +50,7 @@ The choice between LLC and S Corp often comes down to tax optimization needs, go
 ## Tags
 
 business-structure, entity-selection, tax-planning, comparison
+
+See also: [[llc]]
+
+See also: [[s-corporation]]

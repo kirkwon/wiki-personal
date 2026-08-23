@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Capital Gains vs. Property Tax Tradeoff
-description: "--
-Capital Gains vs. Property Tax Tradeoff"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- tax
-- skill-candidate
-- personal-finance
-- Proposition 19 Overview.md
-- Proposition 19 Overview.md
-related:
-- proposition-19
-- cost-basis
-- return-of-capital
-- 1031-exchange-strategy
-- real-estate-investment
----
+
 --
 # Capital Gains vs. Property Tax Tradeoff
 
@@ -42,3 +20,5 @@ Real estate investors must weigh the cash flow impact of higher property taxes a
 - [[cost-basis]] — Original value used to calculate capital gains
 - [[return-of-capital]] — Distribution returning investor's own capital, reducing cost basis
 - [[real-estate-investment]] — Portfolio strategy must account for this tradeoff
+
+See also: [[proposition-19]]

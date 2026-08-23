@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Understanding Others Through Their Mental Models
-description: "Understanding Others Through Their Mental Models"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- mental-models
-- communication
-- psychology
-- decision-making
-sources:
-- the-great-mental-models-vol-1
-- Understanding Others Through Their Mental Models
-related: [effective-listening, the-five-dysfunctions-of-a-team, communication-skills, empathy-in-decision-making]
----
+
 # Understanding Others Through Their Mental Models
 
 This concept focuses on using empathy as a tool to understand other people's perspectives and actions by considering their underlying mental models. By mapping how others see the world, we can communicate more effectively and collaborate more productively.
@@ -32,3 +16,5 @@ When facing disagreement or misunderstanding, the reflexive question should be: 
 ## Source
 Shane Parrish, *The Great Mental Models (Vol. 1)*, Chapter 7
 ^[raw/articles/the-great-mental-models-vol-1---shane-parrish.md]
+
+Sources: [[the-great-mental-models-vol-1]]

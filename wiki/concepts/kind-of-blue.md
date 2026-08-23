@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Kind of Blue
-description: "Kind of Blue (1959) is the best-selling jazz album of all time and the defining work of modal jazz."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- music
-- albums
-sources:
-- miles-davis.md
-related:
-- miles-davis
-- modal-jazz
-- jazz-harmony
----
+
 --
 # Kind of Blue
 
@@ -36,3 +19,5 @@ Kind of Blue demonstrated that jazz could thrive with fewer chord changes, placi
 
 ## Listening Recommendation
 For newcomers, start with "So What" and "Blue in Green" before exploring the full album in sequence.
+
+See also: [[miles-davis]]

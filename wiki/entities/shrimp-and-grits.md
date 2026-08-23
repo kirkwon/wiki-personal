@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Shrimp and Grits
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- comfort-food
-- southern-soul-food
-sources:
-- southern-soul-food.md
-related:
-- southern-soul-food
-- comfort-food
-- cornbread
----
+
 -
 # Shrimp and Grits
 
@@ -34,3 +18,7 @@ Shrimp and grits is a Southern comfort breakfast featuring creamy stone-ground g
 - [[cornbread]]
 - [[fried-chicken]]
 ---
+
+See also: [[southern-soul-food]]
+
+See also: [[comfort-food]]

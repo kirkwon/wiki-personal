@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: synthesis
-tags: [autoresearch, finance, trading, quant, cross-reference]
-related: [awesome-autoresearch, factors, mean-variance-myopia-under-stochastic-volatility, pca-random-matrix-theory-equity-markets]
----
 
 # Finance / Trading Autoresearch — Cross-Reference with Quant Pipeline
 
@@ -162,3 +156,5 @@ Empirical validation of the PCA/RMT framework we just added. The lead-lag PCA st
 
 ## Next step
 Evaluate autoresearch-skfolio for integration: does our mean-variance pipeline benefit from adding autoresearch-style iteration to portfolio parameter discovery?
+
+See also: [[awesome-autoresearch]]

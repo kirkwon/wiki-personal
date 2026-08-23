@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Stage
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Stage.md
-confidence: medium
-related:
-- problem-mental-model
-- planning
-- overview
-- thinking-mental-model
-- solutions-mental-model
-- stillness
----
+
 -
 # Stage
 
@@ -27,3 +8,9 @@ This mental model is referenced in [[The Paradox of Choice - Barry Schwartz]] by
 
 Stage functions similarly to other pattern-recognition mental models in the wiki such as [[problem-mental-model]], [[planning]], and [[overview]], serving as a lens for navigating complexity through recognizing patterns and relationships. It is broadly applicable across domains but currently lacks extensive elaboration or distinguishing examples from adjacent mental models.
 ---
+
+See also: [[thinking-mental-model]]
+
+See also: [[solutions-mental-model]]
+
+See also: [[stillness]]

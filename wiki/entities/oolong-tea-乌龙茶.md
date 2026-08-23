@@ -1,32 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 乌龙茶 (Oolong Tea)
-description: "乌龙茶是半发酵茶，氧化程度从8%到80%，是加工最复杂、风味最多样的一类茶。核心特征在于通过精密控制氧化程度实现从花香到烘焙的广阔风味谱系，介于绿茶和红茶之间。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- tea
-- oolong
-- beverages
-- chinese-cuisine
-- taiwan
-- beverage
-- gastronomy
-- chinese
-sources:
-- Oolong Tea.md
-related:
-- tea
-- green-tea-绿茶-lǚ-chá
-- black-tea-红茶-hóng-chá
-- gongfu-brewing-功夫茶冲泡
-- partial-oxidation-部分氧化
-- chinese-cuisine
-- gongfu-cha-功夫茶
-- rock-tea-岩茶
-- tea-oxidation-茶叶氧化
----
+
 --
 # 乌龙茶 (Oolong Tea)
 
@@ -74,3 +46,19 @@ related:
 
 - 密封容器，50-70°F（10-21°C），避光干燥
 - 浅发酵乌龙保存6-12个月，深发酵可保存2-3年
+
+See also: [[tea]]
+
+See also: [[green-tea-绿茶-lǚ-chá]]
+
+See also: [[black-tea-红茶-hóng-chá]]
+
+See also: [[gongfu-brewing-功夫茶冲泡]]
+
+See also: [[partial-oxidation-部分氧化]]
+
+See also: [[chinese-cuisine]]
+
+See also: [[rock-tea-岩茶]]
+
+See also: [[tea-oxidation-茶叶氧化]]

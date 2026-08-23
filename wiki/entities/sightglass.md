@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Sightglass
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- coffee-shops
-sources:
-- san-francisco-city-guide.md
-related:
-- favorite-coffee-shops
-- wrecking-ball
----
+
 -
 # Sightglass
 
@@ -25,3 +10,7 @@ Café et torréfacteur local à San Francisco.
 - Mentionné avec Wrecking Ball comme roasters locaux
 
 ---
+
+See also: [[favorite-coffee-shops]]
+
+See also: [[wrecking-ball]]

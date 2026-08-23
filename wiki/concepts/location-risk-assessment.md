@@ -1,18 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Location Risk Assessment
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- risk-management
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- real-estate-investment
----
+
 -
 # Location Risk Assessment
 
@@ -28,3 +14,7 @@ Evaluating geographic and environmental risks for real estate investments using 
 ## Scoring
 5 = Excellent, minimal risk; 4 = Good, low risk; 3 = Average, moderate risk; 2 = Poor, significant risk; 1 = Poor, extreme risk.
 ---
+
+See also: [[risk-assessment-framework]]
+
+See also: [[real-estate-investment]]

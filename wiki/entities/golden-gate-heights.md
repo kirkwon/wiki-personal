@@ -1,32 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Golden Gate Heights
-description: "--
-Golden Gate Heights"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- local
-- sf
-- neighborhoods
-- bay-area
-- real-estate-market
-sources:
-- san-francisco-city-guide.md
-- golden-gate-heights.md
-related:
-- san-francisco
-- stairways
-- views
-- sunset-district
-- ocean-beach
-- golden-gate-park
-- san-francisco-city-guide
-- 16th-avenue-tiled-steps
-- grandview-park
-- sixteen-avenue-tiled-steps
----
+
 --
 # Golden Gate Heights
 
@@ -119,3 +91,9 @@ Golden Gate Heights is a residential neighborhood on the hills south of Golden G
 - San Francisco Recreation & Park
 - SFMTA transit information
 - Legion of Honor museum
+
+See also: [[san-francisco]]
+
+See also: [[san-francisco-city-guide]]
+
+See also: [[16th-avenue-tiled-steps]]

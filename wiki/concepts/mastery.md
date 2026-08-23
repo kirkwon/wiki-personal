@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Mastery
-description: "Mastery is a universal mental model serving as a conceptual tool for understanding patterns and relationships in complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- learning
-- skill-development
-- deliberate-practice
-sources:
-- Mastery.md
-confidence: medium
-related:
-- deep-work - Cal Newport
-- specialization-and-generalization
-- grit-concept
-- active-revision-techniques
-- the-fifth-discipline-fieldbook---peter-m-senge
+peter-m-senge
 - so-good-they-cant-ignore-you---cal-newport
 ---
 --
@@ -63,3 +43,5 @@ An open question: how does mastery as a mental model differ from grit, deliberat
 ## Applicability
 
 Universal — applicable across career development, creative pursuits, organizational learning, and personal growth.
+
+See also: [[the-fifth-discipline-fieldbook]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-18
-type: concept
-title: Purposeful Habits
-description: "Habits driven by meaning and purpose rather than mere routine or optimization."
-created: 2026-04-18
-updated: 2026-05-09
-tags:
-- productivity
-- mental-models
-- habits
-sources:
-- The 8th Habit_ From Effectiveness to Greatness - Stephen R. Covey.md
-- The 8th Habit_ From Effectiveness to Greatness - Stephen R Covey.md
-related:
-- habit-testing
-- active-revision-techniques
-- the-index-card-rules
-- purpose-driven-habits
-- the-8th-habit-from-effectiveness-to-greatness ---stephen-r-covey
+stephen-r-covey
 - the-8th-habit---stephen-r-covey
 - begin-with-principle
 - quadrant-2-focus
@@ -67,3 +48,5 @@ When optimization becomes obsession, when productivity systems create more work 
 
 ## Connection to Covey's Framework
 In *The 8th Habit*, purposeful habits serve as the foundation for building greatness, transforming one's life by ensuring that daily actions are expressions of deeper values rather than mere repetitions.
+
+See also: [[the-8th-habit-from-effectiveness-to-greatness]]

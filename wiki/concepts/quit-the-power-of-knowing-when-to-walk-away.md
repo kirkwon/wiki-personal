@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Quit - The Power of Knowing When to Walk Away
-description: "--
-Quit — The Power of Knowing When to Walk Away"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- decision-making
-- mental-model
-related:
-- choices
-- thinking-in-bets---annie-duke
+annie-duke
 - decision-quality-vs-outcome-quality
 - strategic-vs-reactive-thinking
 sources:
@@ -37,3 +24,5 @@ Annie Duke's *Quit* is a decision-making framework centered on the strategic val
 
 - [[decision-quality-vs-outcome-quality]]: Quitting a losing bet is a high-quality decision even if it feels like failure.
 - [[strategic-vs-reactive-thinking]]: Quitting requires strategic evaluation rather than reactive emotion.
+
+See also: [[thinking-in-bets]]

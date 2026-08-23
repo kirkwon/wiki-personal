@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Kansas City BBQ
-description: "Kansas City BBQ is known as the 'Sauce Capital' of American barbecue, defined by sweet, tomato-based sauce applied generously to both beef and pork dishes."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cuisine
-- american
-- barbecue
-- cooking
-sources:
-- bbq-regions.md
-related:
-- bbq-regions
-- bbq-techniques
-- american-bbq-philosophy
----
+
 --
 # Kansas City BBQ
 
@@ -46,3 +28,9 @@ Burnt ends are a Kansas City specialty: the fatty point of the brisket is cubed,
 - Tangy (vinegar)
 - Thick, glossy consistency
 ^[raw/articles/bbq-regions.md]
+
+See also: [[bbq-regions]]
+
+See also: [[bbq-techniques]]
+
+See also: [[american-bbq-philosophy]]

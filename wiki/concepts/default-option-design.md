@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Default Option Design
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- decision-making
-- behavioral-economics
-- behavioral-design
-sources:
-- Predictably Irrational - Dan Ariely.md
-related:
-- predictably-irrational-dan-ariely
-- decision-making-frameworks
-- inertia
-- commitment-devices
----
+
 -
 # Default Option Design
 
@@ -36,3 +19,7 @@ Most people do not actively change defaults. By choosing what is pre-selected, y
 
 Connects to [[inertia]] as a cognitive bias, [[commitment-devices]] as a complementary strategy, and [[decision-quality-vs-outcome-quality]] — defaults can improve decision quality without improving individual decision-making ability.
 ---
+
+See also: [[predictably-irrational-dan-ariely]]
+
+See also: [[decision-making-frameworks]]

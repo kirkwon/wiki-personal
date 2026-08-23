@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Signal (mental model)
-description: "--
-Signal (mental model)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- universal
-sources:
-- Signal.md
-related:
-- signal-vs-noise
-- thinking-mental-model
-- problem.md
-- solutions
-- group
-- overview
-- superforecasting
-confidence: medium
----
+
 --
 # Signal (mental model)
 
@@ -42,3 +20,7 @@ The model is positioned as universally applicable across general domains, servin
 - [[group]] — Collective analysis can help filter noise to reveal signal.
 - [[overview]] — Taking an overview perspective aids in detecting patterns.
 - [[superforecasting]] — Probabilistic forecasting relies heavily on separating signal from noise.
+
+See also: [[signal-vs-noise]]
+
+See also: [[solutions]]

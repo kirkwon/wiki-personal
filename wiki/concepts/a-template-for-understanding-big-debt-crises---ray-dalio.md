@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: A Template for Understanding Big Debt Crises - Ray Dalio
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- economics
-- debt-cycles
-- ray-dalio
-sources:
-- Economies.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - economies-as-mental-model
 - principles---ray-dalio
 ---
@@ -37,3 +24,5 @@ This template complements [[how-the-economic-machine-works---ray-dalio]] by prov
 - [[economies-as-mental-model]]
 - [[principles-ray-dalio]]
 ---
+
+See also: [[how-the-economic-machine-works]]

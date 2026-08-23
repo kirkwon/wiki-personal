@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Whisky Tasting Notes
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- gastronomy
-- spirits
-- whisky
-- tasting
-- personal-collection
-sources:
-- Whisky Tasting Notes.md
-related:
-- spirits-index
-- bourbon
-- scotch
-- whisky-tasting-methodology
-- whisky-price-tiers
----
+
 -
 # Whisky Tasting Notes
 
@@ -51,3 +31,5 @@ Evaluation across proof, age, sweetness, spice, complexity, and value dimensions
 
 See [[spirits-index]] for spirits overview, [[bourbon]] for bourbon context, [[scotch]] for Scotch context, and [[whisky-tasting-methodology]] for evaluation framework.
 ---
+
+See also: [[whisky-price-tiers]]

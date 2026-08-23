@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Battle
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - positioning
 - energy-and-momentum
 - speed-and-timing
@@ -28,3 +16,5 @@ The concept of direct engagement as a last resort in strategic thinking. From *T
 ## Connections
 Connects to [[positioning]] (battle should be unnecessary if positioning is correct), [[water-as-strategy]] (flow around obstacles rather than charge through), and [[effort]] (conserving energy by avoiding unnecessary conflict). Also relates to [[the-infinite-game---simon-sinek]]—the cooperative alternative to battle is sustained engagement and relationship-building.
 ---
+
+See also: [[the-art-of-war]]

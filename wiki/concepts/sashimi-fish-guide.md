@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Sashimi Fish Guide
-description: "--
-Sashimi Fish Guide (刺身用魚のガイド)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- sushi
-- sashimi
-- fish
-- seafood
-sources:
-- sushi-sashimi.md
-related:
-- sushi-and-sashimi
-- sushi-grade-fish
-- japanese-cuisine
----
+
 --
 # Sashimi Fish Guide (刺身用魚のガイド)
 
@@ -55,3 +35,7 @@ related:
 
 - [[sushi-grade-fish]] - 鮮度基準
 - [[sushi-tools]] - 包丁の選び方
+
+See also: [[sushi-and-sashimi]]
+
+See also: [[japanese-cuisine]]

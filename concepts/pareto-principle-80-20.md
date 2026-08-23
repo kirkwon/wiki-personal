@@ -1,25 +1,4 @@
----
-date: 2026-06-13
 
-type: concept
-title: Pareto Principle (80/20 Rule)
-related:
-  - leverage-and-randomness
-  - peril-of-leverage
-  - super-thinking-gabriel-weinberg
-  - first-things-first-principle
-sources:
-  - Super Thinking - Gabriel Weinberg
-ingested_via: put_page
-ingested_at: '2026-06-13T17:08:25.140Z'
-source_kind: put_page
-tags:
-  - concept
-  - leverage
-  - mental-model
-  - productivity
-  - strategy
----
 
 # Pareto Principle (80/20 Rule)
 
@@ -52,3 +31,13 @@ The exact ratio varies. Sometimes it's 90/10, sometimes 70/30. The principle isn
 - First Things First Principle — prioritizing the vital few
 - Peril of Leverage — the downside of over-concentration
 - Super Thinking — mental model catalog
+
+Sources: [[Super Thinking - Gabriel Weinberg]]
+
+See also: [[leverage-and-randomness]]
+
+See also: [[peril-of-leverage]]
+
+See also: [[super-thinking-gabriel-weinberg]]
+
+See also: [[first-things-first-principle]]

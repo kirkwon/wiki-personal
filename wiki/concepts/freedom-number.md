@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Freedom Number
-description: "The amount of money needed to achieve financial freedom, defined by Ramit Sethi using the 4% Rule: you need 25 times your annual expenses saved to withdraw 4% annually in retirement without running ou."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- retirement
-- investing
-sources:
-- I Will Teach You to Be Rich.md
-related:
-- i-will-teach-you-to-be-rich-ramit-sethi
-- retirement-planning
-- index-fund-investing-passive
-- the-4-percent-rule
----
+
 --
 # Freedom Number
 
@@ -45,3 +27,5 @@ The Freedom Number is directly derived from the 4% Rule, a widely used withdrawa
 ## See Also
 [[i-will-teach-you-to-be-rich-ramit-sethi]] | [[retirement-planning]] | [[index-fund-investing-passive]]
 ^[raw/articles/I Will Teach You to Be Rich.md]
+
+See also: [[the-4-percent-rule]]

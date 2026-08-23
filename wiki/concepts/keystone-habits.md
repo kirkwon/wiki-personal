@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Keystone Habits
-description: "Keystone habits are high-leverage behaviors that, once changed, catalyze positive transformation across other areas of life."
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- psychology
-- behavioral-science
-- habits
-- habit
-- mental-models
-sources:
-- the-power-of-habit
-- Keystone Habits
-related: ["habit-loop", "golden-rule-of-habit-change", "craving-brain", "building-a-cohesive-team", "infinite-game-mindset", "habit-stacking", "habit-change-golden-rule", "grit-concept"]
----
+
 # Keystone Habits
 
 Keystone habits are high-leverage behaviors that, once changed, catalyze positive transformation across other areas of life. Charles Duhigg describes them as the "art of small wins" — modest habit changes that create a cascade of further improvements through a sense of progress and capability.
@@ -37,3 +20,9 @@ Common examples include exercise routines, which often lead to better eating hab
 - Connects to [[infinite-game-mindset]] in that both emphasize long-term, compounding improvement over short-term results
 
 The concept is central to understanding how individuals and organizations can initiate systemic change through modest, focused interventions.
+
+See also: [[habit-loop]]
+
+See also: [[golden-rule-of-habit-change]]
+
+See also: [[craving-brain]]

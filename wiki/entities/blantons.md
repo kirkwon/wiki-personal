@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Blanton's
-description: "Single Barrel Kentucky Bourbon, described as a collector's bourbon worth seeking out."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- beverages
-- spirits
-- whisky
-- bourbon
-sources:
-- Whisky Tasting Notes.md
-related:
-- whisky-tasting-notes
-- spirits-index
-- whisky-tasting-methodology
----
+
 --
 # Blanton's
 
@@ -36,3 +18,9 @@ Single Barrel Kentucky Bourbon, described as a collector's bourbon worth seeking
 
 ## Comparison
 Top-rated for complexity (★★★★★) and sweetness (★★★★), with exceptional finish length. Value rated at ★★★.
+
+See also: [[whisky-tasting-notes]]
+
+See also: [[spirits-index]]
+
+See also: [[whisky-tasting-methodology]]

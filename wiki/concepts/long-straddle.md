@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Long Straddle
-description: "Long Straddle είναι μια στρατηγική όπου αγοράζω call και put στο ίδιο strike price και expiration. Κερδοφόρη αν υπάρξει μεγάλη κίνηση σε οποιαδήποτε κατεύθυνση."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-- volatility
-sources:
-- Options Trading.md
-related:
-- options-trading
-- iron-condor
-- implied-volatility
-- risk-management
----
+
 --
 # Long Straddle
 
@@ -43,3 +24,9 @@ Expect big move without knowing direction. Απαιτεί μεγάλη μετα�
 - [[options-trading]]
 - [[Implied Volatility]]
 - [[Iron Condor]]
+
+See also: [[iron-condor]]
+
+See also: [[implied-volatility]]
+
+See also: [[risk-management]]

@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Ali Abdaal
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- person
-- productivity
-sources:
-- YouTube-Watch-Later.md
-related:
-- productivity
-- habit-testing
-- personal-branding-and-wellbeing
----
+
 -
 # Ali Abdaal
 
@@ -30,3 +15,5 @@ related:
 [[productivity]] | [[habit-testing]]
 
 ---
+
+See also: [[personal-branding-and-wellbeing]]

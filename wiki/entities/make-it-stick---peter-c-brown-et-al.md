@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Make It Stick - Peter C. Brown et al.
-description: "--
-Make It Stick - Peter C."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- learning
-- cognitive-science
-sources:
-- Memorization.md
-related:
-- memorization
-- active-revision-techniques
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 ---
 --
 # Make It Stick - Peter C. Brown et al.
@@ -36,3 +19,5 @@ The book is referenced as a cross-source perspective on the memorization mental 
 - [[memorization]]
 - [[active-revision-techniques]]
 - [[experiment-and-exploration-forms-of-world-disclosure---snke-ahrens]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

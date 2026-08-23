@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Adrift - Scott Galloway
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- capitalism
-- consumerism
-sources:
-- Adrift - Scott Galloway.md
-related:
-- scott-galloway
-- the-four
-- the-algebra-of-happiness---scott-galloway
+scott-galloway
 - responsible-capitalism
 ---
 -
@@ -49,3 +34,7 @@ Related to [[the-four]] on corporate titans and [[the-algebra-of-happiness---sco
 ## Source
 ^[Adrift - Scott Galloway.md]
 ---
+
+See also: [[scott-galloway]]
+
+See also: [[the-algebra-of-happiness]]

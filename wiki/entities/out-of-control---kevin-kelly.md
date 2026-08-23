@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Out of Control - Kevin Kelly
-description: "-
-Out of Control - Kevin Kelly"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- books
-- systems-thinking
-- complexity
-- technology
-related:
-- systems
-- the-systems-bible ---john-gall
+john-gall
 - thinking-in-systems---donella-h-meadows
 - feedback-loop-design
 - scatterfocus
@@ -43,3 +28,5 @@ Kelly's work is one of the seven source perspectives cited in the [[systems]] me
 ## Connection to Feedback Loop Design
 
 The four-step framework of Audit → Apply → Iterate → Scale is derived from Kelly's broader philosophy of using output to adjust input, creating self-reinforcing cycles of improvement.^[raw/articles/Feedback loop design.md]
+
+See also: [[the-systems-bible]]

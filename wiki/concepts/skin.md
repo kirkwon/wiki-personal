@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Skin
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- strategy
-- finance
-- risk-management
-- mental-model
-- game-theory
-sources:
-- Skin.md
-related:
-- skin-in-the-game
-- antifragility
-- skin-in-the-game---nassim-nicholas-taleb
+nassim-nicholas-taleb
 - moral-hazard
 ---
 -
@@ -37,3 +20,5 @@ The model draws directly from [[skin-in-the-game---nassim-nicholas-taleb]], wher
 
 Skin is applicable across all domains as a universal mental model. It aids in identifying hidden asymmetries in risk, recognizing when accountability structures are missing, and understanding how consequences shape incentives.
 ---
+
+See also: [[skin-in-the-game]]

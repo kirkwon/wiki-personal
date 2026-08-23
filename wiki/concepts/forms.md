@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Forms
-description: "Forms is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- pattern-recognition
-- world-disclosure
-sources:
-- Forms.md
-related:
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - planning
 - solutions-mental-model
 - group
@@ -51,3 +37,5 @@ The distinction between Forms and other universal mental models like [[planning]
 ## Sources
 
 - [[Experiment and Exploration_ Forms of World-Disclosure - Sönke Ahrens]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

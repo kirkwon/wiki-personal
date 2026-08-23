@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Protective Put Strategy
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- hedging
-sources:
-- Options Trading.md
-related:
-- options
-- covered-call-strategy
-- risk-management
-- retirement-planning
----
+
 -
 # Protective Put Strategy (Married Put)
 
@@ -36,3 +19,5 @@ A protective put is an options strategy where you own the underlying stock and b
 ## Σχέση με τη Διαχείριση Κινδύνου
 Αυτός ο τύπος είναι ένα από τα βασικά εργαλεία hedging που συνδέεται με [[risk-management]] και [[retirement-planning]].
 ---
+
+See also: [[options]]

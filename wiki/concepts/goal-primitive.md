@@ -1,13 +1,4 @@
----
-date: 2026-06-13
-type: concept
-title: /goal Primitive
-created: 2026-06-13
-updated: 2026-06-13
-tags: [goal-primitive, software-development, loop-engineering]
-related: [loop-engineering-plan, skill-auto-patch]
-sources: ["loop-engineering-plan.md"]
----
+
 # /goal Primitive
 The /goal primitive is a run-until-done wrapper that iterates until a condition is met or a maximum number of iterations is reached. It provides a flexible way to achieve goals in the loop engineering process.
 
@@ -19,3 +10,7 @@ The /goal primitive is a run-until-done wrapper that iterates until a condition 
 ## Importance
 The /goal primitive is essential for automating tasks in the loop engineering process. It enables the system to work towards specific goals, improving efficiency and reducing manual intervention.
 ---
+
+See also: [[loop-engineering-plan]]
+
+See also: [[skill-auto-patch]]

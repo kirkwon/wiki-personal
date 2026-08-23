@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Covered Call
-description: "Covered Call είναι μια στρατηγική options όπου κατέχω μετοχή και πωλώ call option σε αυτό το strike price. Η στρατηγική παράγει εισπράξεις (premium) σε μετοχές που ήδη κατέχω."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-- income-generation
-sources:
-- Options Trading.md
-related:
-- options-trading
-- call-option
-- iron-condor
-- risk-management
----
+
 --
 # Covered Call
 
@@ -39,3 +20,7 @@ Generate income on stocks you own. Κίνδυνος: missed upside αν η με�
 - [[call-option]]
 - [[Iron Condor]]
 - [[options-trading]]
+
+See also: [[iron-condor]]
+
+See also: [[risk-management]]

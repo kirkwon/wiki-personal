@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Velveting (cooking technique)
-description: "--
-Velveting (Cooking Technique)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- technique
-- chinese-cuisine
-- stir-fry
-- texture
-sources:
-- Marinades.md
-related:
-- marinades
-- stir-fry-technique
-- wok-hei
-- chinese-sauces
----
+
 --
 # Velveting (Cooking Technique)
 
@@ -44,3 +24,5 @@ Velveting is a specialized application of the marinade framework, where cornstar
 
 ## See Also
 [[marinades]] | [[stir-fry-technique]] | [[wok-hei]]
+
+See also: [[chinese-sauces]]

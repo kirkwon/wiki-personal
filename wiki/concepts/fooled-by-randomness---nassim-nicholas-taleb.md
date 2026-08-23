@@ -1,27 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Fooled by Randomness
-description: "Fooled by Randomness by Nassim Nicholas Taleb explores how humans systematically misjudge the role of chance and randomness in their lives."
-created: 2026-05-04
-updated: 2026-05-10
-tags:
-- philosophy
-- risk-analysis
-- decision-making
-- mental-model
-- probability
-- risk
-sources:
-- Processes.md
-- Taleb.md
-related:
-- processes
-- the-black-swan
-- skin-in-the-game
-- black-swan-events
-- antifragility
-- thinking-fast-and-slow ---daniel-kahneman
+daniel-kahneman
 - prospect-theory
 ---
 -
@@ -49,3 +26,9 @@ This work connects to [[skin-in-the-game]] and [[antifragility]], both central T
 ## Relevance
 
 The book provides a foundational framework for understanding why prediction markets, expert forecasts, and even sophisticated models often fail — because they ignore the fundamental role of randomness and the asymmetries in real-world outcomes.
+
+See also: [[processes]]
+
+See also: [[black-swan-events]]
+
+See also: [[thinking-fast-and-slow]]

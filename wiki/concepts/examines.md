@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Examines
-description: "Examines is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- decision-making
-sources:
-- Examines.md
-related:
-- the-signal-and-the-noise
-- predictably-irrational
-- decision-making-frameworks
-- cognitive-biases-library
-- superforecasting
-- thinking-mental-model
-- solutions-mental-model
----
+
 --
 # Examines
 
@@ -31,3 +11,9 @@ The model references two key sources:
 - [[predictably-irrational-dan-ariely]] — focusing on systematic irrationality in human decisions
 
 Confidence in this model is moderate (0.7), and it requires further development with concrete applications to differentiate it from existing mental models like [[thinking-mental-model]] and [[solutions-mental-model]].
+
+See also: [[the-signal-and-the-noise]]
+
+See also: [[predictably-irrational]]
+
+See also: [[decision-making-frameworks]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Implementation Intentions
-description: "--
-Implementation Intentions"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- psychology
-- habit
-- decision-making
-- mental-models
-sources:
-- The Power of Habit - Charles Duhigg.md
-related:
-- habit-loop
-- habit-stacking
-- habit-testing
-- decision-making-frameworks
----
+
 --
 # Implementation Intentions
 
@@ -37,3 +17,5 @@ Rather than relying on willpower at the moment of decision, you plan the behavio
 ## When to Use
 
 When you need to change a specific behavior, when willpower is depleted, or when designing organizational processes for consistent execution.
+
+See also: [[decision-making-frameworks]]

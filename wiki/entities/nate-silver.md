@@ -1,33 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Nate Silver
-description: "Nate Silver
-Statistician, data journalist, and political forecaster known for his work on prediction and signal detection."
-created: 2026-04-29
-updated: 2026-05-10
-tags: 
-- person
-- statistician
-- author
-- prediction
-- statistics
-- mental-model
-- mental-models
-- forecasting
-sources: 
-- The Signal and the Noise
-- Nate Silver.md
-- Discusses.md
-- Signal.md
-- Predictions.md
-- Examines.md
-- Model selection and validation frameworks.md
-related: 
-- the-signal-and-the-noise
-- superforecasting
-- philip-e-tetlock-dan-gardner
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - thinking-in-bets---annie-duke
 - superforecasting
 - bayesian-thinking
@@ -72,3 +43,5 @@ Statistician, data journalist, and political forecaster known for his work on pr
 - [[uncertainty]] - Core epistemic concept in Silver's work
 
 Silver's contributions connect to the broader predictions mental model by highlighting the importance of separating signal from noise—a core challenge in accurate forecasting—and to the [[examines]] mental model through its focus on pattern recognition and data interpretation. His work connects to broader themes of forecasting accuracy, distinguishing signal from noise, and making better decisions under uncertainty. His methods have influenced fields ranging from political analysis to sports analytics and data science.
+
+See also: [[thinking-fast-and-slow]]

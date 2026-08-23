@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Information as a Mental Model
-description: "--
-Information as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-- cognitive-science
-related:
-- thinking-mental-model
-- personal-knowledge-vault
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - building-a-second-brain---tiago-forte
 - biases
 - categorizing-information
@@ -48,3 +33,7 @@ Universal — applicable across domains including productivity, systems thinking
 
 - How does "Information" as a mental model differ from [[thinking-mental-model]] or [[categorizing-information]]?
 - Is the model actionable enough compared to more specific models like [[checklists]] or [[working-backwards]]?
+
+See also: [[personal-knowledge-vault]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

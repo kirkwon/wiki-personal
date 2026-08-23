@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Predictably Irrational - Dan Ariely
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- behavioral-economics
-- decision-making
-- cognitive-bias
-sources:
-- Predictably Irrational - Dan Ariely.md
-related:
-- dan-ariely
-- decoy-effect
-- zero-cost-bias
-- social-norms-vs-market-norms
-- anchoring
-- relativity-in-decision-making
-- arousal-and-decision-making
-- commitment-devices
-- default-option-design
----
+
 -
 # Predictably Irrational - Dan Ariely
 
@@ -58,3 +35,21 @@ Dan Ariely's central argument: human irrationality is systematic and predictable
 
 Recognize when analysis paralysis sets in, when countermeasures become more costly than biases, when overcorrecting misses opportunities, when social norms should dominate, when emotional decisions have value, or when immediate action is required.
 ---
+
+See also: [[dan-ariely]]
+
+See also: [[decoy-effect]]
+
+See also: [[zero-cost-bias]]
+
+See also: [[social-norms-vs-market-norms]]
+
+See also: [[anchoring]]
+
+See also: [[relativity-in-decision-making]]
+
+See also: [[arousal-and-decision-making]]
+
+See also: [[commitment-devices]]
+
+See also: [[default-option-design]]

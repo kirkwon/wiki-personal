@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Antifragile - Nassim Nicholas Taleb
-description: "Antifragile - Nassim Nicholas Taleb"
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- books
-- philosophy
-- decision-making
-- risk
-sources:
-- antifragile
-- Antifragile - Nassim Nicholas Taleb
----
+
 
 # Antifragile - Nassim Nicholas Taleb
 
@@ -59,3 +44,7 @@ Taleb's concept of antifragility describes systems, individuals, and ideas that 
 - [[antifragility]]
 - [[uncertainty]]
 - [[skin-in-the-game]]
+
+Sources: [[antifragile]]
+
+Sources: [[Antifragile - Nassim Nicholas Taleb]]

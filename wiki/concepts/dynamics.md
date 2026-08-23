@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Dynamics
-description: "Dynamics is a universal mental model that serves as a conceptual tool for understanding and navigating complex situations."
-created: 2026-04-29
-updated: 2026-05-11
-tags:
-- mental-model
-- decision-making
-- systems
-- mental-models
-- geopolitics
-- macroeconomics
-sources:
-- Dynamics.md
-- Principles for Dealing with the Changing World Order - Ray Dalio.md
-related:
-- principles ---ray-dalio
+ray-dalio
 - how-the-economic-machine-works---ray-dalio
 - rates
 - leverage
@@ -73,3 +55,5 @@ Dynamics connects to several existing mental models in the wiki:
 ## Confidence
 
 Medium confidence (0.7). The model is broad and generic, drawing primarily from Dalio's framework. Further exploration and cross-source validation would strengthen the framework.
+
+See also: [[principles]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Conscious Spending Plan
-description: "--
-Conscious Spending Plan"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- budgeting
-- automation
-sources:
-- I Will Teach You to Be Rich.md
-related:
-- i-will-teach-you-to-be-rich-ramit-sethi
-- automation-over-willpower
-- personal-finance
-- the-psychology-of-money
----
+
 --
 # Conscious Spending Plan
 
@@ -48,3 +29,5 @@ The conscious spending plan works hand-in-hand with [[automation-over-willpower]
 ## See Also
 [[i-will-teach-you-to-be-rich-ramit-sethi]] | [[automation-over-willpower]] | [[personal-finance]]
 ^[raw/articles/I Will Teach You to Be Rich.md]
+
+See also: [[the-psychology-of-money]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Voice Leading
-description: "Stemmeføring handler om hvordan tonehøydene beveger seg mellom akkorder."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- harmony
-- technique
-related:
-- jazz-harmony
-- music-theory-fundamentals
-sources:
-- jazz-harmony.md
----
+
 --
 # Voice Leading
 
@@ -34,3 +18,5 @@ Stemmeføring handler om hvordan tonehøydene beveger seg mellom akkorder. God s
 ## Relatert
 - [[jazz-harmony]]
 - [[chord-voicings]]
+
+See also: [[music-theory-fundamentals]]

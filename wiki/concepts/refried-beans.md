@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Refried Beans
-description: "Los frijoles refritos son un elemento distintivo del Tex-Mex."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- gastronomy
-- tex-mex
-- beans
-- side-dish
-- technique
-- ingredient
-sources:
-- tex-mex.md
-related:
-- tex-mex
-- black-beans
-- rice-varieties-index
-- beans
-- mexican-cuisine
----
+
 --
 
 # Frijoles refritos
@@ -42,3 +20,9 @@ A diferencia de la cocina mexicana que usa frijoles negros o pintos simples, y d
 - Nachos
 
 Los frijoles refritos son uno de los marcadores que distinguen al Tex-Mex de la cocina mexicana auténtica.
+
+See also: [[tex-mex]]
+
+See also: [[rice-varieties-index]]
+
+See also: [[mexican-cuisine]]

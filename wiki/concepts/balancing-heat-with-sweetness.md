@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Balancing Heat with Sweetness (สมดุลความร้อนด้วยความหวาน)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking-techniques
-- flavor-theory
-- thai-cuisine
-sources:
-- curry-varieties.md
-related:
-- flavor-theory
-- thai-curry-varieties
-- thai-cuisine
----
+
 -
 # สมดุลความร้อนด้วยความหวาน
 
@@ -34,3 +18,5 @@ related:
 เกี่ยวข้องกับ [[flavor-theory]] ในเรื่องการสร้างสมดุลรสชาติ และ [[thai-curry-varieties]] ในเรื่องเทคนิคการทำแกง
 
 ---
+
+See also: [[thai-cuisine]]

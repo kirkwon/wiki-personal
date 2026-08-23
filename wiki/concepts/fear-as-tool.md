@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Fear, Anxiety, and Worry as Tools
-description: "--
-Fear, Anxiety, and Worry as Tools"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- psychology
-- emotion
-- mark-manson
-sources:
-- Everything Is F_cked_ A Book About Hope - Mark Manson.md
-related:
-- emotion-and-intuition-in-decisions
-- dread-aversion
-- stress
----
+
 --
 # Fear, Anxiety, and Worry as Tools
 
@@ -43,3 +24,5 @@ This concept connects to [[emotion-and-intuition-in-decisions]] (how emotions in
 - [[thinking-fast-and-slow---daniel-kahneman]] – System 1 emotional responses informing decisions
 - [[will---mark-manson]] – Manson's broader work on intentionality
 - [[emotion-and-intuition-in-decisions]] – Emotions in decision-making
+
+See also: [[stress]]

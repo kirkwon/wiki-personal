@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Cash on Cash Return
-description: "--
-Cash on Cash Return"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- investing
-- metrics
-sources:
-- Financial Reporting Templates.md
-related:
-- net-operating-income
-- cap-rate
-- real-estate-investment
-- financial-reporting-templates
----
+
 --
 # Cash on Cash Return
 
@@ -36,3 +17,7 @@ Tracked in the [[single-property-analysis-template]] and [[multi-property-portfo
 ## Interpretation
 
 A higher cash-on-cash return indicates better annual yield on invested capital. Unlike cap rate, it accounts for the impact of leverage (mortgage financing).
+
+See also: [[real-estate-investment]]
+
+See also: [[financial-reporting-templates]]

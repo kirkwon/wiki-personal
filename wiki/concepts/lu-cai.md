@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 鲁菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
-- sichuan-cuisine
----
+
 -
 # 鲁菜
 
@@ -40,3 +25,7 @@ related:
 - 海鲜专长
 - 大胆、质朴的风味
 ---
+
+See also: [[chinese-regional-cuisines]]
+
+See also: [[sichuan-cuisine]]

@@ -1,24 +1,4 @@
----
-date: 2025-04-15
-type: entity
-title: 16th Avenue Tiled Steps
-description: "--
-16th Avenue Tiled Steps"
-created: 2025-04-15
-updated: 2026-04-24
-tags:
-- local
-- sf
-- neighborhoods
-- art
-- landmarks
-sources:
-- golden-gate-heights.md
-related:
-- golden-gate-heights
-- grandview-park
-- ocean-beach
----
+
 --
 # 16th Avenue Tiled Steps
 
@@ -50,3 +30,9 @@ The most famous stairway in Golden Gate Heights, the 16th Avenue Tiled Steps is 
 - **14th Ave Steps**: 14th Ave & Moraga, Grandview Park access, steep
 - **Moraga St Steps**: Moraga & 15th Ave, residential access, garden views
 - **15th Ave Steps**: 15th Ave & Irving, shortcut through hillside
+
+See also: [[golden-gate-heights]]
+
+See also: [[grandview-park]]
+
+See also: [[ocean-beach]]

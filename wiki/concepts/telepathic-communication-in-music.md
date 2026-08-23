@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Telepathic Communication in Music
-description: "--
-Telepathic Communication in Music"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- music
-- improvisation
-sources:
-- miles-davis.md
-related:
-- miles-davis
-- second-great-quintet
-- bebop
-- jazz-harmony
----
+
 --
 # Telepathic Communication in Music
 
@@ -39,3 +20,7 @@ This level of ensemble cohesion represents the pinnacle of small-group jazz perf
 - [[miles-davis]] – Leader of the ensemble
 - [[second-great-quintet]] – The group itself
 - [[jazz-improvisation]] – The practice enabling this communication
+
+See also: [[bebop]]
+
+See also: [[jazz-harmony]]

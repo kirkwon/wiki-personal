@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Burr Grinder (锥刀磨豆机)
-description: "--
-Burr Grinder (锥刀磨豆机)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- equipment
-- espresso
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- french-press-coffee-法压壶咖啡
----
+
 --
 # Burr Grinder (锥刀磨豆机)
 
@@ -29,3 +12,5 @@ related:
 - 配合意式咖啡机使用
 
 参见 [[espresso-意大利浓缩咖啡]] 了解完整冲煮流程。
+
+See also: [[french-press-coffee-法压壶咖啡]]

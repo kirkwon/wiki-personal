@@ -1,29 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Stoicism as a Mental Model
-description: "--
-Stoicism as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- philosophy
-- mental-model
-- decision-making
-- emotion-regulation
-sources:
-- Stoicism.md
-related:
-- ryan-holiday
-- the-obstacle-is-the-way
-- stillness
-- emotion-and-intuition-in-decisions
-- satisfaction-under-constraints
-- effort
-- care
-- decision-making-frameworks
-- superforecasting
----
+
 --
 # Stoicism as a Mental Model
 
@@ -63,3 +38,5 @@ How does Stoic acceptance of fate interact with probabilistic forecasting and de
 - [[stillness]]
 - [[thinking-fast-and-slow---daniel-kahneman]]
 - [[Superforecasting - Philip E Tetlock  Dan Gardner]]
+
+See also: [[ryan-holiday]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Implied Volatility
-description: "--
-Implied Volatility"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-- volatility
-sources:
-- Options Trading.md
-related:
-- options-trading
-- historical-volatility
-- mean-reversion
-- time-decay
----
+
 --
 # Implied Volatility
 
@@ -37,3 +17,7 @@ IV Rank δείχνει πού βρίσκεται η τρέχουσα IV σε σ�
 - [[options-trading]]
 - [[mean-reversion]]
 - [[Time Decay]]
+
+See also: [[historical-volatility]]
+
+See also: [[time-decay]]

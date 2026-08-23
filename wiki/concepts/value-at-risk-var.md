@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Value at Risk (VaR)
-description: "--
-Value at Risk (VaR)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- skill-candidate
-- finance
-- risk-management
-- quantitative
-- portfolio-theory
-- personal-finance
-- investment-risk
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- monte-carlo-simulations
-- stress-testing-investments
-- decision-making-under-uncertainty
-- monte-carlo-simulation
----
+
 --
 # Value at Risk (VaR)
 
@@ -43,3 +19,11 @@ A quantitative risk modeling technique that estimates the maximum expected loss 
 - **Risk Budgeting**: Allocate risk across portfolio
 
 VaR provides a single-number summary of downside risk that supports data-driven investment decisions. It complements [[monte-carlo-simulation]] by providing a single summary metric, while Monte Carlo produces full probability distributions of outcomes.
+
+See also: [[risk-assessment-framework]]
+
+See also: [[monte-carlo-simulations]]
+
+See also: [[stress-testing-investments]]
+
+See also: [[decision-making-under-uncertainty]]

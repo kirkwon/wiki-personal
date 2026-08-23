@@ -1,17 +1,13 @@
----
+Sources: [[out-of-control]]
 
-date: 2026-05-03
-type: concept
-title: Self-Organization and Emergence
-description: "Self-Organization and Emergence | concept | technology, complexity-science, mental-models."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- technology
-- complexity-science
-- mental-models
-sources:
-- out-of-control
-- Self-Organization and Emergence
-related: [kevin-kelly, swarm-intelligence, the-nine-laws-of-god, antifragility, platform-dominance, strategic-vs-reactive-thinking]
----
+See also: [[kevin-kelly]]
+
+See also: [[swarm-intelligence]]
+
+See also: [[the-nine-laws-of-god]]
+
+See also: [[antifragility]]
+
+See also: [[platform-dominance]]
+
+See also: [[strategic-vs-reactive-thinking]]

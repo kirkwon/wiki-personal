@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 闷蒸技术
-description: "Bloom Technique / 闷蒸技术"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- coffee
-- technique
-- brewing
-sources:
-- French Press.md
-- Pour Over.md
-related:
-- french-press-coffee-法压壶咖啡
-- pour-over-coffee
-- immersion-brewing-浸泡式萃取
-- coffee
----
+
 --
 
 # Bloom Technique / 闷蒸技术
@@ -64,3 +45,7 @@ related:
 
 - [[french-press-coffee-法压壶咖啡]] — 法压壶中的闷蒸应用
 - [[immersion-brewing-浸泡式萃取]] — 沉浸式萃取概念
+
+See also: [[pour-over-coffee]]
+
+See also: [[coffee]]

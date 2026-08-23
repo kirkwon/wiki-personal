@@ -1,18 +1,15 @@
----
+Sources: [[experiment-and-exploration-forms-of-world-disclosure]]
 
-date: 2026-05-03
-type: concept
-title: World-Disclosure
-description: "Unveiling reality's hidden structure; transcending mere perception to grasp fundamental being."
-created: 2026-05-03
-updated: 2026-05-11
-tags:
-- philosophy
-- epistemology
-- knowledge
-- heidegger
-sources:
-- experiment-and-exploration-forms-of-world-disclosure
-- World-Disclosure (Maailmanavaus)
-related: [experiment-and-exploration-forms-of-world-disclosure, scientific-method, ethics-in-research, experimentation-mentaalimalli, exploration-mentaalimalli, description-mentaalimalli, reality-mentaalimalli, understanding-mentaalimalli, anatman-concept]
----
+See also: [[scientific-method]]
+
+See also: [[experimentation-mentaalimalli]]
+
+See also: [[exploration-mentaalimalli]]
+
+See also: [[description-mentaalimalli]]
+
+See also: [[reality-mentaalimalli]]
+
+See also: [[understanding-mentaalimalli]]
+
+See also: [[anatman-concept]]

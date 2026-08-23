@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Modal Jazz
-description: "Modal jazz is a style of jazz that uses modes and fewer chord changes to allow for greater melodic exploration."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- jazz
-- music-theory
-- improvisation
-- music
-sources:
-- miles-davis.md
-related:
-- miles-davis
-- kind-of-blue
-- jazz-harmony
-- lydian-mode
-- pentatonic-scales
-- bebop
----
+
 --
 # Modal Jazz
 
@@ -50,3 +29,5 @@ Davis's modal approach represented a deliberate aesthetic choice toward economy 
 - [[jazz-harmony]] – Understanding the harmonic foundations
 - [[bebop]] – The style modal jazz moved away from
 - [[jazz-improvisation]] – How modal frameworks enable soloing freedom
+
+See also: [[miles-davis]]

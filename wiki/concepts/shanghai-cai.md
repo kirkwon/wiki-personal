@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 上海菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
-- jiangsu-cuisine
----
+
 -
 # 上海菜
 
@@ -42,3 +27,7 @@ related:
 - 炖煮和焖烧
 - 海鲜和淡水鱼
 ---
+
+See also: [[chinese-regional-cuisines]]
+
+See also: [[jiangsu-cuisine]]

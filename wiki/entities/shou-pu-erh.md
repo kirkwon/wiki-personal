@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 熟普洱
-description: "熟普洱（Shòu Pǔ'ěr）是普洱茶的熟茶类型，通过渥堆加速发酵工艺制成。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- pu-erh
-- chinese
-sources:
-- Pu-erh Tea.md
-related:
-- pu-erh-tea
-- wo-dui-fermentation
----
+
 --
 # 熟普洱
 
@@ -37,3 +21,5 @@ related:
 
 ## 相关
 [[Pu-erh Tea]] | [[wo-dui-fermentation]]
+
+See also: [[pu-erh-tea]]

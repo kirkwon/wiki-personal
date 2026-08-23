@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Dynasty Trust
-description: "A long-term irrevocable trust designed to preserve wealth across multiple generations, potentially lasting for centuries."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- wealth-preservation
-sources:
-- Trusts Guide.md
-related:
-- special-purpose-trusts
-- generation-skipping-tax
-- irrevocable-trusts
-- trusts-guide
----
+
 --
 # Dynasty Trust
 
@@ -47,3 +28,7 @@ A long-term irrevocable trust designed to preserve wealth across multiple genera
 - Trust law evolution over time
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[special-purpose-trusts]]
+
+See also: [[irrevocable-trusts]]

@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Noise vs. Bias Distinction
-description: "--
-Noise vs. Bias Distinction"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- cognitive-science
-- decision-making
-- psychology
-sources:
-- Noise_ A Flaw in Human Judgment - Daniel Kahneman.md
-related:
-- noise-concept
-- cognitive-biases-library
-- decision-quality-vs-outcome-quality
-- systematic-decision-making
----
+
 --
 # Noise vs. Bias Distinction
 
@@ -49,3 +30,5 @@ Understanding this distinction prevents the mistake of assuming that because jud
 - [[cognitive-biases-library]]
 - [[decision-quality-vs-outcome-quality]]
 - [[thinking-fast-and-slow---daniel-kahneman]]
+
+See also: [[systematic-decision-making]]

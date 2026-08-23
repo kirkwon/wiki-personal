@@ -1,28 +1,4 @@
----
-created: 2026-04-24
-sources:
-- sushi-sashimi.md
-tags:
-- japanese
-- sushi
-- sashimi
-- raw-fish
-- cuisine
-date: 2026-04-24
-title: Sushi and Sashimi
-description: "寿司（Sushi）は酢飯と様々なトッピングを組み合わせたものであり、刺身（Sashimi）は米なしの新鮮な生魚である。両者とも素材の純粋さと新鮮さを尊び、高品質な海産物と正確な技術が不可欠である。"
-type: concept
-updated: 2026-05-09
-related:
-- japanese-cuisine
-- sushi-rice
-- sushi-rice-preparation
-- sashimi-fish-guide
-- sushi-tools
-- sushi-grade-fish
-- soy-sauce-mirin
-- dashi
----
+
 --
 
 # Sushi and Sashimi
@@ -371,3 +347,11 @@ Sushi (寿司) is vinegar-seasoned rice combined with various toppings, while sa
 4. **Sashimi practice** - Buy sushi-grade fish, practice cutting
 
 **Remember**: Sushi is about simplicity and precision. Quality ingredients and proper technique are everything.
+
+See also: [[japanese-cuisine]]
+
+See also: [[sushi-rice]]
+
+See also: [[soy-sauce-mirin]]
+
+See also: [[dashi]]

@@ -1,25 +1,4 @@
----
-date: 2026-06-13
 
-type: concept
-title: Inversion (Premortem Thinking)
-related:
-  - first-principles-thinking
-  - super-thinking-gabriel-weinberg
-  - margin-of-safety-financial
-  - tail-event-thinking
-sources:
-  - Super Thinking - Gabriel Weinberg
-ingested_via: put_page
-ingested_at: '2026-06-13T17:08:25.767Z'
-source_kind: put_page
-tags:
-  - concept
-  - decision-making
-  - mental-model
-  - risk
-  - strategy
----
 
 # Inversion (Premortem Thinking)
 
@@ -57,3 +36,13 @@ Inversion is **Step 5** in the Strategic Filter. Run the premortem before commit
 - Margin of Safety — building buffers against failure
 - Tail Event Thinking — rare but severe outcomes
 - Via Negativa — what to stop doing
+
+Sources: [[Super Thinking - Gabriel Weinberg]]
+
+See also: [[first-principles-thinking]]
+
+See also: [[super-thinking-gabriel-weinberg]]
+
+See also: [[margin-of-safety-financial]]
+
+See also: [[tail-event-thinking]]

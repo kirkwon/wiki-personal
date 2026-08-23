@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Anchoring
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- decision-making
-- behavioral-economics
-sources:
-- Predictably Irrational - Dan Ariely.md
-related:
-- predictably-irrational-dan-ariely
-- framing-effects
-- prospect-theory
-- decision-making-frameworks
----
+
 -
 # Anchoring
 
@@ -36,3 +19,11 @@ Once an anchor is established — whether through a suggested price, a first off
 
 Anchoring is a specific mechanism through which Ariely's broader principle of relativity operates — we value options relative to comparisons, and the anchor is often the most powerful comparison we encounter.
 ---
+
+See also: [[predictably-irrational-dan-ariely]]
+
+See also: [[framing-effects]]
+
+See also: [[prospect-theory]]
+
+See also: [[decision-making-frameworks]]

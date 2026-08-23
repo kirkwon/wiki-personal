@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Checklists
-description: "Checklists is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- checklist
-- decision-making
-sources:
-- Checklists.md
-related:
-- recipes-mental-model
-- solutions
-- planning
-- thinking-mental-model
-- atul-gawande
-- being-mortal
-confidence: medium
----
+
 --
 # Checklists
 
@@ -52,3 +31,7 @@ The universality claim carries a confidence rating of 0.7, suggesting moderate u
 - [[planning]] - Planning as a universal mental model
 - [[thinking-mental-model]] - Thinking as a universal mental model
 - [[decision-making-frameworks]] - Decision-making frameworks
+
+See also: [[solutions]]
+
+See also: [[atul-gawande]]

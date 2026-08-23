@@ -1,13 +1,4 @@
----
-date: 2026-06-13
-type: concept
-title: Social Validation
-created: 2026-06-13
-updated: 2026-06-13
-tags: [social-validation, critical-thinking]
-related: [validation-of-mental-models, mental-models, peer-review, incremental-validation, design-experiments]
-sources: ["research-validation-of-mental-models-2026-06-13-065345.md"]
----
+
 # Social Validation
 Social validation is the process of explaining a mental model to someone else and hearing their objections. This process forces articulation, reveals gaps in reasoning, and provides an opportunity to refine the mental model.
 
@@ -26,3 +17,13 @@ Social validation has a wide range of applications, including business, economic
 ## References
 [[research-validation-of-mental-models-2026-06-13-065345.md]]
 ---
+
+See also: [[validation-of-mental-models]]
+
+See also: [[mental-models]]
+
+See also: [[peer-review]]
+
+See also: [[incremental-validation]]
+
+See also: [[design-experiments]]

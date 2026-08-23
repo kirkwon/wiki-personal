@@ -1,15 +1,9 @@
----
+Sources: [[the-fifth-discipline-fieldbook]]
 
-date: 2026-05-03
-type: concept
-title: The Three Pillars of Learning
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- organizational-learning
-- management
-sources:
-- the-fifth-discipline-fieldbook
-- The Three Pillars of Learning
-related: [personal-mastery-senge, mental-models-senge, building-shared-vision, the-five-disciplines-framework]
----
+See also: [[personal-mastery-senge]]
+
+See also: [[mental-models-senge]]
+
+See also: [[building-shared-vision]]
+
+See also: [[the-five-disciplines-framework]]

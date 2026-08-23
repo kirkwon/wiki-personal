@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: F8 and Be There
-description: "'F8 and be there' is a famous philosophy in photography, attributed to [[weegee]], emphasizing that the most important factor in capturing great images is presence and readiness — not technical master."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- street
-- philosophy
-sources:
-- street-photography.md
-related:
-- street-photography
-- decisive-moment
-- weegee
-- zone-focusing
-- photography-fundamentals
----
+
 --
 # F8 and Be There
 
@@ -35,3 +16,7 @@ The core idea is that technical skills matter less than being present and ready 
 ## Connection to Street Photography
 
 This philosophy is foundational to [[street-photography]]. It encourages photographers to focus on being observant and ready rather than obsessing over technical details, reinforcing the ethical principle of respectful presence in public spaces.
+
+See also: [[zone-focusing]]
+
+See also: [[photography-fundamentals]]

@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Credit Cycle
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- economics
-- finance
-- cycles
-sources:
-- How the Economic Machine Works - Ray Dalio.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - markets
 - rates
 - financial-crises
@@ -25,3 +12,5 @@ Credit expansion occurs when lenders are willing to lend and borrowers are willi
 
 Understanding credit cycles is essential for making informed investment and wealth management decisions, as they create predictable patterns in economic outcomes.
 ---
+
+See also: [[how-the-economic-machine-works]]

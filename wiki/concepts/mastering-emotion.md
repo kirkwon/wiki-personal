@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Mastering Emotion
-description: "Mastering emotion refers to the practice of regulating emotional responses to maintain mental clarity, resilience, and focus when facing challenges."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- stoicism
-- self-regulation
-sources:
-- the-obstacle-is-the-way
-- Mastering Emotion
-related: [the-obstacle-is-the-way-ryan-holiday, stoicism-as-a-framework, emotion-and-intuition-in-decisions, dual-process-theory]
----
+
 # Mastering Emotion
 
 Mastering emotion refers to the practice of regulating emotional responses to maintain mental clarity, resilience, and focus when facing challenges. It is a central theme in Stoic philosophy and in Ryan Holiday's approach to overcoming obstacles.
@@ -28,3 +13,7 @@ This concept sits in some tension with approaches that value emotional awareness
 - [[stoicism-as-a-framework]] — Philosophical foundation
 - [[reframing-adversity]] — Perception management supports emotional control
 - [[temperance-virtue]] — Self-control as a cardinal virtue
+
+Sources: [[the-obstacle-is-the-way]]
+
+See also: [[the-obstacle-is-the-way-ryan-holiday]]

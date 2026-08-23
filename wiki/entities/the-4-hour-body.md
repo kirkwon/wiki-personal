@@ -1,29 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The 4-Hour Body
-description: "The 4-Hour Body is a 2010 book by Timothy Ferriss that challenges conventional health and fitness advice, proposing instead a personalized approach to body transformation emphasizing genetics, hormone."
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- book
-- health
-- fitness
-- body-transformation
-sources:
-- The 4-Hour Body - Timothy Ferriss.md
-- Transformation.md
-related:
-- timothy-ferriss
-- intermittent-fasting
-- hiit
-- habit-loop
-- sleep-optimization
-- transformation
-- supplementation
-- hormone-balance-for-fat-loss
-- genetic-individuality-in-health
----
+
 --
 # The 4-Hour Body
 
@@ -56,3 +31,5 @@ The book argues for individuality in health optimization, prioritizing genetics,
 
 ## Related Concepts
 [[intermittent-fasting]], [[hiit]], [[habit-loop]], [[sleep-optimization]], [[supplementation]], [[hormone-balance-for-fat-loss]], [[genetic-individuality-in-health]], [[transformation]]
+
+See also: [[timothy-ferriss]]

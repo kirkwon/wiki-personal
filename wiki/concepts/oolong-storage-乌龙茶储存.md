@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 乌龙茶储存
-description: "储存条件
-- 密封容器：玻璃或陶瓷
-- 温度：50-70°F（10-21°C）
-- 避光
-- 干燥，低湿度"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- gastronomy
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
----
+
 --
 # 乌龙茶储存
 
@@ -38,3 +20,5 @@ related:
 - 视觉：颜色鲜艳，叶片完整
 - 气味：特征芳香，强度足
 - 味觉：首泡特征风味，多泡发展，平衡不陈旧
+
+See also: [[oolong-tea-乌龙茶]]

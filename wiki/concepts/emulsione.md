@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Emulsione
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking-techniques
-- french
-- sauces
-sources:
-- mother-sauces.md
-related:
-- hollandaise
-- béarnaise
-- mousseline
----
+
 -
 # Emulsione
 
@@ -30,3 +14,5 @@ L'hollandaise è un'emulsione di tuorli d'uovo, burro chiarificato e acido (limo
 
 Le salse derivate dall'hollandaise — béarnaise, mousseline, choron — sono tutte emulsioni che arricchiscono la base con ingredienti aggiuntivi.
 ---
+
+See also: [[hollandaise]]

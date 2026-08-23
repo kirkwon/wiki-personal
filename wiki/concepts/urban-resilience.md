@@ -1,22 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Urban Resilience Planning
-description: "--
-Urban Resilience Planning"
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- urban-planning
-- infrastructure
-- public-health
-sources:
-- Post Corona_ From Crisis to Opportunity - Scott Galloway.md
-related:
-- post-pandemic-business-transformation
-- remote-work
-- scott-galloway
----
+
 --
 # Urban Resilience Planning
 
@@ -34,3 +16,5 @@ Urban resilience planning refers to the redesign and rebuilding of cities and ur
 - [[post-pandemic-business-transformation]]
 - [[remote-work]]
 - [[platform-dominance]]
+
+See also: [[scott-galloway]]

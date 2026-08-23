@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Substance Requirements
-description: "--
-Substance Requirements"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- international-business
-- tax-planning
-sources:
-- Company Structure Guide.md
-related:
-- international-business-company
-- tax-planning-strategies
----
+
 --
 # Substance Requirements
 
@@ -34,3 +17,5 @@ Substance requirements are economic presence requirements that jurisdictions imp
 ## Related Pages
 - [[international-business-company]] for offshore entity options
 - [[tax-torpedoes-in-retirement]] for compliance considerations
+
+See also: [[tax-planning-strategies]]

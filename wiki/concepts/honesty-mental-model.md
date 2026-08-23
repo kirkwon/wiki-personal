@@ -1,28 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Honesty
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- psychology
-- decision-making
-sources:
-- Honesty.md
-related:
-- dan-ariely
-- the-honest-truth-about-dishonesty
-- cognitive-biases-library
-- confirmation-bias
-- illusion-of-control
-- overconfidence-and-certainty
-- ethical-design-manipulation-question
-- biases
-- thinking-fast-and-slow
-- the-art-of-thinking-clearly
-confidence: medium
----
+
 -
 # Honesty
 
@@ -32,3 +8,15 @@ Drawing on Dan Ariely's *The Honest Truth About Dishonesty*, honesty as a model 
 
 The model has medium confidence (0.7) and is still underdeveloped—it needs deeper integration with behavioral economics and ethical design considerations to become a fully useful navigation tool.
 ---
+
+See also: [[dan-ariely]]
+
+See also: [[the-honest-truth-about-dishonesty]]
+
+See also: [[ethical-design-manipulation-question]]
+
+See also: [[biases]]
+
+See also: [[thinking-fast-and-slow]]
+
+See also: [[the-art-of-thinking-clearly]]

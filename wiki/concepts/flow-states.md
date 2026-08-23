@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Flow States
-description: "Flow states are mental states of complete absorption in an activity, characterized by deep focus, loss of self-consciousness, and intrinsic motivation."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- psychology
-- focus
-sources:
-- The PARA Method_ Simplify, Organize, and Master Your Digital Life - Tiago Forte.md
-related:
-- deep-work
-- neuroplasticity
-- habit-testing
----
+
 --
 # Flow States
 
@@ -33,3 +16,9 @@ Flow states are mental states of complete absorption in an activity, characteriz
 ## Application
 
 Creating conditions for flow—through environment design, reducing distractions, and matching challenge to skill level—helps maximize productive output and work satisfaction.
+
+See also: [[deep-work]]
+
+See also: [[neuroplasticity]]
+
+See also: [[habit-testing]]

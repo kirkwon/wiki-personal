@@ -1,30 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Limits to Growth
-description: "Limits to Growth is a landmark 1972 book by Donella H."
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- sustainability
-- systems-thinking
-- scenario-planning
-- mental-models
-- environmental-science
-- mental-model
-sources:
-- Limits to Growth_ The 30-Year Update - Donella H Meadows.md
-- Overview.md
-related:
-- world3-model
-- planetary-boundaries
-- resource-depletion
-- scenario-planning
-- satisfaction-under-constraints
-- donella-meadows
-- overview
-- mental-models
----
+
 --
 # Limits to Growth
 
@@ -53,3 +27,13 @@ Meadows' work illustrates how recognizing the structure of complex systems—rat
 ## Sources
 - [[Limits to Growth_ The 30-Year Update - Donella H Meadows]]
 - [[overview]]
+
+See also: [[world3-model]]
+
+See also: [[planetary-boundaries]]
+
+See also: [[resource-depletion]]
+
+See also: [[donella-meadows]]
+
+See also: [[mental-models]]

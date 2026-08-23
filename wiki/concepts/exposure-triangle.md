@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Exposure Triangle
-description: "The exposure triangle is the foundational framework for controlling light in photography."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- exposure
-- fundamentals
-- camera
-sources:
-- photography-fundamentals.md
-related:
-- aperture
-- shutter-speed
-- iso
-- camera-modes
-- post-processing
-- photography-fundamentals
-- street-photography
-- golden-hour
----
+
 --
 # Exposure Triangle
 
@@ -65,3 +42,7 @@ Different genres require different balances:
 - **Low light**: wide aperture (f/2.8–f/4), slow shutter (1/60–30"), high ISO (800–6400)
 
 Mastering this balance is essential for [[camera-modes]] like Manual Mode and is the foundation for genre-specific settings in [[street-photography]], [[golden-hour]], and other scenarios.
+
+See also: [[post-processing]]
+
+See also: [[photography-fundamentals]]

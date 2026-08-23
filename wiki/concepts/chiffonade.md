@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Chiffonade
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- technique
-- cooking
-- herbs
-sources:
-- Basil.md
-related:
-- basil-ocimum-basilicum
-- herbs-spices
-- category-cooking-techniques
----
+
 -
 # Chiffonade
 
@@ -34,3 +18,5 @@ Chiffonade creates maximum surface area for flavor release while maintaining the
 - [[category-cooking-techniques]]
 ---
 ## Output: wiki/concepts/chiffonade.md
+
+See also: [[herbs-spices]]

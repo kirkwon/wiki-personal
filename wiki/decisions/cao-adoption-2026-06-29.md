@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: decision
-tags: [cao, orchestration, architecture, migration, queue]
-related: [symphony, queue, autoresearch-curation, autoresearch-pattern]
----
 
 # Architecture Decision: Adopt CAO, Keep Queue Layer
 
@@ -121,3 +115,5 @@ CAO (v2.2.0, AWS Labs) offers a more mature version of Symphony's orchestration 
 - `~/.hermes/queue/` — our queue implementation
 - `wiki/sources/awesome-autoresearch.md` — curated list
 - `~/.hermes/skills/research/autoresearch-curation/` — curation skill
+
+See also: [[autoresearch-pattern]]

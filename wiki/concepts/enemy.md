@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Enemy
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-- decision-making
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - situation
 - positioning
 - intelligence-gathering
@@ -33,3 +20,5 @@ This concept connects to [[superforecasting]] (understanding competitors through
 ## Tension with Cooperative Frameworks
 Sun Tzu's framework assumes adversarial competition. The wiki's broader philosophy emphasizes [[satisfaction-under-constraints]] and non-zero-sum outcomes. The "when to stop" guidance in the source explicitly warns against misapplying war thinking to cooperative contexts.
 ---
+
+See also: [[the-art-of-war]]

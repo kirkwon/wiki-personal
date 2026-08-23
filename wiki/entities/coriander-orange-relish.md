@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Relish de comino y naranja
-description: "--
-Relish de comino y naranja"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- relish
-- coriander-seeds
-- citrus
-sources:
-- Cilantro-Coriander.md
-related:
-- cilantrocoriander-coriandrum-sativum
-- herbs-spices
-- aromatics
----
+
 --
 # Relish de comino y naranja
 
@@ -41,3 +22,9 @@ Relish que combina semillas de comino molidas con cáscara y jugo de naranja.
 ## Notas
 
 Este relish ilustra la diferencia entre el cilantro fresco (hojas) y el comino (semillas), que tienen perfiles de sabor completamente distintos aunque provienen de la misma planta.
+
+See also: [[cilantrocoriander-coriandrum-sativum]]
+
+See also: [[herbs-spices]]
+
+See also: [[aromatics]]

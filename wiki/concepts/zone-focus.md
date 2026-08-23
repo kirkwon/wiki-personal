@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Zone Focus
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- techniques
-- street
-- focus
-sources:
-- photography-fundamentals.md
-related:
-- street-photography
-- focus-modes
-- photography-fundamentals
----
+
 -
 # Zone Focus
 
@@ -27,3 +10,5 @@ Zone focus is a street photography technique where you pre-focus your lens to a 
 
 Commonly paired with AF-C or manual focus for street and candid photography. See [[street-photography]] and [[photography-fundamentals]].
 ---
+
+See also: [[focus-modes]]

@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Responsible Capitalism
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- capitalism
-- business
-- ethics
-- sustainability
-sources:
-- Adrift - Scott Galloway.md
-related:
-- the-four
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - decision-culture
 - scott-galloway
 ---
@@ -39,3 +24,5 @@ Connects to [[skin-in-the-game---nassim-nicholas-taleb]] on accountability, [[ho
 ## Source
 ^[Adrift - Scott Galloway.md]
 ---
+
+See also: [[how-the-economic-machine-works]]

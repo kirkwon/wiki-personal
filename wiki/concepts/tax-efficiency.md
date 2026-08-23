@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Tax Efficiency
-description: "Tax efficiency refers to how effectively an investment vehicle minimizes taxable events and capital gains distributions in taxable accounts."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- investing
-- tax
-- skill-candidate
-- tax-efficiency
-- personal-finance
-- Mutual Funds vs ETFs in Taxable Accounts.md
-- Mutual Funds vs ETFs in Taxable Accounts.md
-related:
-- mutual-funds-vs-etfs-in-taxable-accounts
-- capital-gains-distributions
-- in-kind-redemption
-- tax-loss-harvesting
-- expense-ratios
----
+
 --
 # Tax Efficiency
 
@@ -50,3 +28,5 @@ In taxable accounts, tax efficiency matters because gains are taxed annually. In
 - [[in-kind-redemption]]
 - [[tax-loss-harvesting]]
 - [[mutual-funds-vs-etfs-in-taxable-accounts]]
+
+See also: [[expense-ratios]]

@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 功夫茶冲泡
-description: "功夫茶是传统乌龙茶冲泡方式，采用小壶小杯、多泡递增的技法，强调温度控制和风味层次的变化。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- technique
-- gastronomy
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- tea
-- tea-oxidation-茶叶氧化
----
+
 --
 # 功夫茶冲泡
 
@@ -43,3 +26,9 @@ related:
 5. 品尝随冲泡变化的风味
 
 不同乌龙茶类型需调整参数：轻发酵茶（铁观音）30-45秒、多泡6-8次；中发酵茶（冻顶乌龙、阿里山）30-60秒、4-6次；重发酵茶（大红袍、梨山）60-90秒、3-5次。
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[tea]]
+
+See also: [[tea-oxidation-茶叶氧化]]

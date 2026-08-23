@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Building a Second Brain - Tiago Forte
-description: "Building a Second Brain - Tiago Forte"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- learning
-- personal-knowledge-management
-sources:
-- building-a-second-brain
-- Building a Second Brain - Tiago Forte
----
+
 # Building a Second Brain - Tiago Forte
 
 Tiago Forte's 2024 book addresses the problem of digital information chaos and prescribes a structured personal knowledge management system called a "second brain." The book is organized across 8 chapters covering the foundations of digital clutter, the importance of personal knowledge bases, system creation, mind mapping, digital space optimization, tool selection, content curation, and ongoing system maintenance.
@@ -35,3 +21,5 @@ The book's central framework emphasizes externalizing knowledge to reduce cognit
 ## Related Sources
 
 See also [[how-to-take-smart-notes---snke-ahrens]] for a complementary approach to personal knowledge management, and [[personal-knowledge-vault]] for the broader second brain concept in this wiki.
+
+Sources: [[building-a-second-brain]]

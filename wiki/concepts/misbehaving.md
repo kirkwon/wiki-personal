@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Misbehaving - Richard H Thaler
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- behavioral-economics
-- cognitive-bias
-sources:
-- Economics.md
-related:
-- richard-h-thaler
-- economics-mental-model
-- prospect-theory
-- cognitive-biases-library
-- nudge
----
+
 -
 # Misbehaving by Richard H. Thaler
 
@@ -31,3 +13,11 @@ related:
 Thaler's work in *Misbehaving* underpins the [[economics-mental-model]] by showing that economics as a framework must incorporate behavioral insights to be useful for navigating real-world complexity.
 
 ---
+
+See also: [[richard-h-thaler]]
+
+See also: [[prospect-theory]]
+
+See also: [[cognitive-biases-library]]
+
+See also: [[nudge]]

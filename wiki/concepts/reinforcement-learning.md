@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Reinforcement Learning
-description: "--
-Reinforcement Learning"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- concept
-- machine-learning
-- reinforcement-learning
-- ai
-- sequential-decision-making
-- ai-safety
-- technology
-sources:
-- The Alignment Problem - Brian Christian  Tom Griffiths.md
-related:
-- alignment
-- consistency-in-ai
-- anomalies-in-ml
-- decision-making-frameworks
----
+
 --
 # Reinforcement Learning
 
@@ -34,3 +11,11 @@ Key points from the source:
 - Real-world RL applications amplify alignment concerns because stakes are higher and environments are less controlled than in games.
 
 RL connects to [[decision-making-under-uncertainty]] and [[expected-value-ev]] in that both involve optimizing outcomes under constraints, but RL adds the dimension of learning from interaction rather than relying on pre-specified models.
+
+See also: [[alignment]]
+
+See also: [[consistency-in-ai]]
+
+See also: [[anomalies-in-ml]]
+
+See also: [[decision-making-frameworks]]

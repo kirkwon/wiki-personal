@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Sushi Rice Preparation
-description: "--
-Sushi Rice Preparation (酢飯の調理)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- sushi
-- rice
-- technique
-- cooking
-sources:
-- sushi-sashimi.md
-related:
-- sushi-and-sashimi
-- sushi-rice
-- sashimi-fish-guide
-- japanese-cuisine
----
+
 --
 # Sushi Rice Preparation (酢飯の調理)
 
@@ -67,3 +46,11 @@ related:
 - 米が温すぎるまたは冷たすぎる → 室温で提供
 - 米が味付け過ぎ → 次回酢を減らす
 - 米が粘りすぎる → より丁寧に研ぐ
+
+See also: [[sushi-and-sashimi]]
+
+See also: [[sushi-rice]]
+
+See also: [[sashimi-fish-guide]]
+
+See also: [[japanese-cuisine]]

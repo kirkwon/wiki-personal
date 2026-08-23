@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Collard Greens
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- ingredient
-- comfort-food
-- southern-soul-food
-sources:
-- southern-soul-food.md
-related:
-- southern-soul-food
-- comfort-food
-- braising
----
+
 -
 # Collard Greens
 
@@ -41,3 +24,7 @@ The slow cooking process is a form of braising that develops deep, complex flavo
 - [[mac-and-cheese]]
 - [[hoppin-john]]
 ---
+
+See also: [[southern-soul-food]]
+
+See also: [[comfort-food]]

@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Circle of Fifths
-description: "The Circle of Fifths is the organizing principle for key signatures in Western music."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- theory
-- key-signatures
-sources:
-- music-theory-fundamentals.md
-related:
-- music-theory-fundamentals
-- jazz-harmony
-- major-and-minor-scales
----
+
 --
 # Circle of Fifths
 
@@ -42,3 +25,9 @@ The Circle of Fifths is the organizing principle for key signatures in Western m
 | C♭ Major | 7♭ | C♭ D♭ E♭ F♭ G♭ A♭ B♭ |
 
 The Circle of Fifths provides a systematic reference for identifying key signatures, understanding relationships between keys, and practicing scales and chord progressions.
+
+See also: [[music-theory-fundamentals]]
+
+See also: [[jazz-harmony]]
+
+See also: [[major-and-minor-scales]]

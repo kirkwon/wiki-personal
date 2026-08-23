@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Solitude and Creativity
-description: "--
-Solitude and Creativity"
-created: 2026-04-29
-updated: 2026-05-03
-tags:
-- productivity
-- creativity
-- innovation
-sources:
-- Slow Productivity - Cal Newport.md
-related:
-- slow-productivity---cal-newport
+cal-newport
 - deep-focus
 - flow-states
 ---
@@ -46,3 +31,5 @@ Solitude is not about doing less—it is about doing work that requires the dept
 - [[slow-productivity---cal-newport]] – Chapter 8 on solitude
 - [[deep-focus]] – Solitude enables deep concentration
 - [[flow-states]] – Creative flow often emerges in solitude
+
+See also: [[slow-productivity]]

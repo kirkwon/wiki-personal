@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Hyperfocus
-description: "Hyperfocus is a state of deep, intense concentration where an individual is fully absorbed in a task, experiencing high engagement and minimal distraction."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- attention
-- mental-models
-sources:
-- Hyperfocus - Chris Bailey.md
-related:
-- scatterfocus
-- attention-residue
-- attention-budget
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - quadrant-2-focus
 ---
 --
@@ -44,3 +27,5 @@ Hyperfocus connects to [[quadrant-2-focus]] and [[time-management-matrix]] by pr
 - [[attention-residue]]
 - [[attention-budget]]
 - [[single-tasking-advantage]]
+
+See also: [[thinking-fast-and-slow]]

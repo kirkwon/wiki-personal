@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Andrej Karpathy
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- person
-- ai
-- technology
-sources:
-- YouTube-Watch-Later.md
-related:
-- ai-agent-tools-ecosystem
-- claude-code
-- autoresearch
----
+
 -
 # Andrej Karpathy
 
@@ -31,3 +15,5 @@ related:
 [[ai-agent-tools-ecosystem]] | [[claude-code]]
 
 ---
+
+See also: [[autoresearch]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Field
-description: "Field is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Field.md
-related:
-- thinking-mental-model
-- stillness
-- settings
-- group
-- overview
-- environment
-- patterns-relationships
----
+
 --
 # Field
 
@@ -47,3 +27,5 @@ The model is currently at moderate maturity with a confidence level of 0.7, sugg
 ## Related Concepts
 
 Field connects to [[thinking-mental-model]] as a way of recognizing patterns, [[stillness]] as a stance for observing the field without rushing to intervene, [[settings]] as a lens for understanding context, and [[group]] as a tool for recognizing collective dynamics. It also relates to [[environment]] and [[overview]] as frameworks for understanding complex situations through systemic lenses.
+
+See also: [[patterns-relationships]]

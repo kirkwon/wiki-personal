@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Planetary Boundaries
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- sustainability
-- systems-thinking
-- environmental-science
-sources:
-- Limits to Growth_ The 30-Year Update - Donella H Meadows.md
-related:
-- limits-to-growth
-- world3-model
-- resource-depletion
-- satisfaction-under-constraints
----
+
 -
 # Planetary Boundaries
 
@@ -36,3 +19,9 @@ The 30-Year Update emphasizes that continued growth in resource extraction and p
 
 Understanding these boundaries is essential for integrating ecological constraints into economic models and political governance structures.
 ---
+
+See also: [[limits-to-growth]]
+
+See also: [[world3-model]]
+
+See also: [[resource-depletion]]

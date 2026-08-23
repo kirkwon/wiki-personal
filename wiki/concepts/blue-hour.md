@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Blue Hour
-description: "Blue hour is the period when the sun is just below the horizon and the sky is deep blue."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- lighting
-- blue-hour
-- twilight
-sources:
-- golden-hour.md
-related:
-- golden-hour
-- photography-fundamentals
-- street-photography
----
+
 --
 
 # Blue Hour
@@ -42,3 +24,7 @@ Blue hour is ideal for cityscapes with blue sky and warm lights, twilight scenes
 ## Connection to Golden Hour
 
 Blue hour extends the shooting window after golden hour ends, transitioning from the warm golden tones to cool blue light as city lights illuminate.
+
+See also: [[photography-fundamentals]]
+
+See also: [[street-photography]]

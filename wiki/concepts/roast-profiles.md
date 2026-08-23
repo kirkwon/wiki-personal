@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: 烘焙曲线与开发比例
-description: "烘焙曲线和开发比例是控制咖啡烘焙质量的核心工具，包括升温速率（ROR）和一爆至二爆时间比（FC/BC）。"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- coffee
-- technique
-- baking
-sources:
-- Roasting.md
-related:
-- coffee-roasting-咖啡烘焙
-- rate-of-rise-roasting
-- coffee-bean-processing-咖啡豆处理
----
+
 --
 # 烘焙曲线与开发比例
 
@@ -44,3 +27,5 @@ related:
 - **拼配曲线**：平衡、一致
 
 烘焙曲线与[[rate-of-rise-roasting]]和[[coffee-roasting-咖啡烘焙]]紧密关联。
+
+See also: [[coffee-bean-processing-咖啡豆处理]]

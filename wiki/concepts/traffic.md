@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Traffic
-description: "Traffic as a mental model refers to the flow and movement of information, resources, or activities through a system."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-related:
-- conditions
-- problem.md
-- information-sharing-mechanisms
-sources:
-- Information sharing mechanisms.md
-confidence: low
----
+
 --
 # Traffic
 
@@ -24,3 +7,5 @@ Traffic as a mental model refers to the flow and movement of information, resour
 This concept connects to information sharing mechanisms, where auditing workflows and tracking how time and attention are spent reveals where traffic patterns lead to wasted effort or congestion.
 
 Related mental models include [[conditions]] and [[problem-md]], which provide complementary lenses for analyzing complex situations through pattern and relationship recognition.
+
+See also: [[information-sharing-mechanisms]]

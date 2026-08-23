@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Ensemble prediction methods
-description: "--
-Ensemble prediction methods"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- prediction
-- statistics
-- decision-making
-sources:
-- The Signal and the Noise - Nate Silver.md
-related:
-- prediction-aggregation
-- signal-to-noise-ratio
-- superforecasting---philip-e-tetlock-dan-gardner
+philip-e-tetlock-dan-gardner
 - bayesian-thinking
 ---
 --
@@ -38,3 +21,7 @@ Used in weather forecasting, political polling, and financial modeling. The meta
 ## Connection to Existing Concepts
 
 This extends [[Superforecasting - Philip E Tetlock  Dan Gardner]] and [[bayesian-thinking]] by emphasizing model diversity as a source of robustness.
+
+See also: [[signal-to-noise-ratio]]
+
+See also: [[superforecasting]]

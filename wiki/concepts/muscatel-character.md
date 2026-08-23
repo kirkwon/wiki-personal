@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 麝香葡萄风味特征
-description: "麝香葡萄风味（Muscatel Character）是大吉岭茶最独特的特征，指葡萄、酒类般的果香，由喜马拉雅风土塑造。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- darjeeling
-- flavor
-related:
-- darjeeling-tea
-- 风味理论
-- 风土概念
-sources:
-- Darjeeling Tea.md
----
+
 --
 # 麝香葡萄风味特征
 
@@ -42,3 +25,5 @@ sources:
 - **秋摘**：麦芽、成熟的麝香葡萄特征
 
 这是大吉岭茶被称为"茶中香槟"的原因，也是区分其与其他红茶的核心标志。
+
+See also: [[darjeeling-tea]]

@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: summary
-title: The 4-Hour Body - Timothy Ferriss
-description: "The 4-Hour Body - Timothy Ferriss"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- health
-- fitness
-- book
-- intermittent-fasting
-- hiit
-- metabolic-flexibility
-sources:
-- the-4-hour-body
-- The 4-Hour Body - Timothy Ferriss
-related: [timothy-ferriss, intermittent-fasting, hiit-high-intensity-interval-training, metabolic-flexibility, sleep-optimization, body-fat-paradox, habit-loop-health, mindset-reframing-health]
----
+
 # The 4-Hour Body - Timothy Ferriss
 
 *The 4-Hour Body* is Timothy Ferriss's guide to unconventional health and body transformation, organized around 12 chapters spanning genetics, sleep, nutrition, exercise, supplementation, mindset, and habit formation.
@@ -39,3 +21,23 @@ Conventional health advice — excessive cardio, extreme calorie restriction —
 ## Connections
 
 The book's "body as experiment" ethos parallels [[experiment-and-exploration-forms-of-world-disclosure---snke-ahrens]] and [[decision-tracking]]. The habit loop framework connects to [[hook-model]] and [[habit-testing]]. Mindset reframing relates to [[thinking-fast-and-slow---daniel-kahneman]] and metacognitive awareness.
+
+Sources: [[the-4-hour-body]]
+
+Sources: [[The 4-Hour Body - Timothy Ferriss]]
+
+See also: [[timothy-ferriss]]
+
+See also: [[intermittent-fasting]]
+
+See also: [[hiit-high-intensity-interval-training]]
+
+See also: [[metabolic-flexibility]]
+
+See also: [[sleep-optimization]]
+
+See also: [[body-fat-paradox]]
+
+See also: [[habit-loop-health]]
+
+See also: [[mindset-reframing-health]]

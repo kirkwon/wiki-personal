@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Energy and Momentum
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-- effort
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - water-as-strategy
 - effort
 - timing
@@ -30,3 +17,5 @@ The management of force and momentum in strategic action. From *The Art of War* 
 ## Connections
 Connects to [[water-as-strategy]] (water is the metaphor), [[effort]] (channeling effort effectively), [[timing]] concepts, and [[strategic-vs-reactive-thinking]] (proactive momentum building). Also relates to [[energy-and-momentum]] as a mental model for understanding how force compounds through consistent direction.
 ---
+
+See also: [[the-art-of-war]]

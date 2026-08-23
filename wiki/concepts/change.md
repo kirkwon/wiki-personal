@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Change
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Change.md
-related:
-- planning
-- tendency
-- effort
-- brain-mental-model
-- patterns-and-relationships
-- personal-knowledge-vault
-- framework-template
----
+
 -
 # Change
 
@@ -47,3 +28,7 @@ Change connects to [[planning]] through the recognition that adaptive planning r
 
 The confidence rating is moderate (0.7) given that the source is a meta-summary listing sources rather than presenting original analysis or evidence.
 ---
+
+See also: [[personal-knowledge-vault]]
+
+See also: [[framework-template]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Buffalo Trace
-description: "Kentucky Straight Bourbon identified as the best value entry point in the collection."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- spirits
-- bourbon
-- whisky
-- tasting
-- beverages
-sources:
-- Whisky Tasting Notes.md
-related:
-- spirits-index
-- bourbon
-- whisky-tasting-notes
-- whisky-tasting-methodology
-- whisky-price-tiers
----
+
 --
 # Buffalo Trace
 
@@ -46,3 +25,9 @@ High sweetness (★★★★★) and value (★★★★★) with moderate spice
 ## Related
 
 See [[spirits-index]] and [[bourbon]].
+
+See also: [[whisky-tasting-notes]]
+
+See also: [[whisky-tasting-methodology]]
+
+See also: [[whisky-price-tiers]]

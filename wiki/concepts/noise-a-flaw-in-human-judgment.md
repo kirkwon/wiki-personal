@@ -1,21 +1,4 @@
----
-
-date: 2026-04-29
-type: concept
-title: 'Noise: A Flaw in Human Judgment'
-description: "-"
-Noise: A Flaw in Human Judgment""
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-- noise
-sources:
-- Judgments.md
-related:
-- thinking-fast-and-slow ---daniel-kahneman
+daniel-kahneman
 - judgments
 - cognitive-biases-library
 - decision-quality-vs-outcome-quality
@@ -43,3 +26,5 @@ This concept extends [[thinking-fast-and-slow---daniel-kahneman]] by introducing
 - [[judgments]] - Mental model framing for judgment
 - [[biases]] - Systematic errors in thinking
 - [[systematic-decision-making]] - Structured approaches to reduce variability
+
+See also: [[thinking-fast-and-slow]]

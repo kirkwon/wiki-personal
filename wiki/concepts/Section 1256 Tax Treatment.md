@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Section 1256 Tax Treatment
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- investing
-- tax
-- skill-candidate
-- derivatives
-- Options Trading.md
-sources:
-- Options Trading.md
-related:
-- options
-- wash-sale-rule
-- retirement-planning
-- alternative-investments
----
+
 -
 # Section 1256 Tax Treatment
 
@@ -38,3 +18,7 @@ Section 1256 of the IRS tax code provides favorable tax treatment for non-equity
 ## Σχέση με τη Μεταχειριστική Προετοιμασία
 Η φορολογική μεταχείριση συνδέεται με [[retirement-planning]] και [[alternative-investments]] καθώς επηρεάζει τη στρατηγική αρχικοποίησης.
 ---
+
+See also: [[options]]
+
+See also: [[wash-sale-rule]]

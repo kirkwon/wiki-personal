@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Slinger
-description: "Slinger to regionalny styl burgera ze St."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- american
-- burgers
-- regional
-- comfort-food
-related:
-- americana-burgers
-- jucy-lucy
-sources:
-- burgers.md
----
+
 --
 # Slinger
 
@@ -33,3 +16,7 @@ To pełnoprawne danie comfort food, nie tylko burger z dodatkami.
 ## Przygotowanie
 
 Klasyczny slinger składa się z burgera, pokrytego gęstym chili, udekorowanego jajkami i obok lub na wierzchu frytkami. Całość jest ciężka, syta i charakterystyczna dla lokalnej kuchni.
+
+See also: [[americana-burgers]]
+
+See also: [[jucy-lucy]]

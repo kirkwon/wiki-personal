@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: 'Essentialism: The Disciplined Pursuit of Less'
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- productivity
-- philosophy
-sources:
-- Commitments.md
-related:
-- greg-mckeown
-- commitments
-- mental-models
----
+
 -
 # Essentialism: The Disciplined Pursuit of Less
 
@@ -22,3 +6,7 @@ related:
 
 The book provides the intellectual foundation for the [[commitments]] mental model, emphasizing that commitments should be chosen deliberately rather than accumulated passively.
 ---
+
+See also: [[greg-mckeown]]
+
+See also: [[mental-models]]

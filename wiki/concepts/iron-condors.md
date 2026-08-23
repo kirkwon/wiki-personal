@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Iron Condors
-description: "An iron condor is a defined-risk strategy combining a bull put spread and bear call spread, profitable when the underlying stays within a range."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- options
-- options-trading
-- range-bound
-- income-generation
-sources:
-- Options Trading Guide.md
-related:
-- options-fundamentals
-- theta-time-decay
-- credit-spreads
-- options-position-sizing
-- butterfly-spreads
----
+
 --
 # Iron Condors
 
@@ -67,3 +45,9 @@ Iron condors benefit from time decay as the short options lose value faster than
 Iron condors are a core strategy for range-bound market income generation.^[raw/articles/Options Trading Guide.md]
 
 Iron condors relate to [[credit-spreads]] and [[butterfly-spreads]] as defined-risk, theta-positive strategies.
+
+See also: [[options-fundamentals]]
+
+See also: [[theta-time-decay]]
+
+See also: [[options-position-sizing]]

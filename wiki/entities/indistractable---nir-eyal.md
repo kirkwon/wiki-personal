@@ -1,18 +1,19 @@
----
+Sources: [[indistractable]]
 
-date: 2026-05-03
-type: entity
-title: Indistractable - Nir Eyal
-description: "Master focus and minimize distractions to reclaim your attention and boost deep work productivity."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- productivity
-- psychology
-- attention
-sources:
-- indistractable
-- Indistractable - Nir Eyal
-related: [nir-eyal, the-indistractable-model, traction-vs-distraction, internal-triggers, external-triggers, hook-model, effort-pacts, price-pacts, identity-pacts]
----
+See also: [[nir-eyal]]
+
+See also: [[the-indistractable-model]]
+
+See also: [[traction-vs-distraction]]
+
+See also: [[internal-triggers]]
+
+See also: [[external-triggers]]
+
+See also: [[hook-model]]
+
+See also: [[effort-pacts]]
+
+See also: [[price-pacts]]
+
+See also: [[identity-pacts]]

@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Credit Spreads
-description: "A credit spread involves selling one option and buying another option at a different strike price to collect a net credit while defining risk."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- options
-- options-trading
-- income-generation
-- risk-management
-sources:
-- Options Trading Guide.md
-related:
-- options-fundamentals
-- theta-time-decay
-- options-position-sizing
-- iron-condors
-- straddle-strategies
----
+
 --
 # Credit Spreads
 
@@ -61,3 +39,9 @@ Sell an OTM option and buy a further OTM option for protection. The difference i
 - **Conservative to Moderate Risk Tolerance**: Credit spreads are a core strategy for income generation with controlled risk
 
 Credit spreads connect to [[theta-time-decay]] and complement [[iron-condors]] as a defined-risk income strategy.^[raw/articles/Options Trading Guide.md]
+
+See also: [[options-fundamentals]]
+
+See also: [[options-position-sizing]]
+
+See also: [[straddle-strategies]]

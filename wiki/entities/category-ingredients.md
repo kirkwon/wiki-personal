@@ -1,25 +1,12 @@
----
-date: 2026-04-24
-type: entity
-title: Category:Ingredients
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking
-- category
-- gastronomy
-sources:
-- Gastronomy.md
-related:
-- salmon
-- aromatics
-- seasonings
-- basil-ocimum-basilicum
-- cilantrocoriander-coriandrum-sativum
-- rosemary-rosmarinus-officinalis
----
+
 -
 # Category:Ingredients
 
 A collection of ingredient pages organized for reference, including featured ingredients like [[salmon]], [[aromatics]], and [[seasonings]], as well as individual herb and spice entries.
 ---
+
+See also: [[basil-ocimum-basilicum]]
+
+See also: [[cilantrocoriander-coriandrum-sativum]]
+
+See also: [[rosemary-rosmarinus-officinalis]]

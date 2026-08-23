@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Practice Principles for Music
-description: "--
-Practice Principles for Music"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- practice
-- theory
-sources:
-- music-theory-fundamentals.md
-related:
-- music-theory-fundamentals
-- ear-training
----
+
 --
 # Practice Principles for Music
 
@@ -42,3 +25,7 @@ Effective music practice relies on consistency, deliberate slow practice, and fo
 - Not actively listening while studying
 - Only playing what you know
 - Ignoring theory connections to what you hear and play
+
+See also: [[music-theory-fundamentals]]
+
+See also: [[ear-training]]

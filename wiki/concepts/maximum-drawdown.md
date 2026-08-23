@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Maximum Drawdown
-description: "Η μεγαλύτερη πτώση από κορυφή σε κύτταρο ενός χαρτοφυλακίου. Για παράδειγμα, το S&P 500 έχει υποστεί -50% πτώση (2008, 2020), ένα ισορροπημένο χαρτοφυλακείο -20%, και ένα συντηρητικό -10%."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- risk-metrics
-sources:
-- Risk Management.md
-related:
-- sharpe-ratio
-- standard-deviation
-- risk-management
----
+
 --
 # Maximum Drawdown
 
@@ -26,3 +9,5 @@ related:
 
 ## Σύνδεση με άλλες μετρήσεις
 Συνδέεται με [[sharpe-ratio]] και [[standard-deviation]] ως μέτρηση κινδύνου.
+
+See also: [[risk-management]]

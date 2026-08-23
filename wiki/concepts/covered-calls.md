@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Covered Calls
-description: "A covered call strategy involves selling call options against stock you already own, generating premium income."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- options
-- options-trading
-- income-generation
-sources:
-- Options Trading Guide.md
-related:
-- options-fundamentals
-- theta-time-decay
-- options-for-retirement-planning
-- ITM-vs-OTM-options
-- options-position-sizing
-- cash-secured-puts
----
+
 --
 # Covered Calls
 
@@ -59,3 +37,13 @@ A covered call strategy involves selling call options against stock you already 
 - Theta benefit offsets but does not eliminate stock risk
 
 Covered calls are one of the most conservative options strategies and a cornerstone of income-oriented options trading.^[raw/articles/Options Trading Guide.md] Covered calls integrate with broader income strategies alongside [[cash-secured-puts]] and [[credit-spreads]].
+
+See also: [[options-fundamentals]]
+
+See also: [[theta-time-decay]]
+
+See also: [[options-for-retirement-planning]]
+
+See also: [[ITM-vs-OTM-options]]
+
+See also: [[options-position-sizing]]

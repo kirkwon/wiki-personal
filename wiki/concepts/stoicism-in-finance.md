@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Stoizismus in Finanzen
-description: "--
-Stoizismus in Finanzen"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- wealth-building
-- psychology
-- stoicism
-sources:
-- The Algebra of Wealth.md
-related:
-- the-algebra-of-wealth
-- decision-quality-vs-outcome-quality
-- overconfidence-and-certainty
----
+
 --
 # Stoizismus in Finanzen
 
@@ -36,3 +17,9 @@ Emotionale Disziplin, die Fehlentscheidungen verhindert und den langfristigen Fo
 
 ## Prozess vs. Ergebnis
 Stoizismus bedeutet, auf den Prozess zu konzentrieren, nicht auf das Ergebnis. Das Kontrollierbare (Sparquote, Fähigkeitsentwicklung) optimieren, das Unkontrollierbare (Marktrückläufe, Wirtschaft) annehmen.
+
+See also: [[the-algebra-of-wealth]]
+
+See also: [[decision-quality-vs-outcome-quality]]
+
+See also: [[overconfidence-and-certainty]]

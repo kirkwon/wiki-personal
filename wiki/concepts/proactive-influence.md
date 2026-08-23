@@ -1,16 +1,4 @@
----
 
-date: 2026-04-18
-type: concept
-title: Proactive Influence
-description: "Acting ethically to drive change and create positive impact, rather than reacting to circumstances."
-created: 2026-04-18
-updated: 2026-05-09
-tags: [leadership, mental-models, productivity]
-sources: ["The 8th Habit_ From Effectiveness to Greatness - Stephen R. Covey.md", "The 8th Habit_ From Effectiveness to Greatness - Stephen R Covey.md"]
-related: ["building-a-decision-culture", "radical-transparency", "the-8th-habit-from-effectiveness-to-greatness"]
-
----
 # Proactive Influence
 
 Acting ethically to drive change and create positive impact, rather than reacting to circumstances. The final habit in Covey's sequence of greatness, emphasizing that true influence comes from proactive action grounded in integrity rather than reactive compliance.
@@ -45,3 +33,5 @@ In teams and organizations, proactive influence means confronting issues with in
 - Positive impact on others
 - Stress levels and work satisfaction
 - Count wins and achievements against goals
+
+See also: [[the-8th-habit-from-effectiveness-to-greatness]]

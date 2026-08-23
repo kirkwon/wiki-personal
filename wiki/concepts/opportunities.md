@@ -1,15 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Opportunities
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - solutions-mental-model
 - planning
 - markets
@@ -44,3 +33,5 @@ This concept connects to several existing mental models in the wiki:
 
 The current framework is generic and lacks specific heuristics or criteria for identifying opportunities. Key questions include: What specific signals define an "opportunity" in Dalio's framework? How does this model differ from existing mental models like [[solutions-mental-model]] or [[planning]]?
 ---
+
+See also: [[how-the-economic-machine-works]]

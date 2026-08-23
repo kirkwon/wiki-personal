@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 后发酵
-description: "后发酵是普洱茶的核心特征，指茶叶在加工完成后，通过微生物作用随时间发生变化的过程。这一过程使普洱茶区别于所有其他茶类，赋予其独特的陈化潜力和风味演变能力。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- fermentation
-- chinese
-sources:
-- Pu-erh Tea.md
-related:
-- pu-erh-tea
-- wo-dui-fermentation
-- tea
-- dark-tea
----
+
 --
 # 后发酵
 
@@ -35,3 +17,7 @@ related:
 
 ## 相关
 [[Pu-erh Tea]] | [[wo-dui-fermentation]] | [[tea]]
+
+See also: [[pu-erh-tea]]
+
+See also: [[dark-tea]]

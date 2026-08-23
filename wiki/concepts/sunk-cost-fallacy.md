@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Sunk Cost Fallacy
-description: "The sunk cost fallacy is the tendency to continue an endeavor because of previously invested resources — time, money, effort — rather than evaluating future costs and benefits."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- mental-models
-- cognitive-bias
-- decision-making
-- psychology
-sources:
-- super-thinking
-- Sunk Cost Fallacy
-related: ["cognitive-biases-library", "mental-models", "decision-quality-vs-outcome-quality", "decision-tracking", "prospect-theory"]
----
+
 # Sunk Cost Fallacy
 
 The sunk cost fallacy is the tendency to continue an endeavor because of previously invested resources — time, money, effort — rather than evaluating future costs and benefits. Sunk costs are irrecoverable and should not influence future decisions. Covered in Part II of *Super Thinking*.
@@ -45,3 +29,7 @@ Evaluate decisions based on future costs and benefits only, not past investment.
 - [[decision-quality-vs-outcome-quality]] — separating decision process from results / separating process from outcome
 - [[decision-tracking]] — recording decisions to calibrate judgment / recording rationale to detect sunk cost reasoning
 - [[prospect-theory]]
+
+Sources: [[super-thinking]]
+
+See also: [[mental-models]]

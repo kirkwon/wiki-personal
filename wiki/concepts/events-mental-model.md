@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Events (Mental Model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-bias
-sources:
-- Events.md
-related:
-- antifragility
-- black-swan-events
-- swan-mental-model
-- tendency
-- biases
-- cognitive-biases-library
-- the-art-of-thinking-clearly---rolf-dobelli
+rolf-dobelli
 - the-black-swan---nassim-nicholas-taleb
 ---
 -
@@ -53,3 +34,5 @@ Confidence in this model is moderate (0.7), indicating it is still being refined
 
 Universal — applicable across general domains for navigating complexity through pattern and relationship recognition.
 ---
+
+See also: [[the-art-of-thinking-clearly]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Issues
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Issues.md
-- Limits to Growth_ The 30-Year Update - Donella H Meadows
-related:
-- limits-to-growth
-- donella-meadows
-- problem
-- solutions
-- planning
-- mental-models
-confidence: medium
----
+
 -
 # Issues
 
@@ -45,3 +25,13 @@ In *Limits to Growth: The 30-Year Update*, Meadows examines systemic issues in g
 
 What specifically distinguishes "Issues" from [[Problem]] or [[obstacles]] as mental models? The distinction lies in emphasis: Issues is a diagnostic lens for understanding patterns and relationships, while Problem is a call to action. This model benefits from more concrete application examples.
 ---
+
+Sources: [[Limits to Growth_ The 30-Year Update - Donella H Meadows]]
+
+See also: [[donella-meadows]]
+
+See also: [[problem]]
+
+See also: [[solutions]]
+
+See also: [[mental-models]]

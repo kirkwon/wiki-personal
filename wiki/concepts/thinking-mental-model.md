@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Thinking (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-sources:
-- Thinking.md
-confidence: medium
-related:
-- six-thinking-hats
-- how-to-decide---annie-duke
+annie-duke
 - lateral-thinking
 - clear-thinking---shane-parrish
 - the-great-mental-models-vol-1---shane-parrish
@@ -50,3 +35,5 @@ Thinking overlaps with and connects to several existing mental model pages in th
 
 The confidence is set at 0.7, indicating moderate certainty. An open question remains: how does "Thinking" as a mental model differ from the existing mental model pages already in the wiki? It may serve best as a unifying umbrella concept connecting structured thinking frameworks, decision-making techniques, and pattern recognition approaches.
 ---
+
+See also: [[six-thinking-hats]]

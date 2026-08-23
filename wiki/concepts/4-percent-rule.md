@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 4% Rule
-description: "The 4% Rule is a widely used guideline for sustainable retirement income: withdraw 4% of your portfolio in the first year of retirement, then adjust that amount annually for inflation."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- retirement
-- investing
-- personal-finance
-related:
-- retirement-planning
-- rule-of-25x
-- healthcare-costs-in-retirement
-- tax-torpedoes-in-retirement
-- required-minimum-distributions-rmds
-- required-minimum-distributions
-sources:
-- Retirement Planning.md
----
+
 --
 # 4% Rule
 
@@ -55,3 +35,5 @@ The 4% Rule implies you need 25 times your annual expenses (at 4% withdrawal rat
 - [[healthcare-costs-in-retirement]] — Medicare gaps require additional planning
 - [[compounding]] — Portfolio growth supports sustainable withdrawals
 - [[retirement-planning]] — Overall retirement income strategy
+
+See also: [[required-minimum-distributions-rmds]]

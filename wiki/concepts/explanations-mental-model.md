@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Explanations Mental Model
-description: "--
-Explanations Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- epistemology
-- problem-solving
-sources:
-- Explanations.md
-related:
-- theory-as-a-mental-model
-- ideas-mental-model
-- thinking-mental-model
-- problem-solving
-- reality-mental-model
-- solutions
-- polya-four-steps
-- working-backwards-in-problem-solving
----
+
 --
 # Explanations Mental Model
 
@@ -34,3 +11,7 @@ Bad explanations, by contrast, are easy to vary. Phrases like "god did it" or "i
 The "hard to vary" criterion serves as a practical filter for evaluating theories, hypotheses, and mental models. When faced with a complex situation, asking "is this explanation hard to vary?" helps distinguish between genuine understanding and mere hand-waving.
 
 This model sits alongside [[theory-as-a-mental-model]], [[ideas-mental-model]], and [[thinking-mental-model]] as abstract frameworks for navigating complexity, and connects to [[problem-solving]], [[polya-four-steps]], and [[working-backwards-in-problem-solving]] where explanations are the output of the reasoning process.
+
+See also: [[reality-mental-model]]
+
+See also: [[solutions]]

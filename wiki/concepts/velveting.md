@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Velveting
-description: "Velveting is a Chinese cooking technique that uses cornstarch (and optionally egg white) in a marinade to create a silky, tender texture in proteins when cooked."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- technique
-- chinese-cuisine
-- cooking
-- gastronomy
-sources:
-- Marinades.md
-related:
-- marinades
-- stir-fry-technique
-- chinese-cuisine
-- wok-hei
----
+
 --
 # Velveting
 
@@ -40,3 +21,7 @@ Used in Chinese restaurant-style stir-fry for beef, chicken, and other proteins.
 
 ## Connection to Stir-Fry
 Velveting is closely associated with [[stir-fry-technique]] and [[wok-hei]], where the rapid high-heat cooking benefits from proteins that have been pre-treated for tenderness and moisture retention.
+
+See also: [[marinades]]
+
+See also: [[chinese-cuisine]]

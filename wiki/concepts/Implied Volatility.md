@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Implied Volatility
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- risk-management
-sources:
-- Options Trading.md
-related:
-- historical-volatility
-- options
-- the-greeks-options
-- iron-condor
----
+
 -
 # Implied Volatility
 
@@ -35,3 +18,9 @@ Implied volatility (IV) is the market's expectation of future volatility, reflec
 - Historical Volatility (HV): Η πραγματική μεταβλητότητα του προηγούμενου περιόδου
 - Η σύγκριση IV με HV βοηθά στον εντοπισμό φθηνών και ακριβών ευκαιριών
 ---
+
+See also: [[historical-volatility]]
+
+See also: [[options]]
+
+See also: [[iron-condor]]

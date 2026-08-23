@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Norms (mental model)
-description: "--
-Norms (mental model)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-bias
-- decision-making
-sources:
-- Norms.md
-related:
-- biases
-- tendency
-- reality-mental-model
-- effort
-- cognitive-biases-library
-- decision-making-frameworks
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 confidence: medium
 ---
 --
@@ -37,3 +16,5 @@ The model is closely connected to behavioral economics and cognitive science. Da
 
 ## Open questions
 The model's scope is still forming, with confidence rated at 0.7. It remains unclear whether "norms" as social conventions (Ariely's focus) is a distinct mental model or a subset of existing frameworks like [[biases]] or [[tendency]].
+
+See also: [[thinking-fast-and-slow]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Rhythm Changes
-description: "Rhythm changes er en 16-takt jazzprogresjon basert på George Gershwins 'I Got Rhythm'."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- jazz
-- harmony
-- progressions
-- music
-- theory
-related:
-- jazz-harmony
-- music-theory-fundamentals
-- bebop
-- ii-V-I
-- ii-v-i-progression
-sources:
-- jazz-harmony.md
----
+
 --
 # Rhythm Changes
 
@@ -43,3 +22,5 @@ Basert på melodi og harmoni fra "I Got Rhythm" av George Gershwin. Progressjone
 - [[ii-v-i]] som grunnleggende progresjon
 - [[bebop]] for stilen som bruker denne progresjonen ofte
 - [[ii-v-i-progression]]
+
+See also: [[music-theory-fundamentals]]

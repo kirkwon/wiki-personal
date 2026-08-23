@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 流化床烘焙机
-description: "流化床烘焙机通过热空气使咖啡豆悬浮流动，实现均匀加热。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- equipment
-- roasting
-sources:
-- Roasting.md
-related:
-- coffee-roasting-咖啡烘焙
-- drum-roasters
----
+
 --
 # 流化床烘焙机
 
@@ -31,3 +15,7 @@ related:
 ## 与转鼓式对比
 
 流化床烘焙机在气流控制方面更具优势，但转鼓式在传统工艺和批次容量上更胜一筹。
+
+See also: [[coffee-roasting-咖啡烘焙]]
+
+See also: [[drum-roasters]]

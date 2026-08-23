@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Char Siu Bao (叉烧包)
-description: "--
-Char Siu Bao (叉烧包)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- chinese
-- cantonese
-- dim-sum
-- bun
-- bbq-pork
-- cuisine
-related:
-- dim-sum
-- siu-mai
-- yum-cha
-- cantonese-cuisine
-- char-siu
-sources:
-- dim-sum.md
----
+
 --
 # Char Siu Bao (叉烧包)
 
@@ -39,3 +16,13 @@ sources:
 
 ## Hosting Tip
 Freeze raw char siu bao and steam when ready. Rest dough 30 minutes before shaping.
+
+See also: [[dim-sum]]
+
+See also: [[siu-mai]]
+
+See also: [[yum-cha]]
+
+See also: [[cantonese-cuisine]]
+
+See also: [[char-siu]]

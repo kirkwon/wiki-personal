@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Classic Pico de Gallo
-description: "--
-Classic Pico de Gallo"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- mexican-cuisine
-- salsa
-- cilantro
-sources:
-- Cilantro-Coriander.md
-related:
-- cilantrocoriander-coriandrum-sativum
-- mexican-cuisine
-- herbs-spices
----
+
 --
 # Classic Pico de Gallo
 
@@ -43,3 +24,7 @@ Salsa fresca mexicana que combina tomate, cebolla, cilantro y chile jalapeño.
 ## Notas
 
 El cilantro se añade al final para preservar su frescura y sabor cítrico. Esta salsa es un ejemplo clásico de la aplicación del cilantro en la [[mexican-cuisine]].
+
+See also: [[cilantrocoriander-coriandrum-sativum]]
+
+See also: [[herbs-spices]]

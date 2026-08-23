@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Framing Composition
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- leading-lines
-- depth-and-layers-photography
----
+
 -
 # Framing Composition
 
@@ -39,3 +24,9 @@ Framing uses elements in your scene to create a "frame" around your main subject
 - Person behind tree branches: Branches frame the person
 - Cityscape through tunnel: Tunnel frames the city view
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[leading-lines]]
+
+See also: [[depth-and-layers-photography]]

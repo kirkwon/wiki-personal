@@ -1,47 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Patterns
-description: "Patterns is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-sources:
-- Patterns.md
-- Range - David Epstein
-- A Template for Understanding Big Debt Crises - Ray Dalio
-- Predictably Irrational - Dan Ariely
-related:
-- thinking-mental-model
-- solutions-mental-model
-- group
-- planning
-- stillness
-- settings
-- environment
-- care
-- minimalism
-- management
-- recipes-mental-model
-- overview
-- markets
-- opportunities
-- obstacles
-- effort
-- tendency
-- humanity
-- biases
-- ideas-mental-model
-- business
-- david-mental-model
-- reality-mental-model
-- allen-mental-model
-- leverage
-- rates
----
+
 --
 # Patterns
 
@@ -83,3 +40,41 @@ The confidence level for this model is 0.7, indicating moderate uncertainty abou
 - [[planning]] — Using pattern recognition to plan ahead
 - [[stillness]] — Recognizing patterns through observation and reflection
 - [[rates]] — Understanding patterns of change and rate dynamics
+
+Sources: [[Predictably Irrational - Dan Ariely]]
+
+See also: [[group]]
+
+See also: [[settings]]
+
+See also: [[environment]]
+
+See also: [[care]]
+
+See also: [[minimalism]]
+
+See also: [[management]]
+
+See also: [[recipes-mental-model]]
+
+See also: [[overview]]
+
+See also: [[obstacles]]
+
+See also: [[effort]]
+
+See also: [[tendency]]
+
+See also: [[humanity]]
+
+See also: [[ideas-mental-model]]
+
+See also: [[business]]
+
+See also: [[david-mental-model]]
+
+See also: [[reality-mental-model]]
+
+See also: [[allen-mental-model]]
+
+See also: [[leverage]]

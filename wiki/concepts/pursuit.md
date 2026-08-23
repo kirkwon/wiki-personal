@@ -1,14 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Pursuit
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-related:
-- the-algebra-of-happiness---scott-galloway
+scott-galloway
 - ideas-mental-model
 - opportunities
 - effort
@@ -40,3 +30,5 @@ This model is referenced in Scott Galloway's *The Algebra of Happiness*, which e
 
 Medium (0.7) — The source provides minimal elaboration, making it difficult to distinguish Pursuit from adjacent mental models.
 ---
+
+See also: [[the-algebra-of-happiness]]

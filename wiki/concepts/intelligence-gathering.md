@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Intelligence Gathering
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-- decision-making
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - superforecasting
 - prediction-markets
 - situation
@@ -33,3 +20,5 @@ Connects to [[superforecasting]] (probabilistic thinking about future states), [
 ## Tension
 Intelligence gathering in *The Art of War* assumes adversarial competition. The wiki's broader philosophy emphasizes [[satisfaction-under-constraints]] and cooperative information sharing. The "when to stop" guidance warns against paranoia about opponents.
 ---
+
+See also: [[the-art-of-war]]

@@ -1,33 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Resilience
-description: "Resilience is both a conceptual tool and a core property of healthy complex adaptive systems."
-created: 2026-04-29
-updated: 2026-05-11
-tags:
-- mental-model
-- general
-- psychology
-- systems-thinking
-- mental-models
-- sustainability
-sources:
-- Resilience.md
-- Thinking in Systems - Donella H. Meadows.md
-confidence: medium
-related:
-- antifragility
-- grit-concept
-- the-obstacle-is-the-way
-- the-daily-stoic
-- everything-is-fucked-mark-manson
-- complex-adaptive-systems
-- self-organization
-- limits-to-growth
-- feedback-loops
-- decision-making-under-uncertainty
----
+
 --
 # Resilience
 
@@ -70,3 +41,5 @@ Resilience connects to [[complex-adaptive-systems]], [[self-organization]], [[li
 ## Open Questions
 
 How precisely does resilience differ from antifragility as a mental model versus a system property? The current sources do not fully resolve this distinction. Further elaboration could clarify when to apply resilience versus antifragility as the primary framework.
+
+See also: [[grit-concept]]

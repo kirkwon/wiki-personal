@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Find Your Why - Simon Sinek
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- communication
-- purpose
-sources:
-- Message.md
-related:
-- message
-- the-infinite-game---simon-sinek
+simon-sinek
 - communication-skills
 ---
 -
@@ -36,3 +22,5 @@ This book is referenced as a cross-source perspective supporting the [[message]]
 - [[communication-skills]] – Communication as a broader wiki topic.
 - [[message]] – The mental model this source supports.
 ---
+
+See also: [[the-infinite-game]]

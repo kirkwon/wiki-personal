@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Mental Simulation in Decision-Making
-description: "Mental Simulation in Decision-Making"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- cognitive-science
-- mental-models
-sources:
-- sources-of-power-how-people-make-decisions
-- Mental Simulation in Decision-Making
-related: [recognition-primed-decision-model, working-backwards-in-problem-solving, naturalistic-decision-making]
----
+
 # Mental Simulation in Decision-Making
 
 Mental simulation is the cognitive process of running a course of action forward in time in one's mind to check for flaws before committing to it. Gary Klein identifies it as one of the core "sources of power" behind expert decision-making.
@@ -25,3 +10,5 @@ Klein distinguishes mental simulation from formal analysis: it does not require 
 This concept connects to [[working-backwards-in-problem-solving]] in that both involve projecting outcomes forward, but mental simulation is specifically framed as an intuitive, experience-driven evaluation tool rather than a structured reasoning method. It also complements [[recognition-primed-decision-model]], where simulation serves as the evaluation step after pattern recognition triggers a response.
 
 Related: [[decision-making-under-uncertainty]], [[decision-quality-vs-outcome-quality]]
+
+See also: [[naturalistic-decision-making]]

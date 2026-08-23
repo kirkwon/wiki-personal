@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Debt
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- economics
-- finance
-sources:
-- Debt.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - leverage
 - rates
 - markets
@@ -61,3 +48,5 @@ The debt lens extends beyond finance:
 - [[how-the-economic-machine-works---ray-dalio]]
 - [[principles-ray-dalio]]
 ---
+
+See also: [[how-the-economic-machine-works]]

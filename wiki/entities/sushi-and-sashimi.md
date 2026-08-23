@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 寿司と刺身
-description: "寿司（Sushi）は酢飯と具の組み合わせであり、刺身（Sashimi）は生魚のみの料理。両者とも食材の新鮮さと技法の正確さが不可欠。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- cuisine
-- seafood
-- technique
-sources:
-- sushi-sashimi.md
-related:
-- sushi-rice
-- japanese-cuisine
-- dashi
-- soy-sauce-mirin
-- nigiri
-- maki
-- sashimi
----
+
 --
 # 寿司と刺身
 
@@ -58,3 +36,9 @@ related:
 - [[japanese-cuisine]]
 - [[dashi]]
 - [[soy-sauce-mirin]]
+
+See also: [[nigiri]]
+
+See also: [[maki]]
+
+See also: [[sashimi]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Daily Stoic - Ryan Holiday
-description: "--
-The Daily Stoic - Ryan Holiday"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- books
-- philosophy
-- mental-model
-sources:
-- Resilience.md
-- Stoicism.md
-related:
-- ryan-holiday
-- the-obstacle-is-the-way
-- resilience
-- stillness
-- stoicism-mental-model
----
+
 --
 # The Daily Stoic - Ryan Holiday
 
@@ -38,3 +17,7 @@ Ryan Holiday's *The Daily Stoic* is a day-by-day guide to Stoic philosophy, dist
 ## Connection to Other Sources
 
 Holiday's *The Daily Stoic* bridges classical Stoic texts (Epictetus, Marcus Aurelius, Seneca) with contemporary mental models documented in the wiki, including [[stillness]], [[the-obstacle-is-the-way]], and [[effort]]. This perspective contributes to the resilience mental model by providing a structured, repeatable approach to developing capacity for handling difficulty. See also [[ryan-holiday]] and [[the-obstacle-is-the-way]].
+
+See also: [[resilience]]
+
+See also: [[stoicism-mental-model]]

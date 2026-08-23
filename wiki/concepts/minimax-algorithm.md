@@ -1,18 +1,7 @@
----
+See also: [[decision-making-frameworks]]
 
-date: 2026-05-03
-type: concept
-title: Minimax Algorithm
-description: "An algorithm that determines optimal moves by minimizing the maximum possible loss."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- algorithms
-- game-theory
-- mental-models
-sources:
-- algorithms-to-live-by
-- Minimax Algorithm
-related: [decision-making-frameworks, game-theory-in-life, branch-and-bound-decision-making, the-most-human-human]
----
+See also: [[game-theory-in-life]]
+
+See also: [[branch-and-bound-decision-making]]
+
+See also: [[the-most-human-human]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Maki Types
-description: "--
-Maki Types (巻き寿司の種類)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- sushi
-- maki
-- rolls
-sources:
-- sushi-sashimi.md
-related:
-- sushi-and-sashimi
-- sushi-tools
----
+
 --
 # Maki Types (巻き寿司の種類)
 
@@ -52,3 +34,7 @@ related:
 4. Makisuでしっかり巻く
 5. 水で封を守る
 6. 湿った包丁で切り分ける
+
+See also: [[sushi-and-sashimi]]
+
+See also: [[sushi-tools]]

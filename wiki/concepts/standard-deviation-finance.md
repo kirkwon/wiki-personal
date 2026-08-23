@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: "Standard Deviation (Finance)"
-description: "Η τυπική απόκλιση είναι μέτρηση μεταβλητότητας — υψηλότερη τιμή σημαίνει περισσότερο ρυθμιστικό."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- risk-management
-- standard-deviation
-- volatility
-sources:
-- Risk Management.md
-related:
-- sharpe-ratio
-- beta
-- risk-management
----
+
 --
 # Τυπική Απόκλιση
 
@@ -28,3 +10,9 @@ related:
 - Τεχνολογικές μετοχές: σ = 25% (μεταβλητή)
 
 Χρησιμοποιείται για σύγκριση μεταβλητότητας χαρτιού με αναφορά.
+
+See also: [[sharpe-ratio]]
+
+See also: [[beta]]
+
+See also: [[risk-management]]

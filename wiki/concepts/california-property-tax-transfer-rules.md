@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: California Property Tax Transfer Rules
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- tax
-- skill-candidate
-- california-tax
-- estate-planning
-- Proposition 19 Overview.md
-- Proposition 19 Overview.md
-related:
-- proposition-19-overview
-- 1031-exchange-strategy
-- trusts-guide
-- real-estate-investment
-- tax-torpedoes-in-retirement
-- return-of-capital
-- proposition-13-context
----
+
 -
 # California Property Tax Transfer Rules
 
@@ -104,3 +81,5 @@ Required documentation includes birth certificates for parent-child transfers, m
 - [[trusts-guide]]
 - [[real-estate-investment]]
 - [[tax-torpedoes-in-retirement]]
+
+See also: [[return-of-capital]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-title: Revocable Living Trusts
-description: "Revocable Living Trusts"
-created: 2026-04-24
-updated: 2026-05-09
-type: concept
-tags:
-- estate-planning
-- trusts
-- probate
-- personal-finance
-sources:
-- raw/ingested/Personal Finance/Trusts Guide.md
-- Trusts Guide.md
-related:
-- trust-fundamentals
-- trusts-guide
-- irrevocable-trusts
----
+
 --
 
 # Revocable Living Trusts
@@ -79,3 +60,5 @@ Complete funding is critical:
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
 
 *Split from [[trusts-guide]] during wiki cleanup*
+
+See also: [[irrevocable-trusts]]

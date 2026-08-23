@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Collars (Financial Strategy)
-description: "--
-Collars (Financial Strategy)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- options
-sources:
-- Risk Management.md
-related:
-- options-trading-guide
-- hedging
-- risk-management
----
+
 --
 # Collars (Financial Strategy)
 
@@ -32,3 +14,5 @@ related:
 
 ## Σύνδεση με άλλες έννοιες
 Συνδέεται με [[options-trading-guide]] και [[hedging]].
+
+See also: [[risk-management]]

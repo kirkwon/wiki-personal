@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Comfort Food
-description: "Comfort food refers to dishes that provide emotional satisfaction and a sense of home, often characterized by hearty portions, rich flavors, and simple preparation."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- american
-- southern
-- soul-food
-- cuisine
-- cooking
-- comfort-food
-- gastronomy
-related:
-- southern-soul-food
-- cooking-techniques
-- community-cooking
-- fried-chicken
-- mac-and-cheese
-- collard-greens
-- cornbread
-- hoppin-john
-- shrimp-and-grits
-sources:
-- southern-soul-food.md
----
+
 --
 
 # Comfort Food
@@ -49,3 +22,5 @@ The distinction between Southern (regional) and Soul Food (African American heri
 - [[southern-soul-food]] — Primary American comfort food tradition
 - [[Cooking Techniques]] — Slow cooking and frying methods
 - [[fried-chicken]], [[mac-and-cheese]], [[collard-greens]], [[cornbread]], [[hoppin-john]], [[shrimp-and-grits]]
+
+See also: [[cooking-techniques]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 'Recipe: Perfect Stir-Fry'
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- cooking
-- stir-fry
-- wok
-sources:
-- Gastronomy.md
-related:
-- wok-cooking
-- wok-hei
-- flavor-theory
-- ingredient-pairings
----
+
 -
 # Recipe: Perfect Stir-Fry
 
@@ -30,3 +12,5 @@ Key steps include:
 
 This recipe connects to [[wok-cooking]] as a practical demonstration of high-heat technique and to [[ingredient-pairings]] for understanding how flavors layer during cooking.
 ---
+
+See also: [[flavor-theory]]

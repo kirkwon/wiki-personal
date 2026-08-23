@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: The Fifth Discipline - Peter M. Senge
-description: "The Fifth Discipline - Peter M."
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- books
-- organizational-learning
-- systems-thinking
-- mental-model
-sources:
-- the-fifth-discipline
-- The Fifth Discipline - Peter M. Senge
-related: [learning-organization, systems-thinking, peter-m-senge, three-laws-of-systems-thinking, five-whys, organization-mental-model, management, planning]
----
+
 # The Fifth Discipline - Peter M. Senge
 
 *The Fifth Discipline* (2024) is Peter M. Senge's foundational work on learning organizations and systems thinking. The book argues that organizations must become learning organizations to thrive in changing environments, with systems thinking serving as the integrating discipline among personal mastery, mental models, shared vision, and team learning. It introduces the concept that organizations are dynamic systems characterized by feedback loops, interdependencies, and emergent patterns.^[raw/articles/Organization.md]
@@ -53,3 +37,15 @@ Senge's framework is cited as a cross-source perspective supporting the [[organi
 - [[organization-mental-model]]
 - [[management]]
 - [[planning]]
+
+Sources: [[the-fifth-discipline]]
+
+See also: [[learning-organization]]
+
+See also: [[systems-thinking]]
+
+See also: [[peter-m-senge]]
+
+See also: [[three-laws-of-systems-thinking]]
+
+See also: [[five-whys]]

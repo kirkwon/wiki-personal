@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Principles for Dealing with the Changing World Order - Ray Dalio
-description: "Principles for Dealing with the Changing World Order - Ray Dalio"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- geopolitics
-- macro-economics
-- decision-making
-sources:
-- principles-for-dealing-with-the-changing-world-order
-- Principles for Dealing with the Changing World Order - Ray Dalio
----
+
 # Principles for Dealing with the Changing World Order - Ray Dalio
 
 Ray Dalio's 2024 book examines the cyclical patterns of empire rise and decline, arguing that the current global order is undergoing a major power transition from West to East. The book draws on historical analogies and economic patterns to explain how debt cycles, monetary policy divergence, rising China, political polarization, technological disruption, and climate change collectively reshape geopolitical and financial landscapes.
@@ -44,3 +29,7 @@ Ray Dalio's 2024 book examines the cyclical patterns of empire rise and decline,
 
 This book extends Dalio's earlier work in [[principles-ray-dalio]] by applying principles-driven thinking to macro geopolitics. It connects to [[scenario-planning]], [[decision-making-under-uncertainty]], [[real-options-analysis]], and [[skin-in-the-game]]. It complements [[the-four---scott-galloway]] by adding nation-state power dynamics to platform-level competition analysis.
 ^[raw/articles/principles-for-dealing-with-the-changing-world-order---ray-dalio.md]
+
+Sources: [[principles-for-dealing-with-the-changing-world-order]]
+
+Sources: [[Principles for Dealing with the Changing World Order - Ray Dalio]]

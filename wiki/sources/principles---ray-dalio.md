@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Principles - Ray Dalio
-description: "Principles - Ray Dalio"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- books
-- decision-making
-- investing
-- organizational-management
-- mental-models
-sources:
-- principles
-- Principles - Ray Dalio
----
+
 # Principles - Ray Dalio
 
 Ray Dalio's foundational work on principles-driven decision making and organizational management. This book establishes the intellectual framework that also underpins his economic analysis in *How the Economic Machine Works*.
@@ -51,3 +35,7 @@ Source summary for Ray Dalio's 2024 book *Principles*, covering 14 chapters from
 - Year: 2024
 - Category: general
 - sha256: 1fe9704843de9433f3b10cb66096a7cf1561daa56e7a7ad7b6ed1ece17c52142
+
+Sources: [[principles]]
+
+Sources: [[Principles - Ray Dalio]]

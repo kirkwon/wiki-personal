@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Humility
-description: "Humility is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- psychology
-sources:
-- Humility.md
-related:
-- ryan-holiday
-- ego-is-the-enemy
-- overconfidence-and-certainty
-- biases
-- stillness
-confidence: medium
----
+
 --
 # Humility
 
@@ -43,3 +23,7 @@ Humility connects to several existing mental models in the wiki:
 ## Confidence
 
 Moderate (0.7) — this is an early or provisional framing that needs expansion beyond the single Holiday reference to justify its place as a standalone mental model.
+
+See also: [[ryan-holiday]]
+
+See also: [[ego-is-the-enemy]]

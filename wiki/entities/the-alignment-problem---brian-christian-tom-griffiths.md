@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Alignment Problem - Brian Christian & Tom Griffiths
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- ai
-- mental-model
-sources:
-- Problem.md
-related:
-- brian-christian
-- tom-griffiths
-- the-most-human-human
-- problem-mental-model
-- emotions-and-ai
----
+
 -
 # The Alignment Problem - Brian Christian & Tom Griffiths
 
@@ -27,3 +9,9 @@ Christian and Griffiths are also co-authors of [[the-most-human-human]], which e
 The book connects to broader themes in the wiki including [[emotions-and-ai]], [[ethics-and-decision-making]], and the question of how to define and recognize problems in complex systems.
 
 ---
+
+See also: [[brian-christian]]
+
+See also: [[tom-griffiths]]
+
+See also: [[problem-mental-model]]

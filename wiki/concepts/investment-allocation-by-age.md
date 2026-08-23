@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Investment Allocation by Age
-description: "--
-Investment Allocation by Age"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- retirement
-- investing
-sources:
-- Retirement Planning.md
-related:
-- retirement-planning
-- 4-percent-rule
-- risk-management
----
+
 --
 # Investment Allocation by Age
 
@@ -48,3 +30,5 @@ A glidepath approach to asset allocation that shifts from aggressive growth in y
 - Cash: 10-20%
 
 This framework is part of the broader [[retirement-planning]] strategy and supports the sustainable withdrawal rates in the [[4-percent-rule]].
+
+See also: [[risk-management]]

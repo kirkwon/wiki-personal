@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: 红茶
-description: "红茶是全发酵茶，汤色红亮，滋味浓郁。与普洱茶的后发酵工艺不同，红茶通过完全氧化获得风味。"
-created: 2026-04-29
-updated: 2026-04-24
-tags:
-- tea
-- black-tea
-- beverages
-sources:
-- Pu-erh Tea.md
-related:
-- 茶
-- 普洱茶
-- 乌龙茶
-- 功夫茶
----
+
 --
 # 红茶（Black Tea）
 
@@ -32,3 +14,7 @@ related:
 - [[普洱茶]] — 后发酵茶的代表
 - [[oolong-tea-乌龙茶-wūlóng-chá]] — 半发酵茶
 - [[tea]] — 茶类总览
+
+See also: [[茶]]
+
+See also: [[功夫茶]]

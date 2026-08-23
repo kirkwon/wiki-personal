@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Multiplier
-description: "A [[mental-model]] for understanding how certain leaders and thinkers amplify the intelligence and capability of those around them, creating environments where people contribute their best thinking."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- leadership
-- team-dynamics
-sources:
-- Multiplier.md
-related:
-- decision-culture
-- building-a-cohesive-team
-- the-five-dysfunctions-of-a-team
-- decision-making-frameworks
-- leadership
-confidence: 0.7
----
+
 --
 # Multiplier
 
@@ -60,3 +39,7 @@ The Multiplier model complements existing team dynamics content. Where [[the-fiv
 - [[multipliers---greg-mckeown]]
 - [[decision-culture]]
 - [[the-five-dysfunctions-of-a-team]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[leadership]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Theory as a Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-science
-- decision-making
-sources:
-- Theory.md
-related:
-- thinking-mental-model
-- planning
-- overview
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - mindset---carol-s-dweck
 - misbehaving---richard-h-thaler
 ---
@@ -46,3 +30,7 @@ This mental model is universal, applicable across all domains. Any situation inv
 
 The confidence level is moderate (0.7), indicating this model is still evolving and imprecise.
 ---
+
+See also: [[thinking-mental-model]]
+
+See also: [[thinking-fast-and-slow]]

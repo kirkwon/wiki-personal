@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Beginning of Infinity - David Deutsch
-description: "--
-The Beginning of Infinity - David Deutsch"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- philosophy
-- science
-- mental-model
-sources:
-- Principle.md
-related:
-- principle-as-mental-model
-- thinking-mental-model
-- ideas-mental-model
----
+
 --
 # The Beginning of Infinity - David Deutsch
 
@@ -31,3 +12,9 @@ David Deutsch's *The Beginning of Infinity* explores the nature of knowledge, pr
 
 ## Relevance to Principle Mental Model
 Deutsch's perspective provides the philosophical foundation for understanding principles as deep explanatory frameworks rather than mere heuristics. His work emphasizes that principles enable humans to navigate complexity by providing actionable knowledge.
+
+See also: [[principle-as-mental-model]]
+
+See also: [[thinking-mental-model]]
+
+See also: [[ideas-mental-model]]

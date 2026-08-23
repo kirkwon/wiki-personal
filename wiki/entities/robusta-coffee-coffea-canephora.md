@@ -1,29 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Robusta Coffee (Coffea canephora)
-description: "--
-Robusta Coffee (Coffea canephora)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- coffee
-- robusta
-- beans
-- beverage
-- ingredient
-sources:
-- Robusta.md
-related:
-- arabica-coffee-coffea-arabica
-- coffee-bean-processing-咖啡豆处理
-- coffee-roasting-咖啡烘焙
-- coffee
-- vietnamese-coffee
-- robusta-vs-arabica
-- coffee-preparation-espresso
-- vietnamese-coffee-tradition
----
+
 --
 # Robusta Coffee (Coffea canephora)
 
@@ -77,3 +52,11 @@ Xử lý tương tự Arabica nhưng dung hợp hơn, cho phép defect cao hơn.
 - Hỗ trợ hàng triệu nông dân nhỏ, tạo sinh kế cho hàng triệu nông dân
 - Nền tảng cho nhiều cộng đồng
 - Chất lượng đang cải thiện, xu hướng specialty Robusta đang phát triển
+
+See also: [[coffee-bean-processing-咖啡豆处理]]
+
+See also: [[coffee-roasting-咖啡烘焙]]
+
+See also: [[coffee]]
+
+See also: [[vietnamese-coffee-tradition]]

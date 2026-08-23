@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Straddle Strategies
-description: "--
-Straddle Strategies"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- options
-- options-trading
-- volatility
-- risk-management
-sources:
-- Options Trading Guide.md
-related:
-- theta-time-decay
-- options-fundamentals
-- butterfly-spreads
-- covered-calls
-- iron-condors
-- options-position-sizing
----
+
 --
 # Straddle Strategies
 
@@ -59,3 +35,11 @@ Buy straddle on index or sector ETF around Fed meetings, economic data releases,
 **Short Straddle**: Double theta income from both call and put premium decay. Can generate 5–15% monthly returns but requires higher capital, strict stop-loss, and position sizing.
 
 Straddles require rapid price movement to overcome accelerated theta decay, making timing critical. Straddle strategies connect to broader theta management discussed in [[theta-time-decay]] and complement butterfly strategies in [[butterfly-spreads]].^[raw/articles/Options Trading Guide.md]
+
+See also: [[options-fundamentals]]
+
+See also: [[covered-calls]]
+
+See also: [[iron-condors]]
+
+See also: [[options-position-sizing]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Al Dente Technique
-description: "--
-Al Dente Technique"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- technique
-- cooking
-- italian
-sources:
-- pasta.md
-related:
-- italian-pasta
-- italian-cuisine
-- category-cooking-techniques
----
+
 --
 # Al Dente Technique
 
@@ -50,3 +32,9 @@ Fresh pasta cooks dramatically faster: thin fresh pasta in 1-2 minutes, thick in
 - Rinsing — removes essential starch
 
 [[wikilink-italian-pasta]] | [[wikilink-carbonara]] | [[wikilink-cacio-e-pepe]]
+
+See also: [[italian-pasta]]
+
+See also: [[italian-cuisine]]
+
+See also: [[category-cooking-techniques]]

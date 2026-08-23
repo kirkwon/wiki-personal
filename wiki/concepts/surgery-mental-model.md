@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Surgery as Mental Model
-description: "--
-Surgery as Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- problem-solving
-sources:
-- Surgery.md
-related:
-- atul-gawande
-- the-checklist-manifesto---atul-gawande
+atul-gawande
 - being-mortal
 - decision-making-under-uncertainty
 - problem-solving
@@ -54,3 +38,5 @@ The distinction of Surgery as a model lies in its emphasis on imperfection, dire
 
 - What specific patterns or heuristics does "surgical thinking" offer that aren't captured by existing mental models like problem-solving or decision-making frameworks?
 - How does Surgery differ from [[checklists]] beyond its tolerance for failure?
+
+See also: [[atul-gawande]]

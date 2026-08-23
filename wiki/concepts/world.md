@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: World
-description: "The World as a mental model captures Taleb's view of reality as fundamentally uncertain and dominated by rare events."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- epistemology
-- taleb
-sources:
-- The Black Swan - Nassim Nicholas Taleb.md
-related:
-- black-swan-events
-- events
-- swans
-- understanding
-- history
-- finance
-- life
----
+
 --
 # World
 
@@ -37,3 +16,13 @@ The world is not the orderly place our models suggest. It is skewed, unpredictab
 - [[understanding]]
 - [[swans]]
 - [[antifragility]]
+
+See also: [[black-swan-events]]
+
+See also: [[events]]
+
+See also: [[history]]
+
+See also: [[finance]]
+
+See also: [[life]]

@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Symmetry and Patterns
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-- fundamentals
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- photography-fundamentals
----
+
 -
 # Symmetry and Patterns
 
@@ -35,3 +20,5 @@ Repeating elements can fill the frame as the subject. Find repeating elements li
 
 See [[composition-techniques]] for the broader context.
 ---
+
+See also: [[photography-fundamentals]]

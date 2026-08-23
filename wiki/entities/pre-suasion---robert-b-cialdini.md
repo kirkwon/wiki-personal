@@ -1,26 +1,4 @@
----
 
-date: 2026-04-29
-type: entity
-title: 'Pre-Suasion: A Revolutionary Way to Influence and Persuade'
-description: "--"
-Pre-Suasion: A Revolutionary Way to Influence and Persuade""
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- psychology
-- communication
-- mental-model
-sources:
-- Factors.md
-related:
-- factors
-- supercommunicators-charles-duhigg
-- communication-skills
-- mental-models
-
----
 --
 # Pre-Suasion: A Revolutionary Way to Influence and Persuade
 
@@ -40,3 +18,5 @@ Cialdini's pre-suasion framework is one of the source inspirations for the [[fac
 
 - [[supercommunicators-charles-duhigg]] – Both explore what makes communication effective, but Cialdini focuses on the pre-message phase while Duhigg examines the dynamics of connection during communication.
 - [[communication-skills]] – Pre-suasion provides a foundational concept for understanding how context shapes interpersonal communication.
+
+See also: [[mental-models]]

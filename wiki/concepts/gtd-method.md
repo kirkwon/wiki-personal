@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: GTD Method
-description: "The GTD (Getting Things Done) method is a productivity framework developed by David Allen that provides a repeatable cycle for managing commitments and tasks."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- decision-making
-- mental-models
-sources:
-- getting-things-done
-- GTD Method
-related: [gtd-capture-clarify-organize-review-engage, personal-knowledge-vault, categorizing-information, decision-tracking, systematic-decision-making, the-index-card-rules]
----
+
 # GTD Method
 
 The GTD (Getting Things Done) method is a productivity framework developed by David Allen that provides a repeatable cycle for managing commitments and tasks. The core insight is that people are overwhelmed not by too much work but by poorly managed commitments and lack of clear organizational systems. Stress comes from "open loops"—unprocessed commitments stored in memory—externalizing which frees cognitive resources.
@@ -31,3 +16,9 @@ Effective systems must be personalized; rigid methods fail because they don't fi
 The GTD method connects to [[personal-knowledge-vault]] and [[categorizing-information]] in its emphasis on externalized organization, and relates to [[decision-tracking]] and [[systematic-decision-making]] in its focus on making decisions about what to do and how to act on them.
 
 ^[raw/articles/getting-things-done---david-allen.md]
+
+Sources: [[getting-things-done]]
+
+See also: [[gtd-capture-clarify-organize-review-engage]]
+
+See also: [[the-index-card-rules]]

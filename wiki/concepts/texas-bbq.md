@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Texas BBQ
-description: "Texas BBQ is defined by its beef-focused philosophy, dry rub preparation, and minimal sauce approach."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cuisine
-- american
-- barbecue
-- cooking
-sources:
-- bbq-regions.md
-related:
-- bbq-regions
-- bbq-techniques
-- american-bbq-philosophy
----
+
 --
 # Texas BBQ
 
@@ -53,3 +35,9 @@ Texas BBQ is defined by its beef-focused philosophy, dry rub preparation, and mi
 
 Texas BBQ emphasizes letting the meat speak for itself, with dry rub as the primary flavoring method. This contrasts with Kansas City and Carolina styles that rely heavily on sauce.
 ^[raw/articles/bbq-regions.md]
+
+See also: [[bbq-regions]]
+
+See also: [[bbq-techniques]]
+
+See also: [[american-bbq-philosophy]]

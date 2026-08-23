@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Crisis Management
-description: "Covey addresses how to handle urgent crises without losing sight of long-term priorities."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- productivity
-- decision-making
-- time-management
-- mental-models
-sources:
-- first-things-first
-- Crisis Management
-related: [time-management-matrix, quadrant-2-focus, systematic-decision-making, first-things-first-principle]
----
+
 # Crisis Management
 
 Covey addresses how to handle urgent crises without losing sight of long-term priorities. The goal is not to eliminate crises (Quadrant 1 tasks) but to manage them effectively while minimizing their recurrence through proactive Q2 investment.
@@ -45,3 +29,5 @@ Not all urgent situations require your personal involvement. Covey emphasizes di
 ## Key Takeaway
 
 The best crisis management is prevention. Invest in what is important before it becomes urgent.
+
+See also: [[quadrant-2-focus]]

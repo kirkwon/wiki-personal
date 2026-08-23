@@ -1,20 +1,4 @@
----
-date: 2026-05-04
-type: entity
-title: The Obstacle Is the Way
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- books
-- mental-model
-- philosophy
-sources:
-- Obstacles.md
-related:
-- ryan-holiday
-- stillness
-- obstacles
----
+
 -
 # The Obstacle Is the Way
 
@@ -22,3 +6,5 @@ Book by Ryan Holiday that presents a framework for turning obstacles into advant
 
 See also [[ryan-holiday]] and his other work [[stillness]].
 ---
+
+See also: [[obstacles]]

@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Training
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- learning
-- skill-acquisition
-sources:
-- Training.md
-related:
-- grit-concept
-- active-revision-techniques
-- problem-solving
-- david-epstein
----
+
 -
 # Training
 
@@ -27,3 +10,5 @@ The model is referenced through [[david-epstein]]'s research in *The Sports Gene
 
 Confidence in this model is moderate (0.7) given the thin evidentiary base—currently supported by a single source. Further development with additional research on deliberate practice, skill acquisition, and learning science would strengthen its applicability.
 ---
+
+See also: [[problem-solving]]

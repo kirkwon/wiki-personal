@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: entity
-title: Being Mortal - Atul Gawande
-description: "Being Mortal - Atul Gawande"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- healthcare
-- end-of-life
-- mortality
-- medical-ethics
-sources:
-- being-mortal
-- Being Mortal - Atul Gawande
-related: [atul-gawande, the-good-death, quality-vs-quantity-of-life, cure-centric-vs-comfort-oriented-care]
----
+
 # Being Mortal - Atul Gawande
 
 *Being Mortal* is a 2014 book by surgeon and writer Atul Gawande that examines the failures of modern medicine in addressing aging and death. The book argues that the healthcare system is fundamentally organized around curing disease and extending life, which systematically conflicts with what patients actually want — quality, autonomy, dignity, and a meaningful death.
@@ -36,3 +19,9 @@ Gawande draws on clinical cases, conversations with patients and families, and c
 ## Connections
 
 This work connects to [[decision-quality-vs-outcome-quality]] — the idea that the quality of the decision process (patient-centered values) matters more than the outcome (survival). It also relates to [[real-options-analysis]] through treating end-of-life choices as flexible options rather than irreversible commitments, and to [[overconfidence-and-certainty]] through medical overconfidence in cure-over-comfort.
+
+Sources: [[being-mortal]]
+
+See also: [[atul-gawande]]
+
+See also: [[the-good-death]]

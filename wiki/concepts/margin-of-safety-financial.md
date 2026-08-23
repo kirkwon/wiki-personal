@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Margin of Safety (Financial)
-description: "Margin of Safety (Financial)"
-created: 2026-04-29
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- risk-management
-- behavioral-finance
-sources:
-- The Psychology of Money.md
-related:
-- margin-of-safety
-- risk-management
-- getting-wealthy-vs-staying-wealthy
-- risk-assessment-framework
-- real-options-analysis
-- decision-making-under-uncertainty
-- reasonable-vs-rational-decisions
----
+
 --
 
 # Margin of Safety (Financial)
@@ -54,3 +32,9 @@ Practicing "tail event" thinking — assuming rare events will happen and prepar
 ## See Also
 
 [[risk-management]] | [[reasonable-vs-rational-decisions]] | [[compounding-time]]
+
+See also: [[margin-of-safety]]
+
+See also: [[getting-wealthy-vs-staying-wealthy]]
+
+See also: [[decision-making-under-uncertainty]]

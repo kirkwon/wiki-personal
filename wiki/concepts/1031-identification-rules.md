@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 1031 Identification Rules
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- real-estate
-- tax-optimization
-sources:
-- 1031 Exchange Strategy.md
-related:
-- 1031-exchange-strategy
-- boot-in-1031-exchanges
-- qualified-intermediary
----
+
 -
 # 1031 Identification Rules
 
@@ -36,3 +20,9 @@ IRS regulations provide three identification rules for replacement properties in
 - Example: Identify 10 properties totaling $2M, must close on ≥ $1.9M
 
 ---
+
+See also: [[1031-exchange-strategy]]
+
+See also: [[boot-in-1031-exchanges]]
+
+See also: [[qualified-intermediary]]

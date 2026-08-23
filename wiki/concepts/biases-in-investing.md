@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Biases in Investing
-description: "--
-Biases in Investing"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cognitive-bias
-- investing
-- decision-making
-sources:
-- cognitive-biases-library.md
-related:
-- cognitive-biases-library
-- loss-aversion
-- confirmation-bias
-- overconfidence-and-certainty
-- prospect-theory
----
+
 --
 # Biases in Investing
 
@@ -38,3 +18,9 @@ Common cognitive biases that affect investment decisions, drawn from the cogniti
 
 ## Connection to Other Concepts
 Relates to [[loss-aversion]], [[prospect-theory]], and [[decision-quality-vs-outcome-quality]].
+
+See also: [[cognitive-biases-library]]
+
+See also: [[confirmation-bias]]
+
+See also: [[overconfidence-and-certainty]]

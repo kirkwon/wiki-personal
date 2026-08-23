@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Risk Tolerance vs Risk Capacity
-description: "--
-Risk Tolerance vs Risk Capacity"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- decision-making
-sources:
-- Risk Management.md
-related:
-- risk-management
-- decision-quality-vs-outcome-quality
-- emotions-and-ai
----
+
 --
 # Risk Tolerance vs Risk Capacity
 
@@ -33,3 +15,5 @@ related:
 
 ## Σύνδεση με άλλες έννοιες
 Συνδέεται με [[emotions-and-ai]] και [[decision-quality-vs-outcome-quality]].
+
+See also: [[risk-management]]

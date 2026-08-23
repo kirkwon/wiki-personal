@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Dishonesty Experiments
-description: "Dishonesty Experiments"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- behavioral-economics
-- experimental-psychology
-- research-methods
-sources:
-- the-honest-truth-about-dishonesty
-- Dishonesty Experiments
-related: [dan-ariely, self-image-and-morality, the-economics-of-dishonesty, cognitive-biases-library]
----
+
 # Dishonesty Experiments
 
 Dan Ariely's experimental research on dishonesty, including matrix task studies and MIT cheating experiments, which demonstrate that people cheat opportunistically but not maximally, and that small environmental changes dramatically alter cheating rates.
@@ -33,3 +18,11 @@ Dan Ariely's experimental research on dishonesty, including matrix task studies 
 ## Connection to Wider Research
 
 These findings extend the [[cognitive-biases-library]] by identifying dishonesty-specific patterns: self-image preservation bias and situational cheating escalation. They complement [[dual-process-theory]] by showing that the cognitive effort of lying engages deliberate (System 2) processing.
+
+Sources: [[the-honest-truth-about-dishonesty]]
+
+See also: [[dan-ariely]]
+
+See also: [[self-image-and-morality]]
+
+See also: [[the-economics-of-dishonesty]]

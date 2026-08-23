@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-title: Trust Fundamentals
-description: "A trust is a legal arrangement where one party (trustee) holds legal title to assets for the benefit of another party (beneficiary), managed according to the terms set by the trust creator (settlor/gr."
-created: 2026-04-24
-updated: 2026-05-09
-type: concept
-tags:
-- estate-planning
-- legal
-- wealth-management
-- personal-finance
-- trusts
-sources:
-- raw/ingested/Personal Finance/Trusts Guide.md
-- Trusts Guide.md
-related:
-- trusts-guide
-- revocable-living-trusts
-- irrevocable-trusts
-- trust-protector
----
+
 --
 
 # Trust Fundamentals
@@ -73,3 +52,9 @@ This page is part of the comprehensive [[trusts-guide]]. See also:
 Proper funding is essential—unfunded trusts provide no benefit. Trust administration requires ongoing record-keeping, tax compliance (Form 1041, 706, 709), and beneficiary communication.
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[revocable-living-trusts]]
+
+See also: [[irrevocable-trusts]]
+
+See also: [[trust-protector]]

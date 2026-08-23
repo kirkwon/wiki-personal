@@ -1,22 +1,4 @@
----
-date: 2026-06-30
-type: concept
-title: "Hermes Queue — SQLite-Backed Task Orchestration"
-description: "A visible, inspectable task queue for Hermes subagent orchestration. Replaces invisible delegate_task with a SQLite-backed queue that you can query, inspect, and manage."
-created: 2026-06-30
-tags:
-  - queue
-  - orchestration
-  - subagent
-  - sqlite
-  - task-management
-related:
-  - hermes-queue
-  - smart-money-concepts-ict-python
-  - mean-variance-myopia-under-stochastic-volatility
-sources:
-  - smart-money-concepts-ict-python
----
+
 
 # Hermes Queue — SQLite-Backed Task Orchestration
 
@@ -117,3 +99,9 @@ Job `queue-stale-lease-cleanup` runs hourly, re-queuing any tasks with expired 1
 | Worker crash safety | 🟢 lease TTL | 🔴 lost | 🔴 lost |
 | Cross-CLI agents | 🟢 any CLI | 🔴 Hermes only | 🔴 Hermes only |
 | Priority | 🟢 integer | 🟡 none | 🟡 column order |
+
+Sources: [[smart-money-concepts-ict-python]]
+
+See also: [[hermes-queue]]
+
+See also: [[mean-variance-myopia-under-stochastic-volatility]]

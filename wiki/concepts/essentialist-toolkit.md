@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Essentialist Toolkit
-description: "--
-Essentialist Toolkit"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- habits
-- mental-models
-sources:
-- Essentialism_ The Disciplined Pursuit of Less - Greg McKeown.md
-related:
-- essentialism---greg-mckeown
+greg-mckeown
 - active-revision-techniques
 - deep-work - Cal Newport
 - time-management-matrix
@@ -35,3 +20,5 @@ The Essentialist Toolkit (Chapter 7 of McKeown's book) provides practical tools,
 - **Energy management throughout the day**
 
 The toolkit also includes clear "when to stop" criteria: when optimization becomes obsession, when productivity systems create more work than they save, when relationships or health are sacrificed, or when joy in work is destroyed.
+
+See also: [[essentialism]]

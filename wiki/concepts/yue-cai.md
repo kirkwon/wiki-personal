@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 粤菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- cantonese-cuisine
-- dim-sum
-- sichuan-cuisine
-- chinese-regional-cuisines
----
+
 -
 # 粤菜
 
@@ -51,3 +34,11 @@ related:
 - 《中国厨房的智慧》Grace Young（粤菜）
 - 与川菜、苏菜、上海菜可搭配组合，实现清淡与浓郁的平衡
 ---
+
+See also: [[cantonese-cuisine]]
+
+See also: [[dim-sum]]
+
+See also: [[sichuan-cuisine]]
+
+See also: [[chinese-regional-cuisines]]

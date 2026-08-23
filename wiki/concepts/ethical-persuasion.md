@@ -1,24 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Ethics of Persuasion
-description: "--
-Ethics of Persuasion"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- ethics
-- psychology
-- mental-models
-- decision-making
-sources:
-- Pre-Suasion_ A Revolutionary Way to Influence and Persuade - Robert B Cialdini.md
-related:
-- ethical-design-manipulation-question
-- pre-suasion
-- communication-skills
-- cognitive-biases-library
----
+
 --
 # Ethics of Persuasion
 
@@ -44,3 +24,5 @@ This maps directly onto [[ethical-design-manipulation-question]] and connects to
 - [[pre-suasion]]
 - [[ethical-design-manipulation-question]]
 - [[communication-skills]]
+
+See also: [[cognitive-biases-library]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Innovation (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- creativity
-- problem-solving
-sources:
-- Innovation.md
-related:
-- zero-to-one-peter-thiel-blake-masters
-- the-great-mental-models-vol-1-shane-parrish
-- problem-solving
-- decomposing-and-recombining
-- inventor-s-paradox
----
+
 -
 # Innovation (mental model)
 
@@ -35,3 +17,7 @@ This model draws on two authoritative perspectives:
 - The model intersects with existing wiki concepts like [[inventor-s-paradox]], [[problem-solving]], and [[decomposing-and-recombining]], raising open questions about how these frameworks overlap or complement each other.
 - Confidence in this model is moderate (0.7), suggesting ongoing refinement of its scope and applicability.
 ---
+
+See also: [[zero-to-one-peter-thiel-blake-masters]]
+
+See also: [[the-great-mental-models-vol-1-shane-parrish]]

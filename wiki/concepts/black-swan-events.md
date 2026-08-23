@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-title: Black Swan Events
-description: "A black swan event is a rare, high-impact, unpredictable occurrence that defies normal expectations."
-type: concept
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- risk
-- uncertainty
-- philosophy
-- decision-making
-- probability
-- cognitive-bias
-- mental-models
-sources:
-- skin-in-the-game
-- Black Swan Events
-related: ["antifragility", "skin-in-the-game-nassim-nicholas-taleb", "monte-carlo-simulations", "decision-making-under-uncertainty", "prospect-theory", "tail-risk-and-extreme-outcomes", "neglected-dimensions", "role-of-the-improbable", "real-options-analysis", "epistemological-fallacy", "lindy-ness", "cognitive-biases-library", "skin-in-the-game", "market-manias-and-panics", "nassim-nicholas-taleb", "probability-and-judgment-under-uncertainty"]
----
+
 # Black Swan Events
 
 A black swan event is a rare, high-impact, unpredictable occurrence that defies normal expectations. Taleb uses the Black Swan as a metaphor to describe the fundamental limits of prediction and the outsized role of rare events in shaping history, finance, and personal life far more than ordinary events or conventional wisdom suggests. The term was popularized by Nassim Nicholas Taleb in *The Black Swan*.
@@ -85,3 +66,5 @@ Taleb's framing extends beyond individual events to a broader point about the li
 - [[decision-making-under-uncertainty]] - Frameworks for acting without full information
 - [[market-manias-and-panics]] - Psychological and social factors driving market extremes
 - [[nassim-nicholas-taleb]] - Author and originator of the concept
+
+See also: [[skin-in-the-game-nassim-nicholas-taleb]]

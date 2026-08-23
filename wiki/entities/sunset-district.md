@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Sunset District
-description: "A large residential neighborhood to the west of San Francisco, spanning from Golden Gate Park to Ocean Beach."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- local
-- sf
-- bay-area
-- neighborhoods
-- real-estate-market
-- neighborhood
-- san-francisco
-sources:
-- sunset-district.md
-- san-francisco-city-guide.md
-- golden-hour.md
-related:
-- ocean-beach
-- golden-gate-heights
-- san-francisco-city-guide
-- golden-gate-park
-- families
-- golden-hour
-- local-san-francisco
----
+
 --
 # Sunset District
 
@@ -99,3 +72,7 @@ Diverse population with significant Asian-American (Chinese, Filipino) and Irish
 - [[san-francisco-city-guide]] — Broader city information
 - [[golden-gate-park]] — Northern border park
 - [[golden-hour]] — Photography guidance for golden hour opportunities
+
+See also: [[families]]
+
+See also: [[local-san-francisco]]

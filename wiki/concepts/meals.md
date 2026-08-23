@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Meals
-description: "Meals is a universal mental model for navigating complex situations through pattern and relationship recognition."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cooking
-- learning
-- decision-making
-sources:
-- Meals.md
-related:
-- timothy-ferriss
-- the-4-hour-chef
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - how-to-solve-it---george-polya
 - hyperfocus---chris-bailey
 - how-to-take-smart-notes---snke-ahrens
@@ -30,3 +13,9 @@ Drawing from Timothy Ferriss's *The 4-Hour Chef*, the Meals framework treats coo
 The "tiger cooking method" referenced in Ferriss's work emphasizes immersive, high-stakes practice environments where learners engage with the full complexity of a skill rather than isolated drills. This connects to broader principles of [[experiment-and-exploration-forms-of-world-disclosure---snke-ahrens|world disclosure]] and [[how-to-take-smart-notes---snke-ahrens|smart note-taking]], where structured frameworks help manage complexity.
 
 Meals bridges the cooking domain with meta-learning and decision-making, connecting to [[how-to-solve-it---george-polya|problem-solving]] frameworks and [[hyperfocus---chris-bailey|deep focus]] techniques for mastering new skills efficiently.
+
+See also: [[timothy-ferriss]]
+
+See also: [[the-4-hour-chef]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

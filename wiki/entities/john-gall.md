@@ -1,32 +1,4 @@
----
-date: 2026-04-17
-type: entity
-title: John Gall
-description: "Author of The Systems Bible: The Beginner's Guide to Systems Large and Small, a foundational text on systems thinking."
-created: 2026-04-17
-updated: 2026-05-10
-tags:
-- person
-- author
-- systems-thinking
-sources:
-- The Systems Bible - John Gall.md
-- Ways.md
-- Problems.md
-- Nature.md
-- Implications.md
-- System.md
-- Theorem.md
-related:
-- the-systems-bible-john-gall
-- gall-s-law
-- fundamental-theorem-of-systems
-- ways-mental-model
-- problems-mental-model
-- nature-mental-model
-- the-systems-bible
-- implications-mental-model
-- the-systems-bible ---john-gall
+john-gall
 - system-mental-model
 - theorem
 ---
@@ -60,3 +32,13 @@ Gall is also referenced as the source for the [[theorem]] mental model, which fr
 
 ## Related Work
 Gall's ideas complement those of Nassim Nicholas Taleb ([[skin-in-the-game]]), Simon Sinek ([[infinite-game-mindset]]), and the broader systems thinking tradition. His work is more practitioner-oriented and anecdotal than formal, but widely recognized as deeply practical.
+
+See also: [[the-systems-bible-john-gall]]
+
+See also: [[gall-s-law]]
+
+See also: [[fundamental-theorem-of-systems]]
+
+See also: [[ways-mental-model]]
+
+See also: [[the-systems-bible]]

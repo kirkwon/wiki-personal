@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Roux
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking-techniques
-- french
-- sauces
-sources:
-- mother-sauces.md
-related:
-- the-five-mother-sauces
-- béchamel
-- velouté
-- espagnole
----
+
 -
 # Roux
 
@@ -37,3 +20,11 @@ Il roux è una base fondamentale della cucina francese, composta da burro e fari
 
 Il roux marrone deve essere cuocuto più a lungo per sviluppare profondità di sapore, ed è la base per la salsa Espagnole e la demi-glace.
 ---
+
+See also: [[the-five-mother-sauces]]
+
+See also: [[béchamel]]
+
+See also: [[velouté]]
+
+See also: [[espagnole]]

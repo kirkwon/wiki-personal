@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Commitment Devices
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- decision-making
-- behavioral-economics
-- productivity
-- self-control
-sources:
-- Predictably Irrational - Dan Ariely.md
-related:
-- predictably-irrational-dan-ariely
-- procrastination
-- decision-making-frameworks
-- systematic-decision-making
----
+
 -
 # Commitment Devices
 
@@ -38,3 +20,11 @@ Ariely's work on procrastination shows that self-control failures are systematic
 
 Commitment devices pair with [[default-option-design]] — both work by restructuring the choice environment so that irrational tendencies are channeled toward better outcomes.
 ---
+
+See also: [[predictably-irrational-dan-ariely]]
+
+See also: [[procrastination]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[systematic-decision-making]]

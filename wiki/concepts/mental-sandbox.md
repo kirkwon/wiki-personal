@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Mental Sandbox
-description: "A mental sandbox is a technique for simulating scenarios mentally to explore possibilities, test hypotheses, and anticipate outcomes without real-world risk."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- mental-models
-- creativity
-- problem-solving
-- decision-making
-sources:
-- super-thinking
-- Mental Sandbox
-related: ["mental-models", "lateral-thinking", "thought-experiments", "inversion", "super-thinking-gabriel-weinberg", "working-backwards-in-problem-solving"]
----
+
 # Mental Sandbox
 
 A mental sandbox is a technique for simulating scenarios mentally to explore possibilities, test hypotheses, and anticipate outcomes without real-world risk. Covered in Part V of *Super Thinking*, specifically in the creativity and innovation section.
@@ -32,3 +16,9 @@ The mental sandbox connects to [[thought-experiments]] (hypothetical scenario te
 
 ## Related Pages
 Related to [[super-thinking-gabriel-weinberg]], [[thought-experiments]], and [[mental-model-library]].
+
+Sources: [[super-thinking]]
+
+See also: [[mental-models]]
+
+See also: [[inversion]]

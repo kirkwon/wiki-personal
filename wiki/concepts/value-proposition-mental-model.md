@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Value Proposition Mental Model
-description: "Value Proposition Mental Model"
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- mental-models
-- decision-making
-- personal-finance
-- decision-frameworks
-sources:
-- the-great-mental-models-vol-1
-- Value Proposition Mental Model
-related: ["decision-quality-vs-outcome-quality", "expected-value-ev", "real-options-analysis", "decision-making-frameworks", "cv-xcv-framework"]
----
+
 # Value Proposition Mental Model
 
 ## Definition
@@ -39,3 +23,11 @@ Before making significant decisions—career moves, investments, time allocation
 ## Source
 Shane Parrish, *The Great Mental Models (Vol. 1)*, Chapter 6
 ^[raw/articles/the-great-mental-models-vol-1---shane-parrish.md]
+
+Sources: [[the-great-mental-models-vol-1]]
+
+See also: [[real-options-analysis]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[cv-xcv-framework]]

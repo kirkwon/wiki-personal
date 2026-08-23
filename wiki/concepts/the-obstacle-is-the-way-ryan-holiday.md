@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The Obstacle Is the Way - Ryan Holiday (Book Summary)
-description: "The Obstacle Is the Way - Ryan Holiday (Book Summary)"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- philosophy
-- stoicism
-- resilience
-sources:
-- the-obstacle-is-the-way
-- The Obstacle Is the Way - Ryan Holiday (Book Summary)
-related: [ryan-holiday, stoicism-as-a-framework, reframing-adversity, embracing-failure-for-personal-growth, growth-mindset, grit-concept]
----
+
 # The Obstacle Is the Way - Ryan Holiday (Book Summary)
 
 *The Obstacle Is the Way* by Ryan Holiday (2024) argues that obstacles are not barriers to success but the very means through which success is achieved. The book synthesizes Stoic philosophy with practical advice across ten chapters.
@@ -56,3 +40,9 @@ Synthesizes all insights into a comprehensive understanding of mindset in overco
 
 ## Connections
 The book extends [[decision-making-under-uncertainty]] by adding a mindset/reframing dimension. It converges with [[growth-mindset]] and [[grit-concept]] through shared emphasis on perseverance and learning from adversity.
+
+Sources: [[the-obstacle-is-the-way]]
+
+See also: [[ryan-holiday]]
+
+See also: [[reframing-adversity]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Problems (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- general
-sources:
-- Problems.md
-confidence: medium
-related:
-- problem-mental-model
-- solutions-mental-model
-- the-wisdom-of-crowds
-- group
-- planning
-- problem-solving
----
+
 -
 # Problems (mental model)
 
@@ -34,3 +14,7 @@ The model is applicable universally and functions as a way to see complexity not
 
 Confidence is set at 0.7, suggesting moderate maturity of the model within the vault.
 ---
+
+See also: [[problem-mental-model]]
+
+See also: [[the-wisdom-of-crowds]]

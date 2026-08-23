@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Reciprocity
-description: "Reciprocity is the social norm that people tend to return favors, respond to kindness with kindness, and feel obligated to repay what they have received."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- mental-models
-- social-intelligence
-- psychology
-- behavioral-economics
-sources:
-- super-thinking
-- Reciprocity
-related: [cognitive-biases-library, social-proof, authority-bias, mental-models, super-thinking-gabriel-weinberg, in-group-out-group-bias, empathy]
----
+
 # Reciprocity
 
 Reciprocity is the social norm that people tend to return favors, respond to kindness with kindness, and feel obligated to repay what they have received. It is the tendency to return favors and build social bonds.
@@ -32,3 +16,9 @@ Reciprocity connects to [[social-proof]] (looking to others' behavior), [[author
 
 ## Related Pages
 Related to [[super-thinking-gabriel-weinberg]], [[social-proof]], and [[authority-bias]].
+
+Sources: [[super-thinking]]
+
+See also: [[mental-models]]
+
+See also: [[empathy]]

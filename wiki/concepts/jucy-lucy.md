@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Jucy Lucy
-description: "Jucy Lucy to regionalny styl burga z Minnesoty, w którym ser jest faszerowany wewnątrz patty zamiast kładziony na wierzch."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- american
-- burgers
-- regional
-- american-cuisine
-- burger
-- gastronomy
-sources:
-- burgers.md
-related:
-- americana-burgers
-- smash-burger
-- slinger-burger
----
+
 --
 
 # Jucy Lucy
@@ -52,3 +32,5 @@ Unikalna tekstura — z zewnątrz soczysty kotlet, wewnątrz płynny ser. Wymaga
 ## Dalsza lektura
 
 - „Burger: A History" by Josh Ozersky
+
+See also: [[americana-burgers]]

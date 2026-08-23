@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-title: Kalita Wave Brewer
-description: "--
-Kalita Wave Brewer"
-created: 2026-04-24
-updated: 2026-04-24
-type: entity
-tags:
-- coffee
-- equipment
-- brewing
-sources:
-- Pour Over.md
-related:
-- pour-over-coffee
-- v60-brewer
-- chemex-brewer
----
+
 --
 # Kalita Wave Brewer
 
@@ -36,3 +18,9 @@ The Kalita Wave is a flat-bottom pour-over brewer with three small holes. It is 
 
 ## Best For
 Those seeking consistent results with emphasis on body and sweetness rather than acidity and clarity.
+
+See also: [[pour-over-coffee]]
+
+See also: [[v60-brewer]]
+
+See also: [[chemex-brewer]]

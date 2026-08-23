@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Principles for Dealing with the Changing World Order
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- ray-dalio
-- geopolitics
-sources:
-- Principles for Dealing with the Changing World Order - Ray Dalio.md
-related:
-- ray-dalio
-- bridgewater-associates
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - dynamics
 - big-cycle-framework
 ---
@@ -41,3 +26,5 @@ This book extends Dalio's earlier economic frameworks, particularly the simplifi
 
 Related: [[ray-dalio]], [[bridgewater-associates]], [[how-the-economic-machine-works---ray-dalio]]
 ---
+
+See also: [[how-the-economic-machine-works]]

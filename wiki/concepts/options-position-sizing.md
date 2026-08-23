@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Options Position Sizing
-description: "--
-Options Position Sizing"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- options
-- options-trading
-- risk-management
-sources:
-- Options Trading Guide.md
-related:
-- theta-time-decay
-- options-fundamentals
-- risk-assessment-framework
-- LEAPS-options
-- covered-calls
-- straddle-strategies
-- ITM-vs-OTM-options
----
+
 --
 # Options Position Sizing
 
@@ -67,3 +43,15 @@ Position sizing in options trading must account for theta exposure and risk tole
 - Speculative portfolio: 5–10% in high-risk options
 
 Position sizing connects to [[theta-time-decay]] and all major strategy pages.
+
+See also: [[options-fundamentals]]
+
+See also: [[risk-assessment-framework]]
+
+See also: [[LEAPS-options]]
+
+See also: [[covered-calls]]
+
+See also: [[straddle-strategies]]
+
+See also: [[ITM-vs-OTM-options]]

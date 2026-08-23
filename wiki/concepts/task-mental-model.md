@@ -1,15 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Task as a Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- decision-making
-related:
-- getting-things-done---david-allen
+david-allen
 - the-index-card-rules
 - quadrant-2-focus
 - personal-knowledge-vault
@@ -48,3 +37,5 @@ This mental model is referenced in [[getting-things-done---david-allen]] by Davi
 
 The model's distinction from broader GTD methodology and existing productivity concepts warrants further exploration. Confidence is moderate (0.7), suggesting the model is still forming or underdeveloped.
 ---
+
+See also: [[getting-things-done]]

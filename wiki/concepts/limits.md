@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Limits
-description: "Limits is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-science
-sources:
-- Limits.md
-related:
-- limits-to-growth
-- donella-meadows
-- swan-mental-model
-- brain-mental-model
-- solutions-mental-model
-confidence: medium
----
+
 --
 # Limits
 
@@ -49,3 +30,5 @@ Limits can be applied across multiple domains:
 ## Confidence
 
 Medium — the model is conceptually sound but lacks extensive application examples in the source material.
+
+See also: [[donella-meadows]]

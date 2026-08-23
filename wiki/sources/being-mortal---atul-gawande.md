@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Being Mortal - Atul Gawande
-description: "Being Mortal - Atul Gawande"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- healthcare
-- end-of-life
-- mortality
-- medical-ethics
-sources:
-- being-mortal
-- Being Mortal - Atul Gawande
----
+
 # Being Mortal - Atul Gawande
 
 Atul Gawande's *Being Mortal* examines how modern healthcare systematically conflicts with what makes life meaningful as people age. The book argues that the medical system is organized around curing disease and extending life at all costs, which often ignores patient autonomy, comfort, dignity, and the quality of one's final experiences.
@@ -48,3 +32,5 @@ This source connects to [[decision-quality-vs-outcome-quality]] — Gawande's ar
 6. Rituals and Routines
 7. The Gift of Time
 8. A Culture Change
+
+Sources: [[being-mortal]]

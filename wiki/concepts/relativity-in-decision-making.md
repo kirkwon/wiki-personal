@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Relativity in Decision-Making
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- decision-making
-- behavioral-economics
-sources:
-- Predictably Irrational - Dan Ariely.md
-related:
-- predictably-irrational-dan-ariely
-- anchoring
-- framing-effects
-- decision-making-frameworks
-- comparisons
----
+
 -
 # Relativity in Decision-Making
 
@@ -37,3 +19,9 @@ People do not evaluate options in isolation. They evaluate options relative to o
 
 Connects to [[Comparisons]] as a mental model, [[anchoring]] as a specific anchoring mechanism, and [[framing-effects]] as a related bias where presentation shapes perception.
 ---
+
+See also: [[predictably-irrational-dan-ariely]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[comparisons]]

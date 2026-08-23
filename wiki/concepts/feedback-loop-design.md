@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Feedback loop design
-description: "-
-Feedback loop design"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- knowledge
-- learning
-- skill-candidate
-- productivity
-- mental-models
-- Feedback loop design.md
-- Out of Control - Kevin Kelly.md
-related:
-- scatterfocus
-- hyperfocus
-- personal-knowledge-vault
-- experiment-and-exploration-forms-of-world-disclosure ---snke-ahrens
+snke-ahrens
 - building-a-second-brain---tiago-forte
 ---
 -
@@ -52,3 +32,9 @@ Feedback loop design connects to [[scatterfocus]] (mind-wandering attention mode
 ## Mental Models
 
 Related mental models include [[explores]], [[principles]], and [[life]] as conceptual frames for navigating complexity through pattern recognition.^[raw/articles/Feedback loop design.md]
+
+See also: [[hyperfocus]]
+
+See also: [[personal-knowledge-vault]]
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

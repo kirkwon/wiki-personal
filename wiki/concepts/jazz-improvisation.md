@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Jazz Improvisation
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- jazz
-- improvisation
-sources:
-- jazz-harmony.md
-related:
-- jazz-harmony
-- jazz-scales
-- chord-voicings
-- modes
----
+
 -
 # Jazz Improvisation
 
@@ -40,3 +23,9 @@ Jazz-improvisasjon er faget å improvisere over jazzharmoni. Det bygger på fors
 - Praktiser stemmeføring og guide tones
 - Lytt til Charlie Parker, Miles Davis, Thelonious Monk for inspirasjon
 ---
+
+See also: [[jazz-harmony]]
+
+See also: [[chord-voicings]]
+
+See also: [[modes]]

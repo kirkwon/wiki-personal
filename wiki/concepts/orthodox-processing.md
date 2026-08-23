@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 正山处理法
-description: "正山处理法（Orthodox Processing）是大吉岭茶的核心加工工艺，强调轻氧化和手工精制，以保留细腻风味。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- processing
-- darjeeling
-related:
-- darjeeling-tea
-- 茶叶加工
-sources:
-- Darjeeling Tea.md
----
+
 --
 # 正山处理法
 
@@ -36,3 +20,5 @@ sources:
 
 ## 不同茶园差异
 各茶园在氧化程度、揉捻压力、萎凋时间、烘焙温度和分级标准上有所不同，这些差异直接影响最终风味。
+
+See also: [[darjeeling-tea]]

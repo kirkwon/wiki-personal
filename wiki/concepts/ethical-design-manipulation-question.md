@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Ethical Design and the Manipulation Question
-description: "Ethical Design and the Manipulation Question"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- ethics
-- product-design
-- behavioral-psychology
-sources:
-- hooked
-- Ethical Design and the Manipulation Question
-related: [hook-model, decision-quality-vs-outcome-quality, ethical-design-manipulation-question]
----
+
 # Ethical Design and the Manipulation Question
 
 The central ethical question in habit-forming design is whether products are empowering users or exploiting them. This tension runs through the entire Hook Model framework.
@@ -39,3 +24,7 @@ Users also share responsibility for being aware of habit-forming mechanisms and 
 This theme overlaps with [[ethics-in-exploration-and-experimentation]] from Sönke Ahrens' work and the wiki's general emphasis on ethical decision-making. The manipulation question asks whether designers should optimize for engagement or for user welfare, echoing tensions in [[decision-making-frameworks]].
 
 ^[raw/articles/hooked---nir-eyal.md]
+
+See also: [[hook-model]]
+
+See also: [[ethical-design-manipulation-question]]

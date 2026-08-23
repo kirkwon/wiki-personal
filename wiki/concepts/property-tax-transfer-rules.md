@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Property Tax Transfer Rules
-description: "--
-Property Tax Transfer Rules"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- tax
-- skill-candidate
-- personal-finance
-- Proposition 19 Overview.md
-- Proposition 19 Overview.md
-related:
-- proposition-19
-- proposition-13
-- cost-basis
-- real-estate-investment
-- 1031-exchange-strategy
----
+
 --
 # Property Tax Transfer Rules
 
@@ -52,3 +30,9 @@ Lower property taxes on inherited property (due to reassessment) may come at the
 - [[cost-basis]] — Original value used to calculate capital gains
 - [[return-of-capital]] — Distribution returning investor's own capital, reducing cost basis
 - [[tax-torpedoes-in-retirement]] — Property tax increases affecting retirement cash flow
+
+See also: [[proposition-19]]
+
+See also: [[proposition-13]]
+
+See also: [[real-estate-investment]]

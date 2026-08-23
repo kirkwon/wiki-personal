@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Performance
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- psychology
-sources:
-- Performance.md
-related:
-- david-epstein
-- effort
-- grit-concept
-- brain-mental-model
-- solutions-mental-model
-- decision-making-frameworks
----
+
 -
 # Performance
 
@@ -48,3 +29,9 @@ David Epstein's research on extraordinary athletic performance provides empirica
 
 Moderate (0.7) — the model is still being refined and would benefit from broader source coverage.
 ---
+
+See also: [[david-epstein]]
+
+See also: [[solutions-mental-model]]
+
+See also: [[decision-making-frameworks]]

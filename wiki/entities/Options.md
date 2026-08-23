@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Options (Διαφορές)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- investing
-sources:
-- Options Trading.md
-related:
-- covered-call-strategy
-- protective-put-strategy
-- long-straddle
-- vertical-spread
-- iron-condor
-- risk-management
-- retirement-planning
----
+
 -
 # Options (Διαφορές)
 
@@ -53,3 +33,9 @@ Options είναι πολύπλοκα instruments με σημαντικό κίν
 - Προστασία χαρτοφυλακίου (προστατευτικά puts)
 - Δημιουργία εισοδήματος (κάλυψη κλήσεων)
 ---
+
+See also: [[long-straddle]]
+
+See also: [[vertical-spread]]
+
+See also: [[iron-condor]]

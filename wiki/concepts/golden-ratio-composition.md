@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Golden Ratio Composition
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- rule-of-thirds
-- golden-hour
----
+
 -
 # Golden Ratio Composition
 
@@ -31,3 +16,9 @@ The golden ratio is a mathematical ratio (1:1.618) found in nature and art. It i
 
 The golden ratio provides a more nuanced framework than the rule of thirds, offering slightly different placement points that align with natural aesthetic proportions.
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[rule-of-thirds]]
+
+See also: [[golden-hour]]

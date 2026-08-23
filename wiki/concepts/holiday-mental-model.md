@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Holiday Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- philosophy
-sources:
-- Holiday.md
-related:
-- ryan-holiday
-- the-obstacle-is-the-way
-- stillness-is-the-key
-- the-daily-stoic---ryan-holiday
+ryan-holiday
 ---
 -
 # Holiday Mental Model
@@ -24,3 +9,5 @@ This mental model is referenced in relation to Ryan Holiday's Stoic philosophy, 
 
 The model connects to broader Stoic resilience concepts found in [[the-obstacle-is-the-way]] and the stillness principle from [[stillness-is-the-key]].
 ---
+
+See also: [[ryan-holiday]]

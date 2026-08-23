@@ -1,17 +1,9 @@
----
+Sources: [[smarter-faster-better]]
 
-date: 2026-05-03
-type: concept
-title: Willpower as a Trainable Resource
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- psychology
-- cognitive-science
-- productivity
-- decision-making
-sources:
-- smarter-faster-better
-- Willpower as a Trainable Resource
-related: [dual-process-theory, decision-making-under-uncertainty, habit-loops, habit-stacking]
----
+See also: [[dual-process-theory]]
+
+See also: [[decision-making-under-uncertainty]]
+
+See also: [[habit-loops]]
+
+See also: [[habit-stacking]]

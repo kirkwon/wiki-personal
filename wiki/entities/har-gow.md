@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Har Gow (虾饺)
-description: "Har Gow (虾饺, Xiājiǎo) — Shrimp Dumplings — is considered the gold standard of dim sum."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- chinese
-- cantonese
-- dim-sum
-- dumpling
-- shrimp
-- cuisine
-related:
-- dim-sum
-- siu-mai
-- char-siu-bao
-- yum-cha
-- cantonese-cuisine
-sources:
-- dim-sum.md
----
+
 --
 
 # Har Gow (虾饺)
@@ -48,3 +26,13 @@ Mastering har gow is the first step in dim sum practice: perfect translucent ski
 ## Hosting Tip / 制作提示
 
 Freeze raw har gow and steam from frozen. Do not oversteam — max 6-8 minutes.
+
+See also: [[dim-sum]]
+
+See also: [[siu-mai]]
+
+See also: [[char-siu-bao]]
+
+See also: [[yum-cha]]
+
+See also: [[cantonese-cuisine]]

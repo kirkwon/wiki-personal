@@ -1,20 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: Habit loop in communication
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- habits
-- communication
-- psychology
-sources:
-- Supercommunicators - Charles Duhigg.md
-related:
-- habit-testing
-- communication-skills
-- habits
----
+
 -
 # Habit loop in communication
 
@@ -31,3 +15,5 @@ The habit loop framework, introduced in Duhigg's *Supercommunicators*, explains 
 - [[communication-skills]]
 - [[building-a-cohesive-team]]
 ---
+
+See also: [[habits]]

@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Leverage
-description: "Leverage is a universal mental model—a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- economics
-sources:
-- Leverage.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - effort
 - tendency
 - ideas-mental-model
@@ -47,3 +33,5 @@ Moderate (0.7). The model is underdeveloped with a single source, and its distin
 - [[tendency]]
 - [[markets]]
 - [[business]]
+
+See also: [[how-the-economic-machine-works]]

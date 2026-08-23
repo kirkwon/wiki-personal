@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: The Art of War - Sun Tzu
-description: "The Art of War - Sun Tzu"
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- books
-- strategy
-- philosophy
-- decision-making
-- mental-model
-sources:
-- the-art-of-war
-- The Art of War - Sun Tzu
-related: [sun-tzu, attack-by-stratagem, terrain-analysis-strategy, intelligence-in-strategy, energy-and-momentum-strategy, weak-point-exploitation, strategic-vs-reactive-thinking, decision-making-frameworks, infinite-game-mindset, positioning, planning]
----
+
 # The Art of War - Sun Tzu
 
 A classic Chinese military strategy text authored by Sun Tzu, comprising 13 chapters that cover planning, warfare costs, stratagem, positioning, energy, maneuvering, tactics variation, terrain, situations, fire attack, and espionage. It has become a foundational text for strategic thinking across domains and is referenced in the Positioning mental model as a cross-source perspective on understanding and navigating complex situations through pattern and relationship recognition.
@@ -45,3 +28,21 @@ This text extends [[decision-making-frameworks]] with ancient strategic principl
 
 ## Tension with Cooperative Contexts
 The text acknowledges that the war metaphor can be inappropriate for cooperative contexts, and warns against treating every situation as zero-sum conflict — an open question for when strategic thinking becomes adversarial.
+
+Sources: [[the-art-of-war]]
+
+Sources: [[The Art of War - Sun Tzu]]
+
+See also: [[sun-tzu]]
+
+See also: [[attack-by-stratagem]]
+
+See also: [[terrain-analysis-strategy]]
+
+See also: [[intelligence-in-strategy]]
+
+See also: [[energy-and-momentum-strategy]]
+
+See also: [[weak-point-exploitation]]
+
+See also: [[positioning]]

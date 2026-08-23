@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Investment Property Acquisition Template
-description: "--
-Investment Property Acquisition Template"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- template
-- real-estate
-- investing
-sources:
-- Financial Reporting Templates.md
-related:
-- single-property-analysis-template
-- sensitivity-analysis-investing
-- real-estate-investment-templates
----
+
 --
 # Investment Property Acquisition Template
 
@@ -33,3 +15,9 @@ Template for evaluating potential property acquisitions before purchase.
 
 ## Sensitivity Analysis
 What-if scenarios varying purchase price, interest rate, rent level, and expenses. Risk assessment with best case, worst case, most likely, and acceptable range.
+
+See also: [[single-property-analysis-template]]
+
+See also: [[sensitivity-analysis-investing]]
+
+See also: [[real-estate-investment-templates]]

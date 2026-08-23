@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: ADUs — Accessory Dwelling Units
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- bay-area
-- housing
-- investment
-sources:
-- Bay Area Market Analysis.md
-related:
-- bay-area-real-estate-market-analysis
-- real-estate-investment
-- renovation-strategies
----
+
 -
 # Unidades de Vivienda Adicionales (ADUs)
 
@@ -32,3 +15,7 @@ El análisis del mercado recomienda considerar renovaciones y ADUs como fuentes 
 ## Consideraciones
 Las regulaciones locales varían significativamente entre ciudades del Bay Area. La planificación de ADUs debe considerar requisitos de zonificación, permisos de construcción y estándares de energía.
 ---
+
+See also: [[bay-area-real-estate-market-analysis]]
+
+See also: [[real-estate-investment]]

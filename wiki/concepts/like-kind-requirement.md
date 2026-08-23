@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Like-Kind Requirement
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- real-estate
-- tax-optimization
-sources:
-- 1031 Exchange Strategy.md
-related:
-- 1031-exchange-strategy
-- 1031-identification-rules
----
+
 -
 # Like-Kind Requirement
 
@@ -27,3 +12,7 @@ The like-kind requirement for 1031 exchanges is straightforward: any real proper
 
 This flexibility is a key advantage of the 1031 exchange strategy, enabling investors to diversify, upgrade, or reposition their real estate holdings without triggering immediate capital gains taxes.
 ---
+
+See also: [[1031-exchange-strategy]]
+
+See also: [[1031-identification-rules]]

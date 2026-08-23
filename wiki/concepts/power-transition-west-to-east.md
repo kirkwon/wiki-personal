@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Power Transition West to East
-description: "--
-Power Transition West to East"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- geopolitics
-- macro-economics
-- strategy
-related:
-- big-cycle-theory
-- china-rise-geopolitics
-- principles-for-dealing-with-the-changing-world-order---ray-dalio
+ray-dalio
 - scenario-planning
 sources:
 - principles-for-dealing-with-the-changing-world-order---ray-dalio.md
@@ -39,3 +24,9 @@ This transition reshapes financial markets, investment strategies, and geopoliti
 
 The concept of power transition extends [[the-four---scott-galloway]]'s platform dominance analysis by adding nation-state dynamics. It also relates to [[real-options-analysis]] by suggesting that maintaining flexibility across regions and asset classes is critical during transitions.
 ^[raw/articles/principles-for-dealing-with-the-changing-world-order---ray-dalio.md]
+
+See also: [[big-cycle-theory]]
+
+See also: [[china-rise-geopolitics]]
+
+See also: [[principles-for-dealing-with-the-changing-world-order]]

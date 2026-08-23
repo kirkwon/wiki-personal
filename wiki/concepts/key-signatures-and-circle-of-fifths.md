@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Key Signatures and Circle of Fifths
-description: "--
-Key Signatures and Circle of Fifths"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- music
-- theory
-sources:
-- music-theory-fundamentals.md
-related:
-- music-theory-fundamentals
-- jazz-harmony
-- major-and-minor-scales
----
+
 --
 # Key Signatures and Circle of Fifths
 
@@ -42,3 +25,5 @@ A key signature tells you which sharps or flats to play throughout a piece. The 
 | C♭ Major | 7♭ | C♭ D♭ E♭ F♭ G♭ A♭ B♭ |
 
 Understanding key signatures is essential for navigating [[jazz-harmony]] and building [[major-and-minor-scales]].
+
+See also: [[music-theory-fundamentals]]

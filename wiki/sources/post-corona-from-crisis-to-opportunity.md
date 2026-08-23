@@ -1,24 +1,4 @@
----
 
-date: 2026-04-29
-type: source
-title: 'Post Corona: From Crisis to Opportunity - Scott Galloway'
-description: "--"
-Post Corona: From Crisis to Opportunity - Scott Galloway""
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- business
-- mental-model
-- technology
-sources:
-- Companies.md
-related:
-- the-four-scott-galloway
-- platform-dominance
-- companies-mental-model
-
----
 --
 # Post Corona: From Crisis to Opportunity - Scott Galloway
 
@@ -34,3 +14,9 @@ Scott Galloway's *Post Corona* analyzes the post-pandemic landscape, arguing tha
 ## Connection to Companies Mental Model
 
 This book is one of the two primary sources referenced in the Companies mental model, providing the post-crisis perspective on how corporate power dynamics evolve under pressure.
+
+See also: [[the-four-scott-galloway]]
+
+See also: [[platform-dominance]]
+
+See also: [[companies-mental-model]]

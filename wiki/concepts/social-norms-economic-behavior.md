@@ -1,20 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Social Norms and Economic Behavior
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- behavioral-economics
-- decision-making
-- social-influence
-sources:
-- Misbehaving - Richard H Thaler.md
-related:
-- cognitive-biases-library
-- decision-making-frameworks
-- communication-skills
----
+
 -
 # Social Norms and Economic Behavior
 
@@ -40,3 +24,5 @@ Social norms interact with [[framing-effect]] (norms frame what is "normal") and
 ## Key Insight
 Economic outcomes are not determined solely by individual rational calculation—they are shaped by the social environment in which decisions are made.
 ---
+
+See also: [[cognitive-biases-library]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Self-Deception
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- psychology
-- mental-model
-sources:
-- Deception.md
-related:
-- deception
-- dan-ariely
-- the-honest-truth-about-dishonesty
-- confirmation-bias
-- illusion-of-control
-- morality-and-decision-making
----
+
 -
 # Self-Deception
 
@@ -34,3 +15,9 @@ Self-deception is the process by which people construct false beliefs about them
 
 Self-deception is the core mechanism underlying the [[deception]] mental model. Dan Ariely's experiments demonstrate that self-deception is not rare but widespread, and that it operates below conscious awareness for many people.
 ---
+
+See also: [[dan-ariely]]
+
+See also: [[the-honest-truth-about-dishonesty]]
+
+See also: [[morality-and-decision-making]]

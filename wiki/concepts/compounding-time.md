@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Compounding Time
-description: "Wealth grows exponentially through time, not just through returns."
-created: 2026-04-29
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- behavioral-finance
-sources:
-- The Psychology of Money.md
-related:
-- real-options-analysis
-- investment-strategies-for-life-satisfaction
-- retirement-planning
-- savings-rate-vs-returns
-- time-in-market-vs-market-timing
----
+
 --
 # Compounding Time
 
@@ -47,3 +28,5 @@ This connects to [[savings-rate-vs-returns]] (consistent savings feeds compoundi
 
 ## See Also
 [[investment-strategies-for-life-satisfaction]] | [[retirement-planning]] | [[savings-rate-vs-returns]]
+
+See also: [[real-options-analysis]]

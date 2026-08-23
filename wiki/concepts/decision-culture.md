@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Decision Culture
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- mental-models
-- psychology
-sources:
-- How to Decide - Annie Duke.md
-related:
-- building-a-decision-culture
-- thinking-in-bets---annie-duke
+annie-duke
 - decision-making-frameworks
 ---
 -
@@ -28,3 +14,5 @@ Key aspects include:
 
 This concept connects to [[building-a-decision-culture]] and complements the individual decision-making frameworks explored in [[thinking-in-bets---annie-duke]].
 ---
+
+See also: [[thinking-in-bets]]

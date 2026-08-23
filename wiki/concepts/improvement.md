@@ -1,28 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Improvement
-description: "Improvement is described as a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- decision-making
-related:
-- growth-mindset
-- effort
-- perseverance
-- systematic-decision-making
-- slow-productivity
-- skin-in-the-game
-- the-obstacle-is-the-way
-- the-paradox-of-choice
-- superforecasting
-sources:
-- Improvement.md
-confidence: low
----
+
 --
 # Improvement
 
@@ -51,3 +27,13 @@ Improvement overlaps significantly with [[growth-mindset]], [[effort]], [[Persev
 - The confidence level is low due to the lack of substantive content.
 
 This page is a placeholder and should be developed with actual source excerpts and principles before being treated as a reliable reference.
+
+See also: [[perseverance]]
+
+See also: [[slow-productivity]]
+
+See also: [[skin-in-the-game]]
+
+See also: [[the-obstacle-is-the-way]]
+
+See also: [[superforecasting]]

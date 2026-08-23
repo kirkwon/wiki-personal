@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Decoy Effect
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- decision-making
-- behavioral-economics
-sources:
-- Predictably Irrational - Dan Ariely.md
-related:
-- predictably-irrational-dan-ariely
-- anchoring
-- framing-effects
-- decision-making-frameworks
----
+
 -
 # Decoy Effect
 
@@ -36,3 +19,7 @@ The decoy effect operates through relative comparison rather than absolute evalu
 
 The decoy effect is a direct manifestation of Ariely's principle that we value options relative to comparisons, even when those comparisons are arbitrary. It pairs with [[anchoring]] and [[framing-effects]] as a tool for understanding and designing better choice environments.
 ---
+
+See also: [[predictably-irrational-dan-ariely]]
+
+See also: [[decision-making-frameworks]]

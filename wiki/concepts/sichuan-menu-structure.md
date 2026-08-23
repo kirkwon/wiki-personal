@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-title: 四川菜餐单结构
-description: "1. 冷菜 - 切片牛肉配辣椒油、蒜泥黄瓜
-2. 汤 - 酸辣鱼汤
-3. 主菜 - 麻婆豆腐、宫保鸡丁、回锅肉
-4. 蔬菜 - 干煸四季豆、炖青菜
-5. 主食 - 米饭或面条"
-created: 2026-04-24
-updated: 2026-04-24
-type: concept
-tags:
-- meal-planning
-- cuisine
-- chinese
-- sichuan
-sources:
-- sichuan-cuisine.md
-related:
-- sichuan-cuisine
-- qi-wei-flavors
----
+
 --
 # 四川菜餐单结构
 
@@ -44,3 +23,7 @@ related:
 - **中国茶** - 普洱、绿茶（中和辣度）
 - **中国啤酒** - 青岛啤酒、雪花（清爽）
 - **避免冰水** - 会加剧辣感
+
+See also: [[sichuan-cuisine]]
+
+See also: [[qi-wei-flavors]]

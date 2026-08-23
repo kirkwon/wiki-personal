@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Quality Factor
-description: "The quality factor is based on the premise that high-quality companies—those that are profitable, have stable earnings, and carry low debt—tend to outperform the market over time."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- quant
-- factor
-- investing
-- quality
-sources:
-- factor-investing.md
-related:
-- factor-investing
-- momentum-strategy
-- smart-beta-etfs
----
+
 --
 # Quality Factor
 
@@ -51,3 +33,5 @@ The quality factor is one of five primary factors in [[factor-investing]]. Quali
 - [[factor-investing]]
 - [[smart-beta-etfs]]
 - [[factor-crowding-rotation]]
+
+See also: [[momentum-strategy]]

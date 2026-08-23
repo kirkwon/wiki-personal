@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Tax Torpedoes in Retirement
-description: "--
-Tax Torpedoes in Retirement"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- retirement
-- tax
-- skill-candidate
-- personal-finance
-- Tax Torpedoes.md
-- Tax Torpedoes.md
-related:
-- required-minimum-distributions
-- retirement-planning
-- irmaa
-- provisional-income
-- roth-ladder-strategy
-- social-security-taxation
-- yield-trap
----
+
 --
 # Tax Torpedoes in Retirement
 
@@ -72,3 +48,5 @@ The concept is illustrated by a concrete example: a 65-year-old couple performin
 4. Failing to plan for RMDs before they compound tax torpedo effects.^[Tax Torpedoes.md]
 
 See also: [[irmaa]], [[provisional-income]], [[roth-ladder-strategy]], [[social-security-taxation]], [[required-minimum-distributions]], [[retirement-planning]]
+
+See also: [[yield-trap]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Loan-to-Value Ratio (LTV)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- real-estate
-- risk-management
-sources:
-- Risk Assessment Framework.md
-related:
-- leverage-risk-real-estate
-- key-risk-indicators
-- cash-flow-stress-testing
----
+
 -
 # Loan-to-Value Ratio (LTV)
 
@@ -27,3 +11,9 @@ A financial leverage metric expressing the loan amount as a percentage of the pr
 
 Higher LTV increases risk exposure. LTV is tracked as a Key Risk Indicator alongside DSCR, cash flow variance, and vacancy rates.
 ---
+
+See also: [[leverage-risk-real-estate]]
+
+See also: [[key-risk-indicators]]
+
+See also: [[cash-flow-stress-testing]]

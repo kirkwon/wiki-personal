@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Uniqueness
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-science
-sources:
-- Uniqueness.md
-related:
-- the-most-human-human---brian-christian-tom-griffiths
+brian-christian-tom-griffiths
 - thinking-mental-model
 - brain-mental-model
 - effort
@@ -48,3 +36,5 @@ This mental model is referenced in [[the-most-human-human---brian-christian-tom-
 
 Moderate (0.7). The model is defined abstractly and draws from the themes of *The Most Human Human*, but the specific framing of "Uniqueness" as a named mental model is a user-generated abstraction of the book's core ideas.
 ---
+
+See also: [[the-most-human-human]]

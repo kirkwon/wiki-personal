@@ -1,24 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Cognitive Economy
-description: "Cognitive economy refers to the practice of minimizing cognitive load and optimizing mental resources for effective decision-making and persuasion."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- knowledge
-- learning
-- skill-candidate
-- cognitive-science
-- decision-making
-- psychology
-- Pre-Suasion_ A Revolutionary Way to Influence and Persuade - Robert B Cialdini.md
-related:
-- pre-suasion
-- attention-budget
-- dual-process-theory
-- decision-making-frameworks
----
+
 --
 # Cognitive Economy
 
@@ -39,3 +19,5 @@ Cognitive economy aligns with [[dual-process-theory]] — when cognitive load is
 - [[pre-suasion]]
 - [[attention-budget]]
 - [[dual-process-theory]]
+
+See also: [[decision-making-frameworks]]

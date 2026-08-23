@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Strategic Batching
-description: "--
-Strategic Batching"
-created: 2026-04-29
-updated: 2026-05-03
-tags:
-- productivity
-- workflow-design
-sources:
-- Slow Productivity - Cal Newport.md
-related:
-- slow-productivity---cal-newport
+cal-newport
 - deep-focus
 - time-blocking
 - elimination-of-distractions
@@ -46,3 +32,5 @@ Instead of switching between different types of work throughout the day, strateg
 - [[deep-focus]] – Deep focus depends on uninterrupted time
 - [[time-blocking]] – Scheduling technique that complements batching
 - [[elimination-of-distractions]] – Minimizing interruptions supports batching
+
+See also: [[slow-productivity]]

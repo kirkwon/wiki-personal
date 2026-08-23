@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Proposition 19
-description: "California ballot measure approved by voters in November 2020, effective February 16, 2021, that significantly modified property tax transfer rules under Proposition 13."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- real-estate
-- taxes
-- california
-sources:
-- Proposition 19 Overview.md
-related:
-- proposition-13
-- real-estate-investment
-- 1031-exchange-strategy
-- cost-basis
-- tax-torpedoes-in-retirement
-- return-of-capital
----
+
 --
 # Proposition 19
 
@@ -65,3 +44,5 @@ A core tension: inheriting at a lower property tax basis saves on annual taxes b
 - [[1031-exchange-strategy]] — Tax-deferral mechanism that may complement Prop 19 planning
 - [[cost-basis]] — Original value of an asset used to calculate capital gains
 - [[tax-torpedoes-in-retirement]] — Property tax increases affect retirement cash flow
+
+See also: [[return-of-capital]]

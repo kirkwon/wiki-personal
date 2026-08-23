@@ -1,18 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Exploratorium
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- museums
-sources:
-- san-francisco-city-guide.md
-related:
-- san-francisco
----
+
 -
 # Exploratorium
 
@@ -24,3 +10,5 @@ Musée scientifique interactif à San Francisco.
 - L'un des musées uniques de la ville
 
 ---
+
+See also: [[san-francisco]]

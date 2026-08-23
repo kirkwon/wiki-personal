@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 水洗与自然处理咖啡
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- beverages
-sources:
-- YouTube-Watch-Later.md
-related:
-- coffee
-- coffee-roasting-咖啡烘焙
-- coffee-bean-processing-咖啡豆处理
----
+
 -
 # 水洗与自然处理咖啡
 
@@ -29,3 +14,5 @@ related:
 [[coffee]] | [[coffee-bean-processing-咖啡豆处理]]
 
 ---
+
+See also: [[coffee-roasting-咖啡烘焙]]

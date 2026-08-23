@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Cool Jazz
-description: "Cool jazz is a style of jazz characterized by a smoother, more restrained sound compared to the intensity of bebop."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- music
-- genre
-sources:
-- miles-davis.md
-related:
-- miles-davis
-- bebop
-- jazz-harmony
----
+
 --
 # Cool Jazz
 
@@ -41,3 +24,5 @@ The cool jazz movement that emerged from these recordings influenced a generatio
 - [[miles-davis]] – Central figure
 - [[bebop]] – The contrasting style
 - [[gil-evans]] – Arranger for Birth of the Cool
+
+See also: [[jazz-harmony]]

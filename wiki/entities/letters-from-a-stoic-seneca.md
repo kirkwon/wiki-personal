@@ -1,25 +1,4 @@
----
-date: 2026-05-03
-type: entity
-title: Letters from a Stoic
-description: "--
-Letters from a Stoic"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- book
-- philosophy
-- stoicism
-sources:
-- Letters from a Stoic - Seneca.md
-related:
-- stoicism
-- seneca
-- memento-mori
-- philosophical-journaling
-- simple-living-practices
-- emotional-regulation-through-reason
----
+
 --
 # Letters from a Stoic
 
@@ -45,3 +24,15 @@ The letters provide frameworks for philosophical journaling, time management, si
 ## When to Stop
 
 Seneca warns against using Stoic principles to justify passivity, emotional numbing, asceticism, or intellectual detachment from life.
+
+See also: [[stoicism]]
+
+See also: [[seneca]]
+
+See also: [[memento-mori]]
+
+See also: [[philosophical-journaling]]
+
+See also: [[simple-living-practices]]
+
+See also: [[emotional-regulation-through-reason]]

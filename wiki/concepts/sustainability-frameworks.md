@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Sustainability Frameworks
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- sustainability
-- systems-thinking
-- economics
-- policy
-sources:
-- Limits to Growth_ The 30-Year Update - Donella H Meadows.md
-related:
-- limits-to-growth
-- planetary-boundaries
-- resource-depletion
-- scenario-planning
----
+
 -
 # Sustainability Frameworks
 
@@ -31,3 +13,7 @@ Key elements include:
 
 These frameworks connect to [[scenario-planning]] by using multiple future scenarios to evaluate policy options, and to [[resource-depletion]] by explicitly modeling finite resource availability.
 ---
+
+See also: [[limits-to-growth]]
+
+See also: [[planetary-boundaries]]

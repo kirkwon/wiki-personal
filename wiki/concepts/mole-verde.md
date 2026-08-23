@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Mole Verde
-description: "El mole verde es una variante más ligera y fresca del mole mexicano."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- mexican-cuisine
-- sauce
-- gastronomy
-sources:
-- mole.md
-related:
-- mole
-- mole-poblano
-- los-siete-moles-de-oaxaca
-- mexican-cuisine
----
+
 --
 # Mole Verde
 
@@ -31,3 +13,11 @@ El mole verde es una variante más ligera y fresca del mole mexicano. Se disting
 - Lechuga como espesante
 
 Es ideal para quienes quieren introducirse en la preparación de moles sin la complejidad del mole poblano.^[raw/articles/mole.md]
+
+See also: [[mole]]
+
+See also: [[mole-poblano]]
+
+See also: [[los-siete-moles-de-oaxaca]]
+
+See also: [[mexican-cuisine]]

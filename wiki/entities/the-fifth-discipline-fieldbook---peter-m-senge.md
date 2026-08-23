@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Fifth Discipline Fieldbook - Peter M Senge
-description: "--
-The Fifth Discipline Fieldbook - Peter M Senge"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- systems-thinking
-- organizational-learning
-related:
-- systems
-- the-fifth-discipline---peter-m-senge
+peter-m-senge
 - thinking-in-systems---donella-h-meadows
 sources:
 - Systems.md
@@ -31,3 +17,5 @@ sources:
 ## Connection to Systems Mental Model
 
 This fieldbook is one of the seven source perspectives cited in the [[systems]] mental model.
+
+See also: [[the-fifth-discipline]]

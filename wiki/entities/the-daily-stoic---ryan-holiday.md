@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Daily Stoic - Ryan Holiday
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- philosophy
-- stoicism
-sources:
-- Stoic.md
-related:
-- ryan-holiday
-- stoic-mental-model
-- the-obstacle-is-the-way
----
+
 -
 # The Daily Stoic - Ryan Holiday
 
@@ -30,3 +14,7 @@ The Daily Stoic distills ancient Stoic teachings into actionable daily reflectio
 - [[the-stoic-mental-model]]
 - [[ryan-holiday]]
 ---
+
+See also: [[stoic-mental-model]]
+
+See also: [[the-obstacle-is-the-way]]

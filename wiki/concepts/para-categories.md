@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: PARA Categories
-description: "The PARA Method organizes digital information into four distinct categories, each serving a different purpose in managing your digital life."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- organizing
-sources:
-- The PARA Method_ Simplify, Organize, and Master Your Digital Life - Tiago Forte.md
-related:
-- the-para-method
-- personal-knowledge-vault
-- framework-template
----
+
 --
 # PARA Categories
 
@@ -39,3 +23,9 @@ Completed or inactive items that are worth keeping for reference. Once a project
 ## Key Insight
 
 The power of PARA lies in its simplicity. By asking "Is this a project, area, resource, or archive?" you can quickly categorize any piece of information or action item, reducing decision fatigue and creating clarity about what demands your attention.
+
+See also: [[the-para-method]]
+
+See also: [[personal-knowledge-vault]]
+
+See also: [[framework-template]]

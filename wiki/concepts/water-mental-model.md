@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Water (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Water.md
-related:
-- problem-solving
-- thinking-mental-model
-- solutions-mental-model
-- minimalism
-- stillness
-- world-disclosure
----
+
 -
 # Water (mental model)
 
@@ -42,3 +24,11 @@ The model is conceptual and relies heavily on metaphor rather than empirical gro
 - How does Water differ from existing adaptive frameworks like [[minimalism]] or [[solutions-mental-model]]?
 - Can the Sun Tzu metaphor be operationalized into actionable decision-making steps?
 ---
+
+See also: [[problem-solving]]
+
+See also: [[thinking-mental-model]]
+
+See also: [[stillness]]
+
+See also: [[world-disclosure]]

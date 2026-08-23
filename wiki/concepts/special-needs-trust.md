@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Special Needs Trust
-description: "--
-Special Needs Trust"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-sources:
-- Trusts Guide.md
-related:
-- irrevocable-trusts
-- medicaid-planning-trusts
-- trusts-guide
----
+
 --
 # Special Needs Trust
 
@@ -44,3 +26,7 @@ Provides for disabled individuals without affecting eligibility for government b
 - Payments to persons other than disabled beneficiary
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[irrevocable-trusts]]
+
+See also: [[medicaid-planning-trusts]]

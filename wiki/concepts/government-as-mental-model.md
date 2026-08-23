@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Government as Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- management
-- decision-making
-sources:
-- Government.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - a-template-for-understanding-big-debt-crises---ray-dalio
 - management-mental-model
 - solutions-mental-model
@@ -45,3 +32,5 @@ The entry currently carries moderate confidence (0.7) due to its thin substantiv
 - [[a-template-for-understanding-big-debt-crises---ray-dalio]]
 - [[how-the-economic-machine-works---ray-dalio]]
 ---
+
+See also: [[how-the-economic-machine-works]]

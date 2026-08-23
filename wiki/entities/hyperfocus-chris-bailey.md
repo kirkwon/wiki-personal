@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Hyperfocus - Chris Bailey
-description: "Hyperfocus - Chris Bailey"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- learning
-- cognitive-science
-- mental-models
-sources:
-- hyperfocus
-- Hyperfocus - Chris Bailey
-related: [hyperfocus-and-scatterfocus, attention-residue, scatterfocus, attention-budget, single-tasking-vs-multitasking, time-management-matrix, working-backwards, personal-knowledge-vault]
----
+
 # Hyperfocus - Chris Bailey
 
 Chris Bailey's 2024 book *Hyperfocus* presents a comprehensive framework for managing attention through two complementary modes: hyperfocus and scatterfocus. The book argues that mastering both modes—and understanding the costs of task-switching—is essential for productivity, creativity, and well-being.
@@ -41,3 +25,9 @@ The book is organized into five parts:
 
 ## Connections
 Relates to [[thinking-fast-and-slow---daniel-kahneman]] via dual-process attention, [[time-management-matrix]] for scheduling focused work, and [[personal-knowledge-vault]] where attention management is a prerequisite for effective note systems.
+
+Sources: [[Hyperfocus - Chris Bailey]]
+
+See also: [[attention-budget]]
+
+See also: [[working-backwards]]

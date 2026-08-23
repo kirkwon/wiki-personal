@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Indian Summer de San Francisco
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- climate
-sources:
-- san-francisco-city-guide.md
-related:
-- sunset-district
-- layers-stratégie
----
+
 -
 # Indian Summer de San Francisco
 
@@ -29,3 +14,7 @@ Phénomène climatique distinctif de San Francisco : le brouillard estival caus�
 L'automne est la meilleure saison pour visiter. La stratégie vestimentaire repose sur les couches ([layers]) : t-shirt + pull à tout moment.
 
 ---
+
+See also: [[sunset-district]]
+
+See also: [[layers-stratégie]]

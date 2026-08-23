@@ -1,23 +1,4 @@
----
-date: 2026-04-18
-type: concept
-title: Begin With Principle
-description: "-
-Begin With Principle"
-created: 2026-04-18
-updated: 2026-05-09
-tags:
-- productivity
-- mental-models
-- decision-making
-- philosophy
-sources:
-- The 8th Habit_ From Effectiveness to Greatness - Stephen R. Covey.md
-- The 8th Habit_ From Effectiveness to Greatness - Stephen R Covey.md
-related:
-- quadrant-2-focus
-- decision-quality-vs-outcome-quality
-- the-8th-habit-from-effectiveness-to-greatness ---stephen-r-covey
+stephen-r-covey
 - working-backwards
 - the-8th-habit---stephen-r-covey
 - working-backwards-in-problem-solving
@@ -53,3 +34,5 @@ Mastering the "Begin With" principle is positioned as a key step in Covey's sequ
 - Before setting goals, clarify the underlying purpose and values.
 - Align daily actions with foundational principles rather than chasing end-state metrics.
 - Use principle as the compass when facing ambiguity or conflicting priorities.
+
+See also: [[the-8th-habit-from-effectiveness-to-greatness]]

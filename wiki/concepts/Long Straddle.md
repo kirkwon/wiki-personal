@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Long Straddle
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- speculation
-sources:
-- Options Trading.md
-related:
-- options
-- iron-condor
-- vertical-spread
----
+
 -
 # Long Straddle
 
@@ -36,3 +20,9 @@ $106 ή $94 (άξονας + κόστος)
 ## Χρήση
 Επιχειρείτε μεγάλη κίνηση χωρίς να γνωρίζετε τη κατεύθυνση.
 ---
+
+See also: [[options]]
+
+See also: [[iron-condor]]
+
+See also: [[vertical-spread]]

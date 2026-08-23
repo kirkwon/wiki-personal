@@ -1,17 +1,5 @@
----
+Sources: [[thinking-in-bets]]
 
-date: 2026-05-03
-title: Scenario Planning
-description: "Scenario Planning | concept | decision-making, mental-models, strategy."
-created: 2026-05-03
-updated: 2026-05-03
-type: concept
-tags:
-- decision-making
-- mental-models
-- strategy
-sources:
-- thinking-in-bets
-- Scenario Planning
-related: [decision-making-under-uncertainty, real-options-analysis, thinking-in-bets]
----
+See also: [[decision-making-under-uncertainty]]
+
+See also: [[real-options-analysis]]

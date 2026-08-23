@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Efficiency
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- decision-making
-sources:
-- Efficiency.md
-- the-checklist-manifesto
-- Efficiency
----
+
 -atul-gawande"]
 related: [checklists, systematic-decision-making, recipes-mental-model, the-checklist-manifesto---atul-gawande]
 confidence: medium
@@ -35,3 +22,5 @@ The model differs from pure optimization in that it focuses on eliminating waste
 - [[systematic-decision-making]] - Decision-making through systematic approaches
 - [[recipes-mental-model]] - Structured frameworks for navigating complexity
 - [[the-checklist-manifesto---atul-gawande]] - Gawande's approach to efficiency through checklists
+
+Sources: [[Efficiency]]

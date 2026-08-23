@@ -1,22 +1,4 @@
----
-created: 2026-04-24
-sources:
-- Retirement Planning.md
-tags:
-- personal-finance
-- retirement
-- healthcare
-date: 2026-04-24
-title: Healthcare Costs in Retirement
-description: "Healthcare Costs in Retirement"
-type: comparison
-updated: 2026-05-09
-related:
-- retirement-planning
-- hsa-triple-tax-advantage
-- social-security-breakeven-analysis
-- required-minimum-distributions-rmds
----
+
 --
 
 # Healthcare Costs in Retirement
@@ -492,3 +474,5 @@ Adjusted total: $521,060 × 2.65 = $1,380,809
 
 ## See Also
 [[tax-torpedoes]] | [[required-minimum-distributions]] | [[retirement-planning]] | [[personal-finance]] | [[health-savings-account]] | [[hsa-triple-tax-advantage]] | [[social-security-breakeven-analysis]]
+
+See also: [[required-minimum-distributions-rmds]]

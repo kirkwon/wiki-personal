@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Attack by Stratagem
-description: "The principle that the highest form of generalship is to defeat the enemy without fighting, through superior strategy and maneuvering rather than direct confrontation."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- strategy
-- decision-making
-- philosophy
-sources:
-- the-art-of-war
-- Attack by Stratagem
-related: [the-art-of-war-sun-tzu, strategic-vs-reactive-thinking, decision-making-frameworks, intelligence-in-strategy]
----
+
 # Attack by Stratagem
 
 The principle that the highest form of generalship is to defeat the enemy without fighting, through superior strategy and maneuvering rather than direct confrontation. This concept, central to Chapter 3 of *The Art of War*, emphasizes outmaneuvering opponents through intelligence, positioning, and indirect approaches.
@@ -32,3 +17,7 @@ The principle that the highest form of generalship is to defeat the enemy withou
 
 ## Application
 Applicable to business negotiations, competitive strategy, and leadership decisions where direct confrontation is costly or undesirable.
+
+Sources: [[the-art-of-war]]
+
+See also: [[the-art-of-war-sun-tzu]]

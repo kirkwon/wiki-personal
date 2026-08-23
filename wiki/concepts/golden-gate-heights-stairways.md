@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Golden Gate Heights Stairways
-description: "--
-Golden Gate Heights Stairways"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- neighborhoods
-- urban-hiking
-sources:
-- golden-gate-heights.md
-related:
-- golden-gate-heights
-- grandview-park
-- sixteen-avenue-tiled-steps
-- sunset-district
----
+
 --
 # Golden Gate Heights Stairways
 
@@ -39,3 +19,11 @@ From the tops of stairways and hilltop parks, visitors can see panoramic views o
 ## Photography
 
 The tiled steps and hilltop views are popular photography spots, with the 16th Avenue Tiled Steps being particularly iconic for its colorful mosaic. Fog effects and hillside neighborhood scenes also provide interesting photographic subjects.
+
+See also: [[golden-gate-heights]]
+
+See also: [[grandview-park]]
+
+See also: [[sixteen-avenue-tiled-steps]]
+
+See also: [[sunset-district]]

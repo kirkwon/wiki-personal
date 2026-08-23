@@ -1,23 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Free Spirit (Nietzschean Concept)
-description: "--
-Free Spirit (Nietzschean Concept)"
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- philosophy
-- psychology
-- moral-philosophy
-sources:
-- Beyond Good and Evil - Friedrich Nietzsche.md
-related:
-- beyond-good-and-evil-nietzsche
-- will-to-power
-- revaluation-of-all-values
-- friedrich-nietzsche
----
+
 --
 # Free Spirit (Nietzschean Concept)
 
@@ -38,3 +19,5 @@ Nietzsche warns that the free spirit must avoid using philosophy to justify crue
 ## Related
 
 See [[beyond-good-and-evil-nietzsche]], [[will-to-power]], and [[revaluation-of-all-values]].
+
+See also: [[friedrich-nietzsche]]

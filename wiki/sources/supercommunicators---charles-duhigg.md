@@ -1,29 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Supercommunicators - Charles Duhigg
-description: "Supercommunicators - Charles Duhigg"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- book
-- communication
-- psychology
-- habits
-related:
-- supercommunicators-charles-duhigg-book-summary
-- the-power-of-habit-concept
-- habit-loop
-- effective-communication
-- emotional-intelligence-in-communication
-- science-of-persuasion
-- art-of-storytelling
-- communication-barriers
-- ethics-of-supercommunication
-sources:
-- supercommunicators
-- supercommunicators-charles-duhigg-book-summary
----
+
 # Supercommunicators - Charles Duhigg
 
 This page summarizes the book "Supercommunicators" by Charles Duhigg, published in 2024. The book explores the idea that effective communication is a learnable skill, not just an innate talent. It delves into the psychological, neurological, and sociological underpinnings of how humans connect and influence each other.
@@ -48,3 +23,11 @@ This page summarizes the book "Supercommunicators" by Charles Duhigg, published 
 *   Ethical considerations for [[ethics-of-supercommunication]].
 
 The book blends scientific research, case studies, and practical advice to provide a comprehensive guide to improving communication in various aspects of life.
+
+Sources: [[supercommunicators]]
+
+Sources: [[supercommunicators-charles-duhigg-book-summary]]
+
+See also: [[effective-communication]]
+
+See also: [[emotional-intelligence-in-communication]]

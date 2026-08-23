@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Key Risk Indicators (KRIs)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- risk-management
-- real-estate
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- risk-dashboard
-- leverage-risk-real-estate
----
+
 -
 # Key Risk Indicators (KRIs)
 
@@ -35,3 +19,9 @@ Employment growth, income trends.
 ## Monitoring Frequency
 Daily (cash flow, rent collection), weekly (occupancy, maintenance), monthly (financial performance, market indicators), quarterly (portfolio review), annually (comprehensive assessment).
 ---
+
+See also: [[risk-assessment-framework]]
+
+See also: [[risk-dashboard]]
+
+See also: [[leverage-risk-real-estate]]

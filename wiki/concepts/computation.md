@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Computation
-description: "Computation is a universal mental model—a conceptual tool for navigating complex situations through pattern and relationship recognition."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- technology
-- cognitive-science
-sources:
-- Computation.md
-related:
-- the-most-human-human---brian-christian-tom-griffiths
+brian-christian-tom-griffiths
 - algorithms-to-live-by---brian-christian-tom-griffiths
 - thinking-mental-model
 - brain-mental-model
@@ -44,3 +30,5 @@ Computation provides a mental shortcut for making sense of patterns and relation
 - What specific computational concepts (Turing test, information theory, bounded rationality) offer the most practical value as mental models?
 
 Confidence in this model is rated 0.7, indicating moderate certainty and an ongoing process of refinement.
+
+See also: [[the-most-human-human]]

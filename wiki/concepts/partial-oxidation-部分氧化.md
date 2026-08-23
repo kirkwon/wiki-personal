@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 部分氧化 (Partial Oxidation)
-description: "--
-部分氧化 (Partial Oxidation)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- oolong
-- processing
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- oolong-processing-乌龙茶加工
-- green-tea-绿茶-lǚ-chá
-- black-tea-红茶-hóng-chá
----
+
 --
 # 部分氧化 (Partial Oxidation)
 
@@ -32,3 +13,11 @@ related:
 ## 工艺控制
 
 精确控制氧化程度是乌龙茶工艺的核心技巧，通过摇青时间、温度和揉捻力度实现不同风味谱系。
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[oolong-processing-乌龙茶加工]]
+
+See also: [[green-tea-绿茶-lǚ-chá]]
+
+See also: [[black-tea-红茶-hóng-chá]]

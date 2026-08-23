@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: A Template for Understanding Big Debt Crises - Ray Dalio
-description: "-
-A Template for Understanding Big Debt Crises - Ray Dalio"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- mental-model
-- economics
-- debt-cycles
-- ray-dalio
-- economic-framework
-sources:
-- Policies.md
-- Crises.md
-related:
-- policies
-- principles ---ray-dalio
+ray-dalio
 - how-the-economic-machine-works---ray-dalio
 - ray-dalio
 - crises
@@ -47,3 +28,5 @@ This framework serves as a mental model applicable beyond pure economics, helpin
 - Complements [[real-options-analysis]] and [[risk-assessment-framework]] by providing a lens for anticipating downturns
 - Relates to [[black-swan-events]] and [[antifragility]] as alternative frameworks for understanding rare or extreme events
 - Connects to [[swan-mental-model]] and [[crises]] for broader context on crisis analysis
+
+See also: [[principles]]

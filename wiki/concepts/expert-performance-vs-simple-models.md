@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Expert performance vs simple models
-description: "--
-Expert performance vs simple models"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- prediction
-- cognitive-bias
-- decision-making
-sources:
-- The Signal and the Noise - Nate Silver.md
-related:
-- superforecasting---philip-e-tetlock-dan-gardner
+philip-e-tetlock-dan-gardner
 - thinking-fast-and-slow---daniel-kahneman
 - ensemble-prediction-methods
 ---
@@ -33,3 +18,5 @@ The finding that simple statistical models often outperform expert judgment acro
 ## Silver's Argument
 
 Silver argues for a hybrid approach (Chapter 9) that leverages both human intuition and computer models, rather than abandoning expertise entirely.
+
+See also: [[superforecasting]]

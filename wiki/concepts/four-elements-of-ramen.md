@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: ラーメンの四元素
-description: "ラーメンの品質を決定する四つの要素：スープ、麺、トッピング、アブラ油。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- cuisine
-- cooking-techniques
-sources:
-- ramen.md
-related:
-- ramen
-- kansui
-- chashu
-- aroma-oil
----
+
 --
 # ラーメンの四元素
 
@@ -37,3 +19,9 @@ related:
 ## アブラ油（Aroma Oil）
 
 味の引き立て役。唐辛子油、ゴマ油、にんにく油などがある。
+
+See also: [[ramen]]
+
+See also: [[kansui]]
+
+See also: [[chashu]]

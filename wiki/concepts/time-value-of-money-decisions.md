@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Time Value of Money Decisions
-description: "--
-Time Value of Money Decisions"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- compound-interest
-- wealth-building
-sources:
-- The Algebra of Wealth.md
-related:
-- the-algebra-of-wealth
-- rule-of-72
-- personal-finance
-- investing-strategies-for-life-satisfaction
----
+
 --
 # Time Value of Money Decisions
 
@@ -36,3 +16,9 @@ Zeit ist der mathematische Multiplikator, der moderate Sparbeträge in erheblich
 
 ## Karriere vs. Freizeit, Ausgeben vs. Investieren
 5 $-Kaffee täglich = 1.825 $/Jahr = 72.000 $ über 20 Jahre (bei Investition). Nicht um Verzicht geht es, sondern um Bewusstsein. Jahr 10-20: Einkommensmaximierung. Jahr 30+: Wohlstand genießen, weniger arbeiten.
+
+See also: [[the-algebra-of-wealth]]
+
+See also: [[rule-of-72]]
+
+See also: [[personal-finance]]

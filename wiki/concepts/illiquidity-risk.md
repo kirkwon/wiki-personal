@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Illiquidity Risk
-description: "Illiquidity risk is the inability or danger that alternative investments cannot be sold quickly or at a fair price."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- finance
-- risk-management
-- investing
-- alternative-investments
-- personal-finance
-sources:
-- Alternative Investments.md
-related:
-- alternative-investments
-- real-estate-investment
-- private-equity
-- risk-assessment-framework
-- risk-management
-- diversification
----
+
 --
 # Illiquidity Risk
 
@@ -54,3 +32,9 @@ The illiquidity of alternatives is a key reason for limiting alternative allocat
 - [[concentration-risk]]
 - [[risk-management]]
 - [[diversification]]
+
+See also: [[real-estate-investment]]
+
+See also: [[private-equity]]
+
+See also: [[risk-assessment-framework]]

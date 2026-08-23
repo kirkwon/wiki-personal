@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Espresso Machine（压力咖啡机）
-description: "--
-Espresso Machine（压力咖啡机）"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- equipment
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- portafilter-手柄
-- tamper-压粉器
-- espresso-pressure-profiling
----
+
 --
 # Espresso Machine（压力咖啡机）
 
@@ -39,3 +21,9 @@ related:
 ## 高级功能
 
 部分机型支持 [[espresso-pressure-profiling]]（压力曲线）和预浸泡功能，可精细控制萃取过程的风味表现。
+
+See also: [[espresso-意大利浓缩咖啡]]
+
+See also: [[portafilter-手柄]]
+
+See also: [[tamper-压粉器]]

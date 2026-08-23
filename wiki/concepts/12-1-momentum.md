@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 12-1 Momentum
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- investing
-- momentum
-- metrics
-sources:
-- momentum-strategy.md
-related:
-- momentum-strategy
-- factor-investing
-- cross-sectional-momentum
-- time-series-momentum
----
+
 -
 # 12-1 Momentum
 
@@ -45,3 +28,11 @@ The most recent month is excluded because it often contains reversal signals. In
 - **Time-Series Momentum**: Compares an asset to its own past performance
 - [[dual-momentum]]: Applies momentum logic to asset classes rather than individual stocks
 ---
+
+See also: [[momentum-strategy]]
+
+See also: [[factor-investing]]
+
+See also: [[cross-sectional-momentum]]
+
+See also: [[time-series-momentum]]

@@ -1,13 +1,4 @@
----
-date: 2026-06-13
-type: concept
-title: Validation of Mental Models
-created: 2026-06-13
-updated: 2026-06-13
-tags: [validation, mental-models, critical-thinking]
-related: [mental-models, peer-review, incremental-validation, social-validation, design-experiments]
-sources: ["research-validation-of-mental-models-2026-06-13-065345.md"]
----
+
 # Validation of Mental Models
 Validation of mental models is the process of testing and refining mental models to ensure their accuracy and reliability. This page provides an overview of the methods for validating mental models, including peer review, incremental validation, social validation, and design experiments.
 
@@ -30,3 +21,13 @@ Design experiments involve designing tests to validate the mental model, conduct
 ## References
 [[research-validation-of-mental-models-2026-06-13-065345.md]]
 ---
+
+See also: [[mental-models]]
+
+See also: [[peer-review]]
+
+See also: [[incremental-validation]]
+
+See also: [[social-validation]]
+
+See also: [[design-experiments]]

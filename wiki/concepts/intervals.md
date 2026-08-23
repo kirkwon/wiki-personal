@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Intervals
-description: "An interval is the distance between two pitches."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- music
-- theory
-- intervals
-sources:
-- music-theory-fundamentals.md
-related:
-- music-theory-fundamentals
-- jazz-harmony
-- major-and-minor-scales
-- ear-training
----
+
 --
 # Intervals
 
@@ -41,3 +23,7 @@ An interval is the distance between two pitches. Intervals are foundational to u
 - **Minor 7th**: 10 half-steps (C to Bb)
 
 Intervals form the building blocks of chords—triads are constructed from a root, a third (major or minor), and a fifth (perfect or diminished/augmented). Intervals also form the building blocks for triads and seventh chords, which are essential for [[jazz-harmony]] and [[chord-voicings]]. Regular practice of interval recognition is a core component of [[ear-training]].
+
+See also: [[music-theory-fundamentals]]
+
+See also: [[major-and-minor-scales]]

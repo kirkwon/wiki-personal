@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 大蒜
-description: "大蒜是中餐芳香基底'圣三一'的关键成员，辛香浓郁，辛辣、鲜味、芳香，几乎可用于所有烹饪场景。通过不同时间加入可产生不同深度的风味。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- ingredient
-- aromatics
-- chinese-cuisine
-sources:
-- Aromatics.md
-related:
-- aromatics-the-holy-trinity
-- ginger
-- scallion
-- wok-hei
-- stir-fry
-- stir-fry-technique
-- marinades
----
+
 --
 # 大蒜（Garlic）
 
@@ -54,3 +33,9 @@ related:
 ## 相关页面
 [[aromatics-the-holy-trinity]] | [[ginger]] | [[scallion]] | [[wok-hei]]
 ^[raw/articles/Aromatics.md]
+
+See also: [[stir-fry]]
+
+See also: [[stir-fry-technique]]
+
+See also: [[marinades]]

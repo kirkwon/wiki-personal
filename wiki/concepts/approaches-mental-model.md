@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Approaches Mental Model
-description: "--
-Approaches Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-science
-- decision-making
-sources:
-- Approaches.md
-related:
-- thinking-mental-model
-- solutions-mental-model
-- overview
-- stillness
-- group
-- planning
-- edward-de-bono
----
+
 --
 # Approaches Mental Model
 
@@ -47,3 +25,5 @@ Approaches connects to several existing mental models in the wiki:
 ## Confidence
 
 Confidence is rated at 0.7 with medium priority, indicating the model is broadly defined and consistent with other mental models in the wiki but would benefit from additional source development.
+
+See also: [[edward-de-bono]]

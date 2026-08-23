@@ -1,28 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Four Actions Framework
-description: "--
-Four Actions Framework"
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- strategy
-- business
-- mental-models
-- market-strategy
-sources:
-- Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne.md
-- Blue Ocean Strategy - W Chan Kim  Renee Mauborgne.md
-related:
-- blue-ocean-strategy
-- strategy-canvas
-- six-paths-framework
-- value-innovation
-- strategy-canvas-analysis
-- six-paths-framework-for-market-boundary-reconstruction
-- value-innovation-analysis
----
+
 --
 # Four Actions Framework
 
@@ -41,3 +17,9 @@ By answering these four questions, a company can break away from the existing co
 - [[six-paths-framework]] – Where to look for blue ocean opportunities
 - [[value-innovation]] – The outcome of applying the four actions
 - [[non-customer-analysis]] – Informing which actions create new demand
+
+See also: [[strategy-canvas-analysis]]
+
+See also: [[six-paths-framework-for-market-boundary-reconstruction]]
+
+See also: [[value-innovation-analysis]]

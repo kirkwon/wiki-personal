@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Johnnie Walker Black
-description: "--
-Johnnie Walker Black"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- spirits
-- scotch
-- whisky
-- tasting
-- beverages
-sources:
-- Whisky Tasting Notes.md
-related:
-- spirits-index
-- scotch
-- whisky-tasting-notes
-- whisky-tasting-methodology
----
+
 --
 # Johnnie Walker Black
 
@@ -45,3 +24,7 @@ Moderate sweetness (★★★) with low spice (★) and complexity (★★). Des
 ## Related
 
 See [[spirits-index]] and [[scotch]].
+
+See also: [[whisky-tasting-notes]]
+
+See also: [[whisky-tasting-methodology]]

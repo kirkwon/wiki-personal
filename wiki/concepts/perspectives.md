@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Perspectives
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-- decision-making
-sources:
-- Perspectives.md
-related:
-- six-thinking-hats
-- six-thinking-hats---edward-de-bono
+edward-de-bono
 - thinking-mental-model
 - decision-making-frameworks
 - two-views-of-decision-kahneman-vs-klein
@@ -53,3 +39,5 @@ Perspectives overlaps with and connects to several existing mental models in the
 - Are there additional perspective-taking frameworks beyond Six Thinking Hats worth documenting?
 - How can the model be made more concrete with additional sources and examples?
 ---
+
+See also: [[six-thinking-hats]]

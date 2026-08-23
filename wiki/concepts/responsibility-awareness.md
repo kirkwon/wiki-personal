@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-title: Responsibility Awareness
-created: 2026-05-03
-updated: 2026-05-03
-type: concept
-tags:
-- psychology
-- meaning
-- responsibility
-- commitment
-- purpose
-sources:
-- Mans Search for Meaning - Viktor Frankl.md
-related:
-- viktor-frankl
-- meaning-finding-framework
-- logotherapy
-- responsibility-awareness
----
+
 -
 # Responsibility Awareness
 
@@ -31,3 +12,7 @@ The concept that meaning is found through taking responsibility and committing t
 ## Connection to Other Concepts
 Connects to [[meaning-finding-framework]] as one of the three primary avenues for discovering meaning. Relates to [[responsibility-awareness]] as a complement in the wiki's decision-making and growth-oriented content.
 ---
+
+See also: [[viktor-frankl]]
+
+See also: [[logotherapy]]

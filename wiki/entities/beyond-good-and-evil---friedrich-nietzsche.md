@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: entity
-title: Beyond Good and Evil - Friedrich Nietzsche
-description: "Beyond Good and Evil - Friedrich Nietzsche"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- person
-- morality
-sources:
-- beyond-good-and-evil
-- Beyond Good and Evil - Friedrich Nietzsche
-related: [master-vs-slave-morality, will-to-power, ressentiment, genealogical-analysis-of-morality, free-spirit-nietzsche, revaluation-of-all-values, death-of-god-nietzsche, ubermensch]
----
+
 # Beyond Good and Evil - Friedrich Nietzsche
 
 Friedrich Nietzsche's *Beyond Good and Evil* (1886) is one of the most influential works of moral philosophy. The book systematically challenges the assumptions of Western moral thought, arguing that philosophers are motivated by personal convictions rather than objective truth, and that traditional morality—particularly Christianity—emerges from historical circumstances like ressentiment rather than divine command.
@@ -34,3 +19,21 @@ Nietzsche's ideas connect to [[skin-in-the-game]] through emphasis on accountabi
 ## Caution
 
 Nietzsche's critique can become nihilism or justify harmful behavior if applied without ethical restraint. The "when to stop" conditions in the source warn against using philosophy to avoid responsibility or justify cruelty.
+
+Sources: [[Beyond Good and Evil - Friedrich Nietzsche]]
+
+See also: [[master-vs-slave-morality]]
+
+See also: [[will-to-power]]
+
+See also: [[ressentiment]]
+
+See also: [[genealogical-analysis-of-morality]]
+
+See also: [[free-spirit-nietzsche]]
+
+See also: [[revaluation-of-all-values]]
+
+See also: [[death-of-god-nietzsche]]
+
+See also: [[ubermensch]]

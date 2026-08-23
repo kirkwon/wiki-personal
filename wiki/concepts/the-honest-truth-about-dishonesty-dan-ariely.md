@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Honest Truth About Dishonesty - Dan Ariely
-description: "--
-The Honest Truth About Dishonesty"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- behavioral-economics
-- dishonesty
-- ethics
-sources:
-- Behavior.md
-related:
-- dan-ariely
-- cognitive-biases-library
-- decision-making-under-uncertainty
----
+
 --
 # The Honest Truth About Dishonesty
 
@@ -30,3 +11,5 @@ related:
 - Understanding dishonesty patterns helps design better systems
 
 This work connects to [[cognitive-biases-library]] and [[decision-making-under-uncertainty]], illustrating how predictable irrationality shapes ethical behavior.
+
+See also: [[dan-ariely]]

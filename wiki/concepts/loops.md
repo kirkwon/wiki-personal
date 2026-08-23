@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Loops
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- systems-thinking
-- decision-making
-sources:
-- Loops.md
-related:
-- donella-meadows
-- limits-to-growth
-- planning
-- solutions
-- brain-mental-model
-- theory-as-a-mental-model
-- swan-mental-model
-- effort
----
+
 -
 # Loops
 
@@ -54,3 +33,5 @@ Loops connects to several existing mental models in the wiki:
 
 ---
 ---
+
+See also: [[solutions]]

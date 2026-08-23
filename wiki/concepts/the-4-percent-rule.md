@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The 4% Rule
-description: "A widely used retirement withdrawal guideline stating that you can safely withdraw 4% of your portfolio annually in retirement without running out of money over a 30-year period."
-created: 2026-04-29
-updated: 2026-05-09
-tags:
-- personal-finance
-- retirement
-- investing
-sources:
-- I Will Teach You to Be Rich.md
-related:
-- freedom-number
-- retirement-planning
-- index-fund-investing-passive
-- personal-finance
-- real-estate-investment
----
+
 --
 # The 4% Rule
 
@@ -45,3 +26,5 @@ The Freedom Number is directly derived from the 4% Rule. Sethi uses this to refr
 ## See Also
 [[freedom-number]] | [[retirement-planning]] | [[index-fund-investing-passive]] | [[personal-finance]]
 ^[raw/articles/I Will Teach You to Be Rich.md]
+
+See also: [[real-estate-investment]]

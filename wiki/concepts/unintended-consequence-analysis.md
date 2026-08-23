@@ -1,21 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: Unintended Consequence Analysis
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- mental-models
-- systems-thinking
-- decision-making
-sources:
-- The Systems Bible - John Gall.md
-related:
-- the-systems-bible-john-gall
-- fundamental-theorem-of-systems
-- gall-s-law
-- decision-making-frameworks
----
+
 -
 # Unintended Consequence Analysis
 
@@ -37,3 +20,9 @@ This concept is central to [[fundamental-theorem-of-systems]] ("New systems gene
 ## Practical Application
 When planning any system change—software, organizational, process, or policy—dedicate explicit time to identifying unintended consequences. This single practice can prevent many of the most costly system failures.
 ---
+
+See also: [[the-systems-bible-john-gall]]
+
+See also: [[gall-s-law]]
+
+See also: [[decision-making-frameworks]]

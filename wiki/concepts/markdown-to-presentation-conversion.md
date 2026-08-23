@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Markdown to Presentation Conversion
-description: "--
-Markdown to Presentation Conversion"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- markdown
-- presentation
-- slides
-- documentation
-- visual-design
-sources:
-- MARP Presentation Creation.md
-related:
-- marp-presentation-creation
-- framework-template
-- markdown-documentation
-- knowledge-synthesis
----
+
 --
 # Markdown to Presentation Conversion
 
@@ -61,3 +40,5 @@ MARP supports HTML (web viewing), PDF (sharing/printing), and PNG (individual sl
 - [[framework-template]] — Template structures for documentation
 - [[markdown-documentation]] — Structured writing in Markdown
 - [[visual-design]] — Creating clear, hierarchical layouts
+
+See also: [[knowledge-synthesis]]

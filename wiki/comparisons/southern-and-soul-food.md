@@ -1,20 +1,4 @@
----
-created: 2026-04-24
-sources:
-- southern-soul-food.md
-tags:
-- cuisine
-- comfort-food
-- gastronomy
-date: 2026-04-24
-title: Southern and Soul Food
-description: "Southern and Soul Food"
-type: comparison
-updated: 2026-05-09
-related:
-- southern-soul-food
-- comfort-food
----
+
 --
 
 # Southern and Soul Food
@@ -249,3 +233,5 @@ Both traditions share cast iron cooking, fried foods, and slow-cooked dishes, bu
 4. **Bake cornbread** - Buttermilk skillet
 
 **Remember**: Southern cooking is about comfort and community. Cook with love, share generously, and embrace tradition.
+
+See also: [[comfort-food]]

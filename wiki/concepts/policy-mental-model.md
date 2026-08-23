@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Policy as a Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Policy.md
-- how-the-economic-machine-works
-- Policy as a Mental Model
----
+
 -ray-dalio"]
 related: [how-the-economic-machine-works---ray-dalio, planning, settings, environment, decisions]
 confidence: medium
@@ -46,3 +33,5 @@ Policy connects to several existing mental models in the wiki:
 ## Confidence
 
 0.7 — the model is moderately established but currently underdeveloped, with only one source (Dalio) providing substantive context.^[raw/articles/Policy.md]
+
+Sources: [[how-the-economic-machine-works]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Call Option
-description: "Call Option είναι ένα διαφορικό σύμβολο (option) που δίνει το δικαίωμα, αλλά όχι την υποχρέωση, να αγοράσετε ένα πέρασμα σε ένα προκαθορισμένο strike price μέχρι την ημερομηνία expiration."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-sources:
-- Options Trading.md
-related:
-- options-trading
-- covered-call
-- put-option
-- risk-management
----
+
 --
 # Call Option
 
@@ -41,3 +23,5 @@ Call Option είναι ένα διαφορικό σύμβολο (option) που 
 - [[put-option]]
 - [[covered-call]]
 - [[options-trading]]
+
+See also: [[risk-management]]

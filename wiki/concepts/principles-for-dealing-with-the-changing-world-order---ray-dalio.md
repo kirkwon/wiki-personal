@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: source
-title: Principles for Dealing with the Changing World Order - Ray Dalio
-description: "-
-Principles for Dealing with the Changing World Order - Ray Dalio"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- books
-- economics
-- mental-model
-- decision-making
-related:
-- principles ---ray-dalio
+ray-dalio
 - how-the-economic-machine-works---ray-dalio
 - world-mental-model
 - markets
@@ -35,3 +21,5 @@ Ray Dalio's *Principles for Dealing with the Changing World Order* examines macr
 
 ## Connections
 This concept is referenced in the [[investors]] mental model and relates to [[how-the-economic-machine-works---ray-dalio]], [[markets]], [[skin-in-the-game]], and the [[world-mental-model]].
+
+See also: [[principles]]

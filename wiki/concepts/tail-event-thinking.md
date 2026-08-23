@@ -1,24 +1,9 @@
----
-date: 2026-04-29
-type: concept
-title: Tail Event Thinking
-description: "--
-Tail Event Thinking"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- risk-management
-sources:
-- The Psychology of Money.md
-related:
-- margin-of-safety-financial
-- risk-management
-- scenario-planning
----
+
 --
 # Tail Event Thinking
 
 Assume rare events will happen. Prepare for financial shocks. Don't assume average outcomes.^[raw/articles/The Psychology of Money.md]
 
 This practice connects to scenario planning [[scenario-planning]] and the margin of safety principle [[margin-of-safety-financial]]. By planning for worst-case scenarios rather than average outcomes, you build resilience against the unexpected.
+
+See also: [[risk-management]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Empathy and Mental Models of Others
-description: "--
-Empathy and Mental Models of Others"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- communication
-- empathy
-- decision-making
-sources:
-- The Great Mental Models Vol 1 - Shane Parrish.md
-related:
-- effective-listening
-- communication-skills
-- superforecasting
-- mental-models
----
+
 --
 # Empathy and Mental Models of Others
 
@@ -30,3 +10,5 @@ Parrish argues that true empathy goes beyond feeling what others feel — it req
 
 ## Connections
 Relates to [[effective-listening]], [[communication-skills]], and [[superforecasting]]'s emphasis on considering diverse perspectives.
+
+See also: [[mental-models]]

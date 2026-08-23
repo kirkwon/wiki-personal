@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Will - Mark Manson
-description: "Will (2024) by Mark Manson is a book about the pursuit of authentic happiness through meaning, vulnerability, and alignment with core values rather than through external achievement or possessions."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- books
-- psychology
-- happiness
-- decision-making
-- philosophy
-- meaning
-sources:
-- will
-- Will - Mark Manson
-related: [paradox-of-choice, fear-of-missing-out-fomo, illusion-of-control, science-of-forgiveness, importance-of-community, embracing-failure-for-personal-growth, balancing-ambition-with-well-being, will-to-meaning, logotherapy, tragic-optimism, science-of-joy]
----
+
 # Will - Mark Manson
 
 *Will* (2024) by Mark Manson is a book about the pursuit of authentic happiness through meaning, vulnerability, and alignment with core values rather than through external achievement or possessions. Manson argues that traditional approaches to happiness—pursuing pleasure, success, or positive thinking—are misguided, and that true well-being comes from embracing vulnerability, confronting suffering, and finding meaning.
@@ -41,3 +23,7 @@ Manson's work is deeply informed by Viktor Frankl's philosophy. Like Frankl, Man
 - The importance of confronting difficult truths
 
 The book synthesizes these ideas into a framework for living intentionally, connecting to broader themes in [[paradox-of-choice]], [[fear-of-missing-out-fomo]], [[illusion-of-control]], [[science-of-forgiveness]], [[importance-of-community]], [[embracing-failure-for-personal-growth]], [[balancing-ambition-with-well-being]], [[will-to-meaning]], [[logotherapy]], and [[tragic-optimism]].
+
+Sources: [[will]]
+
+See also: [[science-of-joy]]

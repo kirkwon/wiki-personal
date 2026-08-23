@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Sushi Freshness Indicators
-description: "--
-Sushi Freshness Indicators (鮮度の指標)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- sushi
-- sashimi
-- fish
-- quality
-sources:
-- sushi-sashimi.md
-related:
-- sushi-grade-fish
-- sashimi-fish-guide
-- sushi-tools
----
+
 --
 # Sushi Freshness Indicators (鮮度の指標)
 
@@ -45,3 +25,5 @@ related:
 
 - [[sushi-grade-fish]] - sushi-gradeの定義
 - [[sashimi-fish-guide]] - 季節の魚
+
+See also: [[sushi-tools]]

@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Fresh vs. Dried Pasta
-description: "--
-Fresh vs. Dried Pasta"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- technique
-- cooking
-- italian
-sources:
-- pasta.md
-related:
-- italian-pasta
-- al-dente-technique
----
+
 --
 # Fresh vs. Dried Pasta
 
@@ -42,3 +25,7 @@ The distinction between fresh (pasta fresca) and dried (pasta secca) pasta is fu
 Basic recipe: flour (all-purpose or semolina), eggs (2 per cup of flour), pinch of salt. Mound flour, make a well, crack eggs in, mix gradually incorporating flour, knead 10 minutes until smooth, rest 30 minutes, roll thin, cut into desired shape.
 
 [[wikilink-italian-pasta]] | [[wikilink-al-dente-technique]]
+
+See also: [[italian-pasta]]
+
+See also: [[al-dente-technique]]

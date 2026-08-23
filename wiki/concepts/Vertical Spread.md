@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Vertical Spread
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- risk-management
-sources:
-- Options Trading.md
-related:
-- options
-- iron-condor
-- bull-call-spread
-- bear-put-spread
----
+
 -
 # Vertical Spread
 
@@ -38,3 +21,11 @@ A vertical spread is an options strategy where you buy an option and sell anothe
 ## Χρήση
 Περιορισμένος κίνδυνος, ακτινικός κίνδυνος κατεύθυνσης.
 ---
+
+See also: [[options]]
+
+See also: [[iron-condor]]
+
+See also: [[bull-call-spread]]
+
+See also: [[bear-put-spread]]

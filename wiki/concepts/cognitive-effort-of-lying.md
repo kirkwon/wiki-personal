@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Cognitive Effort of Lying
-description: "Cognitive Effort of Lying"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- neuroscience
-- psychology
-- behavioral-economics
-sources:
-- the-honest-truth-about-dishonesty
-- Cognitive Effort of Lying
-related: [dual-process-theory, dishonesty-experiments, self-image-and-morality]
----
+
 # Cognitive Effort of Lying
 
 Neuroscientific evidence showing that lying requires significantly more cognitive resources than truth-telling, with distinct neural correlates distinguishing honest and dishonest actions.
@@ -27,3 +12,7 @@ Neuroscientific evidence showing that lying requires significantly more cognitiv
 ## Connections
 
 This concept connects to [[dual-process-theory]]: lying engages deliberate, effortful processing (System 2), while honest behavior can rely more on automatic responses (System 1). It also relates to [[dishonesty-experiments]], where the cognitive cost of lying helps explain why people cheat only to a limited extent.
+
+Sources: [[the-honest-truth-about-dishonesty]]
+
+See also: [[self-image-and-morality]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: "Specific Risk"
-description: "--
-Σαπα longstanding Κίνδυνος"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- risk-management
-- specific-risk
-sources:
-- Risk Management.md
-related:
-- diversification
-- position-sizing
-- risk-management
----
+
 --
 # Σαπα longstanding Κίνδυνος
 
@@ -26,3 +8,9 @@ related:
 - Διασέλιξη μεταξύ επιχειρήσεων
 - Διασέλιξη μεταξύ κλάδων
 - Περιορισμός μεγέθους θέσεων
+
+See also: [[diversification]]
+
+See also: [[position-sizing]]
+
+See also: [[risk-management]]

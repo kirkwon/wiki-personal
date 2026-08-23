@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Espresso（意大利浓缩咖啡）
-description: "浓缩咖啡（Espresso）是一种通过在高压下将接近沸腾的水通过细磨咖啡粉萃取而成的高度浓缩咖啡饮品。其核心特征是浓郁、强烈的咖啡风味和表面特征性的红棕色油脂层（crema）。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- technique
-- equipment
-sources:
-- Espresso.md
-related:
-- coffee
-- arabica-coffee-coffea-arabica
-- robusta-vs-arabica
-- french-press-coffee-法压壶咖啡
-- pour-over-coffee
-- coffee-bean-processing-咖啡豆处理
-- coffee-roasting-咖啡烘焙
-- bloom-technique-闷蒸技术
----
+
 --
 # Espresso（意大利浓缩咖啡）
 
@@ -53,3 +31,17 @@ related:
 ## 参考资料
 
 参见 [[coffee]] 了解咖啡全链路。
+
+See also: [[arabica-coffee-coffea-arabica]]
+
+See also: [[robusta-vs-arabica]]
+
+See also: [[french-press-coffee-法压壶咖啡]]
+
+See also: [[pour-over-coffee]]
+
+See also: [[coffee-bean-processing-咖啡豆处理]]
+
+See also: [[coffee-roasting-咖啡烘焙]]
+
+See also: [[bloom-technique-闷蒸技术]]

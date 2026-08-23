@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Yield Trap
-description: "A yield trap occurs when a high headline yield masks return of capital (ROC) distributions, resulting in principal erosion rather than genuine income."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- tax
-- investments
-- taxation
-sources:
-- Return of Capital.md
-related:
-- return-of-capital
-- mutual-funds-vs-etfs-in-taxable-accounts
-- tax-torpedoes-in-retirement
-- cost-basis
----
+
 --
 
 # Yield Trap
@@ -69,3 +49,5 @@ If a fund pays a 10% distribution and 60% of it is ROC:
 
 ## See Also
 [[return-of-capital]], [[cost-basis]], [[tax-torpedoes-in-retirement]]
+
+See also: [[mutual-funds-vs-etfs-in-taxable-accounts]]

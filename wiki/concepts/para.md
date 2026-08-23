@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: PARA
-description: "PARA is a personal knowledge management mental model that divides all information into four categories: Projects (current active work), Areas (ongoing responsibilities), Resources (topics of interest)."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- knowledge-management
-sources:
-- Para.md
-related:
-- building-a-second-brain---tiago-forte
+tiago-forte
 - personal-knowledge-vault
 - personal-knowledge-vault-readme
 - world-disclosure
@@ -35,3 +21,5 @@ Tiago Forte presents PARA as a method to simplify, organize, and master digital 
 ## Related Concepts
 
 PARA connects to broader knowledge management practices including [[personal-knowledge-vault]], [[building-a-second-brain---tiago-forte]], and note-taking frameworks like [[world-disclosure]] and [[how-to-take-smart-notes---snke-ahrens]].
+
+See also: [[building-a-second-brain]]

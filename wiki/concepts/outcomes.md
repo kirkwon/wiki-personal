@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Outcomes (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-biases
-sources:
-- Outcomes.md
-related:
-- decision-quality-vs-outcome-quality
-- decision-making-frameworks
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - thinking-in-bets---annie-duke
 - the-checklist-manifesto---atul-gawande
 - the-art-of-thinking-clearly---rolf-dobelli
@@ -40,3 +25,9 @@ The model provides a lens for understanding how outcomes emerge from complex int
 
 Confidence: 0.7 — the model is supported by cross-source convergence but remains a stub that aggregates references rather than presenting original analysis.
 ---
+
+See also: [[decision-quality-vs-outcome-quality]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[thinking-fast-and-slow]]

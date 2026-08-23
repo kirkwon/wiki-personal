@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Asset Protection
-description: "Shielding assets from creditors, lawsuits, and divorce through trust structures and legal strategies."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-sources:
-- Trusts Guide.md
-related:
-- domestic-asset-protection-trust-dapt
-- irrevocable-trusts
-- trusts-guide
----
+
 --
 # Asset Protection
 
@@ -38,3 +21,7 @@ Shielding assets from creditors, lawsuits, and divorce through trust structures 
 - Professional guidance essential for compliance
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[domestic-asset-protection-trust-dapt]]
+
+See also: [[irrevocable-trusts]]

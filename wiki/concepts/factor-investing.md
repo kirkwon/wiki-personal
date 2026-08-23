@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Factor Investing
-description: "Factor investing is a systematic approach to selecting stocks based on attributes (factors) that have historically provided excess returns."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- investing
-- factors
-- quantitative
-- systematic
-sources:
-- factor-investing.md
-related:
-- momentum-strategy
-- value-investing
-- small-cap-premium
-- modern-portfolio-theory
-- risk-management
----
+
 --
 # Factor Investing
 
@@ -72,3 +51,11 @@ Factors can underperform for extended periods (3-10 years). Momentum crashes and
 - [[mean-reversion-strategy]] – Opposite of momentum
 - [[statistical-arbitrage]] – More advanced factor-based strategies
 - [[quant-strategy]] – Systematic, data-driven investment approaches
+
+See also: [[value-investing]]
+
+See also: [[small-cap-premium]]
+
+See also: [[modern-portfolio-theory]]
+
+See also: [[risk-management]]

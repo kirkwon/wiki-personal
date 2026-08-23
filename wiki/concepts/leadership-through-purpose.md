@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Leadership Through Purpose
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- leadership
-- philosophy
-- mental-model
-sources:
-- Find Your Why - Simon Sinek.md
-related:
-- purpose
-- golden-circle
-- infinite-game-mindset
-- grit-concept
----
+
 -
 # Leadership Through Purpose
 
@@ -42,3 +25,7 @@ Inspiring leaders communicate from the inside out—starting with their Why—ra
 ## Why It Matters Now
 In today's complex world, embracing purpose leads to more effective decision-making and helps avoid the trap of good intentions becoming empty messaging.
 ---
+
+See also: [[purpose]]
+
+See also: [[golden-circle]]

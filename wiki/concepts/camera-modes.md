@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Camera Modes
-description: "Camera modes determine how much control you have over exposure settings—specifically aperture, shutter speed, and ISO."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- fundamentals
-- camera
-- exposure
-sources:
-- photography-fundamentals.md
-related:
-- exposure-triangle
-- aperture
-- shutter-speed
-- iso
-- street-photography
-- photography-fundamentals
----
+
 --
 # Camera Modes
 
@@ -43,3 +22,11 @@ Camera selects both aperture and shutter speed. Offers some control for quick sh
 **YOU choose everything**: aperture, shutter speed, ISO. Provides complete creative control and is essential for difficult lighting situations. Requires understanding of the [[exposure-triangle]].
 
 For [[street-photography]], Aperture Priority or Shutter Priority modes are commonly recommended depending on whether depth of field or motion freezing is the priority.
+
+See also: [[aperture]]
+
+See also: [[shutter-speed]]
+
+See also: [[iso]]
+
+See also: [[photography-fundamentals]]

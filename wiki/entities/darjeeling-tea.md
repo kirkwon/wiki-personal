@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 大吉岭茶
-description: "大吉岭茶是产自印度西孟加拉邦大吉岭地区的红茶，被誉为'茶中香槟'。其标志性特征是独特的麝香葡萄风味（Muscatel），由喜马拉雅风土塑造。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- darjeeling
-- black tea
-- india
-related:
-- tea
-- 红茶
-- 茶的种类
-- 地理标志保护
-- 风土概念
-sources:
-- Darjeeling Tea.md
----
+
 --
 # 大吉岭茶
 
@@ -62,3 +42,7 @@ sources:
 
 ## 文化意义
 大吉岭茶具有地理标志保护，在殖民历史和现代文化中具有重要地位，是全球顶级茶叶之一。
+
+See also: [[tea]]
+
+See also: [[红茶]]

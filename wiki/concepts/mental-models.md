@@ -1,34 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Mental Models
-description: "Mental Models
-Mental models are simplified representations of reality, capturing the essential elements, relationships, and rules of a domain."
-created: 2026-05-03
-updated: 2026-06-13
-tags:
-- mental-models
-- decision-making
-- cognitive-science
-- learning
-- critical-thinking
-sources:
-- super-thinking
-- Mental Models
-- research-validation-of-mental-models-2026-06-13-065345.md
-related:
-- super-thinking-gabriel-weinberg
-- bayesian-thinking
-- two-views-of-decision-kahneman-vs-klein
-- cognitive-biases-library
-- decision-making-frameworks
-- personal-knowledge-vault-readme
-- validation-of-mental-models
-- peer-review
-- incremental-validation
-- social-validation
-- design-experiments
----
+
 # Mental Models
 Mental models are simplified representations of reality, capturing the essential elements, relationships, and rules of a domain. They are tools for understanding, prediction, and decision-making.
 
@@ -57,3 +27,5 @@ Mental models have a wide range of applications, including business, economics, 
 [[incremental-validation]]
 [[social-validation]]
 [[design-experiments]]
+
+Sources: [[super-thinking]]

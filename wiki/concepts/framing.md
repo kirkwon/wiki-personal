@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Framing
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-- fundamentals
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- photography-fundamentals
----
+
 -
 # Framing
 
@@ -43,3 +28,5 @@ Framing is using elements within a scene to create a "frame" around the main sub
 
 See [[composition-techniques]] for the broader context of composition techniques.
 ---
+
+See also: [[photography-fundamentals]]

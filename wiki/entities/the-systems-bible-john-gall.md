@@ -1,31 +1,4 @@
----
-date: 2026-04-17
-type: entity
-title: The Systems Bible - John Gall
-description: "--
-The Systems Bible — John Gall"
-created: 2026-04-17
-updated: 2026-05-10
-tags:
-- book
-- systems-thinking
-- books
-- mental-model
-sources:
-- The Systems Bible - John Gall.md
-- Ways.md
-- Implications.md
-related:
-- john-gall
-- gall-s-law
-- fundamental-theorem-of-systems
-- system-replacement-vs-repair
-- unintended-consequence-analysis
-- ways-mental-model
-- group
-- planning
-- implications-mental-model
----
+
 --
 # The Systems Bible — John Gall
 
@@ -64,3 +37,17 @@ Gall's systems thinking provides the foundational perspective for Ways as a conc
 
 ## When to Stop Applying
 The book warns against over-application: when analysis becomes an excuse for inaction, when simple problems are over-analyzed, or when "systems thinking" becomes a buzzword.
+
+See also: [[john-gall]]
+
+See also: [[gall-s-law]]
+
+See also: [[fundamental-theorem-of-systems]]
+
+See also: [[system-replacement-vs-repair]]
+
+See also: [[unintended-consequence-analysis]]
+
+See also: [[group]]
+
+See also: [[planning]]

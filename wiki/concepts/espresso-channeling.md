@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 通道效应
-description: "通道效应是指水流在咖啡粉床中不均匀通过，导致部分区域过度萃取、部分区域萃取不足的现象。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- technique
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- espresso-crema
-- tamper-压粉器
-- wdt-weiss-distribution-technique
----
+
 --
 # 通道效应（Channeling）
 
@@ -39,3 +22,9 @@ related:
 ## 预防
 
 通道效应的根本预防在于咖啡粉床的均匀性——从研磨、分布到压粉的每一步都要确保一致性。
+
+See also: [[espresso-意大利浓缩咖啡]]
+
+See also: [[espresso-crema]]
+
+See also: [[tamper-压粉器]]

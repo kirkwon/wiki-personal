@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Judgments
-description: "Judgments is a universal mental model—a conceptual shortcut for navigating complex situations through pattern recognition and relationship mapping."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-- biases
-sources:
-- Judgments.md
-related:
-- biases
-- decision-making-frameworks
-- thinking-fast-and-slow---daniel-kahneman
+daniel-kahneman
 - the-art-of-thinking-clearly---rolf-dobelli
 - cognitive-biases-library
 - decision-quality-vs-outcome-quality
@@ -60,3 +43,5 @@ Judgments is applicable universally—across professional decisions, personal ch
 - [[decision-making-frameworks]] - Frameworks for improving decision quality
 - [[thinking-fast-and-slow---daniel-kahneman]] - Kahneman's dual process theory
 - [[noise-a-flaw-in-human-judgment]] - Kahneman's work on noise specifically
+
+See also: [[thinking-fast-and-slow]]

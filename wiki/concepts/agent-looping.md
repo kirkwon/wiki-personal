@@ -1,13 +1,4 @@
----
-date: 2026-06-16
-type: concept
-title: Agent Looping
-created: 2026-06-16
-updated: 2026-06-16
-tags: [ai, software-development]
-related: [critic-separation, ai-assisted-software-development]
-sources: ["research-implementing-critic-separation-2026-06-17-052850.md"]
----
+
 # Agent Looping
 Agent Looping is the practice of designing the execution cycles AI agents run through to complete tasks. It focuses on how an agent perceives its environment, reasons about next steps, takes action, and decides whether to continue or stop. A well-engineered loop has four properties: a defined termination condition, observable intermediate states, defined retry logic, and a recovery path when the agent gets stuck.
 
@@ -27,3 +18,5 @@ The use of Agent Looping provides several benefits, including:
 1. **Improved Reliability**: Agent Looping can help improve the reliability of AI systems by identifying potential issues and providing objective verification.
 2. **Increased Efficiency**: Agent Looping can help increase the efficiency of AI systems by automating the review and validation process.
 3. **Enhanced Security**: Agent Looping can help enhance the security of AI systems by identifying potential security vulnerabilities and providing recommendations for remediation.
+
+See also: [[critic-separation]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-title: Special Purpose Trusts
-created: 2026-04-24
-updated: 2026-05-09
-type: concept
-tags:
-- estate-planning
-- trusts
-- special-needs
-- personal-finance
-sources:
-- raw/ingested/Personal Finance/Trusts Guide.md
-- Trusts Guide.md
-related:
-- irrevocable-trusts
-- dynasty-trust
-- special-needs-trust
-- asset-protection
-- trusts-guide
----
+
 -
 
 # Special Purpose Trusts
@@ -540,3 +520,9 @@ Provide for the care of pets after the owner's death. These trusts ensure animal
 
 ---
 *Split from [[trusts-guide]] during wiki cleanup*
+
+See also: [[irrevocable-trusts]]
+
+See also: [[dynasty-trust]]
+
+See also: [[special-needs-trust]]

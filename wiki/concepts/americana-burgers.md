@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Americana Burgers
-description: "Burger to amerykański ikona — prosty koncept podniesiony do rangi sztuki."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- american
-- burgers
-- comfort-food
-- technique
-related:
-- Maillard-reaction
-- wok-hei
-- american-cuisine
-sources:
-- burgers.md
----
+
 --
 # Americana Burgers
 
@@ -86,3 +68,7 @@ Rekomendowana metoda — daje najlepszy kruszt dzięki [[maillard-reaction]] i r
 Shake Shack, In-N-Out, Culver's — regionalne lokale z własnymi stylami. Gourmet burgery warto szukać z mielonym mięsem na miejscu, lokalnymi bułkami i kreatywnymi, ale nie gimmickowymi dodatkami.
 
 Dalsza lektura: "Burger: A History" Josh Ozersky, "The Burger Lab" J. Kenji López-Alt.
+
+See also: [[wok-hei]]
+
+See also: [[american-cuisine]]

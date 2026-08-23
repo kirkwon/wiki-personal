@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Forte (Mental Model)
-description: "--
-Forte (Mental Model)"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- knowledge-management
-related:
-- building-a-second-brain---tiago-forte
+tiago-forte
 - the-para-method-simplify-organize-and-master-your-digital-life---tiago-forte
 - personal-knowledge-vault
 - recipes-mental-model
@@ -47,3 +34,5 @@ Forte connects to several existing mental models in the wiki:
 - **Applicability**: Universal
 - **Domains**: General
 - **Confidence**: 0.7 — the evidence is conceptual/theoretical rather than empirical, relying on the popularity and utility of Forte's frameworks
+
+See also: [[building-a-second-brain]]

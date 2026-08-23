@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Zero to One - Peter Thiel & Blake Masters
-description: "--
-Zero to One - Peter Thiel & Blake Masters"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- business
-- innovation
-sources:
-- Industries.md
-related:
-- industries
-- markets
-- business
-- infinite-game-mindset
----
+
 --
 # Zero to One - Peter Thiel & Blake Masters
 
@@ -32,3 +13,9 @@ related:
 ## Connection to Industries Mental Model
 
 Thiel's framework contributes to [[industries]] by reframing "industry" as something that can be invented rather than merely analyzed. This adds an entrepreneurial dimension to the mental model—industries are not just structures to observe but opportunities to create.^[raw/articles/Industries.md]
+
+See also: [[markets]]
+
+See also: [[business]]
+
+See also: [[infinite-game-mindset]]

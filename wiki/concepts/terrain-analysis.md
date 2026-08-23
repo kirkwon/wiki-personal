@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Terrain Analysis
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-- decision-making
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - situation
 - positioning
 - water-as-strategy
@@ -33,3 +20,5 @@ Connects to [[planning]] (terrain is a factor in strategic assessment), [[enviro
 ## Application
 Before any strategic decision, map your terrain: what advantages do you hold? Where are the chokepoints? What ground is contested? Where is the high ground?
 ---
+
+See also: [[the-art-of-war]]

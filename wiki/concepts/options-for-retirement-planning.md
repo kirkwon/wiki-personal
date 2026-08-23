@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Options for Retirement Planning
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- options
-- retirement
-sources:
-- Options Trading Guide.md
-related:
-- leaps-long-term-equity-anticipation-securities
-- covered-calls
-- credit-spreads
-- protective-puts
-- retirement-planning
----
+
 -
 # Options for Retirement Planning
 
@@ -53,3 +34,13 @@ Options strategies can enhance retirement portfolios through income generation, 
 
 Options should be integrated into overall retirement planning with attention to tax implications and account restrictions.^[raw/articles/Options Trading Guide.md]
 ---
+
+See also: [[leaps-long-term-equity-anticipation-securities]]
+
+See also: [[covered-calls]]
+
+See also: [[credit-spreads]]
+
+See also: [[protective-puts]]
+
+See also: [[retirement-planning]]

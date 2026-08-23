@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 'Resource: Wok Cooking Masterclass'
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking
-- resource
-- wok
-- technique
-- gastronomy
-sources:
-- Gastronomy.md
-related:
-- wok-cooking
-- wok-hei
-- maillard-reaction
----
+
 -
 # Resource: Wok Cooking Masterclass
 
@@ -31,3 +13,5 @@ Key topics:
 
 This resource complements [[wok-cooking]] and connects to [[recipe-perfect-stir-fry]] as a practical learning path.
 ---
+
+See also: [[maillard-reaction]]

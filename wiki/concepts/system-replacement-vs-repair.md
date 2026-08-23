@@ -1,21 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: System Replacement vs. Repair
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- mental-models
-- systems-thinking
-- decision-making
-sources:
-- The Systems Bible - John Gall.md
-related:
-- the-systems-bible-john-gall
-- gall-s-law
-- fundamental-theorem-of-systems
-- systematic-decision-making
----
+
 -
 # System Replacement vs. Repair
 
@@ -35,3 +18,11 @@ Gall cautions against endless repair cycles that never address root causes. He a
 ## Connection to Other Concepts
 This framework connects to [[decision-quality-vs-outcome-quality]]—a replacement decision should be evaluated on process quality, not just outcome. It also relates to [[decomposing-and-recombining]], since replacing a system often means decomposing it into simpler components and recombining them in a new architecture.
 ---
+
+See also: [[the-systems-bible-john-gall]]
+
+See also: [[gall-s-law]]
+
+See also: [[fundamental-theorem-of-systems]]
+
+See also: [[systematic-decision-making]]

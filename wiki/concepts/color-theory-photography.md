@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Color Theory in Photography
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- post-processing
-- golden-hour
----
+
 -
 # Color Theory in Photography
 
@@ -36,3 +21,9 @@ Color theory in photography covers color harmony and color temperature to create
 
 Understanding color theory helps photographers make intentional choices about which colors to emphasize and how to use color relationships for emotional impact.
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[post-processing]]
+
+See also: [[golden-hour]]

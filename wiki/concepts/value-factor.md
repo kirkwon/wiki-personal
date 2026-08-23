@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Value Factor
-description: "The value factor is based on the premise that stocks trading cheap relative to their fundamentals tend to outperform growth stocks over time."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- quant
-- factor
-- investing
-- value
-sources:
-- factor-investing.md
-related:
-- factor-investing
-- momentum-strategy
-- value-investing
----
+
 --
 # Value Factor
 
@@ -51,3 +33,5 @@ The value factor is one of five primary factors in [[factor-investing]], alongsi
 - [[factor-investing]]
 - [[value-investing]]
 - [[factor-crowding-rotation]]
+
+See also: [[momentum-strategy]]

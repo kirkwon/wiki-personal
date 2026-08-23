@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Focus Modes
-description: "Focus modes determine how the camera acquires and maintains focus on a subject."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- photography
-- fundamentals
-- camera
-- focus
-sources:
-- photography-fundamentals.md
-related:
-- street-photography
-- aperture
-- camera-modes
-- zone-focus
-- photography-fundamentals
----
+
 --
 # Focus Modes
 
@@ -42,3 +22,9 @@ Manual focus gives you direct control over focus distance. It is used for macro 
 - **Low Light/Night**: Manual focus
 
 See [[street-photography]] for how focus modes apply to genre-specific shooting.
+
+See also: [[camera-modes]]
+
+See also: [[zone-focus]]
+
+See also: [[photography-fundamentals]]

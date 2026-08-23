@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Transport à San Francisco
-description: "--
-Transport à San Francisco"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- bay-area
-- transportation
-sources:
-- san-francisco-city-guide.md
-related:
-- muni-sfmta
-- cable-cars
-- san-francisco
-- ford-gobike
----
+
 --
 # Transport à San Francisco
 
@@ -43,3 +23,5 @@ Ford GoBike (vélos en libre-service) et réseau de pistes cyclables protégées
 ## Ferries
 
 SF Ferry (Sausalito, Tiburon, Oakland, Alameda), Golden Gate Ferry (Sausalito), Blue & Gold Fleet (Alcatraz, Angel Island).
+
+See also: [[san-francisco]]

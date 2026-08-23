@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-title: Crises
-created: 2026-04-29
-updated: 2026-04-29
-type: concept
-tags:
-- mental-model
-- debt-cycles
-- pattern-recognition
-- decision-making
-- risk-management
-sources:
-- Crises.md
-related:
-- a-template-for-understanding-big-debt-crises---ray-dalio
+ray-dalio
 - swan-mental-model
 - conditions
 - problem
@@ -49,3 +34,5 @@ A crisis is not merely an event but a recognizable pattern: a phase in a larger 
 ## Ray Dalio's Debt Crisis Template
 The primary exemplar for this mental model is Ray Dalio's framework for understanding big debt crises, which provides a concrete template for identifying crisis stages and resolution paths.^[raw/articles/Crises.md]
 ---
+
+See also: [[a-template-for-understanding-big-debt-crises]]

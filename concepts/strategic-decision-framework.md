@@ -1,36 +1,4 @@
----
-date: 2026-06-13
 
-type: concept
-title: Strategic Decision Framework
-related:
-  - pareto-principle-80-20
-  - inversion-premortem
-  - kelly-criterion-bet-sizing
-  - via-negativa-subtraction
-  - circle-of-competence
-  - ergodicity
-  - first-principles-thinking
-  - leverage-and-randomness
-  - margin-of-safety-financial
-  - base-rate-neglect
-  - super-thinking-gabriel-weinberg
-  - first-order-and-second-order-thinking
-  - the-signal-and-the-noise
-  - tail-event-thinking
-  - reasonable-vs-rational-decisions
-ingested_via: put_page
-ingested_at: '2026-06-13T17:08:45.178Z'
-source_kind: put_page
-tags:
-  - bayesian
-  - concept
-  - decision-framework
-  - leverage
-  - methodology
-  - rubric
-  - strategy
----
 
 # Strategic Decision Framework
 
@@ -111,3 +79,33 @@ The rubric should NOT be static. After each decision, log:
 - What you missed
 
 Over time, adjust the scoring thresholds. If you're taking too many GO decisions that fail, raise the threshold. If you're skipping things that would have worked, lower it.
+
+See also: [[pareto-principle-80-20]]
+
+See also: [[inversion-premortem]]
+
+See also: [[kelly-criterion-bet-sizing]]
+
+See also: [[via-negativa-subtraction]]
+
+See also: [[circle-of-competence]]
+
+See also: [[ergodicity]]
+
+See also: [[first-principles-thinking]]
+
+See also: [[leverage-and-randomness]]
+
+See also: [[margin-of-safety-financial]]
+
+See also: [[base-rate-neglect]]
+
+See also: [[super-thinking-gabriel-weinberg]]
+
+See also: [[first-order-and-second-order-thinking]]
+
+See also: [[the-signal-and-the-noise]]
+
+See also: [[tail-event-thinking]]
+
+See also: [[reasonable-vs-rational-decisions]]

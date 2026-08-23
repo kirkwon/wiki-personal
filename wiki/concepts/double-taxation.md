@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Double Taxation
-description: "Double taxation occurs when corporate profits are taxed at the entity level and then again when distributed to shareholders as dividends."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- tax-planning
-- business-entity
-sources:
-- Company Structure Guide.md
-related:
-- pass-through-taxation
-- llc-vs-s-corp
-- c-corporation
----
+
 --
 # Double Taxation
 
@@ -39,3 +22,5 @@ In a C Corporation, the business pays corporate income tax on its profits. When 
 - [[c-corporation]] for entity details
 - [[pass-through-taxation]] for contrast
 - [[tax-planning-strategies]] for optimization approaches
+
+See also: [[llc-vs-s-corp]]

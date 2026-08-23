@@ -1,18 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Stratégie des couches (layers) à San Francisco
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- clothing
-sources:
-- san-francisco-city-guide.md
-related:
-- indian-summer-san-francisco
----
+
 -
 # Stratégie des couches à San Francisco
 
@@ -28,3 +14,5 @@ Principe vestimentaire essentiel pour le climat changeant de San Francisco : tou
 - Printemps : couches pour le temps variable
 
 ---
+
+See also: [[indian-summer-san-francisco]]

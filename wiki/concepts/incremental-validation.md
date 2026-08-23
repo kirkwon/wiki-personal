@@ -1,13 +1,4 @@
----
-date: 2026-06-13
-type: concept
-title: Incremental Validation
-created: 2026-06-13
-updated: 2026-06-13
-tags: [incremental-validation, critical-thinking]
-related: [validation-of-mental-models, mental-models, peer-review, social-validation, design-experiments]
-sources: ["research-validation-of-mental-models-2026-06-13-065345.md"]
----
+
 # Incremental Validation
 Incremental validation is the process of testing a mental model incrementally, starting with small, low-stakes tests and gradually increasing the stakes as the model is refined.
 
@@ -26,3 +17,13 @@ Incremental validation has a wide range of applications, including business, eco
 ## References
 [[research-validation-of-mental-models-2026-06-13-065345.md]]
 ---
+
+See also: [[validation-of-mental-models]]
+
+See also: [[mental-models]]
+
+See also: [[peer-review]]
+
+See also: [[social-validation]]
+
+See also: [[design-experiments]]

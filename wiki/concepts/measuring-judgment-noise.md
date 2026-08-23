@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Measuring Judgment Noise
-description: "--
-Measuring Judgment Noise"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- cognitive-science
-- decision-making
-- statistics
-sources:
-- Noise_ A Flaw in Human Judgment - Daniel Kahneman.md
-related:
-- noise-concept
-- noise-vs-bias-distinction
-- decision-quality-vs-outcome-quality
-- systematic-decision-making
----
+
 --
 # Measuring Judgment Noise
 
@@ -45,3 +26,5 @@ Noise measurement often reveals that experts who believe they are consistent are
 - [[noise-vs-bias-distinction]]
 - [[systematic-decision-making]]
 - [[Superforecasting - Philip E Tetlock  Dan Gardner]]
+
+See also: [[decision-quality-vs-outcome-quality]]

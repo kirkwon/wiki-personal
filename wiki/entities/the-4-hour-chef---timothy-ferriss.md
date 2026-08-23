@@ -1,17 +1,17 @@
----
+Sources: [[the-4-hour-chef]]
 
-date: 2026-05-03
-type: entity
-title: The 4-Hour Chef
-description: "Master efficient kitchen techniques and meal planning for busy lives with this practical culinary guide."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- cooking
-- technique
-sources:
-- the-4-hour-chef
-- The 4-Hour Chef
-related: [timothy-ferriss, mise-en-place, batch-cooking, intuitive-cooking, flavor-profiling, meal-prep-blueprint, flavor-theory, cooking-techniques]
----
+See also: [[timothy-ferriss]]
+
+See also: [[mise-en-place]]
+
+See also: [[batch-cooking]]
+
+See also: [[intuitive-cooking]]
+
+See also: [[flavor-profiling]]
+
+See also: [[meal-prep-blueprint]]
+
+See also: [[flavor-theory]]
+
+See also: [[cooking-techniques]]

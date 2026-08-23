@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Big Cycle Framework
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- geopolitics
-- macroeconomics
-- ray-dalio
-sources:
-- Principles for Dealing with the Changing World Order - Ray Dalio.md
-related:
-- dynamics
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - scenario-planning
 ---
 -
@@ -37,3 +22,5 @@ The framework emphasizes that these cycles are not deterministic but can be navi
 
 Related: [[dynamics]], [[how-the-economic-machine-works---ray-dalio]], [[scenario-planning]]
 ---
+
+See also: [[how-the-economic-machine-works]]

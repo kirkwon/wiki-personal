@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Choices
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- philosophy
-- free-will
-- determinism
-- decision-making
-- mental-models
-- mental-model
-- cognitive-bias
-sources:
-- the-beginning-of-infinity
-- Choices
----
+
 -david-deutsch.md", "The Paradox of Choice - Barry Schwartz.md", "Choices.md"]
 related: ["the-beginning-of-infinity---david-deutsch", "decision-making-frameworks", "systematic-decision-making", "choice-overload", "decision-paralysis", "options", "decisions", "paradox-of-choice", "thinking-in-bets---annie-duke", "algorithms-to-live-by---brian-christian-tom-griffiths", "cognitive-biases-library", "decision-quality-vs-outcome-quality", "nudge-theory", "the-optimists-metaphor"]
 confidence: 0.7
@@ -100,3 +83,7 @@ The model internally balances contradictory insights: more choices can be harmfu
 - Where does quitting fit within a general model of choice optimization?
 - How do algorithmic frameworks like optimal stopping apply to everyday life decisions?
 ^[raw/articles/Choices.md]
+
+Sources: [[the-beginning-of-infinity]]
+
+Sources: [[Choices]]

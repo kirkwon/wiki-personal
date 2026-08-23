@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Tragic Optimism
-description: "Tragic optimism is Viktor Frankl's concept of maintaining optimism and hope in the face of the unavoidable realities of human existence—the tragic triad of pain, guilt, and death."
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- psychology
-- philosophy
-- meaning
-- optimism
-- suffering
-- resilience
-sources:
-- mans-search-for-meaning
-- Tragic Optimism
-related: ["tragic-triad", "sources-of-meaning-frankl", "logotherapy", "viktor-frankl", "meaning-finding-framework", "defiant-attitude-toward-suffering", "growth-mindset", "viktior-frankl", "embracing-failure-for-personal-growth"]
----
+
 # Tragic Optimism
 
 Tragic optimism is Viktor Frankl's concept of maintaining optimism and hope in the face of the unavoidable realities of human existence—the tragic triad of pain, guilt, and death. Unlike naive optimism that denies suffering, tragic optimism acknowledges these fundamental truths while choosing to find meaning and purpose within them. This is perhaps Frankl's most distinctive philosophical contribution, developed directly from his observations in concentration camps.
@@ -45,3 +27,11 @@ Tragic optimism is the culmination of logotherapy's framework, representing the 
 ## Connection to Other Concepts
 
 Tragic optimism connects to [[defiant-attitude-toward-suffering]] as the practical expression of tragic optimism. It relates to [[growth-mindset]] in that both frameworks emphasize the role of personal orientation in responding to adversity. It complements [[embracing-failure-for-personal-growth]] by reframing hardship as potentially meaningful.
+
+See also: [[sources-of-meaning-frankl]]
+
+See also: [[logotherapy]]
+
+See also: [[viktor-frankl]]
+
+See also: [[meaning-finding-framework]]

@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 'Resource: Salt Fat Acid Heat'
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking
-- resource
-- gastronomy
-sources:
-- Gastronomy.md
-related:
-- flavor-theory
-- ingredient-pairings
-- category-cooking-techniques
----
+
 -
 # Resource: Salt Fat Acid Heat
 
@@ -28,3 +12,5 @@ Key takeaways:
 
 This resource connects to [[flavor-theory]] and [[ingredient-pairings]] as a practical framework for understanding how flavors are built.
 ---
+
+See also: [[category-cooking-techniques]]

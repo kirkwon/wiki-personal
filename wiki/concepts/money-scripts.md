@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Money Scripts
-description: "Money scripts are deeply held beliefs about money that shape financial behavior."
-created: 2026-04-29
-updated: 2026-05-09
-tags:
-- personal-finance
-- psychology
-- behavioral-economics
-- behavioral-finance
-- beliefs
-sources:
-- The Psychology of Money.md
-related:
-- mental-accounting
-- savings-rate
-- lifestyle-inflation
-- behavioral-finance
-- personal-finance
----
+
 --
 # Money Scripts
 
@@ -65,3 +44,7 @@ Money scripts connect to [[lifestyle-inflation]] (spending increasing with incom
 
 ## See Also
 [[behavioral-finance]] | [[savings-rate-vs-returns]] | [[financial-independence]]
+
+See also: [[mental-accounting]]
+
+See also: [[personal-finance]]

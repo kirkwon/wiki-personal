@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Required Minimum Distributions (RMDs)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- retirement
-- tax
-- rmd
-- personal-finance
-sources:
-- Required Minimum Distributions.md
-related:
-- tax-torpedoes-in-retirement
-- retirement-planning
-- personal-finance
-- social-security
-- return-of-capital
-- cost-basis
----
+
 -
 # Required Minimum Distributions (RMDs)
 
@@ -112,3 +91,13 @@ Beneficiaries must take RMDs based on their life expectancy. Stretch IRA rules c
 
 RMDs interact with Social Security taxation, Medicare IRMAA surcharges, and tax-loss harvesting opportunities. They also affect legacy planning through inherited IRA rules and trust considerations. See also [[tax-torpedoes-in-retirement]] for related tax planning considerations.
 ---
+
+See also: [[retirement-planning]]
+
+See also: [[personal-finance]]
+
+See also: [[social-security]]
+
+See also: [[return-of-capital]]
+
+See also: [[cost-basis]]

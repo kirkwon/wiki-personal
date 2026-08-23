@@ -1,23 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: Principle of Optimism
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- philosophy
-- epistemology
-- optimism
-related:
-- the-beginning-of-infinity-david-deutsch
-- conjecture-and-criticism
-- explanatory-reach
-- superforecasting
-- black-swan-events
-- antifragility
-sources:
-- The Beginning of Infinity - David Deutsch.md
----
+
 -
 # Principle of Optimism
 
@@ -44,3 +25,9 @@ Problems are not inherent features of reality; they are symptoms of knowledge ga
 ## Practical Use
 When feeling pessimistic about a problem or humanity's trajectory, apply the Principle of Optimism: identify the specific knowledge gap, generate conjectures for closing it, and critically test them.
 ---
+
+See also: [[the-beginning-of-infinity-david-deutsch]]
+
+See also: [[conjecture-and-criticism]]
+
+See also: [[explanatory-reach]]

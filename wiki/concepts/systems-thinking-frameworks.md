@@ -1,22 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: Systems Thinking Frameworks
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- mental-models
-- systems-thinking
-sources:
-- The Systems Bible - John Gall.md
-related:
-- the-systems-bible-john-gall
-- gall-s-law
-- fundamental-theorem-of-systems
-- system-replacement-vs-repair
-- antifragility
-- systematic-decision-making
----
+
 -
 # Systems Thinking Frameworks
 
@@ -46,3 +28,11 @@ Gall warns against over-applying systems thinking: when it becomes an excuse for
 ## Connection to Other Concepts
 This connects to [[antifragility]] (Taleb), [[infinite-game-mindset]] (Sinek), and [[systematic-decision-making]]. Gall's frameworks provide the practical "how" for the broader theoretical insights of other systems thinkers.
 ---
+
+See also: [[the-systems-bible-john-gall]]
+
+See also: [[gall-s-law]]
+
+See also: [[fundamental-theorem-of-systems]]
+
+See also: [[system-replacement-vs-repair]]

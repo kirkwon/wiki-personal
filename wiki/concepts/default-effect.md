@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Default Effect
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- decision-making
-- choice-architecture
-sources:
-- The Art of Thinking Clearly - Rolf Dobelli.md
-related:
-- choice-overload
-- status-quo-bias
-- decision-paralysis
----
+
 -
 # Default Effect
 
@@ -29,3 +13,7 @@ The tendency to choose default options and how this influences behavior. When an
 ## Practical Guardrail
 When a default is set, actively ask whether it was chosen deliberately or is merely the default. Re-evaluate options independently of their default status.
 ---
+
+See also: [[status-quo-bias]]
+
+See also: [[decision-paralysis]]

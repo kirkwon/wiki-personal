@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Monte Carlo Simulation for Investments
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- risk-management
-- quantitative-analysis
-sources:
-- Risk Assessment Framework.md
-related:
-- monte-carlo-simulations
-- risk-assessment-framework
-- value-at-risk-var
-- stress-testing-investments
----
+
 -
 # Monte Carlo Simulation for Investments
 
@@ -30,3 +13,11 @@ Probability distribution of possible outcomes, expected returns (mean return of 
 ## Strategic Application
 Used for decision-making (evaluate acquisition opportunities), portfolio construction (optimize risk/return profile), and hedging strategies (determine appropriate hedging levels).
 ---
+
+See also: [[monte-carlo-simulations]]
+
+See also: [[risk-assessment-framework]]
+
+See also: [[value-at-risk-var]]
+
+See also: [[stress-testing-investments]]

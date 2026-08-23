@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Financial Reporting Templates
-description: "--
-Financial Reporting Templates"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- template
-- real-estate
-- investing
-sources:
-- Financial Reporting Templates.md
-related:
-- real-estate-investment
-- stock-and-bond-tracking
-- tax-optimization-templates
-- retirement-savings-calculator
-- cash-on-cash-return
----
+
 --
 # Financial Reporting Templates
 
@@ -45,3 +24,11 @@ A comprehensive suite of investment tracking templates covering real estate, sto
 ## Design Philosophy
 
 The modular design allows customization based on individual investment strategies. Regular use enables better decision-making, tax optimization, and long-term wealth building through systematic financial reporting.
+
+See also: [[real-estate-investment]]
+
+See also: [[stock-and-bond-tracking]]
+
+See also: [[tax-optimization-templates]]
+
+See also: [[cash-on-cash-return]]

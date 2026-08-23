@@ -1,35 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: MARP Presentation Creation
-description: "--
-MARP Presentation Creation"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- markdown
-- marp
-- slides
-- presentation
-- documentation
-- writing
-- visual-design
-- knowledge-synthesis
-- technical-writing
-- teaching
-- training
-sources:
-- MARP Presentation Creation.md
-related:
-- markdown-to-presentation-conversion
-- visual-hierarchy-in-slides
-- slide-organization-patterns
-- css-variables-for-theming
-- framework-template
-- markdown-documentation
-- technical-writing
-- knowledge-synthesis
----
+
 --
 # MARP Presentation Creation
 
@@ -92,3 +61,5 @@ Convert to HTML, PDF, or PNG using the MARP CLI: `marp presentation.md`, `marp p
 - [[framework-template]] — Template structures
 - [[markdown-documentation]] — Structured writing
 - [[knowledge-synthesis]] — Combining sources
+
+See also: [[technical-writing]]

@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Stress Testing Investments
-description: "--
-Stress Testing Investments"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- risk-management
-- real-estate
-- investment-risk
-- financial-analysis
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- monte-carlo-simulations
-- scenario-planning
-- cash-flow-stress-testing
-- value-at-risk-var
-- monte-carlo-simulation
-- real-estate-investment
----
+
 --
 # Stress Testing Investments
 
@@ -51,3 +27,13 @@ Running downside and upside scenarios on investment portfolios and cash flow to 
 - Loss of financing availability (credit crisis).
 
 Stress testing connects to [[cash-flow-stress-testing]] and [[monte-carlo-simulation]] as complementary risk analysis tools.
+
+See also: [[risk-assessment-framework]]
+
+See also: [[monte-carlo-simulations]]
+
+See also: [[scenario-planning]]
+
+See also: [[value-at-risk-var]]
+
+See also: [[real-estate-investment]]

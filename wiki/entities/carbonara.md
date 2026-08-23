@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Carbonara
-description: "Carbonara is a classic Roman pasta dish built on just four ingredients: guanciale (cured pork cheek), egg yolks, Pecorino Romano, and black pepper."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- recipe
-- italian
-- pasta
-- roman-cuisine
-sources:
-- pasta.md
-related:
-- italian-pasta
-- al-dente-technique
-- cacio-e-pepe
-- guanciale
-- pecorino-romano
-- pasta
-- amatriciana
----
+
 --
 # Carbonara
 
@@ -47,3 +25,17 @@ The dish relies on the starch from [[wikilink-al-dente]] pasta and pasta water t
 The "no cream" principle is fundamental — adding cream is a common mistake that contradicts authentic preparation.
 
 [[wikilink-italian-pasta]] | [[wikilink-al-dente-technique]] | [[wikilink-cacio-e-pepe]] | [[wikilink-guanciale]] | [[wikilink-pecorino-romano]]
+
+See also: [[italian-pasta]]
+
+See also: [[al-dente-technique]]
+
+See also: [[cacio-e-pepe]]
+
+See also: [[guanciale]]
+
+See also: [[pecorino-romano]]
+
+See also: [[pasta]]
+
+See also: [[amatriciana]]

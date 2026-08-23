@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Predictably Irrational
-description: "--
-Predictably Irrational"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- books
-- behavioral-economics
-- cognitive-bias
-sources:
-- Value.md
-- Analyzes.md
-related:
-- dan-ariely
-- framing-effects
-- prospect-theory
-- cognitive-biases-library
-- analyzes
-- decision-making-frameworks
----
+
 --
 # Predictably Irrational
 
@@ -44,3 +22,7 @@ These findings reinforce that value is not an objective property but a construct
 - [[analyzes]] - Mental model referencing this work
 - [[cognitive-biases-library]] - Complementary bias research
 - [[decision-making-frameworks]] - Broader decision-making literature
+
+See also: [[framing-effects]]
+
+See also: [[prospect-theory]]

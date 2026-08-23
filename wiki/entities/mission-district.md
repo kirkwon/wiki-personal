@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Mission District
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- neighborhoods
-sources:
-- san-francisco-city-guide.md
-related:
-- san-francisco
-- favorite-restaurants
-- dolores-park
----
+
 -
 # Mission District
 
@@ -33,3 +17,7 @@ Culture latino-américaine, art mural, nourriture mexicaine, ambiance vivante.
 Meilleurs burritos de la ville. Recommandation : « manger comme un local », éviter les pièges touristiques.
 
 ---
+
+See also: [[san-francisco]]
+
+See also: [[favorite-restaurants]]

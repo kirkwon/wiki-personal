@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Evolutionary Mindset
-description: "Definition
-The idea that evolution shaped our brains to prioritize immediate concerns over long-term gains, creating a systematic bias toward short-term thinking."
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- mental-models
-- cognitive-science
-- decision-making
-- cognitive-bias
-sources:
-- the-great-mental-models-vol-1
-- Evolutionary Mindset
-related: [overconfidence-and-certainty, dread-aversion, dual-process-theory, decision-making-under-uncertainty, cognitive-biases-library]
----
+
 # Evolutionary Mindset
 
 ## Definition
@@ -39,3 +22,9 @@ This concept relates to [[overconfidence-and-certainty]] and [[dread-aversion]],
 ## Source
 Shane Parrish, *The Great Mental Models (Vol. 1)*, Chapter 2
 ^[raw/articles/the-great-mental-models-vol-1---shane-parrish.md]
+
+Sources: [[the-great-mental-models-vol-1]]
+
+See also: [[decision-making-under-uncertainty]]
+
+See also: [[cognitive-biases-library]]

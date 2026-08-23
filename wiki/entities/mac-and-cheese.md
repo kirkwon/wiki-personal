@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Mac and Cheese
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- comfort-food
-- southern-soul-food
-sources:
-- southern-soul-food.md
-related:
-- southern-soul-food
-- comfort-food
----
+
 -
 # Mac and Cheese
 
@@ -39,3 +24,7 @@ Baked mac and cheese is a quintessential Southern comfort dish, featuring elbow 
 - [[cornbread]]
 - [[collard-greens]]
 ---
+
+See also: [[southern-soul-food]]
+
+See also: [[comfort-food]]

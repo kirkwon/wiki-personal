@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Leaders Eat Last Key Concepts
-description: "Leaders Eat Last Key Concepts"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- leadership
-- organizational-culture
-- team-dynamics
-sources:
-- leaders-eat-last
-- Leaders Eat Last Key Concepts
-related: [service-first-leadership, physical-space-and-culture, belonging-in-leadership, the-parable-of-the-boats, triple-bottom-line]
----
+
 # Leaders Eat Last Key Concepts
 
 *Leaders Eat Last* by Simon Sinek introduces several interconnected ideas about how leaders can build thriving organizations.
@@ -41,3 +26,7 @@ Caring for others contributes to a positive work environment, higher morale, and
 
 ## Triple Bottom Line
 The framework of people, profit, and purpose—balancing human welfare with financial returns and meaningful purpose rather than optimizing for profit alone.
+
+See also: [[physical-space-and-culture]]
+
+See also: [[triple-bottom-line]]

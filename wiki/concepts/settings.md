@@ -1,24 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Settings
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- communication
-sources:
-- Settings.md
-confidence: medium
-related:
-- planning
-- solutions
-- group
-- stillness
-- communication-skills
-- effective-listening
-- framing-effects
----
+
 -
 # Settings
 
@@ -46,3 +26,5 @@ Settings relates to several existing mental models in the wiki:
 ## Source
 - [[supercommunicators-charles-duhigg]]
 ---
+
+See also: [[solutions]]

@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Ethos, Pathos, Logos (Aristotle's Modes of Persuasion)
-description: "Ethos, Pathos, Logos (Aristotle's Modes of Persuasion)"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- rhetoric
-- communication
-- philosophy
-- communication-skills
-- mental-models
-sources:
-- the-obstacle-is-the-way
-- Ethos, Pathos, Logos (Aristotle's Modes of Persuasion)
-related: [the-obstacle-is-the-way-ryan-holiday, the-art-of-persuasion-aristotle, communication-skills, the-obstacle-is-the-way, six-thinking-hats, persuasion]
----
+
 # Ethos, Pathos, Logos (Aristotle's Modes of Persuasion)
 
 Aristotle identified three modes of persuasion that remain foundational to communication and influence: ethos (credibility), pathos (emotion), and logos (logic). These tools are introduced in [[the-obstacle-is-the-way]] Chapter 1 as essential means for overcoming obstacles through effective communication and influence.
@@ -33,3 +16,7 @@ Effective communication is a key skill when facing challenges. Understanding the
 - [[six-thinking-hats]] — Similar structured thinking approach
 - [[the-obstacle-is-the-way]] — Introduced in Chapter 1
 - [[persuasion]] — Directly related framework
+
+See also: [[the-obstacle-is-the-way-ryan-holiday]]
+
+See also: [[the-art-of-persuasion-aristotle]]

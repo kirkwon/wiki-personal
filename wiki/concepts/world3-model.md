@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: World3 Model
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- systems-thinking
-- simulation
-- sustainability
-- mental-models
-sources:
-- Limits to Growth_ The 30-Year Update - Donella H Meadows.md
-related:
-- limits-to-growth
-- planetary-boundaries
-- scenario-planning
----
+
 -
 # World3 Model
 
@@ -27,3 +10,7 @@ In the 30-Year Update, Meadows and colleagues compared the model's original scen
 
 The World3 model remains influential as a demonstration of how [[scenario-planning]] can illuminate long-term risks and trade-offs, even when the model itself simplifies a vastly complex reality.
 ---
+
+See also: [[limits-to-growth]]
+
+See also: [[planetary-boundaries]]

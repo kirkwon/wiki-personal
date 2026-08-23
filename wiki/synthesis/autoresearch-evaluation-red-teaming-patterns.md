@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: synthesis
-tags: [autoresearch, evaluation, red-teaming, benchmarking, security]
-related: [awesome-autoresearch, autoresearch-pattern]
----
 
 # Evaluation / Red Teaming Autoresearch — Reusable Patterns
 
@@ -130,3 +124,5 @@ The **prompt-evolving eval loop** (Langfuse, AutoPrompter) maps directly to impr
 - [[autoresearch-pattern]] — the evaluation loop itself
 - [[pca-random-matrix-theory-equity-markets]] — the scientific evaluation framework
 - [[mean-variance-myopia-under-stochastic-volatility]] — multi-regime validation
+
+See also: [[awesome-autoresearch]]

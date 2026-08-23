@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 阿里山 (Ali Shan)
-description: "--
-阿里山 (Ali Shan - Ali Mountain)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- tea
-- oolong
-- taiwan
-- taiwanese
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- dong-ding-冻顶
-- lishan-梨山
-- tea-oxidation-茶叶氧化
----
+
 --
 # 阿里山 (Ali Shan - Ali Mountain)
 
@@ -39,3 +19,11 @@ related:
 ## 风味谱系
 
 中等偏轻乌龙，高海拔赋予独特奶油质感与黄油花果香。
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[dong-ding-冻顶]]
+
+See also: [[lishan-梨山]]
+
+See also: [[tea-oxidation-茶叶氧化]]

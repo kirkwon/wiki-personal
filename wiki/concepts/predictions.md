@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Predictions
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- prediction
-- signal-detection
-sources:
-- Predictions.md
-related:
-- superforecasting
-- prediction-markets
-- probability-and-judgment-under-uncertainty
-- signal-vs-noise
-- decision-making-under-uncertainty
----
+
 -
 # Predictions
 
@@ -34,3 +16,5 @@ Together, these sources support the view that predictions serve as a pattern-rec
 
 Predictions connects to [[superforecasting]], [[prediction-markets]], [[probability-and-judgment-under-uncertainty]], and [[decision-making-under-uncertainty]]. It extends the superforecasting concept by framing prediction as a standalone mental model rather than just a technique, strengthening the decision-making cluster with a general-purpose framing.
 ---
+
+See also: [[signal-vs-noise]]

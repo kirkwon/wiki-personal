@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Conscious Spending
-description: "--
-Conscious Spending"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- budgeting
-- automation
-sources:
-- I Will Teach You to Be Rich.md
-related:
-- the-4-buckets-framework
-- automation-of-finances
-- personal-finance
-- the-index-card-rules
----
+
 --
 # Conscious Spending
 
@@ -42,3 +23,5 @@ You don't need to be perfect with money — you just need to be consistent. A si
 - [[automation-of-finances]] for the mechanical implementation
 - [[personal-finance]] for the broader context
 ^[raw/articles/I Will Teach You to Be Rich.md]
+
+See also: [[the-index-card-rules]]

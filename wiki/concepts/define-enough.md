@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Power of "Enough"
-description: "--
-The Power of 'Enough'"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- psychology
-- well-being
-sources:
-- The Psychology of Money.md
-related:
-- lifestyle-inflation
-- savings-rate-over-returns
-- balancing-ambition-with-well-being
----
+
 --
 # The Power of "Enough"
 
@@ -31,3 +13,9 @@ Lifestyle inflation — where spending increases with income — means that with
 - Define your own success metrics rather than comparing to others.
 - Focus on contentment over accumulation.
 - Minimize regret by focusing on decisions you won't regret.^[raw/articles/The Psychology of Money.md]
+
+See also: [[lifestyle-inflation]]
+
+See also: [[savings-rate-over-returns]]
+
+See also: [[balancing-ambition-with-well-being]]

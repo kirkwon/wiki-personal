@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Deception
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-bias
-- decision-making
-sources:
-- Deception.md
-related:
-- dan-ariely
-- the-honest-truth-about-dishonesty
-- cognitive-biases-library
-- confirmation-bias
-- illusion-of-control
-- ascription-bias
-- morality-and-decision-making
-- self-deception
-confidence: medium
----
+
 -
 # Deception
 
@@ -51,3 +29,7 @@ This model connects to several existing wiki concepts:
 
 The current source is a stub with only one cross-reference. The model is underdeveloped relative to its claimed universal applicability, and would benefit from additional sources and deeper empirical grounding.
 ---
+
+See also: [[dan-ariely]]
+
+See also: [[the-honest-truth-about-dishonesty]]

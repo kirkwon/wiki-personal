@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Getting
-description: "Getting is a universal mental model defined as a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Getting.md
-related:
-- allen-mental-model
-- getting-things-done---david-allen
+david-allen
 - planning
 - thinking-mental-model
 - problem-solving
@@ -51,3 +37,5 @@ The distinction of Getting is its emphasis on pattern and relationship recogniti
 
 - [[ready-for-anything-david-allen]]
 - [[getting-things-done---david-allen]]
+
+See also: [[getting-things-done]]

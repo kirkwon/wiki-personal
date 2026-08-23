@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Role
-description: "Role is a universal mental model — a conceptual tool for navigating complex situations by identifying the position or function someone or something occupies within a system."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Role.md
-related:
-- perspective
-- six-thinking-hats
-- decision-making-frameworks
-- ego-is-the-enemy
-- influence-the-psychology-of-persuasion
-- quit-the-power-of-knowing-when-to-walk-away
-- the-algebra-of-happiness
-- biases
-- thinking-mental-model
-confidence: 0.7
----
+
 --
 # Role
 
@@ -61,3 +38,11 @@ Role overlaps with related concepts like [[identity]], [[ego]], and [[perspectiv
 
 ## Confidence
 Moderate (0.7). The model synthesizes well-known sources but lacks direct empirical grounding in this document. Its boundaries with identity and perspective remain blurry.
+
+See also: [[six-thinking-hats]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[biases]]
+
+See also: [[thinking-mental-model]]

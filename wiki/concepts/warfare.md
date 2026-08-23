@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Warfare
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-- philosophy
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - battle
 - strategic-assessment-frameworks
 - situation
@@ -29,3 +16,5 @@ The broader concept of strategic conflict—organized, competitive struggle betw
 ## Connections
 Connects to [[battle]] (battle as subset of warfare), [[strategic-assessment-frameworks]] (planning for conflict), and [[the-infinite-game---simon-sinek]] (tension between competitive and cooperative framing). The source's "when to stop" guidance explicitly warns against misapplying warfare thinking to cooperative contexts.
 ---
+
+See also: [[the-art-of-war]]

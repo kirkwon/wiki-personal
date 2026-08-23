@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The 4-Hour Workweek
-description: "--
-The 4-Hour Workweek"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- productivity
-- lifestyle-design
-- habits
-sources:
-- Habits.md
-related:
-- habits
-- timothy-ferriss
-- tools-of-titans
----
+
 --
 # The 4-Hour Workweek
 
@@ -30,3 +11,9 @@ related:
 
 ## Relevance
 Ferriss contributes to the Habits mental model by emphasizing environment design and the elimination of counterproductive routines.
+
+See also: [[habits]]
+
+See also: [[timothy-ferriss]]
+
+See also: [[tools-of-titans]]

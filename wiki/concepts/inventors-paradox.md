@@ -1,15 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Inventor's Paradox
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- problem-solving
-- heuristics
-- mathematics
-related:
-- how-to-solve-it---george-polya
+george-polya
 - heuristic-problem-solving
 - polya-four-steps
 sources:
@@ -24,3 +13,5 @@ Polya presents this as a heuristic worth keeping in mind: if a problem resists s
 
 It connects to the broader heuristic toolkit in [[heuristic-problem-solving]] and Polya's emphasis on [[specialization-and-generalization]] as complementary strategies.
 ---
+
+See also: [[how-to-solve-it]]

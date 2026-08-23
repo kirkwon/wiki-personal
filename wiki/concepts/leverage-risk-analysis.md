@@ -1,25 +1,4 @@
----
-date: 2026-04-22
-type: concept
-title: Leverage Risk Analysis
-description: "--
-Leverage Risk Analysis"
-created: 2026-04-22
-updated: 2026-04-22
-tags:
-- skill-candidate
-- finance
-- risk-management
-- real-estate
-- investment-risk
-- real-estate-investment
-related:
-- risk-assessment-framework
-- cash-flow-stress-testing
-- real-estate-investment
-sources:
-- Risk Assessment Framework.md
----
+
 --
 # Leverage Risk Analysis
 
@@ -39,3 +18,5 @@ Assessment of financial risk arising from the use of debt in investment properti
 - **High Risk**: LTV > 75%, DSCR < 1.2, Variable rate
 
 Leverage risk analysis is central to [[risk-assessment-framework]] and connects to [[cash-flow-stress-testing]] for evaluating financial resilience.
+
+See also: [[real-estate-investment]]

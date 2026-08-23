@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Intelligence in Strategy
-description: "Intelligence in Strategy"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- strategy
-- decision-making
-- philosophy
-sources:
-- the-art-of-war
-- Intelligence in Strategy
-related: [the-art-of-war-sun-tzu, attack-by-stratagem, weak-point-exploitation, decision-making-frameworks]
----
+
 # Intelligence in Strategy
 
 The critical importance of information gathering, espionage, and understanding opponents as emphasized in Chapter 13 of *The Art of War*. Without intelligence, strategic success is unlikely.
@@ -32,3 +17,7 @@ The critical importance of information gathering, espionage, and understanding o
 
 ## Application
 Applicable to competitive intelligence in business, understanding stakeholder motivations in negotiations, and any domain requiring situational awareness.
+
+Sources: [[the-art-of-war]]
+
+See also: [[the-art-of-war-sun-tzu]]

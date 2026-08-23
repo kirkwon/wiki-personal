@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Think Win-Win
-description: "Think Win-Win is a cooperative mindset where all parties in an interaction or agreement can benefit."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- mental-models
-- decision-making
-- communication-skills
-sources:
-- the-7-habits-of-highly-effective-people
-- Think Win-Win
-related: [synergize, seek-first-to-understand, skin-in-the-game]
----
+
 # Think Win-Win
 
 Think Win-Win is a cooperative mindset where all parties in an interaction or agreement can benefit. Covey contrasts this with zero-sum thinking, where one party's gain requires another's loss.
@@ -36,3 +20,7 @@ The Win-Win ideal may conflict with situations where genuine trade-offs exist. N
 ## Source
 
 [[the-7-habits-of-highly-effective-people---stephen-r-covey]] - Stephen R. Covey
+
+Sources: [[the-7-habits-of-highly-effective-people]]
+
+See also: [[seek-first-to-understand]]

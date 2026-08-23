@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Behavior as a Mental Model
-description: "--
-Behavior as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- psychology
-- behavioral-economics
-- decision-making
-sources:
-- Behavior.md
-related:
-- biases
-- decision-making-frameworks
-- cognitive-biases-library
-- persuasion
-- habit-testing
-- hook-model
-- fizzgogg-behavior-model
----
+
 --
 # Behavior as a Mental Model
 
@@ -53,3 +30,5 @@ Social dynamics drive compliance. Cialdini's six principles of influence — rec
 ## Open Questions
 
 How does this model relate to habit formation, neuroplasticity, and the gap between knowing and doing? How can behavior insights be integrated with [[superforecasting]] and [[decision-quality-vs-outcome-quality]]?
+
+See also: [[persuasion]]

@@ -1,15 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Heuristic Problem-Solving
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- problem-solving
-- heuristics
-- cognitive-science
-related:
-- how-to-solve-it---george-polya
+george-polya
 - polya-four-steps
 - decomposing-and-recombining
 - working-backwards-in-problem-solving
@@ -37,3 +26,5 @@ Key heuristics include:
 
 These heuristics connect to [[recognition-primed-decision-model]], where Klein emphasizes pattern recognition from experience. Polya similarly asks "Have you seen this problem before?"—a shared emphasis on leveraging prior knowledge. They also relate to [[decision-making-frameworks]], providing a structured alternative to probabilistic approaches like [[thinking-in-bets---annie-duke]].
 ---
+
+See also: [[how-to-solve-it]]

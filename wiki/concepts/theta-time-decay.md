@@ -1,28 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Theta (Time Decay)
-description: "--
-Theta (Time Decay)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- options
-- options-trading
-- risk-management
-sources:
-- Options Trading Guide.md
-related:
-- options-fundamentals
-- leaps-long-term-equity-anticipation-securities
-- straddle-strategies
-- butterfly-spreads
-- options-position-sizing
-- LEAPS-options
-- ITM-vs-OTM-options
----
+
 --
 # Theta (Time Decay)
 
@@ -88,3 +64,11 @@ Theta measures the rate of decline in option value due to time passing, holding 
 - **Cash reserves**: 65% for flexibility and risk management
 
 Understanding theta is essential for all options strategies, from LEAPS for long-term growth to straddles for volatility capture to butterflies for range-bound markets. Theta connects to all major options strategies and is central to understanding [[LEAPS-options]], [[straddle-strategies]], and [[butterfly-spreads]].^[raw/articles/Options Trading Guide.md]
+
+See also: [[options-fundamentals]]
+
+See also: [[leaps-long-term-equity-anticipation-securities]]
+
+See also: [[options-position-sizing]]
+
+See also: [[ITM-vs-OTM-options]]

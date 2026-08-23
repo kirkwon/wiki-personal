@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Positioning
-description: "Positioning is a conceptual tool and strategic principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- mental-model
-- decision-making
-- pattern-recognition
-- mental-models
-- strategy
-sources:
-- Positioning.md
-- The Art of War - Sun Tzu.md
-related:
-- problem-mental-model
-- solutions-mental-model
-- overview
-- stillness
-- planning
-- the-art-of-war ---sun-tzu
+sun-tzu
 - situation
 - terrain-analysis
 - strategic-assessment-frameworks
@@ -60,3 +38,5 @@ The model draws on classical strategic thinking, with Sun Tzu's [[the-art-of-war
 
 ## Tension
 Positioning assumes a competitive, zero-sum dynamic. The wiki's cooperative frameworks (e.g., [[the-infinite-game---simon-sinek]]) emphasize creating mutual value rather than securing positional advantage over others.
+
+See also: [[the-art-of-war]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Lobster Roll
-description: "The lobster roll is a iconic New England sandwich featuring lobster meat served in a toasted split-top bun."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- seafood
-- american
-- new-england
-- sandwich
-sources:
-- new-england-seafood.md
-related:
-- new-england-seafood
-- clam-chowder
-- fried-clams
-- american-cuisine
----
+
 --
 # Lobster Roll
 
@@ -45,3 +26,9 @@ Legend holds that the lobster roll originated in 1918 at Perry's in Milford, Con
 6. Serve immediately
 
 See also [[new-england-seafood]] for broader context.
+
+See also: [[clam-chowder]]
+
+See also: [[fried-clams]]
+
+See also: [[american-cuisine]]

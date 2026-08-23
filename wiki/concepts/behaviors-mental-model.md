@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Behaviors (mental model)
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Behaviors.md
-related:
-- mark-manson
-- everything-is-fucked-a-book-about-hope
-- tendency
-- biases
-- ideas-mental-model
-- settings
-- care
-- stillness
----
+
 -
 # Behaviors (mental model)
 
@@ -44,3 +24,5 @@ The primary source for this mental model is [[everything-is-fucked-a-book-about-
 
 Confidence is rated at 0.7 due to single-source provenance and limited independent elaboration.
 ---
+
+See also: [[mark-manson]]

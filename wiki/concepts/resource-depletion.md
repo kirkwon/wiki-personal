@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Resource Depletion
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- sustainability
-- economics
-- systems-thinking
-sources:
-- Limits to Growth_ The 30-Year Update - Donella H Meadows.md
-related:
-- limits-to-growth
-- world3-model
-- planetary-boundaries
-- sustainability-frameworks
----
+
 -
 # Resource Depletion
 
@@ -28,3 +11,7 @@ Key points from Meadows:
 
 This concept is central to the [[world3-model]] and connects to [[planetary-boundaries]] as a driver of environmental threshold breaches.
 ---
+
+See also: [[limits-to-growth]]
+
+See also: [[sustainability-frameworks]]

@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Cornbread
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- comfort-food
-- southern-soul-food
-sources:
-- southern-soul-food.md
-related:
-- southern-soul-food
-- comfort-food
----
+
 -
 # Cornbread
 
@@ -39,3 +24,7 @@ Cornbread is a Southern staple baked in a cast iron skillet, made with cornmeal,
 - [[fried-chicken]]
 - [[shrimp-and-grits]]
 ---
+
+See also: [[southern-soul-food]]
+
+See also: [[comfort-food]]

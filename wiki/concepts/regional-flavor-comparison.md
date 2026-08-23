@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 区域风味对比
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- sichuan-cuisine
-- cantonese-cuisine
-- hunan-cuisine
-- jiangsu-cuisine
-- chinese-regional-cuisines
----
+
 -
 # 区域风味对比
 
@@ -55,3 +37,13 @@ related:
 | 北京 | 烤、炖 |
 | 湘菜 | 炒、蒸、烟熏 |
 ---
+
+See also: [[sichuan-cuisine]]
+
+See also: [[cantonese-cuisine]]
+
+See also: [[hunan-cuisine]]
+
+See also: [[jiangsu-cuisine]]
+
+See also: [[chinese-regional-cuisines]]

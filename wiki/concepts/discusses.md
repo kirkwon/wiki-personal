@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Discusses
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Discusses.md
-related:
-- thinking-mental-model
-- ideas-mental-model
-- patterns
-- superforecasting
-- the-signal-and-the-noise
-confidence: medium
----
+
 -
 # Discusses
 
@@ -41,3 +23,5 @@ This model is referenced through Nate Silver's *The Signal and the Noise*, which
 
 The model as defined is broad and may overlap with existing mental models already documented in the wiki. Further development or more precise definition could help distinguish it from adjacent concepts.
 ---
+
+See also: [[patterns]]

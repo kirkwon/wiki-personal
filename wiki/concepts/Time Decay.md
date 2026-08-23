@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Time Decay (Θήτα)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- risk-management
-sources:
-- Options Trading.md
-related:
-- theta
-- options
-- the-greeks-options
-- covered-call-strategy
----
+
 -
 # Time Decay (Θήτα)
 
@@ -36,3 +19,5 @@ Time decay (Theta) is the daily loss of value in an option as time passes. It is
 - Μην κρατήσετε πολύ καιρό χωρίς κίνηση
 - Κατανοήστε το κόστος θήτα
 ---
+
+See also: [[options]]

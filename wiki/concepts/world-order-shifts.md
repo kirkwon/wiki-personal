@@ -1,19 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: World Order Shifts
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- geopolitics
-- macroeconomics
-- power-transition
-sources:
-- Principles for Dealing with the Changing World Order - Ray Dalio.md
-related:
-- dynamics
-- big-cycle-framework
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 ---
 -
 # World Order Shifts
@@ -32,3 +17,5 @@ These shifts create both risks and opportunities. For investors, they affect ass
 
 Related: [[dynamics]], [[big-cycle-framework]], [[how-the-economic-machine-works---ray-dalio]]
 ---
+
+See also: [[how-the-economic-machine-works]]

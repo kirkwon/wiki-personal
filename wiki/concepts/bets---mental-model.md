@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Bets
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- probabilistic-thinking
-sources:
-- Bets.md
-related:
-- thinking-in-bets---annie-duke
+annie-duke
 - decision-making-frameworks
 - expected-value-ev
 - superforecasting---philip-e-tetlock-dan-gardner
@@ -52,3 +39,5 @@ Bets connects to [[expected-value-ev]] by emphasizing the importance of evaluati
 - [[decision-tracking]]
 - [[bet-sizing]]
 ---
+
+See also: [[thinking-in-bets]]

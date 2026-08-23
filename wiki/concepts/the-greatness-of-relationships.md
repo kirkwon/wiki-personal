@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Greatness of Relationships
-description: "--
-The Greatness of Relationships"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- relationships
-- leadership
-- mental-models
-related:
-- the-8th-habit---stephen-r-covey
+stephen-r-covey
 - effective-listening
 - communication-skills
 - empathy
@@ -39,3 +26,5 @@ Relationships are not merely a means to an end but are themselves a measure of g
 
 ## Role in the 8th Habit
 Cultivating relationships is positioned as both a catalyst for personal greatness and a responsibility that accompanies it.
+
+See also: [[the-8th-habit]]

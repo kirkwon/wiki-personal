@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Deception Tactics
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- strategy
-- decision-making
-sources:
-- The Art of War - Sun Tzu.md
-related:
-- the-art-of-war---sun-tzu
+sun-tzu
 - strategic-bluffing
 - positioning
 - intelligence-gathering
@@ -34,3 +21,5 @@ Connects to [[strategic-bluffing]] (bluffing in competitive contexts), [[intelli
 ## Tension
 Deception assumes adversarial framing. The wiki's ethical orientation (via [[skin-in-the-game]] and [[the-infinite-game---simon-sinek]]) emphasizes transparency and trust. The source's "when to stop" guidance explicitly warns against strategy becoming manipulation or unethical.
 ---
+
+See also: [[the-art-of-war]]

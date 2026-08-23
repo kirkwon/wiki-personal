@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Life
-description: "Life, as framed in David Allen's Making It All Work, is a universal mental model for navigating complexity through pattern and relationship recognition."
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- productivity
-- mental-models
-- allen
-- philosophy
-- taleb
-sources:
-- Making It All Work - David Allen.md
-- The Black Swan - Nassim Nicholas Taleb.md
-related:
-- getting-things-done ---david-allen
+david-allen
 - management
 - purpose
 - work-life-integration
@@ -57,3 +40,5 @@ While Getting Things Done focuses on capturing and clarifying tasks, Life extend
 - [[events]]
 - [[understanding]]
 - [[antifragility]]
+
+See also: [[getting-things-done]]

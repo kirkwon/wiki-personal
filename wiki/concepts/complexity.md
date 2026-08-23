@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Complexity
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-related:
-- thinking-mental-model
-- solutions-mental-model
-- group
-- planning
-- overview
-- swan-mental-model
-- effort
-- tendency
-- humanity
-sources:
-- Complexity.md
-confidence: medium
----
+
 -
 # Complexity
 
@@ -56,3 +34,5 @@ Complexity underlies and connects many existing mental models in this wiki:
 
 What specifically does "Complexity" add beyond the sum of existing mental models? The current definition is broad and risks being too generic to be actionable. Future refinement should clarify how this model differs from adjacent models like [[swan-mental-model]] or [[effort]] and provide concrete examples of when to apply it as a distinct lens.
 ---
+
+See also: [[overview]]

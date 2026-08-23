@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Urban Hiking and Stairways
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- bay-area
-sources:
-- golden-gate-heights.md
-related:
-- golden-gate-heights
-- 16th-avenue-tiled-steps
-- grandview-park
-- sunset-district
----
+
 -
 # Urban Hiking and Stairways
 
@@ -54,3 +37,9 @@ San Francisco's steep topography makes stairways both a practical necessity and 
 - Fall (September-October) offers clearest conditions
 - Biking is challenging on steep terrain
 ---
+
+See also: [[golden-gate-heights]]
+
+See also: [[grandview-park]]
+
+See also: [[sunset-district]]

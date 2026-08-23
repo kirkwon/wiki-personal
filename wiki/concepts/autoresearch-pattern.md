@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: concept
-tags: [autoresearch, research-loop, experiment-automation, ml-research, methodology]
-related: [awesome-autoresearch, karpathy-autoresearch-loop, experiment-loop, iterative-research]
----
 
 # Autoresearch Pattern
 
@@ -46,3 +40,7 @@ A general-purpose autonomous research methodology where an AI agent proposes hyp
 ## Source
 - Originally published by Andrej Karpathy (Feb 2026): https://github.com/karpathy/autoresearch
 - Curated list: https://github.com/yibie/awesome-autoresearch
+
+See also: [[awesome-autoresearch]]
+
+See also: [[karpathy-autoresearch-loop]]

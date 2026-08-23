@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Los Siete Moles de Oaxaca
-description: "--
-Los Siete Moles de Oaxaca"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- mexican-cuisine
-- sauce
-- gastronomy
-sources:
-- mole.md
-related:
-- mole
-- mexican-cuisine
-- flavor-theory
-- qi-wei-flavors
----
+
 --
 # Los Siete Moles de Oaxaca
 
@@ -36,3 +17,11 @@ Oaxaca es la capital del mole, reconocida por "Los Siete Moles", una taxonomía 
 | **Mole Manchamanteles** | Rojo | Chiles, fruta | Dulce, picante |
 
 Cada variante representa una tradición culinaria distinta dentro de la cocina oaxaqueña, con procesos que pueden tardar horas y requieren paciencia y técnica para lograr el equilibrio adecuado de sabores.^[raw/articles/mole.md]
+
+See also: [[mole]]
+
+See also: [[mexican-cuisine]]
+
+See also: [[flavor-theory]]
+
+See also: [[qi-wei-flavors]]

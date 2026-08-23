@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Zero to One - Peter Thiel & Blake Masters
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- innovation
-- mental-models
-sources:
-- Innovation.md
-related:
-- peter-thiel
-- blake-masters
-- the-great-mental-models-vol-1-shane-parrish
-- innovation-mental-model
----
+
 -
 # Zero to One - Peter Thiel & Blake Masters
 
@@ -28,3 +11,11 @@ Key ideas include:
 
 The book serves as one of the foundational sources for understanding innovation as a mental model in the context of this wiki.
 ---
+
+See also: [[peter-thiel]]
+
+See also: [[blake-masters]]
+
+See also: [[the-great-mental-models-vol-1-shane-parrish]]
+
+See also: [[innovation-mental-model]]

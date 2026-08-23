@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Flavor Building Layers
-description: "--
-Flavor Building Layers"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking-techniques
-- gastronomy
-sources:
-- Aromatics.md
-related:
-- aromatics-the-holy-trinity
-- stir-fry-technique
-- flavor-theory
----
+
 --
 # Flavor Building Layers
 
@@ -35,3 +18,9 @@ related:
 ## 实践应用
 
 在爆炒中，这一策略具体体现为：热锅→加油→加芳香基底→翻炒15-20秒→加主料→最后加葱绿和蒜。这一流程确保每一层风味都得到最佳表现。
+
+See also: [[aromatics-the-holy-trinity]]
+
+See also: [[stir-fry-technique]]
+
+See also: [[flavor-theory]]

@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: The Index Card Rules
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- financial-framework
-- decision-making
-sources:
-- The Index Card Rules.md
-related:
-- personal-finance
-- risk-management
-- low-cost-index-funds
-- tax-advantaged-accounts-priority
-- automated-savings
-- fee-drag
-- portfolio-rebalancing
----
+
 -
 # The Index Card Rules
 
@@ -57,3 +36,5 @@ The automation emphasis connects to behavior-change principles — removing will
 ## See Also
 [[low-cost-index-funds]] | [[tax-advantaged-accounts-priority]] | [[automated-savings]] | [[fee-drag]] | [[portfolio-rebalancing]] | [[personal-finance]]
 ---
+
+See also: [[risk-management]]

@@ -1,34 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Nudge
-description: "Nudge by Richard H. Thaler and Cass R."
-created: 2026-05-04
-updated: 2026-05-10
-tags:
-- behavioral-economics
-- decision-making
-- policy-design
-- book
-- choice-architecture
-- mental-model
-- cognitive-bias
-sources:
-- Misbehaving - Richard H Thaler.md
-- Economics.md
-- Nudge.md
-related:
-- choice-architecture
-- framing-effect
-- mental-accounting
-- decision-making-frameworks
-- cognitive-biases-library
-- richard-h-thaler
-- cass-r-sunstein
-- economics-mental-model
-- framing-effects
-- libertarian-paternalism
-- thinking-fast-and-slow ---daniel-kahneman
+daniel-kahneman
 ---
 -
 # Nudge
@@ -73,3 +43,13 @@ Nudging builds directly on [[choice-architecture]] and [[framing-effect]]. It ad
 
 ## Key Insight
 Since humans are predictably irrational, designing choice environments that account for this irrationality leads to better collective outcomes than assuming rational behavior.
+
+See also: [[mental-accounting]]
+
+See also: [[richard-h-thaler]]
+
+See also: [[cass-r-sunstein]]
+
+See also: [[libertarian-paternalism]]
+
+See also: [[thinking-fast-and-slow]]

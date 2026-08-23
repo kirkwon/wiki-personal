@@ -1,18 +1,11 @@
----
+Sources: [[thinking-fast-and-slow]]
 
-date: 2026-05-03
-type: concept
-title: Heuristics and Biases
-description: "Cognitive mental shortcuts used for fast decision-making, often leading to predictable errors."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- cognitive-science
-- cognitive-bias
-- decision-making
-- psychology
-sources:
-- thinking-fast-and-slow
-- Heuristics and Biases
-related: [cognitive-biases-library, dual-process-theory, prospect-theory, availability-heuristic, representativeness-heuristic]
----
+See also: [[cognitive-biases-library]]
+
+See also: [[dual-process-theory]]
+
+See also: [[prospect-theory]]
+
+See also: [[availability-heuristic]]
+
+See also: [[representativeness-heuristic]]

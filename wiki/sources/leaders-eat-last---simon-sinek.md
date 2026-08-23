@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Leaders Eat Last - Simon Sinek
-description: "Leaders Eat Last - Simon Sinek"
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- books
-- leadership
-- organizational-culture
-- decision-making
-- mental-model
-sources:
-- leaders-eat-last
-- Leaders Eat Last - Simon Sinek
----
+
 # Leaders Eat Last - Simon Sinek
 
 Simon Sinek's *Leaders Eat Last* explores the biology of leadership and trust within organizations. The book examines how leaders create environments of cooperation and safety, drawing on neurobiology and organizational behavior, and argues that organizations thrive when leaders prioritize employee welfare, belonging, and service over short-term profit.
@@ -48,3 +32,5 @@ Southwest Airlines, Costco Wholesale, and Starbucks illustrate these principles 
 ## Connection to Sense
 
 Sinek's work on leadership intuition and pattern recognition in organizational settings provides the foundation for the [[sense]] mental model documented in this wiki.
+
+Sources: [[Leaders Eat Last - Simon Sinek]]

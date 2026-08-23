@@ -1,30 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 麻辣风味
-description: "麻辣是四川菜系最核心的风味特征，由花椒的麻和干辣椒的辣共同构成。它包含四个维度：麻（má）、辣（là）、鲜（xiān）和香（xiāng）（或醇厚感），形成层次丰富的味觉体验。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- chinese
-- sichuan
-- flavor-theory
-- spices
-- flavor-profile
-- sichuan-cuisine
-sources:
-- mapo-tofu.md
-- sichuan-cuisine.md
-related:
-- mapo-tofu
-- sichuan-cuisine
-- wok-hei
-- aromatics
-- cumin-cuminum-cyminum
-- sichuan-peppercorns-huajiao
-- doubanjiang
-- qi-wei-flavors
----
+
 --
 
 # 麻辣风味（Má Là）
@@ -102,3 +76,5 @@ related:
 - [[aromatics]] — 芳香食材的运用
 - [[sichuan-peppercorns-huajiao]] — 花椒相关
 - [[doubanjiang]] — 豆瓣酱相关
+
+See also: [[cumin-cuminum-cyminum]]

@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: synthesis
-tags: [autoresearch, matrix, technology, domain, cross-reference]
-related: [awesome-autoresearch]
----
 
 # awesome-autoresearch — Tech × Domain Matrix
 
@@ -124,3 +118,5 @@ Projects confirmed working on macOS (tested in Phase 3):
 | SQLite 588× | ETL optimization | Pure Python |
 | HashSmith | Data structure | JVM-based |
 | xgboost-autoresearch | Scientific | Pure Python (needs data download) |
+
+See also: [[awesome-autoresearch]]

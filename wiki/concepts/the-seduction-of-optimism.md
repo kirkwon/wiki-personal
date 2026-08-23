@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Seduction of Optimism
-description: "--
-The Seduction of Optimism"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- investing
-- cognitive-bias
-sources:
-- The Psychology of Money.md
-related:
-- overconfidence-and-certainty
-- survivorship-bias
-- mental-accounting-financial
----
+
 --
 # The Seduction of Optimism
 
@@ -35,3 +17,9 @@ Overconfidence leads to taking too much risk. Believing you can beat the market,
 - Build in margin of safety.
 - Use conservative assumptions.
 - Practice tail event thinking — assume rare events will happen.^[raw/articles/The Psychology of Money.md]
+
+See also: [[overconfidence-and-certainty]]
+
+See also: [[survivorship-bias]]
+
+See also: [[mental-accounting-financial]]

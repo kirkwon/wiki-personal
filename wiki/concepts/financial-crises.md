@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Financial Crises
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- economics
-- finance
-- risk
-sources:
-- How the Economic Machine Works - Ray Dalio.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - black-swan-events
 - scenario-planning
 - rates
@@ -29,3 +16,5 @@ Key aspects include:
 
 Understanding the mechanics of financial crises enables better preparation and decision-making during periods of economic turbulence.
 ---
+
+See also: [[how-the-economic-machine-works]]

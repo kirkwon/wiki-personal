@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Jack Daniel's
-description: "Tennessee Whiskey serving as the gateway whiskey in the collection."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- beverages
-- spirits
-- whisky
-- tennessee-whiskey
-sources:
-- Whisky Tasting Notes.md
-related:
-- whisky-tasting-notes
-- spirits-index
-- whisky-tasting-methodology
----
+
 --
 # Jack Daniel's
 
@@ -35,3 +17,9 @@ Tennessee Whiskey serving as the gateway whiskey in the collection.
 
 ## Comparison
 Moderate sweetness (★★★) with low spice (★) and complexity (★). Serves as an accessible entry point but rates lower than higher-proof bourbons.
+
+See also: [[whisky-tasting-notes]]
+
+See also: [[spirits-index]]
+
+See also: [[whisky-tasting-methodology]]

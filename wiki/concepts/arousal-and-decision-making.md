@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Arousal and Decision-Making
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-bias
-- decision-making
-- emotion
-- behavioral-economics
-sources:
-- Predictably Irrational - Dan Ariely.md
-related:
-- predictably-irrational-dan-ariely
-- emotion-and-intuition-in-decisions
-- prospect-theory
-- moral-reasoning
----
+
 -
 # Arousal and Decision-Making
 
@@ -40,3 +22,7 @@ How emotional and physiological arousal dramatically affects decision-making, pa
 
 This concept extends [[emotion-and-intuition-in-decisions]] by adding experimental evidence that physiological arousal specifically — not just general emotion — produces measurable, predictable distortions in judgment.
 ---
+
+See also: [[predictably-irrational-dan-ariely]]
+
+See also: [[prospect-theory]]

@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: GTD Capture, Clarify, Organize, Review, Engage
-description: "GTD Capture, Clarify, Organize, Review, Engage"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- decision-making
-- mental-models
-sources:
-- getting-things-done
-- GTD Capture, Clarify, Organize, Review, Engage
-related: [gtd-method, decision-making-frameworks, personal-knowledge-vault-readme, time-management-matrix, quadrant-2-focus]
----
+
 # GTD Capture, Clarify, Organize, Review, Engage
 
 The five-stage GTD workflow provides a structured approach to managing commitments:
@@ -27,3 +12,9 @@ The five-stage GTD workflow provides a structured approach to managing commitmen
 This workflow connects to broader decision-making frameworks like [[decision-making-frameworks]] and complements [[time-management-matrix]] and [[quadrant-2-focus]] by providing an operational system for prioritizing important but not urgent activities.
 
 ^[raw/articles/getting-things-done---david-allen.md]
+
+Sources: [[getting-things-done]]
+
+See also: [[gtd-method]]
+
+See also: [[personal-knowledge-vault-readme]]

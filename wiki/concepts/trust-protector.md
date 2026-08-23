@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Trust Protector
-description: "A special oversight role in trust administration with powers to ensure the trust is managed according to its purposes."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-sources:
-- Trusts Guide.md
-related:
-- dynasty-trust
-- irrevocable-trusts
-- trusts-guide
----
+
 --
 # Trust Protector
 
@@ -47,3 +30,7 @@ A special oversight role in trust administration with powers to ensure the trust
 - Professional oversight involvement
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[dynasty-trust]]
+
+See also: [[irrevocable-trusts]]

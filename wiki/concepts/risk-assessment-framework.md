@@ -1,34 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Risk Assessment Framework
-description: "--
-Risk Assessment Framework"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- skill-candidate
-- finance
-- risk-management
-- real-estate
-- portfolio
-- decision-making
-- investment-risk
-- portfolio-risk
-- personal-finance
-sources:
-- Risk Assessment Framework.md
-related:
-- real-estate-investment
-- scenario-planning
-- monte-carlo-simulations
-- decision-making-frameworks
-- leverage-risk-real-estate
-- stress-testing-investments
-- portfolio-concentration-risk
-- monte-carlo-simulation
-- value-at-risk-var
----
+
 --
 # Risk Assessment Framework
 
@@ -129,3 +99,13 @@ Considers economic cycle positioning and [[interest-rate-risk]] management throu
 - Natural disasters
 - Interest rate changes (0.5%+)
 - Key personnel changes
+
+See also: [[real-estate-investment]]
+
+See also: [[scenario-planning]]
+
+See also: [[monte-carlo-simulations]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[monte-carlo-simulation]]

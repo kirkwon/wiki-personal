@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 咖啡豆处理
-description: "咖啡豆处理是收获后关键的加工环节，将咖啡果实转化为可供烘焙的生咖啡豆。这一过程极大地影响最终风味、香气和质量。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- processing
-- post-harvest
-sources:
-- Bean Processing.md
-related:
-- coffee-roasting-咖啡烘焙
-- arabica-coffee-coffea-arabica
-- robusta-coffee-coffea-canephora
-- 蜜处理等级
-- 厌氧发酵处理
-- 咖啡加工质量指标
-- 区域加工传统
----
+
 --
 # 咖啡豆处理
 
@@ -81,3 +60,11 @@ related:
 - **机械收割**：机器震动采摘，混合成熟度，效率高
 
 [[咖啡加工质量指标]] | [[蜜处理等级]] | [[厌氧发酵处理]]
+
+See also: [[coffee-roasting-咖啡烘焙]]
+
+See also: [[arabica-coffee-coffea-arabica]]
+
+See also: [[robusta-coffee-coffea-canephora]]
+
+See also: [[区域加工传统]]

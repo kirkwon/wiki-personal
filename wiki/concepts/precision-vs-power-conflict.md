@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Precision vs. Power Conflict
-description: "Precision vs. Power Conflict"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- mental-models
-- decision-making
-- cognitive-science
-sources:
-- the-great-mental-models-vol-1
-- Precision vs. Power Conflict
-related: [systematic-decision-making, naturalistic-decision-making, recognition-primed-decision-model, decision-quality-vs-outcome-quality]
----
+
 # Precision vs. Power Conflict
 
 The precision vs. power conflict describes the inherent tension between accuracy (precision) and efficiency (power) in thinking processes. This is a fundamental tradeoff in decision-making: more precise analysis takes longer, while powerful (efficient) heuristics sacrifice accuracy for speed.
@@ -31,3 +16,9 @@ Parrish argues that skilled thinkers develop an intuition for when to favor prec
 ## Source
 Shane Parrish, *The Great Mental Models (Vol. 1)*, Chapter 5
 ^[raw/articles/the-great-mental-models-vol-1---shane-parrish.md]
+
+Sources: [[the-great-mental-models-vol-1]]
+
+See also: [[recognition-primed-decision-model]]
+
+See also: [[decision-quality-vs-outcome-quality]]

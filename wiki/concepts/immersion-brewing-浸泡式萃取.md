@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 浸泡式萃取
-description: "浸泡式萃取是将咖啡粉直接浸泡在热水中进行萃取的方法，与滴滤式萃取和压力萃取形成对比。法压壶是浸泡式萃取的主要代表设备。"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- coffee
-- technique
-- brewing
-sources:
-- French Press.md
-related:
-- french-press-coffee-法压壶咖啡
-- pour-over-coffee
-- coffee-bean-processing-咖啡豆处理
-- bloom-technique-闷蒸技术
-- coffee
----
+
 --
 # 浸泡式萃取
 
@@ -58,3 +39,7 @@ related:
 - [[french-press-coffee-法压壶咖啡]] — 主要浸泡式萃取方法
 - [[bloom-technique-闷蒸技术]] — 闷蒸技巧
 - [[pour-over-coffee]] — 滴滤方法对比
+
+See also: [[coffee-bean-processing-咖啡豆处理]]
+
+See also: [[coffee]]

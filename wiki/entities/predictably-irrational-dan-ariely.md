@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Predictably Irrational - Dan Ariely
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- behavioral-economics
-- mental-model
-sources:
-- Price.md
-related:
-- dan-ariely
-- price-mental-model
-- cognitive-biases-library
-- framing-effects
----
+
 -
 # Predictably Irrational - Dan Ariely
 
@@ -31,3 +14,9 @@ Predictably Irrational is Dan Ariely's influential book on behavioral economics,
 ## Relevance to Mental Models
 This work provides the empirical foundation for the [[price-mental-model]], showing how price functions as a conceptual shortcut for navigating complex situations involving value, cost, and perception.
 ---
+
+See also: [[dan-ariely]]
+
+See also: [[cognitive-biases-library]]
+
+See also: [[framing-effects]]

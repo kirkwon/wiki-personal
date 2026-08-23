@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Time Decay (Theta)
-description: "--
-Time Decay (Theta)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- options
-- derivatives
-sources:
-- Options Trading.md
-related:
-- options-trading
-- the-greeks
-- implied-volatility
-- risk-management
----
+
 --
 # Time Decay (Theta)
 
@@ -40,3 +21,7 @@ Theta είναι η ημερήσια απώλεια αξίας που υφίστ
 - [[the-greeks]]
 - [[options-trading]]
 - [[Implied Volatility]]
+
+See also: [[implied-volatility]]
+
+See also: [[risk-management]]

@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Delphi Method
-description: "The term 'Delphi method' is used in two distinct contexts: as a structured, iterative expert forecasting technique designed to aggregate expert judgments while minimizing social influence, and as a pe."
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- decision-making
-- mental-models
-- productivity
-- learning
-sources:
-- the-wisdom-of-crowds
-- Delphi Method
-related: ["crowd-aggregation-methods", "wisdom-of-crowds", "decision-making-frameworks", "the-wisdom-of-crowds", "scatterfocus", "traffic", "conditions", "problems"]
----
+
 # Delphi Method
 
 The term "Delphi method" is used in two distinct contexts: as a structured, iterative expert forecasting technique designed to aggregate expert judgments while minimizing social influence, and as a personal and organizational productivity optimization framework for systematically improving efficiency and output.
@@ -69,3 +53,5 @@ This framework connects to [[scatterfocus]], [[traffic]], [[conditions]], [[Prob
 ## Note on Terminology
 
 This wiki page covers two distinct concepts that share the name "Delphi method." The classic Delphi method, developed by the RAND Corporation, is a structured, iterative forecasting technique using anonymous expert panels to aggregate judgments and minimize groupthink. The productivity framework described here is a separate approach focused on workflow optimization and efficiency, which shares only a thematic connection to the classic method through the concept of iterative refinement and collective intelligence.
+
+See also: [[problems]]

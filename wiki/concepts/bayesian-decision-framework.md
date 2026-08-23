@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Bayesian Decision Framework
-description: "--
-Bayesian Decision Framework"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- decision-making
-- mental-models
-- bayesian-thinking
-sources:
-- decision-making-frameworks.md
-related:
-- bayesian-thinking
-- expected-value-ev
-- thinking-in-bets---annie-duke
+annie-duke
 ---
 --
 # Bayesian Decision Framework
@@ -34,3 +17,5 @@ Bayesiläinen päätöskehys päivittää uskomuksia todisteiden avulla. Laske o
 - [[bayesian-thinking]] – Päivittäminen uskomuksia
 - [[expected-value-ev]] – Odotusarvon periaate
 - [[thinking-in-bets---annie-duke]] – Todennäköisyyspohjainen päätöksenteko
+
+See also: [[thinking-in-bets]]

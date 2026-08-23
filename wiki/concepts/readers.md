@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-title: Readers
-description: "Readers is a mental model that functions as a conceptual tool for navigating complex situations through reading."
-created: 2026-04-29
-updated: 2026-04-29
-type: concept
-tags:
-- mental-model
-- productivity
-- learning
-related:
-- world-disclosure
-- personal-knowledge-vault
-- how-to-take-smart-notes---snke-ahrens
+snke-ahrens
 - the-para-method---tiago-forte
 - readers
 sources:
@@ -30,3 +16,5 @@ It connects to several existing knowledge management concepts:
 - [[the-para-method-tiago-forte]] – PARA organization method
 
 The model is applicable universally with a confidence level of 0.7.
+
+See also: [[how-to-take-smart-notes]]

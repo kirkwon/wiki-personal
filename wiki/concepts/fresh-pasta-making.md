@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Fresh Pasta Making
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking-technique
-- italian
-- pasta
-- baking
-sources:
-- pasta.md
-related:
-- pasta
-- al-dente
-- tagliatelle
----
+
 -
 # Fresh Pasta Making
 
@@ -44,3 +27,9 @@ Fresh pasta cooks much faster than dried:
 
 The texture of fresh pasta is fundamentally different from dried — it is softer and more tender, making it ideal for special occasions and stuffed varieties like [[ravioli]] and [[tortellini]].
 ---
+
+See also: [[pasta]]
+
+See also: [[al-dente]]
+
+See also: [[tagliatelle]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: The Upside of Irrationality - Dan Ariely
-description: "--
-The Upside of Irrationality"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- behavioral-economics
-- irrationality
-- motivation
-sources:
-- Behavior.md
-related:
-- dan-ariely
-- cognitive-biases-library
-- emotion-and-intuition-in-decisions
----
+
 --
 # The Upside of Irrationality
 
@@ -30,3 +11,5 @@ related:
 - The tension between rational analysis and intuitive behavior
 
 This work connects to [[cognitive-biases-library]] and [[emotion-and-intuition-in-decisions]], showing that irrationality has practical value.
+
+See also: [[dan-ariely]]

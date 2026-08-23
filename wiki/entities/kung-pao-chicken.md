@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 宫保鸡丁
-description: "宫保鸡丁（宫保鸡丁）是经典川菜，以甜、酸、辣、咸的完美平衡为特征。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- sichuan
-- chinese
-- recipe
-- dish
-sources:
-- sichuan-cuisine.md
-related:
-- sichuan-cuisine
-- mapo-tofu
-- hot-pot
----
+
 --
 # 宫保鸡丁
 
@@ -34,3 +16,5 @@ related:
 - 酱油、醋、糖
 
 与 [[mapo-tofu]] 和 [[hot-pot]] 并列为川菜经典代表。
+
+See also: [[sichuan-cuisine]]

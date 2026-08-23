@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Communication Skills
-description: "Communication skills encompass the abilities needed to exchange information effectively, including listening, speaking, storytelling, emotional regulation, and persuasive techniques."
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- communication
-- productivity
-- decision-making
-- psychology
-- skills
-sources:
-- first-things-first
-- Communication Skills
-related: [effective-listening, first-things-first-principle, decision-making-frameworks, storytelling-in-communication, social-motivation-system, science-of-persuasion, building-a-cohesive-team, habit-testing, mirroring-neurons, ethics-of-communication]
----
+
 # Communication Skills
 
 Communication skills encompass the abilities needed to exchange information effectively, including listening, speaking, storytelling, emotional regulation, and persuasive techniques. Both Stephen R. Covey and Charles Duhigg emphasize that these skills are essential complements to time management and productivity—they are not peripheral.
@@ -46,3 +29,5 @@ Duhigg argues that applying communication skills consistently—through small ha
 ## Connection to priorities and time management
 
 Miscommunication creates unnecessary urgency (Quadrant 1 firefights), while clear communication prevents crises and aligns teams around shared priorities. This connects to [[first-things-first-principle]] in that communication should serve important goals rather than merely fill time, and to [[building-a-cohesive-team]] as a means of coordinating effort toward those goals.
+
+See also: [[decision-making-frameworks]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-title: 红茶加工工艺
-description: "红茶加工的核心是完全氧化，这是红茶区别于其他茶类的关键特征。"
-created: 2026-04-24
-updated: 2026-04-24
-type: concept
-tags:
-- tea
-- technique
-- beverages
-sources:
-- Black Tea.md
-related:
-- black-tea-红茶-hóng-chá
-- tea
-- oolong-tea-乌龙茶-wūlóng-chá
-- green-tea-绿茶-lǚ-chá
----
+
 --
 # 红茶加工工艺
 
@@ -46,3 +28,5 @@ related:
 - [[black-tea-红茶-hóng-chá]]
 - [[tea]]
 - [[oolong-tea-乌龙茶-wūlóng-chá]]
+
+See also: [[green-tea-绿茶-lǚ-chá]]

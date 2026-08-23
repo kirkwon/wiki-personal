@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Crema Assessment (油脂层评估)
-description: "--
-Crema Assessment (油脂层评估)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- espresso
-- quality
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- channeling
-- bloom-technique-闷蒸技术
----
+
 --
 # Crema Assessment (油脂层评估)
 
@@ -36,3 +18,9 @@ Crema是意式浓缩咖啡表面那层深红棕色的泡沫层，是萃取质量
 - 深色发黑：可能萃取过度
 
 优质crema表明咖啡新鲜、研磨均匀、分布和压粉得当、萃取参数合理。
+
+See also: [[espresso-意大利浓缩咖啡]]
+
+See also: [[channeling]]
+
+See also: [[bloom-technique-闷蒸技术]]

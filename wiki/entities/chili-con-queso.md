@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Chili con queso
-description: "El chili con queso es un dip de queso fundido característico de la cocina Tex-Mex."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- recipe
-- tex-mex
-- sauce
-sources:
-- tex-mex.md
-related:
-- tex-mex
-- nachos
-- refried-beans
----
+
 --
 # Chili con queso
 
@@ -36,3 +19,9 @@ El chili con queso es un dip de queso fundido característico de la cocina Tex-M
 5. Servir con tortilla chips
 
 Es un plato de comfort food que se mantiene caliente y es ideal como acompañamiento o aperitivo en reuniones.
+
+See also: [[tex-mex]]
+
+See also: [[nachos]]
+
+See also: [[refried-beans]]

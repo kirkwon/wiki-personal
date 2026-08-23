@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Sequence of Returns Risk
-description: "--
-Κίνδυνος Σειράς Επιστροφών"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- retirement
-- risk-management
-- sequence-of-returns-risk
-- retirement-planning
-sources:
-- Risk Management.md
-related:
-- retirement-planning
-- risk-management
-- dollar-cost-averaging
-- withdrawal-rate
----
+
 --
 # Κίνδυνος Σειράς Επιστροφών
 
@@ -36,3 +14,5 @@ related:
 
 ## Σύνδεση με άλλες έννοιες
 Συνδέεται με [[retirement-planning]], [[risk-management]], [[withdrawal-rate]], [[προσαρμογή-αποχίρησης]] και [[σκέψη-λόγω-αποχίρησης]].
+
+See also: [[dollar-cost-averaging]]

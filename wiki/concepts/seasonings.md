@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Seasonings
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking
-- ingredients
-- gastronomy
-sources:
-- Gastronomy.md
-related:
-- aromatics
-- flavor-theory
-- ingredient-pairings
-- salmon
----
+
 -
 # Seasonings
 
@@ -30,3 +13,7 @@ Key seasonings include:
 
 Seasonings are central to [[umami-building-blocks]] and [[ingredient-pairings]], and work alongside [[aromatics]] like ginger, garlic, and scallion to build flavor layers.
 ---
+
+See also: [[flavor-theory]]
+
+See also: [[salmon]]

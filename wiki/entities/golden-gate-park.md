@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Golden Gate Park
-description: "Golden Gate Park est un grand parc urbain majeur situé dans l'ouest de San Francisco, entre le [[sunset-district]] et l'océan Pacifique."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- local
-- sf
-- parks
-- bay-area
-sources:
-- san-francisco-city-guide.md
-related:
-- de-young-museum
-- dolores-park
-- lands-end
-- sunset-district
-- ocean-beach
-- san-francisco
-- coit-tower
----
+
 --
 # Golden Gate Park
 
@@ -39,3 +17,13 @@ Golden Gate Park est un grand parc urbain majeur situé dans l'ouest de San Fran
 ## Accès
 
 Accessible à pied, en vélo ou en transport en commun depuis le [[sunset-district]] et les quartiers voisins. Le parc est idéal pour une journée entière d'exploration.
+
+See also: [[de-young-museum]]
+
+See also: [[lands-end]]
+
+See also: [[ocean-beach]]
+
+See also: [[san-francisco]]
+
+See also: [[coit-tower]]

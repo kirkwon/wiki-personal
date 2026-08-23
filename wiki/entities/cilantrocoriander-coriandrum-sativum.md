@@ -1,39 +1,4 @@
----
-date: 2026-04-21
-type: entity
-title: Cilantro/Coriander (Coriandrum sativum)
-description: "--
-Cilantro/Coriander (Coriandrum sativum)"
-created: 2026-04-21
-updated: 2026-04-24
-tags:
-- herbs
-- spices
-- ingredient
-- mexican-cuisine
-- indian-cuisine
-- thai-cuisine
-- vietnamese-cuisine
-- middle-eastern-cuisine
-sources:
-- Cilantro-Coriander.md
-related:
-- herbs-spices
-- aromatics
-- basil-ocimum-basilicum
-- rosemary-rosmarinus-officinalis
-- cumin-cuminum-cyminum
-- mexican-cuisine
-- indian-cuisine
-- thai-cuisine
-- vietnamese-cuisine
-- middle-eastern-cuisine
-- classic-pico-de-gallo
-- coriander-cumin-marinade
-- thai-cilantro-salad
-- coriander-orange-relish
-- sensibilidad-genetica-cilantro
----
+
 --
 # Cilantro/Coriander (Coriandrum sativum)
 
@@ -81,3 +46,21 @@ Lima, ajo, comino, chiles, tomates, aguacate, mariscos, frijoles.
 ## Referencias
 
 Ver también: [[sensibilidad-genetica-cilantro]], [[classic-pico-de-gallo]], [[coriander-cumin-marinade]], [[thai-cilantro-salad]], [[coriander-orange-relish]]
+
+See also: [[herbs-spices]]
+
+See also: [[aromatics]]
+
+See also: [[basil-ocimum-basilicum]]
+
+See also: [[rosemary-rosmarinus-officinalis]]
+
+See also: [[cumin-cuminum-cyminum]]
+
+See also: [[mexican-cuisine]]
+
+See also: [[indian-cuisine]]
+
+See also: [[thai-cuisine]]
+
+See also: [[vietnamese-cuisine]]

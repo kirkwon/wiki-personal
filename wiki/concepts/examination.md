@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Examination
-description: "Examination is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- analysis
-sources:
-- Examination.md
-confidence: medium
-related:
-- david-epstein
-- thinking-mental-model
-- reality-mental-model
-- analysis
-- overview
----
+
 --
 # Examination
 
@@ -28,3 +9,7 @@ This mental model is referenced in David Epstein's *The Sports Gene*, where it a
 Examination functions as a universal mental model applicable across all domains. Its core purpose is to serve as a framework for making sense of complexity through scrutiny and identifying underlying patterns and relationships.^[raw/articles/Examination.md]
 
 It connects to other mental model pages such as [[thinking-mental-model]], [[reality-mental-model]], and [[analysis]], which also deal with pattern recognition and sense-making in complex situations.
+
+See also: [[david-epstein]]
+
+See also: [[overview]]

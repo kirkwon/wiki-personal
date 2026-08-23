@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 茶叶氧化
-description: "氧化是茶叶加工的核心环节，决定了茶类的风味特征。乌龙茶通过控制8-80%的部分氧化实现独特风味。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- technique
-- gastronomy
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- gongfu-cha-功夫茶
-- rock-tea-岩茶
----
+
 --
 # 茶叶氧化
 
@@ -34,3 +17,9 @@ related:
 - 摇青 bruising 程度决定氧化起点
 - 杀青停止氧化时机
 - 不同品种的氧化目标不同
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[gongfu-cha-功夫茶]]
+
+See also: [[rock-tea-岩茶]]

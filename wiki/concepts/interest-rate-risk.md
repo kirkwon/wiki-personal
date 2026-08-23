@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Interest Rate Risk
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- real-estate
-- risk-management
-sources:
-- Risk Assessment Framework.md
-related:
-- leverage-risk-real-estate
-- stress-testing-investments
-- real-estate-investment
----
+
 -
 # Interest Rate Risk
 
@@ -29,3 +13,9 @@ Risk arising from changes in interest rates affecting loan costs, property value
 ## Management Strategies
 Fixed vs. variable mix (70/30 to 50/50 depending on outlook), interest rate hedges (swaps, caps, collars), refinancing timing aligned with market cycles, and loan structures avoiding balloon payments.
 ---
+
+See also: [[leverage-risk-real-estate]]
+
+See also: [[stress-testing-investments]]
+
+See also: [[real-estate-investment]]

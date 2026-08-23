@@ -1,24 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Post-Pandemic Business Transformation
-description: "--
-Post-Pandemic Business Transformation"
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- technology
-- business-strategy
-- geopolitics
-sources:
-- Post Corona_ From Crisis to Opportunity - Scott Galloway.md
-related:
-- remote-work
-- platform-dominance
-- urban-resilience
-- nationalism-vs-globalization
-- scott-galloway
----
+
 --
 # Post-Pandemic Business Transformation
 
@@ -41,3 +21,7 @@ Post-pandemic business transformation refers to the fundamental rethinking of bu
 - [[working-backwards]]
 - [[decision-making-frameworks]]
 - [[urban-resilience]]
+
+See also: [[nationalism-vs-globalization]]
+
+See also: [[scott-galloway]]

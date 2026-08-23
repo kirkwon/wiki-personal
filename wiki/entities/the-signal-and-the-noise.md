@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Signal and the Noise
-description: "--
-The Signal and the Noise"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- prediction
-- statistics
-sources:
-- The Signal and the Noise - Nate Silver.md
-related:
-- signal-to-noise-ratio
-- bayesian-thinking
-- ensemble-prediction-methods
-- calibration-training
-- superforecasting---philip-e-tetlock-dan-gardner
+philip-e-tetlock-dan-gardner
 ---
 --
 # The Signal and the Noise
@@ -33,3 +14,13 @@ Book by Nate Silver examining why predictions fail and how to distinguish meanin
 - Calibration training ensures confidence matches accuracy
 - Some systems are inherently unpredictable (earthquakes, regime shifts)
 - Prediction is about managing uncertainty, not achieving certainty
+
+See also: [[signal-to-noise-ratio]]
+
+See also: [[bayesian-thinking]]
+
+See also: [[ensemble-prediction-methods]]
+
+See also: [[calibration-training]]
+
+See also: [[superforecasting]]

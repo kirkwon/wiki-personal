@@ -1,27 +1,4 @@
----
-created: 2026-04-24
-sources:
-- Mutual Funds vs ETFs in Taxable Accounts.md
-tags:
-- personal-finance
-- investments
-- mutual-funds
-- etf
-- taxable-accounts
-- tax-efficiency
-date: 2026-04-24
-title: Mutual Funds vs ETFs in Taxable Accounts
-type: comparison
-updated: 2026-05-09
-related:
-- personal-finance
-- tax-efficiency
-- capital-gains-distributions
-- in-kind-redemption
-- tax-loss-harvesting
-- expense-ratios
-- index-investing
----
+
 -
 
 # Mutual Funds vs ETFs in Taxable Accounts
@@ -261,3 +238,5 @@ When indices rebalance (add/remove stocks), funds tracking those indices must tr
 *Created: 2026-04-23*
 *Last Updated: 2026-04-23*
 ---
+
+See also: [[personal-finance]]

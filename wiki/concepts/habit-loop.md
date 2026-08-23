@@ -1,29 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Habit Loop
-description: "The Habit Loop is a neurological feedback loop that governs how habits are formed and maintained."
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- knowledge
-- learning
-- skill-candidate
-- cognitive-science
-- psychology
-- behavioral-economics
-- productivity
-- habits
-- behavioral-science
-- habit-formation
-- behavior-change
-- habit
-- mental-models
-sources:
-- supercommunicators
-- Habit Loop
-related: [the-power-of-habit-concept, charles-duhigg, supercommunicators-charles-duhigg-book-summary, golden-rule-of-habit-change, craving-brain, keystone-habits, hook-model, external-triggers, internal-triggers, habit-testing, fizzgogg-behavior-model, the-4-hour-body, habit-stacking, implementation-intentions, variable-reward-design, habit-change-golden-rule]
----
+
 
 # Habit Loop
 
@@ -76,3 +51,21 @@ The habit loop overlaps with [[habit-testing]], [[hook-model]], and [[fizzgogg-b
 ## When to Use
 
 When you want to create a new habit, break a bad habit, or understand why you do what you do automatically.
+
+Sources: [[supercommunicators]]
+
+See also: [[the-power-of-habit-concept]]
+
+See also: [[charles-duhigg]]
+
+See also: [[supercommunicators-charles-duhigg-book-summary]]
+
+See also: [[keystone-habits]]
+
+See also: [[the-4-hour-body]]
+
+See also: [[habit-stacking]]
+
+See also: [[implementation-intentions]]
+
+See also: [[variable-reward-design]]

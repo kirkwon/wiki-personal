@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Factors
-description: "Factors is a universal mental model serving as a conceptual tool for navigating complexity through pattern and relationship recognition."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Factors.md
-related:
-- supercommunicators-charles-duhigg
-- thinking-mental-model
-- solutions-mental-model
-- environment
-- stillness
-- pca-random-matrix-theory-equity-markets
-- mean-variance-myopia-under-stochastic-volatility
-- smart-money-concepts-ict-python
----
+
 --
 # Factors
 
@@ -56,3 +35,11 @@ Factors relates to and extends existing mental models in the wiki:
 
 - How does Factors differ from [[thinking-mental-model]] or [[solutions-mental-model]]? The boundaries between these meta-frameworks need clarification to avoid redundancy.
 - Is Factors more useful as a deliberate analytical tool or as an intuitive heuristic?
+
+See also: [[supercommunicators-charles-duhigg]]
+
+See also: [[pca-random-matrix-theory-equity-markets]]
+
+See also: [[mean-variance-myopia-under-stochastic-volatility]]
+
+See also: [[smart-money-concepts-ict-python]]

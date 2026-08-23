@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Memphis BBQ
-description: "Memphis BBQ centers on pork ribs with a heavy dry rub and optional sweet sauce glaze."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cuisine
-- american
-- barbecue
-- cooking
-sources:
-- bbq-regions.md
-related:
-- bbq-regions
-- bbq-techniques
-- american-bbq-philosophy
----
+
 --
 # Memphis BBQ
 
@@ -53,3 +35,9 @@ Memphis BBQ centers on pork ribs with a heavy dry rub and optional sweet sauce g
 - Dry (no sauce) — Memphis tradition
 - Light sauce (Memphis sweet tomato) — optional
 ^[raw/articles/bbq-regions.md]
+
+See also: [[bbq-regions]]
+
+See also: [[bbq-techniques]]
+
+See also: [[american-bbq-philosophy]]

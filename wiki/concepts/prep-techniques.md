@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Prep Techniques
-description: "Prep techniques encompass the preparatory steps that occur before cooking begins."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- cooking
-- technique
-- category
-sources:
-- Cooking Techniques.md
-related:
-- cooking-techniques
-- seasoning-methods
-- heat-based-techniques
-- ingredient-pairings
-- stir-fry-technique
----
+
 --
 # Prep Techniques
 
@@ -41,3 +22,7 @@ Prep techniques work alongside [[heat-based-techniques]] and [[seasoning-methods
 - [[category-heat-based-techniques]]
 - [[category-seasoning-methods]]
 - [[ingredient-pairings]]
+
+See also: [[cooking-techniques]]
+
+See also: [[stir-fry-technique]]

@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: source
-tags: [autoresearch, curated-list, awesome-list, survey]
-related: [autoresearch-pattern, karpathy-autoresearch-loop, experiment-loop]
----
 
 # awesome-autoresearch
 
@@ -70,3 +64,7 @@ The repo ships its own curation agent skill at `.agents/skills/autoresearch-cura
 - **100-round scaffold opt** — optimizing the agent harness itself
 - **Self-healing** — autonomous recovery from experiment failures
 - **Evidence-gated** — falsification gates before promotion
+
+See also: [[autoresearch-pattern]]
+
+See also: [[karpathy-autoresearch-loop]]

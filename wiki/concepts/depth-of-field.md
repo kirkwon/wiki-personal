@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Depth of Field
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- fundamentals
-- exposure
-- composition
-sources:
-- photography-fundamentals.md
-related:
-- aperture
-- exposure-triangle
-- composition-techniques
----
+
 -
 # Depth of Field
 
@@ -26,3 +9,5 @@ Depth of field is the range of distance in a photograph that appears acceptably 
 
 See [[aperture]] and [[exposure-triangle]] for how depth of field relates to the full exposure framework.
 ---
+
+See also: [[composition-techniques]]

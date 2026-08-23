@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The Winner's Curse - Richard Thaler
-description: "The Winner's Curse - Richard Thaler"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- behavioral-economics
-- decision-making
-sources:
-- the-winners-curse
-- The Winner's Curse - Richard Thaler
-related: [winner's-curse, mental-accounting, framing-effects, overconfidence-and-certainty, hyperbolic-discounting, nudging-libertarian-paternalism, disposition-effect, hedonic-adaptation, fairness-and-decision-making]
----
+
 # The Winner's Curse - Richard Thaler
 
 Richard Thaler's 2024 book *The Winner's Curse* is a comprehensive synthesis of behavioral economics research showing how human economic behavior is systematically irrational in predictable ways. The central metaphor describes how the highest bidder in an uncertain-value auction overpays because winning requires the most optimistic estimate—and this logic generalizes to corporate takeovers, oil leases, financial trading, and everyday decisions.
@@ -49,3 +34,19 @@ Richard Thaler's 2024 book *The Winner's Curse* is a comprehensive synthesis of 
 ## Connections
 
 This work extends [[thinking-fast-and-slow---daniel-kahneman]] by applying behavioral insights to markets, policy, and institutions. It connects to [[overconfidence-and-certainty]], [[decision-making-under-uncertainty]], [[ethical-design-manipulation-question]], and [[fairness-and-decision-making]].
+
+Sources: [[The Winner's Curse - Richard Thaler]]
+
+See also: [[winner's-curse]]
+
+See also: [[mental-accounting]]
+
+See also: [[framing-effects]]
+
+See also: [[hyperbolic-discounting]]
+
+See also: [[nudging-libertarian-paternalism]]
+
+See also: [[disposition-effect]]
+
+See also: [[hedonic-adaptation]]

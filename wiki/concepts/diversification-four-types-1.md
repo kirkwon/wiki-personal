@@ -1,25 +1,4 @@
----
 
-date: 2026-04-24
-type: concept
-title: 'Diversification: Four Types'
-description: "--"
-Diversification: Four Types""
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- risk-management
-sources:
-- The Algebra of Wealth.md
-related:
-- the-algebra-of-wealth
-- wealth-formula-focus-stoicism-time-diversification
-- personal-finance
-- real-estate-investment
-
----
 --
 # Diversification: Four Types
 
@@ -70,3 +49,7 @@ Verschiedene Anlageklassen performen zu verschiedenen Zeiten unterschiedlich:
 - [[real-estate-investment]] – Immobilien als Anlageklasse
 - [[investment-strategies-for-life-satisfaction]] – Langfristige Strategie
 - [[personal-finance]] – Breiterer Finanzrahmen
+
+See also: [[the-algebra-of-wealth]]
+
+See also: [[wealth-formula-focus-stoicism-time-diversification]]

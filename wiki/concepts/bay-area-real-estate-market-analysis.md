@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Bay Area Real Estate Market Analysis
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- real-estate
-- bay-area
-- market-analysis
-sources:
-- Bay Area Market Analysis.md
-related:
-- real-estate-investment
-- yield-trap
-- cost-basis
-- proposition-19-overview
-- tax-torpedoes-in-retirement
-- 1031-exchange-strategy
-- personal-finance
----
+
 -
 # Bay Area Real Estate Market Analysis
 
@@ -53,3 +33,5 @@ El documento recomienda un enfoque paciente priorizando flujos de caja, diversif
 ## Conexiones con el wiki
 Este análisis refuerza [[real-estate-investment]] con datos específicos del Bay Area, extiende [[1031-exchange-strategy]] con contexto de mercado, y conecta con [[proposition-19-overview]] y [[tax-torpedoes-in-retirement]] sobre planificación fiscal. El bajo rendimiento de renta del 4.2% se relaciona directamente con [[yield-trap]] y [[cost-basis]] como factores críticos en la planificación inmobiliaria.
 ---
+
+See also: [[personal-finance]]

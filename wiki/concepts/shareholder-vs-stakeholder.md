@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Shareholder vs Stakeholder Prioritization
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- business
-- capitalism
-- corporate-governance
-sources:
-- Adrift - Scott Galloway.md
-related:
-- the-four
-- scott-galloway
-- responsible-capitalism
-- decision-culture
----
+
 -
 # Shareholder vs Stakeholder Prioritization
 
@@ -38,3 +21,7 @@ Galloway describes how corporate priorities have shifted from serving customers 
 ## Source
 ^[Adrift - Scott Galloway.md]
 ---
+
+See also: [[the-four]]
+
+See also: [[scott-galloway]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: When to stop predicting
-description: "--
-When to stop predicting"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- prediction
-- decision-making
-- uncertainty
-sources:
-- The Signal and the Noise - Nate Silver.md
-related:
-- regime-shifts-in-prediction
-- overfitting
-- uncertainty
----
+
 --
 # When to stop predicting
 
@@ -35,3 +17,9 @@ Knowing when prediction is futile or counterproductive. Silver argues that ackno
 ## Connection to Regime Shifts
 
 Regime shifts are a primary reason to stop predicting—when the underlying system changes, historical models become unreliable.
+
+See also: [[regime-shifts-in-prediction]]
+
+See also: [[overfitting]]
+
+See also: [[uncertainty]]

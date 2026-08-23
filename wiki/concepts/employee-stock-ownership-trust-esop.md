@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Employee Stock Ownership Trust (ESOP)
-description: "--
-Employee Stock Ownership Trust (ESOP)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- business
-sources:
-- Trusts Guide.md
-related:
-- trusts-guide
-- real-estate-trusts
----
+
 --
 # Employee Stock Ownership Trust (ESOP)
 
@@ -46,3 +28,5 @@ A business trust structure where employees own company stock held in trust, faci
 - Integration with employee ownership plans
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[real-estate-trusts]]

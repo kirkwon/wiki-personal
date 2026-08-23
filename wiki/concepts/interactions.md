@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Interactions
-description: "Interactions is a universal mental model for navigating complex situations through pattern and relationship recognition."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Interactions.md
-related:
-- minimalism
-- supercommunicators-charles-duhigg
-- environment
-- settings
-- communication-skills
-- effective-listening
-- overview
-- group
-- thinking-mental-model
----
+
 --
 # Interactions
 
@@ -52,3 +30,5 @@ Interactions connects to several existing mental models:
 ## Confidence and Limitations
 
 Confidence is rated at 0.7, reflecting that this model is still underdeveloped. The definition is broad and overlaps with existing models like [[overview]], [[group]], and [[thinking-mental-model]]. Further development would benefit from sharper distinguishing principles and more concrete applications.
+
+See also: [[supercommunicators-charles-duhigg]]

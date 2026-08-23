@@ -1,23 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Art of Storytelling
-description: "The Art of Storytelling refers to the skill of crafting and delivering narratives to engage an audience, convey information, inspire action, or build connection."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- communication
-- creativity
-- writing
-- learning
-- psychology
-related:
-- supercommunicators-charles-duhigg-book-summary
-- effective-communication
-sources:
-- supercommunicators
-- supercommunicators-charles-duhigg-book-summary
----
+
 # Art of Storytelling
 
 The Art of Storytelling refers to the skill of crafting and delivering narratives to engage an audience, convey information, inspire action, or build connection. It is a powerful communication tool that leverages human psychology to make messages more memorable, relatable, and impactful than mere facts or data.
@@ -39,3 +20,9 @@ As highlighted in "[[supercommunicators-charles-duhigg-book-summary|Supercommuni
 *   **Improve Memory:** Information presented in story form is significantly easier to recall than isolated facts.
 
 Whether in personal conversations, business presentations, or public speaking, integrating compelling narratives can transform communication from merely informative to truly impactful.
+
+Sources: [[supercommunicators]]
+
+Sources: [[supercommunicators-charles-duhigg-book-summary]]
+
+See also: [[effective-communication]]

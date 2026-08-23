@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-title: Skin in the Game - Nassim Nicholas Taleb
-description: "Skin in the Game - Nassim Nicholas Taleb"
-type: source
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- books
-- philosophy
-- decision-making
-- ethics
-- risk
-- accountability
-sources:
-- skin-in-the-game
-- Skin in the Game - Nassim Nicholas Taleb
----
+
 # Skin in the Game - Nassim Nicholas Taleb
 
 Taleb's later work on accountability and moral hazard builds on the epistemological foundations laid out in *Fooled by Randomness*. Where *Fooled by Randomness* diagnoses how humans misinterpret chance, *Skin in the Game* prescribes the principle that decision-makers must bear consequences of their decisions.
@@ -25,3 +8,5 @@ The connection between the two works is central: the delusion of expertise and t
 The book examines skin in the game as a moral and structural principle, covering antifragility, black swan events, leverage dangers, asymmetric information, and the ethics of uncertainty. Key themes include accountability in financial and political systems, the fragility created by excessive leverage without personal stake, probability distributions and risk management, and the philosophical foundations of antifragility as a system that strengthens under stress.
 
 See also: [[fooled-by-randomness---nassim-nicholas-taleb]], [[skin-in-the-game]]
+
+Sources: [[Skin in the Game - Nassim Nicholas Taleb]]

@@ -1,17 +1,7 @@
----
+Sources: [[the-4-hour-chef]]
 
-date: 2026-05-03
-type: concept
-title: Creating the Ultimate Meal-Prep Routine
-description: "Creating the Ultimate Meal-Prep Routine. Systematizing food preparation to ensure consistent nutrition and save time throughout the week."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- cooking
-- meal-planning
-- nutrition
-sources:
-- the-4-hour-chef
-- Creating the Ultimate Meal-Prep Routine
-related: [meal-prep-blueprint, batch-cooking, planning-your-week-meal-prep-blueprint]
----
+See also: [[meal-prep-blueprint]]
+
+See also: [[batch-cooking]]
+
+See also: [[planning-your-week-meal-prep-blueprint]]

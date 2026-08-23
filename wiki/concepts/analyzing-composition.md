@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Analyzing Composition
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- photography-fundamentals
-- post-processing
----
+
 -
 # Analyzing Composition
 
@@ -35,3 +20,9 @@ Analyzing composition is the skill of understanding why a photograph works by ex
 
 Developing this analytical skill helps photographers make more intentional composition choices.
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[photography-fundamentals]]
+
+See also: [[post-processing]]

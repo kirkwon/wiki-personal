@@ -1,15 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Analogy in Problem-Solving
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- problem-solving
-- heuristics
-- reasoning
-related:
-- how-to-solve-it---george-polya
+george-polya
 - heuristic-problem-solving
 - recognition-primed-decision-model
 - polya-four-steps
@@ -25,3 +14,5 @@ This strategy directly parallels the [[recognition-primed-decision-model]], wher
 
 Polya asks two key questions: "Do you know a related problem?" and "Here is a problem related to yours and solved before"—both pointing to the same principle of drawing on a repertoire of solved problems.
 ---
+
+See also: [[how-to-solve-it]]

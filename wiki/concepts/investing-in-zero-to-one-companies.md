@@ -1,17 +1,5 @@
----
+See also: [[zero-to-one-thinking]]
 
-date: 2026-05-03
-type: concept
-title: Investing in Zero-to-One Companies
-description: "Providing capital to companies creating entirely new markets or technologies from scratch."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- venture-capital
-- investment
-- decision-making
-sources:
-- zero-to-one
-- Investing in Zero-to-One Companies
-related: [zero-to-one-thinking, decision-quality-vs-outcome-quality, decision-making-frameworks]
----
+See also: [[decision-quality-vs-outcome-quality]]
+
+See also: [[decision-making-frameworks]]

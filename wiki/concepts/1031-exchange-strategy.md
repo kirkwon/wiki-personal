@@ -1,36 +1,4 @@
----
-created: 2026-04-24
-sources:
-- 1031 Exchange Strategy.md
-tags:
-- skill-candidate
-- finance
-- real-estate
-- investing
-- investment-strategy
-- tax
-- personal-finance
-date: 2026-04-24
-title: 1031 Exchange Strategy
-description: "1031 Exchange Strategy"
-type: concept
-updated: 2026-05-09
-related:
-- real-estate-investment
-- cost-basis
-- return-of-capital
-- yield-trap
-- boot
-- personal-finance
-- retirement-planning
-- investment-strategies-for-life-satisfaction
-- boot-in-1031-exchanges
-- 1031-identification-rules
-- depreciation-recapture-deferral
-- reverse-1031-exchange
-- qualified-intermediary
-- like-kind-requirement
----
+
 --
 
 # 1031 Exchange Strategy
@@ -332,3 +300,21 @@ Taxable Amount = Mortgage Boot × Capital Gain Percentage
 - [[return-of-capital]]
 - [[real-estate-investment]]
 - [[yield-trap]]
+
+See also: [[personal-finance]]
+
+See also: [[retirement-planning]]
+
+See also: [[investment-strategies-for-life-satisfaction]]
+
+See also: [[boot-in-1031-exchanges]]
+
+See also: [[1031-identification-rules]]
+
+See also: [[depreciation-recapture-deferral]]
+
+See also: [[reverse-1031-exchange]]
+
+See also: [[qualified-intermediary]]
+
+See also: [[like-kind-requirement]]

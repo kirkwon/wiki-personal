@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Government Policy Effects
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- economics
-- policy
-- fiscal-policy
-sources:
-- How the Economic Machine Works - Ray Dalio.md
-related:
-- how-the-economic-machine-works---ray-dalio
+ray-dalio
 - policy
 - markets
 - growth
@@ -23,3 +10,5 @@ Government policies—including fiscal policy, taxation, regulation, and spendin
 
 Fiscal policy adjusts government spending and taxation to stimulate or restrain economic activity. Regulation shapes market structure and competitive dynamics. Understanding these policy tools and their interactions with other economic forces is essential for making informed decisions.
 ---
+
+See also: [[how-the-economic-machine-works]]

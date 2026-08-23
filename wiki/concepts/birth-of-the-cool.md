@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Birth of the Cool
-description: "Birth of the Cool refers to the 1949-1950 nonet recordings that defined the cool jazz movement."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- cool-jazz
-- history
-sources:
-- miles-davis.md
-related:
-- miles-davis
-- gil-evans
-- cool-jazz
----
+
 --
 # Birth of the Cool
 
@@ -30,3 +13,9 @@ Birth of the Cool refers to the 1949-1950 nonet recordings that defined the cool
 - "Boplicity"
 - "Moon Dreams"
 ^[raw/articles/miles-davis.md]
+
+See also: [[miles-davis]]
+
+See also: [[gil-evans]]
+
+See also: [[cool-jazz]]

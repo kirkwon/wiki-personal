@@ -1,30 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Science of Persuasion
-description: "Science of Persuasion"
-created: 2026-05-03
-updated: 2026-05-12
-tags:
-- psychology
-- behavioral-economics
-- communication
-- decision-making
-- influence
-- cognitive-bias
-- persuasion
-related:
-- cognitive-biases-library
-- decision-making-frameworks
-- supercommunicators-charles-duhigg-book-summary
-- communication-skills
-- storytelling-in-communication
-- emotional-intelligence-in-communication
-- ethics-of-communication
-sources:
-- supercommunicators
-- cognitive-biases-library
----
+
 
 # Science of Persuasion
 
@@ -62,3 +36,13 @@ Duhigg emphasizes in Chapter 10 that persuasion must be balanced with authentici
 - [[storytelling-in-communication]]
 - [[emotional-intelligence-in-communication]]
 - [[ethics-of-communication]]
+
+Sources: [[supercommunicators]]
+
+Sources: [[cognitive-biases-library]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[supercommunicators-charles-duhigg-book-summary]]
+
+See also: [[communication-skills]]

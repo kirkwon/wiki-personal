@@ -1,25 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Environment
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- cognitive-science
-- decision-making
-sources:
-- Environment.md
-confidence: 0.7
-related:
-- planning
-- settings
-- solutions
-- stillness
-- group
-- deep-work
-- the-sports-gene
----
+
 -
 # Environment
 
@@ -39,3 +18,13 @@ The Environment mental model is universal in scope, applicable to knowledge work
 ## Confidence
 Current confidence in this model is moderate (0.7), suggesting it is still being refined through further application and cross-source validation.
 ---
+
+See also: [[solutions]]
+
+See also: [[stillness]]
+
+See also: [[group]]
+
+See also: [[deep-work]]
+
+See also: [[the-sports-gene]]

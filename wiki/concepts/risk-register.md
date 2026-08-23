@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Risk Register
-description: "A documentation tool for cataloging identified risks with their characteristics, analysis, and response plans."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- risk-management
-- decision-making
-- investment-risk
-- documentation
-sources:
-- Risk Assessment Framework.md
-related:
-- risk-assessment-framework
-- risk-matrix
-- risk-dashboard
----
+
 --
 # Risk Register
 
@@ -36,3 +17,7 @@ Each risk entry includes: Risk ID, Risk Category, Risk Description, Probability,
 ## Monitoring
 
 Risk registers are maintained alongside Key Risk Indicators (KRIs) including DSCR, LTV, cash flow variance, vacancy rates, rent growth, tenant turnover, and economic metrics. Reviews occur monthly (financial performance, occupancy), quarterly (portfolio review, strategy adjustments), and annually (comprehensive assessment, new risks identification).
+
+See also: [[risk-matrix]]
+
+See also: [[risk-dashboard]]

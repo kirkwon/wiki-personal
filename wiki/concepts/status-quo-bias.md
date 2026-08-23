@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Status Quo Bias
-description: "Status quo bias is the preference for the current state of affairs."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cognitive-bias
-- decision-making
-- psychology
-sources:
-- cognitive-biases-library.md
-related:
-- cognitive-biases-library
-- loss-aversion
-- decision-making-frameworks
----
+
 --
 # Status Quo Bias
 
@@ -31,3 +14,5 @@ Status quo bias is the preference for the current state of affairs. People tend 
 
 ## Connection to Other Concepts
 Related to [[loss-aversion]] and [[decision-making-frameworks]]. This bias contributes to suboptimal choices and lack of progress.
+
+See also: [[cognitive-biases-library]]

@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 徽菜
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- regional
-- cuisine
-sources:
-- regional-overview.md
-related:
-- chinese-regional-cuisines
-- sichuan-cuisine
----
+
 -
 # 徽菜
 
@@ -41,3 +26,7 @@ related:
 - 泥土风味
 - 质朴、饱腹
 ---
+
+See also: [[chinese-regional-cuisines]]
+
+See also: [[sichuan-cuisine]]

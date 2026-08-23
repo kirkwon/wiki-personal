@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Medicaid Planning Trusts
-description: "--
-Medicaid Planning Trusts"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- estate-planning
-- trusts
-- healthcare
-sources:
-- Trusts Guide.md
-related:
-- irrevocable-trusts
-- special-needs-trust
-- trusts-guide
----
+
 --
 # Medicaid Planning Trusts
 
@@ -41,3 +22,7 @@ Special irrevocable trusts designed to qualify individuals for Medicaid benefits
 - **State Variations**: Significant differences between states
 
 [[trusts-guide]] ^[raw/articles/Trusts Guide.md]
+
+See also: [[irrevocable-trusts]]
+
+See also: [[special-needs-trust]]

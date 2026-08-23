@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Ramit Sethi
-description: "Personal finance educator and author of I Will Teach You to Be Rich, a six-week program for automating personal finances."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- person
-- personal-finance
-- author
-sources:
-- I Will Teach You to Be Rich.md
-related:
-- i-will-teach-you-to-be-rich-ramit-sethi
-- conscious-spending-plan
-- automation-over-willpower
----
+
 --
 # Ramit Sethi
 
@@ -30,3 +13,7 @@ Key contributions:
 
 His approach aligns with [[the-psychology-of-money]]'s emphasis on behavior over knowledge and connects to [[automation-over-willpower]] as a behavioral finance strategy.
 ^[raw/articles/I Will Teach You to Be Rich.md]
+
+See also: [[i-will-teach-you-to-be-rich-ramit-sethi]]
+
+See also: [[conscious-spending-plan]]

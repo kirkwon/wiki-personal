@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Time management and priority setting
-description: "--
-Time management and priority setting"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-sources:
-- Time management and priority setting.md
-related:
-- time-management-matrix
-- quadrant-2-focus
-- audit-apply-iterate-scale-framework
-- deep-work - Cal Newport
-- getting-things-done---david-allen
+david-allen
 - first-things-first---stephen-r-covey
 - scatterfocus
 - attention-residue
@@ -40,3 +22,5 @@ The skill follows the [[audit-apply-iterate-scale-framework]]: audit your curren
 ## Related Concepts
 
 Connects to [[time-management-matrix]], [[quadrant-2-focus]], [[deep-work---cal-newport]], [[getting-things-done---david-allen]], and [[first-things-first---stephen-r-covey]]. Related skills include [[scatterfocus]], [[error-correction-mechanisms]], and [[peer-accountability-systems]].
+
+See also: [[getting-things-done]]

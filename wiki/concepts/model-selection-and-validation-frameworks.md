@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Model selection and validation frameworks
-description: "--
-Model selection and validation frameworks"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- mental-model
-sources:
-- Model selection and validation frameworks.md
-related:
-- systematic-decision-making
-- scatterfocus
-- hyperfocus
-- thinking-mental-model
-- decision-making-frameworks
----
+
 --
 # Model selection and validation frameworks
 
@@ -46,3 +26,11 @@ This framework connects to [[error-correction-mechanisms]], [[peer-accountabilit
 ## Confidence and Limitations
 
 The skill is primarily discussed in a single source, offering a focused but limited perspective. Confidence in the framework's robustness is moderate, and its relationship to statistical model selection (as discussed by Nate Silver) involves different contexts — here it refers to personal productivity frameworks rather than statistical modeling.
+
+See also: [[systematic-decision-making]]
+
+See also: [[hyperfocus]]
+
+See also: [[thinking-mental-model]]
+
+See also: [[decision-making-frameworks]]

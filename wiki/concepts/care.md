@@ -1,25 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Care
-description: "Care is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- decision-making
-- complexity
-sources:
-- Care.md
-related:
-- planning
-- solutions
-- stillness
-- group
-- environment
-- being-mortal
-confidence: medium
----
+
 --
 # Care
 
@@ -52,3 +31,5 @@ Care relates to existing wiki mental models:
 
 - How does Care differ from or complement existing models like [[planning]] or [[Solutions]]?
 - What specific heuristics does Care provide beyond general pattern recognition?
+
+See also: [[solutions]]

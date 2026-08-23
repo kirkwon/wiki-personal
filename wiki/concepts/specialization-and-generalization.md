@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Specialization and Generalization
-description: "Specialization and Generalization"
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- problem-solving
-- heuristics
-- reasoning
-- mental-model
-- decision-making
-- cognitive-science
-- learning
-- generalists
-- brain-mental-model
-related:
-- how-to-solve-it ---george-polya
+george-polya
 - heuristic-problem-solving
 - polya-four-steps
 - generalization-in-problem-solving
@@ -73,3 +55,5 @@ Both approaches have value depending on context. Breadth of experience enables b
 - [[decision-making-frameworks]] and [[decomposing-and-recombining]] relate to how one structures and navigates complex choices.
 
 The wiki frames this as a universal mental model with moderate confidence, acknowledging the complexity of the tradeoff.
+
+See also: [[how-to-solve-it]]

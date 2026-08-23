@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: ii-V-I Progression
-description: "--
-ii-V-I Progression"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- jazz
-- harmony
-- progressions
-related:
-- jazz-harmony
-- music-theory-fundamentals
-sources:
-- jazz-harmony.md
----
+
 --
 # ii-V-I Progression
 
@@ -39,3 +22,5 @@ ii-V-I er den viktigste progressjonen i jazz. Den består av en subdominantakord
 ## Relatert
 - [[jazz-harmony]]
 - [[rhythm-changes]]
+
+See also: [[music-theory-fundamentals]]

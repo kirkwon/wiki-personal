@@ -1,25 +1,4 @@
----
 
-date: 2026-04-24
-type: concept
-title: 'Wealth Formula: Focus + Stoicism × Time × Diversification'
-description: "--"
-Wealth Formula: Focus + Stoicism × Time × Diversification""
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- mental-models
-- investing
-sources:
-- The Algebra of Wealth.md
-related:
-- the-algebra-of-wealth
-- time-value-of-money-decisions
-- diversification-four-types
-- personal-finance
-
----
 --
 # Wealth Formula: Focus + Stoicism × Time × Diversification
 
@@ -48,3 +27,11 @@ Diversifikation reduziert Risiko über Assets, Geografie, Einkommen und Fähigke
 
 ## Zusammenfassung
 Alle Komponenten sind notwendig. Schwäche in einem Bereich reduziert das Gesamtvermögen. Konsistenz über Jahrzehnte schlägt Intensität für Monate.
+
+See also: [[the-algebra-of-wealth]]
+
+See also: [[time-value-of-money-decisions]]
+
+See also: [[diversification-four-types]]
+
+See also: [[personal-finance]]

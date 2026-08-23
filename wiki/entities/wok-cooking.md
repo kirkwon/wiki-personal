@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Wok Cooking
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cooking
-- technique
-- wok
-- gastronomy
-sources:
-- Gastronomy.md
-related:
-- wok-hei
-- flavor-theory
-- maillard-reaction
-- category-cooking-techniques
----
+
 -
 # Wok Cooking
 
@@ -32,3 +14,5 @@ This technique connects to [[flavor-theory]] through the importance of understan
 
 Related learning resources include [[resource-wok-cooking-masterclass]].
 ---
+
+See also: [[category-cooking-techniques]]

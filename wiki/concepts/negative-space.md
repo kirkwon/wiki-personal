@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Negative Space
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-- fundamentals
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- minimalism
-- photography-fundamentals
----
+
 -
 # Negative Space
 
@@ -42,3 +26,5 @@ Negative space is the empty area around the main subject in a photograph. It is 
 
 See [[composition-techniques]] and [[minimalism]] for related concepts.
 ---
+
+See also: [[photography-fundamentals]]

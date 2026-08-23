@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: comparison
-title: LLC vs S Corporation
-description: "--
-LLC vs S Corporation"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- business-entity
-- tax-planning
-sources:
-- Company Structure Guide.md
-related:
-- business-entity-types
-- real-estate-investment-entity-structure
-- tax-torpedoes-in-retirement
----
+
 --
 # LLC vs S Corporation
 
@@ -50,3 +32,9 @@ Side-by-side comparison of the two most common pass-through entity structures fo
 - LLCs offer more flexibility in profit distribution and ownership structure.
 - For real estate investors, LLCs are often preferred due to simplicity and multi-entity structuring flexibility.
 - Conversion between entity types is possible but involves tax implications and compliance requirements.
+
+See also: [[business-entity-types]]
+
+See also: [[real-estate-investment-entity-structure]]
+
+See also: [[tax-torpedoes-in-retirement]]

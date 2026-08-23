@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Cacio e Pepe
-description: "Cacio e Pepe — 'cheese and pepper' in Roman dialect — is one of Rome's most iconic pasta dishes."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- recipe
-- italian
-- pasta
-- roman-cuisine
-sources:
-- pasta.md
-related:
-- italian-pasta
-- al-dente-technique
-- carbonara
-- pecorino-romano
-- pasta
-- amatriciana
-- al-dente
-- pasta-shapes-and-sauces
----
+
 --
 # Cacio e Pepe
 
@@ -47,3 +24,15 @@ The starchy pasta water is essential — it is used to create an emulsion with t
 The emulsion is the entire dish — when done correctly, the sauce coats each strand in a silky, peppery cheese coating.
 
 [[wikilink-italian-pasta]] | [[wikilink-carbonara]] | [[wikilink-pecorino-romano]] | [[wikilink-al-dente-technique]]
+
+See also: [[italian-pasta]]
+
+See also: [[al-dente-technique]]
+
+See also: [[carbonara]]
+
+See also: [[pecorino-romano]]
+
+See also: [[pasta]]
+
+See also: [[amatriciana]]

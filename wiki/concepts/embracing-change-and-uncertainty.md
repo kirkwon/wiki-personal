@@ -1,18 +1,13 @@
----
+See also: [[stoicism]]
 
-date: 2026-05-03
-type: concept
-title: Embracing Change and Uncertainty
-description: "Embracing Change and Uncertainty: Developing resilience and adaptability when faced with unpredictable environments."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- mental-models
-- psychology
-- decision-making
-sources:
-- the-daily-stoic
-- Embracing Change and Uncertainty
-related: [stoicism, ryan-holiday, antifragility, black-swan-events, scenario-planning, decision-making-under-uncertainty, embracing-failure-for-personal-growth]
----
+See also: [[ryan-holiday]]
+
+See also: [[antifragility]]
+
+See also: [[black-swan-events]]
+
+See also: [[scenario-planning]]
+
+See also: [[decision-making-under-uncertainty]]
+
+See also: [[embracing-failure-for-personal-growth]]

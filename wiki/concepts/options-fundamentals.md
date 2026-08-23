@@ -1,30 +1,4 @@
----
-date: 2026-04-24
-title: Options Fundamentals
-description: "Options are contracts that give the buyer the right, but not the obligation, to buy (call) or sell (put) an underlying asset at a predetermined price within a specified time period."
-created: 2026-04-24
-updated: 2026-05-09
-type: concept
-tags:
-- investing
-- options
-- trading
-- derivatives
-- personal-finance
-- options-trading
-sources:
-- raw/ingested/Personal Finance/Options Trading Guide.md
-- Options Trading Guide.md
-related:
-- theta-time-decay
-- leaps-long-term-equity-anticipation-securities
-- straddle-strategies
-- butterfly-spreads
-- covered-calls
-- credit-spreads
-- ITM-vs-OTM-options
-- LEAPS-options
----
+
 --
 
 # Options Fundamentals
@@ -80,3 +54,13 @@ This page is part of the [[options-trading-guide]]. See also:
 - **Out-of-the-Money (OTM)**: No intrinsic value; lower premium, higher theta sensitivity, higher leverage
 
 Understanding these fundamentals is essential before implementing any options strategy. Understanding fundamentals connects to all other options concepts including [[theta-time-decay]], [[ITM-vs-OTM-options]], and [[LEAPS-options]].^[raw/articles/Options Trading Guide.md]
+
+See also: [[leaps-long-term-equity-anticipation-securities]]
+
+See also: [[straddle-strategies]]
+
+See also: [[butterfly-spreads]]
+
+See also: [[covered-calls]]
+
+See also: [[credit-spreads]]

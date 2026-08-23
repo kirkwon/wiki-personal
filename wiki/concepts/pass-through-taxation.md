@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Pass-Through Taxation
-description: "--
-Pass-Through Taxation"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- tax-planning
-- business-entity
-sources:
-- Company Structure Guide.md
-related:
-- llc-vs-s-corp
-- double-taxation
-- real-estate-investment-entity-structure
----
+
 --
 # Pass-Through Taxation
 
@@ -47,3 +29,7 @@ In pass-through entities (LLC, S Corporation, partnership), the business itself 
 - [[double-taxation]] for contrast with C Corp taxation
 - [[reasonable-compensation]] for S Corp salary requirements
 - [[tax-torpedoes-in-retirement]] for entity-level tax planning
+
+See also: [[llc-vs-s-corp]]
+
+See also: [[real-estate-investment-entity-structure]]

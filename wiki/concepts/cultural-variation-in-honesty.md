@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Cultural Variation in Honesty
-description: "Cultural Variation in Honesty"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- cultural-psychology
-- behavioral-economics
-- ethics
-sources:
-- the-honest-truth-about-dishonesty
-- Cultural Variation in Honesty
-related: [situational-ethics, incentives-for-honesty]
----
+
 # Cultural Variation in Honesty
 
 How different societies tolerate different levels of dishonesty and how cultural norms powerfully influence honest behavior. Cultural context shapes what is considered acceptable deviation from the truth.
@@ -27,3 +12,5 @@ How different societies tolerate different levels of dishonesty and how cultural
 ## Connections
 
 This concept extends [[situational-ethics]] by adding a cultural dimension to the situational factors that shape honesty. It connects to [[incentives-for-honesty]]—cultural norms function as informal incentive structures that reward or penalize honest behavior.
+
+Sources: [[the-honest-truth-about-dishonesty]]

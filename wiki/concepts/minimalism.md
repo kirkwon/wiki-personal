@@ -1,31 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Minimalism in Photography
-description: "Minimalism is a universal conceptual tool for navigating complexity through pattern recognition."
-created: 2026-04-24
-updated: 2026-05-10
-tags:
-- photography
-- composition
-- style
-- mental-model
-- general
-sources:
-- composition-techniques.md
-- Minimalism.md
-related:
-- composition-techniques
-- negative-space
-- photography-fundamentals
-- planning
-- solutions
-- stillness
-- care
-- environment
-- settings
-- deep-work - Cal Newport
----
+
 --
 # Minimalism
 
@@ -69,3 +42,5 @@ Cal Newport's [[Digital-Minimalism---Cal-Newport]] grounds this model in a speci
 - [[composition-techniques]] — Related composition techniques
 - [[negative-space]] — Negative space in composition
 - [[photography-fundamentals]] — Photography fundamentals
+
+See also: [[solutions]]

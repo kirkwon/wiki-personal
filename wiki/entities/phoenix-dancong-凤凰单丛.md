@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 凤凰单丛 (Phoenix Dancong)
-description: "--
-凤凰单丛 (Phoenix Dancong)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- tea
-- oolong
-- chinese-cuisine
-- chinese
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- partial-oxidation-部分氧化
-- tea-oxidation-茶叶氧化
----
+
 --
 # 凤凰单丛 (Phoenix Dancong)
 
@@ -38,3 +19,9 @@ related:
 ## 冲泡建议
 
 水温195-205°F，多次短泡，充分展现品种芳香。
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[partial-oxidation-部分氧化]]
+
+See also: [[tea-oxidation-茶叶氧化]]

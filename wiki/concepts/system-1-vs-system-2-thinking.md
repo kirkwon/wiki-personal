@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-title: System 1 vs System 2 Thinking
-type: concept
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- cognitive-science
-- decision-making
-- mental-models
-sources:
-- Thinking, Fast and Slow - Daniel Kahneman.md
-related:
-- dual-process-theory
-- cognitive-biases-library
-- heuristics-problem-solving
-- prospect-theory
----
+
 -
 # System 1 vs System 2 Thinking
 
@@ -37,3 +20,5 @@ The interaction between these systems explains much of human irrationality. Syst
 
 This framework connects to [[dual-process-theory]] and underpins the entire [[cognitive-biases-library]].
 ---
+
+See also: [[prospect-theory]]

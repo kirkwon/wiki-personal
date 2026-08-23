@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 功夫茶冲泡 (Gongfu Brewing for Oolongs)
-description: "--
-功夫茶冲泡 (Gongfu Brewing for Oolongs)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- oolong
-- technique
-- brewing
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- tieguanyin-铁观音
-- da-hong-pao-大红袍
-- dong-ding-冻顶
----
+
 --
 # 功夫茶冲泡 (Gongfu Brewing for Oolongs)
 
@@ -40,3 +20,11 @@ related:
 ## 西式冲泡对比
 
 西式冲泡使用1-2茶匙每8盎司水，195-210°F（90-99°C），3-5分钟，但多次冲泡效果不如功夫茶。
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[tieguanyin-铁观音]]
+
+See also: [[da-hong-pao-大红袍]]
+
+See also: [[dong-ding-冻顶]]

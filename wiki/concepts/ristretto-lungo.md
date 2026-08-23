@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Ristretto & Lungo (浓缩与长萃)
-description: "--
-Ristretto & Lungo (浓缩与长萃)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- coffee
-- espresso
-- variation
-- technique
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- espresso-variables
----
+
 --
 # Ristretto & Lungo (浓缩与长萃)
 
@@ -43,3 +25,5 @@ Ristretto和Lungo是意式浓缩咖啡的两种常见变体，通过改变出液
 标准双份比例为1:2（36-40克出液），Ristretto和Lungo分别向更浓缩和更稀释两端延伸。
 
 参见 [[espresso-意大利浓缩咖啡]] 了解标准萃取参数。
+
+See also: [[espresso-variables]]

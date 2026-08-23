@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: ITM vs OTM Options
-description: "--
-ITM vs OTM Options"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- options
-- options-trading
-- risk-management
-related:
-- theta-time-decay
-- LEAPS-options
-- options-position-sizing
-- covered-calls
-sources:
-- Options Trading Guide.md
----
+
 --
 # ITM vs OTM Options
 
@@ -85,3 +66,7 @@ Understanding the trade-offs between in-the-money (ITM) and out-of-the-money (OT
 - Limited capital: OTM for leverage
 
 This framework connects to [[theta-time-decay]] and [[options-position-sizing]].
+
+See also: [[LEAPS-options]]
+
+See also: [[covered-calls]]

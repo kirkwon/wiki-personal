@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Layered Scenes
-description: "Layered scenes is a composition technique in street photography that creates depth and visual interest by arranging multiple elements at different distances from the camera."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- street
-- composition
-sources:
-- street-photography.md
-related:
-- street-photography
-- composition-techniques
-- decisive-moment
----
+
 --
 # Layered Scenes
 
@@ -35,3 +18,5 @@ A person walking past with another person in the background, and a city skyline 
 ## Why Use It
 
 Layered scenes create richness and storytelling by providing context, subject, and environment simultaneously. This technique connects to broader [[composition-techniques]] and enhances the narrative quality central to [[street-photography]].
+
+See also: [[decisive-moment]]

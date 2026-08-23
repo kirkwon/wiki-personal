@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Boot in 1031 Exchanges
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- tax
-- skill-candidate
-- personal-finance
-- 1031 Exchange Strategy.md
-- 1031 Exchange Strategy.md
-related:
-- 1031-exchange-strategy
-- qualified-intermediary
-- 1031-identification-rules
----
+
 -
 # Boot in 1031 Exchanges
 
@@ -47,3 +29,9 @@ Taxable Amount = Mortgage Boot × Capital Gain Percentage
 - Structure exchanges as reverse exchanges if needed
 
 ---
+
+See also: [[1031-exchange-strategy]]
+
+See also: [[qualified-intermediary]]
+
+See also: [[1031-identification-rules]]

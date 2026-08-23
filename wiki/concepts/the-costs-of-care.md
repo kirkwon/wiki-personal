@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: The Costs of Care
-description: "The Costs of Care examines the economic burden that an aging population places on society, particularly the expenditure on end-of-life medical services."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- healthcare
-- economics
-- aging
-- end-of-life
-sources:
-- being-mortal
-- The Costs of Care
-related: [being-mortal-atul-gawande, quality-vs-quantity-of-life, cure-centric-vs-comfort-oriented-care]
----
+
 # The Costs of Care
 
 The Costs of Care examines the economic burden that an aging population places on society, particularly the expenditure on end-of-life medical services. Gawande points out that a significant portion of healthcare spending occurs in the last months of life, much of it on interventions that do not improve quality.
@@ -24,3 +8,9 @@ The financial dimension intersects with the ethical dimension. Families face eno
 Gawande does not argue for rationing care, but for redirecting it. Investing in palliative care, advance care planning, and home-based support can reduce costs while improving outcomes — because patients who are comfortable, autonomous, and surrounded by loved ones require fewer acute interventions.
 
 This connects to [[quality-vs-quantity-of-life]]: the economic argument collapses when care is redefined around quality rather than volume of intervention.
+
+Sources: [[being-mortal]]
+
+See also: [[being-mortal-atul-gawande]]
+
+See also: [[cure-centric-vs-comfort-oriented-care]]

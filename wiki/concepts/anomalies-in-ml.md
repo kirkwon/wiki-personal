@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Anomalies and Exceptions in Machine Learning
-description: "--
-Anomalies and Exceptions in Machine Learning"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- ai-safety
-- technology
-- machine-learning
-sources:
-- The Alignment Problem - Brian Christian  Tom Griffiths.md
-related:
-- consistency-in-ai
-- alignment
-- ai-safety-methods
----
+
 --
 # Anomalies and Exceptions in Machine Learning
 
@@ -28,3 +10,9 @@ Key issues:
 - Managing exceptions requires strategies beyond simple rule-based approaches, since the space of possible anomalies is vast.
 
 This connects to [[intractable-computation]]—thoroughly testing for all possible exceptions is computationally infeasible, so alignment methods must prioritize and handle anomalies strategically.
+
+See also: [[consistency-in-ai]]
+
+See also: [[alignment]]
+
+See also: [[ai-safety-methods]]

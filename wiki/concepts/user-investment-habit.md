@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: User Investment Habit
-description: "User Investment Habit"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- product-design
-- behavioral-psychology
-- habit-formation
-sources:
-- hooked
-- User Investment Habit
-related: [hook-model, variable-reward-design, habit-testing, endowment-effect]
----
+
 # User Investment Habit
 
 User investment refers to the effort, time, data, or content that users contribute to a product. This investment increases switching costs and the psychological likelihood of returning.
@@ -35,3 +20,7 @@ Each investment makes the next interaction more valuable. A curated feed becomes
 User investment connects to the [[endowment-effect]] — as users invest more in a product, they value it more highly, increasing perceived switching costs beyond objective measures. This psychological mechanism reinforces the habit loop.
 
 ^[raw/articles/hooked---nir-eyal.md]
+
+See also: [[variable-reward-design]]
+
+See also: [[habit-testing]]

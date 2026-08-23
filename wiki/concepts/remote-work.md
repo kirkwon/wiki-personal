@@ -1,23 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Remote Work as New Norm
-description: "--
-Remote Work as New Norm"
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- productivity
-- technology
-- work-culture
-sources:
-- Post Corona_ From Crisis to Opportunity - Scott Galloway.md
-related:
-- working-backwards
-- building-a-decision-culture
-- platform-dominance
-- post-pandemic-business-transformation
----
+
 --
 # Remote Work as New Norm
 
@@ -37,3 +18,7 @@ Remote work as a new norm refers to the post-pandemic shift in which remote and 
 - [[quadrant-2-focus]]
 - [[hyperfocus]]
 - [[attention-budget]]
+
+See also: [[platform-dominance]]
+
+See also: [[post-pandemic-business-transformation]]

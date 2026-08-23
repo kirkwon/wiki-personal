@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Loss Aversion in Choice
-description: "Loss Aversion in Choice"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- psychology
-- behavioral-economics
-- cognitive-bias
-sources:
-- the-paradox-of-choice
-- Loss Aversion in Choice
-related: [paradox-of-choice, choice-overload, dread-aversion, prospect-theory, overconfidence-and-certainty]
----
+
 # Loss Aversion in Choice
 
 The tendency to focus on foregone alternatives rather than the chosen option, increasing regret and reducing satisfaction after decisions. Loss aversion in choice contexts is a key driver of the paradox of choice.
@@ -32,3 +16,11 @@ This concept extends [[prospect-theory]] (Kahneman & Tversky), which established
 - Recognize that regret is amplified by the number of options considered, not just the quality of the chosen option
 - Reducing the option set can paradoxically improve satisfaction
 - Focus attention on the chosen option's positive attributes rather than dwelling on alternatives
+
+See also: [[paradox-of-choice]]
+
+See also: [[choice-overload]]
+
+See also: [[dread-aversion]]
+
+See also: [[overconfidence-and-certainty]]

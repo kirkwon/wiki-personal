@@ -1,25 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: The (Honest) Truth About Dishonesty - Dan Ariely
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- behavioral-economics
-- psychology
-- ethics
-sources:
-- The (Honest) Truth About Dishonesty - Dan Ariely.md
-related:
-- dan-ariely
-- self-image-and-moral-identity
-- incremental-dishonesty-fudge-factor
-- situational-ethics
-- cultural-variation-in-dishonesty
-- incentive-structures-and-honesty
-- the-science-of-lying
----
+
 -
 # The (Honest) Truth About Dishonesty
 
@@ -54,3 +33,17 @@ Humans are naturally inclined towards both honesty and deception. People lie inc
 - Intersects with [[cognitive-biases-library]] and [[decision-making-under-uncertainty]]
 - Complements [[thinking-fast-and-slow---daniel-kahneman]] through dual-process framing of honesty
 ---
+
+See also: [[dan-ariely]]
+
+See also: [[self-image-and-moral-identity]]
+
+See also: [[incremental-dishonesty-fudge-factor]]
+
+See also: [[situational-ethics]]
+
+See also: [[cultural-variation-in-dishonesty]]
+
+See also: [[incentive-structures-and-honesty]]
+
+See also: [[the-science-of-lying]]

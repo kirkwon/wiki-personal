@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Out of Control - Kevin Kelly
-description: "--
-Out of Control - Kevin Kelly"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- technology
-- systems
-- complexity
-related:
-- technology-mental-model
-- minimalism
-- settings
-- environment
-sources:
-- Technology.md
----
+
 --
 # Out of Control - Kevin Kelly
 
@@ -30,3 +11,5 @@ Kevin Kelly's Out of Control reframes technology as emergent and decentralized, 
 
 ## Connection to Mental Models
 This perspective connects to [[technology-mental-model]] as a systemic complement to Newport's intentional-use approach. It also relates to [[settings]] and [[environment]]—how context and surrounding systems shape technological outcomes beyond individual control.
+
+See also: [[minimalism]]

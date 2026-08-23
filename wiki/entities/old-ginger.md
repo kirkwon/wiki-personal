@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 老姜（Old Ginger）
-description: "老姜是中餐'圣三一'芳香基底的核心成员，具有辛辣、温暖、微甜、泥土气息的风味特征。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- ingredient
-- aromatics
-- chinese-cuisine
-sources:
-- Aromatics.md
-related:
-- aromatics-the-holy-trinity
-- stir-fry-technique
-- wok-cooking
----
+
 --
 # 老姜（Old Ginger）
 
@@ -36,3 +19,9 @@ related:
 ## 在圣三一中的角色
 
 老姜在中餐风味构建中起基础作用，与大蒜和葱配合形成经典的中国风味基底。根据不同蛋白质调整用量：海鲜多用姜，牛肉也多用姜。
+
+See also: [[aromatics-the-holy-trinity]]
+
+See also: [[stir-fry-technique]]
+
+See also: [[wok-cooking]]

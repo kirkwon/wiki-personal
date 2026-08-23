@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Evan Williams 12/18
-description: "--
-Evan Williams 12/18"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- beverages
-- spirits
-- whisky
-- bourbon
-sources:
-- Whisky Tasting Notes.md
-related:
-- whisky-tasting-notes
-- spirits-index
-- whisky-tasting-methodology
-- whisky-price-tiers
----
+
 --
 # Evan Williams 12/18
 
@@ -37,3 +17,11 @@ Kentucky Bourbon with an age statement, serving as the budget sipper in the coll
 
 ## Comparison
 Moderate sweetness (★★★) with low complexity (★★) and short finish. Top-tier value (★★★★★) for the entry price tier.
+
+See also: [[whisky-tasting-notes]]
+
+See also: [[spirits-index]]
+
+See also: [[whisky-tasting-methodology]]
+
+See also: [[whisky-price-tiers]]

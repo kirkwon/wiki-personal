@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Conversations
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- communication
-- psychology
-sources:
-- Conversations.md
-- Supercommunicators - Charles Duhigg
-confidence: medium
----
+
 -
 # Conversations
 
@@ -45,3 +31,5 @@ Primarily derived from [[supercommunicators-charles-duhigg]], which explores the
 - [[settings]]
 - [[stillness]]
 ---
+
+Sources: [[Supercommunicators - Charles Duhigg]]

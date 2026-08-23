@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Conditions
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Conditions.md
-related:
-- superforecasting
-- prediction-markets
-- decision-making-frameworks
-- settings
-- environment
-- planning
----
+
 -
 # Conditions
 
@@ -28,3 +10,9 @@ The model draws on James Surowiecki's *The Wisdom of Crowds*, which explores how
 
 This entry is underdeveloped with moderate confidence (0.7). Further elaboration is needed to clarify how Conditions differs from existing mental models like [[settings]] or [[environment]].
 ---
+
+See also: [[superforecasting]]
+
+See also: [[prediction-markets]]
+
+See also: [[decision-making-frameworks]]

@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Delegation
-description: "Delegation is a universal mental model that serves as a conceptual tool for navigating complex situations through pattern and relationship recognition."
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- mental-model
-- productivity
-- management
-- mental-models
-- allen
-sources:
-- Delegation.md
-- Making It All Work - David Allen.md
-related:
-- management
-- effort
-- leverage
-- getting-things-done ---david-allen
+david-allen
 - decision-making-frameworks
 - systematic-decision-making
 - building-a-cohesive-team
@@ -65,3 +45,5 @@ Delegation is not abdication — it requires ongoing awareness of results and th
 - [[effort]]
 - [[leverage]]
 - [[getting-things-done---david-allen]]
+
+See also: [[getting-things-done]]

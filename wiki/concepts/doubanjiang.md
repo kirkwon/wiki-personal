@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 发酵豆瓣酱（Doubanjiang）
-description: "--
-发酵豆瓣酱（Doubanjiang，豆瓣酱）"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- chinese
-- sichuan
-- ingredient
-- fermentation
-sources:
-- mapo-tofu.md
-related:
-- mapo-tofu
-- sichuan-cuisine
-- má-là-flavor
-- aromatics
----
+
 --
 # 发酵豆瓣酱（Doubanjiang，豆瓣酱）
 
@@ -40,3 +20,5 @@ related:
 - [[mapo-tofu]] — 麻婆豆腐的核心调味料
 - [[sichuan-cuisine]] — 四川菜系基础调料
 - [[má-là-flavor]] — 鲜味是麻辣体系的一部分
+
+See also: [[aromatics]]

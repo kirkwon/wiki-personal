@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: The Greeks (Options)
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- derivatives
-- risk-management
-sources:
-- Options Trading.md
-related:
-- options
-- delta
-- gamma
-- theta
-- vega
-- rho
-- risk-management
-- covered-call-strategy
-- iron-condor
----
+
 -
 # The Greeks (Options)
 
@@ -62,3 +40,7 @@ The Greeks are five parameters that describe the sensitivity of an option's pric
 - [[Position Sizing]]
 - [[risk-management]]
 ---
+
+See also: [[options]]
+
+See also: [[iron-condor]]

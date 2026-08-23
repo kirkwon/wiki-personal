@@ -1,22 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Simple Living Practices
-description: "--
-Simple Living Practices"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- philosophy
-- personal-development
-- lifestyle
-sources:
-- Letters from a Stoic - Seneca.md
-related:
-- letters-from-a-stoic-seneca
-- stoicism
-- balancing-ambition-with-well-being
----
+
 --
 # Simple Living Practices
 
@@ -32,3 +14,9 @@ Simple living is a Stoic principle advocating intentional consumption and reject
 ## When to Stop
 
 When simple living becomes harmful asceticism — denying oneself necessities or meaningful pleasures in ways that damage well-being or relationships.
+
+See also: [[letters-from-a-stoic-seneca]]
+
+See also: [[stoicism]]
+
+See also: [[balancing-ambition-with-well-being]]

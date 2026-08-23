@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Profit as Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Profit.md
-related:
-- the-infinite-game---simon-sinek
+simon-sinek
 - brain-mental-model
 - thinking-mental-model
 confidence: medium
@@ -31,3 +19,5 @@ The confidence level is marked at 0.7, indicating uncertainty about the substanc
 - [[care]] - Care mental model
 - [[effort]] - Effort mental model
 ---
+
+See also: [[the-infinite-game]]

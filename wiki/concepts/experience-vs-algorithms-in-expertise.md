@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Experience vs. Algorithms in Expertise
-description: "Experience vs. Algorithms in Expertise"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- decision-making
-- cognitive-science
-- mental-models
-sources:
-- sources-of-power-how-people-make-decisions
-- Experience vs. Algorithms in Expertise
-related: [recognition-primed-decision-model, naturalistic-decision-making, decision-quality-vs-outcome-quality]
----
+
 # Experience vs. Algorithms in Expertise
 
 A central argument in Klein's *Sources of Power* is that expertise built through years of deliberate practice is irreplaceable by rules, checklists, or algorithms. This challenges the assumption that formalizing decision processes can substitute for human judgment.
@@ -27,3 +12,7 @@ Key points:
 This concept relates to [[decision-quality-vs-outcome-quality]] by emphasizing that the quality of a decision depends on the richness of the decision-maker's experience, not just the formality of the process. It also creates productive tension with [[systematic-decision-making]] and the value of structured processes.
 
 Related: [[overconfidence-and-certainty]], [[thinking-fast-and-slow---daniel-kahneman]]
+
+See also: [[recognition-primed-decision-model]]
+
+See also: [[naturalistic-decision-making]]

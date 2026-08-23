@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: source
-title: Stillness Is the Key - Ryan Holiday
-description: "Stillness Is the Key - Ryan Holiday"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- books
-- philosophy
-- stoicism
-- mindfulness
-- decision-making
-sources:
-- stillness-is-the-key
-- Stillness Is the Key - Ryan Holiday
----
+
 # Stillness Is the Key - Ryan Holiday
 
 Ryan Holiday's 2024 book argues that stillness — inner quietude — is the foundational skill for mastery, better decisions, healthier relationships, and personal growth. The book draws on Stoic philosophy, mindfulness meditation, historical examples, and practical strategies to counter the distraction dilemma of modern life.
@@ -35,3 +19,7 @@ Ryan Holiday's 2024 book argues that stillness — inner quietude — is the fou
 The book connects stillness to decision quality, creativity, relationship health, and personal mastery. It positions stillness as the counterforce to the constant external and internal triggers that drive reactive behavior.
 
 Related: [[stillness-concept]], [[ryan-holiday]], [[stoic-philosophy]], [[mindfulness-meditation]]
+
+Sources: [[stillness-is-the-key]]
+
+Sources: [[Stillness Is the Key - Ryan Holiday]]

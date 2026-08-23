@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Satisfaction
-description: "Satisfaction is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- psychology
-- decision-making
-related:
-- satisfaction-under-constraints
-- barry-schwartz
-- the-paradox-of-choice---barry-schwartz
+barry-schwartz
 - balancing-ambition-with-well-being
 sources:
 - Satisfaction.md
@@ -42,3 +28,5 @@ It also connects to [[balancing-ambition-with-well-being]] and [[personal-brandi
 - What distinguishes "satisfaction" from well-being, contentment, or fulfillment as analytical lenses?
 - How does Schwartz's treatment of satisfaction in *Why We Work* deepen or challenge common assumptions about what drives human behavior?
 - In what practical contexts is satisfaction most useful as a mental model versus other frameworks like [[decision-quality-vs-outcome-quality]] or [[emotion-and-intuition-in-decisions]]?
+
+See also: [[barry-schwartz]]

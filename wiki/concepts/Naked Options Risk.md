@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Naked Options Risk
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- risk-management
-- derivatives
-sources:
-- Options Trading.md
-related:
-- options
-- risk-management
-- position-sizing
----
+
 -
 # Naked Options Risk
 
@@ -30,3 +14,9 @@ Selling naked options (calls or puts without adequate hedging) exposes traders t
 - Χρειάζεστε σημαντικό κεφάλαιο
 - Πρέπει να γνωρίζετε τον κίνδυνο των Ελληνικών πριν πωλήσετε
 ---
+
+See also: [[options]]
+
+See also: [[risk-management]]
+
+See also: [[position-sizing]]

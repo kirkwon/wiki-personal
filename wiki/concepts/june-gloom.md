@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: June Gloom
-description: "June Gloom is a seasonal fog phenomenon that affects the San Francisco Bay Area, particularly in summer."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- weather
-- sf
-- fog
-sources:
-- ocean-beach.md
-related:
-- ocean-beach
----
+
 --
 # June Gloom
 
@@ -29,3 +14,5 @@ June Gloom is a seasonal fog phenomenon that affects the San Francisco Bay Area,
 ## Impact on Ocean Beach
 
 Summer at Ocean Beach is foggy and windy despite warm inland temperatures. The fog affects visibility for surfing, photography, and general beach enjoyment. Fall (September-November) offers the best weather with less fog and more sunshine.^[ocean-beach.md]
+
+See also: [[ocean-beach]]

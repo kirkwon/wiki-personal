@@ -1,10 +1,4 @@
----
-date: 2026-06-29
 
-type: synthesis
-tags: [autoresearch, harnesses, infra, tools, comparison]
-related: [awesome-autoresearch, autoresearch-pattern, karpathy-autoresearch-loop]
----
 
 # Core Autoresearch Harnesses — Analysis
 
@@ -155,3 +149,9 @@ High. Squad's task lifecycle (create → claim → complete) is identical to our
 2. **Explore Arbor's hypothesis tree** as an alternative to flat keep/discard in our research workflows
 3. **Use the correctness + benchmark double-gate** from AutoKernel for any performance optimization
 4. **Squad's SQLite transport** is already informing our `/queue` design
+
+See also: [[awesome-autoresearch]]
+
+See also: [[autoresearch-pattern]]
+
+See also: [[karpathy-autoresearch-loop]]

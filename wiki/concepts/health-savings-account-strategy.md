@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Health Savings Account Strategy
-description: "--
-Health Savings Account Strategy"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- retirement
-- healthcare
-- investing
-sources:
-- Healthcare Costs in Retirement.md
-related:
-- healthcare-costs-in-retirement
-- retirement-planning
-- required-minimum-distributions
-- tax-torpedoes
----
+
 --
 # Health Savings Account Strategy
 
@@ -61,3 +41,5 @@ The HSA is the most tax-efficient vehicle for managing healthcare costs in retir
 
 ## See Also
 [[healthcare-costs-in-retirement]], [[required-minimum-distributions]], [[tax-torpedoes]]
+
+See also: [[retirement-planning]]

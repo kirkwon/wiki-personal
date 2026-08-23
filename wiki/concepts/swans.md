@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Swans
-description: "Swans as a mental model captures Taleb's insight that extreme, rare events (black swans) are the primary drivers of outcomes in complex systems."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-models
-- decision-making
-- taleb
-sources:
-- The Black Swan - Nassim Nicholas Taleb.md
-related:
-- black-swan-events
-- events
-- understanding
-- history
-- finance
-- life
-- world
----
+
 --
 # Swans
 
@@ -37,3 +16,5 @@ The model asks: are you prepared for the thing you cannot predict? Rather than t
 - [[black-swan-events]]
 - [[events]]
 - [[understanding]]
+
+See also: [[world]]

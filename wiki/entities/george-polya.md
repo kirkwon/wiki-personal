@@ -1,31 +1,4 @@
----
-type: entity
-title: George Polya
-description: "George Polya was a Hungarian-American mathematician whose 1945 book How to Solve It became one of the most influential texts on mathematical problem-solving methodology."
-created: 2026-05-03
-updated: 2026-05-11
-tags:
-- person
-- mathematics
-- problem-solving
-related:
-- how-to-solve-it
-dates:
-  - date: "1887-12-13"
-    event: "Born in Budapest, Hungary"
-  - date: "1945-01-01"
-    event: "Published How to Solve It"
-  - date: "1985-09-07"
-    event: "Died"
----george-polya
-- polya-four-steps
-- heuristic-problem-solving
-- heuristic-proproblem-solving
-sources:
-- how-to-solve-it---george-polya.md
-- How to Solve It - George Polya.md
----
--
+
 
 # George Polya
 
@@ -48,3 +21,5 @@ His ideas complement [[thinking-in-bets---annie-duke]] (probabilistic framing), 
 **1887-12-13** | Born in Budapest, Hungary
 **1945-01-01** | Published How to Solve It
 **1985-09-07** | Died
+
+See also: [[how-to-solve-it]]

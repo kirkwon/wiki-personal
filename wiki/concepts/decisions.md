@@ -1,35 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Decisions
-description: "Decisions is a universal mental model — a conceptual tool for navigating complex situations through pattern recognition and mental shortcuts."
-created: 2026-05-03
-updated: 2026-05-10
-tags:
-- decision-making
-- mental-models
-- mental-model
-- cognitive-bias
-sources:
-- The Paradox of Choice - Barry Schwartz.md
-- Decisions.md
-related:
-- choices
-- options
-- decision-paralysis
-- decision-tracking
-- decision-quality-vs-outcome-quality
-- decision-making-frameworks
-- systematic-decision-making
-- thinking-fast-and-slow
-- thinking-in-bets
-- how-to-decide
-- superforecasting
-- cognitive-biases-library
-- naturalistic-decision-making
-- recognition-primed-decision-model
-confidence: medium
----
+
 --
 # Decisions
 
@@ -82,3 +51,13 @@ The definition remains somewhat vague — "mental shortcut or framework" could e
 ## Confidence
 
 Medium (0.7) — relies on authority of source texts rather than empirical claims within this document.
+
+See also: [[decision-paralysis]]
+
+See also: [[thinking-fast-and-slow]]
+
+See also: [[cognitive-biases-library]]
+
+See also: [[naturalistic-decision-making]]
+
+See also: [[recognition-primed-decision-model]]

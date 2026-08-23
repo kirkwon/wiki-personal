@@ -1,29 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Rosemary (Rosmarinus officinalis)
-description: "--
-Rosemary (Rosmarinus officinalis)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- herbs
-- spices
-- ingredient
-- mediterranean
-- french-cuisine
-- italian-cuisine
-- aromatics
-sources:
-- Rosemary.md
-related:
-- herb-blends
-- aromatics
-- french-cuisine
-- italian-cuisine
-- herbs-spices-dried-herbs
-- ingredient-pairings
----
+
 --
 # Rosemary (Rosmarinus officinalis)
 
@@ -155,3 +130,15 @@ Ancient Greece: Symbol of remembrance and fidelity. Middle Ages: Used in wedding
 - Pruning: Regularly to maintain shape
 - Harvest: Year-round, morning preferred
 - Winter: Evergreen in mild climates
+
+See also: [[herb-blends]]
+
+See also: [[aromatics]]
+
+See also: [[french-cuisine]]
+
+See also: [[italian-cuisine]]
+
+See also: [[herbs-spices-dried-herbs]]
+
+See also: [[ingredient-pairings]]

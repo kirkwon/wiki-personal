@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 普洱茶品质评估
-description: "评估普洱茶品质需要从视觉、香气和汤色三个维度综合判断。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- evaluation
-sources:
-- Pu-erh Tea.md
-related:
-- pu-erh-tea
-- tea
----
+
 --
 # 普洱茶品质评估
 
@@ -39,3 +24,5 @@ related:
 
 ## 相关
 [[Pu-erh Tea]] | [[tea]]
+
+See also: [[pu-erh-tea]]

@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Bourbon Coffee Variety
-description: "--
-Bourbon Coffee Variety"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- arabica
-- variety
-sources:
-- Arabica.md
-related:
-- arabica-coffee-coffea-arabica
-- coffee-bean-processing-咖啡豆处理
----
+
 --
 # Bourbon Coffee Variety
 
@@ -28,3 +11,7 @@ Bourbon is a premium Arabica coffee variety originating from Ethiopia and Burma.
 - **Use**: Premium single-origin coffee
 
 Bourbon is one of the most prized Arabica cultivars, valued for its refined flavor profile and consistency. It performs well in high-altitude growing regions and is a cornerstone of specialty coffee production.
+
+See also: [[arabica-coffee-coffea-arabica]]
+
+See also: [[coffee-bean-processing-咖啡豆处理]]

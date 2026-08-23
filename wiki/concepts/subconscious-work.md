@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Subconscious Work
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- problem-solving
-- cognitive-science
-- learning
-sources:
-- How to Solve It - George Polya.md
-related:
-- bright-idea-insight
-- polya-four-steps
-- heuristic-proproblem-solving
----
+
 -
 # Subconscious Work
 
@@ -22,3 +6,9 @@ Subconscious Work describes how the mind continues processing problems unconscio
 
 This idea aligns with modern understanding of incubation in cognitive science, where unconscious processing helps reorganize information and generate novel connections. Polya's advice to know when to stop includes recognizing when stepping away from a problem is more productive than continuing to struggle.
 ---
+
+See also: [[bright-idea-insight]]
+
+See also: [[polya-four-steps]]
+
+See also: [[heuristic-proproblem-solving]]

@@ -1,37 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Beginning of Infinity
-description: "--
-The Beginning of Infinity"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- books
-- epistemology
-- philosophy-of-science
-- book
-- philosophy
-- science
-- knowledge
-sources:
-- Induction.md
-- Error-correction mechanisms.md
-- Explanatory power analysis.md
-related:
-- david-deutsch
-- induction
-- ideas-mental-model
-- thinking-mental-model
-- error-correction-mechanisms
-- knowledge-creation
-- explanatory-power-analysis
-- knowledge-mental-model
-- idea-mental-model
-dates:
-  - date: "2011-03-31"
-    event: "Published"
----
+
 --
 # The Beginning of Infinity
 
@@ -58,3 +25,13 @@ The book provides the epistemological foundation for error-correction mechanisms
 ## Timeline
 
 **2011-03-31** | Published
+
+See also: [[david-deutsch]]
+
+See also: [[induction]]
+
+See also: [[ideas-mental-model]]
+
+See also: [[thinking-mental-model]]
+
+See also: [[error-correction-mechanisms]]

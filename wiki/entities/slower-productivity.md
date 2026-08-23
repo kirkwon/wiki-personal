@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Slow Productivity
-description: "Slow Productivity by Cal Newport challenges the modern assumption that busyness equals productivity."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- productivity
-- habits
-- deep-work
-sources:
-- Habits.md
-related:
-- habits
-- cal-newport-slow-productivity
-- deep-work - Cal Newport
----
+
 --
 # Slow Productivity
 
@@ -29,3 +11,7 @@ related:
 
 ## Relevance
 Enriches the Habits mental model by emphasizing sustainability and intentionality in habit formation.
+
+See also: [[habits]]
+
+See also: [[cal-newport-slow-productivity]]

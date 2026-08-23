@@ -1,25 +1,4 @@
----
-date: 2024-04-17
-type: concept
-title: The Winner's Curse
-description: "--
-The Winner's Curse"
-created: 2024-04-17
-updated: 2024-04-17
-tags:
-- decision-making
-- behavioral-economics
-- cognitive-bias
-- auctions
-sources:
-- The Winner's Curse - Richard Thaler.md
-related:
-- the-winner-s-curse-richard-thaler
-- decision-making-under-uncertainty
-- overconfidence-and-certainty
-- planning-fallacy
-- mental-accounting
----
+
 --
 # The Winner's Curse
 
@@ -30,3 +9,5 @@ The core mechanism involves asymmetric information and overconfidence: the winne
 Thaler's work highlights that this pattern is not just an auction anomaly but a general feature of competitive bidding under uncertainty. It can be mitigated by adjusting for the winner's curse explicitly — recognizing that winning itself is evidence that your estimate may be too high.
 
 Related: [[planning-fallacy]], [[mental-accounting]], [[decision-quality-vs-outcome-quality]].
+
+See also: [[the-winner-s-curse-richard-thaler]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 冻顶 (Dong Ding)
-description: "--
-冻顶 (Dong Ding - Frozen Summit)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- oolong
-- taiwan
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- ali-shan-阿里山
-- jinxuan-金萱
----
+
 --
 # 冻顶 (Dong Ding - Frozen Summit)
 
@@ -33,3 +15,9 @@ related:
 ## 风味谱系
 
 中等乌龙类型，口感圆润平衡。
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[ali-shan-阿里山]]
+
+See also: [[jinxuan-金萱]]

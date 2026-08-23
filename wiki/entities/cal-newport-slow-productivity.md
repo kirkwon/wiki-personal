@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Cal Newport - Slow Productivity
-description: "--
-Cal Newport - Slow Productivity"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- person
-- author
-- productivity
-- deep-work
-sources:
-- Habits.md
-related:
-- habits
-- deep-work - Cal Newport
-- slow-productivity
----
+
 --
 # Cal Newport - Slow Productivity
 
@@ -30,3 +11,7 @@ Cal Newport is the author of *Slow Productivity*, a book that challenges hustle 
 
 ## Relevance
 Newport's perspective enriches the Habits mental model by emphasizing sustainability and intentionality in habit formation, contrasting with rapid optimization approaches.
+
+See also: [[habits]]
+
+See also: [[slow-productivity]]

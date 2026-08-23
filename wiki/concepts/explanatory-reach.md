@@ -1,22 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: Explanatory Reach
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- epistemology
-- philosophy-of-science
-- knowledge
-related:
-- the-beginning-of-infinity-david-deutsch
-- conjecture-and-criticism
-- principle-of-optimism
-- knowledge
-- problem-solving
-sources:
-- The Beginning of Infinity - David Deutsch.md
----
+
 -
 # Explanatory Reach
 
@@ -42,3 +24,5 @@ Deutsch argues that the growth of knowledge depends on finding explanations with
 ## Tension with Bayesian Thinking
 The wiki's existing [[bayesian-thinking]] framework relies on updating probabilities from observed data. Deutsch's reach criterion suggests that some explanations are valuable precisely because they extend beyond observed data, which challenges purely data-driven epistemologies.
 ---
+
+See also: [[the-beginning-of-infinity-david-deutsch]]

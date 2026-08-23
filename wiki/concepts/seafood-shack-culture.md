@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Seafood Shack Culture
-description: "--
-Seafood Shack Culture"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- seafood
-- american
-- new-england
-- dining
-- casual-dining
-sources:
-- new-england-seafood.md
-related:
-- new-england-seafood
-- fried-clams
-- fried-scallops
-- american-cuisine
----
+
 --
 # Seafood Shack Culture
 
@@ -42,3 +21,7 @@ Fried clams, fried scallops, lobster rolls, and clam chowder are the staples. Th
 - Simple, no-frills preparation emphasizing freshness
 
 See also [[new-england-seafood]].
+
+See also: [[fried-clams]]
+
+See also: [[american-cuisine]]

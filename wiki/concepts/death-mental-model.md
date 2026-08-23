@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Death as a mental model
-description: "--
-Death as a mental model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- philosophy
-- decision-making
-sources:
-- Death.md
-related:
-- being-mortal
-- atul-gawande
-- the-checklist-manifesto---atul-gawande
+atul-gawande
 - what-is-the-unknown
 - balancing-ambition-with-well-being
 - the-obstacle-is-the-way
@@ -54,3 +37,5 @@ This mental model connects to several existing wiki topics:
 ## Limitations
 
 The evidence is primarily narrative and case-based from Gawande rather than empirical. Framing death as a "mental shortcut" risks trivializing the depth of suffering and loss involved. The model works best as a philosophical framing tool rather than a prescriptive framework.
+
+See also: [[atul-gawande]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Momentum + Value
-description: "Combining momentum with value is one of the most robust factor combinations for improving risk-adjusted returns."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- quant
-- momentum
-- value
-- factor-investing
-sources:
-- momentum-strategy.md
-related:
-- factor-investing
-- momentum-strategy
-- risk-assessment-framework
----
+
 --
 # Momentum + Value
 
@@ -47,3 +29,5 @@ Value stocks provide a margin of safety, while momentum ensures the stock is act
 - [[factor-investing]] - Broader framework for combining factors
 - [[momentum-strategy]] - Core momentum approach
 - [[momentum-crashes]] - Crash mitigation through factor combination
+
+See also: [[risk-assessment-framework]]

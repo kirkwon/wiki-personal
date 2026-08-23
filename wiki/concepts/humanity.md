@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Humanity
-description: "Humanity is a universal mental model for navigating complexity through human-centered pattern recognition."
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- mental-model
-- general
-- cognitive-science
-- decision-making
-sources:
-- Humanity.md
-- Humans.md
-- thinking-fast-and-slow
-- Humanity
-related: [thinking-mental-model, care, stillness, grit-concept, overview, the-most-human-human, biases, brain-mental-model, ideas-mental-model, dual-process-theory]
----
+
 # Humanity
 
 Humanity is a universal mental model for navigating complexity through human-centered pattern recognition. It provides a conceptual tool or framework for making sense of patterns and relationships in the world, grounded in how humans naturally process information, emphasizing what makes humans unique in their capacity for empathy, creativity, and embodied experience.
@@ -58,3 +40,7 @@ While [[thinking-mental-model]] focuses on cognition and pattern recognition bro
 ## Confidence and Status
 
 Confidence: 0.7 — This is an emerging or lightly developed model with modest development beyond its core definition.
+
+Sources: [[thinking-fast-and-slow]]
+
+Sources: [[Humanity]]

@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Social Security Breakeven Analysis
-description: "--
-Social Security Breakeven Analysis"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- retirement
-- social-security
-sources:
-- Retirement Planning.md
-related:
-- retirement-planning
-- 25x-expenses-rule
-- healthcare-costs-in-retirement
----
+
 --
 # Social Security Breakeven Analysis
 
@@ -34,3 +16,5 @@ Social Security claiming decisions involve tradeoffs between the size and timing
 - Good health or long family history favors delaying to 70 for the highest lifetime total.
 
 Benefits can be estimated at ssa.gov. This guaranteed income reduces the portfolio target in the [[25x-expenses-rule]] and should be factored into the overall [[retirement-planning]] strategy.
+
+See also: [[healthcare-costs-in-retirement]]

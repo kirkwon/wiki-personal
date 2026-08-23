@@ -1,15 +1,4 @@
----
-date: 2026-06-12
-type: concept
-title: Algorithms for Wellbeing
-description: "Algorithms for Wellbeing
-Algorithms for wellbeing refer to the various computational methods and techniques used to analyze data and identify patterns associated with wellbeing in AI systems."
-created: 2026-06-12
-updated: 2026-06-12
-tags: [ai, wellbeing, algorithms]
-related: [wellbeing, human-centered-design, responsible-research-and-innovation]
-sources: ["research-add-cross-references-to-conceptsalgorithm-2026-06-12-070344.md"]
----
+
 # Algorithms for Wellbeing
 Algorithms for wellbeing refer to the various computational methods and techniques used to analyze data and identify patterns associated with wellbeing in AI systems. These algorithms are crucial for promoting wellbeing and minimizing harm in AI systems.
 
@@ -25,3 +14,9 @@ Algorithms for wellbeing are essential in AI systems as they enable the developm
 * [[Wellbeing]]
 * [[Human-Centered Design]]
 * [[Responsible Research and Innovation]]
+
+See also: [[wellbeing]]
+
+See also: [[human-centered-design]]
+
+See also: [[responsible-research-and-innovation]]

@@ -1,31 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Habits
-description: "Habits is a universal mental model—a conceptual tool for making sense of patterns and relationships in complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- productivity
-- habits
-- behavior-change
-sources:
-- Habits.md
-related:
-- effort
-- attention-budget
-- hyperfocus
-- scatterfocus
-- attention-residue
-- user-investment-habit
-- hook-model
-- variable-reward-design
-- external-triggers
-- internal-triggers
-- habit-testing
-- active-revision-techniques
-- building-a-second-brain---tiago-forte
+tiago-forte
 - how-to-take-smart-notes---snke-ahrens
 - hyperfocus---chris-bailey
 - supercommunicators-charles-duhigg
@@ -71,3 +44,7 @@ Habits connect to and reinforce several existing wiki concepts:
 ## Open Questions
 
 How does the Habits mental model differ from the existing [[hook-model]] and [[variable-reward-design]] concepts? The wiki currently treats these as separate; a unifying framework would clarify the relationship between general habit formation and specific behavioral design patterns.
+
+See also: [[effort]]
+
+See also: [[building-a-second-brain]]

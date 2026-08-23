@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: "Cilantro Genetic Sensitivity"
-description: "--
-Sensibilidad genética al cilantro"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- herbs
-- spices
-- genetics
-- flavor-science
-sources:
-- Cilantro-Coriander.md
-related:
-- cilantrocoriander-coriandrum-sativum
-- herbs-spices
-- aromatics
----
+
 --
 # Sensibilidad genética al cilantro
 
@@ -38,3 +19,9 @@ La controversia del cilantro afecta directamente la percepción del sabor en rec
 ## Relación con otros conceptos
 
 Este fenómeno conecta con [[flavor-theory]] y la ciencia del sabor, así como con la variación genética en la percepción de alimentos. También es relevante para comprender las preferencias culturales en [[mexican-cuisine]], [[indian-cuisine]] y [[thai-cuisine]].
+
+See also: [[cilantrocoriander-coriandrum-sativum]]
+
+See also: [[herbs-spices]]
+
+See also: [[aromatics]]

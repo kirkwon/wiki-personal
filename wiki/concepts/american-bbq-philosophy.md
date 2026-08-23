@@ -1,24 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: American BBQ Philosophy
-description: "--
-American BBQ Philosophy"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cuisine
-- american
-- barbecue
-- cooking
-sources:
-- bbq-regions.md
-related:
-- bbq-regions
-- bbq-techniques
-- southern-soul-food
-- gastronomy
----
+
 --
 # American BBQ Philosophy
 
@@ -56,3 +36,11 @@ American BBQ is defined by regional identity rather than a single standard. The 
 - Meat thermometer — Doneness monitoring
 - Spray bottle — Moisture control during cooking
 ^[raw/articles/bbq-regions.md]
+
+See also: [[bbq-regions]]
+
+See also: [[bbq-techniques]]
+
+See also: [[southern-soul-food]]
+
+See also: [[gastronomy]]

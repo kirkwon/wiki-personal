@@ -1,27 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Atomic Habits - James Clear
-description: "--
-Atomic Habits - James Clear"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- productivity
-- psychology
-- habit-formation
-sources:
-- Habit.md
-related:
-- habit
-- hook-model
-- external-triggers
-- internal-triggers
-- user-investment-habit
-- habit-testing
-- fizzgogg-behavior-model
----
+
 --
 # Atomic Habits - James Clear
 
@@ -37,3 +14,11 @@ James Clear's Atomic Habits presents a framework for habit formation built aroun
 ## Connection to Habit Mental Model
 
 Clear's work provides the granular behavioral mechanics that operationalize the broader habit mental model, connecting to the [[hook-model]] of trigger-response-reward loops, [[external-triggers]] in environment design, and [[internal-triggers]] tied to cravings and identity.
+
+See also: [[habit]]
+
+See also: [[user-investment-habit]]
+
+See also: [[habit-testing]]
+
+See also: [[fizzgogg-behavior-model]]

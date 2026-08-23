@@ -1,25 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: The Upside of Irrationality
-description: "-
-The Upside of Irrationality"
-created: 2026-05-04
-updated: 2026-05-10
-tags:
-- behavioral-economics
-- psychology
-- decision-making
-- books
-sources:
-- Processes.md
-- Irrationality.md
-related:
-- processes
-- cognitive-biases-library
-- decision-making-frameworks
-- dan-ariely
-- irrationality ---mental-model
+mental-model
 ---
 -
 # The Upside of Irrationality
@@ -38,3 +17,7 @@ related:
 - [[dan-ariely]]
 - [[irrationality---mental-model]]
 - [[cognitive-biases-library]]
+
+See also: [[processes]]
+
+See also: [[decision-making-frameworks]]

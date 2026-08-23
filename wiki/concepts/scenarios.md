@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Scenarios
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-sources:
-- Scenarios.md
-related:
-- scenario-planning
-- decision-making-frameworks
-- thinking-in-bets---annie-duke
+annie-duke
 - how-to-decide---annie-duke
 - quit-the-power-of-knowing-when-to-walk-away
 confidence: medium
@@ -48,3 +34,5 @@ Scenarios is related to but distinct from [[scenario-planning]], which is a more
 - [[thinking-in-bets---annie-duke]]
 - [[quit-the-power-of-knowing-when-to-walk-away]]
 ---
+
+See also: [[thinking-in-bets]]

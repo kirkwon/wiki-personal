@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Negative Space in Photography
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- minimalism
-- post-processing
----
+
 -
 # Negative Space in Photography
 
@@ -36,3 +21,9 @@ Negative space is the empty space around your main subject. It is a powerful com
 - Small boat in ocean: Boat small, water dominates
 - Solitary tree in field: Tree as subject, empty field
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[minimalism]]
+
+See also: [[post-processing]]

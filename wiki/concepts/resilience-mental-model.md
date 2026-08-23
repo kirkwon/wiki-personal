@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Resilience as a Mental Model
-description: "--
-Resilience as a Mental Model"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- psychology
-- self-improvement
-- mark-manson
-sources:
-- Everything Is F_cked_ A Book About Hope - Mark Manson.md
-related:
-- perseverance
-- humility-and-gratitude
-- embracing-failure-for-personal-growth
-- stress
----
+
 --
 # Resilience as a Mental Model
 
@@ -45,3 +25,7 @@ Resilience connects to [[Perseverance]], [[humility-and-gratitude]] as a practic
 - [[grit-concept]] – Duckworth's research on sustained effort
 - [[being-mortal]] – Gawande on accepting life's limitations
 - [[stillness]] – Finding contentment amidst chaos
+
+See also: [[perseverance]]
+
+See also: [[stress]]

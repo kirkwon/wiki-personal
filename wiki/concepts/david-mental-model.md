@@ -1,17 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: David Mental Model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- cognitive-science
-sources:
-- David.md
-related:
-- david-allen
-- getting-things-done---david-allen
+david-allen
 - ideas-mental-model
 - thinking-mental-model
 - problem.md
@@ -46,3 +33,5 @@ The model is referenced in connection with David Allen's work, specifically "Rea
 
 This model is defined at a high level of abstraction. For specific principles and methods, refer to David Allen's works including [[getting-things-done---david-allen]].
 ---
+
+See also: [[getting-things-done]]

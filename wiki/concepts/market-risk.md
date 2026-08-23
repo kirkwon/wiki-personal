@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Market Risk
-description: "--
-Αγοραστικός Κίνδυνος"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- personal-finance
-- investing
-- risk-management
-- market-risk
-sources:
-- Risk Management.md
-related:
-- diversification
-- risk-management
-- dollar-cost-averaging
----
+
 --
 # Αγοραστικός Κίνδυνος
 
@@ -30,3 +11,5 @@ related:
 
 ## Σύνδεση με άλλες έννοιες
 Συνδέεται με [[diversification]] και [[dollar-cost-averaging]].
+
+See also: [[risk-management]]

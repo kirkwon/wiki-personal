@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Perspective
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-- fundamentals
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- photography-fundamentals
----
+
 -
 # Perspective
 
@@ -31,3 +16,5 @@ Perspective in photography refers to the camera position and angle used to captu
 
 See [[composition-techniques]] for the broader context of composition techniques.
 ---
+
+See also: [[photography-fundamentals]]

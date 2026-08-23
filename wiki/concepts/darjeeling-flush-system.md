@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 大吉岭采摘季体系
-description: "采摘季体系是大吉岭茶的核心特征，不同季节采摘产生截然不同的风味，这是理解大吉岭茶的关键。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- tea
-- darjeeling
-- flush-system
-related:
-- darjeeling-tea
-- 茶的种类
-- 风土概念
-sources:
-- Darjeeling Tea.md
----
+
 --
 # 大吉岭采摘季体系
 
@@ -54,3 +37,5 @@ sources:
 - **最佳搭配**：下午茶、清淡餐食
 
 不同采摘季产生的风味差异是大吉岭茶区别于其他红茶的核心特征，也是茶叶爱好者追捧的原因。
+
+See also: [[darjeeling-tea]]

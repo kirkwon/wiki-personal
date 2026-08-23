@@ -1,26 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Thinking in Systems - Donella H. Meadows
-description: "--
-Thinking in Systems - Donella H."
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- mental-model
-- systems-thinking
-- general
-- books
-sources:
-- System.md
-- World.md
-related:
-- donella-meadows
-- limits-to-growth
-- system-mental-model
-- world-mental-model
-- overview
----
+
 --
 # Thinking in Systems - Donella H. Meadows
 
@@ -40,3 +18,7 @@ Meadows' work contributes to the [[world-mental-model]] by offering tools for re
 ## Related Reading
 
 See also [[donella-meadows]] for her broader body of work including *Limits to Growth*.
+
+See also: [[limits-to-growth]]
+
+See also: [[overview]]

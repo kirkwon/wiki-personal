@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Pedantry and Mastery
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- problem-solving
-- learning
-- mental-models
-sources:
-- How to Solve It - George Polya.md
-related:
-- polya-four-steps
-- heuristic-proproblem-solving
-- bright-idea-insight
----
+
 -
 # Pedantry and Mastery
 
@@ -24,3 +8,9 @@ This concept connects to the broader theme in *How to Solve It* that problem-sol
 
 Pedantry can manifest as rigidly applying frameworks without thinking, which Polya explicitly flags as a reason to stop systematic problem-solving. Mastery, by contrast, involves creative intuition working alongside systematic approaches.
 ---
+
+See also: [[polya-four-steps]]
+
+See also: [[heuristic-proproblem-solving]]
+
+See also: [[bright-idea-insight]]

@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Channeling (通道效应)
-description: "Channeling occurs when water finds paths through coffee grounds instead of flowing evenly through the entire bed."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- coffee
-- espresso
-- extraction
-- problem
-- brewing
-- technique
-sources:
-- Espresso.md
-- Pour Over.md
-related:
-- espresso-意大利浓缩咖啡
-- wdt-weiss-distribution-technique
-- bloom-technique-闷蒸技术
-- pour-over-coffee
-- extraction-control
----
+
 --
 # Channeling (通道效应)
 
@@ -54,3 +31,7 @@ Channeling occurs when water finds paths through coffee grounds instead of flowi
 Consistent technique and proper equipment (burr grinder, gooseneck kettle) help prevent channeling by ensuring uniform grind size and controlled water distribution.
 
 参见 [[wdt-weiss-distribution-technique]] 了解分布技术，[[espresso-意大利浓缩咖啡]] 了解完整冲煮流程，[[pour-over-coffee]] 了解手冲相关内容。
+
+See also: [[bloom-technique-闷蒸技术]]
+
+See also: [[extraction-control]]

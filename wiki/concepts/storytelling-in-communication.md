@@ -1,21 +1,4 @@
----
-date: 2026-04-17
-type: concept
-title: Storytelling in communication
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- communication
-- storytelling
-- persuasion
-sources:
-- Supercommunicators - Charles Duhigg.md
-related:
-- communication-skills
-- supercommunicators-charles-duhigg
-- effective-listening
-- science-of-persuasion
----
+
 -
 # Storytelling in communication
 
@@ -36,3 +19,7 @@ Storytelling is a core communication skill that enables people to connect, inspi
 ## Connection to other frameworks
 Storytelling overlaps with the [[six-thinking-hats]] framework in that narrative techniques can help structure and present ideas from multiple perspectives.
 ---
+
+See also: [[supercommunicators-charles-duhigg]]
+
+See also: [[effective-listening]]

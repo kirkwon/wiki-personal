@@ -1,21 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Slave Morality
-description: "One half of Nietzsche's master vs. slave morality framework."
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- philosophy
-- moral-philosophy
-- psychology
-sources:
-- Beyond Good and Evil - Friedrich Nietzsche.md
-related:
-- master-vs-slave-morality
-- beyond-good-and-evil-nietzsche
-- genealogical-analysis-of-moral-concepts
----
+
 --
 # Slave Morality
 
@@ -35,3 +18,5 @@ Nietzsche does not simply advocate for master morality over slave morality. Rath
 ## Related
 
 See [[master-vs-slave-morality]], [[master-morality]], and [[genealogical-analysis-of-moral-concepts]].
+
+See also: [[beyond-good-and-evil-nietzsche]]

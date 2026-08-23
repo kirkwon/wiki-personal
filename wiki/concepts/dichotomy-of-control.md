@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Dichotomy of control
-description: "--
-Dichotomy of control"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- productivity
-- learning
-- philosophy
-- stoicism
-- mental-models
-sources:
-- Dichotomy of control.md
-related:
-- scatterfocus
-- effort
-- solutions-mental-model
-- what-is-the-unknown
-- hyperfocus---chris-bailey
+chris-bailey
 - deep-work - Cal Newport
 - getting-things-done---david-allen
 - meditations---marcus-aurelius
@@ -57,3 +36,5 @@ This source reinterprets the dichotomy as a productivity skill: auditing workflo
 
 - How does the Stoic emphasis on acceptance of uncontrollable factors interact with productivity frameworks that emphasize maximizing control?
 - Are there other ancient philosophical traditions that offer similar distinctions between controllable and uncontrollable domains?
+
+See also: [[hyperfocus]]

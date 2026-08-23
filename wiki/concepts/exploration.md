@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Exploration
-description: "Exploration is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-related:
-- world-disclosure
-- experiment-and-exploration-forms-of-world-disclosure---snke-ahrens
+snke-ahrens
 - specialization-and-generalization
 - problem-solving
 - the-most-human-human---brian-christian-tom-griffiths
@@ -53,3 +41,5 @@ Exploration overlaps with but is distinct from [[overview]], [[thinking-mental-m
 ## Applicability
 
 Universal — applicable across domains including decision-making, learning, creativity, ethics, and personal development.
+
+See also: [[experiment-and-exploration-forms-of-world-disclosure]]

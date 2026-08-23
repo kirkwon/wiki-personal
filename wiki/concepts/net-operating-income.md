@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Net Operating Income (NOI)
-description: "--
-Net Operating Income (NOI)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- real-estate
-- investing
-- personal-finance
-- metrics
-sources:
-- Financial Reporting Templates.md
-related:
-- cap-rate
-- cash-on-cash-return
-- debt-coverage-ratio
-- break-even-ratio
-- real-estate-investment
----
+
 --
 # Net Operating Income (NOI)
 
@@ -43,3 +21,7 @@ NOI serves as the numerator in key metrics:
 ## Tracking
 
 NOI is tracked in the [[single-property-analysis-template]] and [[multi-property-portfolio-template]] as part of monthly and annual performance reporting.
+
+See also: [[break-even-ratio]]
+
+See also: [[real-estate-investment]]

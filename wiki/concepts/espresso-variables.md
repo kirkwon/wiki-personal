@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Espresso萃取变量
-description: "浓缩咖啡的品质取决于压力、温度、研磨度、时间、用量五大变量的精确控制。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- technique
-sources:
-- Espresso.md
-related:
-- espresso-意大利浓缩咖啡
-- grind-size
-- coffee-roasting-咖啡烘焙
-- espresso-crema
----
+
 --
 # Espresso萃取变量
 
@@ -41,3 +24,9 @@ related:
 ## 变量调整原则
 
 各变量相互关联，调整一个变量时需考虑其他变量的平衡。研磨度是最常用的调整工具，但需配合温度和用量的变化综合判断。
+
+See also: [[espresso-意大利浓缩咖啡]]
+
+See also: [[coffee-roasting-咖啡烘焙]]
+
+See also: [[espresso-crema]]

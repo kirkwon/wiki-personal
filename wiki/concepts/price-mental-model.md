@@ -1,24 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Price as a mental model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- behavioral-economics
-sources:
-- Price.md
-related:
-- price-mental-model
-- dan-ariely
-- predictably-irrational-dan-ariely
-- framing-effects
-- cognitive-biases-library
-- prospect-theory
-- decision-making-frameworks
----
+
 -
 # Price as a mental model
 
@@ -46,3 +26,11 @@ Price as a mental model highlights the gap between perceived value and actual co
 - Should price be positioned as a sub-model under decision-making or as a standalone mental model? Given the wiki's robust decision-making section, a dedicated page with cross-links provides the most utility.
 - How does price interact with other mental models like [[decision-quality-vs-outcome-quality]] and [[expected-value-ev]]?
 ---
+
+See also: [[price-mental-model]]
+
+See also: [[dan-ariely]]
+
+See also: [[predictably-irrational-dan-ariely]]
+
+See also: [[decision-making-frameworks]]

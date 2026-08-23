@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Yum Cha (饮茶)
-description: "Yum Cha (饮茶) means 'drinking tea' and refers to the Cantonese tradition of having dim sum brunch with tea service."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- chinese
-- cantonese
-- dim-sum
-- tea
-- cuisine
-- gastronomy
-related:
-- dim-sum
-- cantonese-cuisine
-- tea
-- chinese-cuisine
-sources:
-- dim-sum.md
-- cantonese-cuisine.md
----
+
 --
 # Yum Cha (饮茶)
 
@@ -57,3 +35,9 @@ Yum Cha (饮茶) means "drinking tea" and refers to the Cantonese tradition of h
 ## Related
 
 [[dim-sum]] for the full tradition guide.
+
+See also: [[cantonese-cuisine]]
+
+See also: [[tea]]
+
+See also: [[chinese-cuisine]]

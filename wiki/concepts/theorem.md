@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Theorem
-description: "Theorem is a universal mental model that provides a conceptual shortcut for understanding and navigating complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- systems-thinking
-sources:
-- Theorem.md
-related:
-- swan-mental-model
-- theory-as-a-mental-model
-- problem.md
-- reality
-- john-gall
-- the-systems-bible---john-gall
+john-gall
 ---
 --
 # Theorem
@@ -47,3 +29,9 @@ Theorem differs from general theory or abstract principle by grounding itself sp
 - [[Reality]]
 - [[how-the-economic-machine-works---ray-dalio]]
 - [[the-checklist-manifesto---atul-gawande]]
+
+See also: [[reality]]
+
+See also: [[john-gall]]
+
+See also: [[the-systems-bible]]

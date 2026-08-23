@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: "Diversification: Four Types"
-description: "--
-Diversifikation – Vier Typen"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- risk-management
-- wealth-building
-sources:
-- The Algebra of Wealth.md
-related:
-- the-algebra-of-wealth
-- asset-diversifikation
-- geografische-diversifikation
-- einkommensdiversifikation
-- fähigkeitsdiversifikation
----
+
 --
 # Diversifikation – Vier Typen
 
@@ -45,3 +24,11 @@ Technische Fähigkeiten (Coding, Datenanalyse, KI-Tools), Soft Skills (Führung,
 - Überdiversifikation (3-5 Fonds reichen)
 - Falsche Diversifikation (10 Tech-Aktien ≠ diversifiziert)
 - Home Bias (alles im Heimatland)
+
+See also: [[the-algebra-of-wealth]]
+
+See also: [[asset-diversifikation]]
+
+See also: [[geografische-diversifikation]]
+
+See also: [[einkommensdiversifikation]]

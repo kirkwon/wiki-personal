@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: 烘焙缺陷
-description: "咖啡烘焙中的常见缺陷包括烧焦、尖头、烘焙不均、欠烘和过烘，每种缺陷都有特定的成因和预防措施。"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- coffee
-- technique
-- quality-control
-sources:
-- Roasting.md
-related:
-- coffee-roasting-咖啡烘焙
-- roast-profiles
----
+
 --
 # 烘焙缺陷
 
@@ -46,3 +30,7 @@ related:
 - **预防**：缩短时间、降低热量
 
 质量评估包括视觉检查（颜色、油面分布、缺陷）和品尝评估（风味平衡、体感、余韵），配合开发监控确保一致性。
+
+See also: [[coffee-roasting-咖啡烘焙]]
+
+See also: [[roast-profiles]]

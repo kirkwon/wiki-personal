@@ -1,25 +1,4 @@
----
-date: 2026-06-13
 
-type: concept
-title: Circle of Competence
-related:
-  - first-principles-thinking
-  - margin-of-safety-financial
-  - base-rate-neglect
-  - reasonable-vs-rational-decisions
-sources:
-  - Super Thinking - Gabriel Weinberg
-ingested_via: put_page
-ingested_at: '2026-06-13T17:08:27.504Z'
-source_kind: put_page
-tags:
-  - concept
-  - decision-making
-  - mental-model
-  - risk
-  - strategy
----
 
 # Circle of Competence
 
@@ -53,3 +32,13 @@ Circle of Competence is a pre-filter before **Step 1 (WHY)** . Before assessing 
 - Margin of Safety — the buffer when you're close to the edge
 - Reasonable vs Rational Decisions — knowing your decision quality
 - Base Rate Neglect — misestimating probabilities from outside your circle
+
+Sources: [[Super Thinking - Gabriel Weinberg]]
+
+See also: [[first-principles-thinking]]
+
+See also: [[margin-of-safety-financial]]
+
+See also: [[base-rate-neglect]]
+
+See also: [[reasonable-vs-rational-decisions]]

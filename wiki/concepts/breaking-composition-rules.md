@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Breaking Composition Rules
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- photography
-- composition
-sources:
-- composition-techniques.md
-related:
-- composition-techniques
-- rule-of-thirds
-- minimalism-photography
----
+
 -
 # Breaking Composition Rules
 
@@ -32,3 +17,9 @@ After mastering composition rules, intentional rule-breaking becomes a tool for 
 
 Understanding rules deeply before breaking them is key — this ensures the rule-breaking is intentional rather than accidental.
 ---
+
+See also: [[composition-techniques]]
+
+See also: [[rule-of-thirds]]
+
+See also: [[minimalism-photography]]

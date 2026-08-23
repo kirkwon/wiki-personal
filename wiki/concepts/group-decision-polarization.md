@@ -1,21 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Group Decision Polarization
-description: "Group Decision Polarization"
-created: 2026-05-03
-updated: 2026-05-09
-tags:
-- decision-making
-- cognitive-science
-- psychology
-- behavioral-economics
-- group-dynamics
-sources:
-- thinking-fast-and-slow
-- Group Decision Polarization
-related: ["decisions-in-teams", "cognitive-biases-library", "conformity", "framing-effects-in-decision-making", "group-decision-polarization", "decision-making-under-uncertainty", "ascription-bias", "overconfidence-and-certainty", "five-dysfunctions-of-a-team", "recognition-primed-decision-model", "two-views-of-decision-kahneman-vs-klein", "naturalistic-decision-making"]
----
+
 # Group Decision Polarization
 
 Group decision polarization refers to the phenomenon where group discussions lead members to adopt more extreme positions than they individually held before the discussion. Groups tend to converge on positions that are more extreme than the average of initial individual views, driven by conformity pressures, social comparison, and the amplification of shared biases. In groups, people conform to perceived group norms, which can amplify initial tendencies — whether toward risk-seeking or risk-averse behavior.
@@ -44,3 +27,9 @@ Kahneman identifies this as a phenomenon where collective decision-making can le
 ## Connection to Kahneman vs. Klein Debate
 
 Group polarization supports Kahneman's view that intuitive group processes are error-prone, contrasting with [[recognition-primed-decision-model]] where expert intuition in small teams can be highly effective. The tension is explored in [[two-views-of-decision-kahneman-vs-klein]].
+
+Sources: [[thinking-fast-and-slow]]
+
+See also: [[group-decision-polarization]]
+
+See also: [[decision-making-under-uncertainty]]

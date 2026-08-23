@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Letters from a Stoic - Seneca
-description: "--
-Letters from a Stoic - Seneca"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- philosophy
-- productivity
-sources:
-- Time management and priority setting.md
-related:
-- time-management-and-priority-setting
-- scatterfocus
-- attention-budget
----
+
 --
 # Letters from a Stoic - Seneca
 
@@ -24,3 +7,5 @@ Seneca's Letters from a Stoic is a classical philosophical work that addresses t
 ## Relevance
 
 Seneca's writings emphasize the importance of directing energy toward what truly matters, a principle that underpins modern time management and priority setting practices. The work connects to contemporary concepts such as [[scatterfocus]] and the broader discipline of managing attention as a finite resource.
+
+See also: [[time-management-and-priority-setting]]

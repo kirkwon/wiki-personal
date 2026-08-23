@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: B Corporations
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- business
-- ethics
-- sustainability
-sources:
-- Adrift - Scott Galloway.md
-related:
-- responsible-capitalism
-- redefining-success-metrics
-- scott-galloway
----
+
 -
 # B Corporations
 
@@ -32,3 +16,5 @@ Serves as a concrete model within [[responsible-capitalism]] and [[redefining-su
 ## Source
 ^[Adrift - Scott Galloway.md]
 ---
+
+See also: [[scott-galloway]]

@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: When to Stop Optimizing
-description: "-
-When to Stop Optimizing"
-created: 2026-04-29
-updated: 2026-05-12
-tags:
-- productivity
-- self-regulation
-- mental-models
-- well-being
-sources:
-- Essentialism_ The Disciplined Pursuit of Less - Greg McKeown.md
-- Effortless - Greg McKeown.md
-related:
-- essentialism ---greg-mckeown
+greg-mckeown
 - hyperfocus---chris-bailey
 - scatterfocus
 - decision-making-frameworks
@@ -48,3 +31,5 @@ This self-regulation principle warns against productivity obsession and provides
 - [[balanced-living]]
 - [[Hyperfocus - Chris Bailey]]
 - [[deep-work---cal-newport]]
+
+See also: [[essentialism]]

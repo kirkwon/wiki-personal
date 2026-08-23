@@ -1,18 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Fulfillment
-description: "Fulfillment is a conceptual tool or principle that helps understand and navigate complex situations."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- general
-sources:
-- Fulfillment.md
-confidence: medium
-related:
-- the-algebra-of-happiness---scott-galloway
+scott-galloway
 - happiness-mental-model
 ---
 --
@@ -35,3 +21,5 @@ Fulfillment is referenced in [[the-algebra-of-happiness---scott-galloway]] by Sc
 ## Open Questions
 
 The source provides minimal elaboration, so the precise contours of Fulfillment as a standalone mental model remain unclear. Further context from Galloway's work would help clarify its practical applications.^[raw/articles/Fulfillment.md]
+
+See also: [[the-algebra-of-happiness]]

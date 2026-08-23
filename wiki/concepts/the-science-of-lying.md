@@ -1,18 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: The Science of Lying
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- neuroscience
-- psychology
-- behavioral-economics
-- cognitive-science
-sources:
-- The (Honest) Truth About Dishonesty - Dan Ariely.md
-related:
-- the-honest-truth-about-dishonesty---dan-ariely
+dan-ariely
 - dual-process-theory
 - thinking-fast-and-slow---daniel-kahneman
 ---
@@ -34,3 +20,5 @@ This parallels [[dual-process-theory]] and [[thinking-fast-and-slow---daniel-kah
 - Connects to [[incremental-dishonesty-fudge-factor]] — cognitive effort limits how much people cheat
 - Relates to [[self-image-and-moral-identity]] — the mental cost of lying reinforces self-image concerns
 ---
+
+See also: [[the-honest-truth-about-dishonesty]]

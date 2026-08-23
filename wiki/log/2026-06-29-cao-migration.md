@@ -1,10 +1,4 @@
----
-date: 2026-06-30
 
-type: log
-tags: [cao, orchestration, migration, process]
-related: [cao-adoption-2026-06-29]
----
 
 # Migration: Adopt CAO, Keep Queue + Autoresearch
 
@@ -110,3 +104,5 @@ The running Hermes session inside CAO's tmux correctly:
 2. **Queue → CAO bridge** — route queue tasks through CAO profiles
 3. **Sunset kanban board-server** when CAO Web UI proves sufficient
 4. **Tune Hermes supervisor** profile with more detailed worker instructions
+
+See also: [[cao-adoption-2026-06-29]]

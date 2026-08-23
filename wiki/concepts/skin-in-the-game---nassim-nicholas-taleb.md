@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Skin in the Game - Nassim Nicholas Taleb
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- decision-making
-- ethics
-sources:
-- Accountability.md
-related:
-- accountability
-- skin-in-the-game
-- decision-quality-vs-outcome-quality
-- biases
----
+
 -
 # Skin in the Game - Nassim Nicholas Taleb
 
@@ -32,3 +15,7 @@ Accountability extends beyond Taleb's skin-in-the-game by positioning itself as 
 - [[radical-transparency]]
 - [[decision-quality-vs-outcome-quality]]
 ---
+
+See also: [[skin-in-the-game]]
+
+See also: [[biases]]

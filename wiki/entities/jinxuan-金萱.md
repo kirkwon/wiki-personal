@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: 金萱 (Jinxuan - Golden Lily)
-description: "--
-金萱 (Jinxuan - Golden Lily)"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- tea
-- oolong
-- taiwan
-- taiwanese
-sources:
-- Oolong Tea.md
-related:
-- oolong-tea-乌龙茶
-- gongfu-brewing-功夫茶冲泡
-- tea-oxidation-茶叶氧化
----
+
 --
 # 金萱 (Jinxuan - Golden Lily)
 
@@ -38,3 +19,9 @@ related:
 ## 冲泡建议
 
 水温185-195°F，轻柔萃取，突出奶油口感。
+
+See also: [[oolong-tea-乌龙茶]]
+
+See also: [[gongfu-brewing-功夫茶冲泡]]
+
+See also: [[tea-oxidation-茶叶氧化]]

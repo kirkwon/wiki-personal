@@ -1,24 +1,4 @@
----
-created: 2026-04-24
-sources:
-- regional-overview.md
-tags:
-- chinese
-- regional
-- cuisine
-date: 2026-04-24
-title: Chinese Regional Cuisines
-description: "Chinese Regional Cuisines"
-type: concept
-updated: 2026-05-09
-related:
-- sichuan-cuisine
-- cantonese-cuisine
-- mapo-tofu
-- kung-pao-chicken
-- qi-wei-flavors
-- chengdu-vs-chongqing
----
+
 --
 
 # Chinese Regional Cuisines
@@ -313,3 +293,15 @@ Chinese cuisine is not monolithic - it's a tapestry of eight major regional styl
 4. **Learn regional ingredients** - Sichuan peppercorns, oyster sauce
 
 **Remember**: Chinese cuisine is incredibly diverse. Each region has its own philosophy, ingredients, and flavors. Explore widely and appreciate the differences.
+
+See also: [[sichuan-cuisine]]
+
+See also: [[cantonese-cuisine]]
+
+See also: [[mapo-tofu]]
+
+See also: [[kung-pao-chicken]]
+
+See also: [[qi-wei-flavors]]
+
+See also: [[chengdu-vs-chongqing]]

@@ -1,27 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 地域ラーメンスタイル
-description: "日本各地域で独自に発展したラーメンのスタイル。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- cuisine
-- regional-cuisines
-sources:
-- ramen.md
-related:
-- ramen
-- miso
-- shoyu
-- tonkotsu
-- hokkaido
-- tokyo
-- osaka
-- kyoto
-- fukuoka
----
+
 --
 # 地域ラーメンスタイル
 
@@ -41,3 +18,7 @@ related:
 
 ## 福岡
 豚骨ベース、細麺。豚骨ラーメンの発祥地で、コク深いスープが特徴。
+
+See also: [[ramen]]
+
+See also: [[tonkotsu]]

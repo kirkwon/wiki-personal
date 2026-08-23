@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Standard Deviation (Investing)
-description: "--
-Standard Deviation (Investing)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- investing
-- risk-metrics
-sources:
-- Risk Management.md
-related:
-- sharpe-ratio
-- beta
-- risk-management
----
+
 --
 # Standard Deviation (Investing)
 
@@ -32,3 +14,5 @@ related:
 
 ## Σύνδεση με άλλες έννοιες
 Συνδέεται με [[sharpe-ratio]] και [[beta]].
+
+See also: [[risk-management]]

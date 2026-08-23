@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Getting Wealthy vs. Staying Wealthy
-description: "--
-Getting Wealthy vs."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- personal-finance
-- investing
-- risk-management
-sources:
-- The Psychology of Money.md
-related:
-- margin-of-safety
-- diversification
-- risk-management
----
+
 --
 # Getting Wealthy vs. Staying Wealthy
 
@@ -39,3 +21,9 @@ Good financial decisions require both mindsets at different times. The seduction
 ## Connection to Margin of Safety
 
 Building in a margin of safety — leaving room for error in plans and assuming things will go wrong — is essential for staying wealthy.^[raw/articles/The Psychology of Money.md] This connects to the investment concept of margin of safety, which advocates for conservative assumptions and buffers against adverse outcomes.
+
+See also: [[margin-of-safety]]
+
+See also: [[diversification]]
+
+See also: [[risk-management]]

@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: 法压壶咖啡
-description: "法压壶咖啡是一种浸泡式萃取方法，将咖啡粉直接浸泡在热水中，然后通过金属滤网分离。这种方法能保留天然油脂和细颗粒，产生浓郁饱满的口感。"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- coffee
-- immersion-brewing
-- technique
-sources:
-- French Press.md
-related:
-- pour-over-coffee
-- arabica-coffee-coffea-arabica
-- coffee-bean-processing-咖啡豆处理
-- coffee-roasting-咖啡烘焙
-- robusta-vs-arabica
----
+
 --
 # 法压壶咖啡
 
@@ -85,3 +66,9 @@ related:
 ## 与其他方法的对比
 
 与 [[pour-over-coffee]] 的滴滤式萃取相比，法压壶的浸泡式萃取能保留更多油脂和细颗粒，口感更浓郁厚重，但渣滓较多。建议使用 [[arabica-coffee-coffea-arabica]] 优质咖啡豆以获得最佳风味。
+
+See also: [[coffee-bean-processing-咖啡豆处理]]
+
+See also: [[coffee-roasting-咖啡烘焙]]
+
+See also: [[robusta-vs-arabica]]

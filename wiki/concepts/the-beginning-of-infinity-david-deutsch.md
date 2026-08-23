@@ -1,27 +1,4 @@
----
-date: 2026-04-17
-type: source
-title: The Beginning of Infinity - David Deutsch
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-- book
-- epistemology
-- philosophy-of-science
-- physics
-related:
-- david-deutsch
-- explanatory-reach
-- conjecture-and-criticism
-- principle-of-optimism
-- critical-rationalism
-- knowledge
-- problem-solving
-- ideas-mental-model
-- thinking-mental-model
-sources:
-- The Beginning of Infinity - David Deutsch.md
----
+
 -
 # The Beginning of Infinity - David Deutsch
 
@@ -79,3 +56,15 @@ All evils are caused by insufficient knowledge. Through the growth of explanator
 - [[emotions-and-ai]] and [[the-alignment-problem---brian-christian-tom-griffiths]] on artificial general intelligence
 - [[quantum-computing-superposition]] on many-worlds interpretation
 ---
+
+See also: [[david-deutsch]]
+
+See also: [[critical-rationalism]]
+
+See also: [[knowledge]]
+
+See also: [[problem-solving]]
+
+See also: [[ideas-mental-model]]
+
+See also: [[thinking-mental-model]]

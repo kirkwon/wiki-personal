@@ -1,21 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Genie Problem
-description: "The Genie Problem is a conceptual framework for understanding the limitations of AI systems that are given powerful optimization capabilities but lack clear guidance on what outcomes are desirable."
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- ai-safety
-- technology
-- philosophy
-sources:
-- The Alignment Problem - Brian Christian  Tom Griffiths.md
-related:
-- intractable-computation
-- alignment
-- ai-safety-methods
----
+
 --
 # Genie Problem
 
@@ -27,3 +10,9 @@ Key aspects:
 - The gap between stated objectives and actual human values creates risk even for seemingly well-specified problems.
 
 The Genie Problem underscores why alignment is not just a technical problem but a fundamental challenge of encoding human values into systems that operate at scale and speed beyond human oversight.
+
+See also: [[intractable-computation]]
+
+See also: [[alignment]]
+
+See also: [[ai-safety-methods]]

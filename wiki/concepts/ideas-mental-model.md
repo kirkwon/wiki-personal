@@ -1,39 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Ideas as a Mental Model
-description: "--
-Ideas as a Mental Model"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- mental-models
-- cognitive-science
-- decision-making
-- mental-model
-- thinking
-- productivity
-sources:
-- Ideas.md
-- Idea.md
-confidence: 0.7
-related:
-- thinking-mental-model
-- planning
-- solutions
-- group
-- stillness
-- environment
-- minimalism
-- management
-- recipes-mental-model
-- overview
-- problem.md
-- solutions-mental-model
-- framework-template
-- the-7-habits-of-highly-effective-people-stephen-r-covey
-- the-beginning-of-infinity-david-deutsch
----
+
 --
 # Ideas as a Mental Model
 
@@ -84,3 +49,9 @@ Confidence is rated at 0.7, indicating moderate certainty in its utility as a st
 - [[thinking-mental-model]]
 - [[problem-md]]
 - [[solutions-mental-model]]
+
+See also: [[solutions]]
+
+See also: [[overview]]
+
+See also: [[the-7-habits-of-highly-effective-people-stephen-r-covey]]

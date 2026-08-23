@@ -1,25 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Supercommunicators - Charles Duhigg
-description: "--
-Supercommunicators - Charles Duhigg"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- communication
-- psychology
-- habit
-sources:
-- Habit.md
-related:
-- habit
-- communication-skills
-- settings
-- environment
-- hook-model
----
+
 --
 # Supercommunicators - Charles Duhigg
 
@@ -35,3 +14,13 @@ Charles Duhigg's Supercommunicators examines why some people are exceptionally e
 ## Connection to Habit Mental Model
 
 Duhigg shows how habitual communication patterns determine the quality of interactions, connecting to the habit mental model's framework for understanding automatic behaviors and their downstream effects on relationships and outcomes.
+
+See also: [[habit]]
+
+See also: [[communication-skills]]
+
+See also: [[settings]]
+
+See also: [[environment]]
+
+See also: [[hook-model]]

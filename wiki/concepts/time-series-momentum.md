@@ -1,20 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Time-Series Momentum
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- investing
-- momentum
-- metrics
-sources:
-- momentum-strategy.md
-related:
-- momentum-strategy
-- cross-sectional-momentum
-- trend-following
----
+
 -
 # Time-Series Momentum
 
@@ -31,3 +15,7 @@ This differs from cross-sectional momentum, which ranks assets against each othe
 
 Time-series momentum with longer look-back periods (e.g., 200-day moving average) is closely related to [[trend-following]] strategies used for asset allocation between stocks and bonds/cash.
 ---
+
+See also: [[momentum-strategy]]
+
+See also: [[cross-sectional-momentum]]

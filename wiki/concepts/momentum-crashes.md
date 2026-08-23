@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Momentum Crashes
-description: "Momentum crashes are sudden, sharp reversals where momentum stocks underperform dramatically."
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- investing
-- momentum
-- risk-management
-- quant
-- risk
-sources:
-- momentum-strategy.md
-related:
-- momentum-strategy
-- factor-investing
-- trend-following
-- risk-assessment-framework
-- momentum-plus-value
----
+
 --
 # Momentum Crashes
 
@@ -57,3 +36,7 @@ The key insight is that while momentum generates the highest raw returns (16.8% 
 - [[momentum-strategy]] - Core momentum approach
 - [[momentum-plus-value]] - Combining factors to reduce crash risk
 - [[risk-assessment-framework]] - Risk management techniques
+
+See also: [[factor-investing]]
+
+See also: [[trend-following]]

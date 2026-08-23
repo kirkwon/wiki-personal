@@ -1,26 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Pasta Shapes and Sauces
-description: "--
-Pasta Shapes and Sauces"
-created: 2026-04-24
-updated: 2026-05-09
-tags:
-- cuisine
-- italian
-- technique
-- cooking-technique
-- pasta
-sources:
-- pasta.md
-related:
-- italian-pasta
-- italian-cuisine
-- ingredient-pairings
-- pasta
-- al-dente
----
+
 --
 # Pasta Shapes and Sauces
 
@@ -67,3 +45,13 @@ Reserved starchy pasta water acts as an emulsifier, binding sauce to pasta. This
 - Always finish cooking the pasta in the sauce rather than serving them separately.
 
 [[wikilink-italian-pasta]] | [[wikilink-carbonara]] | [[wikilink-cacio-e-pepe]] | [[wikilink-ingredient-pairings]]
+
+See also: [[italian-pasta]]
+
+See also: [[italian-cuisine]]
+
+See also: [[ingredient-pairings]]
+
+See also: [[pasta]]
+
+See also: [[al-dente]]

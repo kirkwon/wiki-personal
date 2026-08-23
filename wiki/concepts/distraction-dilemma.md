@@ -1,20 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Distraction Dilemma
-description: "The distraction dilemma describes the paradox of modern life: constant access to information, entertainment, and social connection undermines the very focus and stillness needed for deep work, clear t."
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- productivity
-- psychology
-- technology
-- decision-making
-sources:
-- stillness-is-the-key
-- Distraction Dilemma
-related: [stillness-concept, external-triggers, fizzgogg-behavior-model, strategic-vs-reactive-thinking]
----
+
 # Distraction Dilemma
 
 The distraction dilemma describes the paradox of modern life: constant access to information, entertainment, and social connection undermines the very focus and stillness needed for deep work, clear thinking, and meaningful relationships. Ryan Holiday identifies distraction as the primary obstacle to cultivating stillness.
@@ -36,3 +20,7 @@ The distraction dilemma describes the paradox of modern life: constant access to
 - Environmental design (decluttering, nature, digital boundaries)
 - Embracing solitude and simplicity
 - Intentional pauses before responding to stimuli
+
+Sources: [[stillness-is-the-key]]
+
+See also: [[stillness-concept]]

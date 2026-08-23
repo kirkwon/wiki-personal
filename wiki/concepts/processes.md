@@ -1,22 +1,4 @@
----
-date: 2026-05-04
-type: concept
-title: Processes
-created: 2026-05-04
-updated: 2026-05-04
-tags:
-- mental-model
-- decision-making
-- cognitive-science
-sources:
-- Processes.md
-related:
-- systematic-decision-making
-- decision-making-frameworks
-- recipes-mental-model
-- planning
-- thinking-mental-model
-- noise-a-flaw-in-human-judgment---daniel-kahneman
+daniel-kahneman
 - fooled-by-randomness---nassim-nicholas-taleb
 - clear-thinking---shane-parrish
 - quit---annie-duke
@@ -49,3 +31,7 @@ Processes connects to several existing wiki concepts:
 
 The model does not fully address the tension between process reliance and intuition-based decision-making (e.g., Gary Klein's recognition-primed decision model). Confidence in this model is moderate (0.7), as it synthesizes author-level claims rather than empirical findings.
 ---
+
+See also: [[decision-making-frameworks]]
+
+See also: [[noise-a-flaw-in-human-judgment]]

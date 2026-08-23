@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Velouté
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- french
-- sauces
-- cooking-techniques
-sources:
-- mother-sauces.md
-related:
-- the-five-mother-sauces
-- roux
-- allemande
-- normande
----
+
 -
 # Velouté
 
@@ -47,3 +30,7 @@ La velouté è una salsa bionda leggera ed elegante, una delle cinque madri in l
 ## Usi Comuni
 Salsa su pollo e pesce, base per salse cremose, farcitura per pie, zuppe.
 ---
+
+See also: [[the-five-mother-sauces]]
+
+See also: [[roux]]

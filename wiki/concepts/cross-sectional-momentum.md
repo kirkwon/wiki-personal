@@ -1,23 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Cross-Sectional Momentum
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- finance
-- investing
-- factors
-- momentum
-- metrics
-- quantitative
-sources:
-- momentum-strategy.md
-related:
-- momentum-strategy
-- 12-1-momentum
-- time-series-momentum
----
+
 -
 # Cross-Sectional Momentum
 
@@ -35,3 +16,9 @@ This contrasts with time-series momentum, which compares an asset to its own his
 
 Rank all stocks in the universe by their 12-1 momentum score, then buy the top 20% (or top decile). Rebalance monthly.
 ---
+
+See also: [[momentum-strategy]]
+
+See also: [[12-1-momentum]]
+
+See also: [[time-series-momentum]]

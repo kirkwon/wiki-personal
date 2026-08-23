@@ -1,22 +1,4 @@
----
-date: 2026-04-22
-type: concept
-title: Insurance Protection for Investments
-description: "--
-Insurance Protection for Investments"
-created: 2026-04-22
-updated: 2026-04-22
-tags:
-- risk-management
-- investment-risk
-- real-estate-investment
-related:
-- risk-assessment-framework
-- hedging-strategies
-- risk-transfer-strategies
-sources:
-- Risk Assessment Framework.md
----
+
 --
 # Insurance Protection for Investments
 
@@ -38,3 +20,7 @@ Risk transfer mechanism through various insurance coverages to protect investmen
 - Insurance company selection based on financial rating and service
 
 Insurance is a core risk transfer strategy in [[risk-assessment-framework]].
+
+See also: [[hedging-strategies]]
+
+See also: [[risk-transfer-strategies]]

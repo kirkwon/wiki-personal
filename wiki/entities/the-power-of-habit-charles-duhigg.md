@@ -1,28 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: The Power of Habit - Charles Duhigg
-description: "--
-The Power of Habit - Charles Duhigg"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- book
-- psychology
-- habit
-- behavioral-economics
-sources:
-- The Power of Habit - Charles Duhigg.md
-related:
-- charles-duhigg
-- habit-loop
-- keystone-habits
-- habit-stacking
-- implementation-intentions
-- craving-brain
-- habit-change-golden-rule
-- hook-model
----
+
 --
 # The Power of Habit - Charles Duhigg
 
@@ -57,3 +33,15 @@ Connects to [[hook-model]] by Nir Eyal, [[fizzgogg-behavior-model]], [[habit-tes
 ## Author
 
 [[charles-duhigg]] — also author of *Supercommunicators*, already in wiki.
+
+See also: [[habit-loop]]
+
+See also: [[keystone-habits]]
+
+See also: [[habit-stacking]]
+
+See also: [[implementation-intentions]]
+
+See also: [[craving-brain]]
+
+See also: [[habit-change-golden-rule]]

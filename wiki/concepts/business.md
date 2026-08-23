@@ -1,16 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Business
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- business
-sources:
-- Business.md
-related:
-- the-four---scott-galloway
+scott-galloway
 - platform-dominance
 - mental-models
 ---
@@ -23,3 +11,5 @@ As a mental model, Business offers a universal lens for recognizing how organiza
 
 The model is applicable across domains and provides a way to think about strategy, competitive positioning, and systemic patterns rather than isolated events. Confidence in this model is moderate (0.7) due to its thin definitional content at this stage.
 ---
+
+See also: [[the-four]]

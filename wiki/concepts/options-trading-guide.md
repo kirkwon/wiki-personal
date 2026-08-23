@@ -1,27 +1,4 @@
----
-created: 2026-04-24
-sources:
-- Options Trading Guide.md
-tags:
-- personal-finance
-- investing
-- options
-date: 2026-04-24
-title: Options Trading Guide
-type: concept
-updated: 2026-05-09
-related:
-- options-fundamentals
-- theta-time-decay
-- leaps-long-term-equity-anticipation-securities
-- straddle-strategies
-- butterfly-spreads
-- covered-calls
-- credit-spreads
-- protective-puts
-- options-position-sizing
-- options-for-retirement-planning
----
+
 -
 
 # Options Trading Guide
@@ -76,3 +53,21 @@ Start with conservative strategies (covered calls, ITM options) and gradually in
 
 ---
 *Summary page - detailed content remains in full guide (910 lines). Consider splitting into sub-pages when time permits.*
+
+See also: [[theta-time-decay]]
+
+See also: [[leaps-long-term-equity-anticipation-securities]]
+
+See also: [[straddle-strategies]]
+
+See also: [[butterfly-spreads]]
+
+See also: [[covered-calls]]
+
+See also: [[credit-spreads]]
+
+See also: [[protective-puts]]
+
+See also: [[options-position-sizing]]
+
+See also: [[options-for-retirement-planning]]

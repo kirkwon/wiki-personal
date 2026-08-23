@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Value Innovation Analysis
-description: "--
-Value Innovation Analysis"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- strategy
-- market-strategy
-- business
-sources:
-- Blue Ocean Strategy - W Chan Kim  Renee Mauborgne.md
-related:
-- blue-ocean-strategy
-- four-actions-framework
-- buyer-utility-map
----
+
 --
 # Value Innovation Analysis
 
@@ -28,3 +10,9 @@ Key principles:
 - The strategy canvas reveals where value innovation opportunities exist by showing the current competitive landscape
 
 Value innovation creates a new market space (blue ocean) where the company can command uncontested demand and achieve both differentiation and low cost.
+
+See also: [[blue-ocean-strategy]]
+
+See also: [[four-actions-framework]]
+
+See also: [[buyer-utility-map]]

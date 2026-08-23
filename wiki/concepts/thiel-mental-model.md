@@ -1,23 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Thiel mental model
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- mental-model
-- strategy
-- decision-making
-sources:
-- Thiel.md
-related:
-- zero-to-one-peter-thiel-blake-masters
-- peter-thiel
-- blake-masters
-- decision-making-frameworks
-- monopoly-vs-competition
-- contrarianism
----
+
 -
 # Thiel mental model
 
@@ -42,3 +23,13 @@ Derived from [[zero-to-one-peter-thiel-blake-masters]].
 ## Connections
 This model connects to existing decision-making frameworks, strategic thinking, and themes of competition, monopoly, and contrarianism across the wiki.
 ---
+
+See also: [[peter-thiel]]
+
+See also: [[blake-masters]]
+
+See also: [[decision-making-frameworks]]
+
+See also: [[monopoly-vs-competition]]
+
+See also: [[contrarianism]]

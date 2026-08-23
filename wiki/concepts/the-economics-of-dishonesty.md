@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: The Economics of Dishonesty
-description: "The Economics of Dishonesty"
-created: 2026-05-03
-updated: 2026-05-03
-tags:
-- behavioral-economics
-- psychology
-- decision-making
-sources:
-- the-honest-truth-about-dishonesty
-- The Economics of Dishonesty
-related: [decision-quality-vs-outcome-quality, prospect-theory, incentives-for-honesty, dishonesty-experiments]
----
+
 # The Economics of Dishonesty
 
 The economic perspective on dishonesty examines how financial incentives, self-interest, and fairness motivations interact to shape lying and cheating behavior in market transactions and organizational settings.
@@ -32,3 +17,7 @@ This concept extends [[decision-quality-vs-outcome-quality]] by showing that the
 ## Related Concepts
 
 See also [[incentives-for-honesty]] for how reward systems impact honesty, and [[self-image-and-morality]] for how personal moral identity constrains dishonest behavior.
+
+Sources: [[the-honest-truth-about-dishonesty]]
+
+See also: [[dishonesty-experiments]]

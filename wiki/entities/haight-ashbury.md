@@ -1,19 +1,4 @@
----
-date: 2026-04-24
-type: entity
-title: Haight-Ashbury
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- local
-- sf
-- neighborhoods
-sources:
-- san-francisco-city-guide.md
-related:
-- san-francisco
-- haight-street
----
+
 -
 # Haight-Ashbury
 
@@ -29,3 +14,5 @@ Quartier emblématique de l'histoire hippie avec des boutiques vintage et des ma
 Hippie, décontracté, diversifié. Quartier avec fort caractère historique.
 
 ---
+
+See also: [[san-francisco]]

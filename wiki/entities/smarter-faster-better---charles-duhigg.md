@@ -1,22 +1,4 @@
----
-date: 2026-04-29
-type: entity
-title: Smarter Faster Better - Charles Duhigg
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- books
-- mental-model
-- productivity
-- organizational-change
-sources:
-- Change.md
-related:
-- charles-duhigg
-- change
-- motivation
-- teams
----
+
 -
 # Smarter Faster Better - Charles Duhigg
 
@@ -32,3 +14,7 @@ Charles Duhigg's *Smarter Faster Better* explores how motivation, teams, and pro
 
 Duhigg's framework represents organizational change — the idea that change happens through redesigning how people work together, how information flows, and how teams make decisions.
 ---
+
+See also: [[charles-duhigg]]
+
+See also: [[change]]

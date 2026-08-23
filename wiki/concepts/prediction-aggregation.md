@@ -1,20 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Prediction aggregation
-description: "--
-Prediction aggregation"
-created: 2026-04-29
-updated: 2026-04-29
-tags:
-- prediction
-- statistics
-- decision-making
-sources:
-- The Signal and the Noise - Nate Silver.md
-related:
-- ensemble-prediction-methods
-- superforecasting---philip-e-tetlock-dan-gardner
+philip-e-tetlock-dan-gardner
 - thinking-in-bets---annie-duke
 ---
 --
@@ -32,3 +16,7 @@ The practice of combining multiple forecasts to improve accuracy. Silver shows i
 ## Examples
 
 Political pundit predictions underperform aggregated polling data. Baseball sabermaticians outperform scout intuition through statistical aggregation.
+
+See also: [[ensemble-prediction-methods]]
+
+See also: [[superforecasting]]

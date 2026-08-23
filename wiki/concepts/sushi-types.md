@@ -1,25 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Sushi Types
-description: "--
-Sushi Types (寿司の種類)"
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- japanese
-- sushi
-- types
-- cuisine
-sources:
-- sushi-sashimi.md
-related:
-- sushi-and-sashimi
-- maki-types
-- nigiri-structure
-- chirashi
-- oshi
----
+
 --
 # Sushi Types (寿司の種類)
 
@@ -50,3 +29,7 @@ related:
 - [[sushi-and-sashimi]] - 総合ガイド
 - [[maki-types]] - 巻き寿司の詳細
 - [[nigiri-structure]] - 握り寿司の構造
+
+See also: [[chirashi]]
+
+See also: [[oshi]]

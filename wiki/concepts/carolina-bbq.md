@@ -1,22 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: Carolina BBQ
-description: "Carolina BBQ is distinguished by its vinegar-based sauces and pork-centric cooking."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- cuisine
-- american
-- barbecue
-- cooking
-sources:
-- bbq-regions.md
-related:
-- bbq-regions
-- bbq-techniques
-- american-bbq-philosophy
----
+
 --
 # Carolina BBQ
 
@@ -55,3 +37,9 @@ Carolina BBQ is distinguished by its vinegar-based sauces and pork-centric cooki
 
 The Eastern style is purely vinegar-forward with no tomato, while the Western style blends tomato and vinegar sweetness—a direct contrast to the tomato-heavy Kansas City approach.
 ^[raw/articles/bbq-regions.md]
+
+See also: [[bbq-regions]]
+
+See also: [[bbq-techniques]]
+
+See also: [[american-bbq-philosophy]]

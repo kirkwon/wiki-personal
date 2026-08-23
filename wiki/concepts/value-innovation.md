@@ -1,19 +1,4 @@
----
-date: 2026-05-03
-type: concept
-title: Value Innovation
-description: "Value innovation is the cornerstone of Blue Ocean Strategy: the simultaneous pursuit of differentiation and low cost that breaks the conventional value-cost tradeoff."
-created: 2026-05-03
-updated: 2026-05-11
-tags:
-- strategy
-- business
-- mental-models
-sources:
-- blue-ocean-strategy
-- Value Innovation
-related: [blue-ocean-strategy, strategy-canvas, four-actions-framework-eliminate-reduce-raise-create, red-ocean, four-actions-framework, cost-basis, decision-quality-vs-outcome-quality, opportunities]
----
+
 # Value Innovation
 
 **Value innovation** is the cornerstone of Blue Ocean Strategy: the simultaneous pursuit of differentiation and low cost that breaks the conventional value-cost tradeoff. Rather than choosing between offering more value (differentiation) or reducing costs, value innovation seeks to make competition irrelevant by creating a leap in value for both the company and its buyers.
@@ -33,3 +18,5 @@ The concept connects to [[decision-quality-vs-outcome-quality]] — value innova
 - [[cost-basis]] – Understanding cost structures to enable low cost alongside differentiation
 - [[opportunities]] – Value innovation as a source of new opportunities
 - [[red-ocean]] – The competitive space value innovation seeks to escape
+
+See also: [[four-actions-framework]]

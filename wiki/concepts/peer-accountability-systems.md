@@ -1,38 +1,4 @@
----
-date: 2026-04-29
-type: concept
-title: Peer accountability systems
-description: "Peer accountability systems"
-created: 2026-04-29
-updated: 2026-05-10
-tags:
-- productivity
-- learning
-- mental-models
-- skill
-- mental-model
-- team-dynamics
-- management
-sources:
-- Error-correction mechanisms.md
-- Peer accountability systems.md
-- Feedback loop design.md
-- Calibration training.md
-- Communication.md
-- Internal trigger mapping.md
-- Time management and priority setting.md
-- Optimism principle application.md
-- Model selection and validation frameworks.md
-- Free spirit perspective and value creation.md
-- Explanatory power analysis.md
-- Life audit and time tracking.md
-- Management.md
-- Genealogical analysis of moral concepts.md
-related:
-- error-correction-mechanisms
-- scatterfocus
-- four-step-problem-solving-framework
-- the-five-dysfunctions-of-a-team ---patrick-lencioni
+patrick-lencioni
 - building-a-cohesive-team
 - quadrant-2-focus
 - decisions-in-teams
@@ -167,3 +133,7 @@ Peer accountability systems are referenced as a related skill to genealogical an
 ## Confidence
 
 Low. This concept is mentioned as a related skill but lacks elaboration in the source material.
+
+See also: [[four-step-problem-solving-framework]]
+
+See also: [[the-five-dysfunctions-of-a-team]]

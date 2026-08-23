@@ -1,21 +1,4 @@
----
-date: 2026-04-24
-type: concept
-title: "Stop Losses"
-description: "Οι στάνες διακοπών είναι μια στρατηγική έξοδος θέσεων πριν οι απώλειες γίνουν καταστροφικές."
-created: 2026-04-24
-updated: 2026-04-24
-tags:
-- personal-finance
-- risk-management
-- stop-losses
-sources:
-- Risk Management.md
-related:
-- position-sizing
-- hedging-strategies
-- risk-management
----
+
 --
 # Στάνη Διακοπών
 
@@ -29,3 +12,9 @@ related:
 ## Προσόχες
 - Περιορίζει απώλειες, εξυπηρετεί πειθαρχία
 - Μπορεί να ενεργοποιηθεί σε μεταβλητότητα, χάθηκε αναπήλωση
+
+See also: [[position-sizing]]
+
+See also: [[hedging-strategies]]
+
+See also: [[risk-management]]
