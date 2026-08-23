@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Learning from Losses
 description: "Learning from losses is the practice of extracting wisdom and growth experiences from difficult situations or failed projects."

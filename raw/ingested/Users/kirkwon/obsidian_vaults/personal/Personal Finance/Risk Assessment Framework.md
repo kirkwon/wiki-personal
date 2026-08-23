@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Risk Assess
   Framework.md
 ingested: 2026-04-24
 sha256: 116c4e4b8fed1555084b2438624c7429567cbcd1e6a06f8f0e6793c849a7698b
+date: 2026-05-14
 title: Risk Assessment Framework
 type: note
 created: '2026-05-14'

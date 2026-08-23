@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Make It Stick - Peter C. Brown, Jeffrey D. Karpicke, and Henry L. Roediger
   III
 author: Peter C. Brown, Jeffrey D. Karpicke, and Henry L. Roediger III

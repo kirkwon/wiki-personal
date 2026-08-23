@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Coffee Water Quality
 description: "Coffee water quality refers to the purity and mineral content of water used to brew coffee, significantly impacting its flavor profile and extraction process."
 created: 2026-06-10

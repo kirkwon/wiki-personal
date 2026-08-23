@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: The Sports Gene — Inside the Science of Extraordinary Athletic Performance
 created: 2026-04-29

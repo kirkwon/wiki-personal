@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Indian Green Tea
 description: "Indian green tea comes from regions like Darjeeling and Assam, with minimal processing and light oxidation."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Exploding Gradient Problem
 description: "Exploding Gradient Problem"
 created: 2026-06-10

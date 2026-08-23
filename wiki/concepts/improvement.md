@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Improvement
 description: "Improvement is described as a conceptual tool or principle that helps understand and navigate complex situations."

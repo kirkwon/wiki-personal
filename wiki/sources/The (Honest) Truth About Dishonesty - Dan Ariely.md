@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-05-03
 sha256: 7b3f1c2e9a4d8f6e0c1b3a5d7f9e2c4a6b8d0f3e5c7a9b1d4f6e8c0a2b3d5f7
+date: 2026-05-14
 title: The (Honest) Truth About Dishonesty - Dan Ariely
 type: note
 created: '2026-05-14'

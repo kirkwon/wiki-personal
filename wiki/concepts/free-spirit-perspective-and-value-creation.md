@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Free spirit perspective and value creation
 created: 2026-04-29

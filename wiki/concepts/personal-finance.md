@@ -5,6 +5,7 @@ tags:
 - investing
 - budgeting
 - automation
+date: 2026-04-24
 title: Personal Finance
 description: "The comprehensive management of financial resources including budgeting, saving, investing, debt management, and retirement planning."
 type: concept

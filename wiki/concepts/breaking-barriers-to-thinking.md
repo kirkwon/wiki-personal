@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Breaking Barriers to Thinking
 description: "Breaking Barriers to Thinking"

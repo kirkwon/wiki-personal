@@ -1,4 +1,5 @@
 ---
+date: 2026-04-22
 type: concept
 title: Real Estate Entity Structures
 created: 2026-04-22

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: brewing-methods
 description: "Brewing methods refer to the various techniques used to prepare beverages through fermentation or steeping processes."
 created: 2026-06-10

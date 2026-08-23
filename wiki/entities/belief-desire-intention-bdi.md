@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Belief‑Desire‑Intention (BDI)
 description: "Belief‑Desire‑Intention (BDI)"
 created: 2026-06-10

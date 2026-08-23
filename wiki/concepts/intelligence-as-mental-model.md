@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: Intelligence as a Mental Model
 description: "--
 Intelligence as a Mental Model"

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Algorithmic Nature of Intuition
 description: "Algorithmic Nature of Intuition. Recognizing that gut feelings are rapid pattern recognition based on accumulated data, not magic."

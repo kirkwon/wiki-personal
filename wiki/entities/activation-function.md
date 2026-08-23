@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Activation Function
 description: "An activation function is like the heat applied to ingredients during cooking or the exposure time in photography; it determines how signals are processed within a system (e.g., neural networks)."
 created: 2026-06-10

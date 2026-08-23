@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: So Good They Can't Ignore You - Cal Newport
 description: "So Good They Can't Ignore You - Cal Newport"
 created: 2026-06-10

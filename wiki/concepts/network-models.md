@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Network Models
 description: "Models of connections and relationships between entities."

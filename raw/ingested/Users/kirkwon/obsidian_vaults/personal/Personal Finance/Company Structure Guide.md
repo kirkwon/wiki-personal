@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Company Str
   Guide.md
 ingested: 2026-04-24
 sha256: 82f010ad4ca8363f88386e88cc7dbc965f19968f71d8ea78292af3ae9446ee96
+date: 2026-05-14
 title: Company Structure Guide
 type: note
 created: '2026-05-14'

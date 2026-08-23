@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: AeroPress
 description: "An AeroPress is a manual coffee brewing device that uses air pressure to extract flavors from ground coffee beans quickly and efficiently."
 created: 2026-06-10

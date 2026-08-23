@@ -1,8 +1,10 @@
 ---
+
+date: 2026-04-29
 type: concept
 title: 'The PARA Method: Simplify Organize and Master Your Digital Life - Tiago Forte'
-description: "-
-The PARA Method: Simplify Organize and Master Your Digital Life"
+description: "-"
+The PARA Method: Simplify Organize and Master Your Digital Life""
 created: 2026-04-29
 updated: 2026-04-29
 tags:
@@ -15,6 +17,7 @@ related:
 - personal-knowledge-vault
 sources:
 - Forte.md
+
 ---
 -
 # The PARA Method: Simplify Organize and Master Your Digital Life

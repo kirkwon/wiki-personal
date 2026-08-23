@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Golden Gate Heights Neighborhood Guide
 description: "--

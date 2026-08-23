@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 普洱茶陈化
 description: "陈化是普洱茶最核心的特征之一，生普洱茶可以在数十年间持续演变风味。"

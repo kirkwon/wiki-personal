@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Heat-Based Techniques
 description: "Heat-Based Techniques"
 created: 2026-06-10

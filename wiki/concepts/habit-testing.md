@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Habit Testing
 description: "Habit testing is a method for determining whether a product has become truly habit-forming."

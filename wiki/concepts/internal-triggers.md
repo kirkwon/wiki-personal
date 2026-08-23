@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Internal Triggers
 description: "Internal triggers are emotional states, thoughts, or sensations that cue a behavior or action."

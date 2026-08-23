@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Categories/Cooking Techniques.md
 ingested: 2026-04-24
 sha256: 774241fb624ef9cff9a0d72726e24590b560ce89031d4abccf477c2784c53d53
+date: 2026-05-14
 title: 'Category: Cooking Techniques'
 type: note
 created: '2026-05-14'

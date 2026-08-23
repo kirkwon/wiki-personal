@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Ethics of communication
 description: "Ethics of communication"
 created: 2026-06-10

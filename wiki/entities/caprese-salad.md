@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: caprese-salad
 description: "A caprese salad is an Italian dish consisting of sliced fresh mozzarella cheese, tomatoes, and basil leaves, often seasoned with salt, pepper, and olive oil."
 created: 2026-06-10

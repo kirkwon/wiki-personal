@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Accountability
 description: "Accountability. The obligation to explain or answer for one's decisions, actions, and results."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: PhotoPills
 description: "PhotoPills is an app designed to help users understand how light affects their bodies and photographs in various situations, offering insights into exposure settings for photography."
 created: 2026-06-10

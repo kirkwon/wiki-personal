@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 title: Irrevocable Trusts
 description: "This page is part of the comprehensive [[trusts-guide]]."
 created: 2026-04-24

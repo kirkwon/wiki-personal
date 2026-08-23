@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Salsa di Pomodoro
 created: 2026-04-24

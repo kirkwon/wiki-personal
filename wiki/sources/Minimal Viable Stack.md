@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: summary
 title: Minimal Viable Stack
 description: "--

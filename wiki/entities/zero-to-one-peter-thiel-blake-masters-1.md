@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Zero to One - Peter Thiel & Blake Masters
 description: "Zero to One - Peter Thiel & Blake Masters"
 created: 2026-06-10

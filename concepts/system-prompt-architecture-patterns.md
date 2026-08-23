@@ -1,4 +1,5 @@
 ---
+date: 2026-06-19
 title: System Prompt Architecture Patterns
 created: 2026-06-19
 updated: 2026-06-19

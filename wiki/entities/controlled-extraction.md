@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: controlled-extraction
 description: "controlled-extraction"
 created: 2026-06-10

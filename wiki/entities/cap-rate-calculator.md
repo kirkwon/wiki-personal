@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Cap Rate Calculator
 description: "A Cap Rate Calculator is a financial tool used to estimate the potential return on an investment property by dividing the Net Operating Income (NOI) by the current market value or purchase price of th."
 created: 2026-06-10

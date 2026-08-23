@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Story bias
 description: "Story bias refers to the tendency of individuals or media outlets to present information in a way that supports their preconceived narratives or beliefs, often at the expense of objectivity."
 created: 2026-06-10

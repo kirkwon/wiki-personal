@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Techniques
 description: "Techniques is a universal conceptual tool or principle that helps understand and navigate complex situations."

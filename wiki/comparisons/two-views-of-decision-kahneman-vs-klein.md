@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: comparison
 title: 'Two Views of Decision: Kahneman vs Klein'
 description: "Two Views of Decision: Kahneman vs Klein"

@@ -9,6 +9,7 @@ tags:
 - etf
 - taxable-accounts
 - tax-efficiency
+date: 2026-04-24
 title: Mutual Funds vs ETFs in Taxable Accounts
 type: comparison
 updated: 2026-05-09

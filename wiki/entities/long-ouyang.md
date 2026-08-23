@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Long Ouyang
 description: "Long Ouyang is an individual with diverse interests spanning cooking, photography, personal finance management, and cognitive science."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: First Principles Thinking
 description: "First Principles Thinking"
 created: 2026-06-10

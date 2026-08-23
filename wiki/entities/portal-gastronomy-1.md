@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Portal:Gastronomy
 description: "'Portal:Gastronomy' is an online resource dedicated to exploring the culinary arts through cooking techniques, recipes, and food photography tips."
 created: 2026-06-10

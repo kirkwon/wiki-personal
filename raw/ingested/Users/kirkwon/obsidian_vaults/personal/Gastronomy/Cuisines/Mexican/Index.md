@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Mexican/Index.md
 ingested: 2026-04-24
 sha256: 3b647d6536b653b4f6cbc1df710c5db9e90c295cd5c5ed66b3122a6dd4e20ba5
+date: 2026-05-14
 title: Mexican Cuisine
 type: note
 created: '2026-05-14'

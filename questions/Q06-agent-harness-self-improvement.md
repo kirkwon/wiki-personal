@@ -3,6 +3,7 @@
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "Beyond generic metalearning — what specific architectural and algorithmic ideas let agents build better toolchains, improve their own prompting, and recursively self-optimize? How does this apply to quantitative research workflows?"
+date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
 confidence: 0.85
@@ -2004,6 +2005,11 @@ https://huggingface.co/papers/2608.02287
 ### 2026-08-21: PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-C
 
 ### 2026-08-21: Bounded Agents: Delegation Security for Multi-Agent AI Systems
+
+### 2026-08-22: FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executab
+- HF trending paper (arxiv: 2607.21596). Keywords: workflow, execution. Status: pending-review.
+- Source: [[papers/2607.21596]] | https://huggingface.co/papers/2607.21596
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.15888). Keywords: agentic, multi-agent. Status: pending-review.
 - Source: [[papers/2608.15888]] | https://huggingface.co/papers/2608.15888
 - Confidence: Low (auto-matched, not yet reviewed)

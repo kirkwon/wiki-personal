@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Stratégie des couches (layers) à San Francisco
 created: 2026-04-24

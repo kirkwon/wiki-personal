@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Chinese/Index.md
 ingested: 2026-04-24
 sha256: b38deeb37be1dd591ca544bdb8d0f37f8d7bd2d49b389589c14829514073f6cd
+date: 2026-05-14
 title: Chinese Cuisine
 type: note
 created: '2026-05-14'

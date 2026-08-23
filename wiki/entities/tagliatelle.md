@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: tagliatelle
 description: "Tagliatelle is an Italian pasta variety characterized by its flat ribbons with ridged edges, typically made from durum wheat flour."
 created: 2026-06-10

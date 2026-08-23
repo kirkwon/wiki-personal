@@ -1,6 +1,7 @@
 ---
 
 
+date: 2026-05-04
 type: concept
 title: "Quit: The Power of Knowing When to Walk Away"
 created: 2026-05-04

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Minimum Viable Product (MVP)
 description: "Minimum Viable Product (MVP)"

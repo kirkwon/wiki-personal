@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Artificial Creativity
 description: "Artificial Creativity. The study of how AI systems generate novel content that mimics or achieves human creative output."

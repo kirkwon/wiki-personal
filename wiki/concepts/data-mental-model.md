@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Data as a mental model
 description: "--

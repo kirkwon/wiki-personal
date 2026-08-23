@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Planning fallacy
 description: "The planning fallacy is the tendency to underestimate the time required to complete future tasks, despite knowing historical evidence suggesting otherwise."
 created: 2026-06-10

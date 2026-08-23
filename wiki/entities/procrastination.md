@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: procrastination
 description: "Procrastination is the intentional delay of tasks despite knowing that it may lead to negative consequences."
 created: 2026-06-10

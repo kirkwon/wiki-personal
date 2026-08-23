@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: System 1 vs System 2 Thinking
 type: concept
 created: 2026-04-29

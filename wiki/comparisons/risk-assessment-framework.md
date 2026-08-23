@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Personal Finance/Risk Assessment Framework.md
 tags:
 - general
+date: 2026-04-24
 title: Risk Assessment Framework
 type: comparison
 updated: '2026-04-24'

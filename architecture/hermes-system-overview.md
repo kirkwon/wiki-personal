@@ -1,4 +1,5 @@
 ---
+date: 2026-07-01
 type: architecture
 title: Hermes Agent System Architecture — Data Pipelines, Processes & Storage
 status: active

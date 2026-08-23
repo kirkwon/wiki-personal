@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Internal trigger mapping
 description: "Systematically identifying internal emotional or cognitive signals that prompt specific actions or behaviors."

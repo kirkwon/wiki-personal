@@ -5,6 +5,7 @@ sources:
 tags:
 - composition
 - general
+date: 2026-04-24
 title: Composition Techniques
 type: comparison
 updated: '2026-04-24'

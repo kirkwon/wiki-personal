@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Cooking Techniques
 description: "Category:Cooking Techniques"
 created: 2026-06-10

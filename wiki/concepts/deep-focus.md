@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Deep Focus
 description: "Deep focus refers to sustained, intense concentration on a single task or problem, during which the brain processes information at a high level and produces meaningful outcomes."

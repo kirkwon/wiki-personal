@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Personal Mastery (Senge)
 description: "The lifelong commitment to continuous self-improvement, discipline, and expanding one's personal capabilities."

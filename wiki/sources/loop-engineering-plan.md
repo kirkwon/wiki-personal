@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: source
 title: Loop Engineering Plan
 created: 2026-06-13

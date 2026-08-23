@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Principles (book framework)
 description: "Principles (book framework)"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Eisenhower Matrix
 description: "The Eisenhower Matrix is a time management tool that categorizes tasks into four quadrants based on urgency and importance, helping prioritize activities in areas like cooking (meal planning), photogr."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-07
 type: source
 title: "Source: Books/Being Mortal - Atul Gawande.md"
 description: "Source: Books/Being Mortal - Atul Gawande.md"

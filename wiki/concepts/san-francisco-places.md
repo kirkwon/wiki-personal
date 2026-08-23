@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 旧金山地点
 created: 2026-04-24

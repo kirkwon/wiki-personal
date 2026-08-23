@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Infinite Game
 description: "'The Infinite Game' refers to an ongoing process without a predetermined endpoint, where strategies evolve over time in response to changing circumstances."
 created: 2026-06-10

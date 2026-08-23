@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: knowledge-synthesis
 description: "Knowledge-synthesis is the process of integrating diverse information from cooking techniques, photographic composition principles, financial strategies, and cognitive science theories to enhance unde."
 created: 2026-06-10

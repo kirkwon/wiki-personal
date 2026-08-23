@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Music Theory & Jazz/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Music Theory & Jazz
 type: concept
 updated: '2026-04-24'

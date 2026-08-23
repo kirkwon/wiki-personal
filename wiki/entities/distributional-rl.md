@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Distributional RL
 description: "Distributional Reinforcement Learning (DRL) is an approach that focuses on learning value functions based on the distribution of experiences rather than just individual rewards."
 created: 2026-06-10

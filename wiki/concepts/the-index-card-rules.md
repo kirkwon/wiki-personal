@@ -1,4 +1,5 @@
 ---
+
 created: 2026-04-24
 sources:
 - The Index Card Rules.md
@@ -8,11 +9,12 @@ tags:
 - simplicity
 - investing
 - budgeting
+date: 2026-04-24
 title: The Index Card Rules
-description: "Field**: [[personal-finance]]
+description: "Field**: [[personal-finance]]"
 Type**: Financial Framework
 Purpose**: Simple, actionable personal finance rules
-Key Principles**: Simplicity, automation, low costs"
+Key Principles**: Simplicity, automation, low costs""
 type: concept
 updated: 2026-05-09
 related:
@@ -24,6 +26,7 @@ related:
 - risk-management
 - personal-finance
 - decision-making-frameworks
+
 ---
 --
 

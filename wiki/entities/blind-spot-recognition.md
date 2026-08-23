@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Blind spot recognition
 description: "Blind spot recognition"
 created: 2026-06-10

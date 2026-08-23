@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Quant Strategy/Index.md
 ingested: 2026-04-24
 sha256: 753a58279c3de7dc7581ff2933af6f1628953180e8c48972bd1c84efd828ba34
+date: 2026-05-14
 title: Quant Strategy
 type: note
 created: '2026-05-14'

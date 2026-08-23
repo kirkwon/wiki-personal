@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Smarter Faster Better - Charles Duhigg
 created: 2026-05-03

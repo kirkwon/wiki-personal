@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Americana Burgers
 description: "Burger to amerykański ikona — prosty koncept podniesiony do rangi sztuki."

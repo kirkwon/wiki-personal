@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Role
 description: "Role is a universal mental model — a conceptual tool for navigating complex situations by identifying the position or function someone or something occupies within a system."

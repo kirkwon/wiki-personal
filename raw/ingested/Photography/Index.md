@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 1863ab57ca80a572e9518a78a40990fcb55530049fbbcfbf80c840eb19946c6c
 source_path: Photography/Index.md
+date: 2026-05-14
 title: Photography
 type: note
 created: '2026-05-14'

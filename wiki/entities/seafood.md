@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Seafood
 description: "Seafood refers to any form of sea life regarded as food by humans, primarily fish and shellfish."
 created: 2026-06-10

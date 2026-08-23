@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Self-Care as Lifelong Commitment
 description: "Self-Care as Lifelong Commitment | concept | health, psychology, personal-development."

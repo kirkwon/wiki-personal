@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Medigap
 description: "Medigap is supplemental private insurance that fills the gaps in Original Medicare coverage, paying for copays, deductibles, and services Medicare doesn't cover."

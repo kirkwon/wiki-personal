@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Policymakers
 description: "Policymakers | concept | mental-model, decision-making."

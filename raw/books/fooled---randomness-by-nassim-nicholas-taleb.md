@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Fooled - Randomness by Nassim Nicholas Taleb
 author: Randomness by Nassim Nicholas Taleb
 year: 2024

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Subtle Art of Not Giving a F*ck - Mark Manson
 author: Mark Manson
 year: 2024

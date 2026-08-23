@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Knowledge Synthesis
 description: "Knowledge synthesis is the process of integrating information from various sources to create a comprehensive understanding or new insights in fields like cooking (e.g., combining culinary techniques w."
 created: 2026-06-10

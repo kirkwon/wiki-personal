@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: out-of-control
 description: "In cooking, 'out-of-control' refers to a dish that has deviated from the intended recipe or technique, resulting in an undesirable taste or texture."
 created: 2026-06-10

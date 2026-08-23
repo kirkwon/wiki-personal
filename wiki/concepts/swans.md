@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Swans
 description: "Swans as a mental model captures Taleb's insight that extreme, rare events (black swans) are the primary drivers of outcomes in complex systems."

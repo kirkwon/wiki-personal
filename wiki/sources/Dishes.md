@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Dishes
 description: "Source summary for the 'Dishes' mental model, referenced from Timothy Ferriss's The 4-Hour Chef."

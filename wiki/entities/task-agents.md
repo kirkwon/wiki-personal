@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Task Agents
 description: "Task Agents are autonomous software entities designed to perform specific tasks efficiently within various domains such as cooking (e.g., recipe optimization), photography (e.g., image enhancement alg."
 created: 2026-06-10

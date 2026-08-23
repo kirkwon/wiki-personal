@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: bb44136a72040baf2498eef4c64a9e61dbc25bc9676f0c7032f44cc0fdc0e923
 source_path: Gastronomy/Concepts/Maillard Reaction.md
+date: 2026-05-14
 title: Maillard Reaction
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Quitting as Self-Care
 description: "Quitting as Self-Care"

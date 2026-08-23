@@ -1,8 +1,10 @@
 ---
+
+date: 2026-04-29
 type: source
 title: 'Everything Is F_cked: A Book About Hope - Mark Manson'
-description: "--
-Everything Is F_cked: A Book About Hope - Mark Manson"
+description: "--"
+Everything Is F_cked: A Book About Hope - Mark Manson""
 created: 2026-04-29
 updated: 2026-04-29
 tags:
@@ -13,6 +15,7 @@ tags:
 - mark-manson
 sources:
 - Everything Is F_cked_ A Book About Hope - Mark Manson.md
+
 ---
 --
 # Everything Is F_cked: A Book About Hope - Mark Manson

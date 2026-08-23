@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 2aeafdf5068bcaff4576bbb8ddff4f122ebe981caf95def342d11b40277cf5b2
 source_path: Gastronomy/Beverages/Coffee/Preparation/Espresso.md
+date: 2026-05-14
 title: Espresso (意大利浓缩咖啡)
 type: note
 created: '2026-05-14'

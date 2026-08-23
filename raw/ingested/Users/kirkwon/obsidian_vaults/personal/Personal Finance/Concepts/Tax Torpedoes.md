@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Ta
   Torpedoes.md
 ingested: 2026-04-24
 sha256: 67a16ca6ad3e99d344216563e9c6e2e406007861267e988dcd71a27ada37264e
+date: 2026-05-14
 title: Tax Torpedoes in Retirement
 type: note
 created: '2026-05-14'

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Accountability Systems
 description: "Accountability Systems. Structures designed to ensure individuals take ownership and responsibility for their actions and outcomes."

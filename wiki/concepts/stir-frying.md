@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: stir-frying
 description: "Stir-frying is a cooking technique involving quick frying of ingredients in a small amount of oil over high heat while continuously stirring."
 created: 2026-06-10

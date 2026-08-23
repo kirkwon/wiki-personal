@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The 4-Hour Chef - Timothy Ferriss
 author: Timothy Ferriss
 year: 2024

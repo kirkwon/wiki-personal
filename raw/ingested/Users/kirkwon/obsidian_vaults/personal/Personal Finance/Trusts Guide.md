@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Trusts Guide.md
 ingested: 2026-04-24
 sha256: 225d44cb18c93bac346cb76dd57b9d9b3ae18660682e2f2551320048c48222b4
+date: 2026-05-14
 title: Trusts Guide
 type: note
 created: '2026-05-14'

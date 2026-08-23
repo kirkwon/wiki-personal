@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: winners-curse-analysis
 description: "winners-curse-analysis"
 created: 2026-06-10

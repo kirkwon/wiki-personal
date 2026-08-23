@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Slow Productivity - Cal Newport
 author: Cal Newport
 year: 2024

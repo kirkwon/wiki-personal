@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Fear, Anxiety, and Worry as Tools
 description: "--

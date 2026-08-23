@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Generalized Advantage Estimation (GAE)
 description: "Generalized Advantage Estimation (GAE)"
 created: 2026-06-10

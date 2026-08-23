@@ -1,6 +1,7 @@
 ---
 tags: [concept, stub]
 created: 2026-06-16
+date: 2026-06-16
 type: concept
 description: "White tea is a delicate, minimally processed variety derived from the young leaf buds and unopened shoots of Camellia sinensis."
 ---

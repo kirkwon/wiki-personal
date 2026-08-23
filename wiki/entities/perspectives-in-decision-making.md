@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: perspectives-in-decision-making
 description: "perspectives-in-decision-making"
 created: 2026-06-10

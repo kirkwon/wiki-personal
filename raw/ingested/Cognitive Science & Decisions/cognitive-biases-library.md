@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: df80e53d0a1781f122868c12f18d1710dfab2f90b7facb4b187d1291fcd6e1f4
 source_path: Cognitive Science & Decisions/cognitive-biases-library.md
+date: 2026-05-14
 title: Cognitive Biases Library
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Will
 description: "A 'Will', within the contexts of cooking, photography, personal finance, and cognitive science, refers to an individual's intent or desire regarding future actions or outcomes in these areas: a recipe."
 created: 2026-06-10

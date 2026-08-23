@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: garry-winogrand
 description: "Garry Winogrand was an influential American photographer known for his candid street photography that captured the essence of life in New York City during the mid-20th century."
 created: 2026-06-10

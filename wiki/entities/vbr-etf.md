@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: VBR ETF
 description: "VBR is a Smart Beta ETF that combines size and value factors."

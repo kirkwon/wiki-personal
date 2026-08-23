@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Re
   of Capital.md
 ingested: 2026-04-24
 sha256: 615a88bc461ef1c3f4462650d2802813311cd7ce613443ca020a44a000e696bd
+date: 2026-05-14
 title: Return of Capital (ROC)
 type: note
 created: '2026-05-14'

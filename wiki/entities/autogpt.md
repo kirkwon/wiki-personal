@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: AutoGPT
 description: "AutoGPT is an automated AI system that leverages GPT technology to assist with cooking recipes by suggesting ingredient substitutions, photography editing tips for enhancing images, personal finance a."
 created: 2026-06-10

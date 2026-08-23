@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: multitasking
 description: "Multitasking refers to the ability to perform multiple tasks simultaneously or switch between them efficiently."
 created: 2026-06-10

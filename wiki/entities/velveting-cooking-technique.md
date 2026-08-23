@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Velveting (cooking technique)
 description: "Velveting (cooking technique)"
 created: 2026-06-10

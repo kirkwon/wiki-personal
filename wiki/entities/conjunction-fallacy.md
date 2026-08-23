@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Conjunction fallacy
 description: "The conjunction fallacy occurs when it is assumed that the combination of two events is more likely than one single event."
 created: 2026-06-10

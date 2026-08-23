@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 流化床烘焙机
 description: "流化床烘焙机通过热空气使咖啡豆悬浮流动，实现均匀加热。"

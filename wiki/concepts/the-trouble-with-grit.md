@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Trouble with Grit
 created: 2026-05-03

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: False consensus effect
 description: "False consensus effect"
 created: 2026-06-10

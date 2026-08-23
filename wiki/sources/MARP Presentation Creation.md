@@ -2,6 +2,7 @@
 source_url: https://marp.app/
 ingested: 2026-04-29
 sha256: a1b2c3d4e5f6789012345678901234567890abcd1234567890abcdef12345678
+date: 2026-05-14
 title: MARP Presentation Creation
 type: note
 created: '2026-05-14'

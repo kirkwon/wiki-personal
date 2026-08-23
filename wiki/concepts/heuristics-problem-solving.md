@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: Heuristics Problem Solving
 type: concept
 created: 2026-04-29

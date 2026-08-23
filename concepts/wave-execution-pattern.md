@@ -1,4 +1,5 @@
 ---
+date: 2026-07-19
 type: concept
 title: Wave Execution Pattern
 created: 2026-07-19

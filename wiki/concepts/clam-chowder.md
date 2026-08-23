@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Clam Chowder
 description: "Clam chowder is a creamy, white soup made with clams (quahogs), bacon or salt pork, onions, potatoes, milk or cream, and seasonings."

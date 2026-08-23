@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sutro Baths
 description: "The Sutro Baths were historic outdoor swimming pools located in San Francisco, California, built by Adolph Sutro in the late 19th century."
 created: 2026-06-10

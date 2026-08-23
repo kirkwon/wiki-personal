@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Nonlinearity and Emergent Properties
 description: "Nonlinearity and Emergent Properties"

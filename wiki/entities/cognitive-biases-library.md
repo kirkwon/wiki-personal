@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Cognitive Biases Library
 description: "Cognitive Biases Library"
 created: 2026-06-10

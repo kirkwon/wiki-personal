@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Momentum
 description: "In the context of cooking, momentum refers to the continuous motion required to mix ingredients thoroughly or maintain heat in a pot for even cooking."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Monte Carlo Simulation for Investments
 created: 2026-04-24

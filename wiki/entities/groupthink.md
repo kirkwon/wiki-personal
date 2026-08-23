@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Groupthink
 description: "Groupthink is the psychological phenomenon where the desire for group harmony or conformity results in an irrational decision-making outcome."
 created: 2026-06-10

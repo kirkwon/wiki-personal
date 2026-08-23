@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Flexibility in Decision-Making
 description: "Flexibility in Decision-Making"
 created: 2026-05-03

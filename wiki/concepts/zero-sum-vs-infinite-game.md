@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Zero-Sum vs. Infinite Game
 created: 2026-05-03

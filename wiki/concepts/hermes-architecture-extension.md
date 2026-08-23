@@ -1,4 +1,5 @@
 ---
+date: 2026-07-16
 title: Hermes Architecture Extension — Domain Masters & Learning Loops
 created: 2026-07-16
 updated: 2026-07-16

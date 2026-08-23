@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Solutions
 created: 2026-05-03

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: robert-frank
 description: "Robert Frank is an influential photographer known for his innovative approach to capturing the essence of American culture through candid street photography."
 created: 2026-06-10

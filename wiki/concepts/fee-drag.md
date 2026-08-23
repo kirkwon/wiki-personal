@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Fee Drag
 created: 2026-04-24

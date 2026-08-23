@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: First-Order and Second-Order Thinking
 created: 2026-05-03

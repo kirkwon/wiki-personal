@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: The Upside of Irrationality - Dan Ariely
 description: "The Upside of Irrationality - Dan Ariely"
 created: 2026-05-03

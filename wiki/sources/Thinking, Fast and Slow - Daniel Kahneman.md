@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: Thinking, Fast and Slow - Daniel Kahneman
 type: source
 created: 2026-04-29

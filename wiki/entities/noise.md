@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Noise
 description: "In cooking, noise refers to unwanted sounds that can disrupt the process or concentration during food preparation."
 created: 2026-06-10

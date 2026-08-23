@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Wisdom of Crowds - James Surowiecki
 description: "The Wisdom of Crowds - James Surowiecki"
 created: 2026-06-10

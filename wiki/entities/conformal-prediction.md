@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Conformal Prediction
 description: "Conformal prediction is an approach to machine learning that provides valid confidence measures on predictions by leveraging past data, ensuring the reliability of outcomes in various contexts like re."
 created: 2026-06-10

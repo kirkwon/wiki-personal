@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Persuasion
 description: "Persuasion is a universal mental model for navigating complex situations."

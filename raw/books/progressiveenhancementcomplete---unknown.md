@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: PROGRESSIVE_ENHANCEMENT_COMPLETE - Unknown
 author: Unknown
 year: 2024

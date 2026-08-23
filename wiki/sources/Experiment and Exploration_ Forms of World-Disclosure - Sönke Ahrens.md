@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: 'Experiment and Exploration: Forms of World-Disclosure - Sönke Ahrens'
 created: 2026-04-29

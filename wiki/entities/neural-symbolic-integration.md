@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Neural-Symbolic Integration
 description: "Neural-Symbolic Integration"
 created: 2026-06-10

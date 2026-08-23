@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: source
 title: "Source: headroom-integration.md"
 description: "Source: headroom-integration.md"

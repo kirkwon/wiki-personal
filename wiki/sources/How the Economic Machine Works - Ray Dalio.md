@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: How the Economic Machine Works - Ray Dalio
 created: 2026-04-29

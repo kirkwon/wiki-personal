@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Obstacle Is the Way - Ryan Holiday
 author: Ryan Holiday
 year: 2024

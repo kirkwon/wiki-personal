@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Aromatics the Holy Trinity
 description: "Aromatics the Holy Trinity"
 created: 2026-06-10

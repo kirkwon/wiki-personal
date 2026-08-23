@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Jeffrey D. Karpicke
 description: "Jeffrey D. Karpicke is an esteemed cognitive scientist known primarily for his research on the science of learning and memory retention."
 created: 2026-06-10

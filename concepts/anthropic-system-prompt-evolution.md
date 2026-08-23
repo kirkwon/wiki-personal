@@ -1,4 +1,5 @@
 ---
+date: 2026-06-19
 title: Anthropic System Prompt Evolution (3.5 → Fable 5)
 created: 2026-06-19
 updated: 2026-06-19

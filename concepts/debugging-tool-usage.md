@@ -1,4 +1,5 @@
 ---
+date: 2026-08-02
 type: concept
 title: Debugging Tool Usage
 created: 2026-08-02

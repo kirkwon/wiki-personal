@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Chinese/Concepts/hot-pot.md
 tags:
 - general
+date: 2026-04-24
 title: Hot Pot
 type: query
 updated: '2026-04-24'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: ear-training
 description: "Ear-training is the practice of developing one's ability to recognize, interpret, and reproduce sounds or music without visual cues, akin to distinguishing subtle flavors in cooking or identifying nua."
 created: 2026-06-10

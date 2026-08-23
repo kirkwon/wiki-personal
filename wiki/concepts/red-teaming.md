@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Red Teaming
 description: "Red teaming is an organizational mitigation strategy where a designated team challenges plans, assumptions, and proposals to identify potential failures, blind spots, and weaknesses before implementat."

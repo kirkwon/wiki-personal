@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Shakey Project
 description: "The Shakey Project refers to an initiative that combines cooking techniques with photographic documentation to create visually appealing recipes while also exploring the cognitive processes involved i."
 created: 2026-06-10

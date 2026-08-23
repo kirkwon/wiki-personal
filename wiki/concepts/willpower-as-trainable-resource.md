@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Willpower as a Trainable Resource
 created: 2026-05-03

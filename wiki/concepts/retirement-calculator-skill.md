@@ -1,4 +1,5 @@
 ---
+date: 2026-07-02
 type: concept
 title: Retirement Calculator (skill candidate)
 description: "Executable skill for retirement planning — savings targets, RMD projections, Roth conversion optimization, and withdrawal sequencing."

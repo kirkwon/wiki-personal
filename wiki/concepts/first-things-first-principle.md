@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: First Things First Principle
 description: "First Things First Principle"

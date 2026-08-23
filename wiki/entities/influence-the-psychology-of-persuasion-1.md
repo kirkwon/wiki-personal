@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Influence_ The Psychology of Persuasion
 description: "Influence_ The Psychology of Persuasion"
 created: 2026-06-10

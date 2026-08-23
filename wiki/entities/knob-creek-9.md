@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Knob Creek 9
 description: "Kentucky Straight Bourbon aged 9 years."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Priming
 description: "Priming is the psychological phenomenon where exposure to one stimulus influences the response to a subsequent stimulus, without conscious guidance or intention."
 created: 2026-06-10

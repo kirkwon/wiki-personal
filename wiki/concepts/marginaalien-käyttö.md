@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Marginaalien käyttö muistiinpanoissa
 description: "Using the empty spaces around notes for brainstorming, connecting ideas, or adding context."

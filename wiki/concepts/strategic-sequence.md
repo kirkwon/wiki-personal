@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Strategic Sequence
 description: "The Strategic Sequence is a four-step validation framework that ensures a blue ocean idea is commercially viable before full commitment."

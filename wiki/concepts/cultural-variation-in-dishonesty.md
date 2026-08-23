@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Cultural Variation in Dishonesty
 created: 2026-05-03

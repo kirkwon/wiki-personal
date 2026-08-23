@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: leadership-mental-model
 description: "leadership-mental-model"
 created: 2026-06-10

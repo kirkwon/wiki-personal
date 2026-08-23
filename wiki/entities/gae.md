@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: GAE
 description: "Generalized Annotation Engine (GAE) refers to an AI system designed for annotating data across various domains such as cooking recipes, photographic metadata, financial records, and cognitive science."
 created: 2026-06-10

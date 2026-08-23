@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Recognition-Primed Decision Model
 description: "Recognition-Primed Decision Model"
 created: 2026-05-03

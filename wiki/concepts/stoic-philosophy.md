@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Stoic Philosophy
 description: "Stoic philosophy is an ancient Greek and Roman school of thought emphasizing virtue, rationality, self-discipline, and acceptance of what is beyond one's control."

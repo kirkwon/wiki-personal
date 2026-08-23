@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: effort-mental-model
 description: "An effort-mental-model is an individual's cognitive framework that maps the mental processes involved in executing tasks requiring both physical action (effort) and decision-making or creativity (ment."
 created: 2026-06-10

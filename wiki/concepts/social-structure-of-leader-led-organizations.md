@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Social Structure of Leader-Led Organizations
 description: "Social Structure of Leader-Led Organizations"

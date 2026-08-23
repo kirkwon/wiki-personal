@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Financial R
   Templates.md
 ingested: 2026-04-24
 sha256: ddd6615d8360c1a2f13ef3e25b0c422b9fe2b32cab2445941d1210fa6edaf3b7
+date: 2026-05-14
 title: Financial Reporting Templates
 type: note
 created: '2026-05-14'

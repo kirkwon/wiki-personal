@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 26fc40f5a7b3b0f58f2585e4194d1d59235842b431dcdf67e9ecf627f519bfa1
 source_path: Music Theory & Jazz/music-theory-fundamentals.md
+date: 2026-05-14
 title: Music Theory Fundamentals
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Kansas City BBQ
 description: "Kansas City BBQ is known as the 'Sauce Capital' of American barbecue, defined by sweet, tomato-based sauce applied generously to both beef and pork dishes."

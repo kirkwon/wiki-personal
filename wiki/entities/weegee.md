@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: weegee
 description: "A weegee is an emergency photographer who captures images of accidents or disasters at the scene."
 created: 2026-06-10

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 702ca0007fc264bb4ebf20e3b630b958227d796e879f3af5f11d8e3deded5662
 source_path: Personal Finance/Concepts/Risk Management.md
+date: 2026-05-14
 title: Risk Management
 type: note
 created: '2026-05-14'

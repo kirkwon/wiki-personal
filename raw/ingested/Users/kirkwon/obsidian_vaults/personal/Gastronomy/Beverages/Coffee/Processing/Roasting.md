@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Coffee/Processing/Roasting.md
 ingested: 2026-04-24
 sha256: e0ae2f988bad30a7730ff9c1e8c576d5ac5afc057f4b66089645d9fc13bb4789
+date: 2026-05-14
 title: Coffee Roasting (咖啡烘焙)
 type: note
 created: '2026-05-14'

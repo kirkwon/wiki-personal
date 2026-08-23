@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Compounding Habits
 description: "The principle that small, consistent positive actions accumulate into massive results over extended periods."

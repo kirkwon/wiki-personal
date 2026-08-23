@@ -1,4 +1,5 @@
 ---
+date: 2026-08-17
 type: decision
 title: "Premortem: GBrain Decision Engine"
 created: '2026-08-17'

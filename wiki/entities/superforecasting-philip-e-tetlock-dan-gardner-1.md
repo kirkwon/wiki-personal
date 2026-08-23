@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: superforecasting - Philip E Tetlock Dan Gardner
 description: "superforecasting - Philip E Tetlock Dan Gardner"
 created: 2026-06-10

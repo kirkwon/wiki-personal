@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: af0d5f48f18400d96cb3f1531b0c4b8b2ce6301b97aeefbcc958203f61105da6
 source_path: Gastronomy/Cuisines/Chinese/Concepts/hot-pot.md
+date: 2026-05-14
 title: Hot Pot
 type: note
 created: '2026-05-14'

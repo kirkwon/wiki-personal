@@ -1,4 +1,5 @@
 ---
+date: 2026-05-12
 type: source
 title: 'Source: Quit_ The Power of Knowing When to Walk Away - Annie Duke.md'
 created: 2026-05-12

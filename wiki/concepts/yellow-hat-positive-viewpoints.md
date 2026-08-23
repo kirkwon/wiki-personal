@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Yellow Hat - Positive Viewpoints
 description: "Yellow Hat - Positive Viewpoints"

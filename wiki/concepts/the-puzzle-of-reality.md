@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Puzzle of Reality
 description: "Exploring existence's nature, questioning truth, and defining reality through thought experiments."

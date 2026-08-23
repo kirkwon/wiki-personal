@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: modes
 description: "In cooking, modes refer to the most frequently used ingredients or techniques within a recipe collection."
 created: 2026-06-10

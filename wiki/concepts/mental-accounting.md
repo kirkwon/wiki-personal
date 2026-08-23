@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Mental Accounting
 description: "Mental accounting is a concept introduced by Richard Thaler describing how people organize, evaluate, and keep track of financial activities in ways that differ from traditional economic theory."

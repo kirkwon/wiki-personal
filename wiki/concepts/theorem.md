@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Theorem
 description: "Theorem is a universal mental model that provides a conceptual shortcut for understanding and navigating complex situations."

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Intuitive Cooking
 description: "Using gut feeling and accumulated experience to guide culinary decisions beyond recipes."

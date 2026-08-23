@@ -4,6 +4,7 @@ source_url: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Coffee/P
 ingested: 2026-04-24
 sha256: 6ed30fbe1d61d102be567344f06a8de9577039eb9a1e352206d37e8b14630515
 updated: 2026-05-09
+date: 2026-05-14
 title: Pour Over Coffee
 type: note
 created: '2026-05-14'

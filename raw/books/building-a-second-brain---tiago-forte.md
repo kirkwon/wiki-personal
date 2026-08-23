@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Building a Second Brain - Tiago Forte
 author: Tiago Forte
 year: 2024

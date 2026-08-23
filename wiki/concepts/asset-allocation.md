@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Asset Allocation
 description: "Asset allocation matches the distribution of assets to risk tolerance and timeline."

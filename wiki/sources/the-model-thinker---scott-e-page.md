@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: The Model Thinker - Scott E. Page
 description: "The Model Thinker - Scott E."

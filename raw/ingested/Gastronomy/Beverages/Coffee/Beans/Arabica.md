@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 3d471112e22ea34ed9e45a9ce0c7685ef9aa02ead3bfc75ad4b9b9e79414f637
 source_path: Gastronomy/Beverages/Coffee/Beans/Arabica.md
+date: 2026-05-14
 title: Arabica Coffee (Coffea arabica)
 type: note
 created: '2026-05-14'

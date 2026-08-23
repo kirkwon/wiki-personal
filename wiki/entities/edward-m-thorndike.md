@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: entity
 title: Edward M. Thorndike
 description: "Pioneering behaviorist who developed the law of effect and cognitive theories of learning."

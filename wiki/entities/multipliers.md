@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Multipliers
 description: "In cooking, multipliers refer to ingredient ratios that scale recipes up or down while maintaining flavor balance."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: John Coltrane
 description: "John Coltrane was an influential jazz saxophonist known for his innovative approach to improvisation and complex compositions."
 created: 2026-06-10

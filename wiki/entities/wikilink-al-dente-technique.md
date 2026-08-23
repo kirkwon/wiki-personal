@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "wikilink: al-dente-technique"
 description: "wikilink: al-dente-technique"
 created: 2026-06-10

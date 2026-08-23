@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Survivorship bias
 description: "Survivorship bias is the logical error of focusing on individuals or entities that have passed through a selection process while overlooking those that did not due to their absence from current record."
 created: 2026-06-10

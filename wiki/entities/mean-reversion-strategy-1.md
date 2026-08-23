@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Mean Reversion Strategy
 description: "Mean Reversion Strategy"
 created: 2026-06-10

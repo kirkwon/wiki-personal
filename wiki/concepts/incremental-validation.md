@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: concept
 title: Incremental Validation
 created: 2026-06-13

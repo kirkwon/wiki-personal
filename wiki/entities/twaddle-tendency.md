@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Twaddle tendency
 description: "The Twaddle tendency refers to the inclination towards trivial or inconsequential topics that distract from meaningful discussions in areas such as cooking (recipe overhauls), photography (focusing on."
 created: 2026-06-10

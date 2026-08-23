@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Failure as Necessary
 description: "Recognizing that setbacks are essential components of growth, resilience, and mastery."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Stoicism as a Framework
 description: "Stoicism as a Framework"

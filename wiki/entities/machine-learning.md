@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Machine Learning
 description: "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed."
 created: 2026-06-10

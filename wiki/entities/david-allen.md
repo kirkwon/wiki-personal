@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: David Allen
 description: "David Allen
 David Allen is the creator of the Getting Things Done (GTD) methodology and a productivity consultant and author."

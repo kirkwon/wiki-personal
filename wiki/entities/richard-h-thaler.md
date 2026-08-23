@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Richard H. Thaler
 description: "Richard H. Thaler is an American behavioral economist and Nobel laureate known for challenging traditional economic assumptions of rational agent behavior."

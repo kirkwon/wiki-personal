@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Diversification
 description: "Diversification is the strategic approach of spreading investments across various assets to reduce risk exposure."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Slow Productivity - Cal Newport
 description: "Slow Productivity - Cal Newport"

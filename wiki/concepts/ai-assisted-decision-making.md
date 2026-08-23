@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: concept
 title: AI-assisted decision making
 description: "AI-assisted decision making

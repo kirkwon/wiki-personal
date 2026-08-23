@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: First Things First - Stephen R. Covey
 description: "First Things First - Stephen R."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Pre-Suasion: A Revolutionary Way to Influence and Persuade"
 description: "Pre-Suasion: A Revolutionary Way to Influence and Persuade"
 created: 2026-06-10

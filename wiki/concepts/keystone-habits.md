@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Keystone Habits
 description: "Keystone habits are high-leverage behaviors that, once changed, catalyze positive transformation across other areas of life."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Vanishing Gradient Problem
 description: "Vanishing Gradient Problem"
 created: 2026-06-10

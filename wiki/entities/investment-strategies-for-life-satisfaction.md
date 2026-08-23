@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Investment Strategies for Life Satisfaction
 description: "Investment Strategies for Life Satisfaction"
 created: 2026-06-10

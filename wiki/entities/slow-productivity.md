@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Slow Productivity
 description: "Slow productivity refers to the deliberate pace of completing tasks that prioritizes quality over speed, often leading to more thoughtful outcomes in cooking (enhanced flavors), photography (improved."
 created: 2026-06-10

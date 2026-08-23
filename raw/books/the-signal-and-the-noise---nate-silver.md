@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Signal and the Noise - Nate Silver
 author: Nate Silver
 year: 2024

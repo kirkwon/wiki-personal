@@ -1,5 +1,6 @@
 ---
 source_url: null
+date: 2026-05-14
 title: The Infinite Game - Simon Sinek
 author: Simon Sinek
 year: 2024

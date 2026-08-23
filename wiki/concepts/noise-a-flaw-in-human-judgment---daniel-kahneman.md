@@ -1,6 +1,7 @@
 ---
 
 
+date: 2026-05-04
 type: concept
 title: "Noise: A Flaw in Human Judgment"
 created: 2026-05-04

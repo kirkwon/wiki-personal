@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: source
 title: 'Limits to Growth: The 30-Year Update'
 author: Donella H. Meadows

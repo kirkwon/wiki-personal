@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Freedom Number
 description: "The amount of money needed to achieve financial freedom, defined by Ramit Sethi using the 4% Rule: you need 25 times your annual expenses saved to withdraw 4% annually in retirement without running ou."

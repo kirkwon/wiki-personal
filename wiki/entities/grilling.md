@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Grilling
 description: "Grilling refers to the cooking method where food is prepared by exposing it directly to heat sources such as charcoal or gas flames on a grate."
 created: 2026-06-10

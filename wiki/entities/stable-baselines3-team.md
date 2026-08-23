@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Stable Baselines3 team
 description: "Stable Baselines3 team"
 created: 2026-06-10

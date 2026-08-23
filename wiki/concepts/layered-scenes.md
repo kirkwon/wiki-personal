@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Layered Scenes
 description: "Layered scenes is a composition technique in street photography that creates depth and visual interest by arranging multiple elements at different distances from the camera."

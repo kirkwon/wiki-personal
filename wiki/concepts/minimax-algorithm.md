@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Minimax Algorithm
 description: "An algorithm that determines optimal moves by minimizing the maximum possible loss."

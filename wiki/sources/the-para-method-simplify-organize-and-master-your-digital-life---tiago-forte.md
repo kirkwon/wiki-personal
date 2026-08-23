@@ -1,5 +1,6 @@
 ---
 source_url: null
+date: 2026-05-03
 title: 'The PARA Method: Simplify, Organize, and Master Your Digital Life - Tiago
 description: "The PARA Method: Simplify, Organize, and Master Your Digital Life"
   Forte'

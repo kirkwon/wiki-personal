@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: James Clear
 description: "James Clear is the author of Atomic Habits (2024), one of the most influential books on habit formation and behavior change."

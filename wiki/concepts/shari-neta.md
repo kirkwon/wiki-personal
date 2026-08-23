@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: シャリとネタ（Shari and Neta）
 description: "寿司の基本構成要素はシャリ（酢飯）とネタ（具）である。"

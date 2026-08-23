@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Muistiinpanot kategorisoinnilla
 description: "Structuring and grouping notes by topic or category to improve organization and recall."

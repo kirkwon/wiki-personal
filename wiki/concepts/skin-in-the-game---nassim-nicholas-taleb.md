@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Skin in the Game - Nassim Nicholas Taleb
 created: 2026-04-29

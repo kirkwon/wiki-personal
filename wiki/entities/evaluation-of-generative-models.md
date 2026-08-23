@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Evaluation of Generative Models
 description: "Evaluation of Generative Models"
 created: 2026-06-10

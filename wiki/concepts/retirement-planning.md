@@ -12,6 +12,7 @@ tags:
 - personal-finance
 - saving
 - compounding
+date: 2026-04-24
 title: Retirement Planning
 type: concept
 updated: 2026-05-09

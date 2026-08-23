@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: a6acf375355c6a600a30493f66bff065f04e747d3234c7e373f03780760ad755
 source_path: Gastronomy/Beverages/Tea/Index.md
+date: 2026-05-14
 title: Tea
 type: note
 created: '2026-05-14'

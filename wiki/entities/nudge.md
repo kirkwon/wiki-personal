@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Nudge
 description: "A nudge is an indirect suggestion or cue designed to influence behavior without restricting options; in cooking, it might be a recipe tweak for healthier choices; in photography, using composition tec."
 created: 2026-06-10

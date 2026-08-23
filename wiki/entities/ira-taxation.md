@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: IRA Taxation
 description: "An Individual Retirement Account (IRA) is subject to tax treatment based on its type; traditional IRAs may offer immediate tax deductions but require mandatory withdrawals starting at age 72 with pena."
 created: 2026-06-10

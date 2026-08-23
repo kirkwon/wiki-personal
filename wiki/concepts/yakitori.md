@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: yakitori
 description: "Yakitori is a Japanese skewered chicken dish seasoned with salt or tare (a mixture of sugar, salt, and mirin)."
 created: 2026-06-10

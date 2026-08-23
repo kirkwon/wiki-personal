@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 title: Knowledge Representation
 description: "Knowledge Representation"
 type: concept

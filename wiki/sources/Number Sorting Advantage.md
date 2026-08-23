@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: Number Sorting Advantage
 created: 2026-04-29
 updated: 2026-04-29

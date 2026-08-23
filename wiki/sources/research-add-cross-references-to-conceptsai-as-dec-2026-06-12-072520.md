@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: source
 title: "Adding Cross-References to AI Concepts"
 description: "Badanie: Dodawanie odniesień krzyżowych do pojęć AI

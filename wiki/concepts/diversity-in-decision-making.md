@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Diversity in Decision-Making
 description: "Diversity in Decision-Making: Leveraging varied perspectives to achieve more comprehensive and robust choices."

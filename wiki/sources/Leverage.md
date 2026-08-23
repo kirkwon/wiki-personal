@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Leverage
 description: "Leverage is presented as a universal mental model—a conceptual tool or principle for understanding and navigating complex situations."

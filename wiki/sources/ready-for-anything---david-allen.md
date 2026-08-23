@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Ready for Anything - David Allen
 type: source
 created: 2026-05-03

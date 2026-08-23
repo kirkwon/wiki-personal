@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Slow Productivity - Cal Newport
 created: 2026-04-29

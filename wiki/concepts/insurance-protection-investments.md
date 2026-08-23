@@ -1,4 +1,5 @@
 ---
+date: 2026-04-22
 type: concept
 title: Insurance Protection for Investments
 description: "--

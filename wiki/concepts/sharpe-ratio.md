@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Sharpe Ratio
 description: "Measures risk-adjusted return by dividing excess return over the risk-free rate by portfolio standard deviation."

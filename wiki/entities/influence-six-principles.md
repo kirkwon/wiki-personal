@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: influence-six-principles
 description: "influence-six-principles"
 created: 2026-06-10

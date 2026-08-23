@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sleep
 description: "Sleep is a physiological state of rest characterized by reduced consciousness and metabolic activity in organisms, essential for cognitive function, memory consolidation, and overall well-being."
 created: 2026-06-10

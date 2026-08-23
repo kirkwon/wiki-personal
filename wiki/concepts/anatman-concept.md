@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Anatman-Konzeption
 description: "Anatman-Konzeption. The Buddhist philosophical concept that there is no permanent, unchanging self or soul (no-self)."

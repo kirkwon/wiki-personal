@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Japanese Tea Ceremony
 description: "Japanese Tea Ceremony"
 created: 2026-06-10

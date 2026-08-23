@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 8fcafaad9a6b9d41f874bbe9d1677d7d0deeb31db3b6e803002ca03f9c5c339f
 source_path: Gastronomy/Cuisines/American/Concepts/bbq-regions.md
+date: 2026-05-14
 title: BBQ Regions
 type: note
 created: '2026-05-14'

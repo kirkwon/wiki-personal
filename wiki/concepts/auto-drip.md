@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Auto Drip
 description: "An Auto Drip system is an automated process that consistently delivers small amounts of resources or information over time."
 created: 2026-06-10

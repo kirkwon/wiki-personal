@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: よくある失敗と修正法
 description: "関連

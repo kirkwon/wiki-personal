@@ -1,4 +1,5 @@
 ---
+date: 2026-06-15
 type: paper
 description: "Training-Free Looped Transformers"
 tags: [paper, transformers, inference, ode, looping]

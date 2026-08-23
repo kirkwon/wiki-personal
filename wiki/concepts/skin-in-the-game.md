@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Skin in the Game
 description: "The principle that decision-makers must bear the consequences of their decisions."
 type: concept

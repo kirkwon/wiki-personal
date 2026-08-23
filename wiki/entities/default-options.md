@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: default-options
 description: "Default options refer to pre-set choices or settings that are automatically applied when creating recipes, organizing photographic workflows, managing personal finances, or conducting cognitive scienc."
 created: 2026-06-10

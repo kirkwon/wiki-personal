@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Portals/Gastronomy.md
 tags:
 - general
+date: 2026-04-24
 title: 'Portal: Gastronomy'
 type: entity
 updated: '2026-04-24'

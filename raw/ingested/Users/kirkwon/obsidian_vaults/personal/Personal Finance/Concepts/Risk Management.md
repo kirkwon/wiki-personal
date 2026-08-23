@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Ri
   Management.md
 ingested: 2026-04-24
 sha256: c6e87146515b137a76638e09e52210dc9440981f0f5b8af156f25db86601ad9d
+date: 2026-05-14
 title: Risk Management
 type: note
 created: '2026-05-14'

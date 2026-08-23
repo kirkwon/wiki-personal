@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Index.md
 ingested: 2026-04-24
 sha256: 5be0836e148e2312596a04ebf78b2f1408992fc1f5337f589c1f274f17488a4d
+date: 2026-05-14
 title: Personal Knowledge Vault
 type: note
 created: '2026-05-14'

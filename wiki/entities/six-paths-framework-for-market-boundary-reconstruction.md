@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Six paths framework for market boundary reconstruction
 description: "Six paths framework for market boundary reconstruction"
 created: 2026-06-10

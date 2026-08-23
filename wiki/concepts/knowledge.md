@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Knowledge
 description: "Knowledge is a conceptual tool or principle that helps understand and navigate complex situations."

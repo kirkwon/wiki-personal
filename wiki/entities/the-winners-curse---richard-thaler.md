@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: The Winner's Curse - Richard Thaler
 description: "The Winner's Curse - Richard Thaler"

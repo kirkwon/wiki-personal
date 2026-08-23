@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: World Whiskies
 description: "'World Whiskies' refers to the diverse range of whisky varieties from different countries worldwide, each with unique flavor profiles influenced by local ingredients and production methods."
 created: 2026-06-10

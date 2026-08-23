@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Rip Currents
 description: "Rip currents are strong, narrow currents moving away from shore that can pull swimmers and waders out to sea."

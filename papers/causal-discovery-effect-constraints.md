@@ -1,4 +1,5 @@
 ---
+date: 2026-08-18
 type: entity
 title: Interpretable Causal Discovery via Causal-Effect Constraints
 created: 2026-08-18

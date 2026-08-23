@@ -1,4 +1,5 @@
 ---
+date: 2026-04-21
 type: entity
 title: Cilantro/Coriander (Coriandrum sativum)
 description: "--

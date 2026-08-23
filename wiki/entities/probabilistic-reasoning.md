@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Probabilistic reasoning
 description: "Probabilistic reasoning"
 created: 2026-06-10

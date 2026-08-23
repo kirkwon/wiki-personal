@@ -1,5 +1,6 @@
 ---
 
+date: 2026-06-28
 title: Project Title
 status: active  # active | paused | completed | archived
 priority: P2    # P0 (critical) | P1 (high) | P2 (medium) | P3 (low)

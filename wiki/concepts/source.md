@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: note
 title: Personal Knowledge Ecosystem - System Overview
 description: "Personal Knowledge Ecosystem — System Overview"

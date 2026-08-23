@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Everything Is F*cked - A Book About Hope
 description: "Everything Is F*cked - A Book About Hope"
 created: 2026-06-10

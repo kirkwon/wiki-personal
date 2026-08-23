@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: The Great Mental Models (Vol. 1) - Shane Parrish
 description: "The Great Mental Models (Vol. 1) - Shane Parrish"

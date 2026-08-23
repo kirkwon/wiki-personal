@@ -1,8 +1,10 @@
 ---
+
+date: 2026-04-29
 type: entity
 title: 'Influence: The Psychology of Persuasion'
-description: "-
-Influence: The Psychology of Persuasion"
+description: "-"
+Influence: The Psychology of Persuasion""
 created: 2026-04-29
 updated: 2026-04-29
 tags:
@@ -15,6 +17,7 @@ related:
 - influence-mental-model
 - robert-b-cialdini
 - thinking-fast-and-slow ---daniel-kahneman
+
 ---
 -
 # Influence: The Psychology of Persuasion

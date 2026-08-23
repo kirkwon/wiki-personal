@@ -25,6 +25,7 @@ related:
 - stir-fry-technique
 - chinese-cuisine
 - marinades
+date: 2026-04-24
 title: Aromatics - The Holy Trinity
 description: "Aromatics - The Holy Trinity 中餐三宝"
 type: concept

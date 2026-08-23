@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Quit_ The Power of Knowing When to Walk Away
 description: "Quit_ The Power of Knowing When to Walk Away"
 created: 2026-06-10

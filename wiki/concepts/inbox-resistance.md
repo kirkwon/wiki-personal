@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Inbox Resistance
 description: "Inbox Resistance refers to techniques for managing email overload and establishing boundaries with digital communication to reduce stress and increase productivity."

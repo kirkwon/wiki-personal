@@ -1,9 +1,12 @@
 ---
+
 tags: [concept, cognitive-bias, mental-model]
 created: 2026-06-15
+date: 2026-06-15
 type: concept
-description: "Origin: Francis Bacon (1620), formalized by Nickerson (1998)  
-Category: Cognitive bias"
+description: "Origin: Francis Bacon (1620), formalized by Nickerson (1998)"
+Category: Cognitive bias""
+
 ---
 
 # Confirmation Bias

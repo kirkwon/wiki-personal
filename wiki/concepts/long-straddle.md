@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Long Straddle
 description: "Long Straddle είναι μια στρατηγική όπου αγοράζω call και put στο ίδιο strike price και expiration. Κερδοφόρη αν υπάρξει μεγάλη κίνηση σε οποιαδήποτε κατεύθυνση."

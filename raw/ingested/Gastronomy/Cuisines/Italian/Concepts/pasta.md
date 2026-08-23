@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 494177c0c6a521fa94c60d7b7c8e62f8954fa2ab1f671594b40681666b642fd3
 source_path: Gastronomy/Cuisines/Italian/Concepts/pasta.md
+date: 2026-05-14
 title: Italian Pasta
 type: note
 created: '2026-05-14'

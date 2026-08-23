@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Risk Register
 description: "A documentation tool for cataloging identified risks with their characteristics, analysis, and response plans."

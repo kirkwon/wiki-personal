@@ -1,4 +1,5 @@
 ---
+date: 2026-07-19
 type: concept
 title: Cli Anything Drawio
 created: 2026-07-19

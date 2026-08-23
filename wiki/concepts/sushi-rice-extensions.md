@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 酢飯の作り方
 description: "酢飯が寿司のすべて。米の選び方から味付けまで段階的に作る。"

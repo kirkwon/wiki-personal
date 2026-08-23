@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Attention Residue
 description: "Attention residue is the mental focus left over from a previous task that contaminates your ability to fully engage with the next task."

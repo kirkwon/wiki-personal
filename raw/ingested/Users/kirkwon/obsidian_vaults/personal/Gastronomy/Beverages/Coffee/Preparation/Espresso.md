@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Coffee/Preparation/Espresso.md
 ingested: 2026-04-24
 sha256: 8cf63fd623d5b28953fea63a758feb58b7ea4d905a26004b11662564c000f337
+date: 2026-05-14
 title: Espresso (意大利浓缩咖啡)
 type: note
 created: '2026-05-14'

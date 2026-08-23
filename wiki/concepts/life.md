@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Life
 description: "Life, as framed in David Allen's Making It All Work, is a universal mental model for navigating complexity through pattern and relationship recognition."

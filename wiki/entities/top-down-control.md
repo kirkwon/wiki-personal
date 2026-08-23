@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: top-down-control
 description: "Top-down control refers to the influence of higher cognitive processes or overarching goals on more immediate actions in various domains."
 created: 2026-06-10

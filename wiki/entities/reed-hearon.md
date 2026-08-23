@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Reed Hearon
 description: "Reed Hearon es autor de 'The Tex-Mex Grill', otro libro importante sobre la cocina Tex-Mex."

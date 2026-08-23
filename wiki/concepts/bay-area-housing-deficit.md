@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Bay Area Housing Deficit
 created: 2026-04-24

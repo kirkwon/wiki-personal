@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Pre-mortem analysis
 description: "A pre-mortem analysis is a proactive risk assessment technique where you envision the failure of a project or endeavor before it occurs."
 created: 2026-06-10

@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Photography/post-processing.md
 ingested: 2026-04-24
 sha256: b5cc59a1523b95a66e591b18ae7585db85012994423af2a52b5e04fba35c2105
+date: 2026-05-14
 title: Post-Processing
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-09
 type: source
 title: 'Source: why-we-work'
 description: "Why We Work - Barry Schwartz"

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Thinking in Systems - Donella H. Meadows
 author: Donella H. Meadows
 year: 2024

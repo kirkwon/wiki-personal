@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Secrecy and Discretion in Innovation
 description: "Secrecy and Discretion in Innovation | concept | strategy, entrepreneurship, competitive-advantage."

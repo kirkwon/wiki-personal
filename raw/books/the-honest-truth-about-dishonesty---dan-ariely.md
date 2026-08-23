@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The (Honest) Truth About Dishonesty - Dan Ariely
 author: Dan Ariely
 year: 2024

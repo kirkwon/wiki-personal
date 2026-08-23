@@ -2,6 +2,7 @@
 tags: [questions, index, methodology]
 created: 2026-05-25
 updated: 2026-06-03
+date: 2026-05-25
 type: question-index
 description: "Research Questions — AI/ML × Finance"
 ---

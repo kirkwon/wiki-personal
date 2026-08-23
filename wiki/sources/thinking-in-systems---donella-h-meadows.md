@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Thinking in Systems - Donella H. Meadows
 description: "Thinking in Systems - Donella H."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Early Stopping
 description: "Early stopping is a strategy used to halt the training of machine learning models at the point when performance on a validation set starts to deteriorate, thus preventing overfitting and saving comput."
 created: 2026-06-10

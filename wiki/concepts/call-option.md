@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Call Option
 description: "Call Option είναι ένα διαφορικό σύμβολο (option) που δίνει το δικαίωμα, αλλά όχι την υποχρέωση, να αγοράσετε ένα πέρασμα σε ένα προκαθορισμένο strike price μέχρι την ημερομηνία expiration."

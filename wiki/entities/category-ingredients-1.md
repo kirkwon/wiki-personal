@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Ingredients
 description: "A 'Category: Ingredients' refers to the fundamental components used in cooking recipes, such as spices, vegetables, meats, and grains."
 created: 2026-06-10

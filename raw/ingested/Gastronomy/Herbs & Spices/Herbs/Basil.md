@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 906b0b79b98389d787ec75b783e11690d4dfafdaad2b4b27904b01cccff3e454
 source_path: Gastronomy/Herbs & Spices/Herbs/Basil.md
+date: 2026-05-14
 title: Basil (Ocimum basilicum)
 type: note
 created: '2026-05-14'

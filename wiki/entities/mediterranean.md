@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: mediterranean
 description: "A Mediterranean lifestyle emphasizes fresh, locally sourced ingredients with an abundance of fruits, vegetables, whole grains, legumes, nuts, and olive oil."
 created: 2026-06-10

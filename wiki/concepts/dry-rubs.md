@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Dry Rubs
 description: "Dry rubs are spice mixtures applied directly to meat or protein surfaces without a liquid carrier."

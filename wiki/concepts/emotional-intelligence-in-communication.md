@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Emotional Intelligence in Communication
 description: "Emotional Intelligence in Communication"

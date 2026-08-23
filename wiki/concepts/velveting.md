@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Velveting
 description: "Velveting is a Chinese cooking technique that uses cornstarch (and optionally egg white) in a marinade to create a silky, tender texture in proteins when cooked."

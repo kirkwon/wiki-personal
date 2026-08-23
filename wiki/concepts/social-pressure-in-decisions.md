@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Social Pressure in Decision-Making
 description: "Social Pressure in Decision-Making"
 created: 2026-05-03

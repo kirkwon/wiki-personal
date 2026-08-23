@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Simple logic
 description: "Simple logic refers to the fundamental principles of reasoning that guide decision-making processes across various domains such as cooking (choosing ingredients), photography (composition rules), pers."
 created: 2026-06-10

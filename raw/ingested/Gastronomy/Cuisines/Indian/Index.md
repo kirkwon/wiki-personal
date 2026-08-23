@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: c63373ff1ed8dd32a06572ea9d5f25e61250eb29e1aa4ada58cb870fafc71360
 source_path: Gastronomy/Cuisines/Indian/Index.md
+date: 2026-05-14
 title: Indian Cuisine
 type: note
 created: '2026-05-14'

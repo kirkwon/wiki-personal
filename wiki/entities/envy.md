@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: envy
 description: "Envy is an emotional response to perceived disadvantage compared to another's situation or possessions, often observed in cooking when one chef admires a rival's culinary skills, in photography throug."
 created: 2026-06-10

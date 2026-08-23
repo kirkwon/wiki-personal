@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Perspective Reframing
 description: "Changing the way you view a situation or problem to unlock new insights and potential solutions."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Why We Work - Barry Schwartz
 description: "Why We Work - Barry Schwartz"
 created: 2026-06-10

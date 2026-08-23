@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Paradox of Power
 description: "The Paradox of Power refers to the counterintuitive situation where having more power can lead to less effective decision-making due to overconfidence or a lack of diverse perspectives."
 created: 2026-06-10

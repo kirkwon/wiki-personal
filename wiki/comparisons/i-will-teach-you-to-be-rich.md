@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: comparison
 title: I Will Teach You to Be Rich
 description: "I Will Teach You to Be Rich"

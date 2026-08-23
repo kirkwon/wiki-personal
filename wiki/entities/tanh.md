@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Tanh
 description: "The hyperbolic tangent (tanh) function is a mathematical concept that maps any real number to the range between -1 and 1, similar to how ingredient proportions in cooking must balance within certain l."
 created: 2026-06-10

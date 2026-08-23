@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Consider-the-opposite exercise
 description: "Consider-the-opposite exercise"
 created: 2026-06-10

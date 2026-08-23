@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Smarter Faster Better - Charles Duhigg
 description: "Smarter Faster Better - Charles Duhigg"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Jascha Sohl-Dickstein
 description: "Jascha Sohl-Dickstein"
 created: 2026-06-10

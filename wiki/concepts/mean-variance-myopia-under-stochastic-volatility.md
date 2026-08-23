@@ -1,4 +1,5 @@
 ---
+date: 2026-06-30
 type: concept
 title: "Mean-Variance Myopia Under Stochastic Volatility"
 description: "The static mean-variance efficient frontier is the myopic special case of the full intertemporal portfolio problem. When volatility is stochastic, the optimal strategy includes a positive intertemporal hedging demand that static M-V ignores."

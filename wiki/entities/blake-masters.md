@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Blake Masters
 description: "Blake Masters is a former student of Peter Thiel, an author, and an entrepreneur who co-authored Zero to One: Notes on Startups, or How to Build the Future."

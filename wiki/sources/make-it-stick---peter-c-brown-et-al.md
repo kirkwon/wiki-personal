@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Make It Stick - Peter C. Brown et al.
 created: 2026-05-03

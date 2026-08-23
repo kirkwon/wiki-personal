@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: VGGNet
 description: "VGGNet is an advanced deep learning convolutional neural network architecture designed primarily for visual recognition tasks, such as image classification in photography or facial recognition in cook."
 created: 2026-06-10

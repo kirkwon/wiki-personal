@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 type: entity
 title: Personal Knowledge Management System
 description: "Personal Knowledge Management System"

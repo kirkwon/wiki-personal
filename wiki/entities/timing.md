@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: timing
 description: "Timing refers to the precise moment or interval at which an action should occur to achieve optimal results."
 created: 2026-06-10

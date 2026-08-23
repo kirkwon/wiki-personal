@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Al
   Investments.md
 ingested: 2026-04-24
 sha256: 819ac6212faae0af594cf576024cbe06753fac16cd6b6367e93e473013b7ec8c
+date: 2026-05-14
 title: Alternative Investments
 type: note
 created: '2026-05-14'

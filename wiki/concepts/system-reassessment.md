@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: System Reassessment
 description: "System reassessment involves evaluating current workflows, tools, and processes to determine their efficiency and effectiveness in managing digital life."

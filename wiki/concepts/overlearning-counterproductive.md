@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Overlearning and Narrow Specialization as Counterproductive
 description: "Excessive practice or deep specialization can sometimes hinder adaptability and broader problem-solving skills."

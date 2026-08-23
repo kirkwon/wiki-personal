@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Checklists
 description: "Source documenting the mental model of checklists as a universal conceptual tool for navigating complex situations through pattern recognition."

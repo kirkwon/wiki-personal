@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Pacific Heights
 description: "Pacific Heights refers to an affluent residential area often associated with high property values and luxury living."
 created: 2026-06-10

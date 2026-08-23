@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Interactions
 description: "Interactions is presented as a universal mental model for navigating complex situations through pattern and relationship recognition."

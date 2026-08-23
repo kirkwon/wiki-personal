@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Indistractable
 description: "'Indistractable' refers to the ability to maintain focus on a task or goal without being easily distracted."
 created: 2026-06-10

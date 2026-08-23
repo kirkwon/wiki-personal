@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: source
 title: "Source: research-implementing-pkm-system-2026-06-12-070528.md"
 description: "Source: research-implementing-pkm-system-2026-06-12-070528.md"

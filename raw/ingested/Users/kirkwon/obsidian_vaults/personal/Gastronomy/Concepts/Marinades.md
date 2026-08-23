@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Concepts/Marinades.md
 ingested: 2026-04-24
 sha256: 8a93aedd99e4099ec99a0b1d8dcb021165322982898d601ae01ae493be554023
+date: 2026-05-14
 title: Marinades and Mise en Place
 type: note
 created: '2026-05-14'

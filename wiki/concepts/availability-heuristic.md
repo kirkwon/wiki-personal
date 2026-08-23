@@ -1,6 +1,7 @@
 ---
 tags: [concept, cognitive-bias, mental-model, heuristics]
 created: 2026-06-15
+date: 2026-06-15
 type: concept
 description: "Availability Heuristic"
 ---

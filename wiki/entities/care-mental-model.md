@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: care-mental-model
 description: "A care-mental model refers to an individual's cognitive framework that integrates empathy with mental processes when engaging in activities like cooking or photography."
 created: 2026-06-10

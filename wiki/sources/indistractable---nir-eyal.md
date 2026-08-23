@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-05-03
 sha256: 6f1c4299a8ae48ec1bda8b11879cec663ed634c784e0656606f0c8c91f7d6c9b
+date: 2026-05-14
 title: Indistractable - Nir Eyal
 type: note
 created: '2026-05-14'

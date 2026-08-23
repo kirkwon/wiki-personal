@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Loss aversion
 description: "Loss aversion is a cognitive bias where the emotional impact of losing something is stronger than the joy of gaining something of equal value."
 created: 2026-06-10

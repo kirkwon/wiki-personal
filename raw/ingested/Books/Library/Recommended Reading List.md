@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 9054940141671efbcfa079f0f44d98428ada400b722a45d3731df7ecf13dbabe
 source_path: Books/Library/Recommended Reading List.md
+date: 2026-05-14
 title: Recommended Reading List
 type: note
 created: '2026-05-14'

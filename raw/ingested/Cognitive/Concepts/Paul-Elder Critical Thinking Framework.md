@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: cde5ff178d381b20cf989b4f7213d451b2fb749ea8301b8b3a285504abc150ce
 source_path: Cognitive/Concepts/Paul-Elder Critical Thinking Framework.md
+date: 2026-05-14
 title: Paul-Elder Critical Thinking Framework
 type: note
 created: '2026-05-14'

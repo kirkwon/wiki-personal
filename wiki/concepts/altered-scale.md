@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Altered Scale
 description: "Alterert skala brukes over altererte dominante 7. akkorder."

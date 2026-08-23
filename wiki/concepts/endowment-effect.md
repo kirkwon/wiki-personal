@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Endowment Effect
 description: "Tendency to value things more highly just because they are owned."

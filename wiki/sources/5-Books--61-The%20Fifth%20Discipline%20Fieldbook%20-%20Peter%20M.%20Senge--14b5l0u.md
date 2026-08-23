@@ -1,4 +1,5 @@
 ---
+date: 2026-06-06
 type: source
 title: "Source: Books/The Fifth Discipline Fieldbook - Peter M. Senge.md"
 description: "Source: Books/The Fifth Discipline Fieldbook - Peter M."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: AI Safety Methods
 description: "AI safety methods are practical approaches for improving the safety and alignment of artificial intelligence systems."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Mental Simulation in Decision-Making
 description: "Mental Simulation in Decision-Making"

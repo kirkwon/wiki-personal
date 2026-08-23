@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Information bias
 description: "Information bias refers to the distortion of decision making due to an excess or imbalanced focus on information that is not relevant or necessary for a particular context."
 created: 2026-06-10

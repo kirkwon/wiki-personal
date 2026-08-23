@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Belief Propagation
 description: "Belief Propagation is an algorithm used to compute the marginal probabilities of nodes within a graphical model by passing messages between neighboring nodes iteratively until convergence."
 created: 2026-06-10

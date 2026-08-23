@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sunset District
 description: "The Sunset District is a vibrant neighborhood in San Francisco known for its picturesque sunsets that serve as an inspiration for photography enthusiasts."
 created: 2026-06-10

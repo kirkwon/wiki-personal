@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Costs of Care
 description: "The Costs of Care examines the economic burden that an aging population places on society, particularly the expenditure on end-of-life medical services."

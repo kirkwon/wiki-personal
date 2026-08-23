@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Social Media Food References.md
 ingested: 2026-04-24
 sha256: fa325a5c37cf70489f56c81d948e0bb1d00171e47744ced78153798d1f43cec6
+date: 2026-05-14
 title: Social Media Food References
 type: note
 created: '2026-05-14'

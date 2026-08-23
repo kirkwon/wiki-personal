@@ -1,4 +1,5 @@
 ---
+date: 2026-08-18
 type: entity
 title: E2-Explainer — Causal Explanations of MAS Communication Topologies
 created: 2026-08-18

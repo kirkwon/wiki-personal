@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Being Mortal - Atul Gawande
 author: Atul Gawande
 year: 2024

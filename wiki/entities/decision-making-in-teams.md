@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: decision-making-in-teams
 description: "decision-making-in-teams"
 created: 2026-06-10

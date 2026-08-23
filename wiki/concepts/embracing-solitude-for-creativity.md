@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Embracing Solitude for Creativity
 description: "Embracing Solitude for Creativity: Utilizing alone time to achieve deep focus, reflection, and novel insights."

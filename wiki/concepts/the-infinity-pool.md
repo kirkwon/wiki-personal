@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: The Infinity Pool
 description: "Effortlessly manage tasks, decisions, and time for peak output; your ultimate focus zone."
 created: 2026-05-03

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Alternative paths
 description: "Alternative paths refer to different methods or strategies that can be employed to achieve similar goals across various domains such as cooking (e.g., alternative ingredients for recipes), photography."
 created: 2026-06-10

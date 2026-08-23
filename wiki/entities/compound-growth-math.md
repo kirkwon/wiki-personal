@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: compound-growth-math
 description: "Compound growth math refers to the mathematical formula used to calculate the exponential increase of an investment or quantity over time, factoring in periodic interest or growth rates."
 created: 2026-06-10

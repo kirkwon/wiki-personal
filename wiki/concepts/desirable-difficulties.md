@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Desirable Difficulties
 description: "Desirable Difficulties: Learning through challenging tasks that build robust memory and cognitive resilience."

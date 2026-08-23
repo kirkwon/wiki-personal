@@ -3,6 +3,7 @@
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "What are the foundational skills and knowledge that most leverage the intersection of AI/ML and Finance? Work from basics — what does one actually need to master?"
+date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
 confidence: 0.95
@@ -787,6 +788,11 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-08-21: Towards Real-Time and Adaptable LiDAR Scene Completion
 
 ### 2026-08-21: Bounded Agents: Delegation Security for Multi-Agent AI Systems
+
+### 2026-08-22: TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity
+- HF trending paper (arxiv: 2608.15767). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.15767]] | https://huggingface.co/papers/2608.15767
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.15888). Keywords: risk. Status: pending-review.
 - Source: [[papers/2608.15888]] | https://huggingface.co/papers/2608.15888
 - Confidence: Low (auto-matched, not yet reviewed)

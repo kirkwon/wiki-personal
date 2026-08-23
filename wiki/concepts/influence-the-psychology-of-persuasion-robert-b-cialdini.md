@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: 'Influence: The Psychology of Persuasion - Robert B. Cialdini'
 description: "Influence: The Psychology of Persuasion"

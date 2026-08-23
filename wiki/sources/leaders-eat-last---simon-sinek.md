@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Leaders Eat Last - Simon Sinek
 description: "Leaders Eat Last - Simon Sinek"

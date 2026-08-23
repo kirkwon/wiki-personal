@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Power of Habit (Concept)
 description: "The Power of Habit (Concept)"

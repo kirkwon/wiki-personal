@@ -1,8 +1,10 @@
 ---
+
+date: 2026-04-24
 type: concept
 title: 'Diversification: Four Types'
-description: "--
-Diversification: Four Types"
+description: "--"
+Diversification: Four Types""
 created: 2026-04-24
 updated: 2026-04-24
 tags:
@@ -16,6 +18,7 @@ related:
 - wealth-formula-focus-stoicism-time-diversification
 - personal-finance
 - real-estate-investment
+
 ---
 --
 # Diversification: Four Types

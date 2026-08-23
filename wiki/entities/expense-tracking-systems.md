@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Expense Tracking Systems
 description: "Expense Tracking Systems"
 created: 2026-06-10

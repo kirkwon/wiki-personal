@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: d7b5869c327309eb60b4b1eaf63145c2bd2fe84eab6c6ce76d7208a75a0890f1
 source_path: Gastronomy/Cuisines/Chinese/Concepts/mapo-tofu.md
+date: 2026-05-14
 title: Mapo Tofu
 type: note
 created: '2026-05-14'

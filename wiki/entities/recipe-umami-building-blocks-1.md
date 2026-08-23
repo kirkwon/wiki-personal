@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: recipe:umami-building-blocks
 description: "recipe:umami-building-blocks"
 created: 2026-06-10

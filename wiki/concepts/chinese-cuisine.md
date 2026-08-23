@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Chinese/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Chinese Cuisine
 type: concept
 updated: '2026-04-24'

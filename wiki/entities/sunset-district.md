@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Sunset District
 description: "A large residential neighborhood to the west of San Francisco, spanning from Golden Gate Park to Ocean Beach."

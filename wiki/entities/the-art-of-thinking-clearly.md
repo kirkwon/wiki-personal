@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Art of Thinking Clearly
 description: "The Art of Thinking Clearly"
 created: 2026-06-10

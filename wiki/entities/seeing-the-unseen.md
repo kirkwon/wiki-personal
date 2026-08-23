@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: seeing-the-unseen
 description: "'Seeing-the-unseen' refers to the ability to perceive underlying patterns or information that is not immediately obvious in various contexts such as cooking (identifying subtle flavor combinations), p."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Building Antifragile Societies
 description: "Designing systems that not only withstand stress but actively improve and gain strength from volatility."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-21
 type: concept
 title: Web Extraction Provider Architecture
 description: "Hermes Agent's pluggable web extraction system — any backend (Firecrawl, Crawl4AI, ScrapeGraphAI) behind a unified interface, with per-capability routing (search vs extract)."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Importance
 description: "Importance is a universal mental model — a conceptual tool that helps people understand and navigate complex situations by providing a mental shortcut for recognizing patterns and relationships.^[raw/."

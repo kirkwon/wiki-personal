@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Omission commission bias
 description: "Omission commission bias"
 created: 2026-06-10

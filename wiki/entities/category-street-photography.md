@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Street Photography
 description: "Category:Street Photography"
 created: 2026-06-10

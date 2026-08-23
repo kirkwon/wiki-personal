@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Grilling Seafood
 description: "Grilling seafood involves cooking various aquatic foods over an open flame or hot surface to achieve desired flavors and textures."
 created: 2026-06-10

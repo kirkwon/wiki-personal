@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 1b8b546bb25656fe783d8ae3ac3f5251fc4af8f2ec8e746b0456590c2491a8dd
 source_path: Personal Finance/Concepts/The Psychology of Money.md
+date: 2026-05-14
 title: The Psychology of Money
 type: note
 created: '2026-05-14'

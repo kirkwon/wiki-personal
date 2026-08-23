@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: rhythm-and-meter
 description: "Rhythm-and-meter in cooking refer to the timing and sequence of ingredient preparation and cooking steps that create a harmonious dish."
 created: 2026-06-10

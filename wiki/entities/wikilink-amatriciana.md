@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "wikilink: amatriciana"
 description: "wikilink: amatriciana"
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Dream of Socrates
 description: "Socrates' afterlife journey reveals knowledge's limits and soul's eternal pursuit of truth."

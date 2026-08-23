@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Seek First to Understand, Then to Be Understood
 description: "Seek First to Understand, Then to Be Understood"

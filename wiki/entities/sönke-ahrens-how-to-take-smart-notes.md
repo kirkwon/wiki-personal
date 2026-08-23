@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: entity
 title: Sönke Ahrens - How to Take Smart Notes
 created: 2026-05-03

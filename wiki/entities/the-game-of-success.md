@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: the-game-of-success
 description: "The Game of Success is an integrated approach to achieving excellence across various life domains including cooking (mastery in culinary arts), photography (creative expression through visual storytel."
 created: 2026-06-10

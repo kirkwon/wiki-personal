@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Economic Cycles
 description: "Economic cycles, also known as business cycles, are recurring patterns of expansion and contraction in economic activity."

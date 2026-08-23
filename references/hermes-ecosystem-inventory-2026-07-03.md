@@ -1,4 +1,5 @@
 ---
+date: 2026-07-03
 type: reference
 title: "Hermes Skill Ecosystem — Complete Inventory"
 created: 2026-07-03

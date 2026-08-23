@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: learning
 description: "Learning is the process of acquiring new knowledge or skills through experience, study, or teaching."
 created: 2026-06-10

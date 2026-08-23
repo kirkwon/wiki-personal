@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 20d36d094796d595770f3b5266fc808bc8a0ea10f6fcd7ca29844d4afdb381bc
 source_path: Gastronomy/Beverages/Coffee/Beans/Robusta.md
+date: 2026-05-14
 title: Robusta Coffee (Coffea canephora)
 type: note
 created: '2026-05-14'

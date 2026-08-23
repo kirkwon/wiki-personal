@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-04-29
 sha256: null
+date: 2026-05-14
 title: Examination Source
 type: note
 created: '2026-05-14'

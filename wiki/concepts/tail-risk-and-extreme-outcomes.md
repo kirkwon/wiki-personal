@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Tail Risk and Extreme Outcomes
 description: "Low-probability, high-impact events; systemic failures challenging assumptions of normal market behavior."

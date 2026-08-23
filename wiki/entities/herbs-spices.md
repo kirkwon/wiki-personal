@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Herbs & Spices
 description: "Herbs and spices are natural plant products used to enhance the flavor, color, and aroma of food."
 created: 2026-06-10

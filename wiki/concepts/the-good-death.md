@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Good Death
 description: "The Good Death is Gawande's framework for what makes dying a meaningful experience."

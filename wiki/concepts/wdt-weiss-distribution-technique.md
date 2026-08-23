@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: WDT (Weiss Distribution Technique)
 description: "WDT (Weiss Distribution Technique)"

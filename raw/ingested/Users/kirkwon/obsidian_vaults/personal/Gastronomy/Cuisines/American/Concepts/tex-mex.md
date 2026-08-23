@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/American/Concepts/tex-mex.md
 ingested: 2026-04-24
 sha256: e1b4c4f4db1b43c08aa0701caf6b2a3baebb6bc169a29e8ace953999a0d83cbf
+date: 2026-05-14
 title: Tex-Mex
 type: note
 created: '2026-05-14'

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 62d9532ebbf6eb8f9724d27ed0e781c04e15b797d8c345591bf8440fb848e422
 source_path: Local San Francisco/ocean-beach.md
+date: 2026-05-14
 title: Ocean Beach
 type: note
 created: '2026-05-14'

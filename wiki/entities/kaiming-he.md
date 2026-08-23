@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Kaiming He
 description: "Kaiming He is an interdisciplinary expert with notable contributions to cognitive science, particularly in understanding human decision-making processes."
 created: 2026-06-10

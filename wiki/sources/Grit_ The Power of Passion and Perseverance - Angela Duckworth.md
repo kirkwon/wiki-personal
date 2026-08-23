@@ -1,4 +1,5 @@
 ---
+date: 2026-05-11
 type: source
 title: 'Source: Grit_ The Power of Passion and Perseverance - Angela Duckworth.md'
 description: "Source: Grit_ The Power of Passion and Perseverance - Angela Duckworth.md"

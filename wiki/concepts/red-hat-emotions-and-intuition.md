@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Red Hat - Emotions and Intuition
 description: "Red Hat - Emotions and Intuition"

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Cool Jazz
 description: "Cool jazz is a style of jazz characterized by a smoother, more restrained sound compared to the intensity of bebop."

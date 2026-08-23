@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: patterns-relationships
 description: "patterns-relationships"
 created: 2026-06-10

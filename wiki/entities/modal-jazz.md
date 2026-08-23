@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Modal Jazz
 description: "Modal jazz is a style of jazz music that emphasizes the use of musical modes rather than chord progressions as the basis for improvisation and composition."
 created: 2026-06-10

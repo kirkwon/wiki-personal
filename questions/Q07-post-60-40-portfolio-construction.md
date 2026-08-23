@@ -1,4 +1,5 @@
 ---
+date: 2026-07-18
 type: concept
 title: "Q07 — Post-60/40 Portfolio Construction"
 created: 2026-07-18

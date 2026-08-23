@@ -2,6 +2,7 @@
 source_url: Essentialism.md
 ingested: 2026-04-29
 sha256: a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2a3b4c5d6e7f8g9h0i1j2k3l4m5n6o7p8q9r0s1t2u3v4w5x6y7z8a9b0c1d2e3f4g5h6i7j8k9l0m1n2o3p4q5r6s7t8u9v0w1x2y3z4a5b6c7d8e9f0
+date: 2026-05-14
 title: Essentialism Source Summary
 type: note
 created: '2026-05-14'

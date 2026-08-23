@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: fe648f4f5692d6897580e57c2ac2c9224ed258f6555e07c49eab4c78747dbb16
 source_path: Music Theory & Jazz/Index.md
+date: 2026-05-14
 title: Music Theory & Jazz
 type: note
 created: '2026-05-14'

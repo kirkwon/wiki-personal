@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Momentum Strategy
 description: "Momentum is the tendency for assets that have performed well in the past to continue performing well in the near future."

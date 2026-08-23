@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Critical Rationalism
 description: "Critical rationalism is the epistemological tradition, originating with Karl Popper and championed by David Deutsch, which rejects inductivism and holds that knowledge grows through conjecture and cri."

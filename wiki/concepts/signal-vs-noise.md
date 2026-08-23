@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Signal vs. Noise
 description: "Signal vs. Noise is a mental model for distinguishing meaningful patterns (signal) from randomness or irrelevant information (noise) in complex situations."

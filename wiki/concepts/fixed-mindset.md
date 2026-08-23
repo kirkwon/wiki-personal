@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Fixed Mindset
 description: "A fixed mindset is the belief that personal qualities — intelligence, talent, character — are innate and unchangeable."

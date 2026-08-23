@@ -6,6 +6,7 @@ tags:
 - budgeting
 - general
 - psychology
+date: 2026-04-24
 title: The Psychology of Money
 type: comparison
 updated: '2026-04-24'

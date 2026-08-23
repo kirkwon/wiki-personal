@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Procrastination as Predictable Irrationality
 description: "Procrastination as Predictable Irrationality | concept | cognitive-bias, productivity, decision-making."

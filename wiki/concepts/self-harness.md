@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 type: concept
 title: Self-Harness
 description: "Definition

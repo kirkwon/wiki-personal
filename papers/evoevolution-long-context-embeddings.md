@@ -1,4 +1,5 @@
 ---
+date: 2026-06-28
 type: entity
 title: EvoEmbedding — Evolvable Representations for Long-Context Retrieval and Agentic Memory
 created: 2026-06-28

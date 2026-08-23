@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Monitieteinen yhteistyö maailman paljastamisessa
 description: "The merging of multiple academic disciplines to gain a comprehensive understanding of complex issues."

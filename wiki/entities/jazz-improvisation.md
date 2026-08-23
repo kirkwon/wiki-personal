@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Jazz Improvisation
 description: "Jazz improvisation is the spontaneous creation of music within the framework of jazz standards or original compositions during live performances."
 created: 2026-06-10

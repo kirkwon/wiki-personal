@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Thinking Fast and Slow - Daniel Kahneman
 description: "Thinking Fast and Slow - Daniel Kahneman"
 created: 2026-06-10

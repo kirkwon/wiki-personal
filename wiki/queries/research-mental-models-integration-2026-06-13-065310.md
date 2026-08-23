@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: query
 title: "Research: Mental Models Integration"
 description: "Research: Mental Models Integration"

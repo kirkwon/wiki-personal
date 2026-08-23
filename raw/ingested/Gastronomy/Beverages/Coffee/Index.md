@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: f3ce136afb0b184f621bba2fbb85766f63fc0dad981d5c84a75fd76ab3f3e5c5
 source_path: Gastronomy/Beverages/Coffee/Index.md
+date: 2026-05-14
 title: Coffee
 type: note
 created: '2026-05-14'

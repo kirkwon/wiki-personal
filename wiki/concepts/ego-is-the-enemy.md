@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Ego Is the Enemy
 description: "Ego Is the Enemy: Recognizing that excessive self-regard is the primary obstacle to growth and wisdom."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-09
 type: source
 title: 'Source: Paul-Elder Critical Thinking Framework.md'
 description: "Source: Paul-Elder Critical Thinking Framework.md"

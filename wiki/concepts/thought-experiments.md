@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Thought Experiments
 description: "Thought experiments are hypothetical scenarios used to test ideas, explore implications, and develop intuition about complex problems without real-world experimentation."

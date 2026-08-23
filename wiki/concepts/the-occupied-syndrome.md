@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Occupied Syndrome
 description: "Feeling stuck by external demands; mastering agency to reclaim internal freedom and focus."

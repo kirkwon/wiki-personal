@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Social Norms vs. Market Norms
 description: "Social Norms vs. Market Norms"

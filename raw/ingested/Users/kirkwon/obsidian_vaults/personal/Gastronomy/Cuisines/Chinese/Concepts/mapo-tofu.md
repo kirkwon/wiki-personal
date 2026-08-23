@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Chinese/Concepts/mapo-tofu.md
 ingested: 2026-04-24
 sha256: 7fe68d5bfe499baedea07b85b5fac04889c2f23c8ea9a75fe25c1c2632d141c1
+date: 2026-05-14
 title: Mapo Tofu
 type: note
 created: '2026-05-14'

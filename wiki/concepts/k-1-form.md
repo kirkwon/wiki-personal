@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: K-1 Form
 description: "A K-1 form is the tax reporting document used for partnership and S-corporation income."

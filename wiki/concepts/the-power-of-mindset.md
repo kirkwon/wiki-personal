@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Power of Mindset
 description: "The Power of Mindset is the final chapter of The Obstacle Is the Way, synthesizing all previous insights into a comprehensive understanding of how mindset determines one's ability to overcome obstacle."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Factor Crowding & Rotation
 description: "Factor Crowding & Rotation"
 created: 2026-06-10

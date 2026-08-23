@@ -5,6 +5,7 @@ sources:
 tags:
 - coffee
 - general
+date: 2026-04-24
 title: Robusta Coffee (Coffea canephora)
 type: concept
 updated: '2026-04-24'

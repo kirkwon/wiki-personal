@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: MCMC
 description: "Markov Chain Monte Carlo (MCMC) is a computational technique used to approximate complex probability distributions by simulating random samples from these distributions."
 created: 2026-06-10

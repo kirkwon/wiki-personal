@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Balancing Heat with Sweetness (สมดุลความร้อนด้วยความหวาน)
 created: 2026-04-24

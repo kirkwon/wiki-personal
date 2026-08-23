@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Lateral Thinking
 description: "Lateral thinking is a non-linear, generative approach to problem-solving developed by Edward de Bono that involves looking at problems from unexpected angles to generate creative solutions.^[raw/artic."

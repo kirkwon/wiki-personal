@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Thinking, Fast and Slow - Daniel Kahneman
 author: Daniel Kahneman
 year: 2024

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Personal Finance
 description: "Personal finance refers to the management of an individual's monetary resources, including budgeting, saving, investing, and planning for retirement."
 created: 2026-06-10

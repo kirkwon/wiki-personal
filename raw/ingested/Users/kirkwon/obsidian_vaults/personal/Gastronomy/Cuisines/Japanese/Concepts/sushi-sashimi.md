@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Japanese/Concepts/sushi-sashimi.md
 ingested: 2026-04-24
 sha256: b571d3821c0285b6c51c2d7ff88421915a922e41fefdc3a6dc0b51425e36f4aa
+date: 2026-05-14
 title: Sushi and Sashimi
 type: note
 created: '2026-05-14'

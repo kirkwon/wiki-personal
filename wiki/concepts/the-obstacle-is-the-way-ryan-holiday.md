@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: The Obstacle Is the Way - Ryan Holiday (Book Summary)
 description: "The Obstacle Is the Way - Ryan Holiday (Book Summary)"

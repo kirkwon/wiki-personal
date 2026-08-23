@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: concept
 title: /goal Primitive
 created: 2026-06-13

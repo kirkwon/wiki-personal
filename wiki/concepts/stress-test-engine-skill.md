@@ -1,4 +1,5 @@
 ---
+date: 2026-07-02
 type: concept
 title: Stress Test Engine (skill candidate)
 description: "Executable skill for running scenario analysis on real estate and portfolio cash flows — rent decline, vacancy spikes, rate hikes, and expense increases."

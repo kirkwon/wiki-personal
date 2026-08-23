@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: analogical-reasoning-in-problem-solving
 description: "analogical-reasoning-in-problem-solving"
 created: 2026-06-10

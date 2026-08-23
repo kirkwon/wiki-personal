@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Templates/Resource.md
 tags:
 - general
+date: 2026-04-24
 title: '{{title}}'
 type: query
 updated: '2026-04-24'

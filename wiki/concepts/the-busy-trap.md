@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: The Busy Trap
 description: "Overwhelmed by options; constant minor decisions drain energy and derail focus."
 created: 2026-05-03

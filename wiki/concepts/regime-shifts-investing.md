@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 经济环境切换与投资策略
 created: 2026-04-24

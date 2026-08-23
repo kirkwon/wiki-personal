@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Distraction Dilemma
 description: "The distraction dilemma describes the paradox of modern life: constant access to information, entertainment, and social connection undermines the very focus and stillness needed for deep work, clear t."

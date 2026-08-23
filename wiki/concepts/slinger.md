@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Slinger
 description: "Slinger to regionalny styl burgera ze St."

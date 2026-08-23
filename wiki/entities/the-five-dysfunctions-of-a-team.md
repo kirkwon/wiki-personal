@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Five Dysfunctions of a Team
 description: "The Five Dysfunctions of a Team"
 created: 2026-06-10

@@ -9,6 +9,7 @@ tags:
 - investment-strategy
 - tax
 - personal-finance
+date: 2026-04-24
 title: Real Estate Investment
 type: concept
 updated: 2026-05-09

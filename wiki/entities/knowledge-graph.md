@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Knowledge Graph
 description: "A Knowledge Graph is an interconnected data structure that represents relationships between various entities (e.g., ingredients in cooking, camera settings in photography) and concepts within personal."
 created: 2026-06-10

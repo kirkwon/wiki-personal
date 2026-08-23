@@ -3,6 +3,7 @@
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "What approaches meaningfully accelerate learning — curriculum learning, active learning, knowledge distillation, continual learning, few-shot adaptation? What tradeoffs matter?"
+date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
 confidence: 0.5499999999999999
@@ -928,6 +929,16 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 ### 2026-08-21: LLMs Get Smarter from Targeted Synthetic Multilingual Data
 
 ### 2026-08-21: Bounded Agents: Delegation Security for Multi-Agent AI Systems
+
+### 2026-08-22: TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity
+
+### 2026-08-22: The Embedder's Dilemma: LLMs Are Better, but at What Cost?
+- HF trending paper (arxiv: 2608.12875). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2608.12875]] | https://huggingface.co/papers/2608.12875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15767). Keywords: learning. Status: pending-review.
+- Source: [[papers/2608.15767]] | https://huggingface.co/papers/2608.15767
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.15888). Keywords: prompt. Status: pending-review.
 - Source: [[papers/2608.15888]] | https://huggingface.co/papers/2608.15888
 - Confidence: Low (auto-matched, not yet reviewed)

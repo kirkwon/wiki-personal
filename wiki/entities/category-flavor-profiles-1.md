@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Flavor Profiles
 description: "Category:Flavor Profiles"
 created: 2026-06-10

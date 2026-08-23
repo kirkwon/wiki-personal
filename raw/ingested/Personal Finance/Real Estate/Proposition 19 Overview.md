@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: ec5e312ded9ae10f52b9fa94ac3bd3d31f583264480e602d0324ca99dad613c7
 source_path: Personal Finance/Real Estate/Proposition 19 Overview.md
+date: 2026-05-14
 title: Proposition 19 Overview
 type: note
 created: '2026-05-14'

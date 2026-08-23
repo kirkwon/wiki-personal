@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Cacio e Pepe
 description: "Cacio e Pepe — 'cheese and pepper' in Roman dialect — is one of Rome's most iconic pasta dishes."

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Model Thinker - Scott E. Page
 author: Scott E. Page
 year: 2024

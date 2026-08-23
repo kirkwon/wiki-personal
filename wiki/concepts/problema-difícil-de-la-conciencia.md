@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: concept
 title: El Problema Difícil de la Conciencia
 created: 2026-06-12

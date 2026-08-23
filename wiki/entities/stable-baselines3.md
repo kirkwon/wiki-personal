@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Stable Baselines3
 description: "Stable Baselines3 is an advanced machine learning framework designed to provide robust, efficient, and scalable algorithms for reinforcement learning tasks."
 created: 2026-06-10

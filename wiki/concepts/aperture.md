@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Aperture
 description: "Aperture is the opening in a camera lens that controls how much light enters the camera."

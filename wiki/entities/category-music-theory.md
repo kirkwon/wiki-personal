@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Music Theory
 description: "Category:Music Theory"
 created: 2026-06-10

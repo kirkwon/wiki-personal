@@ -1,5 +1,6 @@
 ---
 source_url: https://example.com/experiment-and-exploration-forms-of-world-disclosure
+date: 2026-05-14
 title: 'Experiment and Exploration: Forms of World-Disclosure – Sönke Ahrens'
 type: note
 created: '2026-05-14'

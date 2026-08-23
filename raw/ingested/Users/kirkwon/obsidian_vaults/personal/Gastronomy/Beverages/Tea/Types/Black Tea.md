@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Tea/Typ
   Tea.md
 ingested: 2026-04-24
 sha256: 08d36f50e43586fb29ab5a2f16c0493bfa0b3444351250bcdb257a71d56aafbb
+date: 2026-05-14
 title: Black Tea (红茶 - Hóng Chá)
 type: note
 created: '2026-05-14'

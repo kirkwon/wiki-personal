@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 05a3045d912f402e53c6f351eece8ec6693ed3fa464342cf701414ac19a71225
 source_path: Personal Finance/Concepts/I Will Teach You to Be Rich.md
+date: 2026-05-14
 title: I Will Teach You to Be Rich
 type: note
 created: '2026-05-14'

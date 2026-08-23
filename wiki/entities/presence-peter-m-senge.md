@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Presence - Peter M Senge
 description: "Presence - Peter M Senge"
 created: 2026-06-10

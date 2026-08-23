@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: The Alignment Problem - Brian Christian & Tom Griffiths
 description: "--

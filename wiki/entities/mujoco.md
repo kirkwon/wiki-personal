@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: MuJoCo
 description: "MuJoCo (Multi-Joint Dynamics with Contact) is an open-source physics engine designed to simulate complex robotic systems and environments for research in cognitive science and AI."
 created: 2026-06-10

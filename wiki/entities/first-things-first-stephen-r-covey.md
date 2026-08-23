@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: First Things First - Stephen R Covey
 description: "First Things First - Stephen R Covey"
 created: 2026-06-10

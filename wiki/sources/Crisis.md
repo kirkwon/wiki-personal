@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-04-29
 sha256: d4f3c2b1a8e7d6f5c4b3a2e1d0c9f8b7a6e5d4c3b2a1f0e9d8c7b6a5e4f3c2b1a0
+date: 2026-05-14
 title: Crisis Source Summary
 type: note
 created: '2026-05-14'

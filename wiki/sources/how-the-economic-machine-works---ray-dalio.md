@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-05-03
 sha256: 6d179b3c8849e04042d81cb59bad11d1c748c787e5c715656fc5472a97b7bf93
+date: 2026-05-14
 title: How the Economic Machine Works - Ray Dalio
 type: note
 created: '2026-05-14'

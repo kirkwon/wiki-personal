@@ -1,5 +1,6 @@
 ---
 FILE: wiki/concepts/tax-torpedoes-in-retirement.md
+date: 2026-05-14
 title: Tax Torpedoes in Retirement
 type: note
 created: '2026-05-14'

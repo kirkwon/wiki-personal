@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: jazz-scales
 description: "Jazz scales are melodic frameworks used predominantly in jazz music that consist of specific sequences of notes with characteristic intervals, often including chromatic or whole-tone steps to create a."
 created: 2026-06-10

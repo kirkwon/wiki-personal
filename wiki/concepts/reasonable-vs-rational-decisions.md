@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Reasonable vs. Rational Decisions
 description: "--

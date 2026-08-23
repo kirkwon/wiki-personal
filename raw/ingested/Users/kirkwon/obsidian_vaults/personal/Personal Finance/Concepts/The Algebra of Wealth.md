@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Th
   Algebra of Wealth.md
 ingested: 2026-04-24
 sha256: 2d22177acc2ad77e22905a222fbeadd6c1f774d0570552ab871339106f51e40b
+date: 2026-05-14
 title: The Algebra of Wealth
 type: note
 created: '2026-05-14'

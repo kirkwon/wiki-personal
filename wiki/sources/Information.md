@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Information
 description: "Information is framed as a mental model — a conceptual tool for navigating complexity through patterns and relationships."

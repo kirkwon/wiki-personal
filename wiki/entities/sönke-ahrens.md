@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Sönke Ahrens
 description: "Sönke Ahrens on kirjailija, joka tunnetaan erityisesti kirjastaan How to Take Smart Notes nopeusmuistikorttien (Zettelkasten) menetelmästä."

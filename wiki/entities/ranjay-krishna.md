@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Ranjay Krishna
 description: "Ranjay Krishna is an individual with diverse interests spanning cooking, photography, personal finance management, and a keen interest in cognitive science."
 created: 2026-06-10

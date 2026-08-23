@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: note
 title: 📚 Skills Dashboard - Quick Start
 created: 2026-05-14

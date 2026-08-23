@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: af773f6a32d299de13b1e321293e770750b70ff1204d7cb2a9676ae6b1056614
 source_path: Gastronomy/Beverages/Tea/Types/Green Tea.md
+date: 2026-05-14
 title: Green Tea (绿茶 - Lǚ Chá)
 type: note
 created: '2026-05-14'

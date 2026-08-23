@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: 'Step 3: Achieve Commitment'
 description: "Step 3: Achieve Commitment | concept | management, team-dynamics, prescriptive."

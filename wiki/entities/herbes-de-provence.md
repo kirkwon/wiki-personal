@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: herbes-de-provence
 description: "Herbes-de-Provence is a blend of dried herbs commonly used to enhance the flavor profile in Mediterranean cuisine; it typically includes thyme, basil, rosemary, tarragon, savory, marjoram, oregano, an."
 created: 2026-06-10

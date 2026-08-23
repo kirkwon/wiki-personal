@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Illusion of validity
 description: "The Illusion of Validity is the cognitive bias where people overestimate the accuracy of their judgments or predictions based on limited evidence."
 created: 2026-06-10

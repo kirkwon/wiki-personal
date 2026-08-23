@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: martin-parr
 description: "Martin-Parr is a renowned British photographer known for his vibrant street photography that captures the essence of food culture around the world."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Will - Mark Manson
 author: Mark Manson
 year: 2024

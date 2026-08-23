@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Investment Strategy
 description: "An investment strategy is a systematic plan designed to allocate assets across various financial instruments with the aim of achieving specific financial goals while managing risk levels."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Prisoner's Dilemma
 description: "Prisoner's Dilemma | concept | mental-models, game-theory, strategic-thinking."

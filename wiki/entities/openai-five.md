@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: OpenAI Five
 description: "OpenAI Five refers to the AI system developed by OpenAI that played real-time, competitive video games against human opponents in Dota 2, a complex strategy game requiring strategic thinking and adapt."
 created: 2026-06-10

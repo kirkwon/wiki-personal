@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: a226f1e3ebe4e509d7f36e4868f47eb92fb899c9ec86e05fe10e0915bc900669
 source_path: Music Theory & Jazz/miles-davis.md
+date: 2026-05-14
 title: Miles Davis
 type: note
 created: '2026-05-14'

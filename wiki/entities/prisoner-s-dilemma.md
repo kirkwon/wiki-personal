@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: prisoner-s-dilemma
 description: "The prisoner-dilemma is a fundamental concept in game theory where two individuals must choose between cooperation or betrayal without knowing the other's choice, often leading to suboptimal outcomes."
 created: 2026-06-10

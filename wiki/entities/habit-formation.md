@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: habit-formation
 description: "Habit-formation is the process by which new behaviors become automatic through repetition over time."
 created: 2026-06-10

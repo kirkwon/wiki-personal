@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Explainable AI
 description: "Explainable AI (XAI) refers to artificial intelligence systems designed with transparency in mind, allowing users to understand the decision-making process of algorithms."
 created: 2026-06-10

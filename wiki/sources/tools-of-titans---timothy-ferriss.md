@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Tools of Titans - Timothy Ferriss
 description: "Mastering peak performance through habits, routines, and actionable strategies for life's biggest challenges."

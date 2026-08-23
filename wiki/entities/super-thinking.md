@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Super Thinking
 description: "Super Thinking is an advanced cognitive approach that enhances problem-solving skills across various domains such as cooking (creative recipe development), photography (visual composition mastery), pe."
 created: 2026-06-10

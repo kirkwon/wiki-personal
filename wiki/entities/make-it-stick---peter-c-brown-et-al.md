@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Make It Stick - Peter C. Brown et al.
 description: "--

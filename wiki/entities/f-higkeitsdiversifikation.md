@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Skill Diversification"
 description: "Fähigkeitsdiversifikation"
 created: 2026-06-10

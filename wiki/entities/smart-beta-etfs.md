@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Smart Beta ETFs
 description: "Smart Beta ETFs are investment funds that aim to outperform market benchmarks by using alternative index construction rules based on factors like size, value, momentum, or quality, rather than solely."
 created: 2026-06-10

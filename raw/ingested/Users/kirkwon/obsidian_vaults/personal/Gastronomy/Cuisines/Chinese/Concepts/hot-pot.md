@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Chinese/Concepts/hot-pot.md
 ingested: 2026-04-24
 sha256: e2a7e76874e5b88d5f027cf1ad6dcb820f3f823b5ba51860423d63cc1ad52416
+date: 2026-05-14
 title: Hot Pot
 type: note
 created: '2026-05-14'

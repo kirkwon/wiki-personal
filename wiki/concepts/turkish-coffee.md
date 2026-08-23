@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Turkish Coffee
 description: "Turkish coffee is a traditional brewing method originating from Turkey that involves finely ground coffee beans boiled in a pot with water and often sugar, without filtering the grounds."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: chuck
 description: "In cooking, 'chuck' refers to the shoulder cut of beef, known for its rich flavor and connective tissue that renders into gelatin during slow cooking."
 created: 2026-06-10

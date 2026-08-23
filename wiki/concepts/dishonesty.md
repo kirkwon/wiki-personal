@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Dishonesty
 description: "Dishonesty is a mental model and conceptual tool for understanding how people self-deceive, rationalize dishonest behavior, and maintain a gap between their stated values and actual actions."

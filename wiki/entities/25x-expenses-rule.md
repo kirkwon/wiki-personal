@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: 25x Expenses Rule
 description: "The '25x Expenses Rule' is a guideline suggesting that individuals should limit non-essential spending to not more than 25% of their monthly income."
 created: 2026-06-10

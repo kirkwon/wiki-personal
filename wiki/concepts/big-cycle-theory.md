@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Big Cycle Theory
 description: "Big Cycle Theory is Ray Dalio's framework for understanding the long-term rise and decline of empires, nations, and economic systems."

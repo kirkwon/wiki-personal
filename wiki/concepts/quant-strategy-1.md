@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Quant Strategy
 description: "Rational decision-making frameworks applied to quantitative domains (e.g., algorithmic trading)."

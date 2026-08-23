@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Influence Diagrams
 description: "An Influence Diagram is a graphical representation that illustrates the relationships among variables (factors), decisions, and uncertainties within a system."
 created: 2026-06-10

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 34b7c6adfb8442bee3aaa811fd9e73b9b54fc498b5501cd777018e27349c9afe
 source_path: Gastronomy/Cuisines/Mexican/Concepts/mole.md
+date: 2026-05-14
 title: Mole
 type: note
 created: '2026-05-14'

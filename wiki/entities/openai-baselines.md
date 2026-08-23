@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: OpenAI Baselines
 description: "OpenAI Baselines refers to a collection of machine learning frameworks provided by OpenAI that are optimized for efficiency and ease of use in research and development."
 created: 2026-06-10

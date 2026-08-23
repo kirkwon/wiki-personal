@@ -2,6 +2,7 @@
 source_url: https://example.com/article
 ingested: 2026-04-29
 sha256: 0
+date: 2026-05-14
 title: Feedback loop design
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Amos Tversky
 description: "Amos Tversky was an Israeli psychologist renowned for his work on human judgment and decision making, particularly in the field of cognitive science."
 created: 2026-06-10

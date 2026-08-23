@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: World mental model
 description: "A world mental model is an individual's internal representation of how various aspects of the world interconnect, including cooking techniques, photographic composition principles, personal financial."
 created: 2026-06-10

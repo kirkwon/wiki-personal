@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Statistics
 description: "Statistics is the science of collecting, analyzing, interpreting, and presenting data to uncover patterns, trends, and relationships that inform decision-making in various domains such as cooking (rec."
 created: 2026-06-10

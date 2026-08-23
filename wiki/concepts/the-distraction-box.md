@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: The Distraction Box
 description: "A tool to minimize focus drift and optimize deep work through structured distraction management."
 created: 2026-05-03

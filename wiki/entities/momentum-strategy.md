@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Momentum Strategy
 description: "A Momentum Strategy involves capitalizing on trends by investing in assets that are gaining popularity or value rapidly."
 created: 2026-06-10

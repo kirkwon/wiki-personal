@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Profit as Mental Model
 created: 2026-04-29

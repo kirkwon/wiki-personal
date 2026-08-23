@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Vertical Spread
 description: "Vertical Spread είναι μια στρατηγική όπου αγοράζω option σε ένα strike και πωλώ option σε διαφορετικό strike με το ίδιο expiration."

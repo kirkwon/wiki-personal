@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Recipe: Perfect Stir-Fry"
 description: "Recipe: Perfect Stir-Fry"
 created: 2026-06-10

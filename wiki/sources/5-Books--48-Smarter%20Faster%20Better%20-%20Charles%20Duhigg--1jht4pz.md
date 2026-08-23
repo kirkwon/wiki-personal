@@ -1,4 +1,5 @@
 ---
+date: 2026-06-07
 type: source
 title: "Source: Books/Smarter Faster Better - Charles Duhigg.md"
 description: "Source: Books/Smarter Faster Better - Charles Duhigg.md"

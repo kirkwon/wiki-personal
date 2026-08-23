@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: P/E Ratio
 description: "Price-to-Earnings ratio, measuring the market price per share relative to earnings per share."

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Creative Log
 description: "Creative Log. A structured habit for capturing ideas, observations, and sparks of creativity before they fade away."

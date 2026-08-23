@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/YouTube-Watch-Later-Fixed.md
 ingested: 2026-04-24
 sha256: c1221205b2d333c89e64c7de339b8199f74d4e1bf2c3e34d73da07496679fcf5
+date: 2026-05-14
 title: YouTube Watch Later Playlist
 type: note
 created: '2026-05-14'

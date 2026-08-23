@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: North Beach
 description: "North Beach is an iconic San Francisco neighborhood known for its vibrant culinary scene, offering diverse dining experiences from upscale restaurants to casual eateries."
 created: 2026-06-10

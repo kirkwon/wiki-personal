@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Leaders Eat Last - Simon Sinek
 created: 2026-04-29

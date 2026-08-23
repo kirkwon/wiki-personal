@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: skill
 title: Skills Dashboard - Now with Actionable Skills!
 created: 2026-05-14

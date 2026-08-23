@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Momentum Crashes
 description: "Momentum crashes are sudden, sharp reversals where momentum stocks underperform dramatically."

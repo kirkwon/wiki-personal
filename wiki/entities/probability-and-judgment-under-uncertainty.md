@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Probability and judgment under uncertainty
 description: "Probability and judgment under uncertainty"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: generalization-in-problem-solving
 description: "generalization-in-problem-solving"
 created: 2026-06-10

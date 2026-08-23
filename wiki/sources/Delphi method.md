@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-04-29
 sha256: a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456
+date: 2026-05-14
 title: Delphi method (skill)
 type: note
 created: '2026-05-14'

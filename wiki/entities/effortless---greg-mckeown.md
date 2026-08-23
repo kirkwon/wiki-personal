@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Effortless - Greg McKeown
 created: 2026-04-29

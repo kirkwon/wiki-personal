@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Memphis BBQ
 description: "Memphis BBQ centers on pork ribs with a heavy dry rub and optional sweet sauce glaze."

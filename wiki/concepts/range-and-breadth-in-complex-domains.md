@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Range and Breadth in Complex Domains
 description: "Range and Breadth in Complex Domains | concept | decision-making, learning, mental-models."

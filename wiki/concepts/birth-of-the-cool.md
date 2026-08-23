@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Birth of the Cool
 description: "Birth of the Cool refers to the 1949-1950 nonet recordings that defined the cool jazz movement."

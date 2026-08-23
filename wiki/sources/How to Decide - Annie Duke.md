@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: "How to Decide by Annie Duke (2024)"
 created: 2026-05-03

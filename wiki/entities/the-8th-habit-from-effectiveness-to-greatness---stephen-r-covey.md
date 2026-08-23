@@ -1,8 +1,10 @@
 ---
+
+date: 2026-04-18
 type: entity
 title: 'The 8th Habit: From Effectiveness to Greatness'
-description: "-
-The 8th Habit: From Effectiveness to Greatness"
+description: "-"
+The 8th Habit: From Effectiveness to Greatness""
 created: 2026-04-18
 updated: 2026-05-10
 tags:
@@ -30,6 +32,7 @@ related:
 - the-infinite-game---simon-sinek
 - grit-the-power-of-passion-and-perseverance---angela-duckworth
 - growth-mindset
+
 ---
 -
 # The 8th Habit: From Effectiveness to Greatness

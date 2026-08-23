@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Smoke Infusion in Wok Cooking (锅中的烟熏渗透)
 description: "--

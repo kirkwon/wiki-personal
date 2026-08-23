@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Habit of Trust
 description: "The reliable practice of demonstrating dependability and integrity within a relationship."

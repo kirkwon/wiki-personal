@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: query
 title: "Problema Difícil de la Conciencia"
 description: "Problema Difícil de la Conciencia"

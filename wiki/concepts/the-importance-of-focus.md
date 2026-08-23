@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Importance of Focus
 description: "The Importance of Focus"

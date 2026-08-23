@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Local Interests
 description: "Local interests refer to the specific hobbies or areas of expertise that an individual pursues within their immediate environment or community context."
 created: 2026-06-10

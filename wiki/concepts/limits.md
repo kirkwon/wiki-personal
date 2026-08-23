@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Limits
 description: "Limits is a conceptual tool or principle that helps understand and navigate complex situations."

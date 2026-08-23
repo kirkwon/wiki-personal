@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Brain (Mental Model)
 description: "A structured framework or concept used to understand complex systems and predict outcomes."

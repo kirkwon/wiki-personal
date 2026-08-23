@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: fusilli
 description: "Fusilli is an Italian pasta shape characterized by its corkscrew design, which allows it to hold sauces effectively due to increased surface area."
 created: 2026-06-10

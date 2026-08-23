@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: stir-fry
 description: "Stir-fry is a cooking technique originating from Chinese cuisine where ingredients are quickly fried in a small amount of very hot oil while being stirred continuously over high heat."
 created: 2026-06-10

@@ -2,6 +2,7 @@
 source_url: ''
 ingested: 2026-05-03
 sha256: b8a6110c1e6a4af724f1263ae46378277309380f6082b6703283717073040f1a
+date: 2026-05-14
 title: Out of Control - Kevin Kelly
 type: note
 created: '2026-05-14'

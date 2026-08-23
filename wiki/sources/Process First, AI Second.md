@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: summary
 title: Process First, AI Second
 created: 2026-04-29

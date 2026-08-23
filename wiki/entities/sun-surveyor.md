@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sun Surveyor
 description: "The Sun Surveyor is an astronomical mission designed to map the heliosphere by measuring high-energy particles from the sun."
 created: 2026-06-10

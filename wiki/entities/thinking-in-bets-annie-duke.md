@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Thinking in Bets - Annie Duke
 description: "Thinking in Bets - Annie Duke"
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Embracing Change and Uncertainty
 description: "Embracing Change and Uncertainty: Developing resilience and adaptability when faced with unpredictable environments."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Baker Beach
 description: "Baker Beach is a picturesque coastal location known for its stunning sunsets and golden sands, making it an ideal spot for photography enthusiastms seeking natural beauty to capture."
 created: 2026-06-10

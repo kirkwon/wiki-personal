@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Trend Following
 description: "Trend following is an investment strategy that involves buying or selling assets based on their price trends to capitalize on market movements."
 created: 2026-06-10

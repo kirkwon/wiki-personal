@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: source
 title: "Investigación: Agregar referencias cruzadas a conceptos/algoritmo-de-intuición.md"
 created: 2026-06-12

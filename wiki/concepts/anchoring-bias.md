@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Anchoring Bias
 description: "Anchoring bias is the tendency to rely too heavily on the first piece of information encountered when making decisions or estimates."

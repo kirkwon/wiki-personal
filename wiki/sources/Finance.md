@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Finance
 description: "Finance is positioned as a conceptual tool or universal mental model for navigating complex situations by recognizing patterns and relationships."

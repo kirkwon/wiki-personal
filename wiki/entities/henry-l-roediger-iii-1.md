@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Henry L. Roediger III
 description: "Henry L. Roediger III"
 created: 2026-06-10

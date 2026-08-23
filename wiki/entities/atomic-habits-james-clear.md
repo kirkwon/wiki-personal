@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Atomic Habits - James Clear
 description: "Atomic Habits - James Clear"
 created: 2026-06-10

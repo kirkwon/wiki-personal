@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: David Allen
 description: "David Allen is an expert in productivity methodologies with a focus on the Getting Things Done (GTD) system, which he developed to enhance personal organization and efficiency."
 created: 2026-06-10

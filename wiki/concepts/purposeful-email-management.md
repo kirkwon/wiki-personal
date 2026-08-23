@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Purposeful Email Management
 description: "Purposeful Email Management | concept | productivity, technology, communication."

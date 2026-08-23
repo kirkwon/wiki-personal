@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Cognitive Science & Decisions/decision-making-frameworks.md
 ingested: 2026-04-24
 sha256: ed88ea9013308b4e1ebd46c65a78530c48655ba860b208c118cdcb204b316126
+date: 2026-05-14
 title: Decision-Making Frameworks
 type: note
 created: '2026-05-14'

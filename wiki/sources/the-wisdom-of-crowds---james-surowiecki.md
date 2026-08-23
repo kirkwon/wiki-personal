@@ -2,6 +2,7 @@
 source_url: ''
 ingested: 2026-05-03
 sha256: 347ae004058dcc6244a85867fec24b4504406fa1d663c7dd7b5980bfb50d45b1
+date: 2026-05-14
 title: The Wisdom of Crowds - James Surowiecki
 type: note
 created: '2026-05-14'

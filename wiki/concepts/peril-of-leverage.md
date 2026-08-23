@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Peril of Leverage
 description: "Financial leverage amplifies both gains and losses in unpredictable markets due to randomness and uncertainty."

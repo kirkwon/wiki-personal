@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: The Response Expectation
 created: 2026-05-03
 updated: 2026-05-03

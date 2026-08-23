@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Overconfidence and Certainty
 description: "The cognitive bias of believing one's own judgment is superior, leading to poor risk assessment."

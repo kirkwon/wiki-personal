@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Precision vs. Power Conflict
 description: "Precision vs. Power Conflict"

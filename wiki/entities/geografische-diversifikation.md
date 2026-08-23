@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Geografische-Diversifikation
 description: "Geografische-Diversifikation"
 created: 2026-06-10

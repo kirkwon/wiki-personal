@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Coffee
 description: "Coffee is a brewed beverage made from roasted coffee beans, the seeds of berries from certain Coffea species."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Lateral Thinking_ Creativity Step by Step - Edward de Bono
 author: Edward de Bono
 year: 2024

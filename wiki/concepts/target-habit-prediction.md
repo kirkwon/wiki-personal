@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Target Habit Prediction
 description: "Predicting future behaviors by analyzing current patterns and identifying key habit triggers."

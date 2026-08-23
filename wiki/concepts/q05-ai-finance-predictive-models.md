@@ -2,6 +2,7 @@
 tags: [permanent-question, research, ai-finance]
 created: 2026-05-25
 question: "How can modern AI add to predictive models that incorporate: risk (VaR, CVaR), options (greek exposure, implied vol surfaces), volume/order book, cyclical patterns (seasonality, macro cycles), and behavioral/irrational behavior? What's the gap between academic finance ML and practitioner use?"
+date: 2026-05-25
 type: permanent-question
 description: "Q05: AI + Finance Predictive Models"
 reviewed: 2026-05-25

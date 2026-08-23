@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Paradox of choice
 description: "The Paradox of Choice refers to the phenomenon where an overabundance of options leads to decision paralysis, increased anxiety, and potential dissatisfaction with choices made due to perceived missed."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Ego Is the Enemy - Ryan Holiday
 created: 2026-05-03

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: The 4% Rule
 description: "A widely used retirement withdrawal guideline stating that you can safely withdraw 4% of your portfolio annually in retirement without running out of money over a 30-year period."

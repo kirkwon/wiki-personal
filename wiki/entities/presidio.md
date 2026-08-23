@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Presidio
 description: "A Presidio is a fortified base historically used by military forces to control territories or protect strategic locations."
 created: 2026-06-10

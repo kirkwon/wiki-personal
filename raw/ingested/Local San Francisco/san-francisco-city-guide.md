@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 7b1d76c43f7c3d9e0a123b1ed55860401c782339032a9b6cd68fe0fdfae9b014
 source_path: Local San Francisco/san-francisco-city-guide.md
+date: 2026-05-14
 title: San Francisco City Guide
 type: note
 created: '2026-05-14'

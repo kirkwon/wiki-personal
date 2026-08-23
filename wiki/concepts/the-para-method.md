@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The PARA Method
 description: "The PARA Method is a digital organization framework developed by Tiago Forte that categorizes all information and actions into four buckets: [[projects]], [[areas]], [[resources]], and [[archives]]."

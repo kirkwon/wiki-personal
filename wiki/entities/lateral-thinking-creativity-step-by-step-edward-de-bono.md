@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Lateral Thinking_ Creativity Step by Step - Edward de Bono
 description: "Lateral Thinking_ Creativity Step by Step - Edward de Bono"
 created: 2026-06-10

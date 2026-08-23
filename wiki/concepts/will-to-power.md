@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Will to Power
 description: "Nietzsche's concept of the fundamental drive behind all human action."

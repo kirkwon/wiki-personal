@@ -9,6 +9,7 @@ tags:
 - technique
 - equipment
 - beverages
+date: 2026-04-24
 title: Pour Over Coffee
 type: concept
 updated: 2026-05-09

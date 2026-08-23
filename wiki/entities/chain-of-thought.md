@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Chain‑of‑Thought
 description: "A Chain-of-Thought is the sequential process of logical reasoning or decision making where each step builds upon the previous one to reach a conclusion or solve a problem."
 created: 2026-06-10

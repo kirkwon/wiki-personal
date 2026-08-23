@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Habits
 description: "Habits is a universal mental model—a conceptual tool for making sense of patterns and relationships in complex situations."

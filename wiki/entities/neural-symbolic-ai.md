@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Neural-Symbolic AI
 description: "Neural-Symbolic AI is an interdisciplinary approach that combines neural networks' pattern recognition capabilities with symbolic logic to enhance machine understanding of complex concepts."
 created: 2026-06-10

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 8e335c4d407fc0e4a3ffc1e5e7eeceb40040692a79f1502f9317fa124f61acd0
 source_path: Personal Finance/Concepts/Alternative Investments.md
+date: 2026-05-14
 title: Alternative Investments
 type: note
 created: '2026-05-14'

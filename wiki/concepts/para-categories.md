@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: PARA Categories
 description: "The PARA Method organizes digital information into four distinct categories, each serving a different purpose in managing your digital life."

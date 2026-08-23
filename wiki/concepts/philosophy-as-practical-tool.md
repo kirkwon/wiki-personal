@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Philosophy as Practical Tool
 description: "Philosophy as Practical Tool | concept | philosophy, stoicism, self-improvement."

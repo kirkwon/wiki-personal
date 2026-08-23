@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Mindset Theory
 description: "The belief that abilities and intelligence can be developed through effort and learning."

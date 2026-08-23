@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Fallacy of the single cause
 description: "Fallacy of the single cause"
 created: 2026-06-10

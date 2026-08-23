@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Grit - Angela Duckworth (Book Summary)
 description: "Perseverance and passion drive success; grit is the key to achieving long-term goals."

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 0ab6029f81d262efefa1618364d9da923787c7aec8365cf47b46884ca42bcd37
 source_path: Gastronomy/Beverages/Tea/Types/Pu-erh Tea.md
+date: 2026-05-14
 title: Pu-erh Tea (普洱茶 - Pǔ'ěr Chá)
 type: note
 created: '2026-05-14'

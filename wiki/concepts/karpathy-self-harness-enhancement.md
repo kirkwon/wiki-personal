@@ -1,4 +1,5 @@
 ---
+date: 2026-06-11
 type: concept
 title: Karpathy‑Enhanced Self‑Harness
 created: 2026-06-11

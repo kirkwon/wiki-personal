@@ -1,4 +1,5 @@
 ---
+date: 2026-08-02
 type: concept
 title: Architecture As Code
 created: 2026-08-02

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Alignment Problem - Brian Christian & Tom Griffiths
 author: Brian Christian & Tom Griffiths
 year: 2024

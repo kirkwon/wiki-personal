@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Domestic Asset Protection Trust (DAPT)
 description: "--

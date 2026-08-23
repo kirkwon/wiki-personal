@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: I Will Teach You to Be Rich
 description: "--

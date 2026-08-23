@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: In-group out-group bias
 description: "In-group out-group bias"
 created: 2026-06-10

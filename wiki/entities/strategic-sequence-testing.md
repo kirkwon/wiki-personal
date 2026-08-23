@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Strategic sequence testing
 description: "Strategic sequence testing"
 created: 2026-06-10

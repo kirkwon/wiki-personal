@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Grandview Park
 description: "Grandview Park is an urban green space renowned for its scenic vistas and diverse flora, making it an ideal location for photography enthusiastms to capture nature's beauty."
 created: 2026-06-10

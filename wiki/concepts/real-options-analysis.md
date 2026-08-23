@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Real Options Analysis
 description: "Real Options Analysis | concept | decision-making, mental-models, strategy."
 created: 2026-05-03

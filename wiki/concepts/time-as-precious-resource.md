@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Time as a Precious Resource
 description: "Time as a Precious Resource"

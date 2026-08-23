@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: mean-reversion
 description: "Mean reversion is the financial theory suggesting that asset prices and returns eventually move back towards their historical average over time."
 created: 2026-06-10

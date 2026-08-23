@@ -2,6 +2,7 @@
 source_url: ''
 ingested: 2026-04-29
 sha256: ''
+date: 2026-05-14
 title: Judgment Source Summary
 type: note
 created: '2026-05-14'

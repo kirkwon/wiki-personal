@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Man's Search for Meaning
 description: "Man's Search for Meaning"
 created: 2026-06-10

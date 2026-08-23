@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Templates/Resource.md
 ingested: 2026-04-24
 sha256: d1c45a27258b74aa27fbc7ecb703a4c86820e89c5d8a8f550c222620e8cef7d8
+date: 2026-05-14
 title: '{{title}}'
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Tunnel vision
 description: "Tunnel vision refers to the cognitive phenomenon where an individual focuses intensively on one specific area or task while neglecting others."
 created: 2026-06-10

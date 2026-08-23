@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Taiteellinen kokeilu
 description: "Exploring creative boundaries and developing new forms through artistic trial and error."

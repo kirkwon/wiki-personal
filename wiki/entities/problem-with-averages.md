@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Problem with averages
 description: "Problem with averages"
 created: 2026-06-10

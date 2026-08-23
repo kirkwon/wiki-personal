@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Evolution of Cooperation
 description: "The historical development of cooperative behavior, often modeled by game theory."

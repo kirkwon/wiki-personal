@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: cooking-techniques-categories
 description: "cooking-techniques-categories"
 created: 2026-06-10

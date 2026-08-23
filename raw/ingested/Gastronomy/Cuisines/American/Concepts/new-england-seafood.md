@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: b36788aa7b5fdf40d1661cdb62f856c4f24edeb2c162586c4166119e6c8ef177
 source_path: Gastronomy/Cuisines/American/Concepts/new-england-seafood.md
+date: 2026-05-14
 title: New England Seafood
 type: note
 created: '2026-05-14'

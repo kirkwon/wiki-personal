@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Hyung Won Chung
 description: "Dr. Hyung Won Chung is an interdisciplinary expert with notable contributions to cooking through his culinary innovations, photography via capturing food aesthetics, personal finance by developing bud."
 created: 2026-06-10

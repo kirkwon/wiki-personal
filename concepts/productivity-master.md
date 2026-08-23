@@ -1,4 +1,5 @@
 ---
+date: 2026-07-15
 type: concept
 title: Productivity Master
 created: 2026-07-15

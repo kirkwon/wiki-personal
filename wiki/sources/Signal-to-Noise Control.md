@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: summary
 title: Signal-to-Noise Control
 created: 2026-04-29

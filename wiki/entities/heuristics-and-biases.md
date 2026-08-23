@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Heuristics and Biases
 description: "Heuristics and Biases"
 created: 2026-06-10

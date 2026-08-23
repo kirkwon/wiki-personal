@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Chinese/Concepts/cantonese-cuisine.md
 tags:
 - general
+date: 2026-04-24
 title: Cantonese Cuisine
 type: query
 updated: '2026-04-24'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Golden Gate Bridge
 description: "The Golden Gate Bridge is an iconic suspension bridge spanning the Golden Gate strait between San Francisco and Marin County in California."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: the-power-of-timing
 description: "The power of timing refers to the strategic use of moments or intervals to optimize outcomes across various domains."
 created: 2026-06-10

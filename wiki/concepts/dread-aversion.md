@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Dread Aversion
 description: "Dread aversion describes the anticipatory anxiety and disproportionate aversion people feel toward negative outcomes they expect to experience over time."

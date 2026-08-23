@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 9c371ce4b205e8d7742256c92a6d7131678014c626d6bff174c4404921ada282
 source_path: Music Theory & Jazz/bebop.md
+date: 2026-05-14
 title: Bebop
 type: note
 created: '2026-05-14'

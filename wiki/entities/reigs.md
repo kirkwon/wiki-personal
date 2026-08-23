@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: REIGs
 description: "Registered Education Investment Groups (REIGs) are investment vehicles that pool resources from multiple individuals to fund educational programs or courses with a focus on skill development in areas."
 created: 2026-06-10

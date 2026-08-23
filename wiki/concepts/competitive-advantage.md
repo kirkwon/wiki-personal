@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Competitive Advantage
 description: "A unique capability or resource that allows a company to outperform its rivals consistently."

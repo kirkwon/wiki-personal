@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Stillness Is the Key - Ryan Holiday
 author: Ryan Holiday
 year: 2024

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Chinese Tea Ceremony
 description: "The Chinese Tea Ceremony is an intricate ritual involving the precise preparation, serving, and presentation of tea, emphasizing respect for guests, tranquility, and aesthetic appreciation."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 type: concept
 title: Digital Note-Taking Systems
 description: "Digital Note-Taking Systems

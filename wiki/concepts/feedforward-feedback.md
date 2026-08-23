@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Feedforward Feedback
 description: "Feedforward Feedback. Proactive feedback given before an action or event occurs, helping individuals prevent future mistakes."

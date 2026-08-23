@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Alcatraz Island
 description: "Alcatraz Island is a former federal prison located on an island in San Francisco Bay, California."
 created: 2026-06-10

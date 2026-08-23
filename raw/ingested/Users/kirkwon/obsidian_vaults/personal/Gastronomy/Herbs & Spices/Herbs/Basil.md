@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Herbs & Spices/Herbs/Basil.md
 ingested: 2026-04-24
 sha256: 90320626bfc3838245609e618737fd43850f75ac3e5720cbc68986371df8a354
+date: 2026-05-14
 title: Basil (Ocimum basilicum)
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-08-02
 type: concept
 title: Flask Migrate Migrations
 created: 2026-08-02

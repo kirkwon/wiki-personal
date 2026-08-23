@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 96486293420a281bc9b5f53eb7399109ceef1c9fe2516e86177e4001ee5c67bd
 source_path: Settings/MIGRATION_PLAN.md
+date: 2026-05-14
 title: Personal Vault Content Migration Plan
 type: note
 created: '2026-05-14'

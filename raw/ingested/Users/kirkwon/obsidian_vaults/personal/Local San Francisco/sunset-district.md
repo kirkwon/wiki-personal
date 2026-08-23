@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Local San Francisco/sunset-district.md
 ingested: 2026-04-24
 sha256: fcc3071c1863ca5b231499ceefcfc6b1080a1c6f343e29deaa70260ff0d25be4
+date: 2026-05-14
 title: Sunset District
 type: note
 created: '2026-05-14'

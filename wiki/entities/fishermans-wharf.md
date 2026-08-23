@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Fisherman's Wharf
 created: 2026-04-24

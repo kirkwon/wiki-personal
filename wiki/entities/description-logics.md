@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Description Logics
 description: "Description Logics (DL) are formal frameworks used to represent knowledge about concepts within domains, similar to defining ingredients in recipes for cooking or camera settings for photography."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Allen Newell
 description: "Allen Newell was an American computer scientist and cognitive psychologist who co-founded the field of artificial intelligence with Herbert A."
 created: 2026-06-10

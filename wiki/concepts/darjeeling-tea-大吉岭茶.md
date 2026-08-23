@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - tea
+date: 2026-04-24
 title: Darjeeling Tea (大吉岭茶)
 type: concept
 updated: '2026-04-24'

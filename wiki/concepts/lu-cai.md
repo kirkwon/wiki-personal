@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 鲁菜
 created: 2026-04-24

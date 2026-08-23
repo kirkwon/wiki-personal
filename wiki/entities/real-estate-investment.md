@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Real Estate Investment
 description: "Real Estate Investment"
 created: 2026-06-10

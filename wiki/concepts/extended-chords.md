@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Extended Chords
 description: "Utvidede akkorder er akkorder med forlengelser utover de grunnleggende (tert, kvint, septim)."

@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Social Media Food References.md
 tags:
 - general
+date: 2026-04-24
 title: Social Media Food References
 type: concept
 updated: '2026-04-24'

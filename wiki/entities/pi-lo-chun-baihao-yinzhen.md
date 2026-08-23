@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Pi Lo Chun / Baihao Yinzhen (白毫银针)
 description: "--

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Make Time - Jake Knapp & John Zeratsky
 author: Jake Knapp & John Zeratsky
 year: 2024

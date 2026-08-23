@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: HuggingGPT
 description: "HuggingGPT is an AI model designed to assist with various tasks including recipe creation, photo editing tips, budget planning, and explaining cognitive science concepts in a user-friendly manner."
 created: 2026-06-10

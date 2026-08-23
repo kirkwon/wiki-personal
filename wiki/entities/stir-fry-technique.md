@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Stir-Fry Technique
 description: "The stir-fry technique is a quick cooking method that involves rapidly frying small pieces of food in a hot pan with minimal oil while continuously stirring to ensure even heat distribution and preven."
 created: 2026-06-10

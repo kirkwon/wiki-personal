@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: scroll-amp-ink
 description: "Scroll-Amp-Ink refers to the concept of enhancing visual appeal through creative inking techniques on scrolls or printed materials, which can be applied in cooking for food presentation, photography f."
 created: 2026-06-10

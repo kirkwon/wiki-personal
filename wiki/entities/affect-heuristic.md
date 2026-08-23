@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Affect heuristic
 description: "The affect heuristic is a mental shortcut where our emotions (affect) influence decision-making processes, often leading to judgments based on positive or negative feelings rather than objective analy."
 created: 2026-06-10

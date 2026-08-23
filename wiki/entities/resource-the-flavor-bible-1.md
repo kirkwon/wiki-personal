@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Resource:The Flavor Bible
 description: "Resource:The Flavor Bible"
 created: 2026-06-10

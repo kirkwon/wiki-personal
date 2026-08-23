@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Manager Risk
 description: "Manager risk is the dependence on the skill, expertise, and judgment of investment managers, sponsors, or management teams."

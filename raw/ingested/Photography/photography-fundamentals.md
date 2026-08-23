@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 09b42de316014626a45663938d3fe884fcdebe30fdb95ebb29d6a8621a85e5c4
 source_path: Photography/photography-fundamentals.md
+date: 2026-05-14
 title: Photography Fundamentals
 type: note
 created: '2026-05-14'

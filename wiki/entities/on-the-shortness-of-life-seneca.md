@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: On the Shortness of Life - Seneca
 description: "--

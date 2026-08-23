@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Overconfidence and certainty
 description: "Overconfidence and certainty"
 created: 2026-06-10

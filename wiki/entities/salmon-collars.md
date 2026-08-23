@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Salmon Collars
 description: "[[salmon-collars]] are a cut from the head and collar area of the salmon, prized for their rich fat content and flavor."

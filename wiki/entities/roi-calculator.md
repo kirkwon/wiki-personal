@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: ROI Calculator
 description: "A ROI (Return on Investment) Calculator is a tool used to assess the profitability of an investment by comparing gains or losses relative to its cost."
 created: 2026-06-10

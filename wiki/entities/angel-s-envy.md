@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Angel's Envy
 created: 2026-04-24

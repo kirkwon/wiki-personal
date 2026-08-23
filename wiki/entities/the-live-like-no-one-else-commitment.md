@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: the-live-like-no-one-else-commitment
 description: "the-live-like-no-one-else-commitment"
 created: 2026-06-10

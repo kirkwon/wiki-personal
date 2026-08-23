@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Local Interests/Concepts/Fav
   Restaurants.md
 ingested: 2026-04-24
 sha256: 72cd95c62bc3fcb4f6b6ec1bc0dfa5d51a6db548704d8975376b423c8649fef5
+date: 2026-05-14
 title: Favorite Restaurants
 type: note
 created: '2026-05-14'

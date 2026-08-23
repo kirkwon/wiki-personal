@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: entity
 title: The Habit Loop
 description: "The Habit Loop

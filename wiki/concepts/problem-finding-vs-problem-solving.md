@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Problem Finding vs. Problem Solving
 description: "Problem Finding vs. Problem Solving"

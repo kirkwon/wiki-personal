@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Asymmetric Information and Morality
 created: 2026-05-03

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Emotions and AI
 description: "The study of incorporating emotional understanding and response into AI models."

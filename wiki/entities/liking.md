@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Liking
 description: "In the context of cooking, 'liking' refers to an individual's preference or enjoyment towards certain flavors, ingredients, or culinary techniques."
 created: 2026-06-10

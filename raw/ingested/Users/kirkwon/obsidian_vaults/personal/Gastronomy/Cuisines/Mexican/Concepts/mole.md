@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Mexican/Concepts/mole.md
 ingested: 2026-04-24
 sha256: f5759e8b5a6c04956279bd53483366f70b936bb1fed1deee03036578075ccdff
+date: 2026-05-14
 title: Mole
 type: note
 created: '2026-05-14'

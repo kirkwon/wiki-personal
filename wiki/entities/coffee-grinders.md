@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Coffee Grinders
 description: "A coffee grinder is a device used to crush roasted coffee beans into smaller particles, enhancing the flavor extraction during brewing."
 created: 2026-06-10

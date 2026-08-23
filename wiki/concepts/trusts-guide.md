@@ -7,6 +7,7 @@ tags:
 - trusts
 - wealth-management
 - legal
+date: 2026-04-24
 title: Trusts Guide
 type: concept
 updated: '2026-04-24'

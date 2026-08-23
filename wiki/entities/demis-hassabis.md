@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Demis Hassabis
 description: "Demis Hassabis is the co-founder of DeepMind Technologies, an AI research company known for developing AlphaGo, a computer program that defeated world champion Go players."
 created: 2026-06-10

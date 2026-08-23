@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Critical Thinking
 description: "Critical thinking is the objective analysis and evaluation of an issue to form a judgment."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Getting Things Done - David Allen
 description: "Getting Things Done - David Allen"
 created: 2026-06-10

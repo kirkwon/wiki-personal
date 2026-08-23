@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: the-upside-of-irrationality - dan-ariely
 description: "the-upside-of-irrationality - dan-ariely"
 created: 2026-06-10

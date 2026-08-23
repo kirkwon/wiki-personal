@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: query
 title: "Research: Validation of Mental Models"
 description: "Research: Validation of Mental Models"

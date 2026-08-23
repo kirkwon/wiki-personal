@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Camera Perspective Angles
 created: 2026-04-24

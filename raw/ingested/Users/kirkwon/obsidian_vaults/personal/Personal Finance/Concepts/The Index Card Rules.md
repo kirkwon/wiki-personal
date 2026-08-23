@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Th
   Index Card Rules.md
 ingested: 2026-04-24
 sha256: f1efceb5607683d996a5a1966caea9a49e859b8e08e9d5ce6de20e95d7a05a87
+date: 2026-05-14
 title: The Index Card Rules
 type: note
 created: '2026-05-14'

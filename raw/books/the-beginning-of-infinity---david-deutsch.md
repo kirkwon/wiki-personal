@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Beginning of Infinity - David Deutsch
 author: David Deutsch
 year: 2024

@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Real Estate
   Exchange Strategy.md
 ingested: 2026-04-24
 sha256: 2fc2ce7101054999fc18eda34c22be912844ecd4f6b06cd67dcdfba46f757abc
+date: 2026-05-14
 title: 1031 Exchange Strategy
 type: note
 created: '2026-05-14'

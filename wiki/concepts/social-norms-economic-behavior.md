@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: concept
 title: Social Norms and Economic Behavior
 created: 2026-05-04

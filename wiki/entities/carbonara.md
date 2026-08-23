@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Carbonara
 description: "Carbonara is a classic Roman pasta dish built on just four ingredients: guanciale (cured pork cheek), egg yolks, Pecorino Romano, and black pepper."

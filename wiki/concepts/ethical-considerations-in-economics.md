@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Ethical Considerations in Economics
 description: "Analyzing the intersection of morality, social welfare, and economic policy design."

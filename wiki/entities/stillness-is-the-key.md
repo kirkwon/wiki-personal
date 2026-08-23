@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: stillness-is-the-key
 description: "'Stillness-is-the-key' refers to the principle that achieving focus and precision in various domains—cooking (for technique mastery), photography (to capture moments without blur), personal finance (t."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Quantum Computing and Superposition
 description: "Quantum Computing and Superposition | concept | technology, quantum-computing, decision-making."

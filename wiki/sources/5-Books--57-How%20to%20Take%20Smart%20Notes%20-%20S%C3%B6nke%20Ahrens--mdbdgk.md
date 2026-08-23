@@ -1,4 +1,5 @@
 ---
+date: 2026-06-05
 type: source
 title: "Source: Books/How to Take Smart Notes - Sönke Ahrens.md"
 description: "Source: Books/How to Take Smart Notes - Sönke Ahrens.md"

@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Chinese/Concepts/regional-overview.md
 ingested: 2026-04-24
 sha256: 6197392d84a523f096e6d1a88492771aced845b5fbf475151a0ee1d85331ac90
+date: 2026-05-14
 title: Chinese Regional Cuisines
 type: note
 created: '2026-05-14'

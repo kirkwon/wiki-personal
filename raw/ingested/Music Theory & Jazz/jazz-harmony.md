@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 2bf09a38224f116172c3b7952afd6d3de6bbc68d62cb043ad120af8250c79e68
 source_path: Music Theory & Jazz/jazz-harmony.md
+date: 2026-05-14
 title: Jazz Harmony
 type: note
 created: '2026-05-14'

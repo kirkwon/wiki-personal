@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Chaos Models
 description: "Models of deterministic systems that are highly sensitive to initial conditions — the so-called 'butterfly effect.' Despite being fully deterministic, chaotic systems are effectively unpredictable bey."

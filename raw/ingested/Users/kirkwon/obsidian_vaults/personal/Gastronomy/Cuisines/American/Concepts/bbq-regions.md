@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/American/Concepts/bbq-regions.md
 ingested: 2026-04-24
 sha256: 8233f568e25bfb3ca4b39a6f8cbffb5259aa22c94e9c2ff437b8a911651bd54c
+date: 2026-05-14
 title: BBQ Regions
 type: note
 created: '2026-05-14'

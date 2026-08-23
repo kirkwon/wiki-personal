@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Andrew Zisserman
 description: "Andrew Zisserman is an interdisciplinary expert with notable contributions to computer vision and cognitive science."
 created: 2026-06-10

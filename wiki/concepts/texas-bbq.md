@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Texas BBQ
 description: "Texas BBQ is defined by its beef-focused philosophy, dry rub preparation, and minimal sauce approach."

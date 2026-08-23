@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: concept
 title: Fooled by Randomness
 description: "Fooled by Randomness by Nassim Nicholas Taleb explores how humans systematically misjudge the role of chance and randomness in their lives."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Bond Duration
 description: "A measure of a bond's price sensitivity to interest rate changes."

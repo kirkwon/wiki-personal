@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-14
 title: Personal Knowledge Ecosystem - System Overview
 description: "Main Topic
 A comprehensive personal knowledge management ecosystem built around a wiki-based second brain, featuring automated ingestion pipelines, semantic search via GBrain, custom CLI tools, and 12."

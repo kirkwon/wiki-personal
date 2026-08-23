@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: ENHANCED_FORMAT_PROPOSAL - Unknown
 author: Unknown
 year: 2024

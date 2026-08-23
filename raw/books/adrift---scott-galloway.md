@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Adrift - Scott Galloway
 author: Scott Galloway
 year: 2024

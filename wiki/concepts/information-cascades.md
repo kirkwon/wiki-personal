@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Information Cascades
 description: "When individuals abandon their own data and follow the observed actions of a group."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Nassim Nicholas Taleb
 description: "Nassim Nicholas Taleb"
 type: entity

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Power Law Models
 description: "Models where a few events have large impact and many have small impact."

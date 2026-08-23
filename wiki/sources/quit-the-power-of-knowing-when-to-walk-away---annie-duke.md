@@ -8,6 +8,7 @@ tags:
 - mental-model
 - decision-making
 updated: 2026-05-10
+date: 2026-05-14
 title: 'Quit: The Power of Knowing When to Walk Away - Annie Duke'
 type: note
 created: '2026-05-14'

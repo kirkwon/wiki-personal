@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Signal-to-noise ratio
 description: "Signal-to-noise ratio"
 created: 2026-06-10

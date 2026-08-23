@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Multipliers
 description: "Multipliers is a leadership concept developed by Greg McKeown that identifies two types of leaders: those who multiply the intelligence and capability of their teams, and those who inadvertently dimin."

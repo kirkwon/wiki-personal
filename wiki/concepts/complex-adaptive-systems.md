@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Complex Adaptive Systems (CAS)
 description: "Complex Adaptive Systems (CAS)"

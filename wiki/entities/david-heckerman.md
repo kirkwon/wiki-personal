@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: David Heckerman
 description: "David Heckerman is an accomplished cognitive scientist with expertise in computational neuroscience and machine learning applications to brain function."
 created: 2026-06-10

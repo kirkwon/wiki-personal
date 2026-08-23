@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Bridgewater Associates
 description: "Bridgewater Associates"
 created: 2026-06-10

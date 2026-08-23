@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Effort justification
 description: "Effort justification is the psychological phenomenon where individuals assign greater value to an outcome that required significant effort to achieve."
 created: 2026-06-10

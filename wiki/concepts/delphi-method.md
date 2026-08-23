@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Delphi Method
 description: "The term 'Delphi method' is used in two distinct contexts: as a structured, iterative expert forecasting technique designed to aggregate expert judgments while minimizing social influence, and as a pe."

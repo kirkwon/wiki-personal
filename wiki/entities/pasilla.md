@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: pasilla
 description: "A pasilla is a type of chili pepper with a moderate heat level that can vary in flavor from mild to hot, often used as an ingredient in cooking for its distinct taste profile."
 created: 2026-06-10

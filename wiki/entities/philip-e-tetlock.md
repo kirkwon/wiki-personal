@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Philip E. Tetlock
 description: "Psychologist and researcher known for his work on forecasting accuracy and the Good Judgment Project."

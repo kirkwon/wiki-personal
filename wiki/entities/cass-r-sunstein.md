@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Cass R. Sunstein
 description: "Cass R. Sunstein is an American legal scholar and behavioral economist best known as co-author of [[nudge]] (also Nudge: Improving Decisions About Health, Wealth, and Happiness) with [[richard-h-thale."

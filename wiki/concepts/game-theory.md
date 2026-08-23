@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Game Theory
 description: "Game Theory. A framework for modeling decision-making where the outcome depends on the choices made by multiple interacting agents."

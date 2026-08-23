@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Tieteellinen menetelmä paljastuksen työkaluna
 description: "Tieteellinen menetelmä paljastuksen työkaluna | concept | science, epistemology, methodology."

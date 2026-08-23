@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: The Subtle Art of Not Giving a F*ck - Mark Manson
 description: "--

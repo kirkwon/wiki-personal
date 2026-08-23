@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Herbs & Spices/Index.md
 ingested: 2026-04-24
 sha256: 14bcf05ac6d405224d0a27efdaef61579553c5898760d58261e87e7af7ae6601
+date: 2026-05-14
 title: Herbs & Spices
 type: note
 created: '2026-05-14'

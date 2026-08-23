@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Leaders Eat Last - Simon Sinek
 author: Simon Sinek
 year: 2024

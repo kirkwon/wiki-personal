@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Post-Processing
 description: "Post-processing is the act of editing photos after capture to enhance, correct, and style images."

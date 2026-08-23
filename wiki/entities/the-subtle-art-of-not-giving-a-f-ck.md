@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Subtle Art of Not Giving a F*ck
 description: "The Subtle Art of Not Giving a F*ck"
 created: 2026-06-10

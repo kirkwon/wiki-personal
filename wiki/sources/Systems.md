@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Systems
 description: "This source documents 'Systems' as a universal mental model for understanding and navigating complex situations."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: The (Honest) Truth About Dishonesty - Dan Ariely
 created: 2026-05-03

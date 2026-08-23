@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Building a Second Brain - Tiago Forte
 description: "Building a Second Brain - Tiago Forte"
 created: 2026-06-10

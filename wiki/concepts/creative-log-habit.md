@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Creative Log Habit
 description: "A Creative Log is a habit tool for recording interesting thoughts, observations, and ideas as they occur."

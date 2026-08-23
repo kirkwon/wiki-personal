@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 0d4e14ade7ac29d2633a645bd905a9544742252d53bcb6aef752a3335ffaa6f5
 source_path: Gastronomy/Spirits/Index.md
+date: 2026-05-14
 title: Spirits Index
 type: note
 created: '2026-05-14'

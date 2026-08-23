@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Decision Paralysis
 description: "A state in which an individual is unable to make a decision due to an overwhelming number of options, excessive fear of making the wrong choice, or the belief that more information is needed before co."

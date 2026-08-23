@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Crisis
 description: "Crisis. A major disruptive event that forces rapid adaptation and re-evaluation of priorities and systems."

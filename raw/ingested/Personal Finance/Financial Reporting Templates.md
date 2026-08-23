@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: acab9df772ac0f42226f3b1044c7ad033ba243ab231cbaa389b8fb7a4931ac13
 source_path: Personal Finance/Financial Reporting Templates.md
+date: 2026-05-14
 title: Financial Reporting Templates
 type: note
 created: '2026-05-14'

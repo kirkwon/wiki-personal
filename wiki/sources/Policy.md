@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Policy.md
 description: "This source introduces the mental model of 'Policy' as a conceptual tool for navigating complex situations through pattern and relationship recognition."

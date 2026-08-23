@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Multipliers - Greg McKeown
 author: Greg McKeown
 year: 2024

@@ -2,6 +2,7 @@
 source_url: https://example.com/the-8th-habit-stephen-r-covey
 ingested: 2026-04-18
 sha256: a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b
+date: 2026-05-14
 title: 'The 8th Habit: From Effectiveness to Greatness'
 type: note
 created: '2026-05-14'

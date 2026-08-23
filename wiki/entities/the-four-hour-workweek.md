@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: entity
 title: The Four Hour Workweek
 description: "Redefines work-life balance; advocates for shorter, focused weeks through strategic efficiency and lifestyle design."

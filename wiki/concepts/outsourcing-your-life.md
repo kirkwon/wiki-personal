@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Outsourcing Your Life
 description: "Outsourcing Your Life"

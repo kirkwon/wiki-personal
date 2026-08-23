@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: note
 title: Skills Dashboard Integration - FINAL SUMMARY
 created: 2026-05-14

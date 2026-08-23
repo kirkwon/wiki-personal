@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Physical Space and Culture
 description: "Physical Space and Culture"

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Essence of Flavor - Enhancing Your Dishes
 description: "Master flavor depth and culinary art; elevate dishes with expert techniques and gastronomic insights."

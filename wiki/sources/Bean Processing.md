@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Bean Processing.md
 description: "后处理方法是决定咖啡最终风味、质量的关键因素，不同方法产生截然不同的风味谱系。"

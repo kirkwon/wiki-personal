@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Attack by Stratagem
 description: "The principle that the highest form of generalship is to defeat the enemy without fighting, through superior strategy and maneuvering rather than direct confrontation."

@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Books/Library/Recommended Re
   List.md
 ingested: 2026-04-24
 sha256: 87440990f8cc6d5d961f34302b34ab76c5d88ba444e236b97addb0a1e8f72307
+date: 2026-05-14
 title: Recommended Reading List
 type: note
 created: '2026-05-14'

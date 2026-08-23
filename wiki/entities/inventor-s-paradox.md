@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: inventor-s-paradox
 description: "The inventor's paradox refers to the phenomenon where individuals who excel at creating new ideas or techniques in fields like cooking (culinary innovation) or photography (creative composition), ofte."
 created: 2026-06-10

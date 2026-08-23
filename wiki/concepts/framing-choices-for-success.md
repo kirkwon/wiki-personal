@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Framing Choices for Success
 description: "Framing Choices for Success"

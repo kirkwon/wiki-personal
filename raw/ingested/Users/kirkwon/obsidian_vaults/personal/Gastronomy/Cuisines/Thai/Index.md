@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Thai/Index.md
 ingested: 2026-04-24
 sha256: 77800c8ed8efbc9ec4f21685a8545cbbae2f3e524f4ad71452760bd3fae4ca78
+date: 2026-05-14
 title: Thai Cuisine
 type: note
 created: '2026-05-14'

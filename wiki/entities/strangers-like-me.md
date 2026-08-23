@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Strangers like me
 description: "'Strangers Like Me' is an exploration of the commonalities that unite us despite our diverse backgrounds in cooking, photography, personal finance, and cognitive science."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: A Physicist's History of Bad Philosophy
 description: "A Physicist's History of Bad Philosophy. An examination of flawed philosophical ideas through the rigorous lens of scientific principles."

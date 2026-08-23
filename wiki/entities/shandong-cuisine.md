@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: shandong-cuisine
 description: "Shandong cuisine refers to the traditional culinary practices originating from Shandong Province in China, characterized by its diverse flavors, emphasis on seafood due to coastal proximity, and notab."
 created: 2026-06-10

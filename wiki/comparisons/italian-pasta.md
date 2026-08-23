@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Italian/Concepts/pasta.md
 tags:
 - general
+date: 2026-04-24
 title: Italian Pasta
 type: comparison
 updated: '2026-04-24'

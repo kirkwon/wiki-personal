@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Asset Protection
 description: "Shielding assets from creditors, lawsuits, and divorce through trust structures and legal strategies."

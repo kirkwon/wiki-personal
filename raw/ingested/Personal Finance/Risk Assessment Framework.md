@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 0dff3e2a2ce3d76d807fb0946cebec344ae11b1f51c59365b8f17833ee3863af
 source_path: Personal Finance/Risk Assessment Framework.md
+date: 2026-05-14
 title: Risk Assessment Framework
 type: note
 created: '2026-05-14'

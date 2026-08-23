@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 4264f7172b8484be1410a51ba5984568171b9a2c8b8890d70e58925f812715ca
 source_path: Templates/Concept.md
+date: 2026-05-14
 title: '{{title}}'
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Finance
 description: "Finance is a conceptual tool or universal mental model that helps understand and navigate complex situations."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: entity
 title: David Epstein
 description: "David Epstein is an author and journalist known for The Sports Gene: Inside the Science of Extraordinary Athletic Performance and Range: Why Generalists Triumph in a Specialized World."

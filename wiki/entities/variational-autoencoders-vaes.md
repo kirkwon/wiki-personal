@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Variational Autoencoders (VAEs)
 description: "Variational Autoencoders (VAEs)"
 created: 2026-06-10

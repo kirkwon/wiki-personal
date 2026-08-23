@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Design for Complex Change
 description: "Design for Complex Change"

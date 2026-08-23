@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Gastronomy
 type: concept
 updated: '2026-04-24'

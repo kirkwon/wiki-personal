@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Rotel
 description: "Rotel es una marca de tomates enlatados con chiles verdes, utilizada frecuentemente en la cocina Tex-Mex para preparar salsas y dips, especialmente el chili con queso junto con Velveeta."

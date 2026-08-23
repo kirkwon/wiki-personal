@@ -1,6 +1,7 @@
 ---
 
 
+date: 2026-04-29
 type: concept
 title: "Everything Is F_cked: A Book About Hope - Mark Manson"
 created: 2026-04-29

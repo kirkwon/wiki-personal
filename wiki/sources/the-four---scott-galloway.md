@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: The Four - Scott Galloway
 description: "The Four - Scott Galloway"

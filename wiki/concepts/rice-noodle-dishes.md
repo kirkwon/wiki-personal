@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: rice-noodle-dishes
 created: 2026-06-10
 updated: 2026-06-10

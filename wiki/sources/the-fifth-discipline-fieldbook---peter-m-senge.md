@@ -2,6 +2,7 @@
 source_url: ''
 ingested: 2026-05-03
 sha256: cdc4c09fa7d240e140b2baab81719db4aebbe426f61d0513c37789aed88c1c43
+date: 2026-05-14
 title: The Fifth Discipline Fieldbook - Peter M. Senge
 type: note
 created: '2026-05-14'

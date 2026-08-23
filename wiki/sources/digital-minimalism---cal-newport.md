@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Digital Minimalism - Cal Newport
 description: "Digital Minimalism - Cal Newport"

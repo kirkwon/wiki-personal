@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Disposition Effect
 description: "The disposition effect is a market anomaly in which investors tend to hold losing investments too long and sell winning investments too early."

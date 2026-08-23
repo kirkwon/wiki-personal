@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Rafael Müller
 description: "Rafael Müller is an individual with a diverse set of interests and skills spanning cooking, photography, personal finance management, and cognitive science research."
 created: 2026-06-10

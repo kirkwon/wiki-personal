@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: David.md - David Mental Model
 created: 2026-04-29

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Andrew Barto
 description: "Andrew Barto is an interdisciplinary expert with a background in cognitive science who applies analytical thinking to cooking techniques and recipe development."
 created: 2026-06-10

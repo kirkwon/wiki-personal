@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Reflect on the Day
 description: "Reflect on the Day | concept | productivity, learning, decision-making."
 created: 2026-05-03

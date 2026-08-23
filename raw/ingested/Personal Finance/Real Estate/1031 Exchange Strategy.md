@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 8a208f066ad21cb52f4392850d37a26dee3b44490c1c0ab619c31423eb0f3609
 source_path: Personal Finance/Real Estate/1031 Exchange Strategy.md
+date: 2026-05-14
 title: 1031 Exchange Strategy
 type: note
 created: '2026-05-14'

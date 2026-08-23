@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: Readers
 description: "Readers is a mental model that functions as a conceptual tool for navigating complex situations through reading."
 created: 2026-04-29

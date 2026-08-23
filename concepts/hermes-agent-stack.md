@@ -1,4 +1,5 @@
 ---
+date: 2026-07-01
 type: concept
 title: Hermes Agent Cognitive Stack — Directed Graph
 status: active

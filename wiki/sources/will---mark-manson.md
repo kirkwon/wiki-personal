@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Will - Mark Manson
 created: 2026-05-03

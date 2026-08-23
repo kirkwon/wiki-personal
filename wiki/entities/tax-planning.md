@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: tax-planning
 description: "Tax planning is the strategic approach to arranging financial affairs with the aim of minimizing tax liability within legal boundaries."
 created: 2026-06-10

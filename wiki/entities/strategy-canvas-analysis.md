@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Strategy canvas analysis
 description: "Strategy canvas analysis"
 created: 2026-06-10

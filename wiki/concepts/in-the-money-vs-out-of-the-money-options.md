@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: In-the-Money vs Out-of-the-Money Options
 created: 2026-04-24

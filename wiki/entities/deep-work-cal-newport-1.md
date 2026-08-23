@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: deep-work - Cal Newport
 description: "deep-work - Cal Newport"
 created: 2026-06-10

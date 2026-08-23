@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: First Principles Thinking
 created: 2026-05-03

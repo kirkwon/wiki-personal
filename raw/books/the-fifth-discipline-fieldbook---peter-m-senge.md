@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Fifth Discipline Fieldbook - Peter M. Senge
 author: Peter M. Senge
 year: 2024

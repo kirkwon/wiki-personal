@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Present-Moment Living
 description: "Present-Moment Living | concept | philosophy, mindfulness, stoicism, productivity."

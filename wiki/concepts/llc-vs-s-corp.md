@@ -1,4 +1,5 @@
 ---
+date: 2026-04-22
 type: concept
 title: LLC vs S Corporation
 created: 2026-04-22

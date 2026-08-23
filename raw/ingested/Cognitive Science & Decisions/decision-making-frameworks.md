@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: ad7395a50932e3fd415cdaef0cb94129b709913dea7122477e488b4b0fe25ed9
 source_path: Cognitive Science & Decisions/decision-making-frameworks.md
+date: 2026-05-14
 title: Decision-Making Frameworks
 type: note
 created: '2026-05-14'

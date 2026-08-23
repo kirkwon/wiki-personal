@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Gunpowder Tea (珠茶)
 description: "--

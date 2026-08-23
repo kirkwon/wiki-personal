@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: f32b2ce5eecad719375937370e0de2b7cee6fe59c14e23226c1353b9e68e354e
 source_path: Gastronomy/Concepts/Wok Hei.md
+date: 2026-05-14
 title: Wok Hei
 type: note
 created: '2026-05-14'

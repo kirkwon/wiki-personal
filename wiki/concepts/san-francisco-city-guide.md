@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - local
+date: 2026-04-24
 title: San Francisco City Guide
 type: concept
 updated: '2026-04-24'

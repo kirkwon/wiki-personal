@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Winner'S Curse - Richard Thaler
 author: Richard Thaler
 year: 2024

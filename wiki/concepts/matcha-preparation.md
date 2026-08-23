@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Matcha Preparation
 description: "Matcha preparation involves sifting the fine green tea powder to remove clumps before whisking it with hot water at an optimal temperature (70-80°C) using a bamboo whisk in a precise, circular motion."
 created: 2026-06-10

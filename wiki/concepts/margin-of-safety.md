@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Margin of Safety
 description: "Incorporating extra buffer or redundancy into a plan to protect against unforeseen risks."

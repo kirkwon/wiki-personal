@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Bull Call Spread
 description: "Bull Call Spread είναι ένας τύπος vertical spread όπου αγοράζω κάτω strike call και πωλώ ψηλότερο strike call. Είναι μια στρατηγική με leveraged directional bet και limited risk."

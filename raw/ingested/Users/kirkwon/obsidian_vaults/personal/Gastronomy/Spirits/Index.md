@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Spirits/Index.md
 ingested: 2026-04-24
 sha256: ed746c16e2e0488aa9f5ccc79a9771a3202b7ca3fd14628f8f7538fcef5e56ca
+date: 2026-05-14
 title: Spirits Index
 type: note
 created: '2026-05-14'

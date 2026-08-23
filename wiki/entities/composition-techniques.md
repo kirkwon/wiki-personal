@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Composition Techniques
 description: "Composition Techniques"
 created: 2026-06-10

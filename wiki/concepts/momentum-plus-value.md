@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Momentum + Value
 description: "Combining momentum with value is one of the most robust factor combinations for improving risk-adjusted returns."

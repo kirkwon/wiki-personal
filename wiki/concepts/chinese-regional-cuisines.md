@@ -6,6 +6,7 @@ tags:
 - chinese
 - regional
 - cuisine
+date: 2026-04-24
 title: Chinese Regional Cuisines
 description: "Chinese Regional Cuisines"
 type: concept

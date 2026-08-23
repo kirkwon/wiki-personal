@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Neuroplasticity
 description: "The brain's remarkable ability to reorganize itself by forming new neural connections throughout life."

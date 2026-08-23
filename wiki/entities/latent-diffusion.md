@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Latent Diffusion
 description: "Latent diffusion refers to the gradual spread of ideas or substances without immediate noticeable effects, often becoming apparent only over time."
 created: 2026-06-10

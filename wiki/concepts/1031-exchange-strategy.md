@@ -10,6 +10,7 @@ tags:
 - investment-strategy
 - tax
 - personal-finance
+date: 2026-04-24
 title: 1031 Exchange Strategy
 description: "1031 Exchange Strategy"
 type: concept

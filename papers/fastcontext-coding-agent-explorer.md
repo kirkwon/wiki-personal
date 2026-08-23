@@ -1,4 +1,5 @@
 ---
+date: 2026-06-28
 type: entity
 title: FastContext — Training Efficient Repository Explorer for Coding Agents
 created: 2026-06-28

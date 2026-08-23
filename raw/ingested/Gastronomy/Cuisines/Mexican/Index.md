@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 8aaff274024d275b818a6d6b70a0209ba70e937146612e771ab50fe8cba4a50a
 source_path: Gastronomy/Cuisines/Mexican/Index.md
+date: 2026-05-14
 title: Mexican Cuisine
 type: note
 created: '2026-05-14'

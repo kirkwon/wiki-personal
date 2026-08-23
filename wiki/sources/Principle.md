@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Principle
 description: "This source documents 'Principle' as a mental model—a conceptual tool for navigating complex situations through pattern recognition and relationship analysis."

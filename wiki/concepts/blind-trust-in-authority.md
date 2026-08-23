@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Blind Trust in Authority
 description: "Blind Trust in Authority"
 created: 2026-05-03

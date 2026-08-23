@@ -3,6 +3,7 @@
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "What non-transformer architectures show promise? Energy-based models, neural-symbolic, state space models (Mamba), differentiable logic, Hopfield networks — what's state of art and practical utility?"
+date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
 confidence: 0.25
@@ -537,6 +538,16 @@ _2026-05-25_ — Initial research position
 ### 2026-08-21: WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
 
 ### 2026-08-21: Towards Real-Time and Adaptable LiDAR Scene Completion
+
+### 2026-08-22: TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity
+
+### 2026-08-22: The Embedder's Dilemma: LLMs Are Better, but at What Cost?
+- HF trending paper (arxiv: 2608.12875). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.12875]] | https://huggingface.co/papers/2608.12875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15767). Keywords: probabilistic. Status: pending-review.
+- Source: [[papers/2608.15767]] | https://huggingface.co/papers/2608.15767
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.16490). Keywords: generative model, geometry. Status: pending-review.
 - Source: [[papers/2608.16490]] | https://huggingface.co/papers/2608.16490
 - Confidence: Low (auto-matched, not yet reviewed)

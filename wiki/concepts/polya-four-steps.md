@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Polya's Four-Step Problem-Solving Framework
 created: 2026-05-03

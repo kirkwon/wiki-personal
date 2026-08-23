@@ -1,4 +1,5 @@
 ---
+date: 2026-06-15
 type: concept
 title: Self-Harness Paradigm
 created: 2026-06-15

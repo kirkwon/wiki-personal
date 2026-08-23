@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: ed24f43550d3a8c0dd59c9a20198f84a07ec8ce296f76efcd1e6bb817cbbe6ab
 source_path: Gastronomy/Beverages/Tea/Types/Black Tea.md
+date: 2026-05-14
 title: Black Tea (红茶 - Hóng Chá)
 type: note
 created: '2026-05-14'

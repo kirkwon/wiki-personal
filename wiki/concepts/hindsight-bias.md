@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Hindsight Bias
 description: "Overestimating your ability to predict past events because you now know the outcome."

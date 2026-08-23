@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Daily Stoic - Ryan Holiday
 description: "The Daily Stoic - Ryan Holiday"
 created: 2026-06-10

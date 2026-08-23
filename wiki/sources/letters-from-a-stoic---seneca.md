@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Letters from a Stoic - Seneca
 description: "Letters from a Stoic - Seneca"

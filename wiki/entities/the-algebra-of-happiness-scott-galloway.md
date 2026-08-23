@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Algebra of Happiness - Scott Galloway
 description: "The Algebra of Happiness - Scott Galloway"
 created: 2026-06-10

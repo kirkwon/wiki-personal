@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Procrastination Strategies
 description: "Procrastination Strategies | concept | productivity, time-management, decision-making."

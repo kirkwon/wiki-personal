@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Offline RL (Batch RL)
 description: "Offline RL (Batch RL)"
 created: 2026-06-10

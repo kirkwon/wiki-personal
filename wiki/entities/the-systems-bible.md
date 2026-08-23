@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Systems Bible
 description: "The Systems Bible is an integrated framework that applies systems thinking to understand complex interrelationships across various domains such as cooking (recipe optimization), photography (compositi."
 created: 2026-06-10

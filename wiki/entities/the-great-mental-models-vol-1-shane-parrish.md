@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: The Great Mental Models Vol 1 - Shane Parrish
 created: 2026-04-29

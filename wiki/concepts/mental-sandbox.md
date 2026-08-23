@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Mental Sandbox
 description: "A mental sandbox is a technique for simulating scenarios mentally to explore possibilities, test hypotheses, and anticipate outcomes without real-world risk."

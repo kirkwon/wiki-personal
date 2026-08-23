@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Build-Measure-Learn
 description: "The Build-Measure-Learn feedback loop is the central mechanism of the lean startup methodology."

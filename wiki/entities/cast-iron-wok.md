@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Cast Iron Wok (铸铁锅)
 description: "--

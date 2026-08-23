@@ -1,4 +1,5 @@
 ---
+date: 2026-06-14
 title: Weekly Review 2026-W21
 created: 2026-06-14
 updated: 2026-06-14

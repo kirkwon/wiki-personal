@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Storytelling in communication
 description: "Storytelling in communication"
 created: 2026-06-10

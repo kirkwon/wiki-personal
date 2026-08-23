@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: decision-making frameworks
 description: "decision-making frameworks"
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Pareto Principle
 description: "The principle that roughly 80% of effects come from 20% of causes, emphasizing focus on key drivers."

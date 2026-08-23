@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Cognitive Biases
 description: "Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, often resulting in illogical inferences about other people or situations."
 created: 2026-06-10

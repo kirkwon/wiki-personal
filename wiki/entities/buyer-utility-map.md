@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Buyer utility map
 description: "A Buyer Utility Map is a visual representation that outlines the perceived value of various cooking techniques, photographic styles, financial products, or cognitive strategies to an individual based."
 created: 2026-06-10

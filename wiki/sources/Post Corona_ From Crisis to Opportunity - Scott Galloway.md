@@ -1,8 +1,10 @@
 ---
+
+date: 2026-05-04
 type: source
 title: 'Post Corona: From Crisis to Opportunity'
-description: "--
-Post Corona: From Crisis to Opportunity"
+description: "--"
+Post Corona: From Crisis to Opportunity""
 author: Scott Galloway
 created: 2026-05-04
 updated: 2026-05-04
@@ -17,6 +19,7 @@ tags:
 - nationalism
 sources:
 - Post Corona_ From Crisis to Opportunity - Scott Galloway.md
+
 ---
 --
 # Post Corona: From Crisis to Opportunity

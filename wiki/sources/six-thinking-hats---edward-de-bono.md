@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Six Thinking Hats - Edward de Bono
 description: "A structured thinking tool guiding groups to examine issues from six distinct perspectives."

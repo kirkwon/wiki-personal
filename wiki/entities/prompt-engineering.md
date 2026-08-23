@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Prompt Engineering
 description: "Prompt Engineering is the strategic crafting of questions or instructions to elicit specific responses from AI systems in various domains like cooking (recipe generation), photography (image editing t."
 created: 2026-06-10

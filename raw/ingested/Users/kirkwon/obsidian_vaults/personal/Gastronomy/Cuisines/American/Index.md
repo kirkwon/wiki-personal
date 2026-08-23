@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/American/Index.md
 ingested: 2026-04-24
 sha256: 4dc716ef1dee047e413aed3d7a3458875c5a0e23798cd1111654afdd2cbc586a
+date: 2026-05-14
 title: American Cuisine
 type: note
 created: '2026-05-14'

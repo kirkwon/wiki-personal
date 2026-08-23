@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Martingale Strategy
 description: "A betting strategy where one increases bets after a loss to recoup previous losses."
 created: 2026-05-03

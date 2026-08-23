@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Chinese/Concepts/sichuan-cuisine.md
 ingested: 2026-04-24
 sha256: 95909fb09be675d4f49e92c891a7d26390e4d15275abcd33ae9e6f0d5204f8ec
+date: 2026-05-14
 title: Sichuan Cuisine
 type: note
 created: '2026-05-14'

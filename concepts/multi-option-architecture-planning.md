@@ -1,4 +1,5 @@
 ---
+date: 2026-07-19
 type: concept
 title: Multi Option Architecture Planning
 created: 2026-07-19

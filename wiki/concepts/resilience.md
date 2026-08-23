@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Resilience
 description: "Resilience is both a conceptual tool and a core property of healthy complex adaptive systems."

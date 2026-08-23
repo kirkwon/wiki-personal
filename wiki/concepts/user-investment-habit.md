@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: User Investment Habit
 description: "User Investment Habit"

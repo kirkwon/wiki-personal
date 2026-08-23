@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Semantic Web
 description: "The Semantic Web is an extension of the current web where information is given well-defined meaning, enabling computers and people to work in cooperation."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Tax Optimization
 description: "Tax optimization is the strategic planning of financial activities to minimize tax liability within legal boundaries."
 created: 2026-06-10

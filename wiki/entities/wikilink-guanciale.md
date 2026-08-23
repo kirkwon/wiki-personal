@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "wikilink: guanciale"
 description: "Guanciale is an Italian cured meat product made from pork jowl or cheeks, often used in traditional dishes like pasta carbonara and amatriciana."
 created: 2026-06-10

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: a292786e2ab515be0649bd415485b7b56bce157b15545d7573d95038b9223191
 source_path: Gastronomy/Beverages/Tea/Types/Darjeeling Tea.md
+date: 2026-05-14
 title: Darjeeling Tea (大吉岭茶)
 type: note
 created: '2026-05-14'

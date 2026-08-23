@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Post Corona: From Crisis to Opportunity - Scott Galloway"
 description: "Post Corona: From Crisis to Opportunity - Scott Galloway"
 created: 2026-06-10

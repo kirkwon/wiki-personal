@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: source
 title: "Source: research-mental-models-integration-2026-06-13-065310.md"
 description: "Source: research-mental-models-integration-2026-06-13-065310.md"

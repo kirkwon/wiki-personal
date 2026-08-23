@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 title: Global vs Local Adjustments
 created: 2026-04-24
 updated: 2026-04-24

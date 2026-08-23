@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: ethics-and-decision-making
 description: "ethics-and-decision-making"
 created: 2026-06-10

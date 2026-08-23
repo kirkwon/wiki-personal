@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Russian Hill
 description: "Russian Hill is a historic neighborhood located in San Francisco, known for its steep streets and iconic cable cars."
 created: 2026-06-10

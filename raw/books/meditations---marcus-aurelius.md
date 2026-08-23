@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Meditations - Marcus Aurelius
 author: Marcus Aurelius
 year: 2024

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-11
 type: query
 title: "Personal Wiki Software"
 description: "Personal Wiki Software"

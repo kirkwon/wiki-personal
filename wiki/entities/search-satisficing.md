@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Search satisficing
 description: "Search satisficing is the process of selecting an adequate option from available choices without exhaustively searching for the optimal one."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: emotions-and-intuition-in-decisions
 description: "emotions-and-intuition-in-decisions"
 created: 2026-06-10

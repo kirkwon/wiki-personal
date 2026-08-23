@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Lue kirjailijana
 description: "Treating reading not just as consumption, but as a process of active creation and synthesis."

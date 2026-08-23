@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Shared Purpose Drives Success
 description: "Shared Purpose Drives Success"

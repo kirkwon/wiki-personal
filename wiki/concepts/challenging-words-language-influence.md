@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Challenging Words / Language Influence
 description: "Challenging Words / Language Influence"

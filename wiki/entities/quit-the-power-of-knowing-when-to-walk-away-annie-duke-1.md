@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: quit-the-power-of-knowing-when-to-walk-away - annie-duke
 description: "quit-the-power-of-knowing-when-to-walk-away - annie-duke"
 created: 2026-06-10

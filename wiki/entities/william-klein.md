@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: william-klein
 description: "William Klein was an influential photographer known for his experimental approach to photography, often incorporating elements of surrealism and social commentary into his work."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Regulatory Risk
 description: "Regulatory risk is the potential for changes in laws and regulations to negatively impact the value or viability of alternative investments."

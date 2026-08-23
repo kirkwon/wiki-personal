@@ -1,4 +1,5 @@
 ---
+date: 2026-04-17
 type: concept
 title: Fundamental Theorem of Systems
 created: 2026-04-17

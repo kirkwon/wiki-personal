@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Re
   Planning.md
 ingested: 2026-04-24
 sha256: bdf1e1248dbc78f8d4294c3cca9a75408c23e390c02ceea15db28b1d0cc60e73
+date: 2026-05-14
 title: Retirement Planning
 type: note
 created: '2026-05-14'

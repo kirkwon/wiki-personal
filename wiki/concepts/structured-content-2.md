@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: note
 title: Personal Knowledge Ecosystem - Structured Content
 description: "Personal Knowledge Ecosystem — Structured Content"

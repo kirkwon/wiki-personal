@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Money and Social Status Influence
 description: "Money and Social Status Influence"
 created: 2026-05-03

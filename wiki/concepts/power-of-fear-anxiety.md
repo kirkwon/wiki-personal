@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Power of Fear, Anxiety, and Worry
 description: "Power of Fear, Anxiety, and Worry | concept | psychology, emotion, personal-development."

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Algorithms as Mental Model
 description: "Algorithms as Mental Model. Viewing complex algorithms as structured frameworks for predicting outcomes or solving problems systematically."

@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Photography/street-photography.md
 ingested: 2026-04-24
 sha256: f59c5e889138eaae74bcb2766e7a50d9b097d1f7ee675613d9848c1c42ccaef1
+date: 2026-05-14
 title: Street Photography
 type: note
 created: '2026-05-14'

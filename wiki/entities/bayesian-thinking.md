@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Bayesian thinking
 description: "Bayesian thinking is an approach that uses probability to update beliefs based on new evidence or information."
 created: 2026-06-10

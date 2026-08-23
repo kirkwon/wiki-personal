@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: The Three Essential Questions (What, How, Why)
 description: "The Three Essential Questions (What, How, Why)"
 created: 2026-05-03

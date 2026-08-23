@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Double Taxation
 description: "Double taxation occurs when corporate profits are taxed at the entity level and then again when distributed to shareholders as dividends."

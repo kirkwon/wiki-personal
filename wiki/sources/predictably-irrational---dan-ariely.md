@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Predictably Irrational - Dan Ariely
 description: "Explores why humans make illogical choices using science and everyday examples."

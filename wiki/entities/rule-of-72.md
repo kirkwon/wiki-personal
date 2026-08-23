@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: rule-of-72
 description: "The rule of 72 is a simplified formula used to estimate the number of years required to double an investment at a fixed annual rate of return by dividing 72 by that rate."
 created: 2026-06-10

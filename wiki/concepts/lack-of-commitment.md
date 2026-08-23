@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Lack of Commitment
 description: "The inability to maintain focus or effort on a goal because of fluctuating dedication or interest."

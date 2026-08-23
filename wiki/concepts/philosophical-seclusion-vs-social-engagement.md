@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Philosophical Seclusion vs. Social Engagement
 description: "Philosophical Seclusion vs."

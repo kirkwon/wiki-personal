@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Make It Stick - Peter C. Brown et al.
 description: "Make It Stick - Peter C."

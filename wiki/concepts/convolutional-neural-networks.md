@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 title: Convolutional Neural Networks (CNNs)
 description: "Convolutional Neural Networks (CNNs)"
 type: concept

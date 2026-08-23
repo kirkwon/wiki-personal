@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Crisis as Catalyst for Habit Change
 description: "Crisis as Catalyst for Habit Change. Using periods of extreme stress or change to force beneficial behavioral shifts."

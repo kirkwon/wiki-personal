@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Many Model Thinker
 description: "The Many Model Thinker"

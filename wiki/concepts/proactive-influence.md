@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-18
 type: concept
 title: Proactive Influence
 description: "Acting ethically to drive change and create positive impact, rather than reacting to circumstances."

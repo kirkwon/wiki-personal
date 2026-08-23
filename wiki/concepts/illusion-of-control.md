@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Illusion of Control
 description: "The mistaken belief that you have more control over random events than is actually possible."

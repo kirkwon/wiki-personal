@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: 'Step 2: Master Conflict'
 description: "Step 2: Master Conflict | concept | management, team-dynamics, prescriptive."

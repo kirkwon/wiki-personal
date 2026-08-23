@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 title: Wok Cooking
 description: "Wok Cooking（铁锅烹饪 / 锅烹饪）"
 created: 2026-04-24

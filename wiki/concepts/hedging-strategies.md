@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: "Hedging Strategies"
 description: "Η χαραπουλόγηση χρησιμοποιεί χρηματοοικονομικά προϊόντα και τεχνικές για αντισταθμισμό κινδύνου, εντός του πλαισίου της [[risk-assessment-framework]]."

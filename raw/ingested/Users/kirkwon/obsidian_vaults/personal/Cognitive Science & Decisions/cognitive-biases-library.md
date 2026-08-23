@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Cognitive Science & Decisions/cognitive-biases-library.md
 ingested: 2026-04-24
 sha256: b0de9b496f064be83aaac2e2df35637d08f441e8723116e385431587a4074705
+date: 2026-05-14
 title: Cognitive Biases Library
 type: note
 created: '2026-05-14'

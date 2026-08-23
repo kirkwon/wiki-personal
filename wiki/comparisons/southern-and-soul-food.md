@@ -6,6 +6,7 @@ tags:
 - cuisine
 - comfort-food
 - gastronomy
+date: 2026-04-24
 title: Southern and Soul Food
 description: "Southern and Soul Food"
 type: comparison

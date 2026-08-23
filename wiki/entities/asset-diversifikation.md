@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Asset-Diversifikation
 description: "Asset-Diversifikation"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Baker Beach
 description: "Baker Beach is a San Francisco location noted for golden hour photography at sunset, offering views of the bridge."

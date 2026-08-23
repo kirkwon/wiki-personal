@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Atul Gawande
 description: "Atul Gawande is an accomplished surgeon, writer, and public health researcher known for his work on the complexities of medical practice and patient care."
 created: 2026-06-10

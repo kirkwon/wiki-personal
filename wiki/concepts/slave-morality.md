@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: concept
 title: Slave Morality
 description: "One half of Nietzsche's master vs. slave morality framework."

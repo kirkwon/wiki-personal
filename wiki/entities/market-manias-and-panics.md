@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: market-manias-and-panics
 description: "market-manias-and-panics"
 created: 2026-06-10

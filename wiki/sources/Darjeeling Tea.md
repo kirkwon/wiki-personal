@@ -1,4 +1,5 @@
 ---
+date: 2026-05-09
 type: source
 title: 'Source: Darjeeling Tea.md'
 description: "Source: Darjeeling Tea.md"

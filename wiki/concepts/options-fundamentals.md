@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 title: Options Fundamentals
 description: "Options are contracts that give the buyer the right, but not the obligation, to buy (call) or sell (put) an underlying asset at a predetermined price within a specified time period."
 created: 2026-04-24

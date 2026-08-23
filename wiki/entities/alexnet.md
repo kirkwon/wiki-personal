@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: AlexNet
 description: "AlexNet is a deep convolutional neural network that revolutionized computer vision by winning the ImageNet Large Scale Visual Recognition Challenge in 2012."
 created: 2026-06-10

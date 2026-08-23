@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Constrained MDPs
 description: "A Constrained Markov Decision Process (MDP) is an extension of the standard MDP framework that incorporates additional limitations or restrictions on state transitions and actions, reflecting real-wor."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: recipe:perfect-stir-fry
 description: "recipe:perfect-stir-fry"
 created: 2026-06-10

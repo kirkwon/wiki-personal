@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Branch and Bound (Decision-Making)
 description: "An algorithmic technique that systematically searches a solution space while eliminating unpromising branches."

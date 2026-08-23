@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: The Fifth Discipline - Peter M. Senge
 created: 2026-05-03

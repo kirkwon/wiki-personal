@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Reflektiivinen muistiinpanottaminen
 description: "Reflektiivinen muistiinpanottaminen | concept | learning, note-taking, productivity, writing."

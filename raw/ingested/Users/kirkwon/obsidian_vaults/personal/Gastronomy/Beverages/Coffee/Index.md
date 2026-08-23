@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Coffee/Index.md
 ingested: 2026-04-24
 sha256: 732b72844a54c50afca0edf7342b8b6f9986b639f9652bd5f05c183b6e98cd4d
+date: 2026-05-14
 title: Coffee
 type: note
 created: '2026-05-14'

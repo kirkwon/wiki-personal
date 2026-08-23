@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Mark Manson
 created: 2026-05-03
 updated: 2026-05-10

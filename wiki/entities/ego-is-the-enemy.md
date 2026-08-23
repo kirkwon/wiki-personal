@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Ego Is the Enemy
 description: "'Ego Is the Enemy,' a book by Ryan Holiday, explores how our self-centeredness can hinder growth in various aspects of life."
 created: 2026-06-10

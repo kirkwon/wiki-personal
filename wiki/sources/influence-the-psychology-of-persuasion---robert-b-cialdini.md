@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: 'Influence: The Psychology of Persuasion - Robert B. Cialdini'
 description: "Mastering psychological principles to understand and ethically apply persuasive techniques in daily life."

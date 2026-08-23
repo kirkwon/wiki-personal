@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Blind spot bias
 description: "Blind spot bias is the cognitive tendency to overlook one's own biases or errors in judgment while easily identifying them in others."
 created: 2026-06-10

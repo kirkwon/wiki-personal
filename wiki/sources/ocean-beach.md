@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Ocean Beach
 description: "Ocean Beach is San Francisco's main beach, stretching from the Cliff House in the north to the San Francisco Zoo in the south."

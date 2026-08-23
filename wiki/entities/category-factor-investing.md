@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Factor Investing
 description: "Category:Factor Investing"
 created: 2026-06-10

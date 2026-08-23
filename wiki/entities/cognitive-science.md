@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: cognitive-science
 description: "Cognitive science is an interdisciplinary field that studies the mind, intelligence, and behavior from multiple perspectives including psychology, neuroscience, philosophy, linguistics, and computer s."
 created: 2026-06-10

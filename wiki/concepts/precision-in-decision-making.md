@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Precision in Decision-Making
 description: "Precision in Decision-Making | concept | decision-making, productivity, frameworks."

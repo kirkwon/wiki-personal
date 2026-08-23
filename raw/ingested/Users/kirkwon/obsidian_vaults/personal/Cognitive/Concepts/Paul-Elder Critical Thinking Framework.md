@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Cognitive/Concepts/Paul-Elde
   Critical Thinking Framework.md
 ingested: 2026-04-24
 sha256: a04e1ca6998798f4d6ac1262f8cef9f72666b5c620f802f04f42152fada49b64
+date: 2026-05-14
 title: Paul-Elder Critical Thinking Framework
 type: note
 created: '2026-05-14'

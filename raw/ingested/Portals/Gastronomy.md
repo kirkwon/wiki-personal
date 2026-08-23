@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 16d671f2705a2d3aca363a1172ed05e6b8f1c71446a23505cbdf0067bf263431
 source_path: Portals/Gastronomy.md
+date: 2026-05-14
 title: 'Portal: Gastronomy'
 type: note
 created: '2026-05-14'

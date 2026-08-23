@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Multi‑Agent Systems
 description: "A Multi-Agent System (MAS) consists of multiple interacting intelligent agents within an environment to solve problems that are beyond the capabilities of a single agent or system."
 created: 2026-06-10

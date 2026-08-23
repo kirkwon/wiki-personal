@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Digital Minimalism - Cal Newport
 description: "Digital Minimalism - Cal Newport"
 created: 2026-06-10

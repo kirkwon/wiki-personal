@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 title: Revocable Living Trusts
 description: "Revocable Living Trusts"
 created: 2026-04-24

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Blue Hat - Process Control
 description: "Blue Hat - Process Control"

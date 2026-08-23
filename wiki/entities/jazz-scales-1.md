@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Jazz Scales
 description: "A Jazz scale is a set of pitches used as the foundation for improvisation and composition within jazz music, characterized by specific intervals that create its distinctive sound."
 created: 2026-06-10

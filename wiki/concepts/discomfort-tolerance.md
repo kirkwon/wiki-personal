@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Discomfort Tolerance
 description: "Discomfort Tolerance: The ability to maintain performance and function under stress or physical discomfort."

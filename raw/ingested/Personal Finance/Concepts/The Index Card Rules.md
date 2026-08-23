@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 1434e6ee146e9a620907915385bef2986a87d8201312736827ed26d6f71766bb
 source_path: Personal Finance/Concepts/The Index Card Rules.md
+date: 2026-05-14
 title: The Index Card Rules
 type: note
 created: '2026-05-14'

@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/French/Concepts/mother-sauces.md
 ingested: 2026-04-24
 sha256: 60503d2a8c7528765654c399c0d29120daf8776dc1856b2c886bcdb9a05413be
+date: 2026-05-14
 title: The Five Mother Sauces
 type: note
 created: '2026-05-14'

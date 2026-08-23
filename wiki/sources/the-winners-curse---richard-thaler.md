@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-05-03
 sha256: d9c2293de7a4af8a7cf2a25b786bd82e2552bfd007586299881a66336da5b76d
+date: 2026-05-14
 title: The Winner's Curse - Richard Thaler
 description: "The Winner's Curse - Richard Thaler"
 type: note

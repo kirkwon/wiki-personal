@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Physical Space Shaping Culture
 created: 2026-04-29

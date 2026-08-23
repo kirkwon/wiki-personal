@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 叉烧
 description: "叉烧（Char Siu，叉烧，Chā shāo）是粤菜经典烧腊菜品，即中式烧烤猪肉。"

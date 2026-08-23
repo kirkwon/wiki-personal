@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 26aef223fce666ff6ccd0957deeed30db64f807a8246fee8a9b81e5a947ea046
 source_path: Personal Finance/Concepts/Retirement Planning.md
+date: 2026-05-14
 title: Retirement Planning
 type: note
 created: '2026-05-14'

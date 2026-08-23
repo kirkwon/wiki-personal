@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Expert performance vs simple models
 description: "Expert performance vs simple models"
 created: 2026-06-10

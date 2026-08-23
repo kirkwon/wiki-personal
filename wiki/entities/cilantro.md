@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: cilantro
 description: "Cilantro (Coriander) is an herb with leaves that are commonly used as a flavor enhancer in cooking, particularly in Asian and Latin American cuisines."
 created: 2026-06-10

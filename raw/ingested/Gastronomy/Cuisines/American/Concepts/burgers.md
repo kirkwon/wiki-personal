@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 8c2c3698007f6d8f0892c5e404a56e427269365aa3715c27127da9220592d9f7
 source_path: Gastronomy/Cuisines/American/Concepts/burgers.md
+date: 2026-05-14
 title: American Burgers
 type: note
 created: '2026-05-14'

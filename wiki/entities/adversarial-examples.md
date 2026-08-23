@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Adversarial Examples
 description: "Adversarial examples are inputs to machine learning models that have been intentionally modified with small, often imperceptible changes to deceive the model into making incorrect predictions or class."
 created: 2026-06-10

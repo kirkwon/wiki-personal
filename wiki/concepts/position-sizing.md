@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Position Sizing
 description: "Το μέγεθος θέσης περιορίζει την έκθεση σε οποιαδήποτε μοναδική επένδυση."

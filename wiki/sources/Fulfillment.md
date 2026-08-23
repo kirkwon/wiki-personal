@@ -2,6 +2,7 @@
 source_url: https://example.com/article
 ingested: 2026-04-29
 sha256: 7f3b2e1c4a9d8f5e6b7c0a3d2e1f4b8c9a0d7e6f5b4c3a2d1e0f9b8c7a6d5e4
+date: 2026-05-14
 title: Fulfillment
 type: note
 created: '2026-05-14'

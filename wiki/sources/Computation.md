@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Computation
 description: "Source documenting the 'Computation' mental model, a universal conceptual tool for navigating complex situations through pattern and relationship recognition."

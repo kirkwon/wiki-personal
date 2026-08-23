@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Andrew Brock
 description: "Andrew Brock is an individual with diverse interests spanning cooking, photography, personal finance, and cognitive science."
 created: 2026-06-10

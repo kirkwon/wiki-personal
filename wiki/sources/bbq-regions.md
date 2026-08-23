@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: BBQ Regions
 description: "American BBQ (barbecue) is more than cooking—it's culture, community, and regional pride."

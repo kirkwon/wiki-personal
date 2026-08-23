@@ -1,4 +1,5 @@
 ---
+date: 2026-07-19
 type: concept
 title: Maestro Integration Workflow
 created: 2026-07-19

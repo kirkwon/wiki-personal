@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Dropout
 description: "In cooking, Dropout refers to intentionally leaving out ingredients from a recipe or dish as an experimental technique to discover unique flavors."
 created: 2026-06-10

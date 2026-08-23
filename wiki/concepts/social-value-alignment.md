@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Social Value Alignment
 description: "Social Value Alignment | concept | ai, ai-safety, ethics, decision-making."

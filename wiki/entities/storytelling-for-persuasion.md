@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: storytelling-for-persuasion
 description: "storytelling-for-persuasion"
 created: 2026-06-10

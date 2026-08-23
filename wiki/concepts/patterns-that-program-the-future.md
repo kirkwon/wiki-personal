@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Patterns That Program the Future
 description: "Patterns That Program the Future"

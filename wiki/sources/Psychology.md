@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-04-29
 sha256: 8f7c3e2a1b4d5f6e9a0c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3
+date: 2026-05-14
 title: Psychology Source Summary
 type: note
 created: '2026-05-14'

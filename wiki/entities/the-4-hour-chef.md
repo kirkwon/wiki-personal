@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: The 4-Hour Chef
 description: "The 4-Hour Chef by Timothy Ferriss uses cooking as a teaching and learning metaphor."

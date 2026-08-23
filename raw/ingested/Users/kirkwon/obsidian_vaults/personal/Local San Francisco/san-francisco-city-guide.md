@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Local San Francisco/san-francisco-city-guide.md
 ingested: 2026-04-24
 sha256: ef3a653e32543525c2be5f7708e3c51187e51b7f59f0adb546b99752ee85e39d
+date: 2026-05-14
 title: San Francisco City Guide
 type: note
 created: '2026-05-14'

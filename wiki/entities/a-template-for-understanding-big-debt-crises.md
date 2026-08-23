@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: A Template for Understanding Big Debt Crises
 description: "A Template for Understanding Big Debt Crises"
 created: 2026-06-10

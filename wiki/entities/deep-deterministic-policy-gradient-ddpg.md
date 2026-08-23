@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Deep Deterministic Policy Gradient (DDPG)
 description: "Deep Deterministic Policy Gradient (DDPG)"
 created: 2026-06-10

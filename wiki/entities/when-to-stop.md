@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: when-to-stop
 description: "In cooking, the 'when-to-stop' rule refers to determining the precise moment when ingredients are perfectly prepared or a dish is fully cooked without overdoing it."
 created: 2026-06-10

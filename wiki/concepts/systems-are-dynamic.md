@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Systems Are Dynamic
 description: "Systems constantly change; understanding their dynamic nature is key to predicting and managing outcomes."

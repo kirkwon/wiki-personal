@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Personal Finance/Company Structure Guide.md
 tags:
 - general
+date: 2026-04-24
 title: Company Structure Guide
 type: comparison
 updated: '2026-04-24'

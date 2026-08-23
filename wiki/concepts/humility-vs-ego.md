@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Humility vs. Ego
 description: "Balancing genuine self-awareness with avoiding excessive pride or overconfidence."

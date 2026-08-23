@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Tree‑of‑Thought (ToT)
 description: "Tree‑of‑Thought (ToT)"
 created: 2026-06-10

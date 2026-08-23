@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Strategic misrepresentation
 description: "Strategic misrepresentation"
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Role of the Improbable
 description: "Role of the Improbable | concept | philosophy, risk, decision-making."

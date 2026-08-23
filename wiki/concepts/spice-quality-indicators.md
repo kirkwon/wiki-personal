@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Spice Quality Indicators
 created: 2026-04-24

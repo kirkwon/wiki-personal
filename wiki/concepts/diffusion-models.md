@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 title: Diffusion Models
 description: "Definition
 Diffusion models are a class of generative models that create data by reversing a gradual noising process."

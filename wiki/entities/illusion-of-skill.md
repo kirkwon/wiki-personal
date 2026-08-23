@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Illusion of skill
 description: "The illusion of skill is the cognitive bias where individuals overestimate their own abilities or expertise in an area due to limited experience or successes, leading them to believe they possess grea."
 created: 2026-06-10

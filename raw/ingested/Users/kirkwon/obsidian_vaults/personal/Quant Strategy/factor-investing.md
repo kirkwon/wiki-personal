@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Quant Strategy/factor-investing.md
 ingested: 2026-04-24
 sha256: 067bf5a762892ce7d9df10e3249712ebb384dcc8c21177cf999dd1d438662cd9
+date: 2026-05-14
 title: Factor Investing
 type: note
 created: '2026-05-14'

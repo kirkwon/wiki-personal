@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: books
 description: "Books are collections of written or printed pages bound together, serving as mediums to convey knowledge, techniques, theories, and stories across various domains such as cooking (recipes, culinary hi."
 created: 2026-06-10

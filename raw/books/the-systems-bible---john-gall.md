@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Systems Bible - John Gall
 author: John Gall
 year: 2024

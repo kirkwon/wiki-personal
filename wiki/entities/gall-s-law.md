@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: gall-s-law
 description: "The Gall-Pearson law (often referred to as 'gall's law') is an empirical relationship in photography that states the reciprocal of exposure time multiplied by the square root of aperture area equals a."
 created: 2026-06-10

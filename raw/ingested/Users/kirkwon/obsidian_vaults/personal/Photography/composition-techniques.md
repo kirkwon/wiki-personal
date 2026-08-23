@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Photography/composition-techniques.md
 ingested: 2026-04-24
 sha256: 1f3b0f8b5946e2daae43e8a8a9e0589a7cc7253a45def83b0af643561ab939e2
+date: 2026-05-14
 title: Composition Techniques
 type: note
 created: '2026-05-14'

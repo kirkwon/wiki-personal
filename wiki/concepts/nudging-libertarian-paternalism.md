@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Nudging / Libertarian Paternalism
 description: "Nudging / Libertarian Paternalism"

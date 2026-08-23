@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Meta‑Learning
 description: "Meta-learning is the process of learning how to learn efficiently across various domains such as cooking techniques, photographic styles, financial strategies, or cognitive tasks by identifying patter."
 created: 2026-06-10

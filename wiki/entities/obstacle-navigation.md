@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Obstacle navigation
 description: "Obstacle navigation refers to the process of identifying, assessing, and maneuvering around barriers or challenges that impede progress towards a goal."
 created: 2026-06-10

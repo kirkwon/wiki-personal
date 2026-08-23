@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Stoicism
 description: "Stoicism is an ancient Greek and Roman philosophical tradition that teaches the development of self-control, rationality, and virtue as paths to happiness and resilience."

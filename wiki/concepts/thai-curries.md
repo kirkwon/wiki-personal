@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Thai/Concepts/curry-varieties.md
 tags:
 - general
+date: 2026-04-24
 title: Thai Curries
 type: concept
 updated: '2026-04-24'

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 743ee93fc56c39136229fd8522cd3d34a62375a93a7f5f21a05d49a5891b394a
 source_path: Personal Finance/Concepts/Healthcare Costs in Retirement.md
+date: 2026-05-14
 title: Healthcare Costs in Retirement
 type: note
 created: '2026-05-14'

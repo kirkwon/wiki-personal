@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Sources of Meaning (Frankl)
 description: "Sources of Meaning (Frankl)"

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Systems Thinking (Senge)
 description: "Understanding interconnected systems to improve organizations and enhance collective learning for better decisions."

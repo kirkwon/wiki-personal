@@ -3,6 +3,7 @@
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "What are the frontier approaches for agents to improve their own scaffolding, tool use, and learning harness? Metalearning, self-critique, recursive improvement — what's working?"
+date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
 confidence: 0.95
@@ -1485,6 +1486,16 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-08-21: VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio 
 
 ### 2026-08-21: LLMs Get Smarter from Targeted Synthetic Multilingual Data
+
+### 2026-08-22: FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executab
+
+### 2026-08-22: The Embedder's Dilemma: LLMs Are Better, but at What Cost?
+- HF trending paper (arxiv: 2608.12875). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.12875]] | https://huggingface.co/papers/2608.12875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.21596). Keywords: self-evolving. Status: pending-review.
+- Source: [[papers/2607.21596]] | https://huggingface.co/papers/2607.21596
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.15964). Keywords: alignment. Status: pending-review.
 - Source: [[papers/2608.15964]] | https://huggingface.co/papers/2608.15964
 - Confidence: Low (auto-matched, not yet reviewed)

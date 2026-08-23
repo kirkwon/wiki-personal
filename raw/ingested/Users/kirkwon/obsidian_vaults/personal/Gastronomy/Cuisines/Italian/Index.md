@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Italian/Index.md
 ingested: 2026-04-24
 sha256: e82b7b48524eb7dad2ddbf42d4ab69eb3357ac796fc513ac35e69366a938305f
+date: 2026-05-14
 title: Italian Cuisine
 type: note
 created: '2026-05-14'

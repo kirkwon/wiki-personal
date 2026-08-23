@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Superforecasting
 description: "Superforecasting refers to the ability to make consistently accurate probabilistic predictions across uncertain domains."

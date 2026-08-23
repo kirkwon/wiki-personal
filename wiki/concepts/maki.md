@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 巻き寿司（Maki）
 description: "種類

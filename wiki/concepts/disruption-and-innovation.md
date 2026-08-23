@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Disruption and Innovation
 description: "Disruption and Innovation: Introducing radical changes that fundamentally alter existing industries or technologies."

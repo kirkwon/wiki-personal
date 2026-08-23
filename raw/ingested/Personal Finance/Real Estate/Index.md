@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: caec0458f61d524188bc5f0e5748c143953e5159f610786a9feee1c95ba90e51
 source_path: Personal Finance/Real Estate/Index.md
+date: 2026-05-14
 title: Real Estate Investment
 type: note
 created: '2026-05-14'

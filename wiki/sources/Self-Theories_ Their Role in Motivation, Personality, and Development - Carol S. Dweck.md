@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 title: 'Self-Theories: Their Role in Motivation, Personality, and Development'
 source_url: ''
 ingested: 2026-04-29

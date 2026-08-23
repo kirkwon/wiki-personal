@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Tools of Titans - Timothy Ferriss
 created: 2026-04-29

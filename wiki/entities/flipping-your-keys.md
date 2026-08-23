@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: flipping-your-keys
 description: "Flipping keys refers to the deliberate practice of switching between different perspectives or approaches within various domains such as cooking (recipe adaptation), photography (composition technique."
 created: 2026-06-10

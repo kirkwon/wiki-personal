@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Soup Culture
 description: "- 清汤：蒸鱼配蔬菜、清炖汤

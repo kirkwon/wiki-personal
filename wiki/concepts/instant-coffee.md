@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Instant Coffee
 description: "Instant coffee is a dehydrated form of brewed coffee that can be quickly dissolved in water to create a hot or cold beverage."
 created: 2026-06-10

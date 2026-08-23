@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Social motivation system
 description: "Social motivation system"
 created: 2026-06-10

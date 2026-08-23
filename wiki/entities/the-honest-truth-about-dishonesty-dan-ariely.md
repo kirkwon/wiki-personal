@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Honest Truth About Dishonesty - Dan Ariely
 description: "The Honest Truth About Dishonesty - Dan Ariely"
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Kategoroinnin rooli merkinnöissä
 description: "Structuring notes by assigning categories to improve recall, organization, and knowledge retrieval."

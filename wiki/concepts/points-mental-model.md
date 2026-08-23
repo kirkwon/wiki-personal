@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Points
 description: "Points is described as a universal conceptual tool for navigating complexity through pattern and relationship recognition."

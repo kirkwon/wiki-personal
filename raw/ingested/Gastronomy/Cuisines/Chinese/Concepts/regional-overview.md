@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: cdd222c939a81ab9db9b7c42e6f6f81aa166fcc89f84c7dfb59f89786f8317f0
 source_path: Gastronomy/Cuisines/Chinese/Concepts/regional-overview.md
+date: 2026-05-14
 title: Chinese Regional Cuisines
 type: note
 created: '2026-05-14'

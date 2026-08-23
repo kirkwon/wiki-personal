@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Photography/golden-hour.md
 ingested: 2026-04-24
 sha256: 969bb16cccc1a3c32f9b1cdc9171cd6c79c81cbb2f320d4ff8e636bfb82f0f99
+date: 2026-05-14
 title: Golden Hour
 type: note
 created: '2026-05-14'

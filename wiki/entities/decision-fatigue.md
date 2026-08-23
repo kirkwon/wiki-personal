@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Decision fatigue
 description: "Decision fatigue refers to the deteriorating quality of decisions made by an individual after a long session of decision-making."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-09
 type: source
 title: 'Source: hot-pot.md'
 description: "Hot pot (火锅, Huǒguō) literally means 'fire pot' - a communal dining experience where diners cook raw ingredients in simmering broth at the table."

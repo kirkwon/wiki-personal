@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: How to Take Smart Notes - Sönke Ahrens
 author: Sönke Ahrens
 year: 2024

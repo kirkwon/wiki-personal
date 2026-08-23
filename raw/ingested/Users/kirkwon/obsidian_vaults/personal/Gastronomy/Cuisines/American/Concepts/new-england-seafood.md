@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/American/Concepts/new-england-seafood.md
 ingested: 2026-04-24
 sha256: ac0618e9ee2b915e5bb2a4dabfb80aff40a0d2ae3ecab046bc2f9dec60cbdf5e
+date: 2026-05-14
 title: New England Seafood
 type: note
 created: '2026-05-14'

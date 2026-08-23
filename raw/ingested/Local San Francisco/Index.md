@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 408ba9e79437a000403a3bab2e1115c597811d06757a90be421edaf63842abff
 source_path: Local San Francisco/Index.md
+date: 2026-05-14
 title: Local San Francisco
 type: note
 created: '2026-05-14'

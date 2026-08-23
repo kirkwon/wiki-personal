@@ -1,4 +1,5 @@
 ---
+date: 2025-04-15
 type: index
 domain: Music Theory & Jazz
 created: &id001 2025-04-15

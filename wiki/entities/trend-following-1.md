@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: trend-following
 description: "Trend-following is an approach that involves tracking the direction of market trends to make investment decisions based on anticipated future movements rather than historical data alone."
 created: 2026-06-10

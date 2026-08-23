@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Halo effect
 description: "The Halo effect is a cognitive bias where an individual's positive qualities disproportionately influence our overall perception of them, often leading to overgeneralized judgments in areas like cooki."
 created: 2026-06-10

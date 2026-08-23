@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Growth (Mental Model)
 description: "Growth (Mental Model)"

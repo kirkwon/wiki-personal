@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: GAN Applications
 description: "Generative Adversarial Networks (GANs) are AI frameworks used to generate new data samples that mimic the distribution of a given dataset."
 created: 2026-06-10

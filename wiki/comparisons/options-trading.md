@@ -5,6 +5,7 @@ sources:
 tags:
 - budgeting
 - general
+date: 2026-04-24
 title: Options Trading
 type: comparison
 updated: '2026-04-24'

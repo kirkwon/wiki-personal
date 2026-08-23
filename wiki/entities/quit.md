@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Quit
 description: "In cooking, to quit means ceasing the act of preparing or consuming food, often due to satiation or lack of interest in a particular dish."
 created: 2026-06-10

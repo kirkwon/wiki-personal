@@ -6,6 +6,7 @@ tags:
 - coffee
 - general
 - local
+date: 2026-04-24
 title: Favorite Coffee Shops
 type: concept
 updated: '2026-04-24'

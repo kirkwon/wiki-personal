@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Fixation (杀青)
 description: "Fixation is the heat treatment step in tea processing that halts enzymatic oxidation, preserving the natural compounds and delicate flavors of green tea."

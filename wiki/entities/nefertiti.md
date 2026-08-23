@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Nefertiti
 description: "Nefertiti was an Egyptian queen renowned for her beauty and influence during the Amarna period of ancient Egypt's history."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Neighborhoods
 description: "Category:Neighborhoods"
 created: 2026-06-10

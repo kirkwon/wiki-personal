@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Inverse Reinforcement Learning (IRL)
 description: "Inverse Reinforcement Learning (IRL)"
 created: 2026-06-10

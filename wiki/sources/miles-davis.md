@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Miles Davis - Musical Evolution and Innovations
 description: "Miles Davis — Musical Evolution and Innovations"

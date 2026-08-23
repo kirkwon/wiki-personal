@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Fairness Perception
 description: "Fairness perception refers to how individuals evaluate the justice or equity of situations, and how perceived unfairness leads to irrational behavior such as retaliation, reduced cooperation, or disto."
 created: 2026-05-03

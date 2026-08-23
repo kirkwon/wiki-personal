@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: single-tasking-advantage
 description: "single-tasking-advantage"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Reward Shaping
 description: "Reward shaping is the process of modifying the reward function to guide an agent's learning behavior towards desired outcomes by providing additional incentives or penalties."
 created: 2026-06-10

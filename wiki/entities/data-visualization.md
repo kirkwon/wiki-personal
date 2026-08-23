@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: data-visualization
 description: "Data visualization is the graphical representation of information and data to enable easier understanding and decision making."
 created: 2026-06-10

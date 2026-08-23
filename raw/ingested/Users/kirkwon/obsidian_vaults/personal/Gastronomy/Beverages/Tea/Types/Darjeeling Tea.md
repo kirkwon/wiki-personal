@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Tea/Typ
   Tea.md
 ingested: 2026-04-24
 sha256: 48d3a66700887af1107da3b4c417ff40e7a5732006fbb694bc57ae3ffe6d045f
+date: 2026-05-14
 title: Darjeeling Tea (大吉岭茶)
 type: note
 created: '2026-05-14'

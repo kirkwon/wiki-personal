@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: the-price-of-progress
 description: "the-price-of-progress"
 created: 2026-06-10

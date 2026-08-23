@@ -1,4 +1,5 @@
 ---
+date: 2026-06-14
 type: note
 title: Wiki Personal — Index
 created: 2026-06-14

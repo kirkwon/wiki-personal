@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: GTD Method
 description: "The GTD (Getting Things Done) method is a productivity framework developed by David Allen that provides a repeatable cycle for managing commitments and tasks."

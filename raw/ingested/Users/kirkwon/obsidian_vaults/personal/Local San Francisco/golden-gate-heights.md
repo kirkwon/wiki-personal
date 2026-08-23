@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Local San Francisco/golden-gate-heights.md
 ingested: 2026-04-24
 sha256: aa293fd267ee479cc46baa114e81b8677b3501f09861c595f15f036a38d8c941
+date: 2026-05-14
 title: Golden Gate Heights
 type: note
 created: '2026-05-14'

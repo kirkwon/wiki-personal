@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Strategic Saying No
 description: "The art of saying no."

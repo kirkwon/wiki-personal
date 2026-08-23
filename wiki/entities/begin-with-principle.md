@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Begin With Principle
 description: "The 'Begin With Principle' suggests starting with the foundational elements of an activity to build competence and understanding effectively."
 created: 2026-06-10

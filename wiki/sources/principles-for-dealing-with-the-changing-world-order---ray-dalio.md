@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Principles for Dealing with the Changing World Order - Ray Dalio
 description: "Principles for Dealing with the Changing World Order - Ray Dalio"

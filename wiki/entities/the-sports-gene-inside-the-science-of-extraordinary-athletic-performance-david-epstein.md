@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Sports Gene_ Inside the Science of Extraordinary Athletic Performance - David Epstein
 description: "The Sports Gene_ Inside the Science of Extraordinary Athletic Performance - David Epstein"
 created: 2026-06-10

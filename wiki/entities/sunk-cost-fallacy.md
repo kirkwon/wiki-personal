@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sunk cost fallacy
 description: "The sunk cost fallacy is the irrational decision to continue investing resources into an endeavor due to the amount already spent, rather than assessing future benefits."
 created: 2026-06-10

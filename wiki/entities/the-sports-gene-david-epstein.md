@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Sports Gene - David Epstein
 description: "The Sports Gene - David Epstein"
 created: 2026-06-10

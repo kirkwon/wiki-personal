@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 type: source
 title: "Research: Add Cross-References to Comparisons/Personal-Vault-Content-Migration-Plan"
 description: "Research: Add Cross-References to Comparisons/Personal-Vault-Content-Migration-Plan"

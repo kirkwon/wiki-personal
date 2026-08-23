@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Lateral Movements in Thinking
 description: "Generating creative solutions by approaching problems from unconventional angles rather than linear logic."

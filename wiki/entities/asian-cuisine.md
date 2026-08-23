@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: asian-cuisine
 description: "Asian cuisine encompasses the diverse culinary traditions of Asia, characterized by its rich flavors, varied ingredients, and regional specialties such as sushi from Japan, curry from India, or dim su."
 created: 2026-06-10

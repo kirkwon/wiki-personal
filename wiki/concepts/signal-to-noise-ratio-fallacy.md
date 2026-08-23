@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Signal-to-Noise Ratio Fallacy
 description: "Signal-to-Noise Ratio Fallacy | concept | epistemology, decision-making, probability, data-science."

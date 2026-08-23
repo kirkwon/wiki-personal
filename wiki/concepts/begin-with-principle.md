@@ -1,4 +1,5 @@
 ---
+date: 2026-04-18
 type: concept
 title: Begin With Principle
 description: "-

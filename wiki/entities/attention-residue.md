@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Attention residue
 description: "Attention residue refers to the lingering focus on an initial task or thought after shifting attention to another activity."
 created: 2026-06-10

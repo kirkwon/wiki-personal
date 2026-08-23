@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Expert illusion
 description: "An expert illusion is the false perception of possessing superior knowledge or skill in an area such as cooking, photography, personal finance, or cognitive science, often due to limited experience or."
 created: 2026-06-10

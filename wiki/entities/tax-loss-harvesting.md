@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Tax-Loss Harvesting
 description: "Tax-Loss Harvesting is the strategic selling of underperforming investments at a loss to offset capital gains tax liabilities on other profitable assets."
 created: 2026-06-10

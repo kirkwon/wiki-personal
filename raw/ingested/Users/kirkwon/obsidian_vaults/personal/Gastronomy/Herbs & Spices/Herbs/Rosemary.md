@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Herbs & Spices/Herbs/Rosemary.md
 ingested: 2026-04-24
 sha256: 3b30187d106e400fa25cb43d4de14d2ce6329882a83b29a7417082b590fbc70c
+date: 2026-05-14
 title: Rosemary (Rosmarinus officinalis)
 type: note
 created: '2026-05-14'

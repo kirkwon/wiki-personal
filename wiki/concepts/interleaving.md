@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Interleaving
 description: "Studying and practicing various related skills in mixed blocks rather than focusing on one skill repeatedly."

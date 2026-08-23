@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Metaphors and Analogies as Thinking Tools
 description: "Employing comparisons and figurative language to simplify or illuminate abstract concepts."

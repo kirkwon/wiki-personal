@@ -5,6 +5,7 @@ sources:
 tags:
 - decision-making
 - general
+date: 2026-04-24
 title: Decision-Making Frameworks
 type: comparison
 updated: '2026-04-24'

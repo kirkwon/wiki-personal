@@ -1,4 +1,5 @@
 ---
+date: 2026-06-19
 title: Claude Fable 5 — System Prompt Deep Dive
 created: 2026-06-19
 updated: 2026-06-19

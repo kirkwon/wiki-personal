@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Platform Dominance
 description: "Platform dominance refers to the outsized market power wielded by technology companies that control critical infrastructure, data flows, and ecosystem lock-in."

@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Cognitive Science & Decisions/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Cognitive Science & Decisions
 type: concept
 updated: '2026-04-24'

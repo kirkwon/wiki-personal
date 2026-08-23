@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: c7a698712298d27072d320239a2d6e0c4d2284c772df87036d7dc2119e95b768
 source_path: Photography/street-photography.md
+date: 2026-05-14
 title: Street Photography
 type: note
 created: '2026-05-14'

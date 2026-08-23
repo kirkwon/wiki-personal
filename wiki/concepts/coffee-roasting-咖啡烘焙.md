@@ -8,6 +8,7 @@ tags:
 - roasting
 - technique
 - gastronomy
+date: 2026-04-24
 title: Coffee Roasting (咖啡烘焙)
 type: concept
 updated: 2026-05-09

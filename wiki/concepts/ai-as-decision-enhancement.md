@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: AI as Decision-Enhancement Tool
 description: "AI as Decision-Enhancement Tool. Using artificial intelligence to augment human judgment and improve complex decision-making processes."

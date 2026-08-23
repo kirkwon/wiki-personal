@@ -1,4 +1,5 @@
 ---
+date: 2026-06-27
 type: architecture-doc
 title: Agent Self-Organization Architecture
 created: '2026-06-27T00:00:00.000Z'

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Outsider Advantage
 description: "The benefit of viewing a problem or situation with fresh eyes, unburdened by internal assumptions."

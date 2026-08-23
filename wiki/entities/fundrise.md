@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Fundrise
 description: "Fundrise is a real estate crowdfunding platform with a minimum investment of $500."

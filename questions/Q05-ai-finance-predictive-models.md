@@ -3,6 +3,7 @@
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "How can modern AI add to predictive models that incorporate: risk (VaR, CVaR), options (greek exposure, implied vol surfaces), volume/order book, cyclical patterns (seasonality, macro cycles), and behavioral/irrational behavior? What's the gap between academic finance ML and practitioner use?"
+date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
 confidence: 0.5
@@ -870,6 +871,16 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-08-21: 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
 
 ### 2026-08-21: WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
+
+### 2026-08-22: TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity
+
+### 2026-08-22: The Embedder's Dilemma: LLMs Are Better, but at What Cost?
+- HF trending paper (arxiv: 2608.12875). Keywords: classification. Status: pending-review.
+- Source: [[papers/2608.12875]] | https://huggingface.co/papers/2608.12875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15767). Keywords: forecasting, attention, forecast. Status: pending-review.
+- Source: [[papers/2608.15767]] | https://huggingface.co/papers/2608.15767
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.20336). Keywords: prediction. Status: pending-review.
 - Source: [[papers/2608.20336]] | https://huggingface.co/papers/2608.20336
 - Confidence: Low (auto-matched, not yet reviewed)

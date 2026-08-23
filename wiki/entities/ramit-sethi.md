@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Ramit Sethi
 description: "Personal finance educator and author of I Will Teach You to Be Rich, a six-week program for automating personal finances."

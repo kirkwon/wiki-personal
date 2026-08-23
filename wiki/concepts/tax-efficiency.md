@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Tax Efficiency
 description: "Tax efficiency refers to how effectively an investment vehicle minimizes taxable events and capital gains distributions in taxable accounts."

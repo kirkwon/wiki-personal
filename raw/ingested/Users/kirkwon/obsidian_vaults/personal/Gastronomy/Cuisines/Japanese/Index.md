@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Japanese/Index.md
 ingested: 2026-04-24
 sha256: efc55c9ceb56ae9bfefa6598448704e402dfaf13502e1965177057eea78b3f09
+date: 2026-05-14
 title: Japanese Cuisine
 type: note
 created: '2026-05-14'

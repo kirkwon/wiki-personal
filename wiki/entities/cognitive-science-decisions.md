@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Cognitive Science & Decisions
 description: "Cognitive Science & Decisions"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: description-mental-model
 description: "description-mental-model"
 created: 2026-06-10

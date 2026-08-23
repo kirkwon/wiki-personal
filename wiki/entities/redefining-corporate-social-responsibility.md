@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: redefining-corporate-social-responsibility
 description: "redefining-corporate-social-responsibility"
 created: 2026-06-10

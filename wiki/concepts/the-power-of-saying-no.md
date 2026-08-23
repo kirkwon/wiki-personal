@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Power of Saying No
 description: "Setting limits boosts focus, protects time, and empowers better life decisions."

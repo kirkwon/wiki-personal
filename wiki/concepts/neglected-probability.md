@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Neglected Probability (Flaw of Neglected Probability)
 description: "Neglected Probability"

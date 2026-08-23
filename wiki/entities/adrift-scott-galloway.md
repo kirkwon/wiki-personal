@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: adrift - Scott Galloway
 description: "adrift - Scott Galloway"
 created: 2026-06-10

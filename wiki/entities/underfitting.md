@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Underfitting
 description: "In cooking, underfitting occurs when a recipe lacks complexity or seasoning, resulting in bland dishes."
 created: 2026-06-10

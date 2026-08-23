@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Swans Mental Model
 created: 2026-04-29

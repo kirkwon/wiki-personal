@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 东方美人 (Oriental Beauty / Bai Hao)
 description: "--

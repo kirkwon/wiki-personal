@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Globalization and Capital Flows
 created: 2026-04-29

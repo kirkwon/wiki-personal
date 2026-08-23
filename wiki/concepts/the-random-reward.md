@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: The Random Reward
 description: "Variable rewards boost motivation and focus by introducing unpredictable bursts of positive reinforcement."
 created: 2026-05-03

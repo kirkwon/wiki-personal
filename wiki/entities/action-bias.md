@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Action bias
 description: "Action bias is the tendency to favor action over inaction, often leading individuals to make decisions or take steps even when evidence suggests that maintaining status quo could be more beneficial."
 created: 2026-06-10

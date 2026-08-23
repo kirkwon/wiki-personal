@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Size Factor
 description: "In cooking, the size factor refers to the proportional adjustment of ingredients based on volume or weight differences when scaling recipes."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Thinking in Systems - Donella H Meadows
 description: "Thinking in Systems - Donella H Meadows"
 created: 2026-06-10

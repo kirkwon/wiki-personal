@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The 8th Habit - From Effectiveness to Greatness
 description: "The 8th Habit - From Effectiveness to Greatness"
 created: 2026-06-10

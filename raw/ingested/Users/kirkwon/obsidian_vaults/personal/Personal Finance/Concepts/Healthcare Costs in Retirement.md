@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/He
   Costs in Retirement.md
 ingested: 2026-04-24
 sha256: 9d522bbbdea8a6f0fc9d3e7ff8bccc481aa2eb0cbde91324b6fc90edac4c7082
+date: 2026-05-14
 title: Healthcare Costs in Retirement
 type: note
 created: '2026-05-14'

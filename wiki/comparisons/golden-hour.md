@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - lighting
+date: 2026-04-24
 title: Golden Hour
 type: comparison
 updated: '2026-04-24'

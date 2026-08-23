@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: fb77d96bfff9d65c23872e81858b99318e52592bbc0114a5b52f9e128797565e
 source_path: Gastronomy/Concepts/Marinades.md
+date: 2026-05-14
 title: Marinades and Mise en Place
 type: note
 created: '2026-05-14'

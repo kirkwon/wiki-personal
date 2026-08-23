@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 890327dd608f9e860d81d916686a8d8faf27b4f4ad42705c907628ccf87f3c53
 source_path: Gastronomy/Beverages/Coffee/Preparation/Pour Over.md
+date: 2026-05-14
 title: Pour Over Coffee
 type: note
 created: '2026-05-14'

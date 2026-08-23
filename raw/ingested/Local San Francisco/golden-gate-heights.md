@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: c6b8fd8b95ce2206240dee25a68c19cb618a3c42779c154dbd5addecd5470718
 source_path: Local San Francisco/golden-gate-heights.md
+date: 2026-05-14
 title: Golden Gate Heights
 type: note
 created: '2026-05-14'

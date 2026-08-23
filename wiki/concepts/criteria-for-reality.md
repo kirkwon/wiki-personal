@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Criteria for Reality
 description: "Criteria for Reality. Philosophical inquiry into what constitutes truth, knowledge, and existence itself (epistemology)."

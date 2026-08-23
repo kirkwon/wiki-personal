@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Agent技能与工具调用
 created: 2026-04-24

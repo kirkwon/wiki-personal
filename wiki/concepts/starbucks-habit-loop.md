@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Starbucks Habit Loop
 description: "Starbucks Habit Loop | concept | habits, organizational-behavior, case-study."

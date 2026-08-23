@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: passion
 description: "Passion is an intense enthusiasm or desire that drives one to pursue activities wholeheartedly, often leading to mastery and innovation in fields like cooking (creating unique flavors), photography (c."
 created: 2026-06-10

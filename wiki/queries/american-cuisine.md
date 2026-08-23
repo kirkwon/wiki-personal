@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/American/Index.md
 tags:
 - general
+date: 2026-04-24
 title: American Cuisine
 type: query
 updated: '2026-04-24'

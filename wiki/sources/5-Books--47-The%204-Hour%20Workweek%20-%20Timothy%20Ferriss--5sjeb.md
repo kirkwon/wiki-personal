@@ -1,4 +1,5 @@
 ---
+date: 2026-06-06
 type: source
 title: "Source: Books/The 4-Hour Workweek - Timothy Ferriss.md"
 description: "Source: Books/The 4-Hour Workweek - Timothy Ferriss.md"

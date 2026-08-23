@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Batch Cooking
 description: "Batch Cooking. Preparing large quantities of food at one time to simplify meal planning and save significant time weekly."

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 492552a72c1456e7cbe57f5ceaab7718f0afd23211077733077e1484633f3bd9
 source_path: Gastronomy/Cuisines/American/Concepts/tex-mex.md
+date: 2026-05-14
 title: Tex-Mex
 type: note
 created: '2026-05-14'

@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Settings/MIGRATION_PLAN.md
 tags:
 - general
+date: 2026-04-24
 title: Personal Vault Content Migration Plan
 type: comparison
 updated: '2026-04-24'

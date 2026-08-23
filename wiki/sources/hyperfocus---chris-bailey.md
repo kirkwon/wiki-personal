@@ -2,6 +2,7 @@
 source_url: ''
 ingested: 2026-05-03
 sha256: f331d80bfc753dd9cf94832c928e3f45368988ea867ba2f93af551fd272c7b28
+date: 2026-05-14
 title: Hyperfocus - Chris Bailey
 description: "Hyperfocus - Chris Bailey"
 type: note

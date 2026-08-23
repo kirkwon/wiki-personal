@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: De Bono's Pointers
 description: "De Bono's Pointers are key guidelines for effective thinking, including focusing on the task at hand, challenging assumptions, and considering multiple perspectives."

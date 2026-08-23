@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: ImageNet
 description: "ImageNet is a large visual database designed primarily for use in visual object recognition software research."
 created: 2026-06-10

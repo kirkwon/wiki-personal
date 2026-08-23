@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Judgments
 description: "Judgments is a universal mental model—a conceptual shortcut for navigating complex situations through pattern recognition and relationship mapping."

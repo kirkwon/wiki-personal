@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/French/Index.md
 ingested: 2026-04-24
 sha256: f513d9e89c4a3c6a3a2130a25ad7e895c54d826ec2c670a5fa5494fcb1af6c19
+date: 2026-05-14
 title: French Cuisine
 type: note
 created: '2026-05-14'

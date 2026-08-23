@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: 'Lateral Thinking: Creativity Step by Step by Edward de Bono'
 description: "Lateral Thinking: Creativity Step by Step by Edward de Bono"

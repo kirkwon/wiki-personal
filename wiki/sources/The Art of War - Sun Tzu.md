@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: The Art of War - Sun Tzu
 created: 2026-04-29

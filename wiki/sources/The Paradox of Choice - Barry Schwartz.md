@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: The Paradox of Choice - Barry Schwartz
 created: 2026-04-29

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: AI Agent工具生态
 created: 2026-04-24

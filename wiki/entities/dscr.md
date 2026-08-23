@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Debt Service Coverage Ratio (DSCR)
 created: 2026-04-24

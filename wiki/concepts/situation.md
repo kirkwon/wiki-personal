@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Situation
 description: "Situation is a universal mental model — a conceptual tool that helps understand and navigate complex situations."

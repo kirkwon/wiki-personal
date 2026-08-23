@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Black Swan - Nassim Nicholas Taleb
 author: Nassim Nicholas Taleb
 year: 2024

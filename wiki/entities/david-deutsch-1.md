@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: David-deutsch
 description: "David Deutsch is a theoretical physicist known for pioneering the field of quantum computation with his work on Quantum Mechanics and Computation."
 created: 2026-06-10

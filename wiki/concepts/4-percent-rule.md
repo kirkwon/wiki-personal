@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 4% Rule
 description: "The 4% Rule is a widely used guideline for sustainable retirement income: withdraw 4% of your portfolio in the first year of retirement, then adjust that amount annually for inflation."

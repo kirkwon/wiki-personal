@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 02aa3147f00fb97642e6ced017b7db23b9214750f04e05bb65821c7afba9512e
 source_path: Personal Finance/Concepts/Tax Torpedoes.md
+date: 2026-05-14
 title: Tax Torpedoes in Retirement
 type: note
 created: '2026-05-14'

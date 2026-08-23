@@ -1,4 +1,5 @@
 ---
+date: 2026-06-29
 type: source
 title: "Smart Money Concepts — ICT Trading Indicators in Python"
 author: "Josh Yattridge (joshyattridge)"

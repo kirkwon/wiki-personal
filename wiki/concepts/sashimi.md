@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 刺身（Sashimi）
 description: "刺身は生魚のみの料理。酢飯なしで新鮮な魚をそのまま食べる。"

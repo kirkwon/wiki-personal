@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Coffee/
   Press.md
 ingested: 2026-04-24
 sha256: 4ed92eba70e50643e8fc0168791e622e92dff19e44c91002c3bfa7d6154810f6
+date: 2026-05-14
 title: French Press Coffee (法压壶咖啡)
 type: note
 created: '2026-05-14'

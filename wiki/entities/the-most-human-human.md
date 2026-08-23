@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Most Human Human
 description: "The Most Human Human refers to an individual who embodies the essence of humanity through their daily activities and interests."
 created: 2026-06-10

@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Spirits/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Spirits Index
 type: concept
 updated: '2026-04-24'

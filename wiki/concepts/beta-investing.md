@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Beta (Investing)
 description: "A measure of a stock's or portfolio's volatility relative to the overall market."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Chauffeur knowledge
 description: "'Chauffeur knowledge' refers to the understanding of driving vehicles efficiently, safely, and effectively."
 created: 2026-06-10

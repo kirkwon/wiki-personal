@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Diversification
 description: "Diversification is the basic risk management strategy — don't put all your eggs in one basket."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: hunan-cuisine
 description: "Hunan cuisine refers to the richly flavored dishes originating from Hunan province in China, characterized by bold spices like chili peppers, Sichuan peppercorns, and garlic."
 created: 2026-06-10

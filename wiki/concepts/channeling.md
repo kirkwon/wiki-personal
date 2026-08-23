@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Channeling (通道效应)
 description: "Channeling occurs when water finds paths through coffee grounds instead of flowing evenly through the entire bed."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Golden Hour - Photography Guide
 description: "Golden Hour - Photography Lighting Guide"

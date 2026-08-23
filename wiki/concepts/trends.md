@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Trends
 description: "Trends is a universal mental model for understanding and navigating complex situations by recognizing patterns and relationships."

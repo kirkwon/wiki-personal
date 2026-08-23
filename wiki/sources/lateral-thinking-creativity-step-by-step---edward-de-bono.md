@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Lateral Thinking - Edward de Bono
 description: "Lateral Thinking - Edward de Bono"

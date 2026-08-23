@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Slow Productivity
 description: "Slow Productivity by Cal Newport challenges the modern assumption that busyness equals productivity."

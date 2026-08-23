@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Heat-Based Techniques
 description: "Category:Heat-Based Techniques"
 created: 2026-06-10

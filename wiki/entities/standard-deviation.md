@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: standard-deviation
 description: "Standard deviation measures the amount of variation or dispersion from the average (mean) value within a set of data points."
 created: 2026-06-10

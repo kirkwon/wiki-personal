@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Concepts/Salmon Collars.md
 tags:
 - general
+date: 2026-04-24
 title: Salmon Collars
 type: concept
 updated: '2026-04-24'

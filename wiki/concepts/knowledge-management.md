@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: concept
 title: Knowledge Management
 description: "Knowledge Management

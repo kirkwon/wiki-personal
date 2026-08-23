@@ -1,4 +1,5 @@
 ---
+date: 2026-04-17
 type: concept
 title: Gall's Law
 created: 2026-04-17

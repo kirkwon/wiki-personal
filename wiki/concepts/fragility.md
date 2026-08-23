@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Fragility
 description: "Fragility is a universal mental model that serves as a conceptual tool for understanding and navigating complex situations."

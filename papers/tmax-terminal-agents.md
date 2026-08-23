@@ -1,4 +1,5 @@
 ---
+date: 2026-06-28
 type: entity
 title: Tmax — A Simple Recipe for Terminal Agents
 created: 2026-06-28

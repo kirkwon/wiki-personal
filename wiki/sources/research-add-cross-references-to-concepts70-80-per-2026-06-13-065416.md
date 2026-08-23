@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: source
 title: "Source: research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md"
 description: "Source: research-add-cross-references-to-concepts70-80-per-2026-06-13-065416.md"

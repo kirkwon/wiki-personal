@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Master vs. Slave Morality
 description: "Master vs. Slave Morality"

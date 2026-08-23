@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Photography/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Photography
 type: concept
 updated: '2026-04-24'

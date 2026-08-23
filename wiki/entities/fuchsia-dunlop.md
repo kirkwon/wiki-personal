@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: fuchsia-dunlop
 description: "Fuchsia-Dunlop refers to an innovative financial tool designed by Fuchsia Capital and Dunlop Batteries, aimed at enhancing personal finance management through AI integration."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: scattered-focus
 description: "Scattered-focus refers to an approach where attention is divided across multiple tasks or areas of interest simultaneously rather than concentrating on one task at a time."
 created: 2026-06-10

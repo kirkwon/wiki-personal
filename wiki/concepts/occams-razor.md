@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Occam's Razor
 description: "Occam's Razor is a principle of parsimony attributed to William of Ockham, which states that among competing hypotheses, the one with the fewest assumptions should be selected."

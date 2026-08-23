@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The 7 Habits of Highly Effective People - Stephen R. Covey
 author: Stephen R. Covey
 year: 2024

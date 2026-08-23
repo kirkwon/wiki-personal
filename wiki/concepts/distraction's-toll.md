@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Distraction's Toll
 description: "Distraction's Toll: How fragmented attention severely impairs focus, memory, and deep work capacity."

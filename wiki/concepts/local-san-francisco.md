@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Local San Francisco/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Local San Francisco
 type: concept
 updated: '2026-04-24'

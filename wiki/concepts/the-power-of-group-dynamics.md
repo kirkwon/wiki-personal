@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Power of Group Dynamics
 description: "Group interactions shape behavior; understanding dynamics unlocks collective potential and change."

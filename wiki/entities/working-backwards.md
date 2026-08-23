@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: working-backwards
 description: "Working backwards is the process of starting with the desired outcome or goal and then determining the steps needed to achieve it in reverse order."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: time-delay-decisions
 description: "Time-delay decisions are choices made with the understanding that their outcomes will not be immediately realized or known; they require patience and foresight in areas such as cooking (e.g., slow fer."
 created: 2026-06-10

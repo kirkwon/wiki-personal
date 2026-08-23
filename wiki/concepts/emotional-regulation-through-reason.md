@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Emotional Regulation Through Reason
 description: "Emotional Regulation Through Reason"

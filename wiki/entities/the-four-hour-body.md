@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: entity
 title: The Four Hour Body
 created: 2026-05-03

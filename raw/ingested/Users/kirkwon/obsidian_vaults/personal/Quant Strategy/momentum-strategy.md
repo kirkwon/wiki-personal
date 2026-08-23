@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Quant Strategy/momentum-strategy.md
 ingested: 2026-04-24
 sha256: 0465dcd3a0a98c8dfca4e90280744ccad6211b7c2903be0b8098c57112f7cd79
+date: 2026-05-14
 title: Momentum Strategy
 type: note
 created: '2026-05-14'

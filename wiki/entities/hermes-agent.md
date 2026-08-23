@@ -1,4 +1,5 @@
 ---
+date: 2026-06-15
 type: entity
 title: Hermes Agent
 description: "Hermes Agent (by Nous Research) is an advanced AI agent framework designed for autonomous, multi-session task execution."

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 749bc80c931f2b044b86140e178d4cfc9b96ed3749c1cfb871de724c4bb3c374
 source_path: Gastronomy/Cuisines/Chinese/Concepts/dim-sum.md
+date: 2026-05-14
 title: Dim Sum
 type: note
 created: '2026-05-14'

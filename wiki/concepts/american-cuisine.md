@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: query
 title: American Cuisine
 description: "American cuisine encompasses a wide range of regional styles and traditions."

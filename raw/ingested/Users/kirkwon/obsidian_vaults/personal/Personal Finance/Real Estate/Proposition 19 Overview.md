@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Real Estate
   19 Overview.md
 ingested: 2026-04-24
 sha256: aaf7a2979feb477800638e3421afec0f9d1c112e2c53b24581dd8297eb031900
+date: 2026-05-14
 title: Proposition 19 Overview
 type: note
 created: '2026-05-14'

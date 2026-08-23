@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: The Art of Thinking Clearly - Rolf Dobelli
 created: 2026-04-29

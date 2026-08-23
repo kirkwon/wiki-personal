@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Naturalistic Decision Making
 description: "Naturalistic Decision Making"
 created: 2026-06-10

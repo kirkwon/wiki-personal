@@ -1,4 +1,5 @@
 ---
+date: 2026-06-21
 type: gap-analysis
 title: "Game Theory Gaps in Methodology & Skills"
 created: 2026-06-21

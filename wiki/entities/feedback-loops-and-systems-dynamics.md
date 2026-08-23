@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: feedback-loops-and-systems-dynamics
 description: "feedback-loops-and-systems-dynamics"
 created: 2026-06-10

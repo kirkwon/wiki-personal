@@ -1,6 +1,7 @@
 ---
 tags: [concept, philosophy, mind, cognition]
 created: 2026-06-15
+date: 2026-06-15
 type: concept
 description: "The state of being aware of and able to think about one's own existence, sensations, thoughts, and environment."
 ---

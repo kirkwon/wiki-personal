@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: cbaf3d8a34fff341d1beebc5cbae83fdabcceff4d3db1af84e76f482ba8d2e10
 source_path: Gastronomy/Cuisines/Chinese/Concepts/cantonese-cuisine.md
+date: 2026-05-14
 title: Cantonese Cuisine
 type: note
 created: '2026-05-14'

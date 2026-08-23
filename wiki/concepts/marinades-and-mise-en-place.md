@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - technique
+date: 2026-04-24
 title: Marinades and Mise en Place
 type: concept
 updated: '2026-04-24'

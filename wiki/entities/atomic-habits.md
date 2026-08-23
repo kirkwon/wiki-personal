@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Atomic Habits
 description: "Atomic Habits by James Clear is a foundational text on habit formation."

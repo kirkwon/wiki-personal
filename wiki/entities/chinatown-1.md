@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Chinatown
 description: "A Chinatown is an urban ethnic enclave predominantly inhabited by people of Chinese descent, often characterized by a concentration of Chinese businesses, restaurants, and cultural institutions."
 created: 2026-06-10

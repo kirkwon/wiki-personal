@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Predictably Irrational - Dan Ariely
 created: 2026-04-29

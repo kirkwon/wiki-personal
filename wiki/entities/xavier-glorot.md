@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Xavier Glorot
 description: "Xavier Glorot is the inventor of the Xavier initialization method used to set initial weights in neural networks, which helps prevent vanishing or exploding gradients during training."
 created: 2026-06-10

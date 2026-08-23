@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Actor‑Critic
 description: "The Actor-Critic method is an approach that combines value function estimation (the Critic) with policy improvement (the Actor), akin to balancing recipe adjustments for cooking perfection and evaluat."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Lobster Roll
 description: "The lobster roll is a iconic New England sandwich featuring lobster meat served in a toasted split-top bun."

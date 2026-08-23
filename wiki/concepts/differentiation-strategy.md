@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Differentiation Strategy
 description: "Differentiation Strategy: Creating unique value or advantage to stand out from competitors in the market."

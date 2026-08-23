@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Exposure Triangle
 description: "The exposure triangle is the foundational framework for controlling light in photography."

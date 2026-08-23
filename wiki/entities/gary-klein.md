@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Gary Klein
 description: "Gary Klein is an American research psychologist known for pioneering the field of [[naturalistic-decision-making]] (NDM)."
 created: 2026-05-03

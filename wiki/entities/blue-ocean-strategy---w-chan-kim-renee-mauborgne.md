@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne
 description: "Blue Ocean Strategy - W."

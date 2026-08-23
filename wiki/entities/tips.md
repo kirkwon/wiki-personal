@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: tips
 description: "In cooking, tips refer to practical advice or techniques that enhance the preparation, presentation, or taste of dishes."
 created: 2026-06-10

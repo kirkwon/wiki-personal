@@ -1,8 +1,10 @@
 ---
+
+date: 2026-04-29
 type: concept
 title: Misbehaving - Richard H. Thaler
-description: "--
-Misbehaving: The Making of Behavioral Economics"
+description: "--"
+Misbehaving: The Making of Behavioral Economics""
 created: 2026-04-29
 updated: 2026-04-29
 tags:
@@ -16,6 +18,7 @@ related:
 - choice-overload
 - decision-making-frameworks
 - cognitive-biases-library
+
 ---
 --
 # Misbehaving: The Making of Behavioral Economics

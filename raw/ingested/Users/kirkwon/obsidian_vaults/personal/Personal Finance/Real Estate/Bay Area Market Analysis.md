@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Real Estate
   Area Market Analysis.md
 ingested: 2026-04-24
 sha256: afcb4c605d64cdf55b15d31a03a0ac6d376a4651f69861aae3ae4b29ca7af8ae
+date: 2026-05-14
 title: Bay Area Real Estate Market Analysis
 type: note
 created: '2026-05-14'

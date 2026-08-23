@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 182b05558bbeb55d0aedf02ce3ff3b2d84049b64b3531c372ce2c22bbb745899
 source_path: Photography/golden-hour.md
+date: 2026-05-14
 title: Golden Hour
 type: note
 created: '2026-05-14'

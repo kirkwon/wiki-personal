@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: perseverance
 description: "Perseverance is the steadfast commitment to continuous improvement despite challenges or failures encountered in various pursuits such as cooking (mastering complex recipes), photography (achieving de."
 created: 2026-06-10

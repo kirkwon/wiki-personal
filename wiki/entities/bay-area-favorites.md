@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Bay Area Favorites
 description: "Bay Area Favorites refer to popular dishes, photographic subjects, financial strategies, and cognitive science concepts that resonate with individuals in the San Francisco Bay Area region."
 created: 2026-06-10

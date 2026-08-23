@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Side Lighting
 description: "Side lighting occurs when the sun is positioned to the side of the subject, creating dramatic shadows and dimension."

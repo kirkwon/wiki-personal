@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Regularization
 description: "Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function in machine learning models, ensuring generalizability of predictions."
 created: 2026-06-10

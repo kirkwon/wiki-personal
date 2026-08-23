@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 7558a9760ba368b439588c3b0b69b439158d2b2cdcf2defcbf8c2034b9da5b5b
 source_path: Local San Francisco/sunset-district.md
+date: 2026-05-14
 title: Sunset District
 type: note
 created: '2026-05-14'

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 3baa9717ebcea0d1fb016737ceee4aaae5e7f6b5e7ba1fac3a8a0d2e946d33ca
 source_path: Gastronomy/Concepts/Aromatics.md
+date: 2026-05-14
 title: Aromatics - The Holy Trinity
 type: note
 created: '2026-05-14'

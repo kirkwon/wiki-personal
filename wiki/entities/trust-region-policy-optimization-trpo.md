@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Trust Region Policy Optimization (TRPO)
 description: "Trust Region Policy Optimization (TRPO)"
 created: 2026-06-10

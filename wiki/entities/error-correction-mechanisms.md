@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: error-correction mechanisms
 description: "error-correction mechanisms"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Meals
 description: "Meals is a universal mental model for navigating complex situations through pattern and relationship recognition."

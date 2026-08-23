@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: alterert skala
 description: "'Alterert skala' refers to the adjustment of scale or magnitude within various contexts such as cooking (e.g., altering ingredient proportions), photography (modifying exposure settings), personal fin."
 created: 2026-06-10

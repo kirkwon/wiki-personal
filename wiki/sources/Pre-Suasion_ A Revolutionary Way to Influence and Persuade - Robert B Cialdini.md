@@ -1,8 +1,10 @@
 ---
+
+date: 2026-05-03
 type: source
 title: 'Pre-Suasion: A Revolutionary Way to Influence and Persuade'
-description: "--
-Pre-Suasion: A Revolutionary Way to Influence and Persuade"
+description: "--"
+Pre-Suasion: A Revolutionary Way to Influence and Persuade""
 author: Robert B. Cialdini
 year: 2024
 created: 2026-05-03
@@ -14,6 +16,7 @@ tags:
 - mental-models
 sources:
 - Pre-Suasion_ A Revolutionary Way to Influence and Persuade - Robert B Cialdini.md
+
 ---
 --
 # Pre-Suasion: A Revolutionary Way to Influence and Persuade

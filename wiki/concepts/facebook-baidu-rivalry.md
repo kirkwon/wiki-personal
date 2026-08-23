@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Facebook vs Baidu Rivalry
 description: "Facebook vs Baidu Rivalry"

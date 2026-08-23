@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: teaching-problem-solving
 description: "teaching-problem-solving"
 created: 2026-06-10

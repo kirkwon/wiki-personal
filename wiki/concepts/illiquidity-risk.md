@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Illiquidity Risk
 description: "Illiquidity risk is the inability or danger that alternative investments cannot be sold quickly or at a fair price."

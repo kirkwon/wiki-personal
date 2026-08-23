@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 80f82a891014605ee941bab0aff1928e1942984fa4b0edbe54322d6436fd0ec9
 source_path: Personal Finance/Options Trading Guide.md
+date: 2026-05-14
 title: Options Trading Guide
 type: note
 created: '2026-05-14'

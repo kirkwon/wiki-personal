@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Opportunity Cost
 description: "The value of the next best alternative that must be foregone when making a choice or decision."

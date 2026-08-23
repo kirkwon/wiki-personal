@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: historical-volatility
 description: "historical-volatility"
 created: 2026-06-10

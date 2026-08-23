@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Antifragility
 type: concept
 created: 2026-05-03

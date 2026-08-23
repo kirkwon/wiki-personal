@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 柳刃（Yanagiba）
 description: "刺身用の包丁。長く、片刃。生魚を滑らかに薄切りにするために使う。"

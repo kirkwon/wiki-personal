@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Hado van Hasselt
 description: "Hado van Hasselt is an individual with diverse interests spanning cooking, photography, personal finance management, and cognitive science exploration."
 created: 2026-06-10

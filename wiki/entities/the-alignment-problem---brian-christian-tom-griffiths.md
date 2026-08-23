@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: The Alignment Problem - Brian Christian & Tom Griffiths
 created: 2026-04-29

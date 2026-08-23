@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Symbolic AI
 description: "Symbolic AI refers to artificial intelligence systems that manipulate symbols to perform tasks by following predefined rules or logic, similar to how recipes guide cooking processes or camera settings."
 created: 2026-06-10

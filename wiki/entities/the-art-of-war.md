@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Art of War
 description: "'The Art of War,' attributed to Sun Tzu, is an ancient Chinese military treatise that emphasizes strategy, tactics, and the psychological aspects of conflict resolution."
 created: 2026-06-10

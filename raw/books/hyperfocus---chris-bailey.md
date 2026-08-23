@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Hyperfocus - Chris Bailey
 author: Chris Bailey
 year: 2024

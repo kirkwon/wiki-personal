@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Salmon
 description: "A Salmon is a pinkish-orange fish belonging to the family Salmonidae, renowned in cooking for its rich flavor and versatility in various cuisines; it's also popular subject matter in photography due t."
 created: 2026-06-10

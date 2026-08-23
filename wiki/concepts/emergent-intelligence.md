@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: Emergent Intelligence
 description: "--
 Emergent Intelligence"

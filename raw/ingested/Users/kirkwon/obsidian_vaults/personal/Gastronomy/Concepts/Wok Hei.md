@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Concepts/Wok Hei.md
 ingested: 2026-04-24
 sha256: 1f2558d3fefb29a5048fda1829f47648ea9c4d16480fd43489550ef19f06c4c5
+date: 2026-05-14
 title: Wok Hei
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: チャーシュー (Chashu)
 description: "チャーシューはラーメンの必須トッピングであるブrais pork belly。醤油、酒、みりん、砂糖で長時間煮込み、柔らかく深い旨味を帯びた肉に仕上げる。"

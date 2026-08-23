@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: entity
 title: Hermes Skill
 description: "Hermes Skill

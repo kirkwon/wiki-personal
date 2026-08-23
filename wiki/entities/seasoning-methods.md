@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Seasoning Methods
 description: "Seasoning methods refer to the techniques used to enhance flavor profiles in cooking through the application of various spices, herbs, and condiments."
 created: 2026-06-10

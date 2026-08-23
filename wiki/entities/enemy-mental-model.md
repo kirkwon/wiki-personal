@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: enemy-mental-model
 description: "An enemy-mental model is a cognitive framework that individuals use to anticipate and strategize against perceived threats or challenges within various domains such as cooking (e.g., recipe failures)."
 created: 2026-06-10

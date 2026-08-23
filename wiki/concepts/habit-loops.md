@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Habit Loops
 description: "Understanding the cyclical process that governs how routines and behaviors are formed."

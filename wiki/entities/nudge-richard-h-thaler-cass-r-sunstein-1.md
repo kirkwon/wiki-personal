@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Nudge - Richard H Thaler  Cass R Sunstein
 description: "Nudge - Richard H Thaler  Cass R Sunstein"
 created: 2026-06-10

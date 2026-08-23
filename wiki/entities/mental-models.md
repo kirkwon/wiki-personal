@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Mental Models
 description: "A mental model is an individual's internal representation of how something works in the real world, shaping their understanding and decision-making processes across various domains like cooking (recip."
 created: 2026-06-10

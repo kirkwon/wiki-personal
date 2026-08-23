@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Mu
   Funds vs ETFs in Taxable Accounts.md
 ingested: 2026-04-24
 sha256: 33e7d64326c0699e454aa8582a1c338e8e48475938adfe4a65fd585ed5f0979b
+date: 2026-05-14
 title: Mutual Funds vs ETFs in Taxable Accounts
 type: note
 created: '2026-05-14'

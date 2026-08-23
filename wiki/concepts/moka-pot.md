@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Moka Pot
 description: "A Moka Pot is an Italian stovetop espresso maker that brews coffee by forcing pressurized hot water through finely ground coffee beans."
 created: 2026-06-10

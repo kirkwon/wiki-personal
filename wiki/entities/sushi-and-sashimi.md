@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 寿司と刺身
 description: "寿司（Sushi）は酢飯と具の組み合わせであり、刺身（Sashimi）は生魚のみの料理。両者とも食材の新鮮さと技法の正確さが不可欠。"

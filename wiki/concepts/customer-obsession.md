@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Customer Obsession
 description: "Customer Obsession. Placing the customer's needs and experience at the absolute center of all business strategy and innovation."

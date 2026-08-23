@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: minimalist-productivity
 description: "minimalist-productivity"
 created: 2026-06-10

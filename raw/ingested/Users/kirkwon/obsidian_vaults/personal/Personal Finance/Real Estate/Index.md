@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Real Estate/Index.md
 ingested: 2026-04-24
 sha256: 68ab85fa131f493157f0aba83302db9115166983e030b47c4b2fddbe4449dda1
+date: 2026-05-14
 title: Real Estate Investment
 type: note
 created: '2026-05-14'

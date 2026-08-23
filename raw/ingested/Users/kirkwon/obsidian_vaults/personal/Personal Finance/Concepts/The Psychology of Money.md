@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Th
   Psychology of Money.md
 ingested: 2026-04-24
 sha256: 2bca3e25192937693ce26e6e160ae2c9f151b71c665af099ab83b6f8cae20c7e
+date: 2026-05-14
 title: The Psychology of Money
 type: note
 created: '2026-05-14'

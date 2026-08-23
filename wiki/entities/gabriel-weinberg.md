@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Gabriel Weinberg
 description: "Founder of DuckDuckGo and author of Super Thinking (2024), a beginner-level book that presents mental models as a toolkit for better decision-making, problem-solving, and learning."

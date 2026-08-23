@@ -1,4 +1,5 @@
 ---
+date: 2026-07-04
 title: "Extraction Method Comparison: OCR vs Vision vs VLM vs MarkItDown"
 
 type: methodology-note

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Everything Is F_cked - Mark Manson
 description: "Everything Is F_cked - Mark Manson"
 created: 2026-06-10

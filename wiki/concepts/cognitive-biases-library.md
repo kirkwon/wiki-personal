@@ -6,6 +6,7 @@ tags:
 - cognitive-bias
 - decision-making
 - psychology
+date: 2026-04-24
 title: Cognitive Biases Library
 description: "Cognitive Biases Library"
 type: concept

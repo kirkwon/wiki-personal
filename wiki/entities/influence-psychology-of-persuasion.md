@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: influence-psychology-of-persuasion
 description: "influence-psychology-of-persuasion"
 created: 2026-06-10

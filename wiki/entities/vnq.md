@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: vnq
 description: "In the context of cooking, 'vnq' refers to Variable Nutrient Quantity, which is an approach that adjusts ingredient proportions based on dietary needs or taste preferences."
 created: 2026-06-10

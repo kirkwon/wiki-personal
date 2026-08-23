@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Thai Salads
 description: "Thai salads are vibrant dishes that blend fresh vegetables with herbs, spices, and proteins like tofu or shrimp, often dressed in a tangy lime-based sauce."
 created: 2026-06-10

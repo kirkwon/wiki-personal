@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: source
 title: Obstacles Source
 created: 2026-05-04

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Stoic Mental Model Source
 created: 2026-04-29

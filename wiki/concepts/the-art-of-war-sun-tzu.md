@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Art of War - Sun Tzu
 description: "The Art of War - Sun Tzu"

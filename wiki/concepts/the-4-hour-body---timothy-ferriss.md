@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: summary
 title: The 4-Hour Body - Timothy Ferriss
 description: "The 4-Hour Body - Timothy Ferriss"

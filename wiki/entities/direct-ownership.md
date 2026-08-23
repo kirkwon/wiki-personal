@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: direct-ownership
 description: "Direct-ownership refers to the complete control an individual has over assets or investments without intermediaries."
 created: 2026-06-10

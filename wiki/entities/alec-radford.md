@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Alec Radford
 description: "Alec Radford is an innovator at the intersection of technology and cognitive science with notable contributions to AI through his work on DALL-E and Stable Diffusion models."
 created: 2026-06-10

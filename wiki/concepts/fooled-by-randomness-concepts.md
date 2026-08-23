@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Fooled by Randomness - Key Concepts
 description: "Fooled by Randomness - Key Concepts. Understanding how patterns can be mistakenly perceived in purely random data sets."

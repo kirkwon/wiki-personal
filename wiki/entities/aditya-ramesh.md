@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Aditya Ramesh
 description: "Aditya Ramesh is an individual with diverse interests spanning the culinary arts to cognitive exploration."
 created: 2026-06-10

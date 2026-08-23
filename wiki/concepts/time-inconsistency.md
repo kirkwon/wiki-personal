@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: concept
 title: Time Inconsistency
 created: 2026-05-04

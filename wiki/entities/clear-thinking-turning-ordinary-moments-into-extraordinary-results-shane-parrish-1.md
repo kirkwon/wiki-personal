@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Clear Thinking: Turning Ordinary Moments into Extraordinary Results - Shane Parrish"
 description: "Clear Thinking: Turning Ordinary Moments into Extraordinary Results - Shane Parrish"
 created: 2026-06-10

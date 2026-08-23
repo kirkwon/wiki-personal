@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Tragedy of the Commons
 description: "Shared resources depleted by individual self-interest, harming all users over time."

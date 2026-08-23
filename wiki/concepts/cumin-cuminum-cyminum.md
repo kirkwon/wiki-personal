@@ -7,6 +7,7 @@ tags:
 - herbs
 - cooking
 - gastronomy
+date: 2026-04-24
 title: Cumin (Cuminum cyminum)
 type: concept
 updated: 2026-05-09

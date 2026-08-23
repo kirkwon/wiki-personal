@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Transformation
 description: "Transformation is a conceptual tool or principle that helps understand and navigate complex situations."

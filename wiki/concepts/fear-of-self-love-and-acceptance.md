@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Fear of Self-Love and Acceptance
 description: "The deep psychological resistance to acknowledging and accepting one's inherent self-worth."

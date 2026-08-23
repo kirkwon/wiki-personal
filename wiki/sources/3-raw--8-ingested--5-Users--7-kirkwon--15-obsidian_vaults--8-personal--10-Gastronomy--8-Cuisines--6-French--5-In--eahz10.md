@@ -1,4 +1,5 @@
 ---
+date: 2026-06-04
 type: source
 title: "Source: raw/ingested/Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/French/Index.md"
 created: 2026-06-04

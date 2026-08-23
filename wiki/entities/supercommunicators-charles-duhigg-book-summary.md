@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: supercommunicators-charles-duhigg-book-summary
 description: "supercommunicators-charles-duhigg-book-summary"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Mission District
 description: "The Mission District is a vibrant neighborhood in San Francisco known for its eclectic culinary scene and diverse food culture, which offers ample opportunities to explore various cuisines while manag."
 created: 2026-06-10

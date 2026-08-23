@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: Man's Search for Meaning - Viktor Frankl
 created: 2026-04-29
 updated: 2026-05-03

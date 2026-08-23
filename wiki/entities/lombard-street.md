@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Lombard Street
 description: "Lombard Street est une rue célèbre située dans le [[russian-hill]] de San Francisco, connue comme la « rue la plus tordue du monde » (The Crookedest Street) ou la « rue la plus tortueuse »."

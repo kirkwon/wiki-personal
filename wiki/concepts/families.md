@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Families
 description: "Families is a mental model or conceptual tool that helps understand and navigate complex situations."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: skill
 title: Skills Dashboard - Final Report
 created: 2026-05-14

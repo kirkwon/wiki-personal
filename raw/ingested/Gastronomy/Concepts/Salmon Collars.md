@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: c2b3664c4b48a0582868a031e4cc38999f4b9d7fac1ca05d1f64d66863f2f266
 source_path: Gastronomy/Concepts/Salmon Collars.md
+date: 2026-05-14
 title: Salmon Collars
 type: note
 created: '2026-05-14'

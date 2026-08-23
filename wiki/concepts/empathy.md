@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Empathy
 description: "Empathy is the ability to understand and share the feelings of others."

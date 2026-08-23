@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Win-Win through Effective Communication
 description: "Win-Win through Effective Communication"
 created: 2026-06-10

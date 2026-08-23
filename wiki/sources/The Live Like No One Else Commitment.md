@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: The Live Like No One Else Commitment
 type: source
 created: 2026-04-29

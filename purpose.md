@@ -1,4 +1,5 @@
 ---
+date: 2026-06-09
 type: note
 title: Wiki Purpose
 created: 2026-06-09

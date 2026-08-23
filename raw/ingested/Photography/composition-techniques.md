@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 6741e6af19e8b5a207cf3b4b2812deac55d71bfcddeaa5d5ebb709180d348f13
 source_path: Photography/composition-techniques.md
+date: 2026-05-14
 title: Composition Techniques
 type: note
 created: '2026-05-14'

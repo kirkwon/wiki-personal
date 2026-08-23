@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Limits to Growth
 description: "The 'Limits to Growth' is an analysis of the potential consequences of population growth, resource depletion, environmental damage, and other factors on global sustainability."
 created: 2026-06-10

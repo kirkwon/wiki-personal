@@ -1,4 +1,5 @@
 ---
+date: 2026-04-22
 type: entity
 title: Limited Liability Company (LLC)
 created: 2026-04-22

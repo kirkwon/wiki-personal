@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: The Honest Truth About Dishonesty - Dan Ariely
 created: 2026-04-29

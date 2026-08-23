@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: c89d6bd2cbda8e8bd204a020bef2d40b0fc8f2b0ba7a02d08c02cd5b64281f09
 source_path: Photography/post-processing.md
+date: 2026-05-14
 title: Post-Processing
 type: note
 created: '2026-05-14'

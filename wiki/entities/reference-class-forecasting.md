@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Reference class forecasting
 description: "Reference class forecasting"
 created: 2026-06-10

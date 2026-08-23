@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 铁观音 (Tieguanyin)
 description: "铁观音 (Tieguanyin - Iron Goddess of Mercy)"

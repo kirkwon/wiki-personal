@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: concept
 title: Naturaleza Algorítmica de la Intuición
 created: 2026-06-12

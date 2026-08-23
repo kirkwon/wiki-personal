@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: focus-enhancement-techniques
 description: "focus-enhancement-techniques"
 created: 2026-06-10

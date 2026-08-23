@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Cialdini's Six Principles of Influence
 description: "--

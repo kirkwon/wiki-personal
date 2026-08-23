@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Six Thinking Hats
 description: "The Six Thinking Hats is Edward de Bono's parallel thinking method for structured group deliberation, developed by [[edward-de-bono]]."

@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Indian/Index.md
 ingested: 2026-04-24
 sha256: 20e3b7f2e4219d31507ed56fb7bd5cc05f6a35f5c13ad5bd73355b91cfdcf00f
+date: 2026-05-14
 title: Indian Cuisine
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Process Praise vs. Person Praise
 description: "Process Praise vs. Person Praise"

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Range - David Epstein
 description: "Range - David Epstein"

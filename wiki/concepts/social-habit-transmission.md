@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Social Habit Transmission
 description: "Social Habit Transmission | concept | psychology, sociology, habits."

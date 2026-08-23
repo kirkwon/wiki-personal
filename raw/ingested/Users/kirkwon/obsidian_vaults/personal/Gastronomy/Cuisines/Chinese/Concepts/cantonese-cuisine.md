@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Chinese/Concepts/cantonese-cuisine.md
 ingested: 2026-04-24
 sha256: 377cb3f16d192208326cbad079f5e20d0fe48eb7af41ed9902adaca8d68b3ae9
+date: 2026-05-14
 title: Cantonese Cuisine
 type: note
 created: '2026-05-14'

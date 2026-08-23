@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Three Laws of Systems Thinking
 description: "Interconnectedness, feedback loops, and emergent behavior define complex system dynamics."

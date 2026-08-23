@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Re
   Minimum Distributions.md
 ingested: 2026-04-24
 sha256: da7f3cc4430243259f5d526af1e20358149ec69c4db8963e34838068e514b1f2
+date: 2026-05-14
 title: Required Minimum Distributions (RMDs)
 type: note
 created: '2026-05-14'

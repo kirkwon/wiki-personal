@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 type: source
 title: "Source: test-ingest.md"
 description: "Source: test-ingest.md"

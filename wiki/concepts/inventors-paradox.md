@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Inventor's Paradox
 created: 2026-05-03

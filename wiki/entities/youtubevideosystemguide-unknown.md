@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: note
 title: YOUTUBE_VIDEO_SYSTEM_GUIDE - Unknown
 created: 2026-05-14

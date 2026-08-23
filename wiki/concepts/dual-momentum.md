@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Dual Momentum
 description: "Dual momentum is a strategy variant that applies momentum to asset allocation rather than individual stock selection."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Spatial Models
 description: "Models of how location and geography affect behavior."

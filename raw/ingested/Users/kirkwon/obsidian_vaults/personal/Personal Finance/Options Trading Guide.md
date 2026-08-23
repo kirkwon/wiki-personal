@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Options Tra
   Guide.md
 ingested: 2026-04-24
 sha256: 6cd24009f0d6240e84bbad207d6c2e10655431b329c97f53ad1dc268f6440f5d
+date: 2026-05-14
 title: Options Trading Guide
 type: note
 created: '2026-05-14'

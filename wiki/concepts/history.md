@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: History
 description: "History as a mental model in Taleb's framework emphasizes that the past is shaped disproportionately by rare, unpredictable events."

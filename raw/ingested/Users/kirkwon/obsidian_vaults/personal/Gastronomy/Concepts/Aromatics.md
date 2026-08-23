@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Concepts/Aromatics.md
 ingested: 2026-04-24
 sha256: e3b01cf9f9e5eb4395d63d4538233e275501efe570b255092603fd7ce3e52bda
+date: 2026-05-14
 title: Aromatics - The Holy Trinity
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Marvin Minsky
 description: "Marvin Minsky was a pioneering computer scientist known for his work on artificial intelligence and cognitive science, which has indirect implications in areas like cooking (e.g., recipe algorithms) a."
 created: 2026-06-10

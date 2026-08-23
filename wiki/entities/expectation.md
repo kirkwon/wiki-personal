@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: expectation
 description: "Expectation refers to the anticipated outcome or result based on prior knowledge or experience."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Metaphor and Analogy in Decision-Making
 description: "Metaphor and Analogy in Decision-Making"

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Humility Source
 description: "This source introduces Humility as a universal mental model for navigating complex situations through pattern and relationship recognition."

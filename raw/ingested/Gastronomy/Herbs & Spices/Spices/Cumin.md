@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: a84813eb806f0df795e14b5ed30f35e0c5a1a2747a6e75ecdef2f0bb8dd6c11a
 source_path: Gastronomy/Herbs & Spices/Spices/Cumin.md
+date: 2026-05-14
 title: Cumin (Cuminum cyminum)
 type: note
 created: '2026-05-14'

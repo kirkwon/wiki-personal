@@ -1,4 +1,5 @@
 ---
+date: 2026-06-13
 type: source
 title: "Source: loop-engineering.md"
 description: "Source: loop-engineering.md"

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: ego
 description: "The ego is the part of one's self-concept that includes one's sense of identity and personal achievements."
 created: 2026-06-10

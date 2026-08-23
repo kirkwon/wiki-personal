@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: SoMa
 description: "SoMa stands for 'Science of Money,' which is an interdisciplinary approach that combines principles from cognitive science to understand financial decision-making processes."
 created: 2026-06-10

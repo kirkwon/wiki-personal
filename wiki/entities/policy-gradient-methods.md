@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Policy Gradient Methods
 description: "Policy Gradient Methods"
 created: 2026-06-10

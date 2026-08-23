@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Landscapes
 description: "Source document for the Landscapes mental model."

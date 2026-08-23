@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 86c1ee37a77afcaa3fec48fceddb28a8981fdb7ca22cf8d2d7f2c0509995a131
 source_path: Gastronomy/Cuisines/American/Index.md
+date: 2026-05-14
 title: American Cuisine
 type: note
 created: '2026-05-14'

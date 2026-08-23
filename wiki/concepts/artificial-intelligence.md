@@ -1,6 +1,7 @@
 ---
 tags: [concept, ai, machine-learning, general]
 created: 2026-06-15
+date: 2026-06-15
 type: concept
 description: "Artificial Intelligence"
 ---

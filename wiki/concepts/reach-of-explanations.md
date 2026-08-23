@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Reach of Explanations
 description: "Reach of Explanations | concept | epistemology, philosophy, knowledge."

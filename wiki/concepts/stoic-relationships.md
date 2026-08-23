@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Stoic Relationships
 description: "Stoic Relationships | concept | philosophy, mental-models, psychology, communication-skills."

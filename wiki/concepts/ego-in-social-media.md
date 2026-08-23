@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Ego in Social Media and the Internet Age
 description: "Ego in Social Media and the Internet Age: Curating an idealized online persona, often leading to comparison and insecurity."

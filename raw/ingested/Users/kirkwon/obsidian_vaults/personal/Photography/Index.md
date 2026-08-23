@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Photography/Index.md
 ingested: 2026-04-24
 sha256: 8a191c89579e77cc17ac8d2ed95b36753ffc067f4f78be56e70e12d399480565
+date: 2026-05-14
 title: Photography
 type: note
 created: '2026-05-14'

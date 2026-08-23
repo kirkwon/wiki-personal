@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Uncertainty Principle (Taleb's Version)
 description: "Predicting future outcomes is inherently limited by current incomplete knowledge and random variables."

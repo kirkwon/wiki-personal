@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Rhythm Changes
 description: "Rhythm changes er en 16-takt jazzprogresjon basert på George Gershwins 'I Got Rhythm'."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: DSCR Loans — Debt Service Coverage Ratio Loans
 created: 2026-04-24

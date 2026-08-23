@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Roger Schank
 description: "Roger Schank was an influential cognitive scientist known for his work on conceptualizing the way humans process information, which has implications in various fields including cooking (recipe underst."
 created: 2026-06-10

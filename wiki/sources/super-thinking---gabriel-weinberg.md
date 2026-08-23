@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-05-03
 sha256: f2d31e030383e03bba56ec8b24e363d39e0fdf8a0fe0101cf03ce48ad2eb1d52
+date: 2026-05-14
 title: Super Thinking - Gabriel Weinberg
 type: note
 created: '2026-05-14'

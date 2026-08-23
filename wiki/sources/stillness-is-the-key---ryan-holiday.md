@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Stillness Is the Key - Ryan Holiday
 description: "Stillness Is the Key - Ryan Holiday"

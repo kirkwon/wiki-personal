@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Photography/photography-fundamentals.md
 ingested: 2026-04-24
 sha256: 6029319b3af7b076d36927f92630957e2d451a67c37424fa139757d7fd1ede6c
+date: 2026-05-14
 title: Photography Fundamentals
 type: note
 created: '2026-05-14'

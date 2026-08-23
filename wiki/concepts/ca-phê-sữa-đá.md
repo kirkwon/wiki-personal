@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Cà Phê Sữa Đá
 description: "Cà Phê Sữa Đá là đồ uống cà phê truyền thống của Việt Nam, được pha từ Robusta mạnh mẽ với sữa đặc. Đây là biểu tượng văn hóa ẩm thực Việt Nam, nổi tiếng với hương vị đậm, ngọt béo và sự kết hợp độc đ."

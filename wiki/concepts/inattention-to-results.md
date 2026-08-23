@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Inattention to Results
 description: "Overemphasizing the work done (effort) instead of focusing on actual, measurable results."

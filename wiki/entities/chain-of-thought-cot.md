@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Chain‑of‑Thought (CoT)
 description: "Chain‑of‑Thought (CoT)"
 created: 2026-06-10

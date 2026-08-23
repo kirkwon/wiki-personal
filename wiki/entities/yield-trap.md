@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Yield Trap
 description: "A yield trap is the financial phenomenon where investors are lured into buying assets that show initial high returns but fail to sustain them over time, often leading to significant losses."
 created: 2026-06-10

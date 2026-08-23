@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sirloin
 description: "Sirloin refers to the cut of beef from the lower part of the back, specifically between the ribs and rump."
 created: 2026-06-10

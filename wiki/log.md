@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: note
 title: Wiki Log
 created: 2026-05-14

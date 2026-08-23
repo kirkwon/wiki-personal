@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: First Impressions in Decision-Making
 description: "First Impressions in Decision-Making"
 created: 2026-05-03

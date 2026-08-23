@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Tex-Mex
 description: "La cocina Tex-Mex es una tradición de comida reconfortante americana nacida de la cultura Tejano, es decir, texanos de descendencia mexicana."

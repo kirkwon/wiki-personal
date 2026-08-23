@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: building-a-better-capitalism
 description: "building-a-better-capitalism"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Portal:Local Interests
 description: "Portal:Local Interests"
 created: 2026-06-10

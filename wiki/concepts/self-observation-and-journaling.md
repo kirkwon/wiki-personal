@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Self-Observation and Journaling
 description: "Self-Observation and Journaling | concept | philosophy, productivity, mental-models, psychology."

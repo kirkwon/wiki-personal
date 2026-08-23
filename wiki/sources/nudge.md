@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Nudge - Richard H. Thaler & Cass R. Sunstein
 description: "--

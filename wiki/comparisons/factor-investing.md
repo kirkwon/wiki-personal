@@ -6,6 +6,7 @@ tags:
 - quant
 - factor
 - investing
+date: 2026-04-24
 title: Factor Investing
 description: "Factor investing is a systematic approach to selecting stocks based on attributes (factors) that have historically provided excess returns."
 type: comparison

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 阿里山 (Ali Shan)
 description: "--

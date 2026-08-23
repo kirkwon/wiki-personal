@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Price as Placebo
 description: "Price as Placebo | concept | cognitive-bias, decision-making, behavioral-economics."

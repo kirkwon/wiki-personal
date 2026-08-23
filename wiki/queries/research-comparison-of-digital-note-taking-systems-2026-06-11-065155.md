@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 type: query
 title: "Research: Comparison of Digital Note-Taking Systems"
 description: "Research: Comparison of Digital Note-Taking Systems"

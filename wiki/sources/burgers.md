@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: American Burgers
 description: "Burger to amerykańska ikoną kulinarną — prosty koncept podniesiony do rangi sztuki."

@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/Op
   Trading.md
 ingested: 2026-04-24
 sha256: e43c6bd95f46dced5d3c5688c846ced0da7b5bbc1e7a8d347446bf1941420791
+date: 2026-05-14
 title: Options Trading
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Variational Inference
 description: "Variational Inference"
 created: 2026-06-10

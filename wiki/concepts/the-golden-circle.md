@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: The Golden Circle
 description: "The Golden Circle is Simon Sinek's framework that structures how organizations and individuals communicate their value."
 created: 2026-05-03

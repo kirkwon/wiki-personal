@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Metaphors and Analogies in Creative Problem-Solving
 description: "Metaphors and Analogies in Creative Problem-Solving"

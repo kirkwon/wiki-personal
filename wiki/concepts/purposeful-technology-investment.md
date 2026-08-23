@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Purposeful Technology Investment
 description: "Purposeful Technology Investment | concept | productivity, technology, decision-making."

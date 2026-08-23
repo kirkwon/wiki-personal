@@ -1,4 +1,5 @@
 ---
+date: 2026-06-07
 type: source
 title: "Source: Books/Nudge - Richard H Thaler  Cass R Sunstein.md"
 description: "Source: Books/Nudge - Richard H Thaler  Cass R Sunstein.md"

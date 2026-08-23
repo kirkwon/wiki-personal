@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: cantonese-roast-duck
 description: "Cantonese roast duck is a traditional Chinese dish featuring Peking duck that has been marinated in spices before being glazed with maltose syrup and baked at high heat."
 created: 2026-06-10

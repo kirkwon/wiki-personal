@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Purposeful Use Principle
 description: "Purposeful Use Principle | concept | productivity, technology, decision-making."

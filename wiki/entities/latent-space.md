@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Latent Space
 description: "Latent space refers to an abstract multi-dimensional representation where hidden or unobserved variables are mapped out."
 created: 2026-06-10

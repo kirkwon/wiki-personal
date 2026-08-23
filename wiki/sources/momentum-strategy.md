@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Momentum Strategy
 description: "This source documents the momentum investment strategy — one of the most robust market anomalies, persisting across asset classes, geographies, and time periods for 90+ years."

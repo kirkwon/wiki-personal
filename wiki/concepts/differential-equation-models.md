@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Differential Equation Models
 description: "Differential Equation Models"

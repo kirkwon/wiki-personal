@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Markov Models
 description: "Models of stochastic processes where the future state depends only on the current state, not on the history of how that state was reached."

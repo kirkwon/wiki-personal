@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Excellence Mindset
 description: "The belief that ability can be developed through dedication, practice, and hard work."

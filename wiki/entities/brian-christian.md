@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Brian Christian
 description: "Brian Christian is a writer and computer scientist known for bridging computer science and human decision-making."

@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Photography/street-photography.md
 tags:
 - general
+date: 2026-04-24
 title: Street Photography
 type: query
 updated: '2026-04-24'

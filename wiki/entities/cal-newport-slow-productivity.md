@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Cal Newport - Slow Productivity
 description: "--

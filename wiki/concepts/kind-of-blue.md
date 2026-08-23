@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Kind of Blue
 description: "Kind of Blue (1959) is the best-selling jazz album of all time and the defining work of modal jazz."

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Atomic Habits - Book Summary
 description: "Atomic Habits - Book Summary. Focuses on making small, incremental changes that lead to massive long-term improvements in life."

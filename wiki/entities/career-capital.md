@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: career capital
 description: "Career capital refers to the accumulation of skills, experiences, and networks that enhance one's employability and career advancement in fields like cooking (culinary expertise), photography (visual."
 created: 2026-06-10

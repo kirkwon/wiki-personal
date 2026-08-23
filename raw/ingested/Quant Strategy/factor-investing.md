@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 5d33221a6cb82e7d724d81766bfe6adfec3fc72fc0ae218b80d7cd148012b53a
 source_path: Quant Strategy/factor-investing.md
+date: 2026-05-14
 title: Factor Investing
 type: note
 created: '2026-05-14'

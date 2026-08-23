@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: the-virtue-of-temperance
 description: "the-virtue-of-temperance"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Technique
 description: "Technique on systemaattisen tehokkuuden ja tulosten parantamisen käytäntö."

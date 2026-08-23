@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: The Obstacle Is the Way
 created: 2026-04-29

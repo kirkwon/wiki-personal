@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Absence of Trust
 description: "Absence of Trust. A lack of confidence in others that hinders cooperation and limits organizational performance."

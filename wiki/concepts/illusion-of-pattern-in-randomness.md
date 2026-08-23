@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Illusion of Pattern in Randomness
 description: "Illusion of Pattern in Randomness"

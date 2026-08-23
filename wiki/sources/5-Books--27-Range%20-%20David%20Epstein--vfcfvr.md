@@ -1,4 +1,5 @@
 ---
+date: 2026-06-05
 type: source
 title: "Source: Books/Range - David Epstein.md"
 description: "Source: Books/Range - David Epstein.md"

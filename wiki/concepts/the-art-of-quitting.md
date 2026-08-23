@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Art of Quitting
 description: "The Art of Quitting reframes quitting as a deliberate skill rather than a sign of weakness."

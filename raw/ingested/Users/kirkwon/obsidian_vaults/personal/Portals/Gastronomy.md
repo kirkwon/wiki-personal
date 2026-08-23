@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Portals/Gastronomy.md
 ingested: 2026-04-24
 sha256: dac4d42094b74788386ce53d990d89e648f6d12919f2491288caea1af97f4be3
+date: 2026-05-14
 title: 'Portal: Gastronomy'
 type: note
 created: '2026-05-14'

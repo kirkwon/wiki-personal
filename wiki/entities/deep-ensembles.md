@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Deep Ensembles
 description: "Deep ensembles are an advanced machine learning technique where multiple deep neural networks (DNNs) with different initializations or architectures are trained together to improve predictive performa."
 created: 2026-06-10

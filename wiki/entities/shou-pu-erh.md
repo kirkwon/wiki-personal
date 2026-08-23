@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 熟普洱
 description: "熟普洱（Shòu Pǔ'ěr）是普洱茶的熟茶类型，通过渥堆加速发酵工艺制成。"

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Coit Tower
 description: "Coit Tower is a San Francisco landmark located on Telegraph Hill, offering 360° panoramic views of the city and bay."

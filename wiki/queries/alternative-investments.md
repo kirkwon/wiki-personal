@@ -6,6 +6,7 @@ tags:
 - budgeting
 - general
 - real-estate
+date: 2026-04-24
 title: Alternative Investments
 type: query
 updated: '2026-04-24'

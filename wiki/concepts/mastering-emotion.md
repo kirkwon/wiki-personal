@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Mastering Emotion
 description: "Mastering emotion refers to the practice of regulating emotional responses to maintain mental clarity, resilience, and focus when facing challenges."

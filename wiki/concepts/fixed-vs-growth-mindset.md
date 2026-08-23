@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Fixed vs. Growth Mindset
 description: "Fixed vs. Growth Mindset"

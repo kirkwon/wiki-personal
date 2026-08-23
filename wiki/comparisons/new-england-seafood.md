@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/American/Concepts/new-england-seafood.md
 tags:
 - general
+date: 2026-04-24
 title: New England Seafood
 type: comparison
 updated: '2026-04-24'

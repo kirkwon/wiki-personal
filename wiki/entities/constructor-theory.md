@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: constructor-theory
 description: "Constructor theory is an interdisciplinary framework that examines the conditions under which entities are created or transformed through interactions of their constituent parts."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Painted Ladies
 description: "The term 'Painted Ladies' refers to Victorian houses that have been extensively renovated or repainted with bright colors, often in a variety of hues."
 created: 2026-06-10

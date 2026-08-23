@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: major-and-minor-scales
 description: "major-and-minor-scales"
 created: 2026-06-10

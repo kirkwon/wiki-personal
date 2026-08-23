@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: heuristic-proproblem-solving
 description: "heuristic-proproblem-solving"
 created: 2026-06-10

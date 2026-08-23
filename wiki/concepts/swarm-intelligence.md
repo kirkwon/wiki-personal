@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Swarm Intelligence
 description: "Collective behavior emerges from simple interactions among decentralized agents, mimicking natural systems."

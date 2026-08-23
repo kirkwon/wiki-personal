@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: comparisons
 description: "Comparisons involve evaluating similarities or differences between two or more entities to draw insights or make informed decisions."
 created: 2026-06-10

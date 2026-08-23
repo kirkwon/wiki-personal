@@ -1,4 +1,5 @@
 ---
+date: 2026-06-16
 type: entity
 title: Critic Agent
 created: 2026-06-16

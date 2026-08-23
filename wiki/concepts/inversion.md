@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Inversion
 description: "Instead of asking how to succeed, one asks what would guarantee failure, then avoids those paths."

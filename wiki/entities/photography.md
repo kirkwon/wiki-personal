@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Photography
 description: "Photography is the art and science of capturing light on a photosensitive surface to create images that represent a moment in time or convey an idea."
 created: 2026-06-10

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 89347acb423ef62fe87b5d3531df2d326f4e698ec459ab177a4cd11a19c6440a
 source_path: README.md
+date: 2026-05-14
 title: Personal Knowledge Vault - README
 type: note
 created: '2026-05-14'

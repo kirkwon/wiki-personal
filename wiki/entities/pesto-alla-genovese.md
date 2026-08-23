@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Pesto alla Genovese
 created: 2026-04-24

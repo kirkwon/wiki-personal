@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: b35c9eb3f3861ca1fef34f2dc431d2b807a1fee0535de4d456c19de73ad63556
 source_path: Gastronomy/Beverages/Coffee/Preparation/French Press.md
+date: 2026-05-14
 title: French Press Coffee (法压壶咖啡)
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Four
 description: "The Four is Scott Galloway's framework identifying Amazon, Apple, Google (Alphabet), and Facebook (Meta) as a new class of market titans that function as a de facto oligopoly reshaping entire industri."

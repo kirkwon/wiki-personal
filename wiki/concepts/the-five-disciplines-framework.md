@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Five Disciplines Framework
 created: 2026-05-03

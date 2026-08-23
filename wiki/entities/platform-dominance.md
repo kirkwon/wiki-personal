@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Platform dominance
 description: "Platform dominance refers to the situation where one digital platform holds significant market power over others within its industry, often leading to reduced competition and potential monopolistic be."
 created: 2026-06-10

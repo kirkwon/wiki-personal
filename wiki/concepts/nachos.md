@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Nachos
 description: "Los nachos son un aperitivo icónico de la cocina Tex-Mex, inventados en 1943 por Ignacio 'Nacho' Anaya en Piedras Negras, México."

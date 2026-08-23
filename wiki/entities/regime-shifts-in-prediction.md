@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Regime shifts in prediction
 description: "Regime shifts in prediction"
 created: 2026-06-10

@@ -2,6 +2,7 @@
 ingested: '2026-04-22'
 sha256: 863154468d01f45b571301497b7c95109269a0cd1d8358d6bcd996dc97434f36
 source_path: Personal Finance/Core Concepts.md
+date: 2026-05-14
 title: Personal Finance
 description: "[[risk-management]]
 Comprehensive risk management strategies including diversification, asset allocation, position sizing, and hedging techniques to protect wealth while maximizing returns."

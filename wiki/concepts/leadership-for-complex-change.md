@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Leadership for Complex Change
 description: "Leadership for Complex Change"

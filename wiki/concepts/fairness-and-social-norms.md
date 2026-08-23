@@ -1,4 +1,5 @@
 ---
+date: 2024-04-17
 type: concept
 title: Fairness and Social Norms in Economic Behavior
 description: "--

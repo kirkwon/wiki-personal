@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Being Mortal - Atul Gawande
 description: "Being Mortal - Atul Gawande"
 created: 2026-06-10

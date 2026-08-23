@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Cognitive Economy
 description: "Cognitive economy refers to the practice of minimizing cognitive load and optimizing mental resources for effective decision-making and persuasion."

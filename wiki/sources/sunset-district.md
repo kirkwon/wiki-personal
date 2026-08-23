@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Sunset District
 description: "A descriptive neighborhood guide for San Francisco's Sunset District, one of the city's largest neighborhoods with ~85,000 residents."

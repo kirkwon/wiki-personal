@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Paradox of Choice - Barry Schwartz
 author: Barry Schwartz
 year: 2024

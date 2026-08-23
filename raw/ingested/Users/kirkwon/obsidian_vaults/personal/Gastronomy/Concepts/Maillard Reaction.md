@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Concepts/Maillard Reaction.md
 ingested: 2026-04-24
 sha256: 3eb1bca276e901983a07d3601be124f132131ca983b88911aca6d48cb71dd462
+date: 2026-05-14
 title: Maillard Reaction
 type: note
 created: '2026-05-14'

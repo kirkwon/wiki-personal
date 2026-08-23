@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Biases
 description: "Biases function as mental shortcuts for navigating complex situations, providing frameworks for making sense of patterns and relationships in the world, allowing rapid pattern recognition and sense-ma."

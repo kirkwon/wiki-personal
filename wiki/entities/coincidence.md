@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Coincidence
 description: "A coincidence is an event that occurs by chance without apparent causal connection to other events."
 created: 2026-06-10

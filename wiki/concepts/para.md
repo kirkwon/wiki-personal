@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: PARA
 description: "PARA is a personal knowledge management mental model that divides all information into four categories: Projects (current active work), Areas (ongoing responsibilities), Resources (topics of interest)."

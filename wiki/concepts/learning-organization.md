@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Learning Organization
 description: "An organization structure and culture dedicated to continuously adapting, improving, and sharing knowledge."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Mental Models in Innovation
 description: "Mental Models in Innovation"

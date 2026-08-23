@@ -5,6 +5,7 @@ sources:
 tags:
 - coffee
 - general
+date: 2026-04-24
 title: Espresso (意大利浓缩咖啡)
 type: query
 updated: '2026-04-24'

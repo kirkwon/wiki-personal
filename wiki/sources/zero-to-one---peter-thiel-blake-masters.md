@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Zero to One - Peter Thiel & Blake Masters
 created: 2026-05-03

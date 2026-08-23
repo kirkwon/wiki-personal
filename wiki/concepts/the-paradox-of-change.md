@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Paradox of Change
 description: "The Paradox of Change"

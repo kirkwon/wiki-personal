@@ -1,4 +1,5 @@
 ---
+date: 2026-05-10
 type: source
 title: 'Source: Competition.md'
 description: "Source: Competition.md"

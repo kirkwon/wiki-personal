@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Japan
 description: "Japan is an island nation located in East Asia known for its rich cultural heritage, advanced technology, and unique cuisine that emphasizes seasonality and presentation."
 created: 2026-06-10

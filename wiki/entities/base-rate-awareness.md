@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Base rate awareness
 description: "Base rate awareness refers to the understanding of how common or rare an event is within a broader context before making judgments about specific instances."
 created: 2026-06-10

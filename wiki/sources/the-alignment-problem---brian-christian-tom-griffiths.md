@@ -2,6 +2,7 @@
 source_url: https://example.com/the-alignment-problem
 ingested: 2026-05-03
 sha256: 6fb7b5a76508a7d59735fe919b22cc03d48de5c4bc1de23beff64b89ec4d8fe1
+date: 2026-05-14
 title: The Alignment Problem - Brian Christian & Tom Griffiths
 description: "The Alignment Problem - Brian Christian & Tom Griffiths"
 type: note

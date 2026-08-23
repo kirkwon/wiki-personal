@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Value of Failure
 description: "The Value of Failure, as discussed in The Obstacle Is the Way, highlights how embracing failure as an opportunity for learning is essential in overcoming obstacles."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Dan Ariely
 description: "Dan Ariely is a behavioral economist known for his research on dishonesty, self‑deception, and irrational decision‑making."

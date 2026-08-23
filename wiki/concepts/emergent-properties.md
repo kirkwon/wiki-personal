@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Emergent Properties
 description: "Emergent Properties: Complex behaviors or patterns that arise from the interaction of simpler components."

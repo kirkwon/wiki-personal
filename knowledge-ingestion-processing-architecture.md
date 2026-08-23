@@ -1,4 +1,5 @@
 ---
+date: 2026-06-27
 type: architecture-doc
 title: Knowledge Ingestion & Processing Architecture
 status: canonical

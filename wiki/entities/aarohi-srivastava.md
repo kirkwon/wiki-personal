@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Aarohi Srivastava
 description: "Aarohi Srivastava is an enthusiast in the culinary arts with a penchant for capturing food through photography."
 created: 2026-06-10

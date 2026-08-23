@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: John Schulman
 description: "John Schulman is an individual with expertise spanning cooking, where he applies culinary techniques; photography, showcasing his artistic vision through imagery; personal finance, managing financial."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Jucy Lucy
 description: "Jucy Lucy to regionalny styl burga z Minnesoty, w którym ser jest faszerowany wewnątrz patty zamiast kładziony na wierzch."

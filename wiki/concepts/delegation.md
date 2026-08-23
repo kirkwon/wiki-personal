@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Delegation
 description: "Delegation is a universal mental model that serves as a conceptual tool for navigating complex situations through pattern and relationship recognition."

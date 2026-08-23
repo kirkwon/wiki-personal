@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: concept
 title: Speculative Decoding
 description: "Speculative Decoding & Multi-Token Prediction"

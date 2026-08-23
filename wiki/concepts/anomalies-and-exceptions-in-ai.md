@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Anomalies and Exceptions in AI
 description: "Anomalies and Exceptions in AI"

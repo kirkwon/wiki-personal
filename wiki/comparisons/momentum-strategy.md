@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - quant
+date: 2026-04-24
 title: Momentum Strategy
 type: comparison
 updated: '2026-04-24'

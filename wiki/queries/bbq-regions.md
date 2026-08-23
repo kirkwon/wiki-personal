@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/American/Concepts/bbq-regions.md
 tags:
 - general
+date: 2026-04-24
 title: BBQ Regions
 type: query
 updated: '2026-04-24'

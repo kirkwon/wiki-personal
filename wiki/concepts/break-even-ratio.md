@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Break-Even Ratio
 description: "Measures the occupancy and viability threshold by comparing operating expenses to gross income."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Shutter Speed
 description: "Shutter speed is how long the camera's shutter stays open, measured in seconds or fractions of a second: 1/1000, 1/500, 1/250, 1/60, 1/30, 1/15, 1/8, 1/4, 1/2, 1'."

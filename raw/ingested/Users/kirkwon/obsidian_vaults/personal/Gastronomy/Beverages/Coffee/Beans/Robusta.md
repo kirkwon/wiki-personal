@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Coffee/Beans/Robusta.md
 ingested: 2026-04-24
 sha256: 2e35453de530bf7ca9e1f0f2bf8bb278d765d0f4f61af9fe1313ff204ed93590
+date: 2026-05-14
 title: Robusta Coffee (Coffea canephora)
 type: note
 created: '2026-05-14'

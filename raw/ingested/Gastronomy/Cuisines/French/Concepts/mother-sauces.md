@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 74082b94d3f6d0fa18137a1c07be19b13732eabe0a44bb50e2492ac66600c217
 source_path: Gastronomy/Cuisines/French/Concepts/mother-sauces.md
+date: 2026-05-14
 title: The Five Mother Sauces
 type: note
 created: '2026-05-14'

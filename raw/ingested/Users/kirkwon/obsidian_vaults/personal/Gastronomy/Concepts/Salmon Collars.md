@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Concepts/Salmon Collars.md
 ingested: 2026-04-24
 sha256: 2d42c75931209bccd80876292e1e22b5c1dd3ad7856be1d1a2f1483adf0d8d47
+date: 2026-05-14
 title: Salmon Collars
 type: note
 created: '2026-05-14'

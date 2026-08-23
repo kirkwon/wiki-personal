@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Making It All Work - David Allen
 author: David Allen
 year: 2024

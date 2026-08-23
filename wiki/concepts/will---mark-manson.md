@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Will - Mark Manson
 description: "Will (2024) by Mark Manson is a book about the pursuit of authentic happiness through meaning, vulnerability, and alignment with core values rather than through external achievement or possessions."

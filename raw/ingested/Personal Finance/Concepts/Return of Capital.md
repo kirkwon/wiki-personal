@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 69717e670705cada85a61330e9f362530871cf5a6ab70b58cab7159678394c23
 source_path: Personal Finance/Concepts/Return of Capital.md
+date: 2026-05-14
 title: Return of Capital (ROC)
 type: note
 created: '2026-05-14'

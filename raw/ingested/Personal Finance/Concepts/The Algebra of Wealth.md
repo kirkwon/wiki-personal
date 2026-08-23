@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 4cd5f61723cc204cecb088ea7cdc5cec26d3b8f6c91c1305addb2d71be5c1a1e
 source_path: Personal Finance/Concepts/The Algebra of Wealth.md
+date: 2026-05-14
 title: The Algebra of Wealth
 type: note
 created: '2026-05-14'

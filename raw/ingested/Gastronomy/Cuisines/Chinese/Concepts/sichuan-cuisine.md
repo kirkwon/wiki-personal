@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: da003325ab272756db1decd2d46ce1f244908c69a83a903f03f6c0df00d1b69a
 source_path: Gastronomy/Cuisines/Chinese/Concepts/sichuan-cuisine.md
+date: 2026-05-14
 title: Sichuan Cuisine
 type: note
 created: '2026-05-14'

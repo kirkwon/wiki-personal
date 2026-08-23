@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 米饭烹饪技巧
 created: 2026-04-24

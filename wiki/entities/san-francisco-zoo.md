@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: San Francisco Zoo
 description: "The San Francisco Zoo is an expansive outdoor venue featuring diverse animal species, providing opportunities for photography enthusiasts to capture unique wildlife moments."
 created: 2026-06-10

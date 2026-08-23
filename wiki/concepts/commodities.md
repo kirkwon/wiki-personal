@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Commodities
 description: "Commodities are physical goods — precious metals, energy, agriculture, and base metals — that serve as real assets and inflation hedges."

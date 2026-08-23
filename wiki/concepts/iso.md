@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: ISO
 description: "ISO is the camera sensor's sensitivity to light, measured in numbers: 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600."

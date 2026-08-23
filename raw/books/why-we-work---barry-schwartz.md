@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Why We Work - Barry Schwartz
 author: Barry Schwartz
 year: 2024

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: 'Step 5: Focus on Results'
 description: "Step 5: Focus on Results | concept | management, team-dynamics, prescriptive."

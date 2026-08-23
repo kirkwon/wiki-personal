@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Mirroring neurons
 description: "Mirroring neurons are brain cells that fire both when an individual performs an action and when they observe someone else performing the same action."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Social Security Breakeven Analysis
 description: "Social Security Breakeven Analysis"
 created: 2026-06-10

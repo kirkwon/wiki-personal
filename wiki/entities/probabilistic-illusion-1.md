@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: probabilistic-illusion
 description: "probabilistic-illusion"
 created: 2026-06-10

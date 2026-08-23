@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Steaming
 description: "In cooking, steaming is the process of heating food by exposing it to steam, which gently cooks the ingredients while preserving nutrients and flavors."
 created: 2026-06-10

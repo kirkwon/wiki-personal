@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Second Great Quintet
 description: "The Second Great Quintet refers to the ensemble of five critical skills that significantly enhance one's ability in various domains such as cooking (culinary techniques), photography (composition and."
 created: 2026-06-10

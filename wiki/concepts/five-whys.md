@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Five Whys
 description: "Five Whys. An iterative technique used to determine the root cause of a problem by repeatedly asking 'Why?."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Six Thinking Hats - Edward de Bono
 created: 2026-04-29

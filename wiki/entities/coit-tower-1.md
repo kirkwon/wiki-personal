@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Coit Tower
 description: "Coit Tower is a historic landmark located at Fort Mason in San Francisco, offering panoramic views that are highly sought after by photographers for capturing the city's skyline."
 created: 2026-06-10

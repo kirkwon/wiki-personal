@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 鰤（Hamachi）
 description: "ブリ。春と秋が旬。バターのような滑らかさ、まどろみ。"

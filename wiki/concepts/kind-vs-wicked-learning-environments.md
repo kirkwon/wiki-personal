@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Kind vs. Wicked Learning Environments
 description: "Contrasting supportive, nurturing learning spaces with those that are overly demanding or punitive."

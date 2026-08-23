@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: LeNet-5
 description: "The LeNet-5 is an early convolutional neural network designed primarily for digit recognition tasks, similar to identifying ingredients in cooking or focusing on specific elements within a photograph."
 created: 2026-06-10

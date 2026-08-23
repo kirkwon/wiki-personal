@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: soy-sauce-mirin
 description: "Soy sauce-mirin is a combination of two Asian condiments; soy sauce, which provides umami flavor through fermented soybeans, and mirin, a sweet rice wine that adds depth and subtle sweetness to dishes."
 created: 2026-06-10

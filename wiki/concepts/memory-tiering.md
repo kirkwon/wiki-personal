@@ -1,8 +1,10 @@
 ---
+
+date: 2026-06-12
 type: concept
 title: Memory Tiering System
-description: "Memory Tiering System
-What: A 4-tier memory hierarchy that keeps the agent's hot context under ~500 chars by promoting/demoting facts across memory tiers based on recency and relevance."
+description: "Memory Tiering System"
+What: A 4-tier memory hierarchy that keeps the agent's hot context under ~500 chars by promoting/demoting facts across memory tiers based on recency and relevance.""
 created: 2026-06-12
 updated: 2026-06-13
 tags:
@@ -18,6 +20,7 @@ tags:
 - knowledge-management
 related: ["information-architecture", "knowledge-management", "hybrid-memory-systems", "headroom-integration", "methodology-loop"]
 sources: [memory-tiering.md]
+
 ---
 
 # Memory Tiering System

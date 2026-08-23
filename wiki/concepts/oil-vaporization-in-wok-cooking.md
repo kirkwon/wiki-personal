@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Oil Vaporization in Wok Cooking (烹饪中的油雾化)
 description: "--

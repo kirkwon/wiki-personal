@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Local Interests/Concepts/Fav
   Coffee Shops.md
 ingested: 2026-04-24
 sha256: d7ff4f6193e325674def6cff5f45567902817434b1df0b2f2543d332c3611000
+date: 2026-05-14
 title: Favorite Coffee Shops
 type: note
 created: '2026-05-14'

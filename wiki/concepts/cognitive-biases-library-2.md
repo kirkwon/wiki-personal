@@ -1,4 +1,5 @@
 ---
+date: 2025-04-15
 type: concept
 title: Cognitive Biases Library
 domain: Cognitive Science & Decisions

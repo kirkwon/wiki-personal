@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Music Theory & Jazz/miles-davis.md
 ingested: 2026-04-24
 sha256: b4b7a5044ce697e2a064171b2f2103895e2c462a1bd69cd50f4836afe1729ba4
+date: 2026-05-14
 title: Miles Davis
 type: note
 created: '2026-05-14'

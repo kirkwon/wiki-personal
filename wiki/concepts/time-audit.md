@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Time Audit
 description: "Tracking time use reveals patterns; optimizing life by understanding where minutes truly go."

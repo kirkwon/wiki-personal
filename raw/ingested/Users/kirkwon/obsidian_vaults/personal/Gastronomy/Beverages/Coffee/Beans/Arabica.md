@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Coffee/Beans/Arabica.md
 ingested: 2026-04-24
 sha256: 736503b30cd141efa7b70b575f7285bb8f8b4d6034bb2da0a0ed3e684526e217
+date: 2026-05-14
 title: Arabica Coffee (Coffea arabica)
 type: note
 created: '2026-05-14'

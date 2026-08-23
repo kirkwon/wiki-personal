@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Jazz Harmony
 description: "Kilde for jazz-harmoniteori som dekker utvidede akkorder, altererte akkorder, vanlige jazzprogressjoner som ii-V-I, sekundære dominanter, triton-substitusjon, modal utveksling og stemmeføring."

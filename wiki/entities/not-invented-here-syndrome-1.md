@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Not-invented-here syndrome
 description: "Not-invented-here syndrome"
 created: 2026-06-10

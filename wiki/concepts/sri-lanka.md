@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sri Lanka
 description: "Sri Lanka is an island nation located south of India with a rich culinary tradition featuring dishes like rice and curry; it's also renowned for its vibrant festivals and scenic landscapes ideal for p."
 created: 2026-06-10

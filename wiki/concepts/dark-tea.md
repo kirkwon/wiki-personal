@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 黑茶
 description: "黑茶是中国茶的主要类别之一，以微生物后发酵为特征。普洱茶属于黑茶大类。"

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Kevin Kelly
 description: "Kevin Kelly is an influential figure known for his work as the former executive editor of Wired magazine, where he focused on technology's intersection with various fields including cooking innovation."
 created: 2026-06-10

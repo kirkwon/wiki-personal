@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Self-Control and Addiction
 description: "Self-Control and Addiction"

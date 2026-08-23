@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Revaluation of All Values
 description: "Revaluation of All Values"

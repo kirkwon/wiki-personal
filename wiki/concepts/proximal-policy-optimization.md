@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 title: Proximal Policy Optimization (PPO)
 description: "Proximal Policy Optimization (PPO)"
 type: concept

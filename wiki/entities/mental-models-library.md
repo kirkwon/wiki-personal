@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: mental-models-library
 description: "mental-models-library"
 created: 2026-06-10

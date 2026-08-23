@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Art of Thinking Clearly - Rolf Dobelli
 author: Rolf Dobelli
 year: 2024

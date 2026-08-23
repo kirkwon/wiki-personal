@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: principles
 description: "Principles are fundamental guidelines or core beliefs that shape decision-making processes across various domains."
 created: 2026-06-10

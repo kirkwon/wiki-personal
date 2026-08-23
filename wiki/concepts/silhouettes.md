@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Silhouettes
 description: "Silhouettes are created by exposing for the bright background (usually the sky) so the subject becomes a dark shape against the light."

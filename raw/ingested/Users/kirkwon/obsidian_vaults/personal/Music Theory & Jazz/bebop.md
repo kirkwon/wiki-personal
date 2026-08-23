@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Music Theory & Jazz/bebop.md
 ingested: 2026-04-24
 sha256: a9ea1ccd038dc36f188d0ece97fc6823aac65a0827b5b49840a284ef67d9ba9a
+date: 2026-05-14
 title: Bebop
 type: note
 created: '2026-05-14'

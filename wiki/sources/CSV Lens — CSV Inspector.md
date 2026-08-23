@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: CSV Lens - CSV Inspector
 description: "--

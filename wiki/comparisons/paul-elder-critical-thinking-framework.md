@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Cognitive/Concepts/Paul-Elder Critical Thinking Framework.md
 tags:
 - general
+date: 2026-04-24
 title: Paul-Elder Critical Thinking Framework
 type: comparison
 updated: '2026-04-24'

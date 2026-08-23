@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: de6b87bdec44e3f77477b622fd2c2b5d9947d595291f9ca40b94e624c0286109
 source_path: Local Interests/Concepts/Favorite Coffee Shops.md
+date: 2026-05-14
 title: Favorite Coffee Shops
 type: note
 created: '2026-05-14'

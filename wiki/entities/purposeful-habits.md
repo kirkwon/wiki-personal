@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Purposeful Habits
 description: "Purposeful habits are intentional routines that individuals adopt to consistently achieve specific goals across various domains such as cooking for healthier eating, photography for skill enhancement."
 created: 2026-06-10

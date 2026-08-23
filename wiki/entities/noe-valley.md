@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Noe Valley
 description: "Noe Valley is a vibrant neighborhood in San Francisco known for its diverse culinary scene, which offers both local eateries and upscale dining options that cater to various cooking preferences."
 created: 2026-06-10

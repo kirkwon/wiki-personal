@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Golden Hour One
 description: "The 'Golden Hour One' refers to the optimal time shortly after sunrise or before sunset when natural light is most favorable for both photography and cooking due to its warm hue and soft shadows."
 created: 2026-06-10

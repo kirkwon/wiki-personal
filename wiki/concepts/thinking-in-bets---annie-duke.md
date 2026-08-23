@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Thinking in Bets - Annie Duke
 created: 2026-04-29

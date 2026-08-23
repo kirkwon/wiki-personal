@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Decision Tracking
 description: "Decision Tracking. Systematically recording past choices and their results to improve future judgment and decision-making."
 created: 2026-05-03

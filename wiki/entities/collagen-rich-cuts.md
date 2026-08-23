@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Collagen-Rich Cuts
 description: "A Collagen-Rich Cut refers to a portion of meat known for its high collagen content, which when cooked properly can result in tender dishes with enhanced texture."
 created: 2026-06-10

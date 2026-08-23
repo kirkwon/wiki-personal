@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: 2-Minute Rule
 description: "The 2-minute rule is a habit formation technique where any new habit should take less than two minutes to start."

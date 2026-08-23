@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: summary
 title: Visión General de la Wiki
 created: 2026-06-12

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Nudge theory
 description: "Nudge theory is a concept within behavioral economics suggesting that positive reinforcement and indirect suggestions can influence people's decisions and behaviors in predictable ways without restric."
 created: 2026-06-10

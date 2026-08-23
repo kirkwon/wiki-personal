@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 博弈论框架
 created: 2026-04-24

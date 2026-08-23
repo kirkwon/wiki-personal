@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Social Security
 description: "Government benefit program providing guaranteed income in retirement."

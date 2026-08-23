@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Natural Language Evolution
 description: "Natural Language Evolution"
 created: 2026-06-10

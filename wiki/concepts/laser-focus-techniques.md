@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Laser Focus Techniques
 description: "Strategies designed to eliminate distractions and concentrate maximum attention on a single, high-priority task."
 created: 2026-05-03

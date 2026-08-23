@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Concepts/I 
   Teach You to Be Rich.md
 ingested: 2026-04-24
 sha256: d9c3e999243d72df5e26519b58124ef9a77d14bd08a4661c0cfcde07a4421eae
+date: 2026-05-14
 title: I Will Teach You to Be Rich
 type: note
 created: '2026-05-14'

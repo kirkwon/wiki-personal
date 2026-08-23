@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Being Mortal - Atul Gawande
 description: "Being Mortal - Atul Gawande"

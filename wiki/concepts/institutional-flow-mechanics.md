@@ -1,4 +1,5 @@
 ---
+date: 2026-05-24
 type: concept
 title: Institutional Flow Mechanics
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Wisdom of Crowds
 description: "Collective intelligence surpasses individual insight; diverse opinions yield superior group decisions."

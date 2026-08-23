@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Team Learning (Senge)
 description: "Systemic learning approach fostering collective knowledge and continuous improvement within teams."

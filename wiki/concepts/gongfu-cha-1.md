@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Gongfu Cha
 description: "'Gongfu Cha' refers to the meticulous art of tea brewing, emphasizing skillful technique and precision in selecting quality leaves for optimal flavor extraction."
 created: 2026-06-10

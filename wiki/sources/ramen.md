@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Ramen Source
 description: "ラーメンに関する包括的ガイド。四要素（スープ・麺・具・アブラ）、地域別スタイル、家庭作り、エチケットをカバー。"

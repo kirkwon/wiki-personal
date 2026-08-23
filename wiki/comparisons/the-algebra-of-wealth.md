@@ -6,6 +6,7 @@ tags:
 - budgeting
 - general
 - investing
+date: 2026-04-24
 title: The Algebra of Wealth
 type: comparison
 updated: '2026-04-24'

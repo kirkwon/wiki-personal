@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Feynman Technique
 description: "Teach concepts by explaining them simply to identify knowledge gaps and solidify understanding."

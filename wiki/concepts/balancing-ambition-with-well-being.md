@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Balancing Ambition with Well-being
 description: "Balancing Ambition with Well-Being"

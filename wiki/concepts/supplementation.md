@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Supplementation
 description: "Supplementation refers to the strategic use of targeted nutrients — vitamins, minerals, and adaptogenic herbs — to enhance health and performance beyond what diet alone provides."

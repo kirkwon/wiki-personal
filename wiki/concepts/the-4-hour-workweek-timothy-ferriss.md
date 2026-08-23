@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: The 4-Hour Workweek - Timothy Ferriss
 created: 2026-04-29

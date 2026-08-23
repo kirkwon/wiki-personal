@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Street Photography
 description: "Street photography is the art of capturing candid moments within public spaces to document everyday life."
 created: 2026-06-10

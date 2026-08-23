@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: cooperation
 description: "Cooperation refers to the act of working together towards a common goal or benefit."
 created: 2026-06-10

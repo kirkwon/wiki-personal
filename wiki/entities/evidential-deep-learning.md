@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Evidential Deep Learning
 description: "Evidential Deep Learning"
 created: 2026-06-10

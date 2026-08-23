@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Network Effects and Increasing Returns
 description: "How the value of a product increases exponentially as more people use it, leading to massive growth."

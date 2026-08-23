@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Crisis Management
 description: "Covey addresses how to handle urgent crises without losing sight of long-term priorities."

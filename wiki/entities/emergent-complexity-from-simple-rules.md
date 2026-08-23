@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: emergent complexity from simple rules
 description: "emergent complexity from simple rules"
 created: 2026-06-10

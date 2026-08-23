@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: d5638ca29e84338cd3f20bf0bd49d784faae3509b673798bd863f1d8e16c0f14
 source_path: Gastronomy/Herbs & Spices/Herbs/Cilantro-Coriander.md
+date: 2026-05-14
 title: Cilantro/Coriander (Coriandrum sativum)
 type: note
 created: '2026-05-14'

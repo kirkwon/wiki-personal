@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: はちみつ（Hangiri）
 description: "酢飯を扱うための木の桶。米を混ぜたり、冷ますのに使う。"

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Synergize
 description: "Synergy is the principle that collective effort produces results greater than the sum of individual contributions."

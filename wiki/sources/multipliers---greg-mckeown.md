@@ -2,6 +2,7 @@
 source_url: https://example.com/multipliers-greg-mckeown
 ingested: 2026-05-03
 sha256: 796144f0923598162024514f389fbf412da9f4a14359d3c0c30d6a5e80e69421
+date: 2026-04-29
 type: source
 title: Multipliers - Greg McKeown
 description: "--

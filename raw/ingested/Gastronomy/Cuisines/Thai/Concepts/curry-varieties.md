@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 68240b6eda8320386ea8786eecde5b0e41bbba40c02bcdb8fc3ca838d8585500
 source_path: Gastronomy/Cuisines/Thai/Concepts/curry-varieties.md
+date: 2026-05-14
 title: Thai Curries
 type: note
 created: '2026-05-14'

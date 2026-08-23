@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Quality Factor
 description: "The Quality Factor represents the intrinsic value or excellence of an item or process within its respective domain."
 created: 2026-06-10

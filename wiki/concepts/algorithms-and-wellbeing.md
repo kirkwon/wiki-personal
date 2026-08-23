@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Algorithms and Wellbeing
 description: "Algorithms and Wellbeing. How automated systems influence our sense of happiness, connection, and overall mental state."

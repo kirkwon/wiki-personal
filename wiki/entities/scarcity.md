@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Scarcity
 description: "Scarcity refers to the fundamental economic problem of having limited resources while human wants are unlimited."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Retrieval Practice
 description: "Retrieval practice is the act of actively recalling information from memory rather than passively re-reading or reviewing it."

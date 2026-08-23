@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: humility-and-gratitude
 description: "humility-and-gratitude"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: grain-preparation
 description: "Grain preparation refers to the process of cleaning, sorting, and conditioning grains before cooking or consumption."
 created: 2026-06-10

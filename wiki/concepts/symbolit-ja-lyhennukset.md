@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Symbolit ja lyhennukset merkinnöissä
 description: "Using symbols and abbreviations streamlines notes, boosting understanding and maximizing efficient written communication."

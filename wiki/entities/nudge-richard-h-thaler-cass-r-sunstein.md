@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Nudge - Richard H. Thaler & Cass R. Sunstein
 description: "Nudge: Improving Decisions About Health, Wealth, and Happiness is a foundational book by Richard H."

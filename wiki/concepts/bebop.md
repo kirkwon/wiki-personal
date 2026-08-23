@@ -10,6 +10,7 @@ tags:
 - improvisation
 - chord-theory
 - theory
+date: 2026-04-24
 title: Bebop
 description: "Bebop (or 'bop') is a revolutionary jazz style that emerged in the 1940s, transforming the genre from dance-oriented big bands into virtuosic small ensembles focused on complex improvisation."
 type: concept

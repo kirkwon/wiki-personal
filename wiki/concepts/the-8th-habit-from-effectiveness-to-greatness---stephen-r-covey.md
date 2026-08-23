@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: The 8th Habit - Stephen R. Covey
 description: "--

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Credit Spreads
 description: "A credit spread involves selling one option and buying another option at a different strike price to collect a net credit while defining risk."

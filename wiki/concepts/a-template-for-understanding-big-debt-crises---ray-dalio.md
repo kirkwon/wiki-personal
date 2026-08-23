@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: A Template for Understanding Big Debt Crises - Ray Dalio
 created: 2026-04-29

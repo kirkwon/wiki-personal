@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 title: Flavor Theory
 description: "Flavor theory explores how flavors are built and layered, emphasizing the role of aromatic bases as the starting point for flavor construction."
 type: concept

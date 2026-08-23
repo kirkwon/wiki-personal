@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Ensemble prediction methods
 description: "Ensemble prediction methods"
 created: 2026-06-10

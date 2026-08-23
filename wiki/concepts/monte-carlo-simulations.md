@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Monte Carlo Simulations
 description: "Using repeated random sampling to simulate possible outcomes in complex decision scenarios."
 created: 2026-05-03

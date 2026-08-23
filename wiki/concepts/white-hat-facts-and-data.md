@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: White Hat - Facts and Data
 description: "White Hat - Facts and Data"

@@ -16,6 +16,7 @@ related:
 - rhythm-and-meter
 - chord-voicings
 - ear-training
+date: 2026-04-24
 title: Music Theory Fundamentals
 description: "Music Theory Fundamentals"
 type: note

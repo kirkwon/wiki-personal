@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The 4-Hour Workweek - Timothy Ferriss
 description: "The 4-Hour Workweek - Timothy Ferriss"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: solutions
 description: "In cooking, solutions refer to the methods or substances used to address culinary challenges, such as recipe adjustments for dietary restrictions or techniques to fix overcooked dishes."
 created: 2026-06-10

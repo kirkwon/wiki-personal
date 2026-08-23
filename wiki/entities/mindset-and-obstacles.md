@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Mindset and obstacles
 description: "Mindset and obstacles"
 created: 2026-06-10

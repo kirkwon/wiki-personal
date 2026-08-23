@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Effort Pacts
 description: "Effort Pacts: Pre-commitment devices used to ensure future effort or adherence to difficult goals."

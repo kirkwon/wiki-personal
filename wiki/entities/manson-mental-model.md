@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Manson (Mental Model)
 description: "Manson (Mental Model)"
 created: 2026-06-10

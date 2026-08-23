@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Microsoft vs Tencent Rivalry
 description: "Microsoft vs Tencent Rivalry"

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-19
 title: The System Prompt Arms Race — Transparency, Obfuscation, and Convergence
 created: 2026-06-19
 updated: 2026-06-19

@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - tea
+date: 2026-04-24
 title: Dim Sum
 type: query
 updated: '2026-04-24'

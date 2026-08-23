@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Investing in Zero-to-One Companies
 description: "Providing capital to companies creating entirely new markets or technologies from scratch."

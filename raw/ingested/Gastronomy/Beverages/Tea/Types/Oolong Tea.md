@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: a01109c8ee83046a4a5ecb9ba1a8dd6484766dc58c0806537c1fbfc067de5940
 source_path: Gastronomy/Beverages/Tea/Types/Oolong Tea.md
+date: 2026-05-14
 title: Oolong Tea (乌龙茶 - Wūlóng Chá)
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 type: entity
 title: Google Keep
 description: "Google Keep

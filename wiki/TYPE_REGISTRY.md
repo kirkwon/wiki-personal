@@ -1,4 +1,5 @@
 ---
+date: 2026-06-16
 type: registry
 title: OKF Type Registry — wiki-personal
 created: 2026-06-16

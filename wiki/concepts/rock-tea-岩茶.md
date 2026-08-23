@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 岩茶
 description: "岩茶指武夷山地区乌龙茶，以矿物质感强著称，大红袍是代表性品种。"

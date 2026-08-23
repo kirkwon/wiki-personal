@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Getting
 description: "'Getting' is introduced as a universal mental model—a conceptual tool for navigating complex situations through pattern and relationship recognition."

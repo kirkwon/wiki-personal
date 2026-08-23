@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Heat Sensitivity of Herbs
 created: 2026-04-24

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Coordination Problems
 description: "Coordination Problems. Challenges in achieving collective goals when individual actions conflict or misalign."

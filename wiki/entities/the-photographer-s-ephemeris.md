@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Photographer's Ephemeris
 description: "The Photographer's Ephemeris"
 created: 2026-06-10

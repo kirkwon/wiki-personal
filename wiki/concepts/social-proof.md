@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Social Proof
 description: "Social proof is the tendency to look to others to determine appropriate behavior, especially in ambiguous situations."

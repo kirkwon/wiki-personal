@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Dollar-Cost Averaging
 description: "Dollar-Cost Averaging"
 created: 2026-06-10

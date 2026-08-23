@@ -1,4 +1,5 @@
 ---
+date: 2026-05-09
 type: source
 title: 'Source: Bay Area Market Analysis.md'
 description: "Source: Bay Area Market Analysis.md"

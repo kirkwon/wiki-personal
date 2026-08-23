@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 title: Generative Adversarial Networks (GANs)
 description: "Generative Adversarial Networks (GANs)"
 type: concept

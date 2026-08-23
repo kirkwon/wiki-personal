@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Career capital
 description: "Career capital refers to the rare and valuable skills, knowledge, connections, and experience that you accumulate over time and that make you indispensable in your field."

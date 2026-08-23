@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Francisco Javier Díez
 description: "Francisco Javier Díez"
 created: 2026-06-10

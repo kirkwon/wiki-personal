@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Shrimp and Grits
 created: 2026-04-24

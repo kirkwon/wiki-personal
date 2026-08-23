@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Stakeholder Synchronization
 description: "Stakeholder Synchronization | concept | productivity, communication-skills, mental-models."

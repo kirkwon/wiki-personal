@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 14f94fbd48d90a2a9d450f45b43fc57482cc75e4728c4cf40bacb4e237ca1fd6
 source_path: Personal Finance/Concepts/Mutual Funds vs ETFs in Taxable Accounts.md
+date: 2026-05-14
 title: Mutual Funds vs ETFs in Taxable Accounts
 type: note
 created: '2026-05-14'

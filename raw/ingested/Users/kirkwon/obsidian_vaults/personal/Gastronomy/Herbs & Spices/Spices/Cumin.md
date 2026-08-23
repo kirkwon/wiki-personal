@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Herbs & Spices/Spices/Cumin.md
 ingested: 2026-04-24
 sha256: f77e2f62f746656cba66216ce327576da72a127899b380360fdde024d3cd112a
+date: 2026-05-14
 title: Cumin (Cuminum cyminum)
 type: note
 created: '2026-05-14'

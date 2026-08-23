@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 7dd2110242cded3d7fa1cd49cff80b55538795973364f8a809b7d171b0fc4011
 source_path: Gastronomy/Beverages/Coffee/Processing/Roasting.md
+date: 2026-05-14
 title: Coffee Roasting (咖啡烘焙)
 type: note
 created: '2026-05-14'

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Challenging Words
 description: "Using precise language to question underlying assumptions and unlock novel perspectives on problems."

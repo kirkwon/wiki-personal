@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Managing Emotions for Clarity
 description: "Managing Emotions for Clarity"

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Influence Source
 description: "This source documents the 'Influence' mental model, a conceptual tool for navigating complex situations through pattern recognition."

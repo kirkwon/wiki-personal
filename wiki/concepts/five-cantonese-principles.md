@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 粤菜五项烹饪原则
 created: 2026-04-24

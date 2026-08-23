@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Americano
 description: "An Americano is a coffee beverage made by diluting espresso with hot water, typically in a ratio of one part espresso to two parts water."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: 'Grit: The Power of Passion and Perseverance - Angela Duckworth'
 description: "Unlocks success through passion and perseverance; mastering grit for life's challenges."

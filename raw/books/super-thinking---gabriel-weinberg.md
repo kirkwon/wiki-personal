@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Super Thinking - Gabriel Weinberg
 author: Gabriel Weinberg
 year: 2024

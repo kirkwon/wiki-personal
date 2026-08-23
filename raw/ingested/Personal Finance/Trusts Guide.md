@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 53f371c7351a2b136d4a15d8b872ba5cdb215b098feab7452dd6f4d03026db7a
 source_path: Personal Finance/Trusts Guide.md
+date: 2026-05-14
 title: Trusts Guide
 type: note
 created: '2026-05-14'

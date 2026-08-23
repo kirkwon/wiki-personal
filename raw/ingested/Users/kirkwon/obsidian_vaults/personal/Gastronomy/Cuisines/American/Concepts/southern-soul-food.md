@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/American/Concepts/southern-soul-food.md
 ingested: 2026-04-24
 sha256: 6e58dd9c394e0ef5121e60831473ab59763b29aa8822dc8f18f62e0cdcba884f
+date: 2026-05-14
 title: Southern and Soul Food
 type: note
 created: '2026-05-14'

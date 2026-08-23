@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: BBQ Techniques
 description: "Core BBQ techniques center on low-and-slow smoking, dry rub application, and regional variations in finishing methods."

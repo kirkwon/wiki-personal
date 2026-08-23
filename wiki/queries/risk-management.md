@@ -5,6 +5,7 @@ sources:
 tags:
 - budgeting
 - general
+date: 2026-04-24
 title: Risk Management
 type: query
 updated: '2026-04-24'

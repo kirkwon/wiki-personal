@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Italian/Concepts/pasta.md
 ingested: 2026-04-24
 sha256: 9f1ab6620d2682b2002a12c6776916acd3cecba0e604956b96de05411e78b367
+date: 2026-05-14
 title: Italian Pasta
 type: note
 created: '2026-05-14'

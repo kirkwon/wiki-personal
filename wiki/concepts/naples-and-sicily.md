@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: naples-and-sicily
 description: "The term 'Naples-and-Sicily' refers to the culinary traditions and gastronomical influences of Naples (the capital city of Campania) in Italy and Sicily, known for their rich food culture that signifi."
 created: 2026-06-10

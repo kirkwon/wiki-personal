@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Art of Gifting
 description: "Art of Gifting. Understanding the social dynamics and emotional intelligence required for meaningful gift-giving."

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 02d322ddc9fe9424e66b1810c1f75435152185200df4e0a361706372beaf90cf
 source_path: Gastronomy/Index.md
+date: 2026-05-14
 title: Gastronomy
 type: note
 created: '2026-05-14'

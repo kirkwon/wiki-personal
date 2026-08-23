@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Technical Analysis Basics
 description: "Technical Analysis Basics"
 created: 2026-06-10

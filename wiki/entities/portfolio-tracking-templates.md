@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Portfolio Tracking Templates
 description: "Portfolio Tracking Templates"
 created: 2026-06-10

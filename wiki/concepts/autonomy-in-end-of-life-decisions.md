@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Autonomy in End-of-Life Decisions
 description: "Autonomy in End-of-Life Decisions"

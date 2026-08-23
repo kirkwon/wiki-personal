@@ -1,4 +1,5 @@
 ---
+date: 2026-07-06
 type: concept
 title: "Six State Axes"
 created: 2026-07-06

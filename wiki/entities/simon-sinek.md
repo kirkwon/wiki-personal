@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Simon Sinek
 description: "Simon Sinek is an author, motivational speaker, and leadership consultant known for his work on leadership, purpose, and communication."
 created: 2026-05-03

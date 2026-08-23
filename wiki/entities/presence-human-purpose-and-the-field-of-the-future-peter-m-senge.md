@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Presence_ Human Purpose and the Field of the Future - Peter M Senge
 description: "Presence_ Human Purpose and the Field of the Future - Peter M Senge"
 created: 2026-06-10

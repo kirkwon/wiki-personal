@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Valuation Risk
 description: "Valuation risk refers to the difficulty of determining the fair value of an investment, particularly in opaque or private markets where daily pricing is unavailable."

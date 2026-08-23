@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Wild Turkey 101
 description: "Kentucky Straight Bourbon at 101 proof."

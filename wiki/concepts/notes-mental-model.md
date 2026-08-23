@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Notes
 description: "The act of recording key thoughts, observations, or information for later review and synthesis."

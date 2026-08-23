@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Brian Christian
 description: "Brian Christian is an author known for his exploration of the intersection between technology and humanity, particularly through cognitive science lenses."
 created: 2026-06-10

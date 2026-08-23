@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: the-triumph-of-shares-over-people
 description: "the-triumph-of-shares-over-people"
 created: 2026-06-10

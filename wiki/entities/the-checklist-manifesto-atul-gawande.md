@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Checklist Manifesto - Atul Gawande
 description: "The Checklist Manifesto - Atul Gawande"
 created: 2026-06-10

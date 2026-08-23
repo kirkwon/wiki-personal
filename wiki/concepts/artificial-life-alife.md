@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Artificial Life (ALife)
 description: "Artificial Life (ALife). Computational models designed to simulate the behaviors, interactions, and evolution of living organisms."

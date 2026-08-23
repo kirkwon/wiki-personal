@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Model Combination
 description: "Integrating insights from multiple models to achieve richer understanding than any single model provides."

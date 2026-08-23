@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Game Theory in Life
 description: "Game Theory in Life. Applying mathematical models of strategic interaction to predict outcomes in personal or professional decisions."

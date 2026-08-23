@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Authority Bias
 description: "Authority bias is the tendency to attribute greater accuracy to the opinion of an authority figure and be more influenced by that opinion than it merits."

@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-05-03
 sha256: 99289a55d92b1532f335dea99adf0340caadb7c84d6e3a6ecbe43df463de5800
+date: 2026-05-14
 title: Make It Stick - Peter C. Brown, Jeffrey D. Karpicke, and Henry L. Roediger
 description: "Make It Stick - Peter C. III"
 type: note

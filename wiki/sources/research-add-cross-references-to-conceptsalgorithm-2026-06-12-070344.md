@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: source
 title: Research Add Cross References to Concepts Algorithm
 description: "Research Add Cross References to Concepts Algorithm

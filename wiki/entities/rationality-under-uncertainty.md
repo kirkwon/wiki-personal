@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Rationality under Uncertainty
 description: "Rationality under Uncertainty"
 created: 2026-06-10

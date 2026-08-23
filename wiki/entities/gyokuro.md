@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Gyokuro (玉露)
 description: "Gyokuro is a premium Japanese green tea shade-grown in Uji, Kyoto Prefecture."

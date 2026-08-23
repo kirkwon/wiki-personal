@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: On the Shortness of Life - Seneca
 description: "On the Shortness of Life - Seneca"
 created: 2026-06-10

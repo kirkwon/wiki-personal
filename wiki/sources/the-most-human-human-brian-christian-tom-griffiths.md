@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: The Most Human Human - Brian Christian Tom Griffiths
 description: "--
 The Most Human Human - Brian Christian Tom Griffiths"

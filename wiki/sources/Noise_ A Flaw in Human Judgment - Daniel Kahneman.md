@@ -1,8 +1,10 @@
 ---
+
+date: 2026-04-29
 type: source
 title: 'Noise: A Flaw in Human Judgment - Daniel Kahneman'
-description: "--
-Noise: A Flaw in Human Judgment - Daniel Kahneman"
+description: "--"
+Noise: A Flaw in Human Judgment - Daniel Kahneman""
 created: 2026-04-29
 updated: 2026-05-03
 tags:
@@ -13,6 +15,7 @@ tags:
 - behavioral-economics
 sources:
 - Noise_ A Flaw in Human Judgment - Daniel Kahneman.md
+
 ---
 --
 # Noise: A Flaw in Human Judgment - Daniel Kahneman

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Effort
 description: "Effort is a conceptual tool or principle for navigating complex situations."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Small Sample Size Problem
 description: "Small Sample Size Problem"

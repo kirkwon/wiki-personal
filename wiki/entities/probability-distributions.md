@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: probability-distributions
 description: "probability-distributions"
 created: 2026-06-10

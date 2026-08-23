@@ -11,6 +11,7 @@ tags:
 - wealth
 - mindset
 updated: 2026-05-09
+date: 2026-05-14
 title: The Psychology of Money
 description: "The Psychology of Money"
 type: note

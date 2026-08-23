@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Camera Modes
 description: "Camera modes determine how much control you have over exposure settings—specifically aperture, shutter speed, and ISO."

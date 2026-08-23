@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: False causality
 description: "False causality, or non causa pro causa, is the logical fallacy where an incorrect cause-and-effect relationship is assumed between two events."
 created: 2026-06-10

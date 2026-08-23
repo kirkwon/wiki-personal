@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Léon Bottou
 description: "Léon Bottou is an influential computer scientist specializing in machine learning algorithms, particularly deep learning techniques like convolutional neural networks (CNNs)."
 created: 2026-06-10

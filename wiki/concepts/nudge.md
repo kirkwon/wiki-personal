@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: concept
 title: Nudge
 description: "Nudge by Richard H. Thaler and Cass R."

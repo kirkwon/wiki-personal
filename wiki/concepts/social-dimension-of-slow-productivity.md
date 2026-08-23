@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Social Dimension of Slow Productivity
 description: "The Social Dimension of Slow Productivity | concept | productivity, relationships, communication."

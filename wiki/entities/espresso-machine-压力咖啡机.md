@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Espresso Machine（压力咖啡机）
 description: "--

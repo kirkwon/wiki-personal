@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Herb Blends
 description: "A herb blend is a combination of various dried or fresh herbs used to enhance flavors in cooking, potentially serving as natural food colorants for photography, offering diverse scents for cognitive s."
 created: 2026-06-10

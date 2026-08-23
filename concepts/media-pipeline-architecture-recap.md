@@ -1,4 +1,5 @@
 ---
+date: 2026-07-19
 type: concept
 title: Media Pipeline Architecture Recap
 created: 2026-07-19

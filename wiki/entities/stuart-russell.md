@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Stuart Russell
 description: "Stuart Russell is an influential computer scientist known for his contributions to artificial intelligence, particularly in the areas of machine learning and cognitive science."
 created: 2026-06-10

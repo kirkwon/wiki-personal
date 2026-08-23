@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: extreme-outcomes
 description: "Extreme-outcomes refer to the most significant possible results or consequences within specific domains such as cooking (e.g., overcooked food leading to inedible meals), photography (e.g., extreme li."
 created: 2026-06-10

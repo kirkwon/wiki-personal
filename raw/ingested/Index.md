@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: b517339d19a6d04b4885be47ea1023d184eb2e8c461dd50d155d932e44646d72
 source_path: Index.md
+date: 2026-05-14
 title: Personal Knowledge Vault
 type: note
 created: '2026-05-14'

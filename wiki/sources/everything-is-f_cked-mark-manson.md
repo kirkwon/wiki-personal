@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Everything Is F_cked_ A Book About Hope - Mark Manson
 created: 2026-04-29

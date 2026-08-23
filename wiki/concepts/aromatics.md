@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 title: Aromatics
 description: "Aromatic bases are vegetables and aromatics added at the start of cooking to build a dish's foundational flavor. 芳香基料是烹饪初期加入的蔬菜与香草，用于构建菜品的味觉基础。它们是最早接触热油的风味元素，为整道菜奠定基调。"
 created: 2026-04-24

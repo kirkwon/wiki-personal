@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Why We Work - Barry Schwartz
 description: "--

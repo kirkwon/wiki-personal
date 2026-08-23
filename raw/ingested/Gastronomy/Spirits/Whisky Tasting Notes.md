@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 2542c9be08277e623e219ceffcfc7902a925940cb886c23320ac10f3a7414e29
 source_path: Gastronomy/Spirits/Whisky Tasting Notes.md
+date: 2026-05-14
 title: Whisky Tasting Notes
 type: note
 created: '2026-05-14'

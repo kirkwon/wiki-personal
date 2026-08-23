@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Values-Based Prioritization
 description: "Aligning choices with core beliefs and values for meaningful, intentional life decisions."

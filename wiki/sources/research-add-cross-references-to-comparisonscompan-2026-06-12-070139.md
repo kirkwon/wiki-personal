@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: source
 title: Research Add Cross-References to Comparisons Company Structure Guide
 description: "Research Add Cross-References to Comparisons Company Structure Guide

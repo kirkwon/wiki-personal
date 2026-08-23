@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 86a4b44792534f1e380dcf0ffea6f21b269c882b6ef613ad2b708ebe35361901
 source_path: Gastronomy/Cuisines/Japanese/Concepts/sushi-sashimi.md
+date: 2026-05-14
 title: Sushi and Sashimi
 type: note
 created: '2026-05-14'

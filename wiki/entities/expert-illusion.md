@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: expert-illusion
 description: "Expert-illusion refers to the phenomenon where individuals perceive themselves as more knowledgeable or skilled in an area than they actually are, often due to limited experience or exposure."
 created: 2026-06-10

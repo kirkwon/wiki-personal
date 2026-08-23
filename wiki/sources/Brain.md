@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-04-29
 sha256: 1a2b3c4d5e6f7890abcdef1234567890abcdef1234567890abcdef1234567890
+date: 2026-05-14
 title: Brain.md Source Summary
 type: note
 created: '2026-05-14'

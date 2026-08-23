@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Decision Theory
 description: "Decision theory is the study of how individuals make choices among various alternatives based on preferences, potential outcomes, and probabilities."
 created: 2026-06-10

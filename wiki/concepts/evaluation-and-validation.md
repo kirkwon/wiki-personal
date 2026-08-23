@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: concept
 title: Ocena i walidacja
 description: "Ocena i walidacja

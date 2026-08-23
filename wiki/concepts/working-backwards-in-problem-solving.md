@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Working Backwards in Problem-Solving
 created: 2026-05-03

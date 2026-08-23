@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Jazz Artists
 description: "Category:Jazz Artists"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Latte
 description: "A latte is a coffee beverage made with espresso and steamed milk, often topped with a small amount of foam."
 created: 2026-06-10

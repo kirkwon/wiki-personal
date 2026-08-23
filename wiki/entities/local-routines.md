@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Local Routines
 description: "Local routines refer to the specific, habitual practices individuals establish within their immediate environment or context, such as cooking recipes followed at home, photographic techniques applied."
 created: 2026-06-10

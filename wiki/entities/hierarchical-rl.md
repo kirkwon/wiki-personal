@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Hierarchical RL
 description: "Hierarchical Reinforcement Learning (HRL) is an approach to reinforcement learning that structures decision-making processes in a hierarchy of policies, where higher-level policies set goals for lower."
 created: 2026-06-10

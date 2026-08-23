@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Predictably Irrational
 description: "Predictably Irrational"
 created: 2026-06-10

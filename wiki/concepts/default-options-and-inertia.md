@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Default Options and Inertia
 description: "Default Options and Inertia"
 created: 2026-05-03

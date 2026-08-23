@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Five Dysfunctions of a Team - Patrick Lencioni
 description: "The Five Dysfunctions of a Team - Patrick Lencioni"
 created: 2026-06-10

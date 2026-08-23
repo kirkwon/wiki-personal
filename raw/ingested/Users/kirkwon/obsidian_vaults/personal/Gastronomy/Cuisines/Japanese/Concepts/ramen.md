@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Japanese/Concepts/ramen.md
 ingested: 2026-04-24
 sha256: b77c1ec72de3fde104a29c5ce9f6c9cd8ce275af987e1e9610ba3cafe431650a
+date: 2026-05-14
 title: Ramen
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: San Francisco City Guide
 description: "San Francisco City Guide"

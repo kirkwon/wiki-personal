@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: db21dc7fd6bb332d694d4cebe110bdfe735bacac9b67c2cca73240d88b61b995
 source_path: Gastronomy/Herbs & Spices/Herbs/Rosemary.md
+date: 2026-05-14
 title: Rosemary (Rosmarinus officinalis)
 type: note
 created: '2026-05-14'

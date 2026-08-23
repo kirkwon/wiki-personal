@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Deterministic Policy Gradient (DPG)
 description: "Deterministic Policy Gradient (DPG)"
 created: 2026-06-10

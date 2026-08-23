@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Willingness to Pay for Good Deeds
 description: "Willingness to Pay for Good Deeds"
 created: 2026-05-03

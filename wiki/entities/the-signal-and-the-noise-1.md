@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Signal and the Noise
 description: "The Signal and the Noise"
 created: 2026-06-10

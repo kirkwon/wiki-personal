@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Music Theory & Jazz/jazz-harmony.md
 ingested: 2026-04-24
 sha256: abec3ab18302468f84938dee81a20d1376f699f21ade365c99e9eb261cfbc08f
+date: 2026-05-14
 title: Jazz Harmony
 type: note
 created: '2026-05-14'

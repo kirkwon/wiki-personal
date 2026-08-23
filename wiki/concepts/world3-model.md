@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: World3 Model
 created: 2026-05-03

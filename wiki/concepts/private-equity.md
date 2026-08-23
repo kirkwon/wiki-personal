@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Private Equity
 description: "Private equity encompasses investments in private companies that are not publicly traded."

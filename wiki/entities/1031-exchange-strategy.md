@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: 1031 exchange strategy
 description: "1031 exchange strategy"
 created: 2026-06-10

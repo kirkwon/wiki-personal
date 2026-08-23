@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: source
 title: Group.md
 created: 2026-05-04

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 回锅肉
 description: "回锅肉（回锅肉）是经典川菜，被称为'不会让你停下来的菜'。"

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Habit of Listening
 description: "Skillfully giving full attention to understand, rather than just waiting to speak."

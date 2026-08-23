@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Tea/Typ
   Tea.md
 ingested: 2026-04-24
 sha256: b40a1db72c62f925741232d96bf44495d6651cdb816b20a6cc477a48044969b8
+date: 2026-05-14
 title: Green Tea (绿茶 - Lǚ Chá)
 type: note
 created: '2026-05-14'

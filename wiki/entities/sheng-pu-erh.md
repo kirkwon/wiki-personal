@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 生普洱
 description: "生普洱（Shēng Pǔ'ěr）是普洱茶的生茶类型，采用自然发酵方式，可长期陈化数十年。"

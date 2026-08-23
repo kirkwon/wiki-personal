@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: diverse-teams
 description: "Diverse teams are groups composed of individuals with varied backgrounds, skills, and perspectives that contribute to the richness of ideas and problem-solving approaches within a collaborative settin."
 created: 2026-06-10

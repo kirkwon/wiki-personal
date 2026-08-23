@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Art of Storytelling
 description: "The Art of Storytelling refers to the skill of crafting and delivering narratives to engage an audience, convey information, inspire action, or build connection."

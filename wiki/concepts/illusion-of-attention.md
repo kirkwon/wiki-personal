@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Illusion of Attention
 created: 2026-04-29

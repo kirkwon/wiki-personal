@@ -1,4 +1,5 @@
 ---
+date: 2026-06-28
 type: concept
 title: Scaffold Optimization
 created: 2026-06-28

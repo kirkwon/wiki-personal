@@ -1,4 +1,5 @@
 ---
+date: 2026-04-22
 type: entity
 title: S Corporation
 created: 2026-04-22

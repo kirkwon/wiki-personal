@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: algorithmic-trading
 description: "Algorithmic trading is the use of computer programs to execute trades at high speeds based on predefined criteria, much like following a recipe in cooking or using automated settings for photography."
 created: 2026-06-10

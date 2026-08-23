@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: External Triggers
 description: "External triggers are information or cues from outside the user that prompt action."

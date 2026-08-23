@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Beyond Good and Evil - Friedrich Nietzsche
 author: Friedrich Nietzsche
 year: 2024

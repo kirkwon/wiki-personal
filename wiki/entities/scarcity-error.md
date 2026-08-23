@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Scarcity error
 description: "A scarcity error occurs when an individual overvalues items or opportunities perceived as limited, leading to irrational decision-making in cooking (e.g., overspending on rare ingredients), photograph."
 created: 2026-06-10

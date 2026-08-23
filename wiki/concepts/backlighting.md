@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Backlighting
 description: "Backlighting is a lighting technique where the subject is placed between the camera and the light source, commonly the sun during golden hour."

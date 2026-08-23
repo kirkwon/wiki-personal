@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: resource:wok-cooking-masterclass
 description: "resource:wok-cooking-masterclass"
 created: 2026-06-10

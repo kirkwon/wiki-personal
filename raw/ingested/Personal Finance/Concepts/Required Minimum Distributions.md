@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: da7f3cc4430243259f5d526af1e20358149ec69c4db8963e34838068e514b1f2
 source_path: Personal Finance/Concepts/Required Minimum Distributions.md
+date: 2026-05-14
 title: Required Minimum Distributions (RMDs)
 type: note
 created: '2026-05-14'

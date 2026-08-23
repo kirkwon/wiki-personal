@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Price Pacts
 description: "Price Pacts | concept | productivity, commitment-devices, mental-models."

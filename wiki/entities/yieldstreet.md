@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Yieldstreet
 description: "Yieldstreet is an alternative investments platform with a minimum investment of $500."

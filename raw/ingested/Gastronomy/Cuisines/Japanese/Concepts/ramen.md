@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 97016a0885b627a3b519f1ee7406c5278873848539b4a35f9f0cd5cb8f08afeb
 source_path: Gastronomy/Cuisines/Japanese/Concepts/ramen.md
+date: 2026-05-14
 title: Ramen
 type: note
 created: '2026-05-14'

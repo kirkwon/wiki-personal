@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Recipes
 description: "A 'Category:Recipes' is an organized collection of culinary instructions designed to guide individuals through the process of preparing various dishes for consumption."
 created: 2026-06-10

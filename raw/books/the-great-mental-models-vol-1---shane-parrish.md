@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Great Mental Models (Vol. 1) - Shane Parrish
 author: Shane Parrish
 year: 2024

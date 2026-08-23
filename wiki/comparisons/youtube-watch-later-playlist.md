@@ -4,6 +4,7 @@ sources:
 - raw/ingested/YouTube-Watch-Later-Fixed.md
 tags:
 - general
+date: 2026-04-24
 title: YouTube Watch Later Playlist
 description: "--
 YouTube Watch Later Playlist

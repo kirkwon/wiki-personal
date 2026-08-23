@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Think Win-Win
 description: "Think Win-Win is a cooperative mindset where all parties in an interaction or agreement can benefit."

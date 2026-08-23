@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Broken World / Hope Framework
 description: "A philosophical approach to rebuilding and finding purpose following systemic failure or trauma."

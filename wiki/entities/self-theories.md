@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Self-Theories
 description: "Self-theories are cognitive frameworks that individuals use to understand their abilities and control over outcomes in various domains such as cooking (culinary skills), photography (visual talent), p."
 created: 2026-06-10

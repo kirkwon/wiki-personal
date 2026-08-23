@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-04-29
 sha256: null
+date: 2026-05-14
 title: Practice Source
 description: "This source document introduces 'Practice' as a universal mental model—a conceptual tool or principle for understanding and navigating complex situations through pattern and relationship recognition."
 type: note

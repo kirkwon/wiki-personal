@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Monte Carlo Tree Search
 description: "Monte Carlo Tree Search"
 created: 2026-06-10

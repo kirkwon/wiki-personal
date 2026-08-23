@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Choice Architecture
 description: "Choice architecture is the deliberate design of decision environments—how choices are presented, ordered, labeled, framed, and structured."

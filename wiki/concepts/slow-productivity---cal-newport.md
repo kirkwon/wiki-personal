@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: synthesis
 title: Slow Productivity - Cal Newport (Book Summary)
 description: "--

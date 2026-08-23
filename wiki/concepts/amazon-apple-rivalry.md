@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Amazon vs Apple Rivalry
 description: "Amazon vs Apple Rivalry"

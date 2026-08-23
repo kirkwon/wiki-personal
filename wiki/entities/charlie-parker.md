@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Charlie Parker
 description: "Charlie Parker (1920–1955) was an alto saxophonist who is widely regarded as one of the most influential musicians in jazz history."

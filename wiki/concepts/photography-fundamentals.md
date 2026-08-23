@@ -20,6 +20,7 @@ related:
 - camera-modes
 - metering-modes
 - street-photography
+date: 2026-04-24
 title: Photography Fundamentals
 description: "Photography Fundamentals"
 type: note

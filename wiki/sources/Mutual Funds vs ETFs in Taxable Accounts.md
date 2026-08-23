@@ -1,4 +1,5 @@
 ---
+date: 2026-05-09
 title: 'Source: Mutual Funds vs ETFs in Taxable Accounts.md'
 description: "Mutual Funds vs ETFs in Taxable Accounts"
 type: source

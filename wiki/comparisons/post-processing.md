@@ -6,6 +6,7 @@ tags:
 - editing
 - general
 - post-processing
+date: 2026-04-24
 title: Post-Processing
 type: comparison
 updated: '2026-04-24'

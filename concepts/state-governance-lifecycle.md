@@ -1,11 +1,12 @@
 ---
+date: 2026-07-06
 type: concept
 title: "State Governance Lifecycle"
 created: 2026-07-06
 updated: 2026-07-06
 tags: [agent-systems, methodology, technology]
 sources: [papers/always-on-agents-survey]
-summary: The ten-stage lifecycle (observe→write→validate→organize→retrieve→act→update→forget→audit→rollback) over which persistent agent state is governed, with five invariants that tie lifecycle stages to state axes. A structural asymmetry exists: the forward arc dominates, the return arc is sparse.
+summary: "The ten-stage lifecycle (observe→write→validate→organize→retrieve→act→update→forget→audit→rollback) over which persistent agent state is governed, with five invariants that tie lifecycle stages to state axes. A structural asymmetry exists: the forward arc dominates, the return arc is sparse."
 ---
 
 # State Governance Lifecycle

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Principles for Dealing with the Changing World Order
 created: 2026-04-29

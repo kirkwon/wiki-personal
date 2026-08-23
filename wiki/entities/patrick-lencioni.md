@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: entity
 title: Patrick Lencioni
 description: "Business author known for team dynamics and organizational health through popular management concepts."

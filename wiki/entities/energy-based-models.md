@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Energy-Based Models
 description: "Energy-based models (EBMs) are computational frameworks that represent complex systems through energy landscapes, where the system's state corresponds to a low-energy configuration."
 created: 2026-06-10

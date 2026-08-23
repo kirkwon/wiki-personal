@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Espresso油脂层评估
 description: "油脂层（Crema）是浓缩咖啡表面特征性的红棕色泡沫层，是萃取质量的重要评估指标。"

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Dual Process Theory
 description: "The Dual Process Theory posits that human cognition operates via two distinct systems: System 1 (intuitive) handles automatic, quick judgments often based on heuristics; System 2 (analytical) is slowe."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "wikilink: ingredient-pairings"
 description: "wikilink: ingredient-pairings"
 created: 2026-06-10

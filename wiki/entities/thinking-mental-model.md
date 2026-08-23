@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Thinking mental model
 description: "Thinking mental model"
 created: 2026-06-10

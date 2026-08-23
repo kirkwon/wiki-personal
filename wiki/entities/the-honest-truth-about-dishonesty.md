@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Honest Truth About Dishonesty
 description: "The Honest Truth About Dishonesty"
 created: 2026-06-10

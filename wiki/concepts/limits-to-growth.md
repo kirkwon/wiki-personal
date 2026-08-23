@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Limits to Growth
 description: "Limits to Growth is a landmark 1972 book by Donella H."

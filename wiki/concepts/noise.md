@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Noise
 description: "Noise refers to unwanted variability in judgment and decision-making — the gap between how a person or system actually performs and how consistently it could perform."

@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 1920a265958dde1f11354f22e7bc37971190b9949c737497bb2f7271b65e1a10
 source_path: Gastronomy/Cuisines/Chinese/Index.md
+date: 2026-05-14
 title: Chinese Cuisine
 type: note
 created: '2026-05-14'

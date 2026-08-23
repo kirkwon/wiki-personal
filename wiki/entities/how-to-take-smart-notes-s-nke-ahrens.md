@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: How to Take Smart Notes - Sönke Ahrens
 description: "How to Take Smart Notes - Sönke Ahrens"
 created: 2026-06-10

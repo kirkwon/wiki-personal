@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 7b77ae2a9d2975b47737a3b6623d5fde719fbe00cc77e22c66ebe110aac87111
 source_path: Gastronomy/Cuisines/American/Concepts/southern-soul-food.md
+date: 2026-05-14
 title: Southern and Soul Food
 type: note
 created: '2026-05-14'

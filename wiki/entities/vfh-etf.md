@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: VFH ETF
 description: "VFH is a Smart Beta ETF that implements the low volatility factor."

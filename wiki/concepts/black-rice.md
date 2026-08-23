@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 title: Black Rice/Forbidden Rice (黑米)
 created: 2026-04-24
 updated: 2026-04-24

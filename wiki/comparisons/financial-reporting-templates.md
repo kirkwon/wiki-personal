@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Personal Finance/Financial Reporting Templates.md
 tags:
 - general
+date: 2026-04-24
 title: Financial Reporting Templates
 type: comparison
 updated: '2026-04-24'

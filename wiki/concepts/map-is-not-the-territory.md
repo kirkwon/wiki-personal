@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Map Is Not the Territory
 description: "Understanding that models or theories are helpful abstractions, but do not represent reality fully."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: entity
 title: Find Your Why - Simon Sinek
 created: 2026-04-29

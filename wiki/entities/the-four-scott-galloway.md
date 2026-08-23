@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Four - Scott Galloway
 description: "The Four - Scott Galloway"
 created: 2026-06-10

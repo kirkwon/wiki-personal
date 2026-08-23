@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Quant Strategy/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Quant Strategy
 type: concept
 updated: '2026-04-24'

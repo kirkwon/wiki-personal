@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/American/Concepts/burgers.md
 ingested: 2026-04-24
 sha256: 12d9d4266ff60602ce5499a39ed12218e35e5d14cddfd39becac15ff28e84a0b
+date: 2026-05-14
 title: American Burgers
 type: note
 created: '2026-05-14'

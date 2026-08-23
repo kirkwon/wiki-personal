@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 大红袍 (Da Hong Pao)
 created: 2026-04-24

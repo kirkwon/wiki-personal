@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Lateral Thinking: Creativity Step by Step"
 description: "Lateral Thinking: Creativity Step by Step"
 created: 2026-06-10

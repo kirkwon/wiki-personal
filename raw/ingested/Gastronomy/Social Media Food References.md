@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: c330fcd398183d849275caa80ebc7a050d524ac9c439f42f09546516e7ec4dab
 source_path: Gastronomy/Social Media Food References.md
+date: 2026-05-14
 title: Social Media Food References
 type: note
 created: '2026-05-14'

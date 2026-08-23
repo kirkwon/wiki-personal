@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sigmoid
 description: "In cooking, the sigmoid function can represent flavor intensity over time as ingredients meld together."
 created: 2026-06-10

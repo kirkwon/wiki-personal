@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - tea
+date: 2026-04-24
 title: Green Tea (绿茶 - Lǚ Chá)
 type: query
 updated: '2026-04-24'

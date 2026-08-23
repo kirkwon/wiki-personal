@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Mission Burrito
 description: "El mission burrito es un tipo de burrito grande y sustancioso, originario de Texas aunque asociado con la cocina de San Francisco."

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: How to Decide - Annie Duke
 author: Annie Duke
 year: 2024

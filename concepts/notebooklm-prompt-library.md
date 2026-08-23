@@ -1,4 +1,5 @@
 ---
+date: 2026-07-19
 type: concept
 title: Notebooklm Prompt Library
 created: 2026-07-19

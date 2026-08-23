@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 5b2d6f2d81a6902445380d247c39d279b0340bfe660be26911d330558d30ba41
 source_path: Categories/Cooking Techniques.md
+date: 2026-05-14
 title: 'Category: Cooking Techniques'
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: second-hand-first
 description: "The 'second-hand-first' approach refers to prioritizing learning from existing resources or experiences before attempting new tasks in various domains."
 created: 2026-06-10

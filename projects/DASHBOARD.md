@@ -1,4 +1,5 @@
 ---
+date: 2026-08-22
 type: dashboard
 title: Project Dashboard
 created: 2026-08-22

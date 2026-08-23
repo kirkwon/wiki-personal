@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: parallel-thinking
 description: "Parallel-thinking is an approach where multiple ideas or strategies are considered simultaneously to solve problems in cooking (recipe innovation), photography (composition techniques), personal finan."
 created: 2026-06-10

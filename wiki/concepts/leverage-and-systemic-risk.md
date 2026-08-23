@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Leverage and Systemic Risk
 created: 2026-05-03

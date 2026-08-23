@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Proposition 13 Overview
 description: "Proposition 13 Overview"
 created: 2026-06-10

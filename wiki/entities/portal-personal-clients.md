@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Portal:Personal Clients
 description: "Portal:Personal Clients"
 created: 2026-06-10

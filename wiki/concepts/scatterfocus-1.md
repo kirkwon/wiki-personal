@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Scatterfocus
 description: "Scatterfocus is the deliberate practice of letting the mind wander without directing it toward a specific task."

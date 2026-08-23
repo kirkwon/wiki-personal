@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "wikilink: al-dente"
 description: "A 'wikilink: al-dente' refers to the Italian term for pasta cooked to be firm when bitten but tender in texture, a desired quality often sought after in culinary practices."
 created: 2026-06-10

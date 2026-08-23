@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 title: The Algebra of Wealth
 description: "The Algebra of Wealth"
 sources:

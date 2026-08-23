@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: trust-in-communication
 description: "trust-in-communication"
 created: 2026-06-10

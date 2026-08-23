@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Atomic Habits - James Clear
 author: James Clear
 year: 2024

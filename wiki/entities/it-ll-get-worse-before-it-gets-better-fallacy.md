@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: It'll-get-worse-before-it-gets-better fallacy
 description: "It'll-get-worse-before-it-gets-better fallacy"
 created: 2026-06-10

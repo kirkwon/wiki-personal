@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: globalization
 description: "Globalization refers to the process of increased interconnectedness among countries, leading to more integrated economies, cultures, and communication networks."
 created: 2026-06-10

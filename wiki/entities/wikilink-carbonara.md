@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "wikilink: carbonara"
 description: "A 'wikilink: carbonara' refers to the classic Italian pasta dish made with spaghetti, eggs, hard cheese (typically Pecorino Romano), pancetta or guanciale, and black pepper, often served with a creamy."
 created: 2026-06-10

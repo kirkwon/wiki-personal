@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Peter Norvig
 description: "Peter Norvig is a renowned computer scientist with expertise in artificial intelligence (AI) and cognitive science."
 created: 2026-06-10

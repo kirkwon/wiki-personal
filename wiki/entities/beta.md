@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: beta
 description: "Beta refers to the sensitivity of an investment or system to market movements (in finance) or changes in light intensity (in photography)."
 created: 2026-06-10

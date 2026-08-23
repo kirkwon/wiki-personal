@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Mind Mastery
 description: "The practice of developing intense concentration, focus, and cognitive discipline."

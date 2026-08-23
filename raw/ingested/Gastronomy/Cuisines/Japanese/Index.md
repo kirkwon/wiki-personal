@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: aaaa70c449067bfeb64e2354540457e782998e8dc992dfb2ffbb9331aad40979
 source_path: Gastronomy/Cuisines/Japanese/Index.md
+date: 2026-05-14
 title: Japanese Cuisine
 type: note
 created: '2026-05-14'

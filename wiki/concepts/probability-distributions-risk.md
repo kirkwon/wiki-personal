@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Probability Distributions and Risk Management
 created: 2026-05-03

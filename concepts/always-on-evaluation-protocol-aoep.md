@@ -1,4 +1,5 @@
 ---
+date: 2026-07-06
 type: concept
 title: "Always-On Evaluation Protocol (AOEP)"
 created: 2026-07-06

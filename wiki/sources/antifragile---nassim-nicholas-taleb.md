@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 title: Antifragile - Nassim Nicholas Taleb
 description: "Antifragile - Nassim Nicholas Taleb"

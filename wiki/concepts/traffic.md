@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Traffic
 description: "Traffic as a mental model refers to the flow and movement of information, resources, or activities through a system."

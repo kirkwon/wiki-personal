@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Craving Brain
 description: "The craving brain refers to the neuroscience behind how habits become encoded and reinforced in the brain."

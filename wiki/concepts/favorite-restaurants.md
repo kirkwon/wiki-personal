@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - local
+date: 2026-04-24
 title: Favorite Restaurants
 type: concept
 updated: '2026-04-24'

@@ -2,6 +2,7 @@
 source_url: Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne.md
 ingested: 2026-04-29
 sha256: a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456
+date: 2026-05-14
 title: Blue Ocean Strategy - W. Chan Kim & Renee Mauborgne
 type: note
 created: '2026-05-14'

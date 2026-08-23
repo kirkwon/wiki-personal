@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: LangChain
 description: "A LangChain is an AI framework designed to build language models capable of chaining together various tasks in sequence, facilitating complex reasoning and decision-making processes across diverse fie."
 created: 2026-06-10

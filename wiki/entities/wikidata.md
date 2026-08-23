@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Wikidata
 description: "Wikidata is a free, open knowledge base that stores structured data across various domains including cooking recipes, photographic techniques, personal finance tips, and cognitive science concepts."
 created: 2026-06-10

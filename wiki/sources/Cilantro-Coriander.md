@@ -3,6 +3,7 @@ source_url: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Herbs & Spices/Her
 ingested: 2026-04-24
 sha256: 57668af128cb71311c473b70ab74a7d44f2e898ad588d60d84ca1d54a406425d
 updated: 2026-05-09
+date: 2026-05-14
 title: Cilantro/Coriander (Coriandrum sativum)
 type: note
 created: '2026-05-14'

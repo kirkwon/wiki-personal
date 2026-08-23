@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: inertia
 description: "Inertia refers to the resistance of any physical object to a change in its state of motion or rest."
 created: 2026-06-10

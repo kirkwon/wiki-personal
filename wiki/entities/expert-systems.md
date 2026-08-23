@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Expert Systems
 description: "An Expert System is an AI software that emulates the decision-making abilities of a human expert in specific domains such as cooking recipes, photographic techniques, financial advice, or cognitive pr."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Thiel mental model
 description: "The Thiel mental model emphasizes the importance of innovation and long-term thinking to achieve success in various domains such as cooking (creative recipe development), photography (disruptive techn."
 created: 2026-06-10

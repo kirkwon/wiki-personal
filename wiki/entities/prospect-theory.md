@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Prospect Theory
 description: "Prospect Theory is a behavioral economic theory that describes how people make decisions between alternatives that involve risk, where the outcomes are perceived in terms of gains and losses relative."
 created: 2026-06-10

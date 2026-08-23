@@ -1,6 +1,7 @@
 ---
 
 
+date: 2026-04-17
 type: entity
 title: David Deutsch
 description: "David Deutsch is a physicist and philosopher of science, best known for his work on the many-worlds interpretation of quantum mechanics and for his book The Beginning of Infinity."

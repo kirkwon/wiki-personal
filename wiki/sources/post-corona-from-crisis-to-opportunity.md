@@ -1,8 +1,10 @@
 ---
+
+date: 2026-04-29
 type: source
 title: 'Post Corona: From Crisis to Opportunity - Scott Galloway'
-description: "--
-Post Corona: From Crisis to Opportunity - Scott Galloway"
+description: "--"
+Post Corona: From Crisis to Opportunity - Scott Galloway""
 created: 2026-04-29
 updated: 2026-04-29
 tags:
@@ -15,6 +17,7 @@ related:
 - the-four-scott-galloway
 - platform-dominance
 - companies-mental-model
+
 ---
 --
 # Post Corona: From Crisis to Opportunity - Scott Galloway

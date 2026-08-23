@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Chinese/Concepts/mapo-tofu.md
 tags:
 - general
+date: 2026-04-24
 title: Mapo Tofu
 type: query
 updated: '2026-04-24'

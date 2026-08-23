@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Reciprocity
 description: "Reciprocity is the social norm that people tend to return favors, respond to kindness with kindness, and feel obligated to repay what they have received."

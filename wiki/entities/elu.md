@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: ELU
 description: "Electronic Leakage Unit (ELU) refers to an imaginary device conceptualized within cognitive science that metaphorically represents the leakage of information from neural networks during processing tas."
 created: 2026-06-10

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Epistemological Fallacy
 description: "The error of assuming that having information equates to knowing the absolute truth."

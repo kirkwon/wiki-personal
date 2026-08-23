@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: gardner-md
 description: "Gardner-MD refers to an interdisciplinary approach combining Gardner's theory of multiple intelligences with medical diagnostics, focusing on personalized cooking plans that cater to cognitive strengt."
 created: 2026-06-10

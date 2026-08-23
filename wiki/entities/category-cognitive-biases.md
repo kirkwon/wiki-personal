@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Cognitive Biases
 description: "Category:Cognitive Biases"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: structured-group-thinking
 description: "structured-group-thinking"
 created: 2026-06-10

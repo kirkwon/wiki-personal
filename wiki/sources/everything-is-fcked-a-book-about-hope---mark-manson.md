@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: 'Everything Is F*cked: A Book About Hope - Mark Manson'
 created: 2026-05-03

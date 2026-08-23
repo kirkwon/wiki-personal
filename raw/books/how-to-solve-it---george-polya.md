@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: How to Solve It - George Polya
 author: George Polya
 year: 2024

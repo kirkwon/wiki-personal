@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-14
 title: Knowledge Pipeline Architecture
 description: "Main Topic
 Automated knowledge ingestion pipeline that processes data from multiple sources (Evernote, Pinterest, Obsidian, Apple Notes) into a unified format, enriches with wisdom extraction, imports."

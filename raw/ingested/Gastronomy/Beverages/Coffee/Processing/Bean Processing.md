@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 24089ae4b1e3ad37e0a25715232a59a9c28cdeb88342d022c601b645bffc7a96
 source_path: Gastronomy/Beverages/Coffee/Processing/Bean Processing.md
+date: 2026-05-14
 title: Coffee Bean Processing (咖啡豆处理)
 type: note
 created: '2026-05-14'

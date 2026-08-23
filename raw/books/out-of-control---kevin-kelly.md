@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Out of Control - Kevin Kelly
 author: Kevin Kelly
 year: 2024

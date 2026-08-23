@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: environment-design-and-optimization
 description: "environment-design-and-optimization"
 created: 2026-06-10

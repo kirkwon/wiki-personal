@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/American/Concepts/tex-mex.md
 tags:
 - general
+date: 2026-04-24
 title: Tex-Mex
 type: comparison
 updated: '2026-04-24'

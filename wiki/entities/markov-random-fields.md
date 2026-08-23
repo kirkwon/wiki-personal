@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Markov Random Fields
 description: "A Markov Random Field (MRF) is a mathematical model that represents the joint distribution of variables with an undirected graph structure where each node corresponds to a random variable, and edges r."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Peter M. Senge
 description: "Peter M. Senge is an influential thinker known for his work on systems thinking and learning organizations."
 created: 2026-06-10

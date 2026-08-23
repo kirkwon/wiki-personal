@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Winner's Curse
 description: "The winner's curse is a phenomenon in which the highest bidder in a competitive auction or bidding situation systematically overpays, ending up worse off even though they 'won.' This occurs because th."

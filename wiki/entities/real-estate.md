@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Real Estate
 description: "Real estate refers to property consisting of land or buildings on it, with an inherent value based on location, utility, and market demand."
 created: 2026-06-10

@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Thai/Concepts/curry-varieties.md
 ingested: 2026-04-24
 sha256: 6f3dd738859fd64ad4bc130f3345832296b39cb7243e16586ae9648e384334cf
+date: 2026-05-14
 title: Thai Curries
 type: note
 created: '2026-05-14'

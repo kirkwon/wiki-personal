@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Leadership Through Purpose
 created: 2026-04-29

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Contrast effect
 description: "The contrast effect is the phenomenon where perception or judgment of something is influenced by comparison with an adjacent or associated stimulus that differs in intensity or quality."
 created: 2026-06-10

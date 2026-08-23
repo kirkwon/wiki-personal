@@ -3,6 +3,7 @@ source_url: /Users/kirkwon/Downloads/book_summaries/unified_books_improved/Essen
   The Disciplined Pursuit of Less - Greg McKeown_improved.json
 ingested: 2026-04-17
 sha256: 9a3c8f2e7d1b4a6c5f8e3d7b2a9c1f4e6d8b3a7c5f2e9d4b1a8c6f3e7d5b2a9c
+date: 2026-05-14
 title: 'Essentialism: The Disciplined Pursuit of Less — Source Summary'
 type: note
 created: '2026-05-14'

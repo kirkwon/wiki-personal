@@ -1,6 +1,7 @@
 ---
 tags: [concept, stub]
 created: 2026-06-16
+date: 2026-06-16
 type: concept
 description: "A schema defines the structure, constraints, and relationships within a dataset or database, acting as a blueprint for data organization."
 ---

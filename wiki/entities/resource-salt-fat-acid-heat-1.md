@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Resource:Salt Fat Acid Heat
 description: "Resource:Salt Fat Acid Heat"
 created: 2026-06-10

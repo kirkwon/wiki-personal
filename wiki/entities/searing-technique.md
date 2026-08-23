@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Searing Technique
 description: "The Searing Technique refers to the method of quickly cooking food at high heat to create a caramelized crust on the surface while preserving moisture inside."
 created: 2026-06-10

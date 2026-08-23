@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Index Investing
 description: "Index investing is the strategy of purchasing shares of a diverse portfolio that mirrors a market index, such as the S&P 500 or Dow Jones Industrial Average, to achieve broad market exposure with mini."
 created: 2026-06-10

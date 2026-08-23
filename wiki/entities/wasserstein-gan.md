@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Wasserstein GAN
 description: "A Wasserstein GAN (WGAN) is an advanced generative model that uses the Earth Mover's distance to measure how much distribution shift is needed for one probability distribution to match another, enhanc."
 created: 2026-06-10

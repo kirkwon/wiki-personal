@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 1894292459078d437cdd41cc630b97c5283dac2624d43bf1eabc81c5b7213f77
 source_path: Personal Finance/Company Structure Guide.md
+date: 2026-05-14
 title: Company Structure Guide
 type: note
 created: '2026-05-14'

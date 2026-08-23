@@ -1,4 +1,5 @@
 ---
+date: 2026-05-09
 type: source
 title: 'Source: making-it-all-work'
 description: "Making It All Work - David Allen"

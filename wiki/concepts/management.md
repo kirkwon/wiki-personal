@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 title: Management
 description: "Management is a conceptual tool and practice that helps understand and navigate complex situations while systematically improving efficiency and output."
 type: concept

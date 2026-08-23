@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: David Allen
 type: entity
 created: 2026-05-03

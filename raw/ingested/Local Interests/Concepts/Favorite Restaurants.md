@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 5a443a98d81b0b006ef5e6643b5fdd0ff7a5c37606e5bfd0442926d456a2707a
 source_path: Local Interests/Concepts/Favorite Restaurants.md
+date: 2026-05-14
 title: Favorite Restaurants
 type: note
 created: '2026-05-14'

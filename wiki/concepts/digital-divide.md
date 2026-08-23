@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Digital Divide
 created: 2026-04-29

@@ -8,6 +8,7 @@ tags:
 - sashimi
 - raw-fish
 - cuisine
+date: 2026-04-24
 title: Sushi and Sashimi
 description: "寿司（Sushi）は酢飯と様々なトッピングを組み合わせたものであり、刺身（Sashimi）は米なしの新鮮な生魚である。両者とも素材の純粋さと新鮮さを尊び、高品質な海産物と正確な技術が不可欠である。"
 type: concept

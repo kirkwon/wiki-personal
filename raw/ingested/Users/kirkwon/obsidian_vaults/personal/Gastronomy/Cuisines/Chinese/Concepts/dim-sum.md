@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Cuisines/Chinese/Concepts/dim-sum.md
 ingested: 2026-04-24
 sha256: 3f14dac3191cd63e8ab1fdedecb50a0b7a2512748c781aae78ab38d3bba659b5
+date: 2026-05-14
 title: Dim Sum
 type: note
 created: '2026-05-14'

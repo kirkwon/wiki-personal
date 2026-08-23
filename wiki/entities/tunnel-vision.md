@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: tunnel-vision
 description: "Tunnel vision refers to the focused attention on a specific task or goal while ignoring other relevant information, which can lead to overlooking important details in cooking recipes, missing broader."
 created: 2026-06-10

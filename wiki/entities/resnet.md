@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: ResNet
 description: "A ResNet (Residual Network) is an advanced deep learning architecture that simplifies the training of very deep neural networks by introducing skip connections or shortcuts to jump over some layers."
 created: 2026-06-10

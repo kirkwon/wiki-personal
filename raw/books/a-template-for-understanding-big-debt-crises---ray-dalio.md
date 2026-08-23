@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: A Template for Understanding Big Debt Crises - Ray Dalio
 author: Ray Dalio
 year: 2024

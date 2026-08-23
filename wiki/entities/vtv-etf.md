@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: VTV ETF
 description: "VTV is a Smart Beta ETF that implements the value factor for large cap stocks."

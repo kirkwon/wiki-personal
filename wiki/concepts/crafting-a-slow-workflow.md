@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Crafting a Slow Workflow
 description: "Crafting a Slow Workflow. Intentionally pacing work to prioritize depth, focus, and quality over sheer speed or volume."

@@ -1,6 +1,7 @@
 ---
 tags: [personal-finance, retirement, healthcare, california]
 created: 2026-06-15
+date: 2026-06-15
 type: note
 description: "Healthcare Costs in Retirement — California Edition"
 status: complete

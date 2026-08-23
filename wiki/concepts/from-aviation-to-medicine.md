@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: From Aviation to Medicine
 description: "From Aviation to Medicine. Applying rigorous safety protocols and checklists developed in aviation for high-stakes medical procedures."

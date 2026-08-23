@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Charles Duhigg
 created: 2026-05-03

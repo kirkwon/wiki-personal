@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Noise: A Flaw in Human Judgment"
 description: "Noise: A Flaw in Human Judgment"
 created: 2026-06-10

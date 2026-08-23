@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: 烘焙曲线与开发比例
 description: "烘焙曲线和开发比例是控制咖啡烘焙质量的核心工具，包括升温速率（ROR）和一爆至二爆时间比（FC/BC）。"

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-10
 type: source
 title: 'Source: Success.md'
 description: "- Success (mental model) — Central concept in this source; not currently in wiki index.

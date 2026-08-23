@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: dashi
 description: "Dashi is a Japanese stock or broth used as the foundation of many traditional dishes such as miso soup."
 created: 2026-06-10

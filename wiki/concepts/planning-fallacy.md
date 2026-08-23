@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Planning Fallacy
 description: "Planning Fallacy | concept | behavioral-economics, decision-making, cognitive-bias, psychology."

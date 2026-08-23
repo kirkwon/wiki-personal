@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Presets and Style Consistency
 description: "Presets and Style Consistency"
 created: 2026-06-10

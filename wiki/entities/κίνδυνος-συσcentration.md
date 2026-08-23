@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Concentration Risk"
 description: "Κίνδυνος Συσcentration"
 created: 2026-06-10

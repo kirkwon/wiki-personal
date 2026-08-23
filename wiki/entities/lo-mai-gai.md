@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Lo Mai Gai (糯米鸡)
 created: 2026-04-24

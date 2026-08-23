@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: The 70-80% Budget Rule
 description: "--

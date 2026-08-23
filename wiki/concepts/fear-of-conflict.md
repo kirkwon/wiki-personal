@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Fear of Conflict
 description: "The reluctance to engage in conflict, often leading to suppressed needs or unresolved issues."

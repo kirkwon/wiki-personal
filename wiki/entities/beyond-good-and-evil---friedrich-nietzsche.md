@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Beyond Good and Evil - Friedrich Nietzsche
 description: "Beyond Good and Evil - Friedrich Nietzsche"

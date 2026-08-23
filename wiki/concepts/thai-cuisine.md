@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Thai/Index.md
 tags:
 - general
+date: 2026-04-24
 title: Thai Cuisine
 type: concept
 updated: '2026-04-24'

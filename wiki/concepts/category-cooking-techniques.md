@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Categories/Cooking Techniques.md
 tags:
 - general
+date: 2026-04-24
 title: 'Category: Cooking Techniques'
 type: concept
 updated: '2026-04-24'

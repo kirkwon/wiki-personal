@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "Recipe: Umami Building Blocks"
 description: "Recipe: Umami Building Blocks"
 created: 2026-06-10

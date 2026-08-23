@@ -1,4 +1,5 @@
 ---
+date: 2026-05-04
 type: concept
 title: Planning
 description: "Planning is a universal mental model for navigating complex situations through pattern and relationship recognition."

@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Tea/Index.md
 ingested: 2026-04-24
 sha256: b5384f82859d25c0e6f2440179c3ebdb475d5e938b62687c3d5379d9dc7c789e
+date: 2026-05-14
 title: Tea
 type: note
 created: '2026-05-14'

@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Spirits/Whisky Ta
   Notes.md
 ingested: 2026-04-24
 sha256: 37d6d1859ed178f2dd82772181ea287231e29ece2037132819174d3fda21f107
+date: 2026-05-14
 title: Whisky Tasting Notes
 type: note
 created: '2026-05-14'

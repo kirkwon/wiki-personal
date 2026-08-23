@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: On the Shortness of Life - Seneca
 author: Seneca
 year: 2024

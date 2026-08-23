@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Bet Sizing
 description: "Managing risk by determining the optimal proportion of resources committed to a given opportunity."
 created: 2026-05-03

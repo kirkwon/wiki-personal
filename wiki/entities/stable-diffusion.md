@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Stable Diffusion
 description: "Stable Diffusion refers to the process of achieving equilibrium or balance within systems, analogous to how ingredients blend uniformly in cooking recipes, light evenly in photography exposure setting."
 created: 2026-06-10

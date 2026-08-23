@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Yann LeCun
 description: "Yann LeCun is a computer scientist renowned for his contributions to deep learning as well as convolutional neural networks."
 created: 2026-06-10

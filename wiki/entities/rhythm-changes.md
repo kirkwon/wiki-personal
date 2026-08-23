@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Rhythm Changes
 description: "In the context of music theory, 'Rhythm Changes' refers to the chord progression derived from George Gershwin's 'I Got Rhythm,' commonly used as a harmonic framework for jazz improvisation and composi."
 created: 2026-06-10

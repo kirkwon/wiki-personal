@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Fallacy of Signal-to-Noise Ratio
 description: "Mistaking random background noise for meaningful patterns or critical signals in data."

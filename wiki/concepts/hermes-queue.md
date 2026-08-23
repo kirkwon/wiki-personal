@@ -1,4 +1,5 @@
 ---
+date: 2026-06-30
 type: concept
 title: "Hermes Queue — SQLite-Backed Task Orchestration"
 description: "A visible, inspectable task queue for Hermes subagent orchestration. Replaces invisible delegate_task with a SQLite-backed queue that you can query, inspect, and manage."

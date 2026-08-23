@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Commitment and Consistency Principle
 description: "The psychological tendency to remain consistent with past decisions or stated beliefs, even against better judgment."

@@ -13,6 +13,7 @@ related:
 - mole-verde
 - flavor-theory
 - qi-wei-flavors
+date: 2026-04-24
 type: concept
 title: Mexican Cuisine
 description: "La cocina mexicana es una de las más diversas y ricas del mundo, con raíces prehispánicas y coloniales."

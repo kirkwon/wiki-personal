@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Markdown Documentation
 description: "Markdown Documentation"
 created: 2026-06-10

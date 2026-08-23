@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Deep Work
 description: "Deep work refers to sustained, focused effort on cognitively demanding tasks without distraction."

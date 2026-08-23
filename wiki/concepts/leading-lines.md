@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Leading Lines
 description: "Leading lines are lines in an image that guide the viewer's eye toward the main subject."

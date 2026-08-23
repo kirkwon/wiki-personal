@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Search Space Optimization in Decisions
 description: "Search Space Optimization in Decisions | concept | decision-making, algorithms, cognitive-science, mental-models."

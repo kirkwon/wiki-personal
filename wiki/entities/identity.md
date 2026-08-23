@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: identity
 description: "Identity refers to the unique combination of characteristics, values, experiences, and skills that define an individual's sense of self across various domains such as cooking (culinary preferences), p."
 created: 2026-06-10

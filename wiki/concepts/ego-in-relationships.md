@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Ego in Relationships
 description: "Ego in Relationships: Using self-focus and defensiveness that undermines genuine connection and empathy."

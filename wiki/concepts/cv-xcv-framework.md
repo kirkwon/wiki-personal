@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: CV = XCV Framework
 description: "CV = XCV is Scott Galloway's central analogy in The Algebra of Happiness, treating life decisions as a competitive strategy problem."

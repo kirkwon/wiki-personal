@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: b9af02988d2af244528f89a9deeac093f8c1f32052e3f8ca5581aecfe551da12
 source_path: Gastronomy/Cuisines/French/Index.md
+date: 2026-05-14
 title: French Cuisine
 type: note
 created: '2026-05-14'

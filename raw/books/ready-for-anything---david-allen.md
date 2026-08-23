@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Ready for Anything - David Allen
 author: David Allen
 year: 2024

@@ -6,6 +6,7 @@ tags:
 - general
 - local
 - real-estate
+date: 2026-04-24
 title: Bay Area Real Estate Market Analysis
 type: query
 updated: '2026-04-24'

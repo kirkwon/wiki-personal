@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Sanjeev Arora
 description: "Sanjeev Arora is an accomplished individual with diverse interests spanning cooking, photography, personal finance, and cognitive science."
 created: 2026-06-10

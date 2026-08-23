@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Communication skill
 description: "A communication skill is the ability to convey information effectively and efficiently through various mediums such as verbal language, non-verbal cues, or written text."
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Zero-to-One Thinking
 description: "Zero-to-one thinking is Peter Thiel's core philosophical framework, articulated in his book Zero to One with Blake Masters."

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Digital Chaos
 description: "Digital chaos refers to the state of information overload and clutter in digital environments that undermines productivity and creative output."

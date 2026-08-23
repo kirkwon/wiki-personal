@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Will - Mark Manson
 description: "'Will by Mark Manson is an influential book that challenges conventional wisdom with a focus on simplicity and authenticity in life's pursuits."
 created: 2026-06-10

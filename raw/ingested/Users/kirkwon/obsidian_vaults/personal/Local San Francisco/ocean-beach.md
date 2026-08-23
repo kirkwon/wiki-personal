@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Local San Francisco/ocean-beach.md
 ingested: 2026-04-24
 sha256: 9c58247c4ea71949c4dec8e4b85d745ab49e09cdd7e0a10e28d4633865c90552
+date: 2026-05-14
 title: Ocean Beach
 type: note
 created: '2026-05-14'

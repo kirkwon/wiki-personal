@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 title: Irrational Decision-Making
 description: "Irrational Decision-Making"
 created: 2026-05-03

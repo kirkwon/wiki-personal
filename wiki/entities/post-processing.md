@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Post-Processing
 description: "In cooking, post-processing refers to the steps taken after meal preparation, such as plating or garnishing, which enhances presentation and appeal."
 created: 2026-06-10

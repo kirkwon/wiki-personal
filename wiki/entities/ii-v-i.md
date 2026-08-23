@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: ii-V-I
 description: "In music theory, an 'ii-V-I progression' is a sequence of chords that typically outlines the harmonic structure in jazz and classical compositions."
 created: 2026-06-10

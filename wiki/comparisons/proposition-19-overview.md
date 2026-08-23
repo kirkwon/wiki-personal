@@ -7,6 +7,7 @@ tags:
 - real-estate
 - california-tax
 - estate-planning
+date: 2026-04-24
 title: Proposition 19 Overview
 type: comparison
 updated: 2026-05-09

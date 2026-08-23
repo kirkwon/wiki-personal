@@ -2,6 +2,7 @@
 source_url: ''
 ingested: 2026-04-29
 sha256: ''
+date: 2026-05-14
 title: Tasks
 description: "Tasks is a conceptual tool or principle that helps understand and navigate complex situations."
 type: note

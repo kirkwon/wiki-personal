@@ -1,4 +1,5 @@
 ---
+date: 2026-05-24
 type: concept
 title: Market Microstructure and the Options Market
 created: 2026-05-24

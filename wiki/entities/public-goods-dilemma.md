@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Public goods dilemma
 description: "The Public Goods Dilemma refers to the situation where individuals face choices that affect collective resources without being able to exclude others from using them."
 created: 2026-06-10

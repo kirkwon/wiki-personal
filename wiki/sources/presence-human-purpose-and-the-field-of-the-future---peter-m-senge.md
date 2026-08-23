@@ -1,4 +1,5 @@
 ---
+date: 2026-05-09
 type: source
 title: 'Source: presence-human-purpose-and-the-field-of-the-future'
 description: "Presence — Human Purpose and the Field of the Future"

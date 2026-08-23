@@ -1,4 +1,5 @@
 ---
+date: 2026-06-11
 type: concept
 title: Methodology Loop (Inner, Validation, Meta)
 created: 2026-06-11

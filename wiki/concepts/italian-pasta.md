@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Italian Pasta
 description: "Pasta is the foundation of Italian cuisine — versatile, affordable, and beloved worldwide."

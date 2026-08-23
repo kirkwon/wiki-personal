@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Purpose
 description: "Purpose is a mental model defined as a conceptual tool or principle that helps understand and navigate complex situations."

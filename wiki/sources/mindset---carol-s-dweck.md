@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: Mindset - Carol S. Dweck
 created: 2026-05-03

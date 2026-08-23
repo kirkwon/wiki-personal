@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Fried Clams
 description: "Fried clams are a seafood shack classic in New England, made by dredging clam bellies and strips in seasoned cornmeal or flour and frying until golden."

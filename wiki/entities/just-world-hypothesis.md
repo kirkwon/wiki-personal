@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Just-world hypothesis
 description: "Just-world hypothesis"
 created: 2026-06-10

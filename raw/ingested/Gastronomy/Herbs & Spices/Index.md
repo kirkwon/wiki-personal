@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 113e9aa437369529c6a731a1459fba796c1f8bf0567ccde37215c12b875092bc
 source_path: Gastronomy/Herbs & Spices/Index.md
+date: 2026-05-14
 title: Herbs & Spices
 type: note
 created: '2026-05-14'

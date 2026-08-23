@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Commitment and Consistency
 description: "Commitment and Consistency"
 created: 2026-06-10

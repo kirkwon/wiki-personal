@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: 鱼香茄子
 description: "鱼香茄子（鱼香茄子）是经典川菜，虽无鱼但有鱼香。"

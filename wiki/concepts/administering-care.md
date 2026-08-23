@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Administering Care
 description: "Administering care refers to the practice of actively caring for others—employees, colleagues, and team members—as a leadership discipline."

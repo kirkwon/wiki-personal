@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Cognitive
 description: "In the context of cooking, cognition refers to the mental processes involved in understanding recipes, ingredient combinations, and techniques for preparation."
 created: 2026-06-10

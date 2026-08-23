@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Exploration
 description: "Exploration is a mental model positioned as a universal conceptual tool for navigating complex situations by recognizing patterns and relationships."

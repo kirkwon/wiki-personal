@@ -2,6 +2,7 @@
 source_url: ''
 ingested: 2026-05-03
 sha256: 667b9e87535d4b42c5d1a7bd6c0edf819133edd50996aeeeb9e494e139c10c78
+date: 2026-05-14
 title: How to Decide - Annie Duke
 type: note
 created: '2026-05-14'

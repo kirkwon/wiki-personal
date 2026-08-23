@@ -1,4 +1,5 @@
 ---
+date: 2026-07-02
 type: reference
 title: Hermes Skill Phase Alignment Plan
 description: "Complete alignment of all skills to the three-phase delegation model (Explore → Sieve → Execute) with cross-master coordination, I/O contracts, and skill queue mapping."

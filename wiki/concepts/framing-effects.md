@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Framing Effects
 description: "Framing effects describe how the presentation of choices systematically alters decisions, even when the underlying options are identical."

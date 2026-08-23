@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Soft Actor‑Critic (SAC)
 description: "Soft Actor‑Critic (SAC)"
 created: 2026-06-10

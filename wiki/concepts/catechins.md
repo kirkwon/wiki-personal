@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Catechins (儿茶素)
 description: "Catechins are a type of natural polyphenol and antioxidant found in tea, with the most abundant being EGCG (epigallocatechin gallate)."

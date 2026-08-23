@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Chinese/Concepts/sichuan-cuisine.md
 tags:
 - general
+date: 2026-04-24
 title: Sichuan Cuisine
 type: query
 updated: '2026-04-24'

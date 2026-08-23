@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Role of Habits
 description: "How habits shape thoughts and behaviors, and developing positive routines for improved clarity and decision-making."

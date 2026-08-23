@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Craft Capital vs. Career Capital
 description: "Craft Capital vs. Career Capital. Balancing deep, specialized skills (craft) against professional titles and status (career)."

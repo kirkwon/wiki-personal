@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Personal Finance/Index.md
 ingested: 2026-04-24
 sha256: e47d058cdad7ac2eee5f9e7c7b18cbea694d3863f542d1fda391b96688b15adc
+date: 2026-05-14
 title: Personal Finance
 type: note
 created: '2026-05-14'

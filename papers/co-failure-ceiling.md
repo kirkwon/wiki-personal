@@ -1,4 +1,5 @@
 ---
+date: 2026-06-28
 type: entity
 title: Co-Failure Ceiling — When Combining Language Models Helps
 created: 2026-06-28

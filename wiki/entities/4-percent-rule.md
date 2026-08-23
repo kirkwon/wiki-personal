@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: 4 Percent Rule
 description: "The '4 Percent Rule' is a retirement savings guideline suggesting that one should aim to save enough so their portfolio can generate approximately 4% annually in retirement without depleting the princ."
 created: 2026-06-10

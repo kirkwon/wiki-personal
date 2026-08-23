@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Probabilistic Programming
 description: "Probabilistic Programming"
 created: 2026-06-10

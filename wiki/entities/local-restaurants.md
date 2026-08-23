@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Local Restaurants
 description: "Local restaurants are establishments within the community that offer dining experiences featuring regional cuisine, often highlighting local ingredients and culinary traditions."
 created: 2026-06-10

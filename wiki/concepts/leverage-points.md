@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Leverage Points
 description: "Leverage points are places within a system where a small shift in one thing can produce large changes in everything."

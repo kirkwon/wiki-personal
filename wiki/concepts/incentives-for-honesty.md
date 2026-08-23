@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Incentives for Honesty
 description: "Incentives for Honesty"

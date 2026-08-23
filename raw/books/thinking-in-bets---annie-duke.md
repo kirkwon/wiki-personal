@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Thinking in Bets - Annie Duke
 author: Annie Duke
 year: 2024

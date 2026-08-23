@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Castro
 description: "Castro refers to an individual whose name is synonymous with Fidel Castro, the former Cuban leader known for his revolutionary activities."
 created: 2026-06-10

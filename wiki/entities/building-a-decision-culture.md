@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Building-a-decision-culture
 description: "Building-a-decision-culture"
 created: 2026-06-10

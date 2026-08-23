@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Focus Modes
 description: "Focus modes determine how the camera acquires and maintains focus on a subject."

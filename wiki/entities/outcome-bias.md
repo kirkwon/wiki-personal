@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Outcome bias
 description: "Outcome bias is the tendency to judge a decision by its eventual result rather than by the quality of the decision at the time it was made."
 created: 2026-06-10

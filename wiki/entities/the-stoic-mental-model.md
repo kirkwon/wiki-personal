@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The Stoic mental model
 description: "The Stoic mental model"
 created: 2026-06-10

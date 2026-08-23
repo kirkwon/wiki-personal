@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Coffee/
   Processing.md
 ingested: 2026-04-24
 sha256: ffdf79d0c67edc4fb309a4dce72a6e349525070dd5f915d3bdbd9bc34093684e
+date: 2026-05-14
 title: Coffee Bean Processing (咖啡豆处理)
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Position Sizing
 description: "Position Sizing είναι η κανόνα του μην ρισκάρει πάνω από 2-5% του portfolίου ανά options συναλλαγή. Κρίσιμο για την αποφυγή overleveraging."

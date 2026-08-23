@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 3e5b98dcdddaea8395cea3f882b7d18ee26c61687831f79b8e33862256207b97
 source_path: Quant Strategy/Index.md
+date: 2025-04-15
 type: index
 domain: Quant Strategy
 created: 2025-04-15

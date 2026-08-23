@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 鯉（Tai）
 description: "関連

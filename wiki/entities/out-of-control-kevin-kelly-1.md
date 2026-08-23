@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Out of Control - Kevin Kelly
 description: "Out of Control - Kevin Kelly"
 created: 2026-06-10

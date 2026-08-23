@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Templates/Framework.md
 tags:
 - general
+date: 2026-04-24
 title: '{{title}}'
 type: template
 updated: '2026-04-24'

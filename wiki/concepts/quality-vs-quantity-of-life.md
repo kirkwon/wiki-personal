@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Quality vs. Quantity of Life
 description: "Quality vs. Quantity of Life"

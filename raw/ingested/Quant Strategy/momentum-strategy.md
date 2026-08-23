@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: e4a2f5c37a0738a4bab0f82bd4a535fe20130bc0cfa6ad30efb24dc1efead956
 source_path: Quant Strategy/momentum-strategy.md
+date: 2026-05-14
 title: Momentum Strategy
 type: note
 created: '2026-05-14'

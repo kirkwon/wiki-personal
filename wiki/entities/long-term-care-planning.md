@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Long-Term Care Planning
 description: "Long-Term Care Planning"
 created: 2026-06-10

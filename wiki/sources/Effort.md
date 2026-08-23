@@ -2,6 +2,7 @@
 source_url: null
 ingested: 2026-04-29
 sha256: 5f4dcc3b5aa765d61d8327deb882cf99
+date: 2026-05-14
 title: Effort
 type: note
 created: '2026-05-14'

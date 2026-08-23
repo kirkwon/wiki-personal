@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Liking Principle
 description: "One of Cialdini's six principles of influence."

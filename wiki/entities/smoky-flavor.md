@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Smoky Flavor
 description: "A 'Smoky Flavor' refers to the distinct taste imparted by smoke during cooking processes such as grilling or smoking meats, which is characterized by a rich, savory profile with hints of char and wood."
 created: 2026-06-10

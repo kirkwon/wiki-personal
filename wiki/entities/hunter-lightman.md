@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Hunter Lightman
 description: "Hunter Lightman is an individual with diverse interests encompassing culinary arts, visual storytelling through photography, financial acumen for personal wealth management, and a keen understanding o."
 created: 2026-06-10

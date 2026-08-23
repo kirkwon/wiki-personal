@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Self-serving bias
 description: "Self-serving bias is the cognitive tendency to attribute successes to internal factors while blaming failures on external circumstances."
 created: 2026-06-10

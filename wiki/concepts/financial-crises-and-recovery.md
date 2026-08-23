@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Financial Crises and Recovery
 description: "Financial Crises and Recovery. Analyzing the causes of economic downturns and the mechanisms required for stable global recovery."

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Overfitting
 description: "Creating models that are too complex for the problem, capturing noise rather than signal."

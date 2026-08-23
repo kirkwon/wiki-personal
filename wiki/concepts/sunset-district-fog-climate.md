@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Sunset District Fog Climate
 created: 2026-04-24

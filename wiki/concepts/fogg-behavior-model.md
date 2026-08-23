@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Fogg Behavior Model
 description: "The Fogg Behavior Model (FBM) states that behavior occurs when three elements converge simultaneously: motivation, ability, and trigger."

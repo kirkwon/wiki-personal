@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: healthcare
 description: "Healthcare refers to the organized provision of medical services to individuals or communities with the aim of promoting, maintaining, or restoring health."
 created: 2026-06-10

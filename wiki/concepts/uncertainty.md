@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Uncertainty
 description: "Uncertainty is the recognition that outcomes cannot be perfectly predicted, and that confidence in any model or forecast is inherently limited."

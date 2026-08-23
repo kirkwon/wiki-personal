@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Black Hat - Cautionary Perspective
 description: "Black Hat - Cautionary Perspective"

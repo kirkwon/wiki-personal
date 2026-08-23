@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Nudge Theory
 description: "[[nudge-theory]], introduced by Richard H."

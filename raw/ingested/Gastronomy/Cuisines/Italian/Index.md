@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 5ec224441a8fbce33ebcfdd9aed4b80f3796a47285c1d99bca0d95b4c8c13779
 source_path: Gastronomy/Cuisines/Italian/Index.md
+date: 2026-05-14
 title: Italian Cuisine
 type: note
 created: '2026-05-14'

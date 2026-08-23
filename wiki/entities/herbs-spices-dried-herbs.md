@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: herbs-spices-dried-herbs
 description: "herbs-spices-dried-herbs"
 created: 2026-06-10

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Resource Depletion
 created: 2026-05-03

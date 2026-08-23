@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Scott Galloway
 description: "Scott Galloway is a business strategist, professor at NYU Stern, and author known for his sharp analysis of technology markets, corporate competition, and societal trends."

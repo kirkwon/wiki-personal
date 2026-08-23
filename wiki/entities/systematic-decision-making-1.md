@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Systematic Decision-Making
 description: "Systematic Decision-Making"
 created: 2026-06-10

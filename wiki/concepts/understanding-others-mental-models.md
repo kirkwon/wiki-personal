@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Understanding Others Through Their Mental Models
 description: "Understanding Others Through Their Mental Models"

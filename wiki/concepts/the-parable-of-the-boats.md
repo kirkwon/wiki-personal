@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: The Parable of the Boats
 description: "The Parable of the Boats"

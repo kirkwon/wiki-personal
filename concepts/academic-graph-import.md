@@ -1,4 +1,5 @@
 ---
+date: 2026-07-19
 type: concept
 title: Academic Graph Import
 created: 2026-07-19

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Roth Ladder Strategy
 description: "The Roth IRA contribution strategy involves systematically investing in traditional IRAs (pre-tax contributions) while converting to Roth IRAs (post-tax contributions)."
 created: 2026-06-10

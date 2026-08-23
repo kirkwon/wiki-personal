@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: How the Economic Machine Works - Ray Dalio
 author: Ray Dalio
 year: 2024

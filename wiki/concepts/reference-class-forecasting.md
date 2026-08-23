@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Reference Class Forecasting
 description: "Reference Class Forecasting"

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: query
 title: "Research: Implementing PKM System"
 description: "Research: Implementing PKM System"

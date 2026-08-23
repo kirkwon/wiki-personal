@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: inflation-protection
 description: "Inflation-protection refers to financial strategies or instruments designed to safeguard the purchasing power of money against the eroding effects of inflation over time."
 created: 2026-06-10

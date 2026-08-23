@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Category:Local Businesses
 description: "Category:Local Businesses"
 created: 2026-06-10

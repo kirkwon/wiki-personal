@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Fooled by Randomness - Nassim Nicholas Taleb
 created: 2026-04-29

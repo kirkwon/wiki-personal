@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: entity
 title: Burr Grinder (锥刀磨豆机)
 description: "--

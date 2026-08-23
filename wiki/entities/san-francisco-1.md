@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: San Francisco
 description: "San Francisco is a vibrant city known for its diverse culinary scene that caters to food enthusiastms from around the world."
 created: 2026-06-10

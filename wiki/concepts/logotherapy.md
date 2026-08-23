@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Logotherapy
 description: "Logotherapy is Viktor Frankl's psychotherapeutic approach centered on the belief that the primary human drive is the search for meaning, not pleasure or power."

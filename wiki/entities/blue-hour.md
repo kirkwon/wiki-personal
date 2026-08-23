@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Blue Hour
 description: "The Blue Hour refers to the period of twilight that occurs just after sunset or before sunrise when the remaining daylight is predominantly blue in color."
 created: 2026-06-10

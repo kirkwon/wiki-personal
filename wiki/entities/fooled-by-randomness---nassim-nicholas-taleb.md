@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Fooled by Randomness - Nassim Nicholas Taleb
 description: "Fooled by Randomness - Nassim Nicholas Taleb"

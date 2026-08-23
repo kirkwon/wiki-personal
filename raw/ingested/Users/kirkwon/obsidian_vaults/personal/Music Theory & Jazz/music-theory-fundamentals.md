@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Music Theory & Jazz/music-theory-fundamentals.md
 ingested: 2026-04-24
 sha256: 365fcee798992095b4cc26d85d4ea8798e1776b52e17e7c8b8bae246c7171f74
+date: 2026-05-14
 title: Music Theory Fundamentals
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: GELU
 description: "Gaussian Error Linear Unit (GELU) is an activation function used in neural networks that introduces non-linearity by applying a smooth, differentiable approximation to the rectified linear unit (ReLU)."
 created: 2026-06-10

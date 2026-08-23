@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Antifragile
 description: "Antifragility refers to the capacity of systems or entities to not only withstand stressors but also to improve as a result of them."
 created: 2026-06-10

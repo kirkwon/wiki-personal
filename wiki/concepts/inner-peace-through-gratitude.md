@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Inner Peace Through Gratitude
 description: "Cultivating appreciation for what one has to reduce stress and find inner tranquility."

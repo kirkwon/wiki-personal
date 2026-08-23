@@ -3,6 +3,7 @@ source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Beverages/Tea/Typ
   Tea.md
 ingested: 2026-04-24
 sha256: 008882e6a24f37ad0464578ce5e8fa63cb2cbec8ac03564b81dbe1e843e84fae
+date: 2026-05-14
 title: Oolong Tea (乌龙茶 - Wūlóng Chá)
 type: note
 created: '2026-05-14'

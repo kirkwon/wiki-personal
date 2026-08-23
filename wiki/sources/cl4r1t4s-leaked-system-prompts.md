@@ -1,4 +1,5 @@
 ---
+date: 2026-06-19
 title: CL4R1T4S — Leaked AI System Prompts Repository
 created: 2026-06-19
 updated: 2026-06-19

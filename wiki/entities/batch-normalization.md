@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Batch Normalization
 description: "Batch Normalization is a technique used to standardize the inputs of each mini-batch, improving training stability by reducing internal covariate shift in deep learning models."
 created: 2026-06-10

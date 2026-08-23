@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Jeffrey D. Karpicke
 description: "Research psychologist and co-author of Make It Stick."

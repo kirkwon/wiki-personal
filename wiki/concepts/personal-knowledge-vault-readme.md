@@ -4,6 +4,7 @@ sources:
 - raw/ingested/README.md
 tags:
 - general
+date: 2026-04-24
 title: Personal Knowledge Vault - README
 type: concept
 updated: '2026-04-24'

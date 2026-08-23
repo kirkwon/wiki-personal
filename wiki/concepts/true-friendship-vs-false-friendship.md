@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: True Friendship vs. False Friendship
 description: "True Friendship vs. False Friendship"

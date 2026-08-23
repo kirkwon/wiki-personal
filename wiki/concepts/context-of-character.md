@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Context of Character
 description: "Context of Character. How surrounding circumstances influence our ethical choices and decision-making processes."

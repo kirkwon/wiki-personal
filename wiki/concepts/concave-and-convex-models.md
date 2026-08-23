@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Concave and Convex Models
 description: "Concave and Convex Models"

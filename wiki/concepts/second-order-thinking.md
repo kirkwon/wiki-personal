@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Second-Order Thinking
 description: "Second-Order Thinking | concept | mental-models, decision-making, cognitive-science."

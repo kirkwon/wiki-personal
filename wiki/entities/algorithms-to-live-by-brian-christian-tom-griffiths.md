@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Algorithms to Live By - Brian Christian  Tom Griffiths
 description: "Algorithms to Live By - Brian Christian  Tom Griffiths"
 created: 2026-06-10

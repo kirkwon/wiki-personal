@@ -1,4 +1,5 @@
 ---
+date: 2026-07-02
 type: concept
 title: Real Estate Analyzer (skill candidate)
 description: "Executable skill for single-property and portfolio-level real estate investment analysis. Calculates NOI, cap rate, cash-on-cash, LTV, DSCR, 1031 exchange tax savings, and portfolio concentration risk."

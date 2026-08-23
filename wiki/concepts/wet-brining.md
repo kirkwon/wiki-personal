@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Wet Brining
 description: "Wet brining involves soaking protein in a salt water bath for hours to days, resulting in juicy, seasoned meat throughout."

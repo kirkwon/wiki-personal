@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: concept
 title: Strategic Analysis
 description: "Strategic Analysis

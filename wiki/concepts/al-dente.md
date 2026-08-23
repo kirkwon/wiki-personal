@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Al Dente
 created: 2026-04-24

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Lindy-ness
 description: "The idea that the expected lifespan of a technology or concept is proportional to its age."

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The F*ck It Principle
 description: "Embracing imperfection and action over analysis paralysis; simply starting is often enough."

@@ -2,6 +2,7 @@
 source_path: Users/kirkwon/obsidian_vaults/personal/Gastronomy/Index.md
 ingested: 2026-04-24
 sha256: 9c96880517ba1a315d6cbfa69c00d359bc5dd2604b8c8a687f95028a2d1baafc
+date: 2026-05-14
 title: Gastronomy
 type: note
 created: '2026-05-14'

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: paradox-of-change
 description: "The paradox-of-change refers to the conflicting nature of change within various domains; in cooking, it's between innovation and tradition; in photography, balancing technological advancement with art."
 created: 2026-06-10

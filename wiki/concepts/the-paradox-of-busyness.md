@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: The Paradox of Busyness
 description: "Feeling busy doesn't equal progress; constant activity masks deeper meaning and rest."

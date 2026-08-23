@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: kansai-cuisine
 description: "Kansai cuisine refers to the traditional culinary style originating from the Kansai region of Japan, encompassing dishes like sushi, tempura, and kaiseki-ryori."
 created: 2026-06-10

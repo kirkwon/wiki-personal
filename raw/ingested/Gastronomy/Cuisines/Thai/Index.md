@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 4e811160c9cb1e9250e60d7bdddc4113a2a6247f5f860586a7ccd495936e7717
 source_path: Gastronomy/Cuisines/Thai/Index.md
+date: 2026-05-14
 title: Thai Cuisine
 type: note
 created: '2026-05-14'

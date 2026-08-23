@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 title: Thinking in Bets
 description: "Evaluating decisions based on probabilities and outcomes, not just certainty or gut feeling."
 created: 2026-05-03

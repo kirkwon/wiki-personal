@@ -1,4 +1,5 @@
 ---
+date: 2026-07-06
 type: concept
 title: "Persistent-State Systems"
 created: 2026-07-06

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: entity
 title: Richard Thaler
 description: "Richard Thaler is a Nobel laureate behavioral economist and author, best known for his work on mental accounting, the endowment effect, and libertarian paternalism (nudging)."

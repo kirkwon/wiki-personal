@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: On the Shortness of Life - Seneca
 description: "Stoic treatise on life's brevity; mastering time and finding peace through philosophical reflection."

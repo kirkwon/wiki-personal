@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: RLHF
 description: "Real-time Learning with Human Feedback (RLHF) is an approach where human input guides the learning process in real time to improve outcomes or performance."
 created: 2026-06-10

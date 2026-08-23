@@ -1,4 +1,5 @@
 ---
+date: 2026-06-21
 type: entity
 title: Crawl4AI
 description: "Open-source web content extraction tool (62k GitHub stars). Uses Playwright + heuristic content extraction to return clean markdown from any URL. Free, local, no API key."

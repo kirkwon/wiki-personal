@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 title: Presence - Peter M Senge
 description: "--
 Presence - Peter M Senge"

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Four-step problem-solving framework
 created: 2026-04-29

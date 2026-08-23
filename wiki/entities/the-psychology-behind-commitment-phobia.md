@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: the-psychology-behind-commitment-phobia
 description: "the-psychology-behind-commitment-phobia"
 created: 2026-06-10

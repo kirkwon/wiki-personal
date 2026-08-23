@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Deliberate Practice
 description: "Structured, effortful practice focused on improving performance in any field."

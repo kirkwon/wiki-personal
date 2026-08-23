@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Vision Transformers
 description: "A Vision Transformer (ViT) is an AI model that processes visual data by breaking it down into fixed-size patches, similar to how a neural network might analyze individual ingredients in cooking or ele."
 created: 2026-06-10

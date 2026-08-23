@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: entity
 title: Bridgewater Associates
 created: 2026-05-03

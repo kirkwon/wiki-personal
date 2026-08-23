@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Four actions framework
 description: "Four actions framework"
 created: 2026-06-10

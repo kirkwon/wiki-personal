@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Decision Quality vs Outcome Quality
 description: "Decision Quality vs Outcome Quality. Recognizing that good decisions do not guarantee success, but poor ones rarely do."

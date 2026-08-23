@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Reasoning Over Emotion
 description: "Reasoning Over Emotion | concept | philosophy, mental-models, psychology, decision-making."

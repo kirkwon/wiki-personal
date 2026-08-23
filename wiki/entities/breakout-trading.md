@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Breakout Trading
 description: "Breakout trading is an investment strategy where capital is allocated to high-risk, high-reward opportunities outside of the main portfolio, akin to experimenting with bold flavors in cooking or uncon."
 created: 2026-06-10

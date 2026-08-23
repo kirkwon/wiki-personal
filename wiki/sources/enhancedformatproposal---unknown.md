@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: ENHANCED_FORMAT_PROPOSAL - Unknown
 created: 2026-05-03

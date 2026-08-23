@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: The PARA Method
 description: "The PARA Method is an acronym that stands for Planning, Analysis, Recording, and Assessment."
 created: 2026-06-10

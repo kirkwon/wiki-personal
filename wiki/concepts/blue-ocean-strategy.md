@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Blue Ocean Strategy
 description: "Identifying and creating new, untapped market spaces rather than competing in existing ones."

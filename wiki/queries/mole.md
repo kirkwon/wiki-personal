@@ -4,6 +4,7 @@ sources:
 - raw/ingested/Gastronomy/Cuisines/Mexican/Concepts/mole.md
 tags:
 - general
+date: 2026-04-24
 title: Mole
 type: query
 updated: '2026-04-24'

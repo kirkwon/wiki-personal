@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: source
 source_type: book
 title: 'Clear Thinking: Turning Ordinary Moments into Extraordinary Results'

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: The Art of War - Sun Tzu
 author: Sun Tzu
 year: 2024

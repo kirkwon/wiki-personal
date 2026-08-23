@@ -1,4 +1,5 @@
 ---
+date: 2026-05-14
 type: note
 title: 'Expertise OS: User Improvement Stories'
 created: 2026-05-14

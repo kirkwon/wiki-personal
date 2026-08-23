@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Loss Aversion
 description: "Loss aversion is the tendency for losses to loom larger than equivalent gains."

@@ -1,5 +1,6 @@
 ---
 
+date: 2026-04-29
 type: concept
 title: Values as a Mental Model
 description: "Values as a Mental Model"

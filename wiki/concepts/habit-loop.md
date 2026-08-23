@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Habit Loop
 description: "The Habit Loop is a neurological feedback loop that governs how habits are formed and maintained."

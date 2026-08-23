@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: concept
 title: Responsible Research and Innovation
 description: "Responsible Research and Innovation

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Cilantro/Coriander (Coriandrum sativum)
 created: 2026-04-24

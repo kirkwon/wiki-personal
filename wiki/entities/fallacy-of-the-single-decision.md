@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Fallacy of the single decision
 description: "Fallacy of the single decision"
 created: 2026-06-10

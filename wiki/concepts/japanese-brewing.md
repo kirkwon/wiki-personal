@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Japanese Brewing (日本冲泡法)
 description: "--

@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Embracing Failure for Personal Growth
 description: "Embracing Failure for Personal Growth"

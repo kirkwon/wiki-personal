@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Einkommensdiversifikation
 description: "Einkommensdiversifikation"
 created: 2026-06-10

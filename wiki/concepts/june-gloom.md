@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: June Gloom
 description: "June Gloom is a seasonal fog phenomenon that affects the San Francisco Bay Area, particularly in summer."

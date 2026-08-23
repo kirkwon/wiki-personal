@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Persuasive Entities
 description: "Understanding how external forces, narratives, or biases subtly guide human decision-making processes."

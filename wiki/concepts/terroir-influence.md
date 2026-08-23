@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 风土影响
 description: "风土（Terroir）是大吉岭茶独特风味的核心因素，包括海拔、气候、土壤和微气候的综合作用。"

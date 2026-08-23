@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: Mole Verde
 description: "El mole verde es una variante más ligera y fresca del mole mexicano."

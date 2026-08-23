@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Noise in Judgment
 description: "Noise is the unwanted variability and inconsistency in human judgments — the degree to which different decision-makers arrive at different conclusions when facing similar situations, or the same decis."

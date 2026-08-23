@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Nudges
 description: "This source introduces the concept of nudges as a universal mental model for navigating complex situations."

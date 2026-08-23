@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: concept
 title: 成都与重庆川菜差异
 description: "成都

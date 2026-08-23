@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: source
 title: Clarity Source
 description: "Source document introducing the Clarity mental model, a conceptual tool for navigating complexity through pattern recognition."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Net Worth Monitoring
 description: "Net worth monitoring is the systematic process of tracking an individual's assets (e.g., cash, investments) and liabilities (e.g., debts) to calculate their net worth over time."
 created: 2026-06-10

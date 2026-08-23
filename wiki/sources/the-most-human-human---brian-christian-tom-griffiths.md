@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: The Most Human Human - Brian Christian & Tom Griffiths
 created: 2026-05-03

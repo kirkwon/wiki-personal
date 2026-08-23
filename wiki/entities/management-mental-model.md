@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: management-mental-model
 description: "management-mental-model"
 created: 2026-06-10

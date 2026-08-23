@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: "wikilink: pasta-shapes-and-sauces"
 description: "wikilink: pasta-shapes-and-sauces"
 created: 2026-06-10

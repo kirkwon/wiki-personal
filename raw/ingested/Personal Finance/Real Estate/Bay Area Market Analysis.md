@@ -2,6 +2,7 @@
 ingested: '2026-04-24'
 sha256: 78dab448e5bcb3954eeadb517c6ed44985952fbc7a3fa4ae9bd568a0d557316f
 source_path: Personal Finance/Real Estate/Bay Area Market Analysis.md
+date: 2026-05-14
 title: Bay Area Real Estate Market Analysis
 type: note
 created: '2026-05-14'

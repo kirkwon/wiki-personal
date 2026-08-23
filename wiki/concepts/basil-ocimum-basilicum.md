@@ -5,6 +5,7 @@ sources:
 tags:
 - general
 - herbs
+date: 2026-04-24
 title: Basil (Ocimum basilicum)
 type: concept
 updated: '2026-04-24'

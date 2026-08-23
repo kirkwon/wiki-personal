@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Base Rate Fallacy
 description: "Base Rate Fallacy. Ignoring statistical probabilities (base rates) and over-relying on specific, immediate evidence when judging."

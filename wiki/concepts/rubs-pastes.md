@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Rubs & Pastes
 description: "In cooking, 'Rubs & Pastes' refer to blended mixtures of herbs, spices, or other ingredients applied directly onto food for flavor enhancement during the cooking process."
 created: 2026-06-10

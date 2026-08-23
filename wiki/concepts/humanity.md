@@ -1,4 +1,5 @@
 ---
+date: 2026-04-29
 type: concept
 title: Humanity
 description: "Humanity is a universal mental model for navigating complexity through human-centered pattern recognition."

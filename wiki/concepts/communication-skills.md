@@ -1,4 +1,5 @@
 ---
+date: 2026-05-03
 type: concept
 title: Communication Skills
 description: "Communication skills encompass the abilities needed to exchange information effectively, including listening, speaking, storytelling, emotional regulation, and persuasive techniques."

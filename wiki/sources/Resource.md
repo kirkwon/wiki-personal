@@ -1,4 +1,5 @@
 ---
+date: 2026-05-12
 type: source
 title: 'Source: Resource.md'
 created: 2026-05-12

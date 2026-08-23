@@ -1,4 +1,5 @@
 ---
+date: 2026-06-10
 title: Ingredient Pairings
 description: "Ingredient pairings refer to the combination of different food ingredients that complement each other in taste, texture, or color, enhancing a dish's overall flavor profile."
 created: 2026-06-10

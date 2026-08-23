@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: concept
 title: Purposeful Work Habits
 description: "Purposeful Work Habits | concept | productivity, psychology, habits."

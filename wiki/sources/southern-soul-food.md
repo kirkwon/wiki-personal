@@ -1,4 +1,5 @@
 ---
+date: 2026-04-24
 type: source
 title: Southern and Soul Food
 description: "Southern and Soul Food"

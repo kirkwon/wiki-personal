@@ -1,4 +1,5 @@
 ---
+date: 2026-07-02
 type: concept
 title: Learning Optimization System (skill candidate)
 description: "Executable skill for optimizing learning through spaced repetition scheduling, retrieval practice prompts, dual-process calibration, focus state management, and feedback loop design."

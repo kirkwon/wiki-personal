@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Man's Search for Meaning - Viktor Frankl
 author: Viktor Frankl
 year: 2024

@@ -1,5 +1,6 @@
 ---
 source_type: book
+date: 2026-05-14
 title: Zero to One - Peter Thiel & Blake Masters
 author: Peter Thiel & Blake Masters
 year: 2024

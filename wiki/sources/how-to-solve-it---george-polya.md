@@ -1,5 +1,6 @@
 ---
 
+date: 2026-05-03
 type: source
 title: How to Solve It - George Polya
 description: "A classic guide teaching systematic methods and strategies for solving mathematical problems."

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-12
 type: entity
 title: The Six Thinking Hats
 description: "The Six Thinking Hats
