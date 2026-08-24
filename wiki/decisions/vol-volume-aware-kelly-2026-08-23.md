@@ -36,8 +36,8 @@ tags:
 - Relates: [[risk-parity]] (stub), [[volatility-surface]] (stub), [[position-risk-profile]] (stub)
 - Source stimulus: GARCH thread @Hrundel75, Aug 22 2026
 
-## Open Items
+## Resolved Items (2026-08-23)
 
-- [ ] Choose vol estimator (GARCH(1,1) vs 20d realized vs HAR-RV)
-- [ ] Define volume anomaly threshold (median multiple over lookback)
-- [ ] Triage the three stubs: promote or delete
+- [x] **Vol estimator: HAR-RV.** Rationale: beats GARCH(1,1) on equity RV forecasting in most comparisons; uses realized variance components (daily/weekly/monthly) — no fitting loop; decomposes regime naturally; volume extension (HAR-RV-V) is a drop-in when volume channel is wanted. GARCH(1,1) kept as sanity check (persistence ~0.97 on SPY).
+- [x] **Volume anomaly threshold: 2.0x median over 20 sessions.** Above 2x trailing 20-day median volume → drop to half-Kelly until 5 sessions re-price. Chosen for simplicity and asymmetric cost: false positive costs upside, false negative costs regime blindness — regime blindness is worse.
+- [x] **Stub triage:** risk-parity and volatility-surface PROMOTED (linked here with relevance notes); position-risk-profile DELETED (empty metadata shell, zero inbound links).
