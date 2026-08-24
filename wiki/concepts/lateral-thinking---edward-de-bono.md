@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Lateral Thinking: Creativity Step by Step — Edward de Bono
 

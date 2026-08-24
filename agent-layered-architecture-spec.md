@@ -4,6 +4,8 @@ date: 2026-06-27
 source: research-citation
 tags: [agent-architecture, memory-hierarchy, structured-execution, knowledge-management]
 status: ingested
+created: 2026-06-27
+updated: 2026-06-27
 ---
 
 # Agent Layered Architecture Spec

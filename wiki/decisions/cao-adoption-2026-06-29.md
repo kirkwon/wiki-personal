@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 
 # Architecture Decision: Adopt CAO, Keep Queue Layer

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 david-allen
 - building-a-second-brain---tiago-forte
 - the-4-hour-workweek---timothy-ferriss

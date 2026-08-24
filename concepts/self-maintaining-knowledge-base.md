@@ -9,6 +9,8 @@ tags:
   - agentic-loops
   - documentation
   - ai-infrastructure
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Self-Maintaining Knowledge Base

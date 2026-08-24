@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 chris-bailey
 - deep-work - Cal Newport
 - getting-things-done---david-allen

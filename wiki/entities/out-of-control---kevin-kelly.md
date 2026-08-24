@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 john-gall
 - thinking-in-systems---donella-h-meadows
 - feedback-loop-design

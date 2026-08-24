@@ -1,3 +1,7 @@
+---
+created: 2026-06-12
+updated: 2026-06-12
+---
 # Loop Engineering Implementation Plan
 
 **Start Date:** 2026-06-12

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Skill Auto-Patch
 Skill auto-patch is the ability of the system to automatically propose updates to existing skills based on new findings. This enhances the system's adaptability and improves the efficiency of the loop engineering process.

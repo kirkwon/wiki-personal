@@ -13,6 +13,8 @@ ocr_regions: 135
 gate_decision: auto-ingest
 domains: [other]
 tags: [image-ingest, ocr, vlm, other]
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # The Complete AI PM Loop System (GitHub for PM)

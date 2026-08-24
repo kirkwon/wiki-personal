@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Mental Models
 Mental models are simplified representations of reality, capturing the essential elements, relationships, and rules of a domain. They are tools for understanding, prediction, and decision-making.

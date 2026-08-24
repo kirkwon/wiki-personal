@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Information Literacy
 Information literacy is the ability to locate, evaluate, and use information effectively.

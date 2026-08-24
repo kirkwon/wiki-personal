@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 daniel-kahneman
 - thinking-in-bets---annie-duke
 - the-checklist-manifesto---atul-gawande

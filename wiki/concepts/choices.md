@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 -david-deutsch.md", "The Paradox of Choice - Barry Schwartz.md", "Choices.md"]
 related: ["the-beginning-of-infinity---david-deutsch", "decision-making-frameworks", "systematic-decision-making", "choice-overload", "decision-paralysis", "options", "decisions", "paradox-of-choice", "thinking-in-bets---annie-duke", "algorithms-to-live-by---brian-christian-tom-griffiths", "cognitive-biases-library", "decision-quality-vs-outcome-quality", "nudge-theory", "the-optimists-metaphor"]

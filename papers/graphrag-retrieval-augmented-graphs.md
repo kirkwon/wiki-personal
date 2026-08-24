@@ -16,6 +16,8 @@ source_kind: put_page
 tags:
   - knowledge-graphs
   - paper
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Retrieval-Augmented Generation with Graphs (GraphRAG)

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Triage Inbox
 Triage inbox is a mechanism for managing and surfacing patterns from failed validations. It involves writing structured markdown notes to a triage directory and using a cron job to sweep these notes weekly and surface patterns.

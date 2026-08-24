@@ -7,6 +7,8 @@ authors: ["Jiayi Zhu", "Haoxuan Peng", "Junxi Wang", "Liang Ke", "Chen Zhang", "
 published: 2026-06-18
 tags: [llm, compression, token-optimization, context-window, multi-agent, babeltele, model-native, efficiency]
 date: 2026-06-27
+created: 2026-06-27
+updated: 2026-06-27
 ---
 
 # BabelTele — LLMs Don't Need Human-Readable Language

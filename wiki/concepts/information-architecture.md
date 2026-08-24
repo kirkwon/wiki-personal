@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Information Architecture
 Information architecture refers to the structure and organization of information within a system. It is crucial for understanding how the memory tiering system is designed and functions.

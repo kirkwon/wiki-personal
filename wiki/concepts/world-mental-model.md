@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 snke-ahrens
 - principles-for-dealing-with-the-changing-world-order---ray-dalio
 - post-corona---scott-galloway

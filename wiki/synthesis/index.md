@@ -1,3 +1,7 @@
+---
+created: 2026-06-16
+updated: 2026-06-16
+---
 # Synthesis
 
 - [2026-w16-review](2026-w16-review.md)

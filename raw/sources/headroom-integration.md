@@ -1,3 +1,7 @@
+---
+created: 2026-06-12
+updated: 2026-06-12
+---
 # Headroom — Context Compression for Hermes
 
 **Installed:** 2026-06-12 via `uv`

@@ -3,7 +3,7 @@ date: 2026-06-28
 type: concept
 title: Co-Failure Ceiling
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-08-23
 tags: [methodology, improvement, model]
 sources: [papers/co-failure-ceiling]
 ---
@@ -32,8 +32,15 @@ Validates the **single-model improvement** approach used by [[papers/ornith-1-se
 
 [[papers/causal-discovery-effect-constraints|Zhang, Van den Broeck & Wang (UAI 2026)]] provide a principled upgrade: estimate β as a **posterior over causal structure conditional on the co-failure event** (adaptive multilevel splitting for the rare-posterior-mass regime). This separates shared-cause co-failure (structural ceiling, fixable by decoupling components) from coincidental co-occurrence — a distinction frequency-counted β cannot make. Code: [MLS-Framework](https://github.com/ZCX031116/MLS-Framework).
 
+## Skill-Side and Audit-Side Update (2026-08-23)
+
+- **[[papers/skillgate-inpolicy-skill-selection|SkillGate]]** documents *selection–execution co-failure* as a credit-attribution confound: a correct skill choice is punished when execution after it fails (selector credit starvation). Their disjoint-credit-channel fix is a template for de-confounding β whenever attribution must split a decision from its execution.
+- **[[papers/task-coevolve-harness-optimization|Task-CoEvolve]]** operationalizes the inverse signal: candidate-disagreement tasks (balanced co-success/co-failure) carry the discriminative power for ranking harnesses — its sampling logs are a cheap continuously-updated β estimator across scaffold variants.
+- **[[papers/phantom-gains-self-improvement-null|Phantom Gains]]** imposes the measurement discipline: every transition-level statistic (β included) needs a separately measured null from baseline replicates — naive single-run β ledgers inherit phantom-transition artifacts.
+
 ## Connections
 
 - [[papers/co-failure-ceiling]] — the full paper page with empirical data
 - [[concepts/scaffold-optimization]] — the alternative strategy (improve the single model, not the ensemble)
 - [[papers/ornith-1-self-improving-coding|Ornith-1.0]] — validates that scaffold optimization beats raw ensemble scaling
+- [[concepts/skill-utility-gating]] — low-utility skills as a β source; utility as attribution prior

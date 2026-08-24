@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 tiago-forte
 - the-para-method-simplify-organize-and-master-your-digital-life---tiago-forte
 - personal-knowledge-vault

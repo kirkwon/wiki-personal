@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Agent Looping
 Agent Looping is the practice of designing the execution cycles AI agents run through to complete tasks. It focuses on how an agent perceives its environment, reasons about next steps, takes action, and decides whether to continue or stop. A well-engineered loop has four properties: a defined termination condition, observable intermediate states, defined retry logic, and a recovery path when the agent gets stuck.

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Cognitive Mental Models
 Cognitive mental models focus on how people process information, perceive reality, and make decisions. They are crucial for understanding human cognition and behavior.

@@ -5,6 +5,8 @@ date: 2026-06-27
 author: Kirk Won
 tags: [agent-architecture, self-organization, knowledge-pipeline, methodology, multi-agent, society-of-mind, gbrain, notebooklm, hermes]
 status: draft
+created: 2026-06-27
+updated: 2026-06-27
 ---
 
 # Building a Self-Organizing Agent Architecture

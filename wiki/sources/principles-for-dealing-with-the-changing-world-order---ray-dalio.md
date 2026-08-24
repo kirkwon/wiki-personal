@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Principles for Dealing with the Changing World Order - Ray Dalio
 

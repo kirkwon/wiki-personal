@@ -10,6 +10,8 @@ source: remote-clone:https://github.com/aouicher/graphmind
 project_type: rust
 language: rust
 manifest: Cargo.toml
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Repo Analysis: aouicher-graphmind

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Validation of Mental Models
 Validation of mental models is the process of testing and refining mental models to ensure their accuracy and reliability. This page provides an overview of the methods for validating mental models, including peer review, incremental validation, social validation, and design experiments.

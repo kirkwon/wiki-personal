@@ -1,3 +1,7 @@
+---
+created: 2026-06-19
+updated: 2026-06-19
+---
 # System: You are Grok 3 built by xAI.
 
 When applicable, you have some additional tools:

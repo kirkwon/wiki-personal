@@ -1,3 +1,7 @@
+---
+created: 2026-06-19
+updated: 2026-06-19
+---
 # Input Description
 You are a talented software engineer tasked with generating the complete source code of a working application. You will be given a goal, task description and a success criteria below, your task is to generate the complete set of files to achieve that objective.
 

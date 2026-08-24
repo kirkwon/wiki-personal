@@ -24,6 +24,8 @@ relationships:
     type: related_to
   - target: "[[papers/code-world-models-general-game-playing]]"
     type: derived_from
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Verifiable Planning

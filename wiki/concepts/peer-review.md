@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Peer Review
 Peer review is the process of sharing a mental model with others and receiving feedback. This process helps identify areas for improvement and refine the mental model.

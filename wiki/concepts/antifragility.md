@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 -nassim-nicholas-taleb.md", "antifragile---nassim-nicholas-taleb.md", "Antifragility.md", "skin-in-the-game---nassim-nicholas-taleb", "the-black-swan---nassim-nicholas-taleb", "Variability.md"]
 related: ["skin-in-the-game-nassim-nicholas-taleb", "black-swan-events", "embracing-failure-for-personal-growth", "decision-making-under-uncertainty", "real-options-analysis", "skin-in-the-game", "antifragile-rules", "embracing-randomness-for-growth", "tail-risk-and-extreme-outcomes", "mental-models", "variability", "noise-judgment-variability"]

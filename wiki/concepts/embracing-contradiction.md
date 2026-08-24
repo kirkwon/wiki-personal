@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 stephen-r-covey
 - paradox-of-power
 - world-disclosure

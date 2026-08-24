@@ -1,3 +1,7 @@
+---
+created: 2026-06-10
+updated: 2026-06-10
+---
 # Broken Wiki Links Report
 
 Total Broken Links: 1228

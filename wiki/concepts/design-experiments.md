@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Design Experiments
 Design experiments are the process of designing tests to validate a mental model, conducting the tests, and refining the mental model based on the results.

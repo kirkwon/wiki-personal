@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 --
 # Sushi Rice Preparation (酢飯の調理)

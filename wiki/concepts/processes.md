@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 daniel-kahneman
 - fooled-by-randomness---nassim-nicholas-taleb
 - clear-thinking---shane-parrish

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 philip-e-tetlock-dan-gardner
 - thinking-fast-and-slow---daniel-kahneman
 - ensemble-prediction-methods

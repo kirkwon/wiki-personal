@@ -5,6 +5,8 @@ status: draft-spec
 type: architecture-spec
 tags: [memory-architecture, agent-design, hermes, implementation-spec]
 related: "[[agent-layered-architecture-spec]]"
+created: 2026-06-28
+updated: 2026-06-28
 ---
 
 # Hermes Memory Tier System — Specification v1.0

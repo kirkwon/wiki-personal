@@ -7,6 +7,8 @@ tags:
   - knowledge-metabolism
   - self-improving-loops
   - agentic-memory
+created: 2026-06-30
+updated: 2026-06-30
 ---
 
 # 3D Cube: Knowledge Metabolism Pattern

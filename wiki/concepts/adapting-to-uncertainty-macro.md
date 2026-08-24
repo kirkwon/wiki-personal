@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 ray-dalio
 - decision-making-under-uncertainty
 - real-options-analysis

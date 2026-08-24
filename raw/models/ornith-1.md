@@ -6,6 +6,8 @@ hf_url: https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B
 publisher: deepreinforce-ai
 ingested: 2026-06-28
 tags: [models, ornith, coding-agent, self-improving, rl, scaffold, qwen35, gemma4, terminal-bench, swebench]
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Ornith-1.0: Self-Improving Open-Source Models for Agentic Coding

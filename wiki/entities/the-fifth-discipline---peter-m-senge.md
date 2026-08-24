@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 donella-h-meadows
 - the-fifth-discipline-fieldbook---peter-m-senge
 - out-of-control---kevin-kelly

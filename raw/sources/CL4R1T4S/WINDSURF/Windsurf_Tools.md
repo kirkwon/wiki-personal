@@ -1,3 +1,7 @@
+---
+created: 2026-06-19
+updated: 2026-06-19
+---
 {functions}
 {
   "description": "Spin up a browser preview for a web server. This allows the USER to interact with the web server normally as well as provide console logs and other information from the web server to Cascade. Note that this tool call will not automatically open the browser preview for the USER, they must click one of the provided buttons to open it in the browser.",

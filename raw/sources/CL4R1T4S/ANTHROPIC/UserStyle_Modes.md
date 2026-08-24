@@ -1,3 +1,7 @@
+---
+created: 2026-06-19
+updated: 2026-06-19
+---
 Anthropic UserStyle Modes
 
 Here are all three styles exactly as formatted, with simple headers:

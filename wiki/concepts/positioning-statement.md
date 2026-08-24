@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Positioning Statement
 A positioning statement is a statement that defines a company's unique value proposition. It is used to communicate the company's brand and to inform marketing and branding strategies.

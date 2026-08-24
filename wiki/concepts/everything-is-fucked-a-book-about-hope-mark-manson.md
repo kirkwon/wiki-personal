@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Everything Is F_cked: A Book About Hope - Mark Manson
 

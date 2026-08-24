@@ -11,6 +11,8 @@ tags:
   - last30days
   - loop-engineering
   - research
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # last30days: Loop Engineering

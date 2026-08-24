@@ -790,6 +790,41 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-08-21: Bounded Agents: Delegation Security for Multi-Agent AI Systems
 
 ### 2026-08-22: TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity
+
+### 2026-08-24: Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No R
+
+### 2026-08-24: ParaTempo: Efficient Parallel Reasoning via Temporal Confidence
+
+### 2026-08-24: FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground T
+
+### 2026-08-24: EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking
+
+### 2026-08-24: Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Dist
+
+### 2026-08-24: OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs
+
+### 2026-08-24: AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Sce
+- HF trending paper (arxiv: 2608.20634). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.20634]] | https://huggingface.co/papers/2608.20634
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21360). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.21360]] | https://huggingface.co/papers/2608.21360
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16647). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.16647]] | https://huggingface.co/papers/2608.16647
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20886). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.20886]] | https://huggingface.co/papers/2608.20886
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20574). Keywords: portfolio. Status: pending-review.
+- Source: [[papers/2608.20574]] | https://huggingface.co/papers/2608.20574
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16425). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.16425]] | https://huggingface.co/papers/2608.16425
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20438). Keywords: stress test, var. Status: pending-review.
+- Source: [[papers/2608.20438]] | https://huggingface.co/papers/2608.20438
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.15767). Keywords: quant. Status: pending-review.
 - Source: [[papers/2608.15767]] | https://huggingface.co/papers/2608.15767
 - Confidence: Low (auto-matched, not yet reviewed)

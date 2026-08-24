@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 simon-sinek
 - the-five-dysfunctions-of-a-team
 ---

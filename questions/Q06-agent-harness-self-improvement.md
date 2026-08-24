@@ -2007,6 +2007,46 @@ https://huggingface.co/papers/2608.02287
 ### 2026-08-21: Bounded Agents: Delegation Security for Multi-Agent AI Systems
 
 ### 2026-08-22: FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executab
+
+### 2026-08-24: Hydra-0: Action Flow for Generalist World Modeling and Control
+
+### 2026-08-24: FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground T
+
+### 2026-08-24: OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs
+
+### 2026-08-24: AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Sce
+
+### 2026-08-24: Hadith computational science in the age of large language models: a critical nar
+
+### 2026-08-24: Towards Faithful Simulation of Human Shopping Behavior
+
+### 2026-08-24: Graph Engineering in the Era of LLM Agents: From Individual Intelligence to Syst
+
+### 2026-08-24: InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter
+- HF trending paper (arxiv: 2608.20910). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.20910]] | https://huggingface.co/papers/2608.20910
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21156). Keywords: self-improvement, autonomous agent, harness, execution. Status: pending-review.
+- Source: [[papers/2608.21156]] | https://huggingface.co/papers/2608.21156
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20707). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.20707]] | https://huggingface.co/papers/2608.20707
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20364). Keywords: workflow. Status: pending-review.
+- Source: [[papers/2608.20364]] | https://huggingface.co/papers/2608.20364
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20634). Keywords: tool use, workflow, environment. Status: pending-review.
+- Source: [[papers/2608.20634]] | https://huggingface.co/papers/2608.20634
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21360). Keywords: gui, environment. Status: pending-review.
+- Source: [[papers/2608.21360]] | https://huggingface.co/papers/2608.21360
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20574). Keywords: execution. Status: pending-review.
+- Source: [[papers/2608.20574]] | https://huggingface.co/papers/2608.20574
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18077). Keywords: environment. Status: pending-review.
+- Source: [[papers/2608.18077]] | https://huggingface.co/papers/2608.18077
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2607.21596). Keywords: workflow, execution. Status: pending-review.
 - Source: [[papers/2607.21596]] | https://huggingface.co/papers/2607.21596
 - Confidence: Low (auto-matched, not yet reviewed)

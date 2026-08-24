@@ -9,6 +9,8 @@ ingested: 2026-06-30 23:32
 source: remote-clone:https://github.com/BuilderIO/skills
 project_type: unknown
 language: unknown
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Repo Analysis: builderio-skills

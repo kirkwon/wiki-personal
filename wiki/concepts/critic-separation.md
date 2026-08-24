@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Critic Separation
 Critic separation is the concept of separating the validation component from the execution component in a software agent. This allows for independent validation of proposed changes, enhancing the reliability and safety of the loop engineering process. Critic Separation is the practice of automating code validation by employing a specialized Critic Agent to review claimed implementations against established Spec contracts and the Agent Constitution.

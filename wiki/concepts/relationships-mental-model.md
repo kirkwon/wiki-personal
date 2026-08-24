@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 ray-dalio
 - the-8th-habit-from-effectiveness-to-greatness-stephen-r-covey
 - ego-is-the-enemy-ryan-holiday

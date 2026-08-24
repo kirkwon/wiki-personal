@@ -1,3 +1,7 @@
+---
+created: 2026-06-16
+updated: 2026-06-16
+---
 # Queries
 
 - [alternative-investments](alternative-investments.md)

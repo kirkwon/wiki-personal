@@ -542,6 +542,26 @@ _2026-05-25_ — Initial research position
 ### 2026-08-22: TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity
 
 ### 2026-08-22: The Embedder's Dilemma: LLMs Are Better, but at What Cost?
+
+### 2026-08-24: Hydra-0: Action Flow for Generalist World Modeling and Control
+
+### 2026-08-24: Human-Centric Intelligence in the Era of Foundation Models: A Survey
+
+### 2026-08-24: UniSpace: Unified Visual Representation and Scalable Multimodal Modeling
+
+### 2026-08-24: EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking
+- HF trending paper (arxiv: 2608.20886). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.20886]] | https://huggingface.co/papers/2608.20886
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08676). Keywords: vae, embedding. Status: pending-review.
+- Source: [[papers/2608.08676]] | https://huggingface.co/papers/2608.08676
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18184). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.18184]] | https://huggingface.co/papers/2608.18184
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18077). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.18077]] | https://huggingface.co/papers/2608.18077
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.12875). Keywords: embedding. Status: pending-review.
 - Source: [[papers/2608.12875]] | https://huggingface.co/papers/2608.12875
 - Confidence: Low (auto-matched, not yet reviewed)

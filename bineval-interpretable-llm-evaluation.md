@@ -26,6 +26,8 @@ tags:
   - llm-evaluation
   - prompt-optimization
   - self-improvement
+created: 2026-06-27
+updated: 2026-06-27
 ---
 
 # BINEVAL — Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation

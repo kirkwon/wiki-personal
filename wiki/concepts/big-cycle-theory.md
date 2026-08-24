@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 ray-dalio
 - power-transition-west-to-east
 - scenario-planning

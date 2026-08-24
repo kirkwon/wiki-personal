@@ -1,3 +1,7 @@
+---
+created: 2026-06-16
+updated: 2026-06-16
+---
 # Concepts
 
 - [10-10-10 Rule](10-10-10-rule.md)

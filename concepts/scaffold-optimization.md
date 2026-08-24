@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 
 # Scaffold Optimization
@@ -46,5 +50,7 @@ Scaffold optimization is the RL-automated version of the [[concepts/self-harness
 - [[concepts/self-harness-paradigm]] — the manual methodology that scaffold optimization automates
 - [[concepts/co-failure-ceiling]] — when scaffold/ensembling stops helping, measured by β
 - [[concepts/loop-engineering]] — the meta-skill of building and optimizing improvement loops
+- [[papers/task-coevolve-harness-optimization]] — 80% cheaper validation for the scaffold-optimization loop (2026-08-23)
+- [[concepts/skill-utility-gating]] — quality gate for the skill side of the scaffold
 
 Sources: [[papers/ornith-1-self-improving-coding]]

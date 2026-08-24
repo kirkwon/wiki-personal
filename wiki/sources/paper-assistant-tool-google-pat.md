@@ -4,6 +4,8 @@ date: 2026-06-30
 type: source
 tags: [paper, peer-review, ai-review, scientific-review, inference-scaling]
 related: [autoresearch-pattern, evaluation-patterns, scientific-research]
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Towards Automating Scientific Review with Google's Paper Assistant Tool

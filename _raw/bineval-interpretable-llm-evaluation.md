@@ -7,6 +7,8 @@ authors: ["Sangwoo Cho", "Kushal Chawla", "Pengshan Cai", "Zefang Liu", "Chenyan
 published: 2026-06-25
 tags: [llm-evaluation, llm-as-judge, binary-decomposition, interpretable-eval, prompt-optimization, bineval, judgment, decision-making, self-improvement]
 date: 2026-06-27
+created: 2026-06-27
+updated: 2026-06-27
 ---
 
 # BINEVAL — Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation

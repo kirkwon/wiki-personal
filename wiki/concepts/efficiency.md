@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 -atul-gawande"]
 related: [checklists, systematic-decision-making, recipes-mental-model, the-checklist-manifesto---atul-gawande]

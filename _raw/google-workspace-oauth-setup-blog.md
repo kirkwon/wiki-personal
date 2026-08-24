@@ -1,3 +1,7 @@
+---
+created: 2026-06-27
+updated: 2026-06-27
+---
 # Connecting Google Workspace to Hermes Agent (OAuth 2.0 Setup Guide)
 
 **Date:** 2026-06-27  

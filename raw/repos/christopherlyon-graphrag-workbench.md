@@ -10,6 +10,8 @@ source: remote-clone:https://github.com/ChristopherLyon/graphrag-workbench
 project_type: javascript
 language: typescript
 manifest: package.json
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Repo Analysis: christopherlyon-graphrag-workbench

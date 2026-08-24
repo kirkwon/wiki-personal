@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 chris-bailey
 - atomic-habits---james-clear
 - smarter-faster-better---charles-duhigg

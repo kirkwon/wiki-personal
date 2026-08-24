@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # The Habit Loop
 The Habit Loop is a mental model that describes how habits are formed, maintained, and changed. It consists of a cue, a routine, and a reward.

@@ -9,6 +9,8 @@ tags:
   - builderio
   - agent-skills
   - coding-agents
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # BuilderIO Skills — Analysis

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Human-Centered Design
 Human-Centered Design (HCD) is an approach to design that emphasizes understanding human needs and values. In the context of AI systems, HCD is essential for ensuring that AI systems are developed and deployed in a way that promotes wellbeing and minimizes harm.

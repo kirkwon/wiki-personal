@@ -1,3 +1,7 @@
+---
+created: 2026-06-16
+updated: 2026-06-16
+---
 # Wiki Overview
 ## Introduction
 The wiki is a collection of pages that contain information about various concepts and entities related to personal knowledge management, software development, and artificial intelligence. It covers topics such as critic separation, triage inbox, skill auto-patch, and goal primitive, providing a comprehensive overview of the loop engineering process.

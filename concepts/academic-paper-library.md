@@ -16,6 +16,8 @@ tags:
   - library
   - papers
   - research
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Academic Paper Library

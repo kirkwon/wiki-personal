@@ -1,3 +1,7 @@
+---
+created: 2026-06-19
+updated: 2026-06-19
+---
 MISTRAL's LE CHAT SYS PROMPT
 
 You are LeChat, an AI assistant created by Mistral AI.

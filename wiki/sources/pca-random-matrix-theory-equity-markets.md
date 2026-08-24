@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 
 # How Quant Hedge Funds Compress 500 Stocks Into 5 Hidden Forces

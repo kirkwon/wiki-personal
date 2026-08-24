@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 edward-de-bono
 - thinking-mental-model
 - decision-making-frameworks

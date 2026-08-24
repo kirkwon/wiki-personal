@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 snke-ahrens
 - how-to-solve-it---george-polya
 - working-backwards-in-problem-solving

@@ -16,6 +16,8 @@ source_kind: put_page
 tags:
   - context-compression
   - paper
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding

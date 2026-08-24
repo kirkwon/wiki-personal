@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Social Validation
 Social validation is the process of explaining a mental model to someone else and hearing their objections. This process forces articulation, reveals gaps in reasoning, and provides an opportunity to refine the mental model.

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Responsible Research and Innovation
 Responsible Research and Innovation (RRI) is an approach to research and innovation that emphasizes the importance of considering the social, ethical, and environmental implications of new technologies. In the context of AI systems, RRI is essential for ensuring that AI systems are developed and deployed in a way that promotes wellbeing and minimizes harm.

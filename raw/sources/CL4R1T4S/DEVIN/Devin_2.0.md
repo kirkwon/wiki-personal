@@ -1,3 +1,7 @@
+---
+created: 2026-06-19
+updated: 2026-06-19
+---
 DEVIN SYS PROMPT
 
 ## General Instructions

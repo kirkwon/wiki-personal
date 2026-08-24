@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 --
 # Presence: Human Purpose and the Field of the Future

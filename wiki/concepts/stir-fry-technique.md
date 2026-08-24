@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 --
 # Stir-Fry Technique（炒菜技法 / 爆炒技术）

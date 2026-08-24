@@ -34,6 +34,8 @@ cross_links:
   - "[[agent-memory-layer]]"
   - "[[reusable-ai-artifact]]"
   - "[[proof-gate]]"
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # The Complete AI PM Loop System (GitHub for PM)

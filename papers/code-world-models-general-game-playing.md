@@ -32,6 +32,8 @@ relationships:
     type: related_to
   - target: "[[concepts/game-theory-and-strategic-analysis]]"
     type: related_to
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Code World Models for General Game Playing

@@ -24,6 +24,8 @@ relationships:
     type: derived_from
   - target: "[[concepts/llm-as-compiler]]"
     type: related_to
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # CWM Pattern Applied to Game Theory in Agent Systems

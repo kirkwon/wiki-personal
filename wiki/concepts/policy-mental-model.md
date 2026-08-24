@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 -ray-dalio"]
 related: [how-the-economic-machine-works---ray-dalio, planning, settings, environment, decisions]

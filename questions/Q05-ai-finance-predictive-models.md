@@ -875,6 +875,31 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-08-22: TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity
 
 ### 2026-08-22: The Embedder's Dilemma: LLMs Are Better, but at What Cost?
+
+### 2026-08-24: UniSpace: Unified Visual Representation and Scalable Multimodal Modeling
+
+### 2026-08-24: Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference
+
+### 2026-08-24: Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Sc
+
+### 2026-08-24: Hadith computational science in the age of large language models: a critical nar
+
+### 2026-08-24: InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter
+- HF trending paper (arxiv: 2608.20910). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.20910]] | https://huggingface.co/papers/2608.20910
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20364). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2608.20364]] | https://huggingface.co/papers/2608.20364
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20061). Keywords: attention, regression. Status: pending-review.
+- Source: [[papers/2608.20061]] | https://huggingface.co/papers/2608.20061
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20210). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.20210]] | https://huggingface.co/papers/2608.20210
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08676). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2608.08676]] | https://huggingface.co/papers/2608.08676
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.12875). Keywords: classification. Status: pending-review.
 - Source: [[papers/2608.12875]] | https://huggingface.co/papers/2608.12875
 - Confidence: Low (auto-matched, not yet reviewed)

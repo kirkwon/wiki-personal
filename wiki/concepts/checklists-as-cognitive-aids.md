@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 See also: [[systematic-decision-making]]
 
 See also: [[building-a-decision-culture]]

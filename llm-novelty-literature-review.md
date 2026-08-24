@@ -4,6 +4,8 @@ title: "The Convergence: How LLMs Learned to Think for Themselves — Literature
 date: 2026-06-27
 author: Kirk Won
 tags: [llm-novelty, scientific-discovery, reinforcement-learning, multi-agent, blog-series, literature-review, convergence]
+created: 2026-06-27
+updated: 2026-06-27
 ---
 
 # The Convergence: How LLMs Learned to Think for Themselves

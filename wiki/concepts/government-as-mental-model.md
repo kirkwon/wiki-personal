@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 ray-dalio
 - a-template-for-understanding-big-debt-crises---ray-dalio
 - management-mental-model

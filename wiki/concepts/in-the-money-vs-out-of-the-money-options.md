@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 -
 # In-the-Money vs Out-of-the-Money Options

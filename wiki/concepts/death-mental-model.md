@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 atul-gawande
 - what-is-the-unknown
 - balancing-ambition-with-well-being

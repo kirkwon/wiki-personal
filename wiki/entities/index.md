@@ -1,3 +1,7 @@
+---
+created: 2026-06-16
+updated: 2026-06-16
+---
 # Entities
 
 - [1031 Exchange Calculator](1031-exchange-calculator.md)

@@ -18,6 +18,8 @@ source_kind: put_page
 tags:
   - agentic-ai
   - paper
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Reflexion: Language Agents with Verbal Reinforcement Learning

@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # Incremental Validation
 Incremental validation is the process of testing a mental model incrementally, starting with small, low-stakes tests and gradually increasing the stakes as the model is refined.

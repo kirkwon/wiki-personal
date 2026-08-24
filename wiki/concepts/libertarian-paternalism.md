@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 richard-h-thaler-cass-r-sunstein
 - default-effects
 - ethics-and-decision-making

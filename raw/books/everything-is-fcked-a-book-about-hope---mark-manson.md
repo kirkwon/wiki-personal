@@ -11,6 +11,8 @@ chapters: 19
 concepts: 19
 ingested: 2026-05-03
 sha256: 6974d29fab81d2578b7cabffad3cbb57ede2c5d1423aceda21489fbfbd5610d4
+created: 2026-07-26
+updated: 2026-07-26
 ---
 --
 

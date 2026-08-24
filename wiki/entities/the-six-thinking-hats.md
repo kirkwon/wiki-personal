@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # The Six Thinking Hats
 The Six Thinking Hats is a mental model providing a framework for parallel thinking and decision-making. It encourages considering different perspectives (hats) when evaluating information.

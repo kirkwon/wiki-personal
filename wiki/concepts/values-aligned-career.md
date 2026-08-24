@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 See also: [[cv-xcv-framework]]
 
 See also: [[investment-strategies-for-life-satisfaction]]

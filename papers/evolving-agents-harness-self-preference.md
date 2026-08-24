@@ -18,6 +18,8 @@ source_kind: put_page
 tags:
   - agentic-ai
   - paper
+created: 2026-07-26
+updated: 2026-07-26
 ---
 
 # Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference

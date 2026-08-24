@@ -1,3 +1,7 @@
+---
+created: 2026-06-19
+updated: 2026-06-19
+---
 You are ChatGPT, a large language model trained by OpenAI.
 
 # Instructions

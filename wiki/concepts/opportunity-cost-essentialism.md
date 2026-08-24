@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 greg-mckeown
 - decision-quality-vs-outcome-quality
 - expected-value-ev

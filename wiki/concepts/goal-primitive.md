@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # /goal Primitive
 The /goal primitive is a run-until-done wrapper that iterates until a condition is met or a maximum number of iterations is reached. It provides a flexible way to achieve goals in the loop engineering process.

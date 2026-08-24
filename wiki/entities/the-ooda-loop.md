@@ -1,3 +1,7 @@
+---
+created: 2026-08-23
+updated: 2026-08-23
+---
 
 # The OODA Loop
 The OODA Loop is a mental model that describes how people observe, orient, decide, and act in response to changing situations. It is particularly useful in dynamic and competitive environments.

@@ -8,6 +8,8 @@ venue: "NeurIPS 2026"
 published: 2026-06-18
 tags: [skill-generation, computer-using-agents, GUI-trajectory, GRPO, Qwen3, skill-mining, trajectory-segmentation, negative-result, contrastive-learning]
 date: 2026-06-27
+created: 2026-06-27
+updated: 2026-06-27
 ---
 
 # Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining

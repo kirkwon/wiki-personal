@@ -1,3 +1,7 @@
+---
+created: 2026-06-14
+updated: 2026-06-14
+---
 # Wiki Personal — Vault Configuration
 
 This file overrides obsidian-wiki framework defaults for this vault. Read this before running any wiki-* skill.
