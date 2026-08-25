@@ -1,3 +1,4 @@
+---
 title: Memory Tier System (4-Tier HOT/WARM/COOL/COLD)
 status: active
 priority: P1

@@ -1,3 +1,4 @@
+---
 title: Causal AI & Hedge Agent
 status: active
 priority: P2

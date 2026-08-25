@@ -1,3 +1,4 @@
+---
 title: Skills Ecosystem (Book Dashboard + Hermes Library + Auto-Generation)
 status: active
 priority: P1

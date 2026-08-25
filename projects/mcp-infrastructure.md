@@ -1,3 +1,4 @@
+---
 title: MCP Server Infrastructure & Automation
 status: active
 priority: P1
