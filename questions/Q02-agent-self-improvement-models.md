@@ -7,8 +7,8 @@ date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
 confidence: 0.95
-evidence_count: 22
-last_evidence_date: "2026-08-19" 
+evidence_count: 23
+last_evidence_date: "2026-08-24"
 
 ---
 
@@ -1512,6 +1512,71 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-08-24: CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Align
 
 ### 2026-08-24: Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Think
+
+### 2026-08-25: Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit 
+
+### 2026-08-25: EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment
+
+### 2026-08-25: Industrial-Instruction: An End-to-End Framework for Building Instruction-Tuning 
+
+### 2026-08-25: Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM P
+
+### 2026-08-25: EchoWM: Open and Enterable Omnimodal World Models
+
+### 2026-08-25: One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents i
+
+### 2026-08-25: MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks
+
+### 2026-08-25: ReWorld: An Interactive World Model with Long-Horizon Memory
+
+### 2026-08-25: Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress
+
+### 2026-08-25: TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration
+
+### 2026-08-25: Same Agent, Different Answers: A Repeat-Aware Audit of Corpus-Induced Answer Chu
+
+### 2026-08-25: RISE: Adaptive Imagination for World Action Models
+
+### 2026-08-25: TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
+- HF trending paper (arxiv: 2608.20958). Keywords: alignment, grpo, ppo. Status: pending-review.
+- Source: [[papers/2608.20958]] | https://huggingface.co/papers/2608.20958
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20430). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.20430]] | https://huggingface.co/papers/2608.20430
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22856). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.22856]] | https://huggingface.co/papers/2608.22856
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17336). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.17336]] | https://huggingface.co/papers/2608.17336
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19408). Keywords: policy optimization, distillation. Status: pending-review.
+- Source: [[papers/2608.19408]] | https://huggingface.co/papers/2608.19408
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23565). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.23565]] | https://huggingface.co/papers/2608.23565
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23035). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.23035]] | https://huggingface.co/papers/2608.23035
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19741). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.19741]] | https://huggingface.co/papers/2608.19741
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23189). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.23189]] | https://huggingface.co/papers/2608.23189
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23311). Keywords: grpo, ppo, policy optimization. Status: pending-review.
+- Source: [[papers/2608.23311]] | https://huggingface.co/papers/2608.23311
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22817). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.22817]] | https://huggingface.co/papers/2608.22817
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21486). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.21486]] | https://huggingface.co/papers/2608.21486
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20953). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.20953]] | https://huggingface.co/papers/2608.20953
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.12781). Keywords: reinforcement learning, reward model, alignment. Status: pending-review.
 - Source: [[papers/2608.12781]] | https://huggingface.co/papers/2608.12781
 - Confidence: Low (auto-matched, not yet reviewed)
@@ -1652,4 +1717,9 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 - Confidence: Low (auto-matched, not yet reviewed)
 - Granger-style edge masking identifies minimal communication subgraphs that preserve task outcome; pruning them cuts communication cost at competitive performance — scaffold optimization by intervention rather than observation, with an amortized explainer distilled for cheap post-hoc topology selection.
 - Source: [[papers/e2-explainer-mas-topologies]]
+- Confidence: High
+
+### 2026-08-24: One Recipe, Many Harnesses — self-evolution recipe held fixed across 8 languages x 3 models
+- Evolved harnesses converge on the same abstract playbook (60-80% concept overlap) with disjoint ecosystem plumbing; gains are defect-compensation, not new capability — near-zero where defect mass ~ 0 (Python cells, GPT-5-mini); one universal distilled harness recovers only 48-68% of native gains
+- Source: [[concepts/one-recipe-many-harnesses-self-evolution]]
 - Confidence: High

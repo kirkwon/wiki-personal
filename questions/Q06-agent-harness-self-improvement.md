@@ -6,9 +6,9 @@ question: "Beyond generic metalearning — what specific architectural and algor
 date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
-confidence: 0.85
-evidence_count: 16
-last_evidence_date: "2026-08-19" 
+confidence: 0.90
+evidence_count: 17
+last_evidence_date: "2026-08-24" 
 
 ---
 
@@ -2023,6 +2023,86 @@ https://huggingface.co/papers/2608.02287
 ### 2026-08-24: Graph Engineering in the Era of LLM Agents: From Individual Intelligence to Syst
 
 ### 2026-08-24: InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter
+
+### 2026-08-25: The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration
+
+### 2026-08-25: AutoResearch: Insight In, Hallucination Out
+
+### 2026-08-25: Towards a Densing Law for User Representation Learning at Billion-Scale Capacity
+
+### 2026-08-25: Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM P
+
+### 2026-08-25: EchoWM: Open and Enterable Omnimodal World Models
+
+### 2026-08-25: One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents i
+
+### 2026-08-25: One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommender
+
+### 2026-08-25: Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion
+
+### 2026-08-25: MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks
+
+### 2026-08-25: Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selec
+
+### 2026-08-25: Prime Agent: A Self-Improving RLM Harness
+
+### 2026-08-25: Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress
+
+### 2026-08-25: Apodex 1.1: Scaling Agentic Intelligence for Complex Work
+
+### 2026-08-25: RISE: Adaptive Imagination for World Action Models
+
+### 2026-08-25: WorldMind: Decoupled Game World Model for State-Aware NPC Behavior
+
+### 2026-08-25: PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration
+- HF trending paper (arxiv: 2608.21031). Keywords: execution. Status: pending-review.
+- Source: [[papers/2608.21031]] | https://huggingface.co/papers/2608.21031
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21439). Keywords: planning. Status: pending-review.
+- Source: [[papers/2608.21439]] | https://huggingface.co/papers/2608.21439
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20430). Keywords: planning. Status: pending-review.
+- Source: [[papers/2608.20430]] | https://huggingface.co/papers/2608.20430
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23283). Keywords: agentic, harness, environment, execution. Status: pending-review.
+- Source: [[papers/2608.23283]] | https://huggingface.co/papers/2608.23283
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19408). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.19408]] | https://huggingface.co/papers/2608.19408
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23552). Keywords: recursive, workflow, harness, execution. Status: pending-review.
+- Source: [[papers/2608.23552]] | https://huggingface.co/papers/2608.23552
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20169). Keywords: gui, harness. Status: pending-review.
+- Source: [[papers/2608.20169]] | https://huggingface.co/papers/2608.20169
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23035). Keywords: tool use, agentic, gui, planning. Status: pending-review.
+- Source: [[papers/2608.23035]] | https://huggingface.co/papers/2608.23035
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19567). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.19567]] | https://huggingface.co/papers/2608.19567
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.13610). Keywords: environment. Status: pending-review.
+- Source: [[papers/2606.13610]] | https://huggingface.co/papers/2606.13610
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19741). Keywords: mcp, function calling, workflow, environment. Status: pending-review.
+- Source: [[papers/2608.19741]] | https://huggingface.co/papers/2608.19741
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23189). Keywords: environment. Status: pending-review.
+- Source: [[papers/2608.23189]] | https://huggingface.co/papers/2608.23189
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23311). Keywords: environment. Status: pending-review.
+- Source: [[papers/2608.23311]] | https://huggingface.co/papers/2608.23311
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23392). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.23392]] | https://huggingface.co/papers/2608.23392
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17906). Keywords: workflow, execution. Status: pending-review.
+- Source: [[papers/2608.17906]] | https://huggingface.co/papers/2608.17906
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23252). Keywords: orchestration. Status: pending-review.
+- Source: [[papers/2608.23252]] | https://huggingface.co/papers/2608.23252
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.20910). Keywords: gui. Status: pending-review.
 - Source: [[papers/2608.20910]] | https://huggingface.co/papers/2608.20910
 - Confidence: Low (auto-matched, not yet reviewed)
@@ -2173,3 +2253,8 @@ https://huggingface.co/papers/2608.02287
 - Conditional causal discovery (arXiv:2608.12640) can re-express β as a posterior over causal structure given the co-failure event, separating shared-cause co-failure (fixable by decoupling components) from coincidental co-occurrence — a distinction frequency-counted β cannot make; co-failures are tail events, the rare-posterior-mass regime this method was built for.
 - Source: [[concepts/co-failure-ceiling]]
 - Confidence: Medium
+
+### 2026-08-24: Per-cell wrappers validated over shared harnesses (8 languages x 3 models)
+- Cross-language harness transplants help in 18/20 pairs but hit native ceiling only sometimes; distilling to one universal harness recovers just 48-68% of native gains (Java/C++/TypeScript) — binding defect differs by (task-domain, model) cell, so native re-evolution per cell remains necessary; a null cell signals defect mass ~ 0, not a broken loop
+- Source: [[concepts/one-recipe-many-harnesses-self-evolution]]
+- Confidence: High

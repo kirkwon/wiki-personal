@@ -6,9 +6,9 @@ question: "How can modern AI add to predictive models that incorporate: risk (Va
 date: 2026-05-25
 type: permanent-question
 reviewed: 2026-05-25
-confidence: 0.5
-evidence_count: 8
-last_evidence_date: "2026-08-19" 
+confidence: 0.55
+evidence_count: 9
+last_evidence_date: "2026-08-23" 
 
 ---
 
@@ -885,6 +885,46 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-08-24: Hadith computational science in the age of large language models: a critical nar
 
 ### 2026-08-24: InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter
+
+### 2026-08-25: The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration
+
+### 2026-08-25: WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning
+
+### 2026-08-25: Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated B
+
+### 2026-08-25: RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling
+
+### 2026-08-25: Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selec
+
+### 2026-08-25: Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervisi
+
+### 2026-08-25: ReWorld: An Interactive World Model with Long-Horizon Memory
+
+### 2026-08-25: TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration
+- HF trending paper (arxiv: 2608.17336). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.17336]] | https://huggingface.co/papers/2608.17336
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23565). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.23565]] | https://huggingface.co/papers/2608.23565
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16812). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.16812]] | https://huggingface.co/papers/2608.16812
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20169). Keywords: classification. Status: pending-review.
+- Source: [[papers/2608.20169]] | https://huggingface.co/papers/2608.20169
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22849). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.22849]] | https://huggingface.co/papers/2608.22849
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13914). Keywords: classification. Status: pending-review.
+- Source: [[papers/2608.13914]] | https://huggingface.co/papers/2608.13914
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22591). Keywords: transformer, sequence model. Status: pending-review.
+- Source: [[papers/2608.22591]] | https://huggingface.co/papers/2608.22591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23252). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.23252]] | https://huggingface.co/papers/2608.23252
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.20910). Keywords: attention. Status: pending-review.
 - Source: [[papers/2608.20910]] | https://huggingface.co/papers/2608.20910
 - Confidence: Low (auto-matched, not yet reviewed)
@@ -954,3 +994,8 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 - Adaptive multilevel splitting estimates a posterior over causal structure conditional on rare events ("this effect is large", "variables co-occur in a tail") — the exact regime of finance joint-tail estimation where copula-style models underprice co-movement (analogous 2.5× underpricing measured for LLM co-failure tails); finance transfer is method-level, not yet validated.
 - Source: [[papers/causal-discovery-effect-constraints]]
 - Confidence: Medium
+
+### 2026-08-23: Vol- and volume-aware Kelly sizing — accepted decision with resolved estimators
+- Volatility enters Kelly directly (f* = mu/sigma^2; double forecast vol -> quarter size; HAR-RV chosen over GARCH(1,1) for sigma^2 forecasting, GARCH kept as sanity check); volume enters via estimation quality, edge erosion (Amihud), and regime staleness; operating rule: volume > 2x trailing 20-day median -> half-Kelly until 5 sessions re-price
+- Source: [[wiki/decisions/vol-volume-aware-kelly-2026-08-23]]
+- Confidence: High
