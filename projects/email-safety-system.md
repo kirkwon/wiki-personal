@@ -1,4 +1,5 @@
 ---
+slug: email-safety-system
 title: Email Triage & Safety System
 status: active
 priority: P1

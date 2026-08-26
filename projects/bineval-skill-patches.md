@@ -1,4 +1,5 @@
 ---
+slug: bineval-skill-patches
 title: BINEVAL Binary Evaluation Patches (6 Skills)
 status: completed
 priority: P2

@@ -1,4 +1,5 @@
 ---
+slug: blog-content-pipeline
 title: Blog & Content Pipeline
 status: active
 priority: P2

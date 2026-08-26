@@ -1,4 +1,5 @@
 ---
+slug: google-workspace-integration
 title: Google Workspace Integration (45 Skills + NLM Bridges)
 status: completed
 priority: P2

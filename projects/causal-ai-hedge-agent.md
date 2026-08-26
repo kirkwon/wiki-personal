@@ -1,4 +1,5 @@
 ---
+slug: causal-ai-hedge-agent
 title: Causal AI & Hedge Agent
 status: active
 priority: P2

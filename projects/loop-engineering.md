@@ -1,4 +1,5 @@
 ---
+slug: loop-engineering
 title: Loop Engineering
 status: active
 priority: P2

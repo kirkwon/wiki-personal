@@ -959,6 +959,96 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 ### 2026-08-24: InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter
 
 ### 2026-08-24: Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Think
+
+### 2026-08-25: AutoResearch: Insight In, Hallucination Out
+
+### 2026-08-25: Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit 
+
+### 2026-08-25: EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment
+
+### 2026-08-25: WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning
+
+### 2026-08-25: Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated B
+
+### 2026-08-25: Towards a Densing Law for User Representation Learning at Billion-Scale Capacity
+
+### 2026-08-25: Industrial-Instruction: An End-to-End Framework for Building Instruction-Tuning 
+
+### 2026-08-25: RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling
+
+### 2026-08-25: Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM P
+
+### 2026-08-25: One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommender
+
+### 2026-08-25: MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks
+
+### 2026-08-25: Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervisi
+
+### 2026-08-25: ReWorld: An Interactive World Model with Long-Horizon Memory
+
+### 2026-08-25: Prime Agent: A Self-Improving RLM Harness
+
+### 2026-08-25: Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress
+
+### 2026-08-25: Same Agent, Different Answers: A Repeat-Aware Audit of Corpus-Induced Answer Chu
+
+### 2026-08-25: TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
+
+### 2026-08-25: PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration
+- HF trending paper (arxiv: 2608.21031). Keywords: lora. Status: pending-review.
+- Source: [[papers/2608.21031]] | https://huggingface.co/papers/2608.21031
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20958). Keywords: grpo, fine-tuning, lora, reasoning. Status: pending-review.
+- Source: [[papers/2608.20958]] | https://huggingface.co/papers/2608.20958
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22856). Keywords: prompt. Status: pending-review.
+- Source: [[papers/2608.22856]] | https://huggingface.co/papers/2608.22856
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19408). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2608.19408]] | https://huggingface.co/papers/2608.19408
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23552). Keywords: prompt. Status: pending-review.
+- Source: [[papers/2608.23552]] | https://huggingface.co/papers/2608.23552
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23565). Keywords: lora, adapter, sparse. Status: pending-review.
+- Source: [[papers/2608.23565]] | https://huggingface.co/papers/2608.23565
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16812). Keywords: learning, sparse. Status: pending-review.
+- Source: [[papers/2608.16812]] | https://huggingface.co/papers/2608.16812
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23035). Keywords: learning. Status: pending-review.
+- Source: [[papers/2608.23035]] | https://huggingface.co/papers/2608.23035
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.13610). Keywords: reasoning, prompt. Status: pending-review.
+- Source: [[papers/2606.13610]] | https://huggingface.co/papers/2606.13610
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23311). Keywords: grpo, lora, reasoning. Status: pending-review.
+- Source: [[papers/2608.23311]] | https://huggingface.co/papers/2608.23311
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22849). Keywords: learning. Status: pending-review.
+- Source: [[papers/2608.22849]] | https://huggingface.co/papers/2608.22849
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22817). Keywords: fine-tuning. Status: pending-review.
+- Source: [[papers/2608.22817]] | https://huggingface.co/papers/2608.22817
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23392). Keywords: learning. Status: pending-review.
+- Source: [[papers/2608.23392]] | https://huggingface.co/papers/2608.23392
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13914). Keywords: learning. Status: pending-review.
+- Source: [[papers/2608.13914]] | https://huggingface.co/papers/2608.13914
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22591). Keywords: learning, lora. Status: pending-review.
+- Source: [[papers/2608.22591]] | https://huggingface.co/papers/2608.22591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21486). Keywords: adapter, prompt. Status: pending-review.
+- Source: [[papers/2608.21486]] | https://huggingface.co/papers/2608.21486
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20953). Keywords: reasoning, quantization. Status: pending-review.
+- Source: [[papers/2608.20953]] | https://huggingface.co/papers/2608.20953
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17906). Keywords: learning. Status: pending-review.
+- Source: [[papers/2608.17906]] | https://huggingface.co/papers/2608.17906
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.12781). Keywords: learning, reasoning, prompt. Status: pending-review.
 - Source: [[papers/2608.12781]] | https://huggingface.co/papers/2608.12781
 - Confidence: Low (auto-matched, not yet reviewed)

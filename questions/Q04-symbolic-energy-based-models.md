@@ -550,6 +550,56 @@ _2026-05-25_ — Initial research position
 ### 2026-08-24: UniSpace: Unified Visual Representation and Scalable Multimodal Modeling
 
 ### 2026-08-24: EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking
+
+### 2026-08-25: The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration
+
+### 2026-08-25: EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment
+
+### 2026-08-25: WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning
+
+### 2026-08-25: Towards a Densing Law for User Representation Learning at Billion-Scale Capacity
+
+### 2026-08-25: RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling
+
+### 2026-08-25: EchoWM: Open and Enterable Omnimodal World Models
+
+### 2026-08-25: Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion
+
+### 2026-08-25: Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervisi
+
+### 2026-08-25: ReWorld: An Interactive World Model with Long-Horizon Memory
+
+### 2026-08-25: WorldMind: Decoupled Game World Model for State-Aware NPC Behavior
+- HF trending paper (arxiv: 2608.21439). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.21439]] | https://huggingface.co/papers/2608.21439
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23565). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.23565]] | https://huggingface.co/papers/2608.23565
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16812). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.16812]] | https://huggingface.co/papers/2608.16812
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19567). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.19567]] | https://huggingface.co/papers/2608.19567
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23189). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.23189]] | https://huggingface.co/papers/2608.23189
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22849). Keywords: diffusion, representation learning. Status: pending-review.
+- Source: [[papers/2608.22849]] | https://huggingface.co/papers/2608.22849
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23392). Keywords: representation learning. Status: pending-review.
+- Source: [[papers/2608.23392]] | https://huggingface.co/papers/2608.23392
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22591). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.22591]] | https://huggingface.co/papers/2608.22591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21486). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.21486]] | https://huggingface.co/papers/2608.21486
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23252). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.23252]] | https://huggingface.co/papers/2608.23252
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.20886). Keywords: embedding. Status: pending-review.
 - Source: [[papers/2608.20886]] | https://huggingface.co/papers/2608.20886
 - Confidence: Low (auto-matched, not yet reviewed)

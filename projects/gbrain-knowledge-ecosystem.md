@@ -1,4 +1,5 @@
 ---
+slug: gbrain-knowledge-ecosystem
 title: GBrain Knowledge Ecosystem
 status: active
 priority: P1

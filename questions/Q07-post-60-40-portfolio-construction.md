@@ -119,6 +119,21 @@ If bonds/debt are too correlated to equities to serve as counterweights, what re
 ### 2026-08-21: CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical 
 
 ### 2026-08-24: Human-Centric Intelligence in the Era of Foundation Models: A Survey
+
+### 2026-08-25: One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents i
+
+### 2026-08-25: Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervisi
+
+### 2026-08-25: TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
+- HF trending paper (arxiv: 2608.20958). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.20958]] | https://huggingface.co/papers/2608.20958
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16812). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.16812]] | https://huggingface.co/papers/2608.16812
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19741). Keywords: insurance. Status: pending-review.
+- Source: [[papers/2608.19741]] | https://huggingface.co/papers/2608.19741
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.18184). Keywords: tax. Status: pending-review.
 - Source: [[papers/2608.18184]] | https://huggingface.co/papers/2608.18184
 - Confidence: Low (auto-matched, not yet reviewed)

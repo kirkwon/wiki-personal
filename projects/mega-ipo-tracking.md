@@ -1,4 +1,5 @@
 ---
+slug: mega-ipo-tracking
 title: Mega-IPO & SPCX Tracking
 status: active
 priority: P2

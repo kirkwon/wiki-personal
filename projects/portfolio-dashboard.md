@@ -1,4 +1,5 @@
 ---
+slug: portfolio-dashboard
 title: Portfolio Dashboard
 status: active
 priority: P2
