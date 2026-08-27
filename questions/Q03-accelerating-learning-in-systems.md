@@ -995,6 +995,56 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 ### 2026-08-25: TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
 
 ### 2026-08-25: PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration
+
+### 2026-08-26: AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace
+
+### 2026-08-26: MoTE: Mixture of Task Experts for Multi-Task Video Understanding
+
+### 2026-08-26: DREAM Technical Report
+
+### 2026-08-26: Latent Action as Intention Enables Efficient Future Imagination for World Action
+
+### 2026-08-26: Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video
+
+### 2026-08-26: Length-Adaptive Decoding for Masked Diffusion Machine Translation
+
+### 2026-08-26: Best Practice Critic Optimization
+
+### 2026-08-26: On-policy Distillation with Verifiable Reward
+
+### 2026-08-26: AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Exec
+
+### 2026-08-26: Meta^n: Recursive Self-Improvement through Emergent Depth
+- HF trending paper (arxiv: 2608.24735). Keywords: prompt. Status: pending-review.
+- Source: [[papers/2608.24735]] | https://huggingface.co/papers/2608.24735
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23041). Keywords: learning, prompt. Status: pending-review.
+- Source: [[papers/2608.23041]] | https://huggingface.co/papers/2608.23041
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24696). Keywords: learning, grpo, reasoning, sparse. Status: pending-review.
+- Source: [[papers/2608.24696]] | https://huggingface.co/papers/2608.24696
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23566). Keywords: learning, grpo, reasoning, prompt. Status: pending-review.
+- Source: [[papers/2608.23566]] | https://huggingface.co/papers/2608.23566
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22274). Keywords: fine-tuning. Status: pending-review.
+- Source: [[papers/2608.22274]] | https://huggingface.co/papers/2608.22274
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20492). Keywords: learning, sample efficiency, grpo, prompt. Status: pending-review.
+- Source: [[papers/2608.20492]] | https://huggingface.co/papers/2608.20492
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24882). Keywords: few-shot. Status: pending-review.
+- Source: [[papers/2608.24882]] | https://huggingface.co/papers/2608.24882
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09408). Keywords: lora, reasoning. Status: pending-review.
+- Source: [[papers/2608.09408]] | https://huggingface.co/papers/2608.09408
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24763). Keywords: learning, moe, sparse. Status: pending-review.
+- Source: [[papers/2608.24763]] | https://huggingface.co/papers/2608.24763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23740). Keywords: lora. Status: pending-review.
+- Source: [[papers/2608.23740]] | https://huggingface.co/papers/2608.23740
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.21031). Keywords: lora. Status: pending-review.
 - Source: [[papers/2608.21031]] | https://huggingface.co/papers/2608.21031
 - Confidence: Low (auto-matched, not yet reviewed)

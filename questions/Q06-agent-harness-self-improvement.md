@@ -2255,6 +2255,66 @@ https://huggingface.co/papers/2608.02287
 - Confidence: Medium
 
 ### 2026-08-24: Per-cell wrappers validated over shared harnesses (8 languages x 3 models)
+
+### 2026-08-26: Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+
+### 2026-08-26: AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace
+
+### 2026-08-26: Automata from Agent Traces: Failure and Next-Step Prediction
+
+### 2026-08-26: DREAM Technical Report
+
+### 2026-08-26: Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Trainin
+
+### 2026-08-26: WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report
+
+### 2026-08-26: On-policy Distillation with Verifiable Reward
+
+### 2026-08-26: AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Exec
+
+### 2026-08-26: Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+
+### 2026-08-26: Meta^n: Recursive Self-Improvement through Emergent Depth
+
+### 2026-08-26: What AstroPT knows about galaxies, and what that can teach us about LLMs
+
+### 2026-08-26: ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Froz
+- HF trending paper (arxiv: 2608.22510). Keywords: execution. Status: pending-review.
+- Source: [[papers/2608.22510]] | https://huggingface.co/papers/2608.22510
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22614). Keywords: sandbox. Status: pending-review.
+- Source: [[papers/2608.22614]] | https://huggingface.co/papers/2608.22614
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24735). Keywords: recursive, self-improvement. Status: pending-review.
+- Source: [[papers/2608.24735]] | https://huggingface.co/papers/2608.24735
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24876). Keywords: recursive, self-improvement, agent harness, gui. Status: pending-review.
+- Source: [[papers/2608.24876]] | https://huggingface.co/papers/2608.24876
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23041). Keywords: harness, execution. Status: pending-review.
+- Source: [[papers/2608.23041]] | https://huggingface.co/papers/2608.23041
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24696). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.24696]] | https://huggingface.co/papers/2608.24696
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24053). Keywords: agentic. Status: pending-review.
+- Source: [[papers/2608.24053]] | https://huggingface.co/papers/2608.24053
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24680). Keywords: environment. Status: pending-review.
+- Source: [[papers/2608.24680]] | https://huggingface.co/papers/2608.24680
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09408). Keywords: agentic, planning, execution. Status: pending-review.
+- Source: [[papers/2608.09408]] | https://huggingface.co/papers/2608.09408
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23670). Keywords: workflow, harness. Status: pending-review.
+- Source: [[papers/2608.23670]] | https://huggingface.co/papers/2608.23670
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23740). Keywords: mcp, multi-agent. Status: pending-review.
+- Source: [[papers/2608.23740]] | https://huggingface.co/papers/2608.23740
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23691). Keywords: multi-agent, environment. Status: pending-review.
+- Source: [[papers/2608.23691]] | https://huggingface.co/papers/2608.23691
+- Confidence: Low (auto-matched, not yet reviewed)
 - Cross-language harness transplants help in 18/20 pairs but hit native ceiling only sometimes; distilling to one universal harness recovers just 48-68% of native gains (Java/C++/TypeScript) — binding defect differs by (task-domain, model) cell, so native re-evolution per cell remains necessary; a null cell signals defect mass ~ 0, not a broken loop
 - Source: [[concepts/one-recipe-many-harnesses-self-evolution]]
 - Confidence: High

@@ -570,6 +570,31 @@ _2026-05-25_ — Initial research position
 ### 2026-08-25: ReWorld: An Interactive World Model with Long-Horizon Memory
 
 ### 2026-08-25: WorldMind: Decoupled Game World Model for State-Aware NPC Behavior
+
+### 2026-08-26: Automata from Agent Traces: Failure and Next-Step Prediction
+
+### 2026-08-26: MoTE: Mixture of Task Experts for Multi-Task Video Understanding
+
+### 2026-08-26: Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Trainin
+
+### 2026-08-26: WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report
+
+### 2026-08-26: Length-Adaptive Decoding for Masked Diffusion Machine Translation
+- HF trending paper (arxiv: 2608.22274). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.22274]] | https://huggingface.co/papers/2608.22274
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24053). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.24053]] | https://huggingface.co/papers/2608.24053
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24680). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.24680]] | https://huggingface.co/papers/2608.24680
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24763). Keywords: topology. Status: pending-review.
+- Source: [[papers/2608.24763]] | https://huggingface.co/papers/2608.24763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23670). Keywords: topology. Status: pending-review.
+- Source: [[papers/2608.23670]] | https://huggingface.co/papers/2608.23670
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.21439). Keywords: world model. Status: pending-review.
 - Source: [[papers/2608.21439]] | https://huggingface.co/papers/2608.21439
 - Confidence: Low (auto-matched, not yet reviewed)

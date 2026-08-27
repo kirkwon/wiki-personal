@@ -1720,6 +1720,56 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 - Confidence: High
 
 ### 2026-08-24: One Recipe, Many Harnesses — self-evolution recipe held fixed across 8 languages x 3 models
+
+### 2026-08-26: GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with 
+
+### 2026-08-26: DREAM Technical Report
+
+### 2026-08-26: Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video
+
+### 2026-08-26: WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report
+
+### 2026-08-26: Length-Adaptive Decoding for Masked Diffusion Machine Translation
+
+### 2026-08-26: Best Practice Critic Optimization
+
+### 2026-08-26: On-policy Distillation with Verifiable Reward
+
+### 2026-08-26: Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+
+### 2026-08-26: Meta^n: Recursive Self-Improvement through Emergent Depth
+
+### 2026-08-26: ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Froz
+- HF trending paper (arxiv: 2608.22510). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.22510]] | https://huggingface.co/papers/2608.22510
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24735). Keywords: self-improvement, recursive self. Status: pending-review.
+- Source: [[papers/2608.24735]] | https://huggingface.co/papers/2608.24735
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24876). Keywords: self-improvement, recursive self. Status: pending-review.
+- Source: [[papers/2608.24876]] | https://huggingface.co/papers/2608.24876
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24696). Keywords: reinforcement learning, grpo, verifiable reward, rlvr. Status: pending-review.
+- Source: [[papers/2608.24696]] | https://huggingface.co/papers/2608.24696
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23566). Keywords: reinforcement learning, grpo, ppo. Status: pending-review.
+- Source: [[papers/2608.23566]] | https://huggingface.co/papers/2608.23566
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22274). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.22274]] | https://huggingface.co/papers/2608.22274
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24053). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.24053]] | https://huggingface.co/papers/2608.24053
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20492). Keywords: reinforcement learning, grpo. Status: pending-review.
+- Source: [[papers/2608.20492]] | https://huggingface.co/papers/2608.20492
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09408). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.09408]] | https://huggingface.co/papers/2608.09408
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15875). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.15875]] | https://huggingface.co/papers/2608.15875
+- Confidence: Low (auto-matched, not yet reviewed)
 - Evolved harnesses converge on the same abstract playbook (60-80% concept overlap) with disjoint ecosystem plumbing; gains are defect-compensation, not new capability — near-zero where defect mass ~ 0 (Python cells, GPT-5-mini); one universal distilled harness recovers only 48-68% of native gains
 - Source: [[concepts/one-recipe-many-harnesses-self-evolution]]
 - Confidence: High

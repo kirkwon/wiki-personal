@@ -996,6 +996,41 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 - Confidence: Medium
 
 ### 2026-08-23: Vol- and volume-aware Kelly sizing — accepted decision with resolved estimators
+
+### 2026-08-26: Automata from Agent Traces: Failure and Next-Step Prediction
+
+### 2026-08-26: GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with 
+
+### 2026-08-26: MoTE: Mixture of Task Experts for Multi-Task Video Understanding
+
+### 2026-08-26: WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report
+
+### 2026-08-26: Best Practice Critic Optimization
+
+### 2026-08-26: The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space,
+
+### 2026-08-26: What AstroPT knows about galaxies, and what that can teach us about LLMs
+- HF trending paper (arxiv: 2608.22614). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2608.22614]] | https://huggingface.co/papers/2608.22614
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22876). Keywords: attention, sequence model. Status: pending-review.
+- Source: [[papers/2608.22876]] | https://huggingface.co/papers/2608.22876
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23566). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.23566]] | https://huggingface.co/papers/2608.23566
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24053). Keywords: classification. Status: pending-review.
+- Source: [[papers/2608.24053]] | https://huggingface.co/papers/2608.24053
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24763). Keywords: forecasting, transformer, forecast, prediction. Status: pending-review.
+- Source: [[papers/2608.24763]] | https://huggingface.co/papers/2608.24763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15875). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.15875]] | https://huggingface.co/papers/2608.15875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23670). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.23670]] | https://huggingface.co/papers/2608.23670
+- Confidence: Low (auto-matched, not yet reviewed)
 - Volatility enters Kelly directly (f* = mu/sigma^2; double forecast vol -> quarter size; HAR-RV chosen over GARCH(1,1) for sigma^2 forecasting, GARCH kept as sanity check); volume enters via estimation quality, edge erosion (Amihud), and regime staleness; operating rule: volume > 2x trailing 20-day median -> half-Kelly until 5 sessions re-price
 - Source: [[wiki/decisions/vol-volume-aware-kelly-2026-08-23]]
 - Confidence: High
