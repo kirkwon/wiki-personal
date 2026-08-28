@@ -580,6 +580,26 @@ _2026-05-25_ — Initial research position
 ### 2026-08-26: WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report
 
 ### 2026-08-26: Length-Adaptive Decoding for Masked Diffusion Machine Translation
+
+### 2026-08-27: Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worl
+
+### 2026-08-27: Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models
+
+### 2026-08-27: Code World Model: Coding Agent as World Brain
+
+### 2026-08-27: MARS: Multi-Specialist LLM Relay System for Competitive Programming
+- HF trending paper (arxiv: 2608.23918). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.23918]] | https://huggingface.co/papers/2608.23918
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25927). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.25927]] | https://huggingface.co/papers/2608.25927
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19556). Keywords: diffusion, geometry. Status: pending-review.
+- Source: [[papers/2608.19556]] | https://huggingface.co/papers/2608.19556
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23383). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.23383]] | https://huggingface.co/papers/2608.23383
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.22274). Keywords: diffusion. Status: pending-review.
 - Source: [[papers/2608.22274]] | https://huggingface.co/papers/2608.22274
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -1010,6 +1010,46 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-08-26: The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space,
 
 ### 2026-08-26: What AstroPT knows about galaxies, and what that can teach us about LLMs
+
+### 2026-08-27: Prefix Sliding for efficient test-time scaling
+
+### 2026-08-27: Pushing the Limits of High-Resolution Weather Forecasting through Data Scaling
+
+### 2026-08-27: LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech De
+
+### 2026-08-27: Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction
+
+### 2026-08-27: Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation
+
+### 2026-08-27: Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models
+
+### 2026-08-27: Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation
+
+### 2026-08-27: StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Mode
+- HF trending paper (arxiv: 2608.26067). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.26067]] | https://huggingface.co/papers/2608.26067
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15062). Keywords: neural network, transformer. Status: pending-review.
+- Source: [[papers/2608.15062]] | https://huggingface.co/papers/2608.15062
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19556). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.19556]] | https://huggingface.co/papers/2608.19556
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24138). Keywords: regression. Status: pending-review.
+- Source: [[papers/2608.24138]] | https://huggingface.co/papers/2608.24138
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22071). Keywords: prediction, classification. Status: pending-review.
+- Source: [[papers/2608.22071]] | https://huggingface.co/papers/2608.22071
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25204). Keywords: deep learning, classification. Status: pending-review.
+- Source: [[papers/2608.25204]] | https://huggingface.co/papers/2608.25204
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14652). Keywords: forecasting, forecast. Status: pending-review.
+- Source: [[papers/2608.14652]] | https://huggingface.co/papers/2608.14652
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26070). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.26070]] | https://huggingface.co/papers/2608.26070
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.22614). Keywords: transformer. Status: pending-review.
 - Source: [[papers/2608.22614]] | https://huggingface.co/papers/2608.22614
 - Confidence: Low (auto-matched, not yet reviewed)

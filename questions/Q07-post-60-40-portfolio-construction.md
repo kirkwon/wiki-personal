@@ -127,6 +127,16 @@ If bonds/debt are too correlated to equities to serve as counterweights, what re
 ### 2026-08-25: TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
 
 ### 2026-08-26: Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Trainin
+
+### 2026-08-27: FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling
+
+### 2026-08-27: Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agen
+- HF trending paper (arxiv: 2608.24099). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.24099]] | https://huggingface.co/papers/2608.24099
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21839). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.21839]] | https://huggingface.co/papers/2608.21839
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.24680). Keywords: tax. Status: pending-review.
 - Source: [[papers/2608.24680]] | https://huggingface.co/papers/2608.24680
 - Confidence: Low (auto-matched, not yet reviewed)

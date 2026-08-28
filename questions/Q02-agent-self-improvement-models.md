@@ -1740,6 +1740,96 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-08-26: Meta^n: Recursive Self-Improvement through Emergent Depth
 
 ### 2026-08-26: ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Froz
+
+### 2026-08-27: Skill Issue: Are Skills Language-Invariant in LLMs?
+
+### 2026-08-27: Prefix Sliding for efficient test-time scaling
+
+### 2026-08-27: LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech De
+
+### 2026-08-27: RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieva
+
+### 2026-08-27: Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategie
+
+### 2026-08-27: Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worl
+
+### 2026-08-27: FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling
+
+### 2026-08-27: Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation
+
+### 2026-08-27: WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploratio
+
+### 2026-08-27: MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Composition
+
+### 2026-08-27: StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Mode
+
+### 2026-08-27: Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy
+
+### 2026-08-27: V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning
+
+### 2026-08-27: Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agen
+
+### 2026-08-27: Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans
+
+### 2026-08-27: Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning
+
+### 2026-08-27: Code World Model: Coding Agent as World Brain
+
+### 2026-08-27: VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning
+- HF trending paper (arxiv: 2608.26105). Keywords: reinforcement learning, alignment, verifiable reward. Status: pending-review.
+- Source: [[papers/2608.26105]] | https://huggingface.co/papers/2608.26105
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25927). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.25927]] | https://huggingface.co/papers/2608.25927
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23318). Keywords: reinforcement learning, policy optimization. Status: pending-review.
+- Source: [[papers/2608.23318]] | https://huggingface.co/papers/2608.23318
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24909). Keywords: self-evolving, ppo. Status: pending-review.
+- Source: [[papers/2608.24909]] | https://huggingface.co/papers/2608.24909
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24099). Keywords: reinforcement learning, grpo. Status: pending-review.
+- Source: [[papers/2608.24099]] | https://huggingface.co/papers/2608.24099
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25580). Keywords: reinforcement learning, grpo, ppo. Status: pending-review.
+- Source: [[papers/2608.25580]] | https://huggingface.co/papers/2608.25580
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19098). Keywords: reinforcement learning, distillation. Status: pending-review.
+- Source: [[papers/2608.19098]] | https://huggingface.co/papers/2608.19098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26067). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.26067]] | https://huggingface.co/papers/2608.26067
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25864). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.25864]] | https://huggingface.co/papers/2608.25864
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24479). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.24479]] | https://huggingface.co/papers/2608.24479
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24138). Keywords: self-evolving. Status: pending-review.
+- Source: [[papers/2608.24138]] | https://huggingface.co/papers/2608.24138
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21839). Keywords: reward model, alignment. Status: pending-review.
+- Source: [[papers/2608.21839]] | https://huggingface.co/papers/2608.21839
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23383). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.23383]] | https://huggingface.co/papers/2608.23383
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23256). Keywords: rlvr. Status: pending-review.
+- Source: [[papers/2608.23256]] | https://huggingface.co/papers/2608.23256
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25625). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.25625]] | https://huggingface.co/papers/2608.25625
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25204). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.25204]] | https://huggingface.co/papers/2608.25204
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26070). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.26070]] | https://huggingface.co/papers/2608.26070
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25832). Keywords: self-play, ppo. Status: pending-review.
+- Source: [[papers/2608.25832]] | https://huggingface.co/papers/2608.25832
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.22510). Keywords: alignment. Status: pending-review.
 - Source: [[papers/2608.22510]] | https://huggingface.co/papers/2608.22510
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -2279,6 +2279,71 @@ https://huggingface.co/papers/2608.02287
 ### 2026-08-26: What AstroPT knows about galaxies, and what that can teach us about LLMs
 
 ### 2026-08-26: ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Froz
+
+### 2026-08-27: Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction
+
+### 2026-08-27: Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation
+
+### 2026-08-27: Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models
+
+### 2026-08-27: WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploratio
+
+### 2026-08-27: MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Composition
+
+### 2026-08-27: StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Mode
+
+### 2026-08-27: Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy
+
+### 2026-08-27: Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agen
+
+### 2026-08-27: FrontierChallenge: Evaluating Scientific Workflow Completion
+
+### 2026-08-27: Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning
+
+### 2026-08-27: Code World Model: Coding Agent as World Brain
+
+### 2026-08-27: MARS: Multi-Specialist LLM Relay System for Competitive Programming
+
+### 2026-08-27: When "Must" Becomes "Maybe": Constraint Weakening in LLM Agent Workflows
+- HF trending paper (arxiv: 2608.24569). Keywords: workflow, execution. Status: pending-review.
+- Source: [[papers/2608.24569]] | https://huggingface.co/papers/2608.24569
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23918). Keywords: multi-agent, code generation, sandbox. Status: pending-review.
+- Source: [[papers/2608.23918]] | https://huggingface.co/papers/2608.23918
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25927). Keywords: environment. Status: pending-review.
+- Source: [[papers/2608.25927]] | https://huggingface.co/papers/2608.25927
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23318). Keywords: agentic, gui. Status: pending-review.
+- Source: [[papers/2608.23318]] | https://huggingface.co/papers/2608.23318
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24979). Keywords: workflow, scaffold, environment, execution. Status: pending-review.
+- Source: [[papers/2608.24979]] | https://huggingface.co/papers/2608.24979
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24099). Keywords: gui, environment, execution. Status: pending-review.
+- Source: [[papers/2608.24099]] | https://huggingface.co/papers/2608.24099
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19098). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.19098]] | https://huggingface.co/papers/2608.19098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26067). Keywords: execution. Status: pending-review.
+- Source: [[papers/2608.26067]] | https://huggingface.co/papers/2608.26067
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25864). Keywords: execution. Status: pending-review.
+- Source: [[papers/2608.25864]] | https://huggingface.co/papers/2608.25864
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24479). Keywords: environment. Status: pending-review.
+- Source: [[papers/2608.24479]] | https://huggingface.co/papers/2608.24479
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19556). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.19556]] | https://huggingface.co/papers/2608.19556
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24138). Keywords: code generation, gui. Status: pending-review.
+- Source: [[papers/2608.24138]] | https://huggingface.co/papers/2608.24138
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22071). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.22071]] | https://huggingface.co/papers/2608.22071
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.22510). Keywords: execution. Status: pending-review.
 - Source: [[papers/2608.22510]] | https://huggingface.co/papers/2608.22510
 - Confidence: Low (auto-matched, not yet reviewed)
