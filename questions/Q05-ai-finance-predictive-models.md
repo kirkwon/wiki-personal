@@ -1026,6 +1026,51 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-08-27: Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation
 
 ### 2026-08-27: StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Mode
+
+### 2026-08-28: TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback
+
+### 2026-08-28: EditaLive! Unified Character Video Editing for Live Streaming
+
+### 2026-08-28: GameWAM: A World Action Model for Video Games
+
+### 2026-08-28: Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Techn
+
+### 2026-08-28: CaRGo-T: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehensi
+
+### 2026-08-28: Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task
+
+### 2026-08-28: Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher
+
+### 2026-08-28: What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
+
+### 2026-08-28: GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Gro
+- HF trending paper (arxiv: 2608.21832). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27260). Keywords: trend. Status: pending-review.
+- Source: [[papers/2608.27260]] | https://huggingface.co/papers/2608.27260
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26872). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.26872]] | https://huggingface.co/papers/2608.26872
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26103). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.26103]] | https://huggingface.co/papers/2608.26103
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23172). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.23172]] | https://huggingface.co/papers/2608.23172
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15763). Keywords: regression. Status: pending-review.
+- Source: [[papers/2608.15763]] | https://huggingface.co/papers/2608.15763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26200). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.26200]] | https://huggingface.co/papers/2608.26200
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27123). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.27123]] | https://huggingface.co/papers/2608.27123
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25798). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.25798]] | https://huggingface.co/papers/2608.25798
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.26067). Keywords: attention. Status: pending-review.
 - Source: [[papers/2608.26067]] | https://huggingface.co/papers/2608.26067
 - Confidence: Low (auto-matched, not yet reviewed)

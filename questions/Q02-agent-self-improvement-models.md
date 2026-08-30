@@ -1776,6 +1776,66 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-08-27: Code World Model: Coding Agent as World Brain
 
 ### 2026-08-27: VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning
+
+### 2026-08-28: EditaLive! Unified Character Video Editing for Live Streaming
+
+### 2026-08-28: Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling Worl
+
+### 2026-08-28: GameWAM: A World Action Model for Video Games
+
+### 2026-08-28: TTPO: Test-Time Policy Optimization
+
+### 2026-08-28: Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reaso
+
+### 2026-08-28: Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Techn
+
+### 2026-08-28: PAWBench: How Far Are We from Probabilistically Aligned World Modeling?
+
+### 2026-08-28: UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City
+
+### 2026-08-28: Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher
+
+### 2026-08-28: Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage
+
+### 2026-08-28: What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
+
+### 2026-08-28: GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Gro
+- HF trending paper (arxiv: 2608.21832). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27260). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.27260]] | https://huggingface.co/papers/2608.27260
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27351). Keywords: grpo, policy optimization. Status: pending-review.
+- Source: [[papers/2608.27351]] | https://huggingface.co/papers/2608.27351
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26872). Keywords: alignment, distillation. Status: pending-review.
+- Source: [[papers/2608.26872]] | https://huggingface.co/papers/2608.26872
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27456). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.27456]] | https://huggingface.co/papers/2608.27456
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27345). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.27345]] | https://huggingface.co/papers/2608.27345
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15763). Keywords: reinforcement learning, distillation. Status: pending-review.
+- Source: [[papers/2608.15763]] | https://huggingface.co/papers/2608.15763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26993). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.26993]] | https://huggingface.co/papers/2608.26993
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27448). Keywords: reinforcement learning, policy optimization, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.27448]] | https://huggingface.co/papers/2608.27448
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26200). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.26200]] | https://huggingface.co/papers/2608.26200
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25518). Keywords: reinforcement learning, ppo. Status: pending-review.
+- Source: [[papers/2608.25518]] | https://huggingface.co/papers/2608.25518
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27123). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.27123]] | https://huggingface.co/papers/2608.27123
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.26105). Keywords: reinforcement learning, alignment, verifiable reward. Status: pending-review.
 - Source: [[papers/2608.26105]] | https://huggingface.co/papers/2608.26105
 - Confidence: Low (auto-matched, not yet reviewed)

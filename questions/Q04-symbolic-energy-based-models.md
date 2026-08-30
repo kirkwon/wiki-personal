@@ -588,6 +588,36 @@ _2026-05-25_ — Initial research position
 ### 2026-08-27: Code World Model: Coding Agent as World Brain
 
 ### 2026-08-27: MARS: Multi-Specialist LLM Relay System for Competitive Programming
+
+### 2026-08-28: Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling Worl
+
+### 2026-08-28: GameWAM: A World Action Model for Video Games
+
+### 2026-08-28: CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval
+
+### 2026-08-28: PAWBench: How Far Are We from Probabilistically Aligned World Modeling?
+
+### 2026-08-28: Magpie: Real-Time World Renderer for Interactive Games
+
+### 2026-08-28: GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Gro
+- HF trending paper (arxiv: 2608.21832). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27168). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.27168]] | https://huggingface.co/papers/2608.27168
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27345). Keywords: probabilistic, world model. Status: pending-review.
+- Source: [[papers/2608.27345]] | https://huggingface.co/papers/2608.27345
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25500). Keywords: bayesian. Status: pending-review.
+- Source: [[papers/2608.25500]] | https://huggingface.co/papers/2608.25500
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26200). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.26200]] | https://huggingface.co/papers/2608.26200
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25518). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.25518]] | https://huggingface.co/papers/2608.25518
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.23918). Keywords: geometry. Status: pending-review.
 - Source: [[papers/2608.23918]] | https://huggingface.co/papers/2608.23918
 - Confidence: Low (auto-matched, not yet reviewed)

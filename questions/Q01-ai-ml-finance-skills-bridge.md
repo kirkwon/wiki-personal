@@ -872,6 +872,26 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-08-27: MARS: Multi-Specialist LLM Relay System for Competitive Programming
 
 ### 2026-08-27: When "Must" Becomes "Maybe": Constraint Weakening in LLM Agent Workflows
+
+### 2026-08-28: CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval
+
+### 2026-08-28: Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Techn
+
+### 2026-08-28: Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher
+
+### 2026-08-28: What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
+- HF trending paper (arxiv: 2608.27260). Keywords: option, var. Status: pending-review.
+- Source: [[papers/2608.27260]] | https://huggingface.co/papers/2608.27260
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26872). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.26872]] | https://huggingface.co/papers/2608.26872
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15763). Keywords: market, var. Status: pending-review.
+- Source: [[papers/2608.15763]] | https://huggingface.co/papers/2608.15763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25500). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.25500]] | https://huggingface.co/papers/2608.25500
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.24569). Keywords: var. Status: pending-review.
 - Source: [[papers/2608.24569]] | https://huggingface.co/papers/2608.24569
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -2305,6 +2305,61 @@ https://huggingface.co/papers/2608.02287
 ### 2026-08-27: MARS: Multi-Specialist LLM Relay System for Competitive Programming
 
 ### 2026-08-27: When "Must" Becomes "Maybe": Constraint Weakening in LLM Agent Workflows
+
+### 2026-08-28: TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback
+
+### 2026-08-28: Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling Worl
+
+### 2026-08-28: Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning
+
+### 2026-08-28: GameWAM: A World Action Model for Video Games
+
+### 2026-08-28: CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval
+
+### 2026-08-28: Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Techn
+
+### 2026-08-28: UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City
+
+### 2026-08-28: Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task
+
+### 2026-08-28: Magpie: Real-Time World Renderer for Interactive Games
+
+### 2026-08-28: What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
+
+### 2026-08-28: GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Gro
+- HF trending paper (arxiv: 2608.21832). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27260). Keywords: agentic, environment, execution. Status: pending-review.
+- Source: [[papers/2608.27260]] | https://huggingface.co/papers/2608.27260
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27168). Keywords: execution. Status: pending-review.
+- Source: [[papers/2608.27168]] | https://huggingface.co/papers/2608.27168
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26103). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.26103]] | https://huggingface.co/papers/2608.26103
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27456). Keywords: environment, sandbox. Status: pending-review.
+- Source: [[papers/2608.27456]] | https://huggingface.co/papers/2608.27456
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15763). Keywords: tool use, harness, environment. Status: pending-review.
+- Source: [[papers/2608.15763]] | https://huggingface.co/papers/2608.15763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25500). Keywords: workflow, environment. Status: pending-review.
+- Source: [[papers/2608.25500]] | https://huggingface.co/papers/2608.25500
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26200). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.26200]] | https://huggingface.co/papers/2608.26200
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26809). Keywords: agentic. Status: pending-review.
+- Source: [[papers/2608.26809]] | https://huggingface.co/papers/2608.26809
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25518). Keywords: recursive, agentic, code agent, environment. Status: pending-review.
+- Source: [[papers/2608.25518]] | https://huggingface.co/papers/2608.25518
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25798). Keywords: execution. Status: pending-review.
+- Source: [[papers/2608.25798]] | https://huggingface.co/papers/2608.25798
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.24569). Keywords: workflow, execution. Status: pending-review.
 - Source: [[papers/2608.24569]] | https://huggingface.co/papers/2608.24569
 - Confidence: Low (auto-matched, not yet reviewed)
