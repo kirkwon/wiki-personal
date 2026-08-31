@@ -880,6 +880,36 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-08-28: Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher
 
 ### 2026-08-28: What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
+
+### 2026-08-30: Luce: Relightable Gaussians for 3D Asset Generation
+
+### 2026-08-30: CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model 
+
+### 2026-08-31: Language Chain in Alignment: Cross-lingual Ranking Preference Optimization
+
+### 2026-08-31: Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090
+
+### 2026-08-31: StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environmen
+
+### 2026-08-31: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-U
+- HF trending paper (arxiv: 2608.24777). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.24777]] | https://huggingface.co/papers/2608.24777
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24804). Keywords: finance. Status: pending-review.
+- Source: [[papers/2608.24804]] | https://huggingface.co/papers/2608.24804
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27370). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.27370]] | https://huggingface.co/papers/2608.27370
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23149). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.23149]] | https://huggingface.co/papers/2608.23149
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27455). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.27455]] | https://huggingface.co/papers/2608.27455
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23943). Keywords: option, var. Status: pending-review.
+- Source: [[papers/2608.23943]] | https://huggingface.co/papers/2608.23943
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.27260). Keywords: option, var. Status: pending-review.
 - Source: [[papers/2608.27260]] | https://huggingface.co/papers/2608.27260
 - Confidence: Low (auto-matched, not yet reviewed)

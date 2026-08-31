@@ -600,6 +600,41 @@ _2026-05-25_ — Initial research position
 ### 2026-08-28: Magpie: Real-Time World Renderer for Interactive Games
 
 ### 2026-08-28: GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Gro
+
+### 2026-08-30: Luce: Relightable Gaussians for 3D Asset Generation
+
+### 2026-08-31: GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generati
+
+### 2026-08-31: Language Chain in Alignment: Cross-lingual Ranking Preference Optimization
+
+### 2026-08-31: Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities
+
+### 2026-08-31: DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Mu
+
+### 2026-08-31: Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusio
+
+### 2026-08-31: LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in V
+- HF trending paper (arxiv: 2608.28460). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.28460]] | https://huggingface.co/papers/2608.28460
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26794). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.26794]] | https://huggingface.co/papers/2608.26794
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18524). Keywords: topology. Status: pending-review.
+- Source: [[papers/2608.18524]] | https://huggingface.co/papers/2608.18524
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28122). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.28122]] | https://huggingface.co/papers/2608.28122
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23149). Keywords: manifold. Status: pending-review.
+- Source: [[papers/2608.23149]] | https://huggingface.co/papers/2608.23149
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25375). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.25375]] | https://huggingface.co/papers/2608.25375
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23943). Keywords: variational, geometry. Status: pending-review.
+- Source: [[papers/2608.23943]] | https://huggingface.co/papers/2608.23943
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.21832). Keywords: contrastive. Status: pending-review.
 - Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
 - Confidence: Low (auto-matched, not yet reviewed)

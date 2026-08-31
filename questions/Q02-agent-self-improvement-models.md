@@ -1800,6 +1800,41 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-08-28: What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
 
 ### 2026-08-28: GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Gro
+
+### 2026-08-30: Luce: Relightable Gaussians for 3D Asset Generation
+
+### 2026-08-31: Language Chain in Alignment: Cross-lingual Ranking Preference Optimization
+
+### 2026-08-31: Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities
+
+### 2026-08-31: DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Mu
+
+### 2026-08-31: LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in V
+
+### 2026-08-31: J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data
+
+### 2026-08-31: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-U
+- HF trending paper (arxiv: 2608.24777). Keywords: grpo. Status: pending-review.
+- Source: [[papers/2608.24777]] | https://huggingface.co/papers/2608.24777
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26582). Keywords: self-improvement, self-evolving, ppo. Status: pending-review.
+- Source: [[papers/2608.26582]] | https://huggingface.co/papers/2608.26582
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28460). Keywords: self-correction. Status: pending-review.
+- Source: [[papers/2608.28460]] | https://huggingface.co/papers/2608.28460
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18524). Keywords: ppo, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.18524]] | https://huggingface.co/papers/2608.18524
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28122). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.28122]] | https://huggingface.co/papers/2608.28122
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23149). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.23149]] | https://huggingface.co/papers/2608.23149
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23943). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.23943]] | https://huggingface.co/papers/2608.23943
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.21832). Keywords: alignment. Status: pending-review.
 - Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -1044,6 +1044,21 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-08-28: What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
 
 ### 2026-08-28: GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Gro
+
+### 2026-08-30: Luce: Relightable Gaussians for 3D Asset Generation
+
+### 2026-08-31: LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in V
+
+### 2026-08-31: LMSM: LLM Security Framework Inspired by Linux Security Modules
+- HF trending paper (arxiv: 2608.25697). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2608.25697]] | https://huggingface.co/papers/2608.25697
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28460). Keywords: attention, prediction. Status: pending-review.
+- Source: [[papers/2608.28460]] | https://huggingface.co/papers/2608.28460
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23943). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2608.23943]] | https://huggingface.co/papers/2608.23943
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.21832). Keywords: prediction. Status: pending-review.
 - Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
 - Confidence: Low (auto-matched, not yet reviewed)
