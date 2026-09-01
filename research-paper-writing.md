@@ -1,11 +1,13 @@
 ---
 type: concept
-date: 2026-07-13
+title: Research Paper Writing
+created: 2026-08-31
+updated: 2026-08-31
 tags:
   - Skill
-  - Placeholder
-created: 2026-07-13
-updated: 2026-07-13
+  - research
 ---
-# research paper writing
-Stub page – add description, links, and usage notes.
+
+# research-paper-writing
+
+Test body
