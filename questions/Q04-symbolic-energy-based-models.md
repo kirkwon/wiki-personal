@@ -1,15 +1,13 @@
 ---
-
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "What non-transformer architectures show promise? Energy-based models, neural-symbolic, state space models (Mamba), differentiable logic, Hopfield networks — what's state of art and practical utility?"
 date: 2026-05-25
 type: permanent-question
-reviewed: 2026-05-25
-confidence: 0.25
-evidence_count: 3
-last_evidence_date: "2026-08-05" 
-
+reviewed: 2026-09-02
+confidence: 0.95
+evidence_count: 192
+last_evidence_date: 2026-09-01
 ---
 
 
@@ -614,6 +612,31 @@ _2026-05-25_ — Initial research position
 ### 2026-08-31: Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusio
 
 ### 2026-08-31: LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in V
+
+### 2026-09-01: SpanCalib-VLM: Calibrated Hallucination Span Detection in Vision-Language Models
+
+### 2026-09-01: Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation a
+
+### 2026-09-01: DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution
+
+### 2026-09-01: WebWorld: The Browser as a World Model for Self-Improving Web Code
+
+### 2026-09-01: Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation
+- HF trending paper (arxiv: 2608.24293). Keywords: variational, diffusion, vae. Status: pending-review.
+- Source: [[papers/2608.24293]] | https://huggingface.co/papers/2608.24293
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30530). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.30530]] | https://huggingface.co/papers/2608.30530
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31106). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.31106]] | https://huggingface.co/papers/2608.31106
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30795). Keywords: probabilistic. Status: pending-review.
+- Source: [[papers/2608.30795]] | https://huggingface.co/papers/2608.30795
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29974). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.29974]] | https://huggingface.co/papers/2608.29974
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.28460). Keywords: diffusion. Status: pending-review.
 - Source: [[papers/2608.28460]] | https://huggingface.co/papers/2608.28460
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -1,15 +1,13 @@
 ---
-
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "How can modern AI add to predictive models that incorporate: risk (VaR, CVaR), options (greek exposure, implied vol surfaces), volume/order book, cyclical patterns (seasonality, macro cycles), and behavioral/irrational behavior? What's the gap between academic finance ML and practitioner use?"
 date: 2026-05-25
 type: permanent-question
-reviewed: 2026-05-25
-confidence: 0.55
-evidence_count: 9
-last_evidence_date: "2026-08-23" 
-
+reviewed: 2026-09-02
+confidence: 0.95
+evidence_count: 179
+last_evidence_date: 2026-09-01
 ---
 
 
@@ -1050,6 +1048,41 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-08-31: LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in V
 
 ### 2026-08-31: LMSM: LLM Security Framework Inspired by Linux Security Modules
+
+### 2026-09-01: SpanCalib-VLM: Calibrated Hallucination Span Detection in Vision-Language Models
+
+### 2026-09-01: Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation a
+
+### 2026-09-01: DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution
+
+### 2026-09-01: SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Mo
+
+### 2026-09-01: LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigatio
+
+### 2026-09-01: Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation
+
+### 2026-09-01: Cross-lingual Functional Vectors for Emotion Detection in Large Language Models
+- HF trending paper (arxiv: 2608.29613). Keywords: attention, classification. Status: pending-review.
+- Source: [[papers/2608.29613]] | https://huggingface.co/papers/2608.29613
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24293). Keywords: transformer, prediction. Status: pending-review.
+- Source: [[papers/2608.24293]] | https://huggingface.co/papers/2608.24293
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30935). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.30935]] | https://huggingface.co/papers/2608.30935
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29098). Keywords: prediction, classification. Status: pending-review.
+- Source: [[papers/2608.29098]] | https://huggingface.co/papers/2608.29098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31106). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.31106]] | https://huggingface.co/papers/2608.31106
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30795). Keywords: forecasting, forecast, prediction. Status: pending-review.
+- Source: [[papers/2608.30795]] | https://huggingface.co/papers/2608.30795
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29974). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.29974]] | https://huggingface.co/papers/2608.29974
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.25697). Keywords: transformer. Status: pending-review.
 - Source: [[papers/2608.25697]] | https://huggingface.co/papers/2608.25697
 - Confidence: Low (auto-matched, not yet reviewed)

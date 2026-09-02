@@ -1,15 +1,13 @@
 ---
-
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "Beyond generic metalearning — what specific architectural and algorithmic ideas let agents build better toolchains, improve their own prompting, and recursively self-optimize? How does this apply to quantitative research workflows?"
 date: 2026-05-25
 type: permanent-question
-reviewed: 2026-05-25
-confidence: 0.90
-evidence_count: 17
-last_evidence_date: "2026-08-24" 
-
+reviewed: 2026-09-02
+confidence: 0.95
+evidence_count: 453
+last_evidence_date: 2026-09-01
 ---
 
 
@@ -2345,6 +2343,61 @@ https://huggingface.co/papers/2608.02287
 ### 2026-08-31: J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data
 
 ### 2026-08-31: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-U
+
+### 2026-09-01: MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual Multi
+
+### 2026-09-01: Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models
+
+### 2026-09-01: Super Library Agent: Joint Generation and Maintenance of Multiple Applications B
+
+### 2026-09-01: SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Mo
+
+### 2026-09-01: LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigatio
+
+### 2026-09-01: WebWorld: The Browser as a World Model for Self-Improving Web Code
+
+### 2026-09-01: Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied
+
+### 2026-09-01: CogEvol: Towards Efficient and Reliable Learning Environment Generation
+
+### 2026-09-01: MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents
+
+### 2026-09-01: Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superinte
+
+### 2026-09-01: PaperGym: Rubric-Centered Evolution for Research-Plan Generation
+- HF trending paper (arxiv: 2608.31119). Keywords: planning, environment. Status: pending-review.
+- Source: [[papers/2608.31119]] | https://huggingface.co/papers/2608.31119
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31075). Keywords: agentic, environment. Status: pending-review.
+- Source: [[papers/2608.31075]] | https://huggingface.co/papers/2608.31075
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31022). Keywords: agentic, environment. Status: pending-review.
+- Source: [[papers/2608.31022]] | https://huggingface.co/papers/2608.31022
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30968). Keywords: harness, scaffold, environment. Status: pending-review.
+- Source: [[papers/2608.30968]] | https://huggingface.co/papers/2608.30968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30428). Keywords: agent harness, multi-agent, harness, sandbox. Status: pending-review.
+- Source: [[papers/2608.30428]] | https://huggingface.co/papers/2608.30428
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30530). Keywords: self-improvement, browser. Status: pending-review.
+- Source: [[papers/2608.30530]] | https://huggingface.co/papers/2608.30530
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30935). Keywords: environment. Status: pending-review.
+- Source: [[papers/2608.30935]] | https://huggingface.co/papers/2608.30935
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29098). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.29098]] | https://huggingface.co/papers/2608.29098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29310). Keywords: agentic, gui, workflow, scaffold. Status: pending-review.
+- Source: [[papers/2608.29310]] | https://huggingface.co/papers/2608.29310
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29137). Keywords: workflow. Status: pending-review.
+- Source: [[papers/2608.29137]] | https://huggingface.co/papers/2608.29137
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29681). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.29681]] | https://huggingface.co/papers/2608.29681
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.24777). Keywords: environment, execution. Status: pending-review.
 - Source: [[papers/2608.24777]] | https://huggingface.co/papers/2608.24777
 - Confidence: Low (auto-matched, not yet reviewed)

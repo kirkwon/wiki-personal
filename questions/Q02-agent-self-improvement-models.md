@@ -1,15 +1,13 @@
 ---
-
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "What are the frontier approaches for agents to improve their own scaffolding, tool use, and learning harness? Metalearning, self-critique, recursive improvement — what's working?"
 date: 2026-05-25
 type: permanent-question
-reviewed: 2026-05-25
+reviewed: 2026-09-02
 confidence: 0.95
-evidence_count: 23
-last_evidence_date: "2026-08-24"
-
+evidence_count: 366
+last_evidence_date: 2026-09-01
 ---
 
 
@@ -1814,6 +1812,61 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-08-31: J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data
 
 ### 2026-08-31: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-U
+
+### 2026-09-01: DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution
+
+### 2026-09-01: SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Mo
+
+### 2026-09-01: LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigatio
+
+### 2026-09-01: WebWorld: The Browser as a World Model for Self-Improving Web Code
+
+### 2026-09-01: Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation
+
+### 2026-09-01: Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied
+
+### 2026-09-01: SHAPE of Chain-of-Thought in Math Reasoning
+
+### 2026-09-01: Dynamic Important Example Mining for Reinforcement Finetuning
+
+### 2026-09-01: CogEvol: Towards Efficient and Reliable Learning Environment Generation
+
+### 2026-09-01: Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superinte
+
+### 2026-09-01: PaperGym: Rubric-Centered Evolution for Research-Plan Generation
+- HF trending paper (arxiv: 2608.31119). Keywords: reinforcement learning, grpo. Status: pending-review.
+- Source: [[papers/2608.31119]] | https://huggingface.co/papers/2608.31119
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31075). Keywords: reinforcement learning, verifiable reward, rlvr. Status: pending-review.
+- Source: [[papers/2608.31075]] | https://huggingface.co/papers/2608.31075
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30968). Keywords: grpo. Status: pending-review.
+- Source: [[papers/2608.30968]] | https://huggingface.co/papers/2608.30968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29252). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.29252]] | https://huggingface.co/papers/2608.29252
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28600). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.28600]] | https://huggingface.co/papers/2608.28600
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30428). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.30428]] | https://huggingface.co/papers/2608.30428
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24293). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.24293]] | https://huggingface.co/papers/2608.24293
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30530). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2608.30530]] | https://huggingface.co/papers/2608.30530
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30935). Keywords: reinforcement learning, ppo. Status: pending-review.
+- Source: [[papers/2608.30935]] | https://huggingface.co/papers/2608.30935
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29098). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.29098]] | https://huggingface.co/papers/2608.29098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31106). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2608.31106]] | https://huggingface.co/papers/2608.31106
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.24777). Keywords: grpo. Status: pending-review.
 - Source: [[papers/2608.24777]] | https://huggingface.co/papers/2608.24777
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -1,15 +1,13 @@
 ---
-
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "What are the foundational skills and knowledge that most leverage the intersection of AI/ML and Finance? Work from basics — what does one actually need to master?"
 date: 2026-05-25
 type: permanent-question
-reviewed: 2026-05-25
+reviewed: 2026-09-02
 confidence: 0.95
-evidence_count: 20
-last_evidence_date: "2026-08-05" 
-
+evidence_count: 283
+last_evidence_date: 2026-09-01
 ---
 
 
@@ -892,6 +890,46 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-08-31: StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environmen
 
 ### 2026-08-31: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-U
+
+### 2026-09-01: Chain-of-Thought Faithfulness of Reasoning Models Varies with Where and How Pref
+
+### 2026-09-01: Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation a
+
+### 2026-09-01: Super Library Agent: Joint Generation and Maintenance of Multiple Applications B
+
+### 2026-09-01: SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Mo
+
+### 2026-09-01: LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigatio
+
+### 2026-09-01: Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation
+
+### 2026-09-01: SHAPE of Chain-of-Thought in Math Reasoning
+
+### 2026-09-01: Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superinte
+- HF trending paper (arxiv: 2608.31075). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.31075]] | https://huggingface.co/papers/2608.31075
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28600). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.28600]] | https://huggingface.co/papers/2608.28600
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24293). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.24293]] | https://huggingface.co/papers/2608.24293
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30935). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.30935]] | https://huggingface.co/papers/2608.30935
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29098). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.29098]] | https://huggingface.co/papers/2608.29098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29310). Keywords: portfolio. Status: pending-review.
+- Source: [[papers/2608.29310]] | https://huggingface.co/papers/2608.29310
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30795). Keywords: var, monte carlo. Status: pending-review.
+- Source: [[papers/2608.30795]] | https://huggingface.co/papers/2608.30795
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29464). Keywords: option, var. Status: pending-review.
+- Source: [[papers/2608.29464]] | https://huggingface.co/papers/2608.29464
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.24777). Keywords: risk. Status: pending-review.
 - Source: [[papers/2608.24777]] | https://huggingface.co/papers/2608.24777
 - Confidence: Low (auto-matched, not yet reviewed)

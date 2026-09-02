@@ -5,9 +5,10 @@ title: "Q07 — Post-60/40 Portfolio Construction"
 created: 2026-07-18
 tags: [question, methodology, finance, portfolio, macro]
 status: active
-confidence: 0.20
-evidence_count: 2
-last_evidence_date: "2026-07-18"
+confidence: 0.95
+evidence_count: 41
+last_evidence_date: 2026-09-02
+reviewed: 2026-09-02
 ---
 
 # Q07: How do you construct a portfolio when bonds no longer diversify equities?
@@ -131,6 +132,16 @@ If bonds/debt are too correlated to equities to serve as counterweights, what re
 ### 2026-08-27: FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling
 
 ### 2026-08-27: Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agen
+
+### 2026-09-01: MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual Multi
+
+### 2026-09-01: Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied
+- HF trending paper (arxiv: 2608.30428). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.30428]] | https://huggingface.co/papers/2608.30428
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29681). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.29681]] | https://huggingface.co/papers/2608.29681
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.24099). Keywords: tax. Status: pending-review.
 - Source: [[papers/2608.24099]] | https://huggingface.co/papers/2608.24099
 - Confidence: Low (auto-matched, not yet reviewed)
@@ -239,4 +250,8 @@ If bonds/debt are too correlated to equities to serve as counterweights, what re
 - Confidence: Low (auto-matched, not yet reviewed)
 - Full thesis at clawd/01.Signals-Macro/INVESTMENT-THESIS.md. Core positions: sector rotation (defensives for duration substitute), commodities (real assets for inflation hedge), cash (optionality at dislocations, not permanent), options overlay (tail-risk hedging). Skeptical of 60/40.
 - Source: [[kirk-won-investment-thesis]]
+- Confidence: High
+### 2026-09-02: QQQ/SCHD as 60/40 substitute — bonds vs cash equivalents
+- QQQ/SCHD is 100% equity (corr ~0.75–0.85): factor diversification, NOT a hedge. But post-2010 bond hedge is itself regime-dependent (failed 2022), so the "lost hedge" argument is weaker than textbook framing. Bonds vs HYS/0-3mo T-bills = duration risk for a thin/negative term premium; 2022-24 inversion meant the short end paid more with zero duration. Bonds still justified only for liability matching or occasional growth-scare diversification.
+- Source: [[generated/2026-08-31-qqq-schd-vs-60-40]]
 - Confidence: High

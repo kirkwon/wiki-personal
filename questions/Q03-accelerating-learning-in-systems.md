@@ -1,15 +1,13 @@
 ---
-
 tags: [permanent-question, research]
 created: 2026-05-25
 question: "What approaches meaningfully accelerate learning — curriculum learning, active learning, knowledge distillation, continual learning, few-shot adaptation? What tradeoffs matter?"
 date: 2026-05-25
 type: permanent-question
-reviewed: 2026-05-25
-confidence: 0.5499999999999999
-evidence_count: 9
-last_evidence_date: "2026-08-05" 
-
+reviewed: 2026-09-02
+confidence: 0.95
+evidence_count: 496
+last_evidence_date: 2026-09-01
 ---
 
 
@@ -1105,6 +1103,61 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 ### 2026-08-31: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-U
 
 ### 2026-08-31: LMSM: LLM Security Framework Inspired by Linux Security Modules
+
+### 2026-09-01: MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual Multi
+
+### 2026-09-01: Chain-of-Thought Faithfulness of Reasoning Models Varies with Where and How Pref
+
+### 2026-09-01: DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution
+
+### 2026-09-01: Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models
+
+### 2026-09-01: LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigatio
+
+### 2026-09-01: SHAPE of Chain-of-Thought in Math Reasoning
+
+### 2026-09-01: Dynamic Important Example Mining for Reinforcement Finetuning
+
+### 2026-09-01: CogEvol: Towards Efficient and Reliable Learning Environment Generation
+
+### 2026-09-01: Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superinte
+
+### 2026-09-01: PaperGym: Rubric-Centered Evolution for Research-Plan Generation
+
+### 2026-09-01: Cross-lingual Functional Vectors for Emotion Detection in Large Language Models
+- HF trending paper (arxiv: 2608.29613). Keywords: learning, few-shot, in-context learning. Status: pending-review.
+- Source: [[papers/2608.29613]] | https://huggingface.co/papers/2608.29613
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31119). Keywords: learning, grpo, fine-tuning. Status: pending-review.
+- Source: [[papers/2608.31119]] | https://huggingface.co/papers/2608.31119
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31075). Keywords: learning, curriculum, reasoning. Status: pending-review.
+- Source: [[papers/2608.31075]] | https://huggingface.co/papers/2608.31075
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30968). Keywords: learning, grpo. Status: pending-review.
+- Source: [[papers/2608.30968]] | https://huggingface.co/papers/2608.30968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29252). Keywords: learning, fine-tuning, reasoning. Status: pending-review.
+- Source: [[papers/2608.29252]] | https://huggingface.co/papers/2608.29252
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28600). Keywords: learning, reasoning. Status: pending-review.
+- Source: [[papers/2608.28600]] | https://huggingface.co/papers/2608.28600
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30935). Keywords: learning, fine-tuning, reasoning. Status: pending-review.
+- Source: [[papers/2608.30935]] | https://huggingface.co/papers/2608.30935
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29137). Keywords: fine-tuning. Status: pending-review.
+- Source: [[papers/2608.29137]] | https://huggingface.co/papers/2608.29137
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31106). Keywords: learning, prompt. Status: pending-review.
+- Source: [[papers/2608.31106]] | https://huggingface.co/papers/2608.31106
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29464). Keywords: reasoning, prompt. Status: pending-review.
+- Source: [[papers/2608.29464]] | https://huggingface.co/papers/2608.29464
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29681). Keywords: learning. Status: pending-review.
+- Source: [[papers/2608.29681]] | https://huggingface.co/papers/2608.29681
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.25697). Keywords: prompt, sparse. Status: pending-review.
 - Source: [[papers/2608.25697]] | https://huggingface.co/papers/2608.25697
 - Confidence: Low (auto-matched, not yet reviewed)
