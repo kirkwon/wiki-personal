@@ -622,6 +622,21 @@ _2026-05-25_ — Initial research position
 ### 2026-09-01: WebWorld: The Browser as a World Model for Self-Improving Web Code
 
 ### 2026-09-01: Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation
+
+### 2026-09-02: ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-
+
+### 2026-09-02: H3-World: Turning Language Understanding into World Control
+
+### 2026-09-02: ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Trans
+- HF trending paper (arxiv: 2609.00968). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2609.00968]] | https://huggingface.co/papers/2609.00968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01560). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.01560]] | https://huggingface.co/papers/2609.01560
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00188). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.00188]] | https://huggingface.co/papers/2609.00188
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.24293). Keywords: variational, diffusion, vae. Status: pending-review.
 - Source: [[papers/2608.24293]] | https://huggingface.co/papers/2608.24293
 - Confidence: Low (auto-matched, not yet reviewed)

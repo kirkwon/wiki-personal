@@ -906,6 +906,31 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-09-01: SHAPE of Chain-of-Thought in Math Reasoning
 
 ### 2026-09-01: Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superinte
+
+### 2026-09-02: From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers
+
+### 2026-09-02: Recursive Criticality of AI Self-Improvement
+
+### 2026-09-02: E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Oper
+
+### 2026-09-02: Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone
+
+### 2026-09-02: ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Trans
+- HF trending paper (arxiv: 2609.00968). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.00968]] | https://huggingface.co/papers/2609.00968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01404). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.01404]] | https://huggingface.co/papers/2609.01404
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30730). Keywords: market. Status: pending-review.
+- Source: [[papers/2608.30730]] | https://huggingface.co/papers/2608.30730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00137). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.00137]] | https://huggingface.co/papers/2609.00137
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01572). Keywords: option. Status: pending-review.
+- Source: [[papers/2609.01572]] | https://huggingface.co/papers/2609.01572
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.31075). Keywords: risk. Status: pending-review.
 - Source: [[papers/2608.31075]] | https://huggingface.co/papers/2608.31075
 - Confidence: Low (auto-matched, not yet reviewed)

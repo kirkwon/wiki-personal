@@ -1834,6 +1834,51 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-09-01: Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superinte
 
 ### 2026-09-01: PaperGym: Rubric-Centered Evolution for Research-Plan Generation
+
+### 2026-09-02: From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers
+
+### 2026-09-02: Recursive Criticality of AI Self-Improvement
+
+### 2026-09-02: Safin-1: Safety from Within through Memory-Native State Evolution
+
+### 2026-09-02: H3-World: Turning Language Understanding into World Control
+
+### 2026-09-02: StudentSim: Training LLM-based Student Simulators
+
+### 2026-09-02: Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models:
+
+### 2026-09-02: ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Trans
+
+### 2026-09-02: InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Rei
+
+### 2026-09-02: The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Co
+- HF trending paper (arxiv: 2608.27509). Keywords: dpo. Status: pending-review.
+- Source: [[papers/2608.27509]] | https://huggingface.co/papers/2608.27509
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28612). Keywords: reinforcement learning, alignment. Status: pending-review.
+- Source: [[papers/2608.28612]] | https://huggingface.co/papers/2608.28612
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00968). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2609.00968]] | https://huggingface.co/papers/2609.00968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01607). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2609.01607]] | https://huggingface.co/papers/2609.01607
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01591). Keywords: reinforcement learning, reward model. Status: pending-review.
+- Source: [[papers/2609.01591]] | https://huggingface.co/papers/2609.01591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01560). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.01560]] | https://huggingface.co/papers/2609.01560
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00092). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2609.00092]] | https://huggingface.co/papers/2609.00092
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00137). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2609.00137]] | https://huggingface.co/papers/2609.00137
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01572). Keywords: grpo. Status: pending-review.
+- Source: [[papers/2609.01572]] | https://huggingface.co/papers/2609.01572
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.31119). Keywords: reinforcement learning, grpo. Status: pending-review.
 - Source: [[papers/2608.31119]] | https://huggingface.co/papers/2608.31119
 - Confidence: Low (auto-matched, not yet reviewed)

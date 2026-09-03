@@ -1062,6 +1062,16 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-09-01: Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation
 
 ### 2026-09-01: Cross-lingual Functional Vectors for Emotion Detection in Large Language Models
+
+### 2026-09-02: ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-
+
+### 2026-09-02: H3-World: Turning Language Understanding into World Control
+- HF trending paper (arxiv: 2609.01560). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.01560]] | https://huggingface.co/papers/2609.01560
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00188). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.00188]] | https://huggingface.co/papers/2609.00188
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.29613). Keywords: attention, classification. Status: pending-review.
 - Source: [[papers/2608.29613]] | https://huggingface.co/papers/2608.29613
 - Confidence: Low (auto-matched, not yet reviewed)

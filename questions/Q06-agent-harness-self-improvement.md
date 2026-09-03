@@ -2365,6 +2365,66 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-01: Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superinte
 
 ### 2026-09-01: PaperGym: Rubric-Centered Evolution for Research-Plan Generation
+
+### 2026-09-02: DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation
+
+### 2026-09-02: Recursive Criticality of AI Self-Improvement
+
+### 2026-09-02: Agents in the Large: Perception-Centered Architecture for Persistent Agents
+
+### 2026-09-02: Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Imp
+
+### 2026-09-02: UI-Venus-2 Technical Report
+
+### 2026-09-02: ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-
+
+### 2026-09-02: E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Oper
+
+### 2026-09-02: StudentSim: Training LLM-based Student Simulators
+
+### 2026-09-02: Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs
+
+### 2026-09-02: ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Trans
+
+### 2026-09-02: InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Rei
+
+### 2026-09-02: The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Co
+- HF trending paper (arxiv: 2608.27509). Keywords: workflow, execution. Status: pending-review.
+- Source: [[papers/2608.27509]] | https://huggingface.co/papers/2608.27509
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28612). Keywords: agentic. Status: pending-review.
+- Source: [[papers/2608.28612]] | https://huggingface.co/papers/2608.28612
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00968). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.00968]] | https://huggingface.co/papers/2609.00968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00621). Keywords: multi-agent, workflow, execution. Status: pending-review.
+- Source: [[papers/2609.00621]] | https://huggingface.co/papers/2609.00621
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01591). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.01591]] | https://huggingface.co/papers/2609.01591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30730). Keywords: agentic, environment. Status: pending-review.
+- Source: [[papers/2608.30730]] | https://huggingface.co/papers/2608.30730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00188). Keywords: tool use, environment. Status: pending-review.
+- Source: [[papers/2609.00188]] | https://huggingface.co/papers/2609.00188
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00028). Keywords: gui, environment, execution. Status: pending-review.
+- Source: [[papers/2609.00028]] | https://huggingface.co/papers/2609.00028
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01481). Keywords: agent harness, planning, workflow, harness. Status: pending-review.
+- Source: [[papers/2609.01481]] | https://huggingface.co/papers/2609.01481
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30478). Keywords: gui, environment, execution. Status: pending-review.
+- Source: [[papers/2608.30478]] | https://huggingface.co/papers/2608.30478
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00137). Keywords: recursive, self-improvement, gui. Status: pending-review.
+- Source: [[papers/2609.00137]] | https://huggingface.co/papers/2609.00137
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00646). Keywords: agentic, workflow. Status: pending-review.
+- Source: [[papers/2609.00646]] | https://huggingface.co/papers/2609.00646
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.31119). Keywords: planning, environment. Status: pending-review.
 - Source: [[papers/2608.31119]] | https://huggingface.co/papers/2608.31119
 - Confidence: Low (auto-matched, not yet reviewed)
