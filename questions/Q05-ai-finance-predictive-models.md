@@ -1066,6 +1066,41 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-09-02: ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-
 
 ### 2026-09-02: H3-World: Turning Language Understanding into World Control
+
+### 2026-09-03: Wasserstein-Barycentric Interaction Fields for Spatial Factor Models: Evidence f
+
+### 2026-09-03: NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Eff
+
+### 2026-09-03: ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes
+
+### 2026-09-03: CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivat
+
+### 2026-09-03: EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction
+
+### 2026-09-03: Language Models Can Control Their Own Attention
+
+### 2026-09-03: Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
+- HF trending paper (arxiv: 2609.01532). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.01532]] | https://huggingface.co/papers/2609.01532
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02737). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.02737]] | https://huggingface.co/papers/2609.02737
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02783). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.02783]] | https://huggingface.co/papers/2609.02783
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01925). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.01925]] | https://huggingface.co/papers/2609.01925
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01740). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2609.01740]] | https://huggingface.co/papers/2609.01740
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01657). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2609.01657]] | https://huggingface.co/papers/2609.01657
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29669). Keywords: factor model. Status: pending-review.
+- Source: [[papers/2608.29669]] | https://huggingface.co/papers/2608.29669
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.01560). Keywords: attention. Status: pending-review.
 - Source: [[papers/2609.01560]] | https://huggingface.co/papers/2609.01560
 - Confidence: Low (auto-matched, not yet reviewed)

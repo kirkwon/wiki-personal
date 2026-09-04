@@ -254,6 +254,11 @@ If bonds/debt are too correlated to equities to serve as counterweights, what re
 ### 2026-09-02: QQQ/SCHD as 60/40 substitute — bonds vs cash equivalents
 
 ### 2026-09-02: Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs
+
+### 2026-09-03: RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Reques
+- HF trending paper (arxiv: 2608.27831). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.27831]] | https://huggingface.co/papers/2608.27831
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.00621). Keywords: insurance. Status: pending-review.
 - Source: [[papers/2609.00621]] | https://huggingface.co/papers/2609.00621
 - Confidence: Low (auto-matched, not yet reviewed)

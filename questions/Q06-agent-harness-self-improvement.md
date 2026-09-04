@@ -2389,6 +2389,76 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-02: InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Rei
 
 ### 2026-09-02: The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Co
+
+### 2026-09-03: Exploring Collaboration between a language and a non-language agent
+
+### 2026-09-03: Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Qu
+
+### 2026-09-03: HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?
+
+### 2026-09-03: Aspire: Can Models Self-Evolve from Vague Goals?
+
+### 2026-09-03: S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?
+
+### 2026-09-03: Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills
+
+### 2026-09-03: EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction
+
+### 2026-09-03: Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+
+### 2026-09-03: Kirin: Animal Motion Generation from In-the-Wild Video
+
+### 2026-09-03: PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specificat
+
+### 2026-09-03: ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrie
+
+### 2026-09-03: RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Reques
+
+### 2026-09-03: AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agent
+
+### 2026-09-03: Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured D
+- HF trending paper (arxiv: 2608.31082). Keywords: agentic. Status: pending-review.
+- Source: [[papers/2608.31082]] | https://huggingface.co/papers/2608.31082
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26623). Keywords: agentic, gui, workflow. Status: pending-review.
+- Source: [[papers/2608.26623]] | https://huggingface.co/papers/2608.26623
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27831). Keywords: gui, environment. Status: pending-review.
+- Source: [[papers/2608.27831]] | https://huggingface.co/papers/2608.27831
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01865). Keywords: code generation, environment, execution. Status: pending-review.
+- Source: [[papers/2609.01865]] | https://huggingface.co/papers/2609.01865
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02272). Keywords: code generation, code agent, gui. Status: pending-review.
+- Source: [[papers/2609.02272]] | https://huggingface.co/papers/2609.02272
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01823). Keywords: gui, environment. Status: pending-review.
+- Source: [[papers/2609.01823]] | https://huggingface.co/papers/2609.01823
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02849). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.02849]] | https://huggingface.co/papers/2609.02849
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02783). Keywords: agentic, gui, execution. Status: pending-review.
+- Source: [[papers/2609.02783]] | https://huggingface.co/papers/2609.02783
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02749). Keywords: autonomous agent, planning, harness, execution. Status: pending-review.
+- Source: [[papers/2609.02749]] | https://huggingface.co/papers/2609.02749
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31100). Keywords: self-improvement, environment. Status: pending-review.
+- Source: [[papers/2608.31100]] | https://huggingface.co/papers/2608.31100
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31111). Keywords: harness, environment. Status: pending-review.
+- Source: [[papers/2608.31111]] | https://huggingface.co/papers/2608.31111
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01437). Keywords: agent harness, harness, execution. Status: pending-review.
+- Source: [[papers/2609.01437]] | https://huggingface.co/papers/2609.01437
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21450). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.21450]] | https://huggingface.co/papers/2608.21450
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00474). Keywords: environment. Status: pending-review.
+- Source: [[papers/2609.00474]] | https://huggingface.co/papers/2609.00474
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.27509). Keywords: workflow, execution. Status: pending-review.
 - Source: [[papers/2608.27509]] | https://huggingface.co/papers/2608.27509
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -1852,6 +1852,86 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-09-02: InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Rei
 
 ### 2026-09-02: The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Co
+
+### 2026-09-03: Wasserstein-Barycentric Interaction Fields for Spatial Factor Models: Evidence f
+
+### 2026-09-03: NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Eff
+
+### 2026-09-03: Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Qu
+
+### 2026-09-03: A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss
+
+### 2026-09-03: Aspire: Can Models Self-Evolve from Vague Goals?
+
+### 2026-09-03: S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?
+
+### 2026-09-03: Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills
+
+### 2026-09-03: EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction
+
+### 2026-09-03: Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+
+### 2026-09-03: PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specificat
+
+### 2026-09-03: ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrie
+
+### 2026-09-03: MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information
+
+### 2026-09-03: SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models
+
+### 2026-09-03: Influence-Directed Distillation: Solving the Diversity Bottleneck in Sampled-Tok
+
+### 2026-09-03: Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
+
+### 2026-09-03: AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agent
+- HF trending paper (arxiv: 2608.26623). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.26623]] | https://huggingface.co/papers/2608.26623
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01532). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2609.01532]] | https://huggingface.co/papers/2609.01532
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29846). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2608.29846]] | https://huggingface.co/papers/2608.29846
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02886). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2609.02886]] | https://huggingface.co/papers/2609.02886
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30949). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.30949]] | https://huggingface.co/papers/2608.30949
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01865). Keywords: bootstrap. Status: pending-review.
+- Source: [[papers/2609.01865]] | https://huggingface.co/papers/2609.01865
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02272). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.02272]] | https://huggingface.co/papers/2609.02272
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02849). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2609.02849]] | https://huggingface.co/papers/2609.02849
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02783). Keywords: distillation. Status: pending-review.
+- Source: [[papers/2609.02783]] | https://huggingface.co/papers/2609.02783
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02749). Keywords: skill library, distillation. Status: pending-review.
+- Source: [[papers/2609.02749]] | https://huggingface.co/papers/2609.02749
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31100). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2608.31100]] | https://huggingface.co/papers/2608.31100
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31111). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.31111]] | https://huggingface.co/papers/2608.31111
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00591). Keywords: grpo. Status: pending-review.
+- Source: [[papers/2609.00591]] | https://huggingface.co/papers/2609.00591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21450). Keywords: alignment, distillation. Status: pending-review.
+- Source: [[papers/2608.21450]] | https://huggingface.co/papers/2608.21450
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01657). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.01657]] | https://huggingface.co/papers/2609.01657
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29669). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2608.29669]] | https://huggingface.co/papers/2608.29669
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.27509). Keywords: dpo. Status: pending-review.
 - Source: [[papers/2608.27509]] | https://huggingface.co/papers/2608.27509
 - Confidence: Low (auto-matched, not yet reviewed)

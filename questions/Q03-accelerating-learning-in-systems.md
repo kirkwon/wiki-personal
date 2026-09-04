@@ -1151,6 +1151,91 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 ### 2026-09-02: InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Rei
 
 ### 2026-09-02: The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Co
+
+### 2026-09-03: Debias-SparseGPT: Bias-Aware Pruning for Large Language Models
+
+### 2026-09-03: NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Eff
+
+### 2026-09-03: Exploring Collaboration between a language and a non-language agent
+
+### 2026-09-03: Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Model
+
+### 2026-09-03: A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss
+
+### 2026-09-03: CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivat
+
+### 2026-09-03: HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?
+
+### 2026-09-03: Aspire: Can Models Self-Evolve from Vague Goals?
+
+### 2026-09-03: S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?
+
+### 2026-09-03: Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills
+
+### 2026-09-03: Language Models Can Control Their Own Attention
+
+### 2026-09-03: Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+
+### 2026-09-03: Influence-Directed Distillation: Solving the Diversity Bottleneck in Sampled-Tok
+
+### 2026-09-03: RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Reques
+
+### 2026-09-03: Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
+
+### 2026-09-03: AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agent
+
+### 2026-09-03: Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured D
+- HF trending paper (arxiv: 2608.31082). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2608.31082]] | https://huggingface.co/papers/2608.31082
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26623). Keywords: reasoning, prompt. Status: pending-review.
+- Source: [[papers/2608.26623]] | https://huggingface.co/papers/2608.26623
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01532). Keywords: learning, reasoning, knowledge distillation. Status: pending-review.
+- Source: [[papers/2609.01532]] | https://huggingface.co/papers/2609.01532
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27831). Keywords: prompt. Status: pending-review.
+- Source: [[papers/2608.27831]] | https://huggingface.co/papers/2608.27831
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29846). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2608.29846]] | https://huggingface.co/papers/2608.29846
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02849). Keywords: learning, fine-tuning, reasoning. Status: pending-review.
+- Source: [[papers/2609.02849]] | https://huggingface.co/papers/2609.02849
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02737). Keywords: sparse. Status: pending-review.
+- Source: [[papers/2609.02737]] | https://huggingface.co/papers/2609.02737
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02749). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.02749]] | https://huggingface.co/papers/2609.02749
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31100). Keywords: lora. Status: pending-review.
+- Source: [[papers/2608.31100]] | https://huggingface.co/papers/2608.31100
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31111). Keywords: learning, sparse. Status: pending-review.
+- Source: [[papers/2608.31111]] | https://huggingface.co/papers/2608.31111
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01437). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.01437]] | https://huggingface.co/papers/2609.01437
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01925). Keywords: sparse. Status: pending-review.
+- Source: [[papers/2609.01925]] | https://huggingface.co/papers/2609.01925
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00591). Keywords: grpo, fine-tuning. Status: pending-review.
+- Source: [[papers/2609.00591]] | https://huggingface.co/papers/2609.00591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30751). Keywords: reasoning, prompt. Status: pending-review.
+- Source: [[papers/2608.30751]] | https://huggingface.co/papers/2608.30751
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00474). Keywords: sparse. Status: pending-review.
+- Source: [[papers/2609.00474]] | https://huggingface.co/papers/2609.00474
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01657). Keywords: fine-tuning, quantization. Status: pending-review.
+- Source: [[papers/2609.01657]] | https://huggingface.co/papers/2609.01657
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02496). Keywords: prompt, model compression, quantization, sparse. Status: pending-review.
+- Source: [[papers/2609.02496]] | https://huggingface.co/papers/2609.02496
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.27509). Keywords: dpo. Status: pending-review.
 - Source: [[papers/2608.27509]] | https://huggingface.co/papers/2608.27509
 - Confidence: Low (auto-matched, not yet reviewed)
