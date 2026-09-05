@@ -932,6 +932,46 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-09-03: ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrie
 
 ### 2026-09-03: RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Reques
+
+### 2026-09-04: Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Inva
+
+### 2026-09-04: Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Pos
+
+### 2026-09-04: Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
+
+### 2026-09-04: Rethinking On-Policy Distillation of Large Language Models II: One Training Exam
+
+### 2026-09-04: Environment Evolution for Terminal Agents
+
+### 2026-09-04: Principia: Relational Physics Tests for Video Models
+
+### 2026-09-04: Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Hal
+
+### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
+- HF trending paper (arxiv: 2609.01936). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04098). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.04098]] | https://huggingface.co/papers/2609.04098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04200). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.04200]] | https://huggingface.co/papers/2609.04200
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04128). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.04128]] | https://huggingface.co/papers/2609.04128
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04172). Keywords: stress test. Status: pending-review.
+- Source: [[papers/2609.04172]] | https://huggingface.co/papers/2609.04172
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04196). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.04196]] | https://huggingface.co/papers/2609.04196
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26730). Keywords: finance, option. Status: pending-review.
+- Source: [[papers/2608.26730]] | https://huggingface.co/papers/2608.26730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02373). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.02373]] | https://huggingface.co/papers/2609.02373
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.27831). Keywords: var. Status: pending-review.
 - Source: [[papers/2608.27831]] | https://huggingface.co/papers/2608.27831
 - Confidence: Low (auto-matched, not yet reviewed)

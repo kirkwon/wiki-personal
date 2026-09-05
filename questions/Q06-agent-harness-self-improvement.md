@@ -2417,6 +2417,46 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-03: AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agent
 
 ### 2026-09-03: Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured D
+
+### 2026-09-04: Using Grounded Theory for Agent Behavior Analysis at Scale
+
+### 2026-09-04: Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Pos
+
+### 2026-09-04: Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Unders
+
+### 2026-09-04: The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Vide
+
+### 2026-09-04: WorldReward: Reward Modeling for Camera-Conditioned World Models
+
+### 2026-09-04: Editable Visual Design
+
+### 2026-09-04: Environment Evolution for Terminal Agents
+
+### 2026-09-04: Replacing Training with Memory: Listwise Selection for Text-to-SQL
+- HF trending paper (arxiv: 2609.00834). Keywords: execution. Status: pending-review.
+- Source: [[papers/2609.00834]] | https://huggingface.co/papers/2609.00834
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04128). Keywords: agent harness, multi-agent, terminal agent, harness. Status: pending-review.
+- Source: [[papers/2609.04128]] | https://huggingface.co/papers/2609.04128
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04034). Keywords: planning, workflow. Status: pending-review.
+- Source: [[papers/2609.04034]] | https://huggingface.co/papers/2609.04034
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03952). Keywords: execution. Status: pending-review.
+- Source: [[papers/2609.03952]] | https://huggingface.co/papers/2609.03952
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02367). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.02367]] | https://huggingface.co/papers/2609.02367
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04131). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.04131]] | https://huggingface.co/papers/2609.04131
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26730). Keywords: function calling. Status: pending-review.
+- Source: [[papers/2608.26730]] | https://huggingface.co/papers/2608.26730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30391). Keywords: multi-agent. Status: pending-review.
+- Source: [[papers/2608.30391]] | https://huggingface.co/papers/2608.30391
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.31082). Keywords: agentic. Status: pending-review.
 - Source: [[papers/2608.31082]] | https://huggingface.co/papers/2608.31082
 - Confidence: Low (auto-matched, not yet reviewed)

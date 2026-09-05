@@ -1884,6 +1884,61 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-09-03: Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
 
 ### 2026-09-03: AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agent
+
+### 2026-09-04: DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agen
+
+### 2026-09-04: QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentati
+
+### 2026-09-04: Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Pos
+
+### 2026-09-04: Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
+
+### 2026-09-04: The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Vide
+
+### 2026-09-04: FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow
+
+### 2026-09-04: WorldReward: Reward Modeling for Camera-Conditioned World Models
+
+### 2026-09-04: Rethinking On-Policy Distillation of Large Language Models II: One Training Exam
+
+### 2026-09-04: Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Hal
+
+### 2026-09-04: An Empirical Study on Zero-Data Bootstrapping for Conversational Recommender Sys
+
+### 2026-09-04: Small Language Models as Judges for Rubric-Based Reinforcement Learning
+- HF trending paper (arxiv: 2608.30005). Keywords: reinforcement learning, reward model, grpo. Status: pending-review.
+- Source: [[papers/2608.30005]] | https://huggingface.co/papers/2608.30005
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2504.15476). Keywords: bootstrap. Status: pending-review.
+- Source: [[papers/2504.15476]] | https://huggingface.co/papers/2504.15476
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04098). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.04098]] | https://huggingface.co/papers/2609.04098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04172). Keywords: alignment, distillation. Status: pending-review.
+- Source: [[papers/2609.04172]] | https://huggingface.co/papers/2609.04172
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03952). Keywords: reward model. Status: pending-review.
+- Source: [[papers/2609.03952]] | https://huggingface.co/papers/2609.03952
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03563). Keywords: alignment, distillation. Status: pending-review.
+- Source: [[papers/2609.03563]] | https://huggingface.co/papers/2609.03563
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02367). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2609.02367]] | https://huggingface.co/papers/2609.02367
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04196). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.04196]] | https://huggingface.co/papers/2609.04196
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26730). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2608.26730]] | https://huggingface.co/papers/2608.26730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29253). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2608.29253]] | https://huggingface.co/papers/2608.29253
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04094). Keywords: reinforcement learning, grpo, verifiable reward. Status: pending-review.
+- Source: [[papers/2609.04094]] | https://huggingface.co/papers/2609.04094
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.26623). Keywords: alignment. Status: pending-review.
 - Source: [[papers/2608.26623]] | https://huggingface.co/papers/2608.26623
 - Confidence: Low (auto-matched, not yet reviewed)

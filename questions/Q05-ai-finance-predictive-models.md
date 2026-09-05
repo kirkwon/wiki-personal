@@ -1080,6 +1080,36 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-09-03: Language Models Can Control Their Own Attention
 
 ### 2026-09-03: Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
+
+### 2026-09-04: Using Grounded Theory for Agent Behavior Analysis at Scale
+
+### 2026-09-04: Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reco
+
+### 2026-09-04: Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Inva
+
+### 2026-09-04: Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning
+
+### 2026-09-04: Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Hal
+
+### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
+- HF trending paper (arxiv: 2609.01936). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04098). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04098]] | https://huggingface.co/papers/2609.04098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03430). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.03430]] | https://huggingface.co/papers/2609.03430
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02373). Keywords: neural network. Status: pending-review.
+- Source: [[papers/2609.02373]] | https://huggingface.co/papers/2609.02373
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04201). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04201]] | https://huggingface.co/papers/2609.04201
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30391). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.30391]] | https://huggingface.co/papers/2608.30391
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.01532). Keywords: prediction. Status: pending-review.
 - Source: [[papers/2609.01532]] | https://huggingface.co/papers/2609.01532
 - Confidence: Low (auto-matched, not yet reviewed)

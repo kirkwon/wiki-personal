@@ -648,6 +648,46 @@ _2026-05-25_ — Initial research position
 ### 2026-09-03: MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information
 
 ### 2026-09-03: SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models
+
+### 2026-09-04: QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentati
+
+### 2026-09-04: Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reco
+
+### 2026-09-04: Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
+
+### 2026-09-04: FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow
+
+### 2026-09-04: WorldReward: Reward Modeling for Camera-Conditioned World Models
+
+### 2026-09-04: Editable Visual Design
+
+### 2026-09-04: LatentPress: Context Compression Beyond Text and Vision
+
+### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
+- HF trending paper (arxiv: 2609.01936). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01507). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.01507]] | https://huggingface.co/papers/2609.01507
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04034). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2609.04034]] | https://huggingface.co/papers/2609.04034
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03952). Keywords: world model, geometry. Status: pending-review.
+- Source: [[papers/2609.03952]] | https://huggingface.co/papers/2609.03952
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03563). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.03563]] | https://huggingface.co/papers/2609.03563
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04196). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.04196]] | https://huggingface.co/papers/2609.04196
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04201). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.04201]] | https://huggingface.co/papers/2609.04201
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29253). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.29253]] | https://huggingface.co/papers/2608.29253
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.02886). Keywords: world model, geometry. Status: pending-review.
 - Source: [[papers/2609.02886]] | https://huggingface.co/papers/2609.02886
 - Confidence: Low (auto-matched, not yet reviewed)

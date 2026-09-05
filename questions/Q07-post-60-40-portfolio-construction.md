@@ -256,6 +256,11 @@ If bonds/debt are too correlated to equities to serve as counterweights, what re
 ### 2026-09-02: Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs
 
 ### 2026-09-03: RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Reques
+
+### 2026-09-04: Using Grounded Theory for Agent Behavior Analysis at Scale
+- HF trending paper (arxiv: 2608.30391). Keywords: tax. Status: pending-review.
+- Source: [[papers/2608.30391]] | https://huggingface.co/papers/2608.30391
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.27831). Keywords: tax. Status: pending-review.
 - Source: [[papers/2608.27831]] | https://huggingface.co/papers/2608.27831
 - Confidence: Low (auto-matched, not yet reviewed)
