@@ -1906,6 +1906,21 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-09-04: An Empirical Study on Zero-Data Bootstrapping for Conversational Recommender Sys
 
 ### 2026-09-04: Small Language Models as Judges for Rubric-Based Reinforcement Learning
+
+### 2026-09-05: A Common Measure of Communication for Speech Brain-Computer Interfaces
+
+### 2026-09-05: VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement
+
+### 2026-09-05: Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space
+- HF trending paper (arxiv: 2608.29188). Keywords: reinforcement learning, dpo, grpo, ppo. Status: pending-review.
+- Source: [[papers/2608.29188]] | https://huggingface.co/papers/2608.29188
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03153). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.03153]] | https://huggingface.co/papers/2609.03153
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02887). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.02887]] | https://huggingface.co/papers/2609.02887
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.30005). Keywords: reinforcement learning, reward model, grpo. Status: pending-review.
 - Source: [[papers/2608.30005]] | https://huggingface.co/papers/2608.30005
 - Confidence: Low (auto-matched, not yet reviewed)

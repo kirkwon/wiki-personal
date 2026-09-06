@@ -1225,6 +1225,16 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 ### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
 
 ### 2026-09-04: Small Language Models as Judges for Rubric-Based Reinforcement Learning
+
+### 2026-09-05: VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement
+
+### 2026-09-05: Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space
+- HF trending paper (arxiv: 2608.29188). Keywords: learning, dpo, grpo, reasoning. Status: pending-review.
+- Source: [[papers/2608.29188]] | https://huggingface.co/papers/2608.29188
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03153). Keywords: reasoning, prompt. Status: pending-review.
+- Source: [[papers/2609.03153]] | https://huggingface.co/papers/2609.03153
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.30005). Keywords: learning, grpo. Status: pending-review.
 - Source: [[papers/2608.30005]] | https://huggingface.co/papers/2608.30005
 - Confidence: Low (auto-matched, not yet reviewed)

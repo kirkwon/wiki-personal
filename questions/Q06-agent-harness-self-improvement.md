@@ -2433,6 +2433,16 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-04: Environment Evolution for Terminal Agents
 
 ### 2026-09-04: Replacing Training with Memory: Listwise Selection for Text-to-SQL
+
+### 2026-09-05: VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement
+
+### 2026-09-05: Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space
+- HF trending paper (arxiv: 2608.29188). Keywords: gui, execution. Status: pending-review.
+- Source: [[papers/2608.29188]] | https://huggingface.co/papers/2608.29188
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03153). Keywords: agentic, execution. Status: pending-review.
+- Source: [[papers/2609.03153]] | https://huggingface.co/papers/2609.03153
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.00834). Keywords: execution. Status: pending-review.
 - Source: [[papers/2609.00834]] | https://huggingface.co/papers/2609.00834
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -948,6 +948,11 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-09-04: Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Hal
 
 ### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
+
+### 2026-09-05: A Common Measure of Communication for Speech Brain-Computer Interfaces
+- HF trending paper (arxiv: 2609.02887). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.02887]] | https://huggingface.co/papers/2609.02887
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.01936). Keywords: var. Status: pending-review.
 - Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
 - Confidence: Low (auto-matched, not yet reviewed)

@@ -664,6 +664,11 @@ _2026-05-25_ — Initial research position
 ### 2026-09-04: LatentPress: Context Compression Beyond Text and Vision
 
 ### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
+
+### 2026-09-05: VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement
+- HF trending paper (arxiv: 2609.03153). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.03153]] | https://huggingface.co/papers/2609.03153
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.01936). Keywords: embedding. Status: pending-review.
 - Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
 - Confidence: Low (auto-matched, not yet reviewed)
