@@ -1,10 +1,13 @@
 ---
-slug: email-safety-system
+type: project
 title: Email Triage & Safety System
 status: active
+created: '2026-06-28T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 priority: P1
-created: 2026-06-28T00:00:00.000Z
-updated: 2026-06-28T00:00:00.000Z
+ingested_via: put_page
+ingested_at: '2026-09-08T13:00:21.795Z'
+source_kind: put_page
 ---
 
 # Email Triage & Safety System

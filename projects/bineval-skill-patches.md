@@ -1,10 +1,13 @@
 ---
-slug: bineval-skill-patches
+type: project
 title: BINEVAL Binary Evaluation Patches (6 Skills)
 status: completed
+created: '2026-06-28T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 priority: P2
-created: 2026-06-28T00:00:00.000Z
-updated: 2026-06-28T00:00:00.000Z
+ingested_via: put_page
+ingested_at: '2026-09-08T13:00:19.290Z'
+source_kind: put_page
 ---
 
 # BINEVAL Binary Evaluation Patches

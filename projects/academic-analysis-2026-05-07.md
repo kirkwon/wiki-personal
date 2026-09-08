@@ -1,10 +1,13 @@
 ---
-slug: academic-analysis-2026-05-07
+type: project
 title: Academic Paper Analysis Project
 status: active
+created: '2026-05-07T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 priority: P3
-created: 2026-05-07T00:00:00.000Z
-updated: 2026-06-28T00:00:00.000Z
+ingested_via: put_page
+ingested_at: '2026-09-08T13:00:18.539Z'
+source_kind: put_page
 ---
 
 # Academic Paper Analysis Project

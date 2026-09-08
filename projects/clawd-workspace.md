@@ -1,10 +1,13 @@
 ---
-slug: clawd-workspace
+type: project
 title: Clawd Workspace Infrastructure
 status: active
+created: '2026-06-28T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 priority: P3
-created: 2026-06-28T00:00:00.000Z
-updated: 2026-06-28T00:00:00.000Z
+ingested_via: put_page
+ingested_at: '2026-09-08T13:00:21.178Z'
+source_kind: put_page
 ---
 
 # Clawd Workspace Infrastructure

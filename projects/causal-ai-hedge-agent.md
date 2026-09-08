@@ -1,10 +1,13 @@
 ---
-slug: causal-ai-hedge-agent
+type: project
 title: Causal AI & Hedge Agent
 status: active
+created: '2026-06-28T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 priority: P2
-created: 2026-06-28T00:00:00.000Z
-updated: 2026-06-28T00:00:00.000Z
+ingested_via: put_page
+ingested_at: '2026-09-08T13:00:20.556Z'
+source_kind: put_page
 ---
 
 # Causal AI & Hedge Agent

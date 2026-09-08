@@ -1,10 +1,13 @@
 ---
-slug: memory-tier-system
+type: project
 title: Memory Tier System (4-Tier HOT/WARM/COOL/COLD)
 status: active
+created: '2026-06-28T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 priority: P1
-created: 2026-06-28T00:00:00.000Z
-updated: 2026-06-28T00:00:00.000Z
+ingested_via: put_page
+ingested_at: '2026-09-08T13:00:25.806Z'
+source_kind: put_page
 ---
 
 # Memory Tier System

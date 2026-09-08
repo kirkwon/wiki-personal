@@ -1912,6 +1912,66 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-09-05: VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement
 
 ### 2026-09-05: Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space
+
+### 2026-09-07: Dr. Claw: An AI Scientist Workspace for Vibe Research
+
+### 2026-09-07: UniMate: One Unified Model to Animate Diverse Skeletons
+
+### 2026-09-07: One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Edit
+
+### 2026-09-07: Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reason
+
+### 2026-09-07: Training-Free Speech-Centric Omni Understanding with Frozen VLMs
+
+### 2026-09-07: The Attention Triangle in Audio-Video Models
+
+### 2026-09-07: Enoki: Efficient Multi-Level Hallucination Detection
+
+### 2026-09-07: Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive O
+
+### 2026-09-07: Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue
+
+### 2026-09-07: When Models Edit Too Much: On the Fidelity of Minimal Code Edits
+
+### 2026-09-07: RISE: Recursive Improvement via Self-Extrapolating Policy Distillation
+
+### 2026-09-07: Group Adaptive Clipping Policy Optimization
+- HF trending paper (arxiv: 2609.00444). Keywords: reinforcement learning, grpo, ppo, policy optimization. Status: pending-review.
+- Source: [[papers/2609.00444]] | https://huggingface.co/papers/2609.00444
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05295). Keywords: rlvr, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2609.05295]] | https://huggingface.co/papers/2609.05295
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04061). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2609.04061]] | https://huggingface.co/papers/2609.04061
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04250). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2609.04250]] | https://huggingface.co/papers/2609.04250
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05258). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.05258]] | https://huggingface.co/papers/2609.05258
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00581). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2609.00581]] | https://huggingface.co/papers/2609.00581
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03586). Keywords: alignment, ppo. Status: pending-review.
+- Source: [[papers/2609.03586]] | https://huggingface.co/papers/2609.03586
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04242). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2609.04242]] | https://huggingface.co/papers/2609.04242
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04753). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2609.04753]] | https://huggingface.co/papers/2609.04753
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04190). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.04190]] | https://huggingface.co/papers/2609.04190
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05415). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.05415]] | https://huggingface.co/papers/2609.05415
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00365). Keywords: skill library. Status: pending-review.
+- Source: [[papers/2609.00365]] | https://huggingface.co/papers/2609.00365
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.29188). Keywords: reinforcement learning, dpo, grpo, ppo. Status: pending-review.
 - Source: [[papers/2608.29188]] | https://huggingface.co/papers/2608.29188
 - Confidence: Low (auto-matched, not yet reviewed)

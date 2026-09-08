@@ -1092,6 +1092,41 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-09-04: Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Hal
 
 ### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
+
+### 2026-09-07: The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Gener
+
+### 2026-09-07: UniMate: One Unified Model to Animate Diverse Skeletons
+
+### 2026-09-07: One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Edit
+
+### 2026-09-07: Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reason
+
+### 2026-09-07: The Attention Triangle in Audio-Video Models
+
+### 2026-09-07: ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding
+
+### 2026-09-07: Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inf
+- HF trending paper (arxiv: 2609.05275). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2609.05275]] | https://huggingface.co/papers/2609.05275
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02780). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.02780]] | https://huggingface.co/papers/2609.02780
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03586). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.03586]] | https://huggingface.co/papers/2609.03586
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04753). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04753]] | https://huggingface.co/papers/2609.04753
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04190). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04190]] | https://huggingface.co/papers/2609.04190
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05415). Keywords: transformer, attention. Status: pending-review.
+- Source: [[papers/2609.05415]] | https://huggingface.co/papers/2609.05415
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03231). Keywords: classification. Status: pending-review.
+- Source: [[papers/2609.03231]] | https://huggingface.co/papers/2609.03231
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.01936). Keywords: prediction. Status: pending-review.
 - Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
 - Confidence: Low (auto-matched, not yet reviewed)

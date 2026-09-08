@@ -2437,6 +2437,61 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-05: VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement
 
 ### 2026-09-05: Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space
+
+### 2026-09-07: Dr. Claw: An AI Scientist Workspace for Vibe Research
+
+### 2026-09-07: The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Gener
+
+### 2026-09-07: UniMate: One Unified Model to Animate Diverse Skeletons
+
+### 2026-09-07: One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Edit
+
+### 2026-09-07: Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reason
+
+### 2026-09-07: Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Sys
+
+### 2026-09-07: The Attention Triangle in Audio-Video Models
+
+### 2026-09-07: To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generatio
+
+### 2026-09-07: Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive O
+
+### 2026-09-07: MaxKernel: Agentic Kernel Generation for TPUs
+
+### 2026-09-07: RISE: Recursive Improvement via Self-Extrapolating Policy Distillation
+- HF trending paper (arxiv: 2609.05295). Keywords: recursive, agentic, code generation. Status: pending-review.
+- Source: [[papers/2609.05295]] | https://huggingface.co/papers/2609.05295
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04523). Keywords: agentic, multi-agent, planning. Status: pending-review.
+- Source: [[papers/2609.04523]] | https://huggingface.co/papers/2609.04523
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05258). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.05258]] | https://huggingface.co/papers/2609.05258
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05879). Keywords: planning, environment. Status: pending-review.
+- Source: [[papers/2608.05879]] | https://huggingface.co/papers/2608.05879
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03586). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.03586]] | https://huggingface.co/papers/2609.03586
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02750). Keywords: multi-agent, gui, environment. Status: pending-review.
+- Source: [[papers/2609.02750]] | https://huggingface.co/papers/2609.02750
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04753). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.04753]] | https://huggingface.co/papers/2609.04753
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04190). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.04190]] | https://huggingface.co/papers/2609.04190
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05415). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.05415]] | https://huggingface.co/papers/2609.05415
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03231). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.03231]] | https://huggingface.co/papers/2609.03231
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00365). Keywords: autonomous agent, planning, orchestration, workflow. Status: pending-review.
+- Source: [[papers/2609.00365]] | https://huggingface.co/papers/2609.00365
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.29188). Keywords: gui, execution. Status: pending-review.
 - Source: [[papers/2608.29188]] | https://huggingface.co/papers/2608.29188
 - Confidence: Low (auto-matched, not yet reviewed)

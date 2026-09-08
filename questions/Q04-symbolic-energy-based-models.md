@@ -666,6 +666,21 @@ _2026-05-25_ — Initial research position
 ### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
 
 ### 2026-09-05: VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement
+
+### 2026-09-07: UniMate: One Unified Model to Animate Diverse Skeletons
+
+### 2026-09-07: The Attention Triangle in Audio-Video Models
+
+### 2026-09-07: To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generatio
+- HF trending paper (arxiv: 2608.05879). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.05879]] | https://huggingface.co/papers/2608.05879
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03586). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2609.03586]] | https://huggingface.co/papers/2609.03586
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05415). Keywords: diffusion, embedding, topology. Status: pending-review.
+- Source: [[papers/2609.05415]] | https://huggingface.co/papers/2609.05415
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.03153). Keywords: world model. Status: pending-review.
 - Source: [[papers/2609.03153]] | https://huggingface.co/papers/2609.03153
 - Confidence: Low (auto-matched, not yet reviewed)

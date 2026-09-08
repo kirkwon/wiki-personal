@@ -1,10 +1,13 @@
 ---
-slug: loop-engineering
+type: project
 title: Loop Engineering
 status: active
+created: '2026-06-28T00:00:00.000Z'
+updated: '2026-06-28T00:00:00.000Z'
 priority: P2
-created: 2026-06-28T00:00:00.000Z
-updated: 2026-06-28T00:00:00.000Z
+ingested_via: put_page
+ingested_at: '2026-09-08T13:00:23.761Z'
+source_kind: put_page
 ---
 
 # Loop Engineering

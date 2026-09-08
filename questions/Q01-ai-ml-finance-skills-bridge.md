@@ -950,6 +950,41 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-09-04: Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
 
 ### 2026-09-05: A Common Measure of Communication for Speech Brain-Computer Interfaces
+
+### 2026-09-07: Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Sys
+
+### 2026-09-07: ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding
+
+### 2026-09-07: AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recogniti
+
+### 2026-09-07: Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive O
+
+### 2026-09-07: Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue
+
+### 2026-09-07: When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Tem
+
+### 2026-09-07: Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inf
+- HF trending paper (arxiv: 2609.05275). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.05275]] | https://huggingface.co/papers/2609.05275
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04490). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.04490]] | https://huggingface.co/papers/2609.04490
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04250). Keywords: option. Status: pending-review.
+- Source: [[papers/2609.04250]] | https://huggingface.co/papers/2609.04250
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05258). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.05258]] | https://huggingface.co/papers/2609.05258
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04369). Keywords: risk, var. Status: pending-review.
+- Source: [[papers/2609.04369]] | https://huggingface.co/papers/2609.04369
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02780). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.02780]] | https://huggingface.co/papers/2609.02780
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02750). Keywords: risk. Status: pending-review.
+- Source: [[papers/2609.02750]] | https://huggingface.co/papers/2609.02750
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.02887). Keywords: quant. Status: pending-review.
 - Source: [[papers/2609.02887]] | https://huggingface.co/papers/2609.02887
 - Confidence: Low (auto-matched, not yet reviewed)
