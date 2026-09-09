@@ -1,0 +1,611 @@
+---
+type: evidence
+title: Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing
+date: '2026-09-08T00:00:00.000Z'
+parent_question: Q01
+ingested_via: put_page
+ingested_at: '2026-09-09T09:28:59.163Z'
+source_kind: put_page
+tags:
+  - evidence
+  - permanent-question
+---
+
+# Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing
+
+- HF trending paper (arxiv: 2608.24263). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.24263]] | https://huggingface.co/papers/2608.24263
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01281). Keywords: option. Status: pending-review.
+- Source: [[papers/2609.01281]] | https://huggingface.co/papers/2609.01281
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03003). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.03003]] | https://huggingface.co/papers/2609.03003
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05275). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.05275]] | https://huggingface.co/papers/2609.05275
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04490). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.04490]] | https://huggingface.co/papers/2609.04490
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04250). Keywords: option. Status: pending-review.
+- Source: [[papers/2609.04250]] | https://huggingface.co/papers/2609.04250
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05258). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.05258]] | https://huggingface.co/papers/2609.05258
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04369). Keywords: risk, var. Status: pending-review.
+- Source: [[papers/2609.04369]] | https://huggingface.co/papers/2609.04369
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02780). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.02780]] | https://huggingface.co/papers/2609.02780
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02750). Keywords: risk. Status: pending-review.
+- Source: [[papers/2609.02750]] | https://huggingface.co/papers/2609.02750
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02887). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.02887]] | https://huggingface.co/papers/2609.02887
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01936). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04098). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.04098]] | https://huggingface.co/papers/2609.04098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04200). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.04200]] | https://huggingface.co/papers/2609.04200
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04128). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.04128]] | https://huggingface.co/papers/2609.04128
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04172). Keywords: stress test. Status: pending-review.
+- Source: [[papers/2609.04172]] | https://huggingface.co/papers/2609.04172
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04196). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.04196]] | https://huggingface.co/papers/2609.04196
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26730). Keywords: finance, option. Status: pending-review.
+- Source: [[papers/2608.26730]] | https://huggingface.co/papers/2608.26730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02373). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.02373]] | https://huggingface.co/papers/2609.02373
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27831). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.27831]] | https://huggingface.co/papers/2608.27831
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01865). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.01865]] | https://huggingface.co/papers/2609.01865
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01437). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.01437]] | https://huggingface.co/papers/2609.01437
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00591). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.00591]] | https://huggingface.co/papers/2609.00591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21450). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.21450]] | https://huggingface.co/papers/2608.21450
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01657). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.01657]] | https://huggingface.co/papers/2609.01657
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29692). Keywords: portfolio, risk, volatility, var. Status: pending-review.
+- Source: [[papers/2608.29692]] | https://huggingface.co/papers/2608.29692
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02496). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2609.02496]] | https://huggingface.co/papers/2609.02496
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00968). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.00968]] | https://huggingface.co/papers/2609.00968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01404). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.01404]] | https://huggingface.co/papers/2609.01404
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30730). Keywords: market. Status: pending-review.
+- Source: [[papers/2608.30730]] | https://huggingface.co/papers/2608.30730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00137). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.00137]] | https://huggingface.co/papers/2609.00137
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01572). Keywords: option. Status: pending-review.
+- Source: [[papers/2609.01572]] | https://huggingface.co/papers/2609.01572
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31075). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.31075]] | https://huggingface.co/papers/2608.31075
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28600). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.28600]] | https://huggingface.co/papers/2608.28600
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24293). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.24293]] | https://huggingface.co/papers/2608.24293
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30935). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.30935]] | https://huggingface.co/papers/2608.30935
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29098). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.29098]] | https://huggingface.co/papers/2608.29098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29310). Keywords: portfolio. Status: pending-review.
+- Source: [[papers/2608.29310]] | https://huggingface.co/papers/2608.29310
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30795). Keywords: var, monte carlo. Status: pending-review.
+- Source: [[papers/2608.30795]] | https://huggingface.co/papers/2608.30795
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29464). Keywords: option, var. Status: pending-review.
+- Source: [[papers/2608.29464]] | https://huggingface.co/papers/2608.29464
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24777). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.24777]] | https://huggingface.co/papers/2608.24777
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24804). Keywords: finance. Status: pending-review.
+- Source: [[papers/2608.24804]] | https://huggingface.co/papers/2608.24804
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27370). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.27370]] | https://huggingface.co/papers/2608.27370
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23149). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.23149]] | https://huggingface.co/papers/2608.23149
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27455). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.27455]] | https://huggingface.co/papers/2608.27455
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23943). Keywords: option, var. Status: pending-review.
+- Source: [[papers/2608.23943]] | https://huggingface.co/papers/2608.23943
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27260). Keywords: option, var. Status: pending-review.
+- Source: [[papers/2608.27260]] | https://huggingface.co/papers/2608.27260
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26872). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.26872]] | https://huggingface.co/papers/2608.26872
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15763). Keywords: market, var. Status: pending-review.
+- Source: [[papers/2608.15763]] | https://huggingface.co/papers/2608.15763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25500). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.25500]] | https://huggingface.co/papers/2608.25500
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24569). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.24569]] | https://huggingface.co/papers/2608.24569
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23918). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.23918]] | https://huggingface.co/papers/2608.23918
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24189). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.24189]] | https://huggingface.co/papers/2608.24189
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23318). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.23318]] | https://huggingface.co/papers/2608.23318
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24979). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.24979]] | https://huggingface.co/papers/2608.24979
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24479). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.24479]] | https://huggingface.co/papers/2608.24479
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15062). Keywords: trading. Status: pending-review.
+- Source: [[papers/2608.15062]] | https://huggingface.co/papers/2608.15062
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19556). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.19556]] | https://huggingface.co/papers/2608.19556
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23383). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.23383]] | https://huggingface.co/papers/2608.23383
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25625). Keywords: finance, var. Status: pending-review.
+- Source: [[papers/2608.25625]] | https://huggingface.co/papers/2608.25625
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25204). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.25204]] | https://huggingface.co/papers/2608.25204
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14652). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.14652]] | https://huggingface.co/papers/2608.14652
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25832). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.25832]] | https://huggingface.co/papers/2608.25832
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22614). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.22614]] | https://huggingface.co/papers/2608.22614
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22876). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.22876]] | https://huggingface.co/papers/2608.22876
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24735). Keywords: sharpe. Status: pending-review.
+- Source: [[papers/2608.24735]] | https://huggingface.co/papers/2608.24735
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23566). Keywords: monte carlo. Status: pending-review.
+- Source: [[papers/2608.23566]] | https://huggingface.co/papers/2608.23566
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24053). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.24053]] | https://huggingface.co/papers/2608.24053
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24882). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.24882]] | https://huggingface.co/papers/2608.24882
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23740). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.23740]] | https://huggingface.co/papers/2608.23740
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23691). Keywords: alpha. Status: pending-review.
+- Source: [[papers/2608.23691]] | https://huggingface.co/papers/2608.23691
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20958). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.20958]] | https://huggingface.co/papers/2608.20958
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20430). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.20430]] | https://huggingface.co/papers/2608.20430
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23283). Keywords: finance. Status: pending-review.
+- Source: [[papers/2608.23283]] | https://huggingface.co/papers/2608.23283
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22856). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.22856]] | https://huggingface.co/papers/2608.22856
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17336). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.17336]] | https://huggingface.co/papers/2608.17336
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20169). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.20169]] | https://huggingface.co/papers/2608.20169
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2606.13610). Keywords: risk, var. Status: pending-review.
+- Source: [[papers/2606.13610]] | https://huggingface.co/papers/2606.13610
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23189). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.23189]] | https://huggingface.co/papers/2608.23189
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23392). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.23392]] | https://huggingface.co/papers/2608.23392
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13914). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.13914]] | https://huggingface.co/papers/2608.13914
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21486). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.21486]] | https://huggingface.co/papers/2608.21486
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20953). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.20953]] | https://huggingface.co/papers/2608.20953
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23252). Keywords: portfolio. Status: pending-review.
+- Source: [[papers/2608.23252]] | https://huggingface.co/papers/2608.23252
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20634). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.20634]] | https://huggingface.co/papers/2608.20634
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21360). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.21360]] | https://huggingface.co/papers/2608.21360
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16647). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.16647]] | https://huggingface.co/papers/2608.16647
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20886). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.20886]] | https://huggingface.co/papers/2608.20886
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20574). Keywords: portfolio. Status: pending-review.
+- Source: [[papers/2608.20574]] | https://huggingface.co/papers/2608.20574
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16425). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.16425]] | https://huggingface.co/papers/2608.16425
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20438). Keywords: stress test, var. Status: pending-review.
+- Source: [[papers/2608.20438]] | https://huggingface.co/papers/2608.20438
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15767). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.15767]] | https://huggingface.co/papers/2608.15767
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15888). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.15888]] | https://huggingface.co/papers/2608.15888
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16490). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.16490]] | https://huggingface.co/papers/2608.16490
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19861). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.19861]] | https://huggingface.co/papers/2608.19861
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14022). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.14022]] | https://huggingface.co/papers/2608.14022
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19758). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.19758]] | https://huggingface.co/papers/2608.19758
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19936). Keywords: risk, quant, var. Status: pending-review.
+- Source: [[papers/2608.19936]] | https://huggingface.co/papers/2608.19936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18423). Keywords: market. Status: pending-review.
+- Source: [[papers/2608.18423]] | https://huggingface.co/papers/2608.18423
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18171). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.18171]] | https://huggingface.co/papers/2608.18171
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14929). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.14929]] | https://huggingface.co/papers/2608.14929
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18701). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.18701]] | https://huggingface.co/papers/2608.18701
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18746). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.18746]] | https://huggingface.co/papers/2608.18746
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11947). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.11947]] | https://huggingface.co/papers/2608.11947
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16002). Keywords: risk, quant. Status: pending-review.
+- Source: [[papers/2608.16002]] | https://huggingface.co/papers/2608.16002
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17800). Keywords: market, option. Status: pending-review.
+- Source: [[papers/2608.17800]] | https://huggingface.co/papers/2608.17800
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17988). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.17988]] | https://huggingface.co/papers/2608.17988
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18076). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.18076]] | https://huggingface.co/papers/2608.18076
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17597). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.17597]] | https://huggingface.co/papers/2608.17597
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18063). Keywords: sharpe. Status: pending-review.
+- Source: [[papers/2608.18063]] | https://huggingface.co/papers/2608.18063
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17050). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.17050]] | https://huggingface.co/papers/2608.17050
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14036). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.14036]] | https://huggingface.co/papers/2608.14036
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16793). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.16793]] | https://huggingface.co/papers/2608.16793
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13556). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.13556]] | https://huggingface.co/papers/2608.13556
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16391). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.16391]] | https://huggingface.co/papers/2608.16391
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15930). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.15930]] | https://huggingface.co/papers/2608.15930
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16884). Keywords: alpha. Status: pending-review.
+- Source: [[papers/2608.16884]] | https://huggingface.co/papers/2608.16884
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15022). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.15022]] | https://huggingface.co/papers/2608.15022
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14614). Keywords: market, quant. Status: pending-review.
+- Source: [[papers/2608.14614]] | https://huggingface.co/papers/2608.14614
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15659). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.15659]] | https://huggingface.co/papers/2608.15659
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16765). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.16765]] | https://huggingface.co/papers/2608.16765
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15669). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.15669]] | https://huggingface.co/papers/2608.15669
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14639). Keywords: risk, alpha, var. Status: pending-review.
+- Source: [[papers/2608.14639]] | https://huggingface.co/papers/2608.14639
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13417). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.13417]] | https://huggingface.co/papers/2608.13417
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14391). Keywords: risk, var. Status: pending-review.
+- Source: [[papers/2608.14391]] | https://huggingface.co/papers/2608.14391
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00220). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.00220]] | https://huggingface.co/papers/2608.00220
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14546). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.14546]] | https://huggingface.co/papers/2608.14546
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10835). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.10835]] | https://huggingface.co/papers/2608.10835
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14075). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.14075]] | https://huggingface.co/papers/2608.14075
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03744). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.03744]] | https://huggingface.co/papers/2608.03744
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13760). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.13760]] | https://huggingface.co/papers/2608.13760
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11045). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.11045]] | https://huggingface.co/papers/2608.11045
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12836). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.12836]] | https://huggingface.co/papers/2608.12836
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08975). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.08975]] | https://huggingface.co/papers/2608.08975
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12990). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.12990]] | https://huggingface.co/papers/2608.12990
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07545). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.07545]] | https://huggingface.co/papers/2608.07545
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.29211). Keywords: risk. Status: pending-review.
+- Source: [[papers/2607.29211]] | https://huggingface.co/papers/2607.29211
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13430). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.13430]] | https://huggingface.co/papers/2608.13430
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11951). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.11951]] | https://huggingface.co/papers/2608.11951
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12313). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.12313]] | https://huggingface.co/papers/2608.12313
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11660). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.11660]] | https://huggingface.co/papers/2608.11660
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13391). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.13391]] | https://huggingface.co/papers/2608.13391
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11562). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.11562]] | https://huggingface.co/papers/2608.11562
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00677). Keywords: risk, var. Status: pending-review.
+- Source: [[papers/2608.00677]] | https://huggingface.co/papers/2608.00677
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10615). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.10615]] | https://huggingface.co/papers/2608.10615
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11215). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.11215]] | https://huggingface.co/papers/2608.11215
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09805). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.09805]] | https://huggingface.co/papers/2608.09805
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05604). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.05604]] | https://huggingface.co/papers/2608.05604
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07346). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.07346]] | https://huggingface.co/papers/2608.07346
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03499). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.03499]] | https://huggingface.co/papers/2608.03499
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05136). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.05136]] | https://huggingface.co/papers/2608.05136
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03887). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.03887]] | https://huggingface.co/papers/2608.03887
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08621). Keywords: trading, market. Status: pending-review.
+- Source: [[papers/2608.08621]] | https://huggingface.co/papers/2608.08621
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08477). Keywords: volatility, var. Status: pending-review.
+- Source: [[papers/2608.08477]] | https://huggingface.co/papers/2608.08477
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10744). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.10744]] | https://huggingface.co/papers/2608.10744
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10692). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.10692]] | https://huggingface.co/papers/2608.10692
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11205). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.11205]] | https://huggingface.co/papers/2608.11205
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09900). Keywords: stress test. Status: pending-review.
+- Source: [[papers/2608.09900]] | https://huggingface.co/papers/2608.09900
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10288). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.10288]] | https://huggingface.co/papers/2608.10288
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07346). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.07346]] | https://huggingface.co/papers/2608.07346
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03499). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.03499]] | https://huggingface.co/papers/2608.03499
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05136). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.05136]] | https://huggingface.co/papers/2608.05136
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07110). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.07110]] | https://huggingface.co/papers/2608.07110
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05703). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.05703]] | https://huggingface.co/papers/2608.05703
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03573). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.03573]] | https://huggingface.co/papers/2608.03573
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2603.18846). Keywords: var. Status: pending-review.
+- Source: [[papers/2603.18846]] | https://huggingface.co/papers/2603.18846
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06756). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.06756]] | https://huggingface.co/papers/2608.06756
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03796). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.03796]] | https://huggingface.co/papers/2608.03796
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04378). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.04378]] | https://huggingface.co/papers/2608.04378
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06301). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.06301]] | https://huggingface.co/papers/2608.06301
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05802). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.05802]] | https://huggingface.co/papers/2608.05802
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05137). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.05137]] | https://huggingface.co/papers/2608.05137
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06146). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.06146]] | https://huggingface.co/papers/2608.06146
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06020). Keywords: market. Status: pending-review.
+- Source: [[papers/2608.06020]] | https://huggingface.co/papers/2608.06020
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05850). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.05850]] | https://huggingface.co/papers/2608.05850
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01481). Keywords: risk, quant. Status: pending-review.
+- Source: [[papers/2608.01481]] | https://huggingface.co/papers/2608.01481
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03451). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.03451]] | https://huggingface.co/papers/2608.03451
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02703). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.02703]] | https://huggingface.co/papers/2608.02703
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.22143). Keywords: var. Status: pending-review.
+- Source: [[papers/2607.22143]] | https://huggingface.co/papers/2607.22143
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05070). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.05070]] | https://huggingface.co/papers/2608.05070
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04397). Keywords: sharpe, var. Status: pending-review.
+- Source: [[papers/2608.04397]] | https://huggingface.co/papers/2608.04397
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00782). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.00782]] | https://huggingface.co/papers/2608.00782
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03764). Keywords: finance. Status: pending-review.
+- Source: [[papers/2608.03764]] | https://huggingface.co/papers/2608.03764
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04244). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.04244]] | https://huggingface.co/papers/2608.04244
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00155). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.00155]] | https://huggingface.co/papers/2608.00155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03971). Keywords: alpha. Status: pending-review.
+- Source: [[papers/2608.03971]] | https://huggingface.co/papers/2608.03971
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03509). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.03509]] | https://huggingface.co/papers/2608.03509
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02589). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2608.02589]] | https://huggingface.co/papers/2608.02589
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01837). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.01837]] | https://huggingface.co/papers/2608.01837
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.26451). Keywords: quant, option. Status: pending-review.
+- Source: [[papers/2607.26451]] | https://huggingface.co/papers/2607.26451
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00730). Keywords: risk, var. Status: pending-review.
+- Source: [[papers/2608.00730]] | https://huggingface.co/papers/2608.00730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03979). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.03979]] | https://huggingface.co/papers/2608.03979
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03700). Keywords: risk. Status: pending-review.
+- Source: [[papers/2608.03700]] | https://huggingface.co/papers/2608.03700
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03457). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.03457]] | https://huggingface.co/papers/2608.03457
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02218). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.02218]] | https://huggingface.co/papers/2608.02218
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03874). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.03874]] | https://huggingface.co/papers/2608.03874
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02791). Keywords: option. Status: pending-review.
+- Source: [[papers/2608.02791]] | https://huggingface.co/papers/2608.02791
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03507). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.03507]] | https://huggingface.co/papers/2608.03507
+- Confidence: Low (auto-matched, not yet reviewed)
+- Source: [[portfolio-dashboard.md]]
+- Confidence: Medium

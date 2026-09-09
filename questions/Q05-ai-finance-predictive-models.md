@@ -6,8 +6,8 @@ date: 2026-05-25
 type: permanent-question
 reviewed: 2026-09-02
 confidence: 0.95
-evidence_count: 179
-last_evidence_date: 2026-09-01
+evidence_count: 181
+last_evidence_date: 2026-09-09
 ---
 
 
@@ -1106,6 +1106,26 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-09-07: ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding
 
 ### 2026-09-07: Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inf
+
+### 2026-09-08: Unifying Conformal Language Tasks with In-Context Ensembles
+
+### 2026-09-08: Causal Foundation Models
+
+### 2026-09-08: ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation
+
+### 2026-09-08: EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying V
+- HF trending paper (arxiv: 2609.01281). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.01281]] | https://huggingface.co/papers/2609.01281
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03756). Keywords: classification. Status: pending-review.
+- Source: [[papers/2609.03756]] | https://huggingface.co/papers/2609.03756
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03003). Keywords: neural network. Status: pending-review.
+- Source: [[papers/2609.03003]] | https://huggingface.co/papers/2609.03003
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03005). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.03005]] | https://huggingface.co/papers/2609.03005
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.05275). Keywords: transformer. Status: pending-review.
 - Source: [[papers/2609.05275]] | https://huggingface.co/papers/2609.05275
 - Confidence: Low (auto-matched, not yet reviewed)
@@ -1277,3 +1297,13 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 - Volatility enters Kelly directly (f* = mu/sigma^2; double forecast vol -> quarter size; HAR-RV chosen over GARCH(1,1) for sigma^2 forecasting, GARCH kept as sanity check); volume enters via estimation quality, edge erosion (Amihud), and regime staleness; operating rule: volume > 2x trailing 20-day median -> half-Kelly until 5 sessions re-price
 - Source: [[wiki/decisions/vol-volume-aware-kelly-2026-08-23]]
 - Confidence: High
+
+### 2026-09-09: Certified portfolio risk bounds without cross-asset covariances
+- Firm-level distributional characteristics (Qwen3-Embedding-8B news representations) + Wasserstein-2 dispersion yield a sharp UPPER bound on systematic portfolio variance and an implementable allocation rule needing only marginal vols — 52-firm panel 2018–2022, allocation lands in 0.69th–1.33rd in-sample variance percentile vs equal-risk's 21st–28th
+- Source: [[2608.29692]]
+- Confidence: High
+
+### 2026-09-09: Wasserstein-barycentric interaction fields for spatial factor models
+- Companion paper: builds spatial factor structure from language-model representation geometry — an alternative to return-based factor estimation when return histories are short/high-dimensional
+- Source: [[2608.29669]]
+- Confidence: Medium

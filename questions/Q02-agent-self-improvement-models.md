@@ -6,8 +6,8 @@ date: 2026-05-25
 type: permanent-question
 reviewed: 2026-09-02
 confidence: 0.95
-evidence_count: 366
-last_evidence_date: 2026-09-01
+evidence_count: 370
+last_evidence_date: 2026-09-09
 ---
 
 
@@ -1936,6 +1936,36 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-09-07: RISE: Recursive Improvement via Self-Extrapolating Policy Distillation
 
 ### 2026-09-07: Group Adaptive Clipping Policy Optimization
+
+### 2026-09-08: Safety for Whom? Boundary-Aware Self-Distillation for Controlled LLM Safety Refu
+
+### 2026-09-08: One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation
+
+### 2026-09-08: EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying V
+
+### 2026-09-08: FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experie
+
+### 2026-09-08: Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillatio
+
+### 2026-09-08: Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning
+- HF trending paper (arxiv: 2609.03729). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2609.03729]] | https://huggingface.co/papers/2609.03729
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02998). Keywords: grpo, distillation. Status: pending-review.
+- Source: [[papers/2609.02998]] | https://huggingface.co/papers/2609.02998
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03241). Keywords: self-improvement. Status: pending-review.
+- Source: [[papers/2609.03241]] | https://huggingface.co/papers/2609.03241
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01281). Keywords: agent loop, ppo. Status: pending-review.
+- Source: [[papers/2609.01281]] | https://huggingface.co/papers/2609.01281
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25936). Keywords: reinforcement learning, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2608.25936]] | https://huggingface.co/papers/2608.25936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04482). Keywords: alignment, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2609.04482]] | https://huggingface.co/papers/2609.04482
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.00444). Keywords: reinforcement learning, grpo, ppo, policy optimization. Status: pending-review.
 - Source: [[papers/2609.00444]] | https://huggingface.co/papers/2609.00444
 - Confidence: Low (auto-matched, not yet reviewed)
@@ -2265,4 +2295,24 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 - Confidence: Low (auto-matched, not yet reviewed)
 - Evolved harnesses converge on the same abstract playbook (60-80% concept overlap) with disjoint ecosystem plumbing; gains are defect-compensation, not new capability — near-zero where defect mass ~ 0 (Python cells, GPT-5-mini); one universal distilled harness recovers only 48-68% of native gains
 - Source: [[concepts/one-recipe-many-harnesses-self-evolution]]
+- Confidence: High
+
+### 2026-09-09: S3Gym: self-improvement is neither automatic nor uniform
+- Benchmark decomposing experience-driven learning into Self-Testing/Self-Judging/Self-Improvement; summary memory beats raw history only when experience compresses into reusable rules, parameter training shows unstable gains + severe negative transfer
+- Source: [[2608.31100]]
+- Confidence: High
+
+### 2026-09-09: BCIT: conditional experience transfer in autonomous post-training
+- Past update evidence must be re-authorized before reuse after the parent model changes — binding effects to source context + vetoing hard conflicts beats context-free reuse on a 4B model across finance reasoning/SQL/function-calling
+- Source: [[2608.26730]]
+- Confidence: High
+
+### 2026-09-09: Bilevel coordinated reflection + verifier-gated memory ascent (SRMA)
+- Proves no transcript-only gate can uniformly improve memory (information-theoretic impossibility); only environment-grounded evaluation gates help — accept memory writes when grounded eval risk strictly decreases (72.2% vs 70.8% on SWE-bench)
+- Source: [[2609.02750]]
+- Confidence: High
+
+### 2026-09-09: AgentJudgeBench: structural ceiling on LLM judges for agentic tool-calling
+- On hard queries without ground truth all six judges (20B→frontier) converge to 77–82% alignment regardless of scale; ground-truth exposure can HURT (over-anchoring); rubrics +6.5pp, CoT negligible — bounds what self-critique alone can achieve
+- Source: [[2608.26623]]
 - Confidence: High

@@ -964,6 +964,21 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-09-07: When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Tem
 
 ### 2026-09-07: Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inf
+
+### 2026-09-08: Causal Foundation Models
+
+### 2026-09-08: EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying V
+
+### 2026-09-08: Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing
+- HF trending paper (arxiv: 2608.24263). Keywords: var. Status: pending-review.
+- Source: [[papers/2608.24263]] | https://huggingface.co/papers/2608.24263
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01281). Keywords: option. Status: pending-review.
+- Source: [[papers/2609.01281]] | https://huggingface.co/papers/2609.01281
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03003). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.03003]] | https://huggingface.co/papers/2609.03003
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.05275). Keywords: quant. Status: pending-review.
 - Source: [[papers/2609.05275]] | https://huggingface.co/papers/2609.05275
 - Confidence: Low (auto-matched, not yet reviewed)

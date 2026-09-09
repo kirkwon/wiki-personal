@@ -672,6 +672,16 @@ _2026-05-25_ — Initial research position
 ### 2026-09-07: The Attention Triangle in Audio-Video Models
 
 ### 2026-09-07: To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generatio
+
+### 2026-09-08: ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation
+
+### 2026-09-08: Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning
+- HF trending paper (arxiv: 2609.03729). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.03729]] | https://huggingface.co/papers/2609.03729
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03756). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.03756]] | https://huggingface.co/papers/2609.03756
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2608.05879). Keywords: geometry. Status: pending-review.
 - Source: [[papers/2608.05879]] | https://huggingface.co/papers/2608.05879
 - Confidence: Low (auto-matched, not yet reviewed)

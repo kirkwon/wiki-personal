@@ -1,0 +1,200 @@
+---
+type: evidence
+title: >-
+  EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying
+  V
+date: '2026-09-08T00:00:00.000Z'
+parent_question: Q05
+ingested_via: put_page
+ingested_at: '2026-09-09T09:29:16.475Z'
+source_kind: put_page
+tags:
+  - evidence
+  - permanent-question
+---
+
+# EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying V
+
+- HF trending paper (arxiv: 2609.01281). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.01281]] | https://huggingface.co/papers/2609.01281
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03756). Keywords: classification. Status: pending-review.
+- Source: [[papers/2609.03756]] | https://huggingface.co/papers/2609.03756
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03003). Keywords: neural network. Status: pending-review.
+- Source: [[papers/2609.03003]] | https://huggingface.co/papers/2609.03003
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03005). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.03005]] | https://huggingface.co/papers/2609.03005
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05275). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2609.05275]] | https://huggingface.co/papers/2609.05275
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02780). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.02780]] | https://huggingface.co/papers/2609.02780
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03586). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.03586]] | https://huggingface.co/papers/2609.03586
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04753). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04753]] | https://huggingface.co/papers/2609.04753
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04190). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04190]] | https://huggingface.co/papers/2609.04190
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05415). Keywords: transformer, attention. Status: pending-review.
+- Source: [[papers/2609.05415]] | https://huggingface.co/papers/2609.05415
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03231). Keywords: classification. Status: pending-review.
+- Source: [[papers/2609.03231]] | https://huggingface.co/papers/2609.03231
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01936). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04098). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04098]] | https://huggingface.co/papers/2609.04098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03430). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.03430]] | https://huggingface.co/papers/2609.03430
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02373). Keywords: neural network. Status: pending-review.
+- Source: [[papers/2609.02373]] | https://huggingface.co/papers/2609.02373
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04201). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04201]] | https://huggingface.co/papers/2609.04201
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30391). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.30391]] | https://huggingface.co/papers/2608.30391
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01532). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.01532]] | https://huggingface.co/papers/2609.01532
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02737). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.02737]] | https://huggingface.co/papers/2609.02737
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02783). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.02783]] | https://huggingface.co/papers/2609.02783
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01925). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.01925]] | https://huggingface.co/papers/2609.01925
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01740). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2609.01740]] | https://huggingface.co/papers/2609.01740
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01657). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2609.01657]] | https://huggingface.co/papers/2609.01657
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29669). Keywords: factor model. Status: pending-review.
+- Source: [[papers/2608.29669]] | https://huggingface.co/papers/2608.29669
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01560). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.01560]] | https://huggingface.co/papers/2609.01560
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00188). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.00188]] | https://huggingface.co/papers/2609.00188
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29613). Keywords: attention, classification. Status: pending-review.
+- Source: [[papers/2608.29613]] | https://huggingface.co/papers/2608.29613
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24293). Keywords: transformer, prediction. Status: pending-review.
+- Source: [[papers/2608.24293]] | https://huggingface.co/papers/2608.24293
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30935). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.30935]] | https://huggingface.co/papers/2608.30935
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29098). Keywords: prediction, classification. Status: pending-review.
+- Source: [[papers/2608.29098]] | https://huggingface.co/papers/2608.29098
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31106). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.31106]] | https://huggingface.co/papers/2608.31106
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30795). Keywords: forecasting, forecast, prediction. Status: pending-review.
+- Source: [[papers/2608.30795]] | https://huggingface.co/papers/2608.30795
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29974). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.29974]] | https://huggingface.co/papers/2608.29974
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25697). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2608.25697]] | https://huggingface.co/papers/2608.25697
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28460). Keywords: attention, prediction. Status: pending-review.
+- Source: [[papers/2608.28460]] | https://huggingface.co/papers/2608.28460
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23943). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2608.23943]] | https://huggingface.co/papers/2608.23943
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21832). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27260). Keywords: trend. Status: pending-review.
+- Source: [[papers/2608.27260]] | https://huggingface.co/papers/2608.27260
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26872). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.26872]] | https://huggingface.co/papers/2608.26872
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26103). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.26103]] | https://huggingface.co/papers/2608.26103
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23172). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.23172]] | https://huggingface.co/papers/2608.23172
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15763). Keywords: regression. Status: pending-review.
+- Source: [[papers/2608.15763]] | https://huggingface.co/papers/2608.15763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26200). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.26200]] | https://huggingface.co/papers/2608.26200
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27123). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.27123]] | https://huggingface.co/papers/2608.27123
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25798). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.25798]] | https://huggingface.co/papers/2608.25798
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26067). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.26067]] | https://huggingface.co/papers/2608.26067
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15062). Keywords: neural network, transformer. Status: pending-review.
+- Source: [[papers/2608.15062]] | https://huggingface.co/papers/2608.15062
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19556). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.19556]] | https://huggingface.co/papers/2608.19556
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24138). Keywords: regression. Status: pending-review.
+- Source: [[papers/2608.24138]] | https://huggingface.co/papers/2608.24138
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22071). Keywords: prediction, classification. Status: pending-review.
+- Source: [[papers/2608.22071]] | https://huggingface.co/papers/2608.22071
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25204). Keywords: deep learning, classification. Status: pending-review.
+- Source: [[papers/2608.25204]] | https://huggingface.co/papers/2608.25204
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14652). Keywords: forecasting, forecast. Status: pending-review.
+- Source: [[papers/2608.14652]] | https://huggingface.co/papers/2608.14652
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26070). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.26070]] | https://huggingface.co/papers/2608.26070
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22614). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2608.22614]] | https://huggingface.co/papers/2608.22614
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22876). Keywords: attention, sequence model. Status: pending-review.
+- Source: [[papers/2608.22876]] | https://huggingface.co/papers/2608.22876
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23566). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.23566]] | https://huggingface.co/papers/2608.23566
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24053). Keywords: classification. Status: pending-review.
+- Source: [[papers/2608.24053]] | https://huggingface.co/papers/2608.24053
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24763). Keywords: forecasting, transformer, forecast, prediction. Status: pending-review.
+- Source: [[papers/2608.24763]] | https://huggingface.co/papers/2608.24763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15875). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.15875]] | https://huggingface.co/papers/2608.15875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23670). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2608.23670]] | https://huggingface.co/papers/2608.23670
+- Confidence: Low (auto-matched, not yet reviewed)
+- Volatility enters Kelly directly (f* = mu/sigma^2; double forecast vol -> quarter size; HAR-RV chosen over GARCH(1,1) for sigma^2 forecasting, GARCH kept as sanity check); volume enters via estimation quality, edge erosion (Amihud), and regime staleness; operating rule: volume > 2x trailing 20-day median -> half-Kelly until 5 sessions re-price
+- Source: [[wiki/decisions/vol-volume-aware-kelly-2026-08-23]]
+- Confidence: High

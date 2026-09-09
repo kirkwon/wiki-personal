@@ -6,8 +6,8 @@ date: 2026-05-25
 type: permanent-question
 reviewed: 2026-09-02
 confidence: 0.95
-evidence_count: 453
-last_evidence_date: 2026-09-01
+evidence_count: 456
+last_evidence_date: 2026-09-09
 ---
 
 
@@ -2459,6 +2459,31 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-07: MaxKernel: Agentic Kernel Generation for TPUs
 
 ### 2026-09-07: RISE: Recursive Improvement via Self-Extrapolating Policy Distillation
+
+### 2026-09-08: ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation
+
+### 2026-09-08: One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation
+
+### 2026-09-08: EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying V
+
+### 2026-09-08: FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experie
+
+### 2026-09-08: Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing
+- HF trending paper (arxiv: 2608.24263). Keywords: gui. Status: pending-review.
+- Source: [[papers/2608.24263]] | https://huggingface.co/papers/2608.24263
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03241). Keywords: self-improvement, gui. Status: pending-review.
+- Source: [[papers/2609.03241]] | https://huggingface.co/papers/2609.03241
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01281). Keywords: planning, execution. Status: pending-review.
+- Source: [[papers/2609.01281]] | https://huggingface.co/papers/2609.01281
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25936). Keywords: gui, environment. Status: pending-review.
+- Source: [[papers/2608.25936]] | https://huggingface.co/papers/2608.25936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03756). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.03756]] | https://huggingface.co/papers/2609.03756
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.05295). Keywords: recursive, agentic, code generation. Status: pending-review.
 - Source: [[papers/2609.05295]] | https://huggingface.co/papers/2609.05295
 - Confidence: Low (auto-matched, not yet reviewed)
@@ -2771,3 +2796,18 @@ https://huggingface.co/papers/2608.02287
 - Cross-language harness transplants help in 18/20 pairs but hit native ceiling only sometimes; distilling to one universal harness recovers just 48-68% of native gains (Java/C++/TypeScript) — binding defect differs by (task-domain, model) cell, so native re-evolution per cell remains necessary; a null cell signals defect mass ~ 0, not a broken loop
 - Source: [[concepts/one-recipe-many-harnesses-self-evolution]]
 - Confidence: High
+
+### 2026-09-09: HarnessDev: LLMs creating and evolving their own agent harness
+- First benchmark evaluating runnable harness infrastructure as the artifact: generated harnesses trail human-engineered refs on code/search-research but match or exceed on writing + ML experimentation; evolution gains unstable and transfer poorly across executor models — harness skill is model-bound
+- Source: [[2609.01437]]
+- Confidence: High
+
+### 2026-09-09: RDEIUR cycle: separated plan/execute/critique with dual-model critic
+- Internal practice: Run→Discuss→Execute→Invalidate→Update→Resume with OmniRoute critic on a different model + canary-calibrated verification; closes the Invalidate gap found in the 11-diagram audit — matches the environment-grounded-gate requirement from the literature
+- Source: [[rdeiur-cycle]]
+- Confidence: Medium
+
+### 2026-09-09: Repo-To-Skill: distilling GitHub repos into operational skill libraries
+- DisCo pipeline converts repositories into operational knowledge (AREX-Skill library) for autonomous research agents — automated toolchain synthesis from existing code assets
+- Source: [[2609.02749]]
+- Confidence: Medium

@@ -1,0 +1,524 @@
+---
+type: evidence
+title: 'Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning'
+date: '2026-09-08T00:00:00.000Z'
+parent_question: Q04
+ingested_via: put_page
+ingested_at: '2026-09-09T09:29:14.842Z'
+source_kind: put_page
+tags:
+  - evidence
+  - permanent-question
+---
+
+# Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning
+
+- HF trending paper (arxiv: 2609.03729). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.03729]] | https://huggingface.co/papers/2609.03729
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03756). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.03756]] | https://huggingface.co/papers/2609.03756
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05879). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.05879]] | https://huggingface.co/papers/2608.05879
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03586). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2609.03586]] | https://huggingface.co/papers/2609.03586
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05415). Keywords: diffusion, embedding, topology. Status: pending-review.
+- Source: [[papers/2609.05415]] | https://huggingface.co/papers/2609.05415
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03153). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.03153]] | https://huggingface.co/papers/2609.03153
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01936). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.01936]] | https://huggingface.co/papers/2609.01936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01507). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.01507]] | https://huggingface.co/papers/2609.01507
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04034). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2609.04034]] | https://huggingface.co/papers/2609.04034
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03952). Keywords: world model, geometry. Status: pending-review.
+- Source: [[papers/2609.03952]] | https://huggingface.co/papers/2609.03952
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03563). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.03563]] | https://huggingface.co/papers/2609.03563
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04196). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.04196]] | https://huggingface.co/papers/2609.04196
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04201). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.04201]] | https://huggingface.co/papers/2609.04201
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29253). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.29253]] | https://huggingface.co/papers/2608.29253
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02886). Keywords: world model, geometry. Status: pending-review.
+- Source: [[papers/2609.02886]] | https://huggingface.co/papers/2609.02886
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30949). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.30949]] | https://huggingface.co/papers/2608.30949
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01865). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.01865]] | https://huggingface.co/papers/2609.01865
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00591). Keywords: contrastive, embedding. Status: pending-review.
+- Source: [[papers/2609.00591]] | https://huggingface.co/papers/2609.00591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01740). Keywords: vae, geometry. Status: pending-review.
+- Source: [[papers/2609.01740]] | https://huggingface.co/papers/2609.01740
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30751). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.30751]] | https://huggingface.co/papers/2608.30751
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21450). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.21450]] | https://huggingface.co/papers/2608.21450
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01657). Keywords: diffusion, embedding. Status: pending-review.
+- Source: [[papers/2609.01657]] | https://huggingface.co/papers/2609.01657
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29669). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.29669]] | https://huggingface.co/papers/2608.29669
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29692). Keywords: embedding, geometry. Status: pending-review.
+- Source: [[papers/2608.29692]] | https://huggingface.co/papers/2608.29692
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00968). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2609.00968]] | https://huggingface.co/papers/2609.00968
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.01560). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.01560]] | https://huggingface.co/papers/2609.01560
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00188). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.00188]] | https://huggingface.co/papers/2609.00188
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24293). Keywords: variational, diffusion, vae. Status: pending-review.
+- Source: [[papers/2608.24293]] | https://huggingface.co/papers/2608.24293
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30530). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.30530]] | https://huggingface.co/papers/2608.30530
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.31106). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.31106]] | https://huggingface.co/papers/2608.31106
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.30795). Keywords: probabilistic. Status: pending-review.
+- Source: [[papers/2608.30795]] | https://huggingface.co/papers/2608.30795
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29974). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.29974]] | https://huggingface.co/papers/2608.29974
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28460). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.28460]] | https://huggingface.co/papers/2608.28460
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26794). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.26794]] | https://huggingface.co/papers/2608.26794
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18524). Keywords: topology. Status: pending-review.
+- Source: [[papers/2608.18524]] | https://huggingface.co/papers/2608.18524
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.28122). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.28122]] | https://huggingface.co/papers/2608.28122
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23149). Keywords: manifold. Status: pending-review.
+- Source: [[papers/2608.23149]] | https://huggingface.co/papers/2608.23149
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25375). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.25375]] | https://huggingface.co/papers/2608.25375
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23943). Keywords: variational, geometry. Status: pending-review.
+- Source: [[papers/2608.23943]] | https://huggingface.co/papers/2608.23943
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21832). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.21832]] | https://huggingface.co/papers/2608.21832
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27168). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.27168]] | https://huggingface.co/papers/2608.27168
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27345). Keywords: probabilistic, world model. Status: pending-review.
+- Source: [[papers/2608.27345]] | https://huggingface.co/papers/2608.27345
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25500). Keywords: bayesian. Status: pending-review.
+- Source: [[papers/2608.25500]] | https://huggingface.co/papers/2608.25500
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.26200). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.26200]] | https://huggingface.co/papers/2608.26200
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25518). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.25518]] | https://huggingface.co/papers/2608.25518
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23918). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.23918]] | https://huggingface.co/papers/2608.23918
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.25927). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.25927]] | https://huggingface.co/papers/2608.25927
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19556). Keywords: diffusion, geometry. Status: pending-review.
+- Source: [[papers/2608.19556]] | https://huggingface.co/papers/2608.19556
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23383). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.23383]] | https://huggingface.co/papers/2608.23383
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22274). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.22274]] | https://huggingface.co/papers/2608.22274
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24053). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.24053]] | https://huggingface.co/papers/2608.24053
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24680). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.24680]] | https://huggingface.co/papers/2608.24680
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.24763). Keywords: topology. Status: pending-review.
+- Source: [[papers/2608.24763]] | https://huggingface.co/papers/2608.24763
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23670). Keywords: topology. Status: pending-review.
+- Source: [[papers/2608.23670]] | https://huggingface.co/papers/2608.23670
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21439). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.21439]] | https://huggingface.co/papers/2608.21439
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23565). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.23565]] | https://huggingface.co/papers/2608.23565
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16812). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.16812]] | https://huggingface.co/papers/2608.16812
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19567). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.19567]] | https://huggingface.co/papers/2608.19567
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23189). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.23189]] | https://huggingface.co/papers/2608.23189
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22849). Keywords: diffusion, representation learning. Status: pending-review.
+- Source: [[papers/2608.22849]] | https://huggingface.co/papers/2608.22849
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23392). Keywords: representation learning. Status: pending-review.
+- Source: [[papers/2608.23392]] | https://huggingface.co/papers/2608.23392
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.22591). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.22591]] | https://huggingface.co/papers/2608.22591
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.21486). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.21486]] | https://huggingface.co/papers/2608.21486
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.23252). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.23252]] | https://huggingface.co/papers/2608.23252
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20886). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.20886]] | https://huggingface.co/papers/2608.20886
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08676). Keywords: vae, embedding. Status: pending-review.
+- Source: [[papers/2608.08676]] | https://huggingface.co/papers/2608.08676
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18184). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.18184]] | https://huggingface.co/papers/2608.18184
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18077). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.18077]] | https://huggingface.co/papers/2608.18077
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12875). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.12875]] | https://huggingface.co/papers/2608.12875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15767). Keywords: probabilistic. Status: pending-review.
+- Source: [[papers/2608.15767]] | https://huggingface.co/papers/2608.15767
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16490). Keywords: generative model, geometry. Status: pending-review.
+- Source: [[papers/2608.16490]] | https://huggingface.co/papers/2608.16490
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20336). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.20336]] | https://huggingface.co/papers/2608.20336
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14022). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.14022]] | https://huggingface.co/papers/2608.14022
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.20335). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.20335]] | https://huggingface.co/papers/2608.20335
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19863). Keywords: representation learning, embedding. Status: pending-review.
+- Source: [[papers/2608.19863]] | https://huggingface.co/papers/2608.19863
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19776). Keywords: manifold, geometry, topology. Status: pending-review.
+- Source: [[papers/2608.19776]] | https://huggingface.co/papers/2608.19776
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.19759). Keywords: generative model, geometry. Status: pending-review.
+- Source: [[papers/2608.19759]] | https://huggingface.co/papers/2608.19759
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18701). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.18701]] | https://huggingface.co/papers/2608.18701
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18746). Keywords: world model, geometry. Status: pending-review.
+- Source: [[papers/2608.18746]] | https://huggingface.co/papers/2608.18746
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15869). Keywords: world model, embedding. Status: pending-review.
+- Source: [[papers/2608.15869]] | https://huggingface.co/papers/2608.15869
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17975). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.17975]] | https://huggingface.co/papers/2608.17975
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17988). Keywords: vae, geometry. Status: pending-review.
+- Source: [[papers/2608.17988]] | https://huggingface.co/papers/2608.17988
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18076). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.18076]] | https://huggingface.co/papers/2608.18076
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05811). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.05811]] | https://huggingface.co/papers/2608.05811
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.18063). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.18063]] | https://huggingface.co/papers/2608.18063
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14036). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.14036]] | https://huggingface.co/papers/2608.14036
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16793). Keywords: variational, diffusion, vae. Status: pending-review.
+- Source: [[papers/2608.16793]] | https://huggingface.co/papers/2608.16793
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.17067). Keywords: generative model, contrastive. Status: pending-review.
+- Source: [[papers/2608.17067]] | https://huggingface.co/papers/2608.17067
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13556). Keywords: generative model, vae. Status: pending-review.
+- Source: [[papers/2608.13556]] | https://huggingface.co/papers/2608.13556
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12944). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.12944]] | https://huggingface.co/papers/2608.12944
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12898). Keywords: representation learning. Status: pending-review.
+- Source: [[papers/2608.12898]] | https://huggingface.co/papers/2608.12898
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16887). Keywords: generative model, diffusion. Status: pending-review.
+- Source: [[papers/2608.16887]] | https://huggingface.co/papers/2608.16887
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16859). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.16859]] | https://huggingface.co/papers/2608.16859
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15022). Keywords: latent variable. Status: pending-review.
+- Source: [[papers/2608.15022]] | https://huggingface.co/papers/2608.15022
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16143). Keywords: diffusion, embedding. Status: pending-review.
+- Source: [[papers/2608.16143]] | https://huggingface.co/papers/2608.16143
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.16485). Keywords: embedding, manifold, geometry, topology. Status: pending-review.
+- Source: [[papers/2608.16485]] | https://huggingface.co/papers/2608.16485
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15037). Keywords: manifold. Status: pending-review.
+- Source: [[papers/2608.15037]] | https://huggingface.co/papers/2608.15037
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15659). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.15659]] | https://huggingface.co/papers/2608.15659
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.15669). Keywords: bayesian, generative model. Status: pending-review.
+- Source: [[papers/2608.15669]] | https://huggingface.co/papers/2608.15669
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14530). Keywords: diffusion, world model, geometry. Status: pending-review.
+- Source: [[papers/2608.14530]] | https://huggingface.co/papers/2608.14530
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.14138). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.14138]] | https://huggingface.co/papers/2608.14138
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12209). Keywords: diffusion, representation learning, embedding. Status: pending-review.
+- Source: [[papers/2608.12209]] | https://huggingface.co/papers/2608.12209
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09928). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.09928]] | https://huggingface.co/papers/2608.09928
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10835). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.10835]] | https://huggingface.co/papers/2608.10835
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09926). Keywords: diffusion, world model. Status: pending-review.
+- Source: [[papers/2608.09926]] | https://huggingface.co/papers/2608.09926
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11045). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.11045]] | https://huggingface.co/papers/2608.11045
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12836). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.12836]] | https://huggingface.co/papers/2608.12836
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13546). Keywords: world model, geometry. Status: pending-review.
+- Source: [[papers/2608.13546]] | https://huggingface.co/papers/2608.13546
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08888). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.08888]] | https://huggingface.co/papers/2608.08888
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13489). Keywords: world model, geometry. Status: pending-review.
+- Source: [[papers/2608.13489]] | https://huggingface.co/papers/2608.13489
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.13049). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.13049]] | https://huggingface.co/papers/2608.13049
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11745). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.11745]] | https://huggingface.co/papers/2608.11745
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11752). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.11752]] | https://huggingface.co/papers/2608.11752
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11951). Keywords: variational, generative model. Status: pending-review.
+- Source: [[papers/2608.11951]] | https://huggingface.co/papers/2608.11951
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12997). Keywords: diffusion, vae. Status: pending-review.
+- Source: [[papers/2608.12997]] | https://huggingface.co/papers/2608.12997
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12313). Keywords: representation learning. Status: pending-review.
+- Source: [[papers/2608.12313]] | https://huggingface.co/papers/2608.12313
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.12314). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.12314]] | https://huggingface.co/papers/2608.12314
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11216). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.11216]] | https://huggingface.co/papers/2608.11216
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11562). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.11562]] | https://huggingface.co/papers/2608.11562
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10708). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.10708]] | https://huggingface.co/papers/2608.10708
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06729). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.06729]] | https://huggingface.co/papers/2608.06729
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00677). Keywords: markov. Status: pending-review.
+- Source: [[papers/2608.00677]] | https://huggingface.co/papers/2608.00677
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10615). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.10615]] | https://huggingface.co/papers/2608.10615
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.09805). Keywords: variational. Status: pending-review.
+- Source: [[papers/2608.09805]] | https://huggingface.co/papers/2608.09805
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08786). Keywords: symbolic, neuro-symbolic. Status: pending-review.
+- Source: [[papers/2608.08786]] | https://huggingface.co/papers/2608.08786
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08156). Keywords: bayesian. Status: pending-review.
+- Source: [[papers/2608.08156]] | https://huggingface.co/papers/2608.08156
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07463). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.07463]] | https://huggingface.co/papers/2608.07463
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06111). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.06111]] | https://huggingface.co/papers/2608.06111
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10744). Keywords: variational, diffusion, vae, geometry. Status: pending-review.
+- Source: [[papers/2608.10744]] | https://huggingface.co/papers/2608.10744
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.10915). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.10915]] | https://huggingface.co/papers/2608.10915
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.11205). Keywords: diffusion, geometry. Status: pending-review.
+- Source: [[papers/2608.11205]] | https://huggingface.co/papers/2608.11205
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08786). Keywords: symbolic, neuro-symbolic. Status: pending-review.
+- Source: [[papers/2608.08786]] | https://huggingface.co/papers/2608.08786
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.08156). Keywords: bayesian. Status: pending-review.
+- Source: [[papers/2608.08156]] | https://huggingface.co/papers/2608.08156
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.07408). Keywords: world model, embedding. Status: pending-review.
+- Source: [[papers/2608.07408]] | https://huggingface.co/papers/2608.07408
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05597). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.05597]] | https://huggingface.co/papers/2608.05597
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00675). Keywords: generative model, diffusion. Status: pending-review.
+- Source: [[papers/2608.00675]] | https://huggingface.co/papers/2608.00675
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01310). Keywords: contrastive, embedding. Status: pending-review.
+- Source: [[papers/2608.01310]] | https://huggingface.co/papers/2608.01310
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04569). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.04569]] | https://huggingface.co/papers/2608.04569
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05798). Keywords: generative model, diffusion, vae. Status: pending-review.
+- Source: [[papers/2608.05798]] | https://huggingface.co/papers/2608.05798
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01049). Keywords: world model, embedding. Status: pending-review.
+- Source: [[papers/2608.01049]] | https://huggingface.co/papers/2608.01049
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04378). Keywords: symbolic, world model, embedding. Status: pending-review.
+- Source: [[papers/2608.04378]] | https://huggingface.co/papers/2608.04378
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05987). Keywords: bayesian. Status: pending-review.
+- Source: [[papers/2608.05987]] | https://huggingface.co/papers/2608.05987
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06352). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2608.06352]] | https://huggingface.co/papers/2608.06352
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06197). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.06197]] | https://huggingface.co/papers/2608.06197
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06257). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.06257]] | https://huggingface.co/papers/2608.06257
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.06020). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.06020]] | https://huggingface.co/papers/2608.06020
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05785). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.05785]] | https://huggingface.co/papers/2608.05785
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01481). Keywords: embedding, geometry. Status: pending-review.
+- Source: [[papers/2608.01481]] | https://huggingface.co/papers/2608.01481
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03506). Keywords: symbolic, bayesian. Status: pending-review.
+- Source: [[papers/2608.03506]] | https://huggingface.co/papers/2608.03506
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.22143). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2607.22143]] | https://huggingface.co/papers/2607.22143
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.05070). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.05070]] | https://huggingface.co/papers/2608.05070
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04701). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.04701]] | https://huggingface.co/papers/2608.04701
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28048). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2607.28048]] | https://huggingface.co/papers/2607.28048
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04964). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.04964]] | https://huggingface.co/papers/2608.04964
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.04926). Keywords: representation learning. Status: pending-review.
+- Source: [[papers/2608.04926]] | https://huggingface.co/papers/2608.04926
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03207). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.03207]] | https://huggingface.co/papers/2608.03207
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02437). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.02437]] | https://huggingface.co/papers/2608.02437
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03316). Keywords: vae. Status: pending-review.
+- Source: [[papers/2608.03316]] | https://huggingface.co/papers/2608.03316
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03971). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2608.03971]] | https://huggingface.co/papers/2608.03971
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02711). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.02711]] | https://huggingface.co/papers/2608.02711
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03974). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.03974]] | https://huggingface.co/papers/2608.03974
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02738). Keywords: embedding, geometry. Status: pending-review.
+- Source: [[papers/2608.02738]] | https://huggingface.co/papers/2608.02738
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02713). Keywords: world model. Status: pending-review.
+- Source: [[papers/2608.02713]] | https://huggingface.co/papers/2608.02713
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2607.28993). Keywords: vae. Status: pending-review.
+- Source: [[papers/2607.28993]] | https://huggingface.co/papers/2607.28993
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.00730). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.00730]] | https://huggingface.co/papers/2608.00730
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03457). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2608.03457]] | https://huggingface.co/papers/2608.03457
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.01127). Keywords: diffusion, vae, world model. Status: pending-review.
+- Source: [[papers/2608.01127]] | https://huggingface.co/papers/2608.01127
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.02791). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.02791]] | https://huggingface.co/papers/2608.02791
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.03507). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2608.03507]] | https://huggingface.co/papers/2608.03507
+- Confidence: Low (auto-matched, not yet reviewed)
+- Source: [[loop-engineering.md]]
+- Confidence: Low
