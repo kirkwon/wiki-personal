@@ -2808,6 +2808,121 @@ https://huggingface.co/papers/2608.02287
 - Confidence: Medium
 
 ### 2026-09-09: Repo-To-Skill: distilling GitHub repos into operational skill libraries
+
+### 2026-09-09: EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?
+
+### 2026-09-09: RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives
+
+### 2026-09-09: MasterControl Seventeen Every Time
+
+### 2026-09-09: Learning 3D Editing without Paired Supervision via Generative Prior Distillation
+
+### 2026-09-09: Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Serie
+
+### 2026-09-09: AuK Technical Report: An Open-Source Foundational Model for Speech Generation an
+
+### 2026-09-09: TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Pre
+
+### 2026-09-09: BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Lar
+
+### 2026-09-09: Omni Interaction Agent Technical Report
+
+### 2026-09-09: TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-La
+
+### 2026-09-09: Procedural Graphs: Self-Evolving Execution Structures for LLM Agents
+
+### 2026-09-09: Reason Through the Latent! Making Latent Visual Reasoning Necessary
+
+### 2026-09-09: CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Mani
+
+### 2026-09-09: GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulatio
+
+### 2026-09-09: Miles v0.1: Production-Level Post-Training
+
+### 2026-09-09: Environments as Scaffold: Enriching Feedback to Bootstrap Self-Evolving Agents i
+
+### 2026-09-09: Kalman Delta Networks: Uncertainty-aware Associative Memory
+
+### 2026-09-09: Agentic Visual Generation: From Generative Models to Agentic Control
+
+### 2026-09-09: VidaForge: Open Research Infrastructure for Video Pretraining Data Recipes
+
+### 2026-09-09: What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale
+
+### 2026-09-09: NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Ro
+
+### 2026-09-09: MOLE: Detecting Insider Threats in AI Agents
+
+### 2026-09-09: DriveZero: End-to-End Driving Beyond Human Demonstrations
+- HF trending paper (arxiv: 2609.06055). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.06055]] | https://huggingface.co/papers/2609.06055
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06966). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.06966]] | https://huggingface.co/papers/2609.06966
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08183). Keywords: recursive, self-improvement, tool use, agentic. Status: pending-review.
+- Source: [[papers/2609.08183]] | https://huggingface.co/papers/2609.08183
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05663). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.05663]] | https://huggingface.co/papers/2609.05663
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06652). Keywords: workflow. Status: pending-review.
+- Source: [[papers/2609.06652]] | https://huggingface.co/papers/2609.06652
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06758). Keywords: tool use, agentic, planning, execution. Status: pending-review.
+- Source: [[papers/2609.06758]] | https://huggingface.co/papers/2609.06758
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07816). Keywords: recursive. Status: pending-review.
+- Source: [[papers/2609.07816]] | https://huggingface.co/papers/2609.07816
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08404). Keywords: autonomous agent, gui, scaffold, environment. Status: pending-review.
+- Source: [[papers/2609.08404]] | https://huggingface.co/papers/2609.08404
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08368). Keywords: agentic. Status: pending-review.
+- Source: [[papers/2609.08368]] | https://huggingface.co/papers/2609.08368
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05588). Keywords: gui, planning. Status: pending-review.
+- Source: [[papers/2609.05588]] | https://huggingface.co/papers/2609.05588
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07498). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.07498]] | https://huggingface.co/papers/2609.07498
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06746). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.06746]] | https://huggingface.co/papers/2609.06746
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09153). Keywords: gui, execution. Status: pending-review.
+- Source: [[papers/2609.09153]] | https://huggingface.co/papers/2609.09153
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09158). Keywords: gui, planning, environment. Status: pending-review.
+- Source: [[papers/2609.09158]] | https://huggingface.co/papers/2609.09158
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08977). Keywords: agentic, tool calling, orchestration, workflow. Status: pending-review.
+- Source: [[papers/2609.08977]] | https://huggingface.co/papers/2609.08977
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04971). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.04971]] | https://huggingface.co/papers/2609.04971
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06665). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.06665]] | https://huggingface.co/papers/2609.06665
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08936). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.08936]] | https://huggingface.co/papers/2609.08936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06008). Keywords: execution. Status: pending-review.
+- Source: [[papers/2609.06008]] | https://huggingface.co/papers/2609.06008
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04942). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.04942]] | https://huggingface.co/papers/2609.04942
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.03209). Keywords: planning, execution. Status: pending-review.
+- Source: [[papers/2609.03209]] | https://huggingface.co/papers/2609.03209
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05738). Keywords: environment. Status: pending-review.
+- Source: [[papers/2609.05738]] | https://huggingface.co/papers/2609.05738
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04280). Keywords: harness, environment. Status: pending-review.
+- Source: [[papers/2609.04280]] | https://huggingface.co/papers/2609.04280
+- Confidence: Low (auto-matched, not yet reviewed)
 - DisCo pipeline converts repositories into operational knowledge (AREX-Skill library) for autonomous research agents — automated toolchain synthesis from existing code assets
 - Source: [[2609.02749]]
 - Confidence: Medium

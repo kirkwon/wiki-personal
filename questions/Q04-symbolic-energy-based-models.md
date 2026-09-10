@@ -676,6 +676,81 @@ _2026-05-25_ — Initial research position
 ### 2026-09-08: ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation
 
 ### 2026-09-08: Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning
+
+### 2026-09-09: RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives
+
+### 2026-09-09: Learning 3D Editing without Paired Supervision via Generative Prior Distillation
+
+### 2026-09-09: Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-
+
+### 2026-09-09: SQS: Bayesian DNN Compression through Sparse Quantized Sub-distributions
+
+### 2026-09-09: Recognition-Refusal Misalignment in LLMs: Why Models Answer Structurally Unanswe
+
+### 2026-09-09: AuK Technical Report: An Open-Source Foundational Model for Speech Generation an
+
+### 2026-09-09: TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Pre
+
+### 2026-09-09: BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Lar
+
+### 2026-09-09: TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-La
+
+### 2026-09-09: Procedural Graphs: Self-Evolving Execution Structures for LLM Agents
+
+### 2026-09-09: Steering Geometry: Validating Human Value Geometry in LLM Steering Space
+
+### 2026-09-09: Miles v0.1: Production-Level Post-Training
+
+### 2026-09-09: Multi-Grid Post-Training for Long-Form Multi-Shot Video Generation
+
+### 2026-09-09: Kalman Delta Networks: Uncertainty-aware Associative Memory
+
+### 2026-09-09: Agentic Visual Generation: From Generative Models to Agentic Control
+- HF trending paper (arxiv: 2609.06758). Keywords: generative model. Status: pending-review.
+- Source: [[papers/2609.06758]] | https://huggingface.co/papers/2609.06758
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07816). Keywords: variational, embedding. Status: pending-review.
+- Source: [[papers/2609.07816]] | https://huggingface.co/papers/2609.07816
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06373). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.06373]] | https://huggingface.co/papers/2609.06373
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08368). Keywords: diffusion. Status: pending-review.
+- Source: [[papers/2609.08368]] | https://huggingface.co/papers/2609.08368
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06289). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.06289]] | https://huggingface.co/papers/2609.06289
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09153). Keywords: topology. Status: pending-review.
+- Source: [[papers/2609.09153]] | https://huggingface.co/papers/2609.09153
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09158). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.09158]] | https://huggingface.co/papers/2609.09158
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04971). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.04971]] | https://huggingface.co/papers/2609.04971
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06665). Keywords: diffusion, vae, geometry. Status: pending-review.
+- Source: [[papers/2609.06665]] | https://huggingface.co/papers/2609.06665
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08936). Keywords: vae. Status: pending-review.
+- Source: [[papers/2609.08936]] | https://huggingface.co/papers/2609.08936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29109). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2608.29109]] | https://huggingface.co/papers/2608.29109
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2510.08999). Keywords: bayesian, variational. Status: pending-review.
+- Source: [[papers/2510.08999]] | https://huggingface.co/papers/2510.08999
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07470). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.07470]] | https://huggingface.co/papers/2609.07470
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04942). Keywords: manifold. Status: pending-review.
+- Source: [[papers/2609.04942]] | https://huggingface.co/papers/2609.04942
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05738). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.05738]] | https://huggingface.co/papers/2609.05738
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.03729). Keywords: geometry. Status: pending-review.
 - Source: [[papers/2609.03729]] | https://huggingface.co/papers/2609.03729
 - Confidence: Low (auto-matched, not yet reviewed)

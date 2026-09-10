@@ -1304,6 +1304,81 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 - Confidence: High
 
 ### 2026-09-09: Wasserstein-barycentric interaction fields for spatial factor models
+
+### 2026-09-09: Graph Machine: Towards Better Pretraining via Edges
+
+### 2026-09-09: RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives
+
+### 2026-09-09: Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Serie
+
+### 2026-09-09: SQS: Bayesian DNN Compression through Sparse Quantized Sub-distributions
+
+### 2026-09-09: ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understand
+
+### 2026-09-09: CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs
+
+### 2026-09-09: AuK Technical Report: An Open-Source Foundational Model for Speech Generation an
+
+### 2026-09-09: TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Pre
+
+### 2026-09-09: BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Lar
+
+### 2026-09-09: Reason Through the Latent! Making Latent Visual Reasoning Necessary
+
+### 2026-09-09: Steering Geometry: Validating Human Value Geometry in LLM Steering Space
+
+### 2026-09-09: Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context R
+
+### 2026-09-09: Kalman Delta Networks: Uncertainty-aware Associative Memory
+
+### 2026-09-09: VidaForge: Open Research Infrastructure for Video Pretraining Data Recipes
+
+### 2026-09-09: What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale
+- HF trending paper (arxiv: 2609.05663). Keywords: regression. Status: pending-review.
+- Source: [[papers/2609.05663]] | https://huggingface.co/papers/2609.05663
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06652). Keywords: alternative data. Status: pending-review.
+- Source: [[papers/2609.06652]] | https://huggingface.co/papers/2609.06652
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07816). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.07816]] | https://huggingface.co/papers/2609.07816
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07108). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.07108]] | https://huggingface.co/papers/2609.07108
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06289). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.06289]] | https://huggingface.co/papers/2609.06289
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06746). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.06746]] | https://huggingface.co/papers/2609.06746
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04971). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.04971]] | https://huggingface.co/papers/2609.04971
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06665). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.06665]] | https://huggingface.co/papers/2609.06665
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08936). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2609.08936]] | https://huggingface.co/papers/2609.08936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08345). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.08345]] | https://huggingface.co/papers/2609.08345
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07941). Keywords: anomaly detection. Status: pending-review.
+- Source: [[papers/2609.07941]] | https://huggingface.co/papers/2609.07941
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2510.08999). Keywords: neural network. Status: pending-review.
+- Source: [[papers/2510.08999]] | https://huggingface.co/papers/2510.08999
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06008). Keywords: time series, forecast, prediction. Status: pending-review.
+- Source: [[papers/2609.06008]] | https://huggingface.co/papers/2609.06008
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05738). Keywords: transformer, attention. Status: pending-review.
+- Source: [[papers/2609.05738]] | https://huggingface.co/papers/2609.05738
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02881). Keywords: transformer. Status: pending-review.
+- Source: [[papers/2609.02881]] | https://huggingface.co/papers/2609.02881
+- Confidence: Low (auto-matched, not yet reviewed)
 - Companion paper: builds spatial factor structure from language-model representation geometry — an alternative to return-based factor estimation when return histories are short/high-dimensional
 - Source: [[2608.29669]]
 - Confidence: Medium

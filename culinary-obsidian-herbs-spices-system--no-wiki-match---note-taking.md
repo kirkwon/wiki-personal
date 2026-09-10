@@ -1,11 +1,42 @@
 ---
-type: concept
 date: 2026-07-13
-tags:
-  - Skill
-  - Placeholder
+type: concept
+title: Culinary Herbs & Spices Obsidian System
 created: 2026-07-13
-updated: 2026-07-13
+updated: '2026-09-09'
+tags:
+- skill
+- obsidian
+- gastronomy
+- herbs
+- spices
+- culinary
+- documentation
+- content-creation
+- Skill
+sources:
+- hermes://skill/culinary-obsidian-herbs-spices-system
+description: Systematic approach to creating comprehensive herb and spice documentation
+  in Obsidian vaults, with structured pages, flavor profiles, and culinary applications.
 ---
-# culinary-obsidian-herbs-spices-system (no wiki match) [note-taking]
-Stub page – add description, links, and usage notes.
+
+# Culinary Herbs & Spices Obsidian System
+
+> Systematic approach to creating comprehensive herb and spice documentation in Obsidian vaults, with structured pages, flavor profiles, and culinary applications.
+
+## Overview
+
+- **Overview** — This skill provides a systematic approach to creating comprehensive herb and spice documentation in Obsidian vaults. The method involves structured content creation with consistent formatting, flavor analysis, culinary applications, and integration with existing gastronomy content.
+- **Approach Rationale** — This system emerged from developing a herbs and spices knowledge base for a user with an existing Gastronomy domain in their Obsidian vault. The approach balances systematic thoroughness with practical culinary applications, structured content that supports both human readability and AI agent accessibility.
+- **Related Content** — --- *Created: YYYY-MM-DD*
+
+## Further detail
+
+### See Also
+
+--- *Created: YYYY-MM-DD*
+
+## Related
+
+- Skill source: `/Users/kirkwon/.hermes/skills/note-taking/culinary-obsidian-herbs-spices-system/SKILL.md`
+- Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).

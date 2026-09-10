@@ -2981,6 +2981,126 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 - Confidence: High
 
 ### 2026-09-09: RLVR loses reasoning breadth at the entrance, not inside execution
+
+### 2026-09-09: Graph Machine: Towards Better Pretraining via Edges
+
+### 2026-09-09: EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?
+
+### 2026-09-09: Learning 3D Editing without Paired Supervision via Generative Prior Distillation
+
+### 2026-09-09: SQS: Bayesian DNN Compression through Sparse Quantized Sub-distributions
+
+### 2026-09-09: ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understand
+
+### 2026-09-09: Recognition-Refusal Misalignment in LLMs: Why Models Answer Structurally Unanswe
+
+### 2026-09-09: CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs
+
+### 2026-09-09: AuK Technical Report: An Open-Source Foundational Model for Speech Generation an
+
+### 2026-09-09: BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Lar
+
+### 2026-09-09: Omni Interaction Agent Technical Report
+
+### 2026-09-09: TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-La
+
+### 2026-09-09: Reason Through the Latent! Making Latent Visual Reasoning Necessary
+
+### 2026-09-09: CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Mani
+
+### 2026-09-09: Steering Geometry: Validating Human Value Geometry in LLM Steering Space
+
+### 2026-09-09: GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulatio
+
+### 2026-09-09: Miles v0.1: Production-Level Post-Training
+
+### 2026-09-09: Multi-Grid Post-Training for Long-Form Multi-Shot Video Generation
+
+### 2026-09-09: Environments as Scaffold: Enriching Feedback to Bootstrap Self-Evolving Agents i
+
+### 2026-09-09: Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context R
+
+### 2026-09-09: Agentic Visual Generation: From Generative Models to Agentic Control
+
+### 2026-09-09: VidaForge: Open Research Infrastructure for Video Pretraining Data Recipes
+
+### 2026-09-09: NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Ro
+
+### 2026-09-09: MOLE: Detecting Insider Threats in AI Agents
+
+### 2026-09-09: DriveZero: End-to-End Driving Beyond Human Demonstrations
+- HF trending paper (arxiv: 2609.06055). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.06055]] | https://huggingface.co/papers/2609.06055
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06966). Keywords: prompt. Status: pending-review.
+- Source: [[papers/2609.06966]] | https://huggingface.co/papers/2609.06966
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08183). Keywords: learning, curriculum, fine-tuning, reasoning. Status: pending-review.
+- Source: [[papers/2609.08183]] | https://huggingface.co/papers/2609.08183
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06652). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.06652]] | https://huggingface.co/papers/2609.06652
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06758). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.06758]] | https://huggingface.co/papers/2609.06758
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07108). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.07108]] | https://huggingface.co/papers/2609.07108
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08404). Keywords: learning, grpo, fine-tuning, lora. Status: pending-review.
+- Source: [[papers/2609.08404]] | https://huggingface.co/papers/2609.08404
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06373). Keywords: prompt. Status: pending-review.
+- Source: [[papers/2609.06373]] | https://huggingface.co/papers/2609.06373
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08368). Keywords: learning, fine-tuning, lora. Status: pending-review.
+- Source: [[papers/2609.08368]] | https://huggingface.co/papers/2609.08368
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05588). Keywords: learning, fine-tuning. Status: pending-review.
+- Source: [[papers/2609.05588]] | https://huggingface.co/papers/2609.05588
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06289). Keywords: rlhf, dpo, fine-tuning, instruction tuning. Status: pending-review.
+- Source: [[papers/2609.06289]] | https://huggingface.co/papers/2609.06289
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07498). Keywords: learning, sparse. Status: pending-review.
+- Source: [[papers/2609.07498]] | https://huggingface.co/papers/2609.07498
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06746). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2609.06746]] | https://huggingface.co/papers/2609.06746
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09158). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.09158]] | https://huggingface.co/papers/2609.09158
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08977). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2609.08977]] | https://huggingface.co/papers/2609.08977
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04971). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2609.04971]] | https://huggingface.co/papers/2609.04971
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08936). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.08936]] | https://huggingface.co/papers/2609.08936
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08345). Keywords: reasoning, pruning. Status: pending-review.
+- Source: [[papers/2609.08345]] | https://huggingface.co/papers/2609.08345
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.29109). Keywords: dpo, prompt. Status: pending-review.
+- Source: [[papers/2608.29109]] | https://huggingface.co/papers/2608.29109
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07941). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2609.07941]] | https://huggingface.co/papers/2609.07941
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2510.08999). Keywords: learning, quantization, sparse, pruning. Status: pending-review.
+- Source: [[papers/2510.08999]] | https://huggingface.co/papers/2510.08999
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04942). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.04942]] | https://huggingface.co/papers/2609.04942
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.04280). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.04280]] | https://huggingface.co/papers/2609.04280
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02881). Keywords: sparse. Status: pending-review.
+- Source: [[papers/2609.02881]] | https://huggingface.co/papers/2609.02881
+- Confidence: Low (auto-matched, not yet reviewed)
 - Solution coverage falls up to 67% under RLVR with likelihood shifts 11–16× larger before the first operator; entrance-targeted intervention (late-layer interpolation with early checkpoints) recovers +37% coverage at no pass@1 loss; staged SFT–DPO–RLVR preserves early-step entropy
 - Source: [[2608.29188]]
 - Confidence: High
