@@ -7,7 +7,6 @@ updated: '2026-09-09'
 tags:
 - skill
 - wiki
-- stub
 - ollama
 - concept-notes
 - gemma
