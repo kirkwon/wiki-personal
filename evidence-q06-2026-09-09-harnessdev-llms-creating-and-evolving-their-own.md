@@ -5,6 +5,7 @@ date: '2026-09-09T00:00:00.000Z'
 parent_question: Q06
 ingested_via: put_page
 ingested_at: '2026-09-09T09:29:21.208Z'
+created: '2026-09-09T09:29:21.208Z'
 source_kind: put_page
 tags:
   - evidence
