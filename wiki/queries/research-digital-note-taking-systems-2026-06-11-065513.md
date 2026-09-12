@@ -1,6 +1,6 @@
 ---
 date: 2026-06-10
-type: query
+type: analysis
 title: "Research: Digital Note-Taking Systems"
 description: "Research: Digital Note-Taking Systems"
 created: 2026-06-10

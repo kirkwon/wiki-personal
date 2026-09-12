@@ -2,7 +2,7 @@
 date: 2026-05-14
 title: Overfitting in Deep Neural Networks
 description: "Overfitting in Deep Neural Networks"
-type: problem
+type: note
 tags:
 - problem
 - deep-learning

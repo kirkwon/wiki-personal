@@ -6,7 +6,7 @@ tags:
 - general
 date: 2026-04-24
 title: Personal Vault Content Migration Plan
-type: comparison
+type: analysis
 updated: '2026-04-24'
 ---
 -

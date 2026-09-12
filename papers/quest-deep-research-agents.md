@@ -1,6 +1,6 @@
 ---
 date: 2026-06-28
-type: entity
+type: media
 title: QUEST — Training Frontier Deep Research Agents with Fully Synthetic Tasks
 created: 2026-06-28
 updated: 2026-06-28

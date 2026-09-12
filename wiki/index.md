@@ -1,7 +1,7 @@
 ---
 date: 2026-07-15
 
-type: summary
+type: note
 title: Wiki Index
 description: "> Automated directory of all wiki pages. | Total pages: 4581"
 tags: [meta]

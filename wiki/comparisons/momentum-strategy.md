@@ -7,7 +7,7 @@ tags:
 - quant
 date: 2026-04-24
 title: Momentum Strategy
-type: comparison
+type: analysis
 updated: '2026-04-24'
 ---
 -

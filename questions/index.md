@@ -2,7 +2,7 @@
 tags: [questions, index, methodology]
 created: 2026-05-25
 date: 2026-05-25
-type: question-index
+type: note
 ---
 
 # Research Questions — AI/ML × Finance

@@ -3,7 +3,7 @@ date: 2026-06-14
 title: Weekly Review 2026-W19
 created: 2026-06-14
 updated: 2026-06-14
-type: synthesis
+type: note
 tags: [meta, weekly-review]
 sources: ["/Users/kirkwon/.hermes/conversation-logs/reviews/2026-W19-review.md"]
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: entity
+type: media
 title: W. Chan Kim
 description: "Co-author of Blue Ocean Strategy with Renee Mauborgne."
 created: 2026-04-29

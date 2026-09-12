@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: entity
+type: media
 title: The Checklist Manifesto - Atul Gawande
 description: "--
 The Checklist Manifesto - Atul Gawande"

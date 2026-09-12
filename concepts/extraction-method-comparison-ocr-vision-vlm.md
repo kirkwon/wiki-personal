@@ -2,7 +2,7 @@
 date: 2026-07-04
 title: "Extraction Method Comparison: OCR vs Vision vs VLM vs MarkItDown"
 
-type: methodology-note
+type: note
 created: 2026-07-04
 context: "Judging 4 extraction methods against a complex infographic (968x968 JPEG, multi-panel, small text, flowcharts)"
 tags:

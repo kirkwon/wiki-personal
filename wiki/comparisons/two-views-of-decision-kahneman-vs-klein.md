@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: comparison
+type: analysis
 title: 'Two Views of Decision: Kahneman vs Klein'
 description: "Two Views of Decision: Kahneman vs Klein"
 created: 2026-05-03

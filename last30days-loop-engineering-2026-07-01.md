@@ -1,5 +1,5 @@
 ---
-type: research-brief
+type: analysis
 title: 'last30days: Loop Engineering — Latest Discourse (2026-07-01)'
 date: '2026-07-01T00:00:00.000Z'
 status: raw-material

@@ -6,7 +6,7 @@ tags:
 - general
 date: 2026-04-24
 title: 'Portal: Gastronomy'
-type: entity
+type: media
 updated: '2026-04-24'
 ---
 -

@@ -1,5 +1,5 @@
 ---
-type: evidence
+type: source
 title: Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing
 date: '2026-09-08T00:00:00.000Z'
 parent_question: Q06

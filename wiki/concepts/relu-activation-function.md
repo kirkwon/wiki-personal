@@ -2,7 +2,7 @@
 date: 2026-05-14
 title: ReLU Activation Function
 description: "ReLU Activation Function"
-type: solution
+type: note
 tags:
 - solution
 - activation-function

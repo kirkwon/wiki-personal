@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: Seneca
 description: "Lucius Annaeus Seneca (c. 4 BCE – 65 CE), known as Seneca the Younger, was a Roman Stoic philosopher, statesman, and playwright."
 created: 2026-05-03

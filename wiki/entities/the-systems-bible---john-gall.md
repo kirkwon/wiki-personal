@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: entity
+type: media
 title: The Systems Bible - John Gall
 description: "-
 The Systems Bible - John Gall"

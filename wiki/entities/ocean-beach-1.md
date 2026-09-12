@@ -4,7 +4,7 @@ title: Ocean Beach
 description: "Ocean Beach is a picturesque coastal location offering expansive views of the sea, ideal for both photography enthusiasts capturing natural landscapes and cooking aficionados seeking inspiration from."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

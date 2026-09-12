@@ -7,7 +7,7 @@ tags:
 - tea
 date: 2026-04-24
 title: Oolong Tea (乌龙茶 - Wūlóng Chá)
-type: query
+type: analysis
 updated: '2026-04-24'
 ---
 -

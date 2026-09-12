@@ -1,5 +1,5 @@
 ---
-type: evidence
+type: source
 title: 'Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning'
 date: '2026-09-08T00:00:00.000Z'
 parent_question: Q04

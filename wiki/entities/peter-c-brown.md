@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: Peter C. Brown
 description: "Co-author of [[make-it-stick-the-science-of-successful-learning]], Peter C."
 created: 2026-05-03

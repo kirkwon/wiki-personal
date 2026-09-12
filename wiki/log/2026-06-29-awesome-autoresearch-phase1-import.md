@@ -1,7 +1,7 @@
 ---
 date: 2026-06-29
 
-type: log
+type: note
 tags: [autoresearch, import, phase1, process]
 created: 2026-07-26
 updated: 2026-07-26

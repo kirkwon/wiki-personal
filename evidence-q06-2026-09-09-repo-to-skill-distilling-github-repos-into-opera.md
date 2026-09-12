@@ -1,5 +1,5 @@
 ---
-type: evidence
+type: source
 title: 'Repo-To-Skill: distilling GitHub repos into operational skill libraries'
 date: '2026-09-09T00:00:00.000Z'
 parent_question: Q06

@@ -1,7 +1,7 @@
 ---
 date: 2026-06-13
 
-type: paper
+type: source
 title: The Beginning Of Infinity
 ingested_via: put_page
 ingested_at: '2026-06-13T16:24:44.469Z'

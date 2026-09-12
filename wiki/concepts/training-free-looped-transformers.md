@@ -1,6 +1,6 @@
 ---
 date: 2026-06-15
-type: paper
+type: source
 description: "Training-Free Looped Transformers"
 tags: [paper, transformers, inference, ode, looping]
 created: 2026-06-15

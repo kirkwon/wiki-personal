@@ -3,7 +3,7 @@ tags: [permanent-question, research, ml-alternatives]
 created: 2026-05-25
 question: "What non-transformer architectures show promise? Energy-based models, neural-symbolic, state space models (Mamba), differentiable logic, Hopfield networks — what's state of art and practical utility?"
 date: 2026-05-25
-type: permanent-question
+type: note
 description: "Q04: Symbolic AI and Energy-Based (Non-Transformer) Models"
 reviewed: 2026-05-25
 ---

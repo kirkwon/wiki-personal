@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: Category:Recipes
 created: 2026-04-24
 updated: 2026-04-24

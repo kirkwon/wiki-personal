@@ -1,5 +1,5 @@
 ---
-type: research-synthesis
+type: analysis
 title: "The Convergence: How LLMs Learned to Think for Themselves — Literature Review"
 date: 2026-06-27
 author: Kirk Won

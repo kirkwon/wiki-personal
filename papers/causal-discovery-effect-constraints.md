@@ -1,6 +1,6 @@
 ---
 date: 2026-08-18
-type: entity
+type: media
 title: Interpretable Causal Discovery via Causal-Effect Constraints
 created: 2026-08-18
 updated: 2026-08-18

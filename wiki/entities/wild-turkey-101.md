@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: Wild Turkey 101
 description: "Kentucky Straight Bourbon at 101 proof."
 created: 2026-04-24

@@ -1,6 +1,6 @@
 ---
 date: 2026-06-28
-type: entity
+type: media
 title: "Ornith-1.0: Self-Improving Open-Source Models for Agentic Coding"
 created: 2026-06-28
 updated: 2026-06-28

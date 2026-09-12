@@ -1,6 +1,6 @@
 ---
 date: 2026-06-13
-type: query
+type: analysis
 title: "Algorithmic Nature of Intuition"
 description: "Naturaleza Algorítmica de la Intuición"
 created: 2026-06-13

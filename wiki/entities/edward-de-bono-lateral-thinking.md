@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: entity
+type: media
 title: Edward de Bono
 description: "Edward de Bono is a psychologist and author known for developing lateral thinking as a creative problem-solving technique."
 created: 2026-04-29

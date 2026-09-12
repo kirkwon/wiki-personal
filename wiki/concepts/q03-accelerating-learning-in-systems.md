@@ -9,7 +9,7 @@ tags:
 created: 2026-05-25
 question: "What approaches meaningfully accelerate learning — curriculum learning, active learning, knowledge distillation, continual learning, few-shot adaptation? What tradeoffs matter?"
 date: 2026-05-25
-type: permanent-question
+type: note
 description: "Q03: Accelerating Learning in Systems"
 reviewed: 2026-05-25
 ---

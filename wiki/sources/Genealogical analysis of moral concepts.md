@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: summary
+type: note
 title: Genealogical analysis of moral concepts
 description: "--
 Genealogical analysis of moral concepts"

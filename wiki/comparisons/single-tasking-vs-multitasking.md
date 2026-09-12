@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: comparison
+type: analysis
 title: Single-Tasking vs Multitasking
 description: "Single-Tasking vs Multitasking"
 created: 2026-05-03

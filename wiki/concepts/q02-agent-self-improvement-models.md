@@ -3,7 +3,7 @@ tags: [permanent-question, research, ai-agents]
 created: 2026-05-25
 question: "What are the frontier approaches for agents to improve their own scaffolding, tool use, and learning harness? Metalearning, self-critique, recursive improvement — what's working?"
 date: 2026-05-25
-type: permanent-question
+type: note
 description: "Q02: Agent Self-Improvement Models"
 reviewed: 2026-05-25
 ---

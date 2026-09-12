@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: Eric at The PeakFP
 created: 2026-04-24
 updated: 2026-04-24

@@ -3,7 +3,7 @@ date: 2026-06-19
 title: Claude Fable 5 — System Prompt Deep Dive
 created: 2026-06-19
 updated: 2026-06-19
-type: reference
+type: source
 tags: [ai-systems, system-prompts, anthropic, claude, prompt-engineering]
 sources: [raw/sources/CL4R1T4S/ANTHROPIC/CLAUDE-FABLE-5.md]
 confidence: high

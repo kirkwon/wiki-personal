@@ -16,7 +16,7 @@ year: 2024
 category: general
 sources:
 - Holiday.md
-type: framework
+type: note
 ---
 --
 

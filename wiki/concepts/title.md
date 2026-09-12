@@ -6,7 +6,7 @@ tags:
 - general
 date: 2026-04-24
 title: '{{title}}'
-type: template
+type: note
 updated: '2026-04-24'
 ---
 

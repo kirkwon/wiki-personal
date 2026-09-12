@@ -1,5 +1,5 @@
 ---
-type: dashboard
+type: note
 title: Project Dashboard
 created: 2026-09-12
 tags: [dashboard, auto-generated]

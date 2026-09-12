@@ -4,7 +4,7 @@ title: Simon Sinek
 description: "Simon Sinek is an author, motivational speaker, and leadership consultant known for his work on leadership, purpose, and communication."
 created: 2026-05-03
 updated: 2026-05-12
-type: entity
+type: media
 tags:
 - person
 - leadership

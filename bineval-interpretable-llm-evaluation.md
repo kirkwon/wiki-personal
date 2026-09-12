@@ -1,5 +1,5 @@
 ---
-type: research-note
+type: analysis
 title: 'BINEVAL — Ask, Don''t Judge: Binary Questions for Interpretable LLM Evaluation'
 date: '2026-06-27T00:00:00.000Z'
 paper: 'https://arxiv.org/abs/2606.27226'

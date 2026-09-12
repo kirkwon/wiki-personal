@@ -1,6 +1,6 @@
 ---
 date: 2026-05-14
-type: skill
+type: note
 title: Skills Dashboard - Fixed Issues & Improvements
 created: 2026-05-14
 updated: 2026-05-14

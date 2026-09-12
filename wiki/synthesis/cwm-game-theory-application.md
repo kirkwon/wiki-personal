@@ -1,7 +1,7 @@
 ---
 date: 2026-06-21
 
-type: synthesis
+type: note
 title: "CWM Pattern Applied to Game Theory in Agent Systems"
 category: wiki
 tags: [synthesis, game-theory, code-world-models, planning, verification, agent-architecture]

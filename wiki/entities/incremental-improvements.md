@@ -1,6 +1,6 @@
 ---
 date: 2026-05-14
-type: mental-model
+type: concept
 title: Incremental UX Improvements - Progress Log
 created: 2026-05-14
 updated: 2026-05-14

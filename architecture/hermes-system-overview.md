@@ -1,6 +1,6 @@
 ---
 date: 2026-07-01
-type: architecture
+type: note
 title: Hermes Agent System Architecture — Data Pipelines, Processes & Storage
 status: active
 tags: [architecture, data-pipeline, process, storage, mermaid]

@@ -7,7 +7,7 @@ tags:
 - tea
 date: 2026-04-24
 title: Green Tea (绿茶 - Lǚ Chá)
-type: query
+type: analysis
 updated: '2026-04-24'
 ---
 -

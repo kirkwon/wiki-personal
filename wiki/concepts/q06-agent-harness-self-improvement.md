@@ -3,7 +3,7 @@ tags: [permanent-question, research, ai-agents]
 created: 2026-05-25
 question: "Beyond generic metalearning — what specific architectural and algorithmic ideas let agents build better toolchains, improve their own prompting, and recursively self-optimize? How does this apply to quantitative research workflows?"
 date: 2026-05-25
-type: permanent-question
+type: note
 description: "Q06: Agent Recursive Self-Improvement"
 reviewed: 2026-05-25
 ---

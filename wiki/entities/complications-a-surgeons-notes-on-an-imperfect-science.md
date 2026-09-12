@@ -1,7 +1,7 @@
 ---
 
 date: 2026-04-29
-type: entity
+type: media
 title: 'Complications: A Surgeon''s Notes on an Imperfect Science'
 description: "-"
 Complications: A Surgeon's Notes on an Imperfect Science""

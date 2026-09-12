@@ -1,6 +1,6 @@
 ---
 date: 2026-06-10
-type: query
+type: analysis
 title: "Research: Add cross-references to comparisons/personal-vault-content-migration-plan.md"
 description: "Research: Add cross-references to comparisons/personal-vault-content-migration-plan.md"
 created: 2026-06-10

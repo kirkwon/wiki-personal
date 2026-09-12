@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: entity
+type: media
 title: Nate Silver
 created: 2026-04-29
 updated: 2026-05-10

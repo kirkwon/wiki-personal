@@ -1,5 +1,5 @@
 ---
-type: evidence
+type: source
 title: Using Grounded Theory for Agent Behavior Analysis at Scale
 date: '2026-09-04T00:00:00.000Z'
 parent_question: Q07

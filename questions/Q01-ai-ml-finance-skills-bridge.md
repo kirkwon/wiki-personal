@@ -3,7 +3,7 @@ tags: [permanent-question, research]
 created: 2026-05-25
 question: "What are the foundational skills and knowledge that most leverage the intersection of AI/ML and Finance? Work from basics — what does one actually need to master?"
 date: 2026-05-25
-type: permanent-question
+type: note
 reviewed: 2026-09-02
 confidence: 0.95
 evidence_count: 283

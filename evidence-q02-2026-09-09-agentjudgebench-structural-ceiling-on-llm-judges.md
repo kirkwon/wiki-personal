@@ -1,5 +1,5 @@
 ---
-type: evidence
+type: source
 title: 'AgentJudgeBench: structural ceiling on LLM judges for agentic tool-calling'
 date: '2026-09-09T00:00:00.000Z'
 parent_question: Q02

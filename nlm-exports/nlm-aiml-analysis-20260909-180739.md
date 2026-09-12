@@ -1,5 +1,5 @@
 ---
-type: nlm-export
+type: source
 title: 'NotebookLM Findings: aiml-analysis'
 source: notebooklm
 exported: '2026-09-09T18:07:39.580Z'

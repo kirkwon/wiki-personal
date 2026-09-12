@@ -4,7 +4,7 @@ title: Personal Clients
 description: "A 'Personal Client' refers to an individual seeking tailored advice or services within the realms of cooking (culinary guidance), photography (photo editing or styling tips), personal finance (investm."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

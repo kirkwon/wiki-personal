@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: Charles Duhigg
 created: 2026-05-03
 updated: 2026-05-12

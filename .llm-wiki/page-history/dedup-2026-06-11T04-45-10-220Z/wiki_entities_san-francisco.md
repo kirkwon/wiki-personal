@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: San Francisco
 created: 2026-04-24
 updated: 2026-05-09

@@ -7,7 +7,7 @@ tags:
 - general
 date: 2026-04-24
 title: Coffee Bean Processing (咖啡豆处理)
-type: comparison
+type: analysis
 updated: '2026-04-24'
 ---
 -

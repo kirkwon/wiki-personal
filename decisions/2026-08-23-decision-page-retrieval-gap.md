@@ -1,6 +1,6 @@
 ---
 date: '2026-08-23'
-type: decision
+type: note
 status: committed
 tags:
   - gbrain

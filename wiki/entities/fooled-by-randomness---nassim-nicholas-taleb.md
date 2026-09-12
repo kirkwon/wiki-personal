@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: Fooled by Randomness - Nassim Nicholas Taleb
 description: "Fooled by Randomness - Nassim Nicholas Taleb"
 created: 2026-05-03

@@ -1,6 +1,6 @@
 ---
 date: 2026-06-12
-type: query
+type: analysis
 title: "Research: Implementing PKM System"
 description: "Research: Implementing PKM System"
 created: 2026-06-12

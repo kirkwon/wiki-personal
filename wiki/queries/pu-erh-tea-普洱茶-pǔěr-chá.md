@@ -7,7 +7,7 @@ tags:
 - tea
 date: 2026-04-24
 title: Pu-erh Tea (普洱茶 - Pǔ'ěr Chá)
-type: query
+type: analysis
 updated: '2026-04-24'
 ---
 -

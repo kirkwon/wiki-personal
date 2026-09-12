@@ -1,7 +1,7 @@
 ---
 
 date: 2026-04-29
-type: summary
+type: note
 category:
 - Template
 created: 2026-04-29

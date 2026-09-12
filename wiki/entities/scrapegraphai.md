@@ -1,6 +1,6 @@
 ---
 date: 2026-06-21
-type: entity
+type: media
 title: ScrapeGraphAI
 description: "LLM-powered web extraction tool (23k GitHub stars). Uses SmartScraperGraph with Ollama (free, local) to produce clean, focused content from URLs. Slower but higher quality than heuristic extraction."
 created: 2026-06-21

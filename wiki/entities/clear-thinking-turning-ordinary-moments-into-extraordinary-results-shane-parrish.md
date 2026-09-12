@@ -4,7 +4,7 @@ title: Clear Thinking_ Turning Ordinary Moments into Extraordinary Results - Sha
 description: "Clear Thinking_ Turning Ordinary Moments into Extraordinary Results - Shane Parrish"
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

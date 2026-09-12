@@ -11,7 +11,7 @@ updated: 2026-05-03
 ingested: 2026-05-03
 sha256: e05446560fb4754b206bba996c48f845bd8a5a0fcb787f2201688525f0fde117
 sources: []
-type: framework
+type: note
 ---
 -
 

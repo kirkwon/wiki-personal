@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: entity
+type: media
 title: Annie Duke
 description: "Former professional poker player, author, and decision-making expert."
 created: 2026-04-29

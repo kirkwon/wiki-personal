@@ -4,7 +4,7 @@ title: Golden Gate Park
 description: "Golden Gate Park is a large urban park located in San Francisco, California, renowned for its expansive green spaces, diverse flora, and numerous attractions such as the Conservatory of Flowers and St."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

@@ -4,7 +4,7 @@ title: Resource:Wok Cooking Masterclass
 description: "Resource:Wok Cooking Masterclass"
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

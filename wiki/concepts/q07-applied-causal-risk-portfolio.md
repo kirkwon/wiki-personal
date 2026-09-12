@@ -4,7 +4,7 @@ created: 2026-06-03
 updated: 2026-06-03
 question: "How do you apply causal inference (Pearl/DoWhy/EconML) to risk management and portfolio construction specifically in peaking and sideways market regimes? Focus on the 5-10% satellite allocation context."
 date: 2026-06-03
-type: permanent-question
+type: note
 reviewed: 2026-06-03
 focus: applied causal inference for risk + portfolio construction in sideways/peaking markets, 5-10% allocation
 status: Active — Pipeline A complete (synthetic). Gaps 2,3,4,6 researched. Gap 5 (backtest) still TODO.

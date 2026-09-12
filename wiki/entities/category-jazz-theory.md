@@ -4,7 +4,7 @@ title: Category:Jazz Theory
 description: "A Jazz Theory category encompasses the principles and practices of improvisation, chord progressions, scales, and rhythmic patterns unique to jazz music composition and performance."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

@@ -8,7 +8,7 @@ author: Tiago Forte
 year: 2024
 created: 2026-05-03
 updated: 2026-05-03
-type: summary
+type: note
 tags:
 - productivity
 - organization

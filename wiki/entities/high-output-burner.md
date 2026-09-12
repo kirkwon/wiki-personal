@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: High-Output Burner (高功率灶具)
 description: "--
 High-Output Burner (高功率灶具)"

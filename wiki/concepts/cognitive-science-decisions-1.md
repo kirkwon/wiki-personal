@@ -1,6 +1,6 @@
 ---
 date: 2025-04-15
-type: index
+type: note
 domain: Cognitive Science & Decisions
 created: &id001 2025-04-15
 title: Cognitive Science & Decisions

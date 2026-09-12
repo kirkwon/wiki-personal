@@ -1,6 +1,6 @@
 ---
 date: 2026-06-28
-type: entity
+type: media
 title: VibeThinker-3B — Verifiable Reasoning in Small Language Models
 created: 2026-06-28
 updated: 2026-06-28

@@ -1,6 +1,6 @@
 ---
 date: 2026-06-13
-type: query
+type: analysis
 title: "Problema Difícil de la Conciencia"
 description: "Problema Difícil de la Conciencia"
 created: 2026-06-13

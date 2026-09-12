@@ -4,7 +4,7 @@ title: confirmation-bias
 description: "Confirmation bias is the tendency to search for, interpret, favor, and recall information that confirms pre-existing beliefs or hypotheses in areas like cooking (favoring recipes we believe work best)."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

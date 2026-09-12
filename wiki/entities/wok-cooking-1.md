@@ -4,7 +4,7 @@ title: Wok cooking
 description: "Wok cooking is a stir-fry technique originating from East Asia that involves quickly frying ingredients in a rounded-bottomed pan over high heat."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

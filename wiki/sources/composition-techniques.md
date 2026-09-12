@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: summary
+type: note
 title: Composition Techniques
 description: "--
 Composition Techniques"

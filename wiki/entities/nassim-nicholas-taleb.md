@@ -2,7 +2,7 @@
 date: 2026-05-03
 title: Nassim Nicholas Taleb
 description: "Nassim Nicholas Taleb"
-type: entity
+type: media
 created: 2026-05-03
 updated: 2026-05-12
 tags:

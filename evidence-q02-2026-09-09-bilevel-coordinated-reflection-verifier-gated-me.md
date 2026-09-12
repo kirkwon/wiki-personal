@@ -1,5 +1,5 @@
 ---
-type: evidence
+type: source
 title: Bilevel coordinated reflection + verifier-gated memory ascent (SRMA)
 date: '2026-09-09T00:00:00.000Z'
 parent_question: Q02

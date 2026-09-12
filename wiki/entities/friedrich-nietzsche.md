@@ -1,6 +1,6 @@
 ---
 date: 2026-05-04
-type: entity
+type: media
 title: Friedrich Nietzsche
 description: "Friedrich Nietzsche
 German philosopher (1844–1900) known for his radical critique of traditional morality, religion, and philosophy."

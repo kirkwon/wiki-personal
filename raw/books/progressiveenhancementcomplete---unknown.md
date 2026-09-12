@@ -11,7 +11,7 @@ concepts: 0
 ingested: 2026-05-03
 sha256: e66ab51cfa72f33770a0cd084700ead28d4d1e0028e716dba9302e99b9e70c26
 updated: 2026-05-12
-type: framework
+type: note
 created: '2026-05-14'
 ---
 --

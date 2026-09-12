@@ -1,6 +1,6 @@
 ---
 date: 2026-05-04
-type: entity
+type: media
 title: Donella H. Meadows
 created: 2026-05-04
 updated: 2026-05-10

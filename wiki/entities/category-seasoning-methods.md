@@ -4,7 +4,7 @@ title: Category:Seasoning Methods
 description: "Category:Seasoning Methods"
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

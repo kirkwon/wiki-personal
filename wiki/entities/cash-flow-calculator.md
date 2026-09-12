@@ -4,7 +4,7 @@ title: Cash Flow Calculator
 description: "A Cash Flow Calculator is an analytical tool used to track the movement of money into and out of your finances over time."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-06-13
 
-type: paper
+type: source
 title: 'Project Synapse: Hierarchical Multi-Agent Framework with Hybrid Memory'
 year: 2026
 domain: multi-agent

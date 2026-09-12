@@ -1,6 +1,6 @@
 ---
 date: 2026-07-06
-type: entity
+type: media
 title: "Always-On Agents: A Survey of Persistent Memory, State, and Governance in LLM Agents"
 created: 2026-07-06
 updated: 2026-07-06

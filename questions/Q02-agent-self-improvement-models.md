@@ -3,7 +3,7 @@ tags: [permanent-question, research]
 created: 2026-05-25
 question: "What are the frontier approaches for agents to improve their own scaffolding, tool use, and learning harness? Metalearning, self-critique, recursive improvement — what's working?"
 date: 2026-05-25
-type: permanent-question
+type: note
 reviewed: 2026-09-02
 confidence: 0.95
 evidence_count: 370

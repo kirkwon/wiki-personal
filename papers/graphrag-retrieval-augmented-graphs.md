@@ -1,7 +1,7 @@
 ---
 date: 2026-06-13
 
-type: paper
+type: source
 title: Retrieval-Augmented Generation with Graphs (GraphRAG)
 year: 2024
 domain: knowledge-graphs

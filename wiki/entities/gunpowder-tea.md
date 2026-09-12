@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: Gunpowder Tea (珠茶)
 description: "--
 Gunpowder Tea (珠茶)"

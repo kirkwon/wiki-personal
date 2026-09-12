@@ -10,7 +10,7 @@ chapters: 1
 concepts: 1
 ingested: 2026-05-03
 sha256: 696fb30b3ff245a64c1a7c11dbf8a0dc03c92c515d2ecd20e8426e1ecebd53a0
-type: framework
+type: note
 created: '2026-05-14'
 updated: '2026-05-14'
 ---

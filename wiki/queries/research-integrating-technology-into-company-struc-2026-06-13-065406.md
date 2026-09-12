@@ -1,6 +1,6 @@
 ---
 date: 2026-06-12
-type: query
+type: analysis
 title: "Research: Integrating Technology into Company Structure Charts"
 description: "Research: Integrating Technology into Company Structure Charts"
 created: 2026-06-12

@@ -1,7 +1,7 @@
 ---
 
 date: 2026-05-03
-type: summary
+type: note
 title: VIDEO_SUMMARY_ENHANCEMENTS - Unknown
 created: 2026-05-03
 updated: 2026-05-03

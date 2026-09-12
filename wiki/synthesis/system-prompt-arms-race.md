@@ -3,7 +3,7 @@ date: 2026-06-19
 title: The System Prompt Arms Race — Transparency, Obfuscation, and Convergence
 created: 2026-06-19
 updated: 2026-06-19
-type: summary
+type: note
 tags: [ai-systems, system-prompts, transparency, prompt-engineering, synthesis]
 sources: [raw/sources/CL4R1T4S]
 confidence: medium

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: Edward de Bono
 description: "Edward de Bono is a Maltese physician, author, and consultant known for his work in lateral thinking and structured thinking methodologies."
 created: 2026-05-03

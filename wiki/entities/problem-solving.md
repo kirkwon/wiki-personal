@@ -4,7 +4,7 @@ title: problem-solving
 description: "Problem-solving is the process of identifying issues within cooking recipes, photography techniques, financial planning, or cognitive patterns to devise effective strategies for resolution."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

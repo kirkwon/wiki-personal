@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: Carbon Steel Wok (碳钢锅)
 description: "--
 Carbon Steel Wok (碳钢锅)"

@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: summary
+type: note
 title: Understanding
 description: "Understanding is a conceptual tool or principle that helps understand and navigate complex situations."
 created: 2026-04-29

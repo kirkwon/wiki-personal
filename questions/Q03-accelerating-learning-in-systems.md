@@ -3,7 +3,7 @@ tags: [permanent-question, research]
 created: 2026-05-25
 question: "What approaches meaningfully accelerate learning — curriculum learning, active learning, knowledge distillation, continual learning, few-shot adaptation? What tradeoffs matter?"
 date: 2026-05-25
-type: permanent-question
+type: note
 reviewed: 2026-09-02
 confidence: 0.95
 evidence_count: 497

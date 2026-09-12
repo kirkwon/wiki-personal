@@ -1,5 +1,5 @@
 ---
-type: evidence
+type: source
 title: 'RLVR loses reasoning breadth at the entrance, not inside execution'
 date: '2026-09-09T00:00:00.000Z'
 parent_question: Q03

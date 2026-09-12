@@ -1,6 +1,6 @@
 ---
 date: 2026-06-10
-type: query
+type: analysis
 title: "Research: Add cross-references to comparisons/risk-assessment-framework.md"
 description: "Research: Add cross-references to comparisons/risk-assessment-framework.md"
 created: 2026-06-10

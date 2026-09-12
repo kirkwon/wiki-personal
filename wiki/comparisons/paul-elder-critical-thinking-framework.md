@@ -6,7 +6,7 @@ tags:
 - general
 date: 2026-04-24
 title: Paul-Elder Critical Thinking Framework
-type: comparison
+type: analysis
 updated: '2026-04-24'
 ---
 -

@@ -2,7 +2,7 @@
 tags: [analysis, comparison, agent-eval]
 created: 2026-06-16
 date: 2026-06-16
-type: comparison
+type: analysis
 ---
 
 # Mimo vs Gemma 4: Technical Task Categorization

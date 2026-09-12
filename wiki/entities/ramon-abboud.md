@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: Ramon Abboud
 description: "Author of I Will Teach You to Be Rich, a six-week personal finance program focused on automating finances, conscious spending, and index fund investing."
 created: 2026-04-24

@@ -4,7 +4,7 @@ title: Resource:The Flavor Bible
 description: "Resource:The Flavor Bible"
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

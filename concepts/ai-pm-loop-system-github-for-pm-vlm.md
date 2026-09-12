@@ -3,7 +3,7 @@ date: 2026-07-14
 
 title: "The Complete AI PM Loop System (GitHub for PM)"
 
-type: image_ingest
+type: source
 source_type: image_ocr_vlm
 source_file: img_069447b4d0ed.jpg
 ingested: 2026-07-05

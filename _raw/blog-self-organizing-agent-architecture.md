@@ -1,5 +1,5 @@
 ---
-type: blog-draft
+type: writing
 title: "Building a Self-Organizing Agent Architecture: A Methodology Post"
 date: 2026-06-27
 author: Kirk Won

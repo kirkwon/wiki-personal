@@ -1,6 +1,6 @@
 ---
 date: 2026-06-28
-type: entity
+type: media
 title: Co-Failure Ceiling — When Combining Language Models Helps
 created: 2026-06-28
 updated: 2026-06-28

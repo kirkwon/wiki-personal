@@ -1,5 +1,5 @@
 ---
-type: evidence
+type: source
 title: >-
   EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying
   V

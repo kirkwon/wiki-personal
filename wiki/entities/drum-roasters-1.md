@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: 滚筒烘焙机
 description: "滚筒烘焙机是咖啡烘焙的经典设备，通过旋转鼓体将热量传递给咖啡豆。"
 created: 2026-05-03

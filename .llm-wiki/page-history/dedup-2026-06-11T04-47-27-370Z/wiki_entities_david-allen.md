@@ -1,7 +1,7 @@
 ---
 date: 2026-05-03
 title: David Allen
-type: entity
+type: media
 created: 2026-05-03
 updated: 2026-05-12
 tags:

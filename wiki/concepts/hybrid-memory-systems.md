@@ -2,7 +2,7 @@
 tags: [concept, hardware, computer architecture]
 created: 2026-06-16
 date: 2026-06-16
-type: concept-stub
+type: concept
 ---
 
 # hybrid-memory-systems

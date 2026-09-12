@@ -1,6 +1,6 @@
 ---
 date: 2026-06-28
-type: entity
+type: media
 title: OSWorld 2.0 — Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks
 created: 2026-06-28
 updated: 2026-06-28

@@ -4,7 +4,7 @@ title: linguine
 description: "Linguine is an Italian pasta that resembles flat ribbons, typically made from durum wheat flour."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

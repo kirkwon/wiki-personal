@@ -1,7 +1,7 @@
 ---
 date: 2026-06-13
 
-type: paper
+type: source
 title: >-
   Evolving Agents in the Dark: Retrospective Harness Optimization via
   Self-Preference

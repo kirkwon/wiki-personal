@@ -1,6 +1,6 @@
 ---
 date: 2026-08-17
-type: decision
+type: note
 title: "Premortem: GBrain Decision Engine"
 created: '2026-08-17'
 status: active

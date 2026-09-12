@@ -4,7 +4,7 @@ title: cooking-techniques
 description: "Cooking techniques refer to the methods and processes used to prepare food, including but not limited to chopping, baking, grilling, sautéing, steaming, and sous-vide."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

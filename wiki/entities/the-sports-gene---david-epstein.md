@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: entity
+type: media
 title: The Sports Gene - David Epstein
 description: "--
 The Sports Gene - David Epstein"

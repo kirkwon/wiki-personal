@@ -1,6 +1,6 @@
 ---
 date: 2026-04-22
-type: entity
+type: media
 title: C Corporation
 created: 2026-04-22
 updated: 2026-04-22

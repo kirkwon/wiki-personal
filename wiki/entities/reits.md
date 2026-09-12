@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: REITs
 description: "--
 REITs (Real Estate Investment Trusts)"

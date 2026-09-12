@@ -1,6 +1,6 @@
 ---
 date: 2026-06-12
-type: query
+type: analysis
 title: "Research: Add cross-references to comparisons/company-structure-guide.md"
 description: "Research: Add cross-references to comparisons/company-structure-guide.md"
 created: 2026-06-12

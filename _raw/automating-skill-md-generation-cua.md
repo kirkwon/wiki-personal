@@ -1,5 +1,5 @@
 ---
-type: research-note
+type: analysis
 title: "Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining"
 source: "PDF uploaded by Kirk Won"
 paper: "https://arxiv.org/abs/2606.20363"

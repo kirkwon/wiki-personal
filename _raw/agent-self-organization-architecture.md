@@ -1,6 +1,6 @@
 ---
 date: 2026-06-27
-type: architecture-doc
+type: note
 title: "Agent Self-Organization Architecture"
 created: 2026-06-27
 updated: 2026-06-27

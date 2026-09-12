@@ -1,7 +1,7 @@
 ---
 date: 2026-06-13
 
-type: paper
+type: source
 title: 'STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding'
 year: 2026
 domain: context-compression

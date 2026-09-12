@@ -1,6 +1,6 @@
 ---
 date: 2026-06-16
-type: query
+type: analysis
 title: "Research: Implementing Critic Separation"
 created: 2026-06-16
 origin: deep-research

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: 'Quit: The Power of Knowing When to Walk Away'
 description: "Quit: The Power of Knowing When to Walk Away"
 created: 2026-05-03

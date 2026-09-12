@@ -1,6 +1,6 @@
 ---
 date: 2026-05-14
-type: index
+type: note
 title: Quant Strategy
 created: 2026-05-14
 updated: 2026-05-14

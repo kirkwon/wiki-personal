@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: Greg McKeown
 description: "Greg McKeown is an author, speaker, and thought leader known for developing the concept of Essentialism and introducing the Living mental model."
 created: 2026-05-03

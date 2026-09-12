@@ -8,7 +8,7 @@ tags:
 - real-estate
 date: 2026-04-24
 title: Bay Area Real Estate Market Analysis
-type: query
+type: analysis
 updated: '2026-04-24'
 ---
 -

@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: summary
+type: note
 title: Memory as Institutional Knowledge
 description: "--
 Memory as Institutional Knowledge"

@@ -1,6 +1,6 @@
 ---
 date: 2026-08-23
-type: entity
+type: media
 title: "Phantom Gains: Auditing Self-Improvement Against a Measured Null"
 created: 2026-08-23
 updated: 2026-08-23

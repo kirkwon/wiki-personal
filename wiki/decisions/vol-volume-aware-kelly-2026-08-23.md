@@ -1,5 +1,5 @@
 ---
-type: decision
+type: note
 title: "Vol- and Volume-Aware Kelly Sizing"
 status: accepted
 date: '2026-08-23'

@@ -1,6 +1,6 @@
 ---
 date: 2026-06-12
-type: query
+type: analysis
 title: "Research: Validation of Mental Models"
 description: "Research: Validation of Mental Models"
 created: 2026-06-12

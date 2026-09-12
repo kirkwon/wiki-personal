@@ -3,7 +3,7 @@ date: 2026-04-24
 title: Rice Varieties Index
 created: 2026-04-24
 updated: 2026-04-24
-type: summary
+type: note
 tags:
 - rice
 - gastronomy

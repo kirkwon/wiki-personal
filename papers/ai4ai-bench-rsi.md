@@ -1,6 +1,6 @@
 ---
 date: 2026-08-23
-type: entity
+type: media
 title: "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"
 created: 2026-08-23
 updated: 2026-08-23

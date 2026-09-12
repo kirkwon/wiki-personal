@@ -3,7 +3,7 @@ date: 2026-05-03
 title: Amos Tversky
 created: 2026-05-03
 updated: 2026-05-03
-type: entity
+type: media
 tags:
 - person
 - decision-making

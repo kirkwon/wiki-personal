@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: Dragon Well (龙井茶)
 description: "Dragon Well (Longjing) is one of China's finest green teas, originating from Hangzhou, Zhejiang Province."
 created: 2026-04-24

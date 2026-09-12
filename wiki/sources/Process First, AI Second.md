@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: summary
+type: note
 title: Process First, AI Second
 created: 2026-04-29
 updated: 2026-04-29

@@ -1,5 +1,5 @@
 ---
-type: research-note
+type: analysis
 title: "BabelTele — Model-Native Compressed Representations for LLMs"
 source: "https://x.com/rohanpaul_ai/status/2070262004980326437"
 paper: "https://arxiv.org/abs/2606.19857"

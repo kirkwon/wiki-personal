@@ -4,7 +4,7 @@ title: Derivatives
 description: "A derivative is a financial instrument whose value is derived from the performance of an underlying asset or benchmark, such as stocks, bonds, commodities, or interest rates."
 created: 2026-06-10
 updated: 2026-06-10
-type: entity
+type: media
 tags: []
 sources: []
 ---

@@ -1,7 +1,7 @@
 ---
 
 date: 2026-04-18
-type: entity
+type: media
 title: 'The 8th Habit: From Effectiveness to Greatness'
 description: "-"
 The 8th Habit: From Effectiveness to Greatness""

@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: summary
+type: note
 title: Occam's Razor application
 description: "--
 Occam's Razor application"

@@ -1,7 +1,7 @@
 ---
 date: 2026-06-13
 
-type: paper
+type: source
 title: 'Reflexion: Language Agents with Verbal Reinforcement Learning'
 year: 2023
 domain: agentic-ai

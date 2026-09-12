@@ -6,7 +6,7 @@ tags:
 - general
 date: 2026-04-24
 title: Financial Reporting Templates
-type: comparison
+type: analysis
 updated: '2026-04-24'
 ---
 -

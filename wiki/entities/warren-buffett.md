@@ -1,6 +1,6 @@
 ---
 date: 2026-04-29
-type: entity
+type: media
 title: Warren Buffett
 description: "Warren Buffett
 Investor and billionaire whose wealth accumulation illustrates the power of [[compounding-time]]. 90% of his wealth was accumulated after age 65.^[raw/articles/The Psychology of Money.m."

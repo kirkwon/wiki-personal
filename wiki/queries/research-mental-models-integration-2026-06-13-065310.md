@@ -1,6 +1,6 @@
 ---
 date: 2026-06-12
-type: query
+type: analysis
 title: "Research: Mental Models Integration"
 description: "Research: Mental Models Integration"
 created: 2026-06-12

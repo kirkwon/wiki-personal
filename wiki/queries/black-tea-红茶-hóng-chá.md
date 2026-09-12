@@ -7,7 +7,7 @@ tags:
 - tea
 date: 2026-04-24
 title: Black Tea (红茶 - Hóng Chá)
-type: query
+type: analysis
 updated: '2026-04-24'
 ---
 -

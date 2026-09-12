@@ -1,6 +1,6 @@
 ---
 date: 2026-06-12
-type: query
+type: analysis
 title: "Research: Add cross-references to concepts/algorithms-and-wellbeing.md"
 description: "Research: Add cross-references to concepts/algorithms-and-wellbeing.md"
 created: 2026-06-12

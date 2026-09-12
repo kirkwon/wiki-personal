@@ -1,6 +1,6 @@
 ---
 date: 2026-06-16
-type: entity
+type: media
 title: Critic Agent
 created: 2026-06-16
 updated: 2026-06-16

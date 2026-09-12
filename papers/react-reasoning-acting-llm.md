@@ -1,7 +1,7 @@
 ---
 date: 2026-06-13
 
-type: paper
+type: source
 title: 'ReAct: Synergizing Reasoning and Acting in Language Models'
 year: 2022
 domain: agentic-ai

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-03
-type: entity
+type: media
 title: Henry L. Roediger III
 description: "Henry L. Roediger III"
 created: 2026-05-03

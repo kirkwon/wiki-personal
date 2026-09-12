@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-type: entity
+type: media
 title: Biluochun (碧螺春)
 description: "Biluochun is a Chinese green tea from Jiangsu Province, hand-rolled into a distinctive spiral shape."
 created: 2026-04-24

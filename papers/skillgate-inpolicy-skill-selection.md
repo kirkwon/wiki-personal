@@ -1,6 +1,6 @@
 ---
 date: 2026-08-23
-type: entity
+type: media
 title: "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents"
 created: 2026-08-23
 updated: 2026-08-23
