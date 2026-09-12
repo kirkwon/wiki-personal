@@ -1,22 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Kelly Sizer
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- strategy
-- finance
-- decision-making
-- kelly-criterion
-- risk-adjusted-returns
-sources:
-- hermes://skill/kelly-sizer
-description: Determine optimal resource allocation (time, money, effort) for opportunities
-  with positive expected value using Kelly criterion principles. Includes the Kelly-Sharpe-Alpha
-  factor chain identity and diagnostics (DSR, Kelly divergence, Sortino/Sharpe spread).
----
+------
 
 # Kelly Sizer
 
@@ -46,3 +28,5 @@ description: Determine optimal resource allocation (time, money, effort) for opp
 
 - Skill source: `/Users/kirkwon/.hermes/skills/strategy/kelly-sizer/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[kelly-criterion-bet-sizing]]

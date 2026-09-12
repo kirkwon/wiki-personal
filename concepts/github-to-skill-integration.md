@@ -41,3 +41,7 @@ Run the full chain end-to-end and confirm the output artifact exists with expect
 
 - Skill source: `/Users/kirkwon/.hermes/skills/software-development/github-to-skill-integration/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-skill-development-workflow]]
+
+[[skill-family-survey]]

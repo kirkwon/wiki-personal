@@ -1,21 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Portfolio Analyzer
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- uncategorized
-sources:
-- hermes://skill/portfolio-analyzer
-description: Analyze investment portfolios — concentration, allocation, tax efficiency,
-  risk metrics, rebalancing needs. Runs the portfolio dashboard scripts and interprets
-  results. Covers HHI concentration scores, TLH candidates, drift analysis, Sharpe
-  ratios, and factor exposures. Trigger on phrases like "portfolio analysis", "portfolio
-  health", "concentration", "allocation", "tax loss harvesting", "rebalance", "portfolio
-  risk".
----
+------
 
 # Portfolio Analyzer
 
@@ -45,3 +28,5 @@ The analyzer's `portfolio.py` has a specific data shape. These are the fields an
 
 - Skill source: `/Users/kirkwon/.hermes/skills/portfolio-analyzer/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[portfolio-dashboard]]

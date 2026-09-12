@@ -41,3 +41,9 @@ description: Fix common Obsidian vault formatting issues - infobox syntax, YAML 
 
 - Skill source: `/Users/kirkwon/.hermes/skills/note-taking/obsidian-vault-cleanup/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[obsidian-vault-ingest]]
+
+[[obsidian-vault-management]]
+
+[[obsidian-vault-enhancement]]

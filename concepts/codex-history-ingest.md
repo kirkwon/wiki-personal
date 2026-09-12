@@ -1,21 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Codex History Ingest
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- software-development
-sources:
-- hermes://skill/codex-history-ingest
-description: Ingest Codex CLI conversation history into the Obsidian wiki. Use this
-  skill when the user wants to mine their past Codex sessions for knowledge, import
-  their ~/.codex folder, extract insights from previous coding sessions, or says things
-  like "process my Codex history", "add my Codex conversations to the wiki", or "what
-  have I discussed in Codex before". Also triggers when the user mentions .codex sessions,
-  rollout files, session_index.jsonl, or Codex transcript logs.
----
+------
 
 # Codex History Ingest
 
@@ -45,3 +28,5 @@ Do not create one wiki page per session.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/codex-history-ingest/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[conversation-logging-review]]

@@ -1,16 +1,4 @@
----
-date: 2026-09-09
-type: concept
-title: Cron Failure Signatures
-created: 2026-09-09
-updated: 2026-09-09
-tags:
-  - devops
-  - cron
-  - rca
-sources:
-  - hermes://session/2026-09-09
----
+------
 
 # Cron Failure Signatures
 
@@ -54,3 +42,5 @@ next scheduled tick* over in-run retries.
 - [[cron-job-triage-repair]]
 - [[cron-audit]]
 - [[structured-run-traces-for-rca]]
+
+[[self-heal-cron-job]]

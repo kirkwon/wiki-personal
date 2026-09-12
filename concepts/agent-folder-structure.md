@@ -43,3 +43,7 @@ description: Optimize project folders for AI agent navigation speed. INDEX.md ma
 
 - Skill source: `/Users/kirkwon/.hermes/skills/agent-folder-structure/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[agent-self-introspection]]
+
+[[agent-self-knowledge]]

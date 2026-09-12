@@ -1,11 +1,4 @@
----
-date: 2026-07-15
-type: concept
-title: Self-Health Loop
-created: 2026-07-15
-updated: 2026-07-15
-tags: [architecture, self-healing, monitoring, health, autonomous-systems]
----
+------
 
 # Self-Health Loop
 
@@ -127,3 +120,5 @@ Execution Loop → Harness Loop (Self-Harness) → Meta-Loop
 - [[knowledge-master]] — Knowledge graph health
 - [[cron-failure-watchdog]] — Existing health monitoring
 - [[knowledge-metabolism]] — Knowledge health checks
+
+[[productivity-master]]

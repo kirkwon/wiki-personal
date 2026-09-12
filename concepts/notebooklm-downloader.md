@@ -1,17 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Notebooklm Downloader
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- mlops
-sources:
-- hermes://skill/notebooklm-downloader
-description: Download NotebookLM artifacts (infographics, videos, mind maps, etc.)
-  using Playwright automation.
----
+------
 
 # Notebooklm Downloader
 
@@ -41,3 +28,5 @@ The script `scripts/download_artifacts.js` accepts the following command-line ar
 
 - Skill source: `/Users/kirkwon/.hermes/skills/mlops/notebooklm-downloader/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[notebooklm-research-pipeline]]

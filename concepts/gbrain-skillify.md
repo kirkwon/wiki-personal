@@ -47,3 +47,7 @@ description: Meta-skill to turn failures into durable skills. Scaffold, audit, a
 
 - Skill source: `/Users/kirkwon/.hermes/skills/research/gbrain-skillify/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[github-to-skill-integration]]
+
+[[hermes-skill-development-workflow]]

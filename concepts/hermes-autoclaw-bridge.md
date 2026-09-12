@@ -1,16 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Autoclaw Bridge
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- uncategorized
-sources:
-- hermes://skill/hermes-autoclaw-bridge
-description: Bridge for invoking AutoClaw skills from within Hermes Agent workflows
----
+------
 
 # Hermes Autoclaw Bridge
 
@@ -40,3 +28,5 @@ To make AutoClaw-derived content searchable in your GBrain knowledge base:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/hermes-autoclaw-bridge/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

@@ -1,16 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Web Search Backend Diagnostic
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- devops
-sources:
-- hermes://skill/hermes-web-search-backend-diagnostic
-description: Diagnose and fix web_search backend mis-resolution in Hermes.
----
+------
 
 # Hermes Web Search Backend Diagnostic
 
@@ -40,3 +28,7 @@ description: Diagnose and fix web_search backend mis-resolution in Hermes.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/devops/hermes-web-search-backend-diagnostic/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]
+
+[[hermes-web-tools]]

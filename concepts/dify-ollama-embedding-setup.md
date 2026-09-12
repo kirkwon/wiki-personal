@@ -1,21 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Dify Ollama Embedding Setup
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- Dify
-- Ollama
-- Embeddings
-- RAG
-- Local-LLM
-- mlops
-sources:
-- hermes://skill/dify-ollama-embedding-setup
-description: Set up Dify to use Ollama embeddings via OpenAI API.
----
+------
 
 # Dify Ollama Embedding Setup
 
@@ -45,3 +28,7 @@ Run this single check to confirm end-to-end wiring:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/mlops/dify-ollama-embedding-setup/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[ollama-model-management]]
+
+[[mlx-local-models]]

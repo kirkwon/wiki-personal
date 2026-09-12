@@ -1,19 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Optionality Valuer
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- finance
-sources:
-- hermes://skill/optionality-valuer
-description: Use when valuing flexibility and future decision rights in decisions
-  with significant uncertainty — investments that create options for future actions
-  (learning, networking, asset building). Recognizes the intrinsic worth of the ability
-  to adapt or pivot later.
----
+------
 
 # Optionality Valuer
 
@@ -43,3 +28,5 @@ description: Use when valuing flexibility and future decision rights in decision
 
 - Skill source: `/Users/kirkwon/.hermes/skills/finance/optionality-valuer/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[options-market-analysis]]

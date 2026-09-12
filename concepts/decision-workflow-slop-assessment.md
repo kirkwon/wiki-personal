@@ -1,17 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Decision Workflow Slop Assessment
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- software-development
-sources:
-- hermes://skill/decision-workflow-slop-assessment
-description: Assess workflow quality using Maestro's Workflow Slop Test to detect
-  anti-patterns in AI agent workflows
----
+------
 
 # Decision Workflow Slop Assessment
 
@@ -37,3 +24,5 @@ description: Assess workflow quality using Maestro's Workflow Slop Test to detec
 
 - Skill source: `/Users/kirkwon/.hermes/skills/decision/workflow-slop-assessment/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[strategic-decision-framework]]

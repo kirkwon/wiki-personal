@@ -1,22 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Obsidian Vault Ingest
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- obsidian
-- ingestion
-- knowledge-base
-- migration
-- vault
-- note-taking
-sources:
-- hermes://skill/obsidian-vault-ingest
-description: Ingest content from an Obsidian vault into an llm-wiki knowledge base,
-  preserving structure while enforcing llm-wiki conventions and cross-referencing.
----
+------
 
 # Obsidian Vault Ingest
 
@@ -46,3 +28,5 @@ The skill maintains compatibility with Obsidian:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/note-taking/obsidian-vault-ingest/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[obsidian-vault-management]]

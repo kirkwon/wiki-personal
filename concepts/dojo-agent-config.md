@@ -1,17 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Dojo Agent Config
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- devops
-sources:
-- hermes://skill/dojo-agent-config
-description: Configure Hermes agent delegation and approvals to prevent Dojo circuit
-  breaker trips.
----
+------
 
 # Dojo Agent Config
 
@@ -27,3 +14,7 @@ description: Configure Hermes agent delegation and approvals to prevent Dojo cir
 
 - Skill source: `/Users/kirkwon/.hermes/skills/devops/dojo-agent-config/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]
+
+[[fix-skills-list-backoff]]

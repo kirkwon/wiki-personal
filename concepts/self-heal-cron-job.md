@@ -1,16 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Self-Heal Cron Job
-created: 2026-07-19
-updated: 2026-09-09
-tags:
-  - devops
-  - cron
-  - self-healing
-sources:
-  - hermes://skill/self-heal-cron-job
----
+------
 
 # Self-Heal Cron Job
 
@@ -41,3 +29,5 @@ references.
 - [[cron-audit]] — decide whether the job is worth healing at all
 - [[cron-python-subprocess-resilience]] — a common failure this loop fixes
 - [[cron-job-triage-repair]]
+
+[[cron-failure-signatures]]

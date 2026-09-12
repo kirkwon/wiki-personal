@@ -1,17 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Obsidian Vault Enhancement
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- note-taking
-sources:
-- hermes://skill/obsidian-vault-enhancement
-description: Systematically enhance Obsidian knowledge vaults with progressive content
-  improvements, review systems, and Dataview integration.
----
+------
 
 # Obsidian Vault Enhancement
 
@@ -41,3 +28,5 @@ description: Systematically enhance Obsidian knowledge vaults with progressive c
 
 - Skill source: `/Users/kirkwon/.hermes/skills/note-taking/obsidian-vault-enhancement/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[obsidian-vault-management]]

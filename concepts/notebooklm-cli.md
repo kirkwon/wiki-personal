@@ -1,19 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Notebooklm Cli
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- mlops
-sources:
-- hermes://skill/notebooklm-cli
-description: Full command reference and workflow guide for Google NotebookLM via the
-  'nlm' CLI. Covers authentication, notebook/source management, deep research, querying,
-  and multi-modal content generation (audio, reports, infographics, video, mind maps,
-  slides, quizzes, flashcards, data tables).
----
+------
 
 # Notebooklm Cli
 
@@ -43,3 +28,7 @@ When managing multiple notebooks with many sources, duplicates and misplaced sou
 
 - Skill source: `/Users/kirkwon/.hermes/skills/mlops/notebooklm-cli/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[notebooklm-research-pipeline]]
+
+[[notebooklm-downloader]]

@@ -1,42 +1,4 @@
----
-date: 2026-07-14
-
-title: "The Complete AI PM Loop System (GitHub for PM)"
-
-type: infographic
-source_type: image_ocr
-source_file: img_069447b4d0ed.jpg
-source_url: "https://www.github.com/instaply/pmskills" # inferred from content
-authors:
-  - "Shubham Saboo (Senior AI PM at Google)"
-  - "Aakash Gupta (Decade in Product)"
-ingested: 2026-07-04
-extraction_method: apple_vision_ocr
-extraction_confidence: 0.97
-domains:
-  - product-management
-  - ai-agents
-  - loop-engineering
-  - agent-workflows
-tags:
-  - pm-loop
-  - loop-engineering
-  - github-for-pm
-  - ai-pm
-  - agent-loops
-  - critic-doer
-  - proof-gate
-  - memory-layer
-  - artifact-engineering
-cross_links:
-  - "[[loop-engineering]]"
-  - "[[critic-doer-separation]]"
-  - "[[agent-memory-layer]]"
-  - "[[reusable-ai-artifact]]"
-  - "[[proof-gate]]"
-created: 2026-07-26
-updated: 2026-07-26
----
+------
 
 # The Complete AI PM Loop System (GitHub for PM)
 
@@ -199,3 +161,5 @@ Using Git commits as the durable memory layer (147 commits) is a strong pattern.
 - **Layout:** Complex multi-panel infographic with flowchart elements, color-coded sections, and small text. Apple Vision captured near-perfect text including arrows (→), confidence scores, and fine-grained labels.
 - **Limitations:** Spatial relationships (which text belongs to which box) required manual reconstruction from bounding boxes. Pure OCR cannot capture color-coding or visual hierarchy.
 - **See also:** [[extraction-method-comparison-ocr-vision-vlm]] for the full 4-method comparison that produced this page.
+
+[[ai-pm-loop-system-github-for-pm-vlm]]

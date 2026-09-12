@@ -28,3 +28,5 @@ description: Shell-based inference and text processing — run LLM inference via
 
 - Skill source: `/Users/kirkwon/.hermes/skills/inference-sh/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[ollama-model-management]]

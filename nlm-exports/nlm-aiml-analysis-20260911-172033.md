@@ -6,6 +6,7 @@ exported: '2026-09-11T17:20:33.011Z'
 notebook: aiml-analysis
 ingested_via: put_page
 ingested_at: '2026-09-12T00:20:42.885Z'
+created: '2026-09-12T00:20:42.885Z'
 source_kind: put_page
 tags:
   - aiml-analysis
@@ -682,8 +683,6 @@ Self-Distillation (2607.28582)
 Conversation ID: 6ebe84d4-4668-468c-a367-b7133e433089
 Use --conversation-id for follow-up questions
 
-
-
 ---
 
 ### Q3: What are the main conclusions and recommendations?
@@ -1313,8 +1312,6 @@ Self-Distillation (2607.28582)
 
 Conversation ID: bc8bc9b8-d8f9-4a6b-8e63-3fa05eba79f0
 Use --conversation-id for follow-up questions
-
-
 
 ---
 

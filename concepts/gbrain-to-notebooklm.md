@@ -1,25 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Gbrain To Notebooklm
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- gbrain
-- notebooklm
-- nlm
-- migration
-- research
-- synthesis
-- survey
-- multi-source
-sources:
-- hermes://skill/gbrain-to-notebooklm
-description: Selective migration from GBrain to NotebookLM for research synthesis.
-  Cleans GBrain pages (remove YAML frontmatter, convert wikilinks) and adds them to
-  NotebookLM for deep research. Integrates with query-escalation-pipeline.
----
+------
 
 # Gbrain To Notebooklm
 
@@ -49,3 +28,5 @@ For convenience, here's a one-shot command:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/research/gbrain-to-notebooklm/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[notebooklm-research-pipeline]]

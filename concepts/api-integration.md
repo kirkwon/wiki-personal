@@ -1,19 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Api Integration
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- uncategorized
-sources:
-- hermes://skill/api-integration
-description: Practical skill for making REST API calls via curl, parsing JSON responses,
-  handling common API errors (timeout, 4xx, 5xx, rate limiting), and adding authentication
-  headers (Bearer token, Basic auth, API keys). Uses terminal (curl, jq, python3)
-  and web tools (web_extract for API docs, web_search for endpoint discovery).
----
+------
 
 # Api Integration
 
@@ -28,3 +13,7 @@ description: Practical skill for making REST API calls via curl, parsing JSON re
 
 - Skill source: `/Users/kirkwon/.hermes/skills/api-integration/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[api-integration-patterns]]
+
+[[dify-api-integration]]

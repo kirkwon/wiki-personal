@@ -1,16 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Gbrain Health
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- knowledge
-sources:
-- hermes://skill/gbrain-health
-description: Check orphans, broken links, and run GBrain doctor.
----
+------
 
 # Gbrain Health
 
@@ -40,3 +28,7 @@ description: Check orphans, broken links, and run GBrain doctor.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/gbrain-health/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[gbrain-health-dashboard]]
+
+[[gbrain-timeline-enrichment]]

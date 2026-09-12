@@ -46,3 +46,5 @@ For each `audit.jsonl` found under `local-agent-mode-sessions/`, read it line by
 
 - Skill source: `/Users/kirkwon/.hermes/skills/claude-history-ingest/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[llm-wiki]]

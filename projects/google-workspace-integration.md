@@ -1,13 +1,10 @@
 ---
-type: project
+slug: google-workspace-integration
 title: Google Workspace Integration (45 Skills + NLM Bridges)
 status: completed
-created: '2026-06-28T00:00:00.000Z'
-updated: '2026-06-28T00:00:00.000Z'
 priority: P2
-ingested_via: put_page
-ingested_at: '2026-09-11T13:00:45.090Z'
-source_kind: put_page
+created: 2026-06-28T00:00:00.000Z
+updated: 2026-06-28T00:00:00.000Z
 ---
 
 # Google Workspace Integration

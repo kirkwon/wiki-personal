@@ -1,21 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Improvements
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- hermes
-- improvement
-- research
-- tool-quality
-- autonomous-ai-agents
-sources:
-- hermes://skill/hermes-improvements
-description: 'Design documents and implementations for improving Hermes Agent based
-  on research. Currently: tool output verification (ETCHR-inspired).'
----
+------
 
 # Hermes Improvements
 
@@ -45,3 +28,5 @@ New in this update: - `references/terminal-backend-routing.md` — Modal vs loca
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/hermes-improvements/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

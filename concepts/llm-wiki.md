@@ -45,3 +45,5 @@ When the user asks to create or start a wiki:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/research/llm-wiki/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[mlx-local-models]]

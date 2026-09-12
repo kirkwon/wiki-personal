@@ -36,3 +36,5 @@ The convergent theme across four independent groups: **self-generated/mined skil
 - [[concepts/co-failure-ceiling]] — low-utility skills are a source of skill–agent co-failure; utility is a prior for β attribution
 - [[concepts/skill-governance]] — the existing governance concept this extends with a quantitative gate
 - [[concepts/skill-vetting]] — operational vetting pipeline this gates
+
+[[skill-vetting]]

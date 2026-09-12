@@ -1,21 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Github Issues
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- GitHub
-- Issues
-- Project-Management
-- Bug-Tracking
-- Triage
-- github
-sources:
-- hermes://skill/github-issues
-description: Create, triage, label, assign GitHub issues via gh or REST.
----
+------
 
 # Github Issues
 
@@ -45,3 +28,5 @@ Respect the ?next= query parameter." \ --label "bug,backend" \ --assignee "usern
 
 - Skill source: `/Users/kirkwon/.hermes/skills/github/github-issues/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[github-pr-workflow]]

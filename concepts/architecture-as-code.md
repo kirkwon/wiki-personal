@@ -1,23 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Architecture As Code
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- architecture
-- likec4
-- diagrams
-- c4-model
-- sync-enforcement
-- ast-analysis
-- software-development
-sources:
-- hermes://skill/architecture-as-code
-description: 'Architecture-as-code with LikeC4: models, diagrams, and sync enforcement
-  from source.'
----
+------
 
 # Architecture As Code
 
@@ -47,3 +28,7 @@ Use Mermaid files (not PNGs) for GitHub READMEs — they render inline:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/software-development/architecture-as-code/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[system-prompt-architecture-patterns]]
+
+[[requesting-code-review]]

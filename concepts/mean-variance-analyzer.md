@@ -1,22 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Mean Variance Analyzer
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- portfolio-theory
-- decision-analysis
-- mpt
-- risk-management
-- finance
-sources:
-- hermes://skill/mean-variance-analyzer
-description: Apply portfolio theory (expected value, variance, efficient frontier)
-  to compare options with uncertain outcomes. Includes documented limitations under
-  stochastic volatility and PCA/RMT overparameterization.
----
+------
 
 # Mean Variance Analyzer
 
@@ -46,3 +28,5 @@ description: Apply portfolio theory (expected value, variance, efficient frontie
 
 - Skill source: `/Users/kirkwon/.hermes/skills/finance/mean-variance-analyzer/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[portfolio-analyzer]]

@@ -48,3 +48,5 @@ description: Discover and install agent skills from skills.sh (Vercel's open age
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/find-skills/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[fix-skills-list-backoff]]

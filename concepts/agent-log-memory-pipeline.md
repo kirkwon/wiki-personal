@@ -1,21 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Agent Log Memory Pipeline
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- Memory
-- Pipeline
-- Cron
-- Deterministic
-- LLM
-- knowledge-management
-sources:
-- hermes://skill/agent-log-memory-pipeline
-description: Build two-layer agent-log memory extraction pipeline.
----
+------
 
 # Agent Log Memory Pipeline
 
@@ -31,3 +14,5 @@ description: Build two-layer agent-log memory extraction pipeline.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/knowledge-management/agent-log-memory-pipeline/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

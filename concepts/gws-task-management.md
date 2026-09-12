@@ -1,22 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Gws Task Management
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- gws
-- google-workspace
-- tasks
-- task-management
-- cli
-- communication
-sources:
-- hermes://skill/gws-task-management
-description: Manage Google Tasks using the Google Workspace CLI (gws) for task and
-  tasklist operations.
----
+------
 
 # Gws Task Management
 
@@ -46,3 +28,5 @@ To save tasks to your knowledge base (GBrain/Obsidian):
 
 - Skill source: `/Users/kirkwon/.hermes/skills/communication/gws-task-management/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[task-difficulty-guideline]]

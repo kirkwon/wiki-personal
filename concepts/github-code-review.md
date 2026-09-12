@@ -1,21 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Github Code Review
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- GitHub
-- Code-Review
-- Pull-Requests
-- Git
-- Quality
-- github
-sources:
-- hermes://skill/github-code-review
-description: 'Review PRs: diffs, inline comments via gh or REST.'
----
+------
 
 # Github Code Review
 
@@ -45,3 +28,7 @@ When the user asks you to "review PR #N", "look at this PR", or gives you a PR U
 
 - Skill source: `/Users/kirkwon/.hermes/skills/github/github-code-review/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[github-issues]]
+
+[[github-pr-workflow]]

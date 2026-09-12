@@ -1,21 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Gemini Bridge
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- gemini
-- bridge
-- delegation
-- coding
-- autonomous-ai-agents
-sources:
-- hermes://skill/hermes-gemini-bridge
-description: Dispatch coding tasks from Hermes to Gemini CLI via the hermes-gemini
-  bridge wrapper. Use when delegating coding/build tasks to Gemini.
----
+------
 
 # Hermes Gemini Bridge
 
@@ -45,3 +28,5 @@ All invocations logged to: `~/.hermes/gemini-bridge.log`
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/hermes-gemini-bridge/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

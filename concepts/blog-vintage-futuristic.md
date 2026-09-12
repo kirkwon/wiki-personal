@@ -1,17 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Blog Vintage Futuristic
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- software-development
-sources:
-- hermes://skill/blog-vintage-futuristic
-description: Generates a luxury vintage-futuristic developer blog structure (HTML/CSS/JS)
-  for an existing Clawd project.
----
+------
 
 # Blog Vintage Futuristic
 
@@ -41,3 +28,5 @@ description: Generates a luxury vintage-futuristic developer blog structure (HTM
 
 - Skill source: `/Users/kirkwon/.hermes/skills/creative/blog-vintage-futuristic/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[blog-writing]]

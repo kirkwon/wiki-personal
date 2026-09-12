@@ -1,20 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Desktop Plugins
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- desktop
-- plugins
-- ui
-- extension
-- uncategorized
-sources:
-- hermes://skill/hermes-desktop-plugins
-description: Write desktop app plugins that add UI panes and commands.
----
+------
 
 # Hermes Desktop Plugins
 
@@ -44,3 +28,5 @@ The ONLY import surface is `@hermes/plugin-sdk` (plus `react` / `react/jsx-runti
 
 - Skill source: `/Users/kirkwon/.hermes/skills/hermes-desktop-plugins/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

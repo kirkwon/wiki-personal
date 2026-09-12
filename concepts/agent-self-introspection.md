@@ -1,20 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Agent Self Introspection
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- Self-Knowledge
-- Hermes
-- Introspection
-- Grounding
-- knowledge-management
-sources:
-- hermes://skill/agent-self-introspection
-description: Explain your own systems from skills and live state.
----
+------
 
 # Agent Self Introspection
 
@@ -44,3 +28,5 @@ description: Explain your own systems from skills and live state.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/knowledge-management/agent-self-introspection/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[agent-self-knowledge]]

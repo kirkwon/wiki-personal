@@ -1,27 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Profile Management
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- hermes
-- profiles
-- configuration
-- setup
-- agent-identity
-- devops
-sources:
-- hermes://skill/hermes-profile-management
-description: Configure Hermes agent profiles and providers with role-specific identity
-  (SOUL.md), toolset (config.yaml), provider definitions, fallback routing, and skills
-  (symlinks). Covers creating new profiles, adapting existing ones, adding LLM providers
-  (Ollama, local models), selecting appropriate toolsets per role, and symlinking
-  skills from a shared pool. Use when setting up profiles for specialized roles (developer,
-  analyst, project manager, etc.), connecting local model backends, or customizing
-  an existing profile's behavior.
----
+------
 
 # Hermes Profile Management
 
@@ -51,3 +28,5 @@ When switching between profiles for a multi-step workflow:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/hermes-profile-configuration/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

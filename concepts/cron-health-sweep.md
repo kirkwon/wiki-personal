@@ -1,16 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Cron Health Sweep
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- devops
-sources:
-- hermes://skill/cron-health-sweep
-description: Audit all cron jobs, classify failures, and batch-fix shared root causes.
----
+------
 
 # Cron Health Sweep
 
@@ -36,3 +24,5 @@ All erroring jobs should now show `last_status: ok`:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/devops/cron-health-sweep/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[cron-job-triage-repair]]

@@ -46,3 +46,5 @@ description: Guide Maestro workflow integration through assessment and optimizat
 
 - Skill source: `/Users/kirkwon/.hermes/skills/workflow/maestro-integration-workflow/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[project-integration-workflow]]

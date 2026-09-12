@@ -1,25 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Mimo Bridge
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- mimo
-- mimocode
-- bridge
-- delegation
-- coding
-- xiaomi
-- autonomous-ai-agents
-sources:
-- hermes://skill/hermes-mimo-bridge
-description: Dispatch coding tasks from Hermes to Mimo (Mimocode) CLI. Autonomous
-  coding agent with Xiaomi Mimo models. Supports one-shot execution, file attachment,
-  session management, and thinking blocks. Use for code review, refactoring, and surgical
-  code changes.
----
+------
 
 # Hermes Mimo Bridge
 
@@ -49,3 +28,5 @@ Mimo is integrated via `AGENT_REGISTRY`:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/hermes-mimo-bridge/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

@@ -1,11 +1,4 @@
----
-date: 2026-07-01
-type: concept
-title: Hermes Agent Cognitive Stack — Directed Graph
-status: active
-tags: [architecture, cognition, agent-design, stack, directed-graph]
-created: '2026-07-01T00:00:00.000Z'
----
+------
 
 # Hermes Agent Cognitive Stack
 
@@ -290,3 +283,5 @@ The core 7-stage stack integrates with four Domain Master layers and two Loop En
 | [[self-health-loop]] | Continuous system monitoring and repair |
 
 See [[sources/p6-hermes-architecture-layers-domain-masters.md]] for full architectural extension specification.
+
+[[one-recipe-many-harnesses-self-evolution]]

@@ -1,17 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Deep Research Pipeline
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- research
-sources:
-- hermes://skill/deep-research-pipeline
-description: 18-step deep research pipeline with source ranking, citation verification,
-  contradiction detection, and compounding vault loop.
----
+------
 
 # Deep Research Pipeline
 
@@ -41,3 +28,5 @@ Every run feeds the vault. Future runs query before fetching. Rankings accumulat
 
 - Skill source: `/Users/kirkwon/.hermes/skills/research/deep-research-pipeline/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[storm-research]]

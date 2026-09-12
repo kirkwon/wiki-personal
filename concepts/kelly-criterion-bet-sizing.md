@@ -1,7 +1,4 @@
----
-created: 2026-08-23
-updated: 2026-08-23
----
+------
 
 
 # Kelly Criterion (Bet Sizing)
@@ -59,3 +56,5 @@ See also: [[leverage-and-randomness]]
 See also: [[peril-of-leverage]]
 
 See also: [[base-rate-neglect]]
+
+[[kelly-sizer]]

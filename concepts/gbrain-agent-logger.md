@@ -1,18 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Gbrain Agent Logger
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- knowledge
-sources:
-- hermes://skill/gbrain-agent-logger
-description: Triggers at the end of a session or when completing major tasks. Writes
-  a structured markdown log to clawd/26.Agent-Logs-GBrain/ to share memory with other
-  agents via gbrain.
----
+------
 
 # Gbrain Agent Logger
 
@@ -38,3 +24,5 @@ You do NOT need to trigger ingestion. A Hermes cron job (`agent-logs-gbrain-sync
 
 - Skill source: `/Users/kirkwon/.hermes/skills/gbrain-agent-logger/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

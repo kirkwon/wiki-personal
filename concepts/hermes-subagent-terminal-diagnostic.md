@@ -1,16 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Subagent Terminal Diagnostic
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- devops
-sources:
-- hermes://skill/hermes-subagent-terminal-diagnostic
-description: Fix subagents that echo commands without executing them.
----
+------
 
 # Hermes Subagent Terminal Diagnostic
 
@@ -40,3 +28,7 @@ description: Fix subagents that echo commands without executing them.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/devops/hermes-subagent-terminal-diagnostic/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]
+
+[[hermes-web-search-backend-diagnostic]]

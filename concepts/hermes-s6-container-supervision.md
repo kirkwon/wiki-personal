@@ -1,23 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes S6 Container Supervision
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- docker
-- s6
-- supervision
-- gateway
-- profiles
-- software-development
-sources:
-- hermes://skill/hermes-s6-container-supervision
-description: Modify, debug, or extend the s6-overlay supervision tree inside the Hermes
-  Agent Docker image — adding new services, debugging profile gateways, understanding
-  the Architecture B main-program pattern.
----
+------
 
 # Hermes S6 Container Supervision
 
@@ -39,3 +20,5 @@ description: Modify, debug, or extend the s6-overlay supervision tree inside the
 
 - Skill source: `/Users/kirkwon/.hermes/skills/software-development/hermes-s6-container-supervision/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

@@ -1,18 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Agent Workflow
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- core
-sources:
-- hermes://skill/agent-workflow
-description: Use when any Maestro command is invoked — provides foundational workflow
-  design principles across prompt engineering, context management, tool orchestration,
-  agent architecture, feedback loops, knowledge systems, and guardrails.
----
+------
 
 # Agent Workflow
 
@@ -42,3 +28,5 @@ description: Use when any Maestro command is invoked — provides foundational w
 
 - Skill source: `/Users/kirkwon/.hermes/skills/core/agent-workflow/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

@@ -1,17 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Analyze Paper
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- research
-sources:
-- hermes://skill/analyze-paper
-description: Structured academic paper analysis covering methodology, findings, limitations,
-  and integration with your knowledge base (integrates with `arxiv` and `gbrain` skills).
----
+------
 
 # Analyze Paper
 
@@ -37,3 +24,5 @@ When the user says "capture this paper" or "add to wiki + gbrain" (not just "ana
 
 - Skill source: `/Users/kirkwon/.hermes/skills/research/analyze-paper/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[research-paper-writing]]

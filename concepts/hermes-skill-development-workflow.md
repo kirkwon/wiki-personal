@@ -1,25 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Skill Development Workflow
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- skills
-- automation
-- safety
-- testing
-- deployment
-- cron
-- user-local
-- software-development
-sources:
-- hermes://skill/hermes-skill-development-workflow
-description: Use when creating, testing, installing, and scheduling user-local Hermes
-  Agent skills with safety policies, dry-run testing, rollback capability, and cron
-  job deployment. Covers full lifecycle from initial design through automated execution.
----
+------
 
 # Hermes Skill Development Workflow
 
@@ -49,3 +28,7 @@ Numbered steps or phases.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/software-development/hermes-skill-development-workflow/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]
+
+[[skill-vetting]]

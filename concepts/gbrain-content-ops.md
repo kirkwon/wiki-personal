@@ -41,3 +41,9 @@ After adding content: 1. ✅ `gbrain search "title" --limit 1` → confirms slug
 
 - Skill source: `/Users/kirkwon/.hermes/skills/research/gbrain-content-ops/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[gbrain-health]]
+
+[[gbrain-timeline-enrichment]]
+
+[[gbrain-to-notebooklm]]

@@ -1,25 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Goose Bridge
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- goose
-- bridge
-- delegation
-- coding
-- open-source
-- mcp
-- autonomous-ai-agents
-sources:
-- hermes://skill/hermes-goose-bridge
-description: Dispatch coding tasks from Hermes to Goose CLI (Block / Linux Foundation).
-  Open-source, model-agnostic agent with MCP extensions, headless mode, recipe system.
-  Use for general-purpose automation, research, and coding tasks requiring provider
-  diversity.
----
+------
 
 # Hermes Goose Bridge
 
@@ -49,3 +28,5 @@ Goose is integrated into the Symphony multi-agent dispatcher via the `AGENT_REGI
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/hermes-goose-bridge/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

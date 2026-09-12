@@ -72,3 +72,5 @@ Chain-of-Thought prompting asks the LLM to *simulate* reasoning step-by-step. LL
 - [[concepts/code-world-models]] — Primary application
 - [[concepts/verifiable-planning]] — Why executability beats probability
 - [[papers/code-world-models-general-game-playing]] — Source paper
+
+[[llm-wiki]]

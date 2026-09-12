@@ -1,16 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Agent Subsystem Build
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- software-development
-sources:
-- hermes://skill/agent-subsystem-build
-description: Build validated agent subsystems with GraphWork scaffolding.
----
+------
 
 # Agent Subsystem Build
 
@@ -36,3 +24,5 @@ The anchor result is the single source of truth. If it shows <100% ground truth 
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/agent-subsystem-build/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

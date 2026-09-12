@@ -1,23 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Antigravity Bridge
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- antigravity
-- agy
-- bridge
-- delegation
-- coding
-- autonomous-ai-agents
-sources:
-- hermes://skill/hermes-antigravity-bridge
-description: Dispatch coding tasks from Hermes to Google Antigravity CLI (agy) via
-  the hermes-antigravity bridge wrapper. Use when delegating coding/build tasks to
-  Antigravity. Migrated from hermes-gemini-bridge on 2026-06-19.
----
+------
 
 # Hermes Antigravity Bridge
 
@@ -47,3 +28,7 @@ List with `agy models`. Set default via settings.json `"model"` key.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/hermes-antigravity-bridge/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]
+
+[[hermes-gemini-bridge]]

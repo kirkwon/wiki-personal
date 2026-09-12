@@ -1,23 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Cron Management
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- cron
-- scheduling
-- automation
-- jobs
-- troubleshooting
-- devops
-sources:
-- hermes://skill/hermes-cron-management
-description: Manage, troubleshoot, and optimize Hermes Agent cron jobs. Covers listing,
-  creating, updating, and debugging scheduled tasks including agent-driven and no_agent
-  script-based jobs.
----
+------
 
 # Hermes Cron Management
 
@@ -47,3 +28,5 @@ Collect and back up Hermes-produced code into a version-controlled GitHub reposi
 
 - Skill source: `/Users/kirkwon/.hermes/skills/devops/hermes-cron-management/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

@@ -1,36 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Hermes Web Tools
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- web
-- troubleshooting
-- backends
-- ddgs
-- firecrawl
-- search
-- extract
-- autonomous-ai-agents
-sources:
-- hermes://skill/hermes-web-tools
-description: 'Configure and troubleshoot Hermes web tools (web_search, web_extract,
-  browser).
-
-  Understand backend resolution chains, diagnose silent fallback errors, and
-
-  install/configure search and extraction backends correctly. Use this skill
-
-  whenever web_search or web_extract returns unexpected errors, when a
-
-  configured backend appears to be ignored, when error messages name a
-
-  different backend than what config specifies, or when you need to understand
-
-  which backend Hermes will actually use at runtime.'
----
+------
 
 # Hermes Web Tools
 
@@ -62,3 +30,5 @@ Each Hermes profile has its own `config.yaml` at `~/.hermes/profiles/<name>/conf
 
 - Skill source: `/Users/kirkwon/.hermes/skills/autonomous-ai-agents/hermes-web-tools/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

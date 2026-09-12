@@ -36,3 +36,5 @@ Keep this checklist handy when debugging tool‑related issues.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/software-development/debugging-tool-usage/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[systematic-debugging]]

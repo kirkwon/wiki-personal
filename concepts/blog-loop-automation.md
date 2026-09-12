@@ -1,17 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Blog Loop Automation
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- uncategorized
-sources:
-- hermes://skill/blog-loop-automation
-description: Generate blog posts from completed work using a critic/doer feedback
-  loop.
----
+------
 
 # Blog Loop Automation
 
@@ -41,3 +28,7 @@ description: Generate blog posts from completed work using a critic/doer feedbac
 
 - Skill source: `/Users/kirkwon/.hermes/skills/blog-loop-automation/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[blog-vintage-futuristic]]
+
+[[blog-writing]]

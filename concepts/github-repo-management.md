@@ -1,22 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Github Repo Management
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- GitHub
-- Repositories
-- Git
-- Releases
-- Secrets
-- Configuration
-- github
-sources:
-- hermes://skill/github-repo-management
-description: Clone/create/fork repos; manage remotes, releases.
----
+------
 
 # Github Repo Management
 
@@ -46,3 +28,5 @@ description: Clone/create/fork repos; manage remotes, releases.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/github/github-repo-management/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-profile-management]]

@@ -1,19 +1,4 @@
----
-date: 2026-08-02
-type: concept
-title: Agent Browser
-created: 2026-08-02
-updated: '2026-09-09'
-tags:
-- skill
-- software-development
-sources:
-- hermes://skill/agent-browser
-description: 'Use when automating a website — fill forms, click flows, extract data,
-  log in, scrape, run JS. Core routing skill: choose agent-browser CLI vs Hermes built-in
-  browser_* tools. Covers the snapshot-ref loop, auth/session reuse, JS eval, and
-  structured extraction.'
----
+------
 
 # Agent Browser
 
@@ -39,3 +24,5 @@ description: 'Use when automating a website — fill forms, click flows, extract
 
 - Skill source: `/Users/kirkwon/.hermes/skills/agent-browser/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[agent-self-introspection]]

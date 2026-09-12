@@ -1,22 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Debugging Hermes Tui Commands
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- debugging
-- hermes-agent
-- tui
-- slash-commands
-- typescript
-- python
-- software-development
-sources:
-- hermes://skill/debugging-hermes-tui-commands
-description: 'Debug Hermes TUI slash commands: Python, gateway, Ink UI.'
----
+------
 
 # Debugging Hermes Tui Commands
 
@@ -46,3 +28,5 @@ If a command exists in the TUI but doesn't show in autocomplete:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/software-development/debugging-hermes-tui-commands/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[hermes-agent-stack]]

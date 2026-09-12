@@ -1,18 +1,4 @@
----
-type: concept
-title: "One Recipe, Many Harnesses: What Self-Evolution Encodes Across Languages and Models"
-created: 2026-08-24
-updated: 2026-08-24
-tags:
-  - paper
-  - self-improvement
-  - ai-agent
-  - harness-evolution
-  - multi-model
-sources:
-  - "arXiv:2608.10178v1 [cs.SE] 10 Aug 2026"
-  - "UIUC + IBM research"
----
+------
 
 # One Recipe, Many Harnesses: What Self-Evolution Encodes Across Languages and Models
 
@@ -46,3 +32,7 @@ This validates the eval-first premise while warning: when a cell shows near-zero
 - [[bayesian-rogue-explore]]
 - [[asymmetry-hunter]]
 - [[knowledge-master]]
+
+[[hermes-agent-stack]]
+
+[[documentation-master]]

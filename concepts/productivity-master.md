@@ -1,11 +1,4 @@
----
-date: 2026-07-15
-type: concept
-title: Productivity Master
-created: 2026-07-15
-updated: 2026-07-15
-tags: [domain-master, productivity, workflow-optimization, architecture]
----
+------
 
 # Productivity Master
 
@@ -77,3 +70,5 @@ abstraction_debt = Σ(complexity_gained × leverage_added⁻¹)
 - [[skill-ecosystem]] — Skills inventory and management
 - [[loop-engineering]] — Autonomous workflow loops
 - [[abstraction-debt]] — Technical debt in agentic systems
+
+[[self-health-loop]]

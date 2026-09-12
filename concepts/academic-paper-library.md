@@ -1,24 +1,4 @@
----
-date: 2026-06-13
-
-type: concept
-title: Academic Paper Library - Research Corpus for Agentic Architecture
-aliases:
-  - paper-library
-  - academic-papers
-  - research-corpus
-ingested_via: put_page
-ingested_at: '2026-06-13T16:25:20.836Z'
-source_kind: put_page
-tags:
-  - concept
-  - index
-  - library
-  - papers
-  - research
-created: 2026-07-26
-updated: 2026-07-26
----
+------
 
 # Academic Paper Library
 
@@ -194,3 +174,7 @@ gbrain get "papers/attention-is-all-you-need"
 # Count papers
 gbrain stats | grep paper
 ```
+
+[[analyze-paper]]
+
+[[research-paper-writing]]

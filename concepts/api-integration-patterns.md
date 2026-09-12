@@ -26,3 +26,5 @@ description: Patterns for APIs with separate authentication systems.
 
 - Skill source: `/Users/kirkwon/.hermes/skills/api-integration/api-integration-patterns/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[dify-api-integration]]

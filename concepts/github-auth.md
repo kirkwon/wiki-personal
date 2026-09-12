@@ -1,22 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Github Auth
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- GitHub
-- Authentication
-- Git
-- gh-cli
-- SSH
-- Setup
-- github
-sources:
-- hermes://skill/github-auth
-description: 'GitHub auth setup: HTTPS tokens, SSH keys, gh CLI login.'
----
+------
 
 # Github Auth
 
@@ -42,3 +24,7 @@ Two MCP servers can provide GitHub/Git access:
 
 - Skill source: `/Users/kirkwon/.hermes/skills/github/github-auth/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[github-code-review]]
+
+[[github-issues]]

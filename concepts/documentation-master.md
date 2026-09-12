@@ -1,11 +1,4 @@
----
-date: 2026-07-15
-type: concept
-title: Documentation Master
-created: 2026-07-15
-updated: 2026-07-15
-tags: [domain-master, documentation, knowledge-management, architecture]
----
+------
 
 # Documentation Master
 
@@ -53,3 +46,5 @@ Documentation Master operates as a semi-autonomous subsystem that:
 - [[decision-master]] — Decision governance layer
 - [[productivity-master]] — Workflow optimization layer
 - [[read-the-damn-docs]] — Documentation retrieval skill
+
+[[one-recipe-many-harnesses-self-evolution]]

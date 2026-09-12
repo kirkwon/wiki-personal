@@ -1,17 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Finance Master
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- uncategorized
-sources:
-- hermes://skill/finance-master
-description: Meta-skill for financial analysis, portfolio management, options, and
-  market modeling — pick the right analytical tool for any financial question.
----
+------
 
 # Finance Master
 
@@ -27,3 +14,5 @@ description: Meta-skill for financial analysis, portfolio management, options, a
 
 - Skill source: `/Users/kirkwon/.hermes/skills/finance-master/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[finance-recommendation-verification]]

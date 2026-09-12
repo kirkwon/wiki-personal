@@ -1,17 +1,4 @@
----
-date: 2026-07-19
-type: concept
-title: Ollama Model Benchmark
-created: 2026-07-19
-updated: '2026-09-09'
-tags:
-- skill
-- mlops
-sources:
-- hermes://skill/ollama-model-benchmark
-description: Benchmark Ollama-hosted LLMs on coding tasks to compare performance and
-  correctness.
----
+------
 
 # Ollama Model Benchmark
 
@@ -41,3 +28,5 @@ description: Benchmark Ollama-hosted LLMs on coding tasks to compare performance
 
 - Skill source: `/Users/kirkwon/.hermes/skills/mlops/ollama-model-benchmark/SKILL.md`
 - Auto-filled from the skill body on 2026-09-09 (was a bodyless stub).
+
+[[ollama-model-management]]
