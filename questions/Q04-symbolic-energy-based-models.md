@@ -722,6 +722,11 @@ _2026-05-25_ — Initial research position
 ### 2026-09-10: Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation
 
 ### 2026-09-10: Programmable World Model
+
+### 2026-09-11: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+- HF trending paper (arxiv: 2609.11561). Keywords: markov. Status: pending-review.
+- Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.10540). Keywords: world model. Status: pending-review.
 - Source: [[papers/2609.10540]] | https://huggingface.co/papers/2609.10540
 - Confidence: Low (auto-matched, not yet reviewed)

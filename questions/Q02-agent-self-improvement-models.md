@@ -2369,6 +2369,31 @@ _2026-06-13_ — Added June 2026 findings: causal AI pipeline deepening, Self-Ha
 ### 2026-09-10: Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning 
 
 ### 2026-09-10: Programmable World Model
+
+### 2026-09-11: Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for I
+
+### 2026-09-11: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+
+### 2026-09-11: Negative Self-Distillation: Learning to Reason by Avoiding Flaws
+
+### 2026-09-11: DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning fo
+
+### 2026-09-11: An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics
+- HF trending paper (arxiv: 2609.10712). Keywords: reinforcement learning. Status: pending-review.
+- Source: [[papers/2609.10712]] | https://huggingface.co/papers/2609.10712
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11155). Keywords: reinforcement learning, ppo, policy optimization. Status: pending-review.
+- Source: [[papers/2609.11155]] | https://huggingface.co/papers/2609.11155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11699). Keywords: self-improvement, reinforcement learning, distillation, self-distillation. Status: pending-review.
+- Source: [[papers/2609.11699]] | https://huggingface.co/papers/2609.11699
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11561). Keywords: alignment. Status: pending-review.
+- Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10445). Keywords: ppo. Status: pending-review.
+- Source: [[papers/2609.10445]] | https://huggingface.co/papers/2609.10445
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.10540). Keywords: ppo. Status: pending-review.
 - Source: [[papers/2609.10540]] | https://huggingface.co/papers/2609.10540
 - Confidence: Low (auto-matched, not yet reviewed)

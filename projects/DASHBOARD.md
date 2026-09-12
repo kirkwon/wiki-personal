@@ -7,7 +7,7 @@ tags: [dashboard, auto-generated]
 
 # Project Dashboard
 
-> Auto-generated 2026-09-11 06:00 | 14 projects
+> Auto-generated 2026-09-11 17:17 | 14 projects
 > Edit individual project files in `~/brain/projects/` — this file regenerates.
 
 ---
@@ -85,4 +85,4 @@ tags: [dashboard, auto-generated]
 
 ---
 
-*Last generated: 2026-09-11 06:00 by `generate-project-dashboard.py`*
+*Last generated: 2026-09-11 17:17 by `generate-project-dashboard.py`*

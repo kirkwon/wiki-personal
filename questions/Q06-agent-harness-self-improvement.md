@@ -2886,6 +2886,26 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-10: Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?
 
 ### 2026-09-10: StudyBench: Can Self-Evolution Squeeze Textbooks for Olympiad Capability?
+
+### 2026-09-11: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+
+### 2026-09-11: Negative Self-Distillation: Learning to Reason by Avoiding Flaws
+
+### 2026-09-11: DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning fo
+
+### 2026-09-11: MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes
+- HF trending paper (arxiv: 2609.10016). Keywords: gui, harness. Status: pending-review.
+- Source: [[papers/2609.10016]] | https://huggingface.co/papers/2609.10016
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11155). Keywords: multi-agent, environment, execution. Status: pending-review.
+- Source: [[papers/2609.11155]] | https://huggingface.co/papers/2609.11155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11699). Keywords: self-improvement, gui. Status: pending-review.
+- Source: [[papers/2609.11699]] | https://huggingface.co/papers/2609.11699
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11561). Keywords: gui, planning, execution. Status: pending-review.
+- Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.00787). Keywords: gui. Status: pending-review.
 - Source: [[papers/2609.00787]] | https://huggingface.co/papers/2609.00787
 - Confidence: Low (auto-matched, not yet reviewed)

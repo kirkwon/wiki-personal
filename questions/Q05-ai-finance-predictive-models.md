@@ -1342,6 +1342,31 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-09-10: WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
 
 ### 2026-09-10: RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation 
+
+### 2026-09-11: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+
+### 2026-09-11: FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation
+
+### 2026-09-11: DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning fo
+
+### 2026-09-11: HyQuant: Hybrid-Precision Quantization for LLM Attention
+
+### 2026-09-11: SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacki
+- HF trending paper (arxiv: 2609.07064). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.07064]] | https://huggingface.co/papers/2609.07064
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27875). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.27875]] | https://huggingface.co/papers/2608.27875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11155). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.11155]] | https://huggingface.co/papers/2609.11155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11486). Keywords: transformer, attention. Status: pending-review.
+- Source: [[papers/2609.11486]] | https://huggingface.co/papers/2609.11486
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11561). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.09657). Keywords: prediction. Status: pending-review.
 - Source: [[papers/2609.09657]] | https://huggingface.co/papers/2609.09657
 - Confidence: Low (auto-matched, not yet reviewed)

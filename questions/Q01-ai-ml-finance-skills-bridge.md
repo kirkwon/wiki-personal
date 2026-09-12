@@ -1002,6 +1002,31 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-09-10: Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation
 
 ### 2026-09-10: Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?
+
+### 2026-09-11: Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for I
+
+### 2026-09-11: Negative Self-Distillation: Learning to Reason by Avoiding Flaws
+
+### 2026-09-11: FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation
+
+### 2026-09-11: DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning fo
+
+### 2026-09-11: HyQuant: Hybrid-Precision Quantization for LLM Attention
+- HF trending paper (arxiv: 2608.27875). Keywords: quant. Status: pending-review.
+- Source: [[papers/2608.27875]] | https://huggingface.co/papers/2608.27875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11155). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.11155]] | https://huggingface.co/papers/2609.11155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11486). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.11486]] | https://huggingface.co/papers/2609.11486
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11699). Keywords: risk. Status: pending-review.
+- Source: [[papers/2609.11699]] | https://huggingface.co/papers/2609.11699
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10445). Keywords: risk, var. Status: pending-review.
+- Source: [[papers/2609.10445]] | https://huggingface.co/papers/2609.10445
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.10226). Keywords: var. Status: pending-review.
 - Source: [[papers/2609.10226]] | https://huggingface.co/papers/2609.10226
 - Confidence: Low (auto-matched, not yet reviewed)
