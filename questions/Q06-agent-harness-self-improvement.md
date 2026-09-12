@@ -2854,6 +2854,86 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-09: MOLE: Detecting Insider Threats in AI Agents
 
 ### 2026-09-09: DriveZero: End-to-End Driving Beyond Human Demonstrations
+
+### 2026-09-10: A Three-Layer Caching Architecture for Low-Latency LLM Web Search on Commodity C
+
+### 2026-09-10: SchemeArena: Factorized Stress Testing of Scheming in LLM Agents
+
+### 2026-09-10: From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential
+
+### 2026-09-10: AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems
+
+### 2026-09-10: OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive
+
+### 2026-09-10: PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autono
+
+### 2026-09-10: Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in 
+
+### 2026-09-10: Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning
+
+### 2026-09-10: SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators
+
+### 2026-09-10: WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
+
+### 2026-09-10: SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Resear
+
+### 2026-09-10: Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch
+
+### 2026-09-10: DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built 
+
+### 2026-09-10: Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning 
+
+### 2026-09-10: Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?
+
+### 2026-09-10: StudyBench: Can Self-Evolution Squeeze Textbooks for Olympiad Capability?
+- HF trending paper (arxiv: 2609.00787). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.00787]] | https://huggingface.co/papers/2609.00787
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10226). Keywords: code generation. Status: pending-review.
+- Source: [[papers/2609.10226]] | https://huggingface.co/papers/2609.10226
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08650). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.08650]] | https://huggingface.co/papers/2609.08650
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06703). Keywords: mcp. Status: pending-review.
+- Source: [[papers/2609.06703]] | https://huggingface.co/papers/2609.06703
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09134). Keywords: agent harness, agentic, planning, harness. Status: pending-review.
+- Source: [[papers/2609.09134]] | https://huggingface.co/papers/2609.09134
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09113). Keywords: recursive, self-improvement. Status: pending-review.
+- Source: [[papers/2609.09113]] | https://huggingface.co/papers/2609.09113
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05405). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.05405]] | https://huggingface.co/papers/2609.05405
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09155). Keywords: environment. Status: pending-review.
+- Source: [[papers/2609.09155]] | https://huggingface.co/papers/2609.09155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06806). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.06806]] | https://huggingface.co/papers/2609.06806
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10355). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.10355]] | https://huggingface.co/papers/2609.10355
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08965). Keywords: planning, execution. Status: pending-review.
+- Source: [[papers/2609.08965]] | https://huggingface.co/papers/2609.08965
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06490). Keywords: recursive, gui. Status: pending-review.
+- Source: [[papers/2609.06490]] | https://huggingface.co/papers/2609.06490
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08572). Keywords: multi-agent, gui. Status: pending-review.
+- Source: [[papers/2609.08572]] | https://huggingface.co/papers/2609.08572
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.02771). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.02771]] | https://huggingface.co/papers/2609.02771
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08126). Keywords: environment, execution. Status: pending-review.
+- Source: [[papers/2609.08126]] | https://huggingface.co/papers/2609.08126
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05463). Keywords: browser. Status: pending-review.
+- Source: [[papers/2609.05463]] | https://huggingface.co/papers/2609.05463
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.06055). Keywords: gui. Status: pending-review.
 - Source: [[papers/2609.06055]] | https://huggingface.co/papers/2609.06055
 - Confidence: Low (auto-matched, not yet reviewed)

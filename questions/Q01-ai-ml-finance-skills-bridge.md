@@ -984,6 +984,51 @@ _2026-06-13_ — June 2026 findings: Causal AI pipeline deepening, Self-Harness 
 ### 2026-09-09: VidaForge: Open Research Infrastructure for Video Pretraining Data Recipes
 
 ### 2026-09-09: What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale
+
+### 2026-09-10: SchemeArena: Factorized Stress Testing of Scheming in LLM Agents
+
+### 2026-09-10: The Price of Sparsity: Sufficient Conditions for Sparse Recovery using Sparse an
+
+### 2026-09-10: StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean
+
+### 2026-09-10: Reference-Based Bias Detection in LLMs via Relative Representations of Hidden St
+
+### 2026-09-10: Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning
+
+### 2026-09-10: WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
+
+### 2026-09-10: DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built 
+
+### 2026-09-10: Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation
+
+### 2026-09-10: Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?
+- HF trending paper (arxiv: 2609.10226). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.10226]] | https://huggingface.co/papers/2609.10226
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00369). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.00369]] | https://huggingface.co/papers/2609.00369
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06703). Keywords: quant. Status: pending-review.
+- Source: [[papers/2609.06703]] | https://huggingface.co/papers/2609.06703
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05405). Keywords: option, var. Status: pending-review.
+- Source: [[papers/2609.05405]] | https://huggingface.co/papers/2609.05405
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06806). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.06806]] | https://huggingface.co/papers/2609.06806
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10060). Keywords: quant, var. Status: pending-review.
+- Source: [[papers/2609.10060]] | https://huggingface.co/papers/2609.10060
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09264). Keywords: var. Status: pending-review.
+- Source: [[papers/2609.09264]] | https://huggingface.co/papers/2609.09264
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2509.01809). Keywords: var. Status: pending-review.
+- Source: [[papers/2509.01809]] | https://huggingface.co/papers/2509.01809
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08126). Keywords: stress test. Status: pending-review.
+- Source: [[papers/2609.08126]] | https://huggingface.co/papers/2609.08126
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.05663). Keywords: trading, market, risk, alpha. Status: pending-review.
 - Source: [[papers/2609.05663]] | https://huggingface.co/papers/2609.05663
 - Confidence: Low (auto-matched, not yet reviewed)

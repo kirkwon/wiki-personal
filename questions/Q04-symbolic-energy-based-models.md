@@ -706,6 +706,46 @@ _2026-05-25_ — Initial research position
 ### 2026-09-09: Kalman Delta Networks: Uncertainty-aware Associative Memory
 
 ### 2026-09-09: Agentic Visual Generation: From Generative Models to Agentic Control
+
+### 2026-09-10: A Three-Layer Caching Architecture for Low-Latency LLM Web Search on Commodity C
+
+### 2026-09-10: StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean
+
+### 2026-09-10: The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Sp
+
+### 2026-09-10: Reference-Based Bias Detection in LLMs via Relative Representations of Hidden St
+
+### 2026-09-10: SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators
+
+### 2026-09-10: SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Resear
+
+### 2026-09-10: Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation
+
+### 2026-09-10: Programmable World Model
+- HF trending paper (arxiv: 2609.10540). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.10540]] | https://huggingface.co/papers/2609.10540
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.00369). Keywords: variational, diffusion, geometry. Status: pending-review.
+- Source: [[papers/2609.00369]] | https://huggingface.co/papers/2609.00369
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09113). Keywords: contrastive. Status: pending-review.
+- Source: [[papers/2609.09113]] | https://huggingface.co/papers/2609.09113
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09155). Keywords: world model. Status: pending-review.
+- Source: [[papers/2609.09155]] | https://huggingface.co/papers/2609.09155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10060). Keywords: geometry. Status: pending-review.
+- Source: [[papers/2609.10060]] | https://huggingface.co/papers/2609.10060
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10296). Keywords: embedding, manifold. Status: pending-review.
+- Source: [[papers/2609.10296]] | https://huggingface.co/papers/2609.10296
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09264). Keywords: markov. Status: pending-review.
+- Source: [[papers/2609.09264]] | https://huggingface.co/papers/2609.09264
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05463). Keywords: embedding. Status: pending-review.
+- Source: [[papers/2609.05463]] | https://huggingface.co/papers/2609.05463
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.06758). Keywords: generative model. Status: pending-review.
 - Source: [[papers/2609.06758]] | https://huggingface.co/papers/2609.06758
 - Confidence: Low (auto-matched, not yet reviewed)

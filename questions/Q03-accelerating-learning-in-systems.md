@@ -3029,6 +3029,81 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 ### 2026-09-09: MOLE: Detecting Insider Threats in AI Agents
 
 ### 2026-09-09: DriveZero: End-to-End Driving Beyond Human Demonstrations
+
+### 2026-09-10: PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents
+
+### 2026-09-10: SchemeArena: Factorized Stress Testing of Scheming in LLM Agents
+
+### 2026-09-10: The Price of Sparsity: Sufficient Conditions for Sparse Recovery using Sparse an
+
+### 2026-09-10: The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Sp
+
+### 2026-09-10: AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems
+
+### 2026-09-10: PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autono
+
+### 2026-09-10: Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in 
+
+### 2026-09-10: Reference-Based Bias Detection in LLMs via Relative Representations of Hidden St
+
+### 2026-09-10: Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning
+
+### 2026-09-10: WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
+
+### 2026-09-10: SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Resear
+
+### 2026-09-10: Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch
+
+### 2026-09-10: Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning 
+
+### 2026-09-10: Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?
+
+### 2026-09-10: StudyBench: Can Self-Evolution Squeeze Textbooks for Olympiad Capability?
+- HF trending paper (arxiv: 2609.00787). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.00787]] | https://huggingface.co/papers/2609.00787
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10226). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2609.10226]] | https://huggingface.co/papers/2609.10226
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08650). Keywords: learning, lora, reasoning. Status: pending-review.
+- Source: [[papers/2609.08650]] | https://huggingface.co/papers/2609.08650
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09134). Keywords: fine-tuning, prompt. Status: pending-review.
+- Source: [[papers/2609.09134]] | https://huggingface.co/papers/2609.09134
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.09113). Keywords: sparse. Status: pending-review.
+- Source: [[papers/2609.09113]] | https://huggingface.co/papers/2609.09113
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05405). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2609.05405]] | https://huggingface.co/papers/2609.05405
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06806). Keywords: learning, dpo, fine-tuning. Status: pending-review.
+- Source: [[papers/2609.06806]] | https://huggingface.co/papers/2609.06806
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10060). Keywords: fine-tuning. Status: pending-review.
+- Source: [[papers/2609.10060]] | https://huggingface.co/papers/2609.10060
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10355). Keywords: prompt. Status: pending-review.
+- Source: [[papers/2609.10355]] | https://huggingface.co/papers/2609.10355
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08965). Keywords: fine-tuning, prompt. Status: pending-review.
+- Source: [[papers/2609.08965]] | https://huggingface.co/papers/2609.08965
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08572). Keywords: prompt. Status: pending-review.
+- Source: [[papers/2609.08572]] | https://huggingface.co/papers/2609.08572
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10296). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.10296]] | https://huggingface.co/papers/2609.10296
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2509.01809). Keywords: sparse. Status: pending-review.
+- Source: [[papers/2509.01809]] | https://huggingface.co/papers/2509.01809
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.08126). Keywords: reasoning. Status: pending-review.
+- Source: [[papers/2609.08126]] | https://huggingface.co/papers/2609.08126
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06702). Keywords: learning, reasoning. Status: pending-review.
+- Source: [[papers/2609.06702]] | https://huggingface.co/papers/2609.06702
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.06055). Keywords: learning. Status: pending-review.
 - Source: [[papers/2609.06055]] | https://huggingface.co/papers/2609.06055
 - Confidence: Low (auto-matched, not yet reviewed)

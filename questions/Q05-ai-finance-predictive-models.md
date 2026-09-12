@@ -1334,6 +1334,26 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-09-09: VidaForge: Open Research Infrastructure for Video Pretraining Data Recipes
 
 ### 2026-09-09: What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale
+
+### 2026-09-10: OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive
+
+### 2026-09-10: Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning
+
+### 2026-09-10: WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
+
+### 2026-09-10: RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation 
+- HF trending paper (arxiv: 2609.09657). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.09657]] | https://huggingface.co/papers/2609.09657
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.05405). Keywords: time series. Status: pending-review.
+- Source: [[papers/2609.05405]] | https://huggingface.co/papers/2609.05405
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06806). Keywords: classification. Status: pending-review.
+- Source: [[papers/2609.06806]] | https://huggingface.co/papers/2609.06806
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06490). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.06490]] | https://huggingface.co/papers/2609.06490
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.05663). Keywords: regression. Status: pending-review.
 - Source: [[papers/2609.05663]] | https://huggingface.co/papers/2609.05663
 - Confidence: Low (auto-matched, not yet reviewed)
