@@ -1,13 +1,13 @@
 ---
-type: note
+type: dashboard
 title: Project Dashboard
-created: 2026-09-12
+created: 2026-09-13
 tags: [dashboard, auto-generated]
 ---
 
 # Project Dashboard
 
-> Auto-generated 2026-09-12 06:30 | 14 projects
+> Auto-generated 2026-09-13 06:30 | 14 projects
 > Edit individual project files in `~/brain/projects/` — this file regenerates.
 
 ---
@@ -16,18 +16,18 @@ tags: [dashboard, auto-generated]
 
 | | Project | Pri | Progress | Tasks | Cron Jobs | Updated | Stale |
 |---|---------|-----|----------|-------|-----------|---------|-------|
-| 🔴 | **[Email Triage & Safety System](email-safety-system.md)** | P1 | `=====     ` 50% | 6/12 | 3 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[GBrain Knowledge Ecosystem](gbrain-knowledge-ecosystem.md)** | P1 | `======    ` 64% | 7/11 | 19 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[MCP Server Infrastructure & Automation](mcp-infrastructure.md)** | P1 | `========  ` 83% | 19/23 | 0 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Memory Tier System (4-Tier HOT/WARM/COOL/COLD)](memory-tier-system.md)** | P1 | `=======   ` 77% | 10/13 | 2 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Skills Ecosystem (Book Dashboard + Hermes Library + Auto-Generation)](skills-ecosystem.md)** | P1 | `=======   ` 76% | 16/21 | 0 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Blog & Content Pipeline](blog-content-pipeline.md)** | P2 | `=======   ` 75% | 6/8 | 0 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Causal AI & Hedge Agent](causal-ai-hedge-agent.md)** | P2 | `======    ` 64% | 7/11 | 5 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Loop Engineering](loop-engineering.md)** | P2 | `=====     ` 50% | 5/10 | 0 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Mega-IPO & SPCX Tracking](mega-ipo-tracking.md)** | P2 | `========  ` 82% | 9/11 | 7 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Portfolio Dashboard](portfolio-dashboard.md)** | P2 | `=======   ` 71% | 5/7 | 2 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Academic Paper Analysis Project](academic-analysis-2026-05-07.md)** | P3 | — 0% | — | 0 | 2026-06-28T00:00:00.000Z | 76d |
-| 🔴 | **[Clawd Workspace Infrastructure](clawd-workspace.md)** | P3 | `======    ` 67% | 8/12 | 7 | 2026-06-28T00:00:00.000Z | 76d |
+| 🔴 | **[Email Triage & Safety System](email-safety-system.md)** | P1 | `=====     ` 50% | 6/12 | 3 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[GBrain Knowledge Ecosystem](gbrain-knowledge-ecosystem.md)** | P1 | `======    ` 64% | 7/11 | 19 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[MCP Server Infrastructure & Automation](mcp-infrastructure.md)** | P1 | `========  ` 83% | 19/23 | 0 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Memory Tier System (4-Tier HOT/WARM/COOL/COLD)](memory-tier-system.md)** | P1 | `=======   ` 77% | 10/13 | 2 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Skills Ecosystem (Book Dashboard + Hermes Library + Auto-Generation)](skills-ecosystem.md)** | P1 | `=======   ` 76% | 16/21 | 0 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Blog & Content Pipeline](blog-content-pipeline.md)** | P2 | `=======   ` 75% | 6/8 | 0 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Causal AI & Hedge Agent](causal-ai-hedge-agent.md)** | P2 | `======    ` 64% | 7/11 | 5 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Loop Engineering](loop-engineering.md)** | P2 | `=====     ` 50% | 5/10 | 0 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Mega-IPO & SPCX Tracking](mega-ipo-tracking.md)** | P2 | `========  ` 82% | 9/11 | 7 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Portfolio Dashboard](portfolio-dashboard.md)** | P2 | `=======   ` 71% | 5/7 | 2 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Academic Paper Analysis Project](academic-analysis-2026-05-07.md)** | P3 | — 0% | — | 0 | 2026-06-28T00:00:00.000Z | 77d |
+| 🔴 | **[Clawd Workspace Infrastructure](clawd-workspace.md)** | P3 | `======    ` 67% | 8/12 | 7 | 2026-06-28T00:00:00.000Z | 77d |
 
 ## Completed
 
@@ -46,18 +46,18 @@ tags: [dashboard, auto-generated]
 
 ## ⚠️ Stale Projects (>7 days since update)
 
-- 🔴 **Email Triage & Safety System** — 76d since last update
-- 🔴 **GBrain Knowledge Ecosystem** — 76d since last update
-- 🔴 **MCP Server Infrastructure & Automation** — 76d since last update
-- 🔴 **Memory Tier System (4-Tier HOT/WARM/COOL/COLD)** — 76d since last update
-- 🔴 **Skills Ecosystem (Book Dashboard + Hermes Library + Auto-Generation)** — 76d since last update
-- 🔴 **Blog & Content Pipeline** — 76d since last update
-- 🔴 **Causal AI & Hedge Agent** — 76d since last update
-- 🔴 **Loop Engineering** — 76d since last update
-- 🔴 **Mega-IPO & SPCX Tracking** — 76d since last update
-- 🔴 **Portfolio Dashboard** — 76d since last update
-- 🔴 **Academic Paper Analysis Project** — 76d since last update
-- 🔴 **Clawd Workspace Infrastructure** — 76d since last update
+- 🔴 **Email Triage & Safety System** — 77d since last update
+- 🔴 **GBrain Knowledge Ecosystem** — 77d since last update
+- 🔴 **MCP Server Infrastructure & Automation** — 77d since last update
+- 🔴 **Memory Tier System (4-Tier HOT/WARM/COOL/COLD)** — 77d since last update
+- 🔴 **Skills Ecosystem (Book Dashboard + Hermes Library + Auto-Generation)** — 77d since last update
+- 🔴 **Blog & Content Pipeline** — 77d since last update
+- 🔴 **Causal AI & Hedge Agent** — 77d since last update
+- 🔴 **Loop Engineering** — 77d since last update
+- 🔴 **Mega-IPO & SPCX Tracking** — 77d since last update
+- 🔴 **Portfolio Dashboard** — 77d since last update
+- 🔴 **Academic Paper Analysis Project** — 77d since last update
+- 🔴 **Clawd Workspace Infrastructure** — 77d since last update
 
 ---
 
@@ -85,4 +85,4 @@ tags: [dashboard, auto-generated]
 
 ---
 
-*Last generated: 2026-09-12 06:30 by `generate-project-dashboard.py`*
+*Last generated: 2026-09-13 06:30 by `generate-project-dashboard.py`*
