@@ -3075,6 +3075,66 @@ _2026-06-13_ — Added loop engineering / agent systems methodology, updated sta
 ### 2026-09-11: An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics
 
 ### 2026-09-11: SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacki
+
+### 2026-09-12: Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for I
+
+### 2026-09-12: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+
+### 2026-09-12: Negative Self-Distillation: Learning to Reason by Avoiding Flaws
+
+### 2026-09-12: DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning fo
+
+### 2026-09-12: MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes
+
+### 2026-09-12: HyQuant: Hybrid-Precision Quantization for LLM Attention
+
+### 2026-09-12: An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics
+
+### 2026-09-12: SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacki
+
+### 2026-09-12: World in World: Explore the World with World Models
+
+### 2026-09-12: SenseNova-U1.5: Towards Native Unified Visual Intelligence
+
+### 2026-09-12: CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary
+
+### 2026-09-12: T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks
+- HF trending paper (arxiv: 2609.11042). Keywords: learning, moe. Status: pending-review.
+- Source: [[papers/2609.11042]] | https://huggingface.co/papers/2609.11042
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.06931). Keywords: learning, reasoning. Status: pending-review.
+- Source: [[papers/2609.06931]] | https://huggingface.co/papers/2609.06931
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11929). Keywords: learning, fine-tuning, prompt. Status: pending-review.
+- Source: [[papers/2609.11929]] | https://huggingface.co/papers/2609.11929
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11548). Keywords: lora. Status: pending-review.
+- Source: [[papers/2609.11548]] | https://huggingface.co/papers/2609.11548
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07064). Keywords: learning, reasoning. Status: pending-review.
+- Source: [[papers/2609.07064]] | https://huggingface.co/papers/2609.07064
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10712). Keywords: learning, fine-tuning. Status: pending-review.
+- Source: [[papers/2609.10712]] | https://huggingface.co/papers/2609.10712
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27875). Keywords: quantization. Status: pending-review.
+- Source: [[papers/2608.27875]] | https://huggingface.co/papers/2608.27875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10016). Keywords: fine-tuning, reasoning. Status: pending-review.
+- Source: [[papers/2609.10016]] | https://huggingface.co/papers/2609.10016
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11155). Keywords: learning. Status: pending-review.
+- Source: [[papers/2609.11155]] | https://huggingface.co/papers/2609.11155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11699). Keywords: learning, lora, reasoning. Status: pending-review.
+- Source: [[papers/2609.11699]] | https://huggingface.co/papers/2609.11699
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11561). Keywords: sparse. Status: pending-review.
+- Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10445). Keywords: reasoning, prompt. Status: pending-review.
+- Source: [[papers/2609.10445]] | https://huggingface.co/papers/2609.10445
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.07064). Keywords: learning, reasoning. Status: pending-review.
 - Source: [[papers/2609.07064]] | https://huggingface.co/papers/2609.07064
 - Confidence: Low (auto-matched, not yet reviewed)

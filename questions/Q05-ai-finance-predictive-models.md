@@ -1352,6 +1352,41 @@ _2026-06-12_ — Added implementation progress: causal AI pipeline (DoWhy 4-step
 ### 2026-09-11: HyQuant: Hybrid-Precision Quantization for LLM Attention
 
 ### 2026-09-11: SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacki
+
+### 2026-09-12: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+
+### 2026-09-12: FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation
+
+### 2026-09-12: DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning fo
+
+### 2026-09-12: HyQuant: Hybrid-Precision Quantization for LLM Attention
+
+### 2026-09-12: SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacki
+
+### 2026-09-12: World in World: Explore the World with World Models
+
+### 2026-09-12: CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary
+- HF trending paper (arxiv: 2609.06931). Keywords: classification. Status: pending-review.
+- Source: [[papers/2609.06931]] | https://huggingface.co/papers/2609.06931
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11548). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.11548]] | https://huggingface.co/papers/2609.11548
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.07064). Keywords: prediction. Status: pending-review.
+- Source: [[papers/2609.07064]] | https://huggingface.co/papers/2609.07064
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2608.27875). Keywords: attention. Status: pending-review.
+- Source: [[papers/2608.27875]] | https://huggingface.co/papers/2608.27875
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11155). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.11155]] | https://huggingface.co/papers/2609.11155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11486). Keywords: transformer, attention. Status: pending-review.
+- Source: [[papers/2609.11486]] | https://huggingface.co/papers/2609.11486
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11561). Keywords: attention. Status: pending-review.
+- Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.07064). Keywords: prediction. Status: pending-review.
 - Source: [[papers/2609.07064]] | https://huggingface.co/papers/2609.07064
 - Confidence: Low (auto-matched, not yet reviewed)

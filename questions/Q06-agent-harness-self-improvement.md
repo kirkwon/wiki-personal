@@ -2894,6 +2894,46 @@ https://huggingface.co/papers/2608.02287
 ### 2026-09-11: DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning fo
 
 ### 2026-09-11: MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes
+
+### 2026-09-12: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+
+### 2026-09-12: Negative Self-Distillation: Learning to Reason by Avoiding Flaws
+
+### 2026-09-12: DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning fo
+
+### 2026-09-12: MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes
+
+### 2026-09-12: Recursive Code World Models: Building Complex Worlds through Recursive Scene Pro
+
+### 2026-09-12: World in World: Explore the World with World Models
+
+### 2026-09-12: SenseNova-U1.5: Towards Native Unified Visual Intelligence
+
+### 2026-09-12: T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks
+- HF trending paper (arxiv: 2609.11042). Keywords: terminal agent, sandbox. Status: pending-review.
+- Source: [[papers/2609.11042]] | https://huggingface.co/papers/2609.11042
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11929). Keywords: planning. Status: pending-review.
+- Source: [[papers/2609.11929]] | https://huggingface.co/papers/2609.11929
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11548). Keywords: gui. Status: pending-review.
+- Source: [[papers/2609.11548]] | https://huggingface.co/papers/2609.11548
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11499). Keywords: recursive, gui. Status: pending-review.
+- Source: [[papers/2609.11499]] | https://huggingface.co/papers/2609.11499
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.10016). Keywords: gui, harness. Status: pending-review.
+- Source: [[papers/2609.10016]] | https://huggingface.co/papers/2609.10016
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11155). Keywords: multi-agent, environment, execution. Status: pending-review.
+- Source: [[papers/2609.11155]] | https://huggingface.co/papers/2609.11155
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11699). Keywords: self-improvement, gui. Status: pending-review.
+- Source: [[papers/2609.11699]] | https://huggingface.co/papers/2609.11699
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11561). Keywords: gui, planning, execution. Status: pending-review.
+- Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.10016). Keywords: gui, harness. Status: pending-review.
 - Source: [[papers/2609.10016]] | https://huggingface.co/papers/2609.10016
 - Confidence: Low (auto-matched, not yet reviewed)

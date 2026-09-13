@@ -724,6 +724,26 @@ _2026-05-25_ — Initial research position
 ### 2026-09-10: Programmable World Model
 
 ### 2026-09-11: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+
+### 2026-09-12: Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+
+### 2026-09-12: Recursive Code World Models: Building Complex Worlds through Recursive Scene Pro
+
+### 2026-09-12: World in World: Explore the World with World Models
+
+### 2026-09-12: SenseNova-U1.5: Towards Native Unified Visual Intelligence
+- HF trending paper (arxiv: 2609.11929). Keywords: vae, geometry. Status: pending-review.
+- Source: [[papers/2609.11929]] | https://huggingface.co/papers/2609.11929
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11548). Keywords: world model, geometry. Status: pending-review.
+- Source: [[papers/2609.11548]] | https://huggingface.co/papers/2609.11548
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11499). Keywords: world model, geometry. Status: pending-review.
+- Source: [[papers/2609.11499]] | https://huggingface.co/papers/2609.11499
+- Confidence: Low (auto-matched, not yet reviewed)
+- HF trending paper (arxiv: 2609.11561). Keywords: markov. Status: pending-review.
+- Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
+- Confidence: Low (auto-matched, not yet reviewed)
 - HF trending paper (arxiv: 2609.11561). Keywords: markov. Status: pending-review.
 - Source: [[papers/2609.11561]] | https://huggingface.co/papers/2609.11561
 - Confidence: Low (auto-matched, not yet reviewed)
