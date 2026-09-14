@@ -1,0 +1,1980 @@
+{
+  "generated": "2026-09-13T22:30:07",
+  "merged": [
+    {
+      "from": "ACCESS_POLICY.md",
+      "to": "wiki/concepts/ACCESS_POLICY.md",
+      "type": "note",
+      "body": 292
+    },
+    {
+      "from": "HEARTBEAT.md",
+      "to": "wiki/concepts/HEARTBEAT.md",
+      "type": "note",
+      "body": 302
+    },
+    {
+      "from": "SOUL.md",
+      "to": "wiki/concepts/SOUL.md",
+      "type": "note",
+      "body": 4315
+    },
+    {
+      "from": "always-on-evaluation-protocol.md",
+      "to": "wiki/concepts/always-on-evaluation-protocol.md",
+      "type": "concept",
+      "body": 2582
+    },
+    {
+      "from": "anthropic-gross-margin-cascade-model.md",
+      "to": "wiki/concepts/anthropic-gross-margin-cascade-model.md",
+      "type": "concept",
+      "body": 4241
+    },
+    {
+      "from": "atomic-habits-james-clear_unified.md",
+      "to": "wiki/concepts/atomic-habits-james-clear_unified.md",
+      "type": "concept",
+      "body": 4170
+    },
+    {
+      "from": "autoresearch-core-harnesses.md",
+      "to": "wiki/concepts/autoresearch-core-harnesses.md",
+      "type": "note",
+      "body": 6027
+    },
+    {
+      "from": "autoresearch-evaluation-patterns.md",
+      "to": "wiki/concepts/autoresearch-evaluation-patterns.md",
+      "type": "note",
+      "body": 6044
+    },
+    {
+      "from": "autoresearch-finance-trading.md",
+      "to": "wiki/concepts/autoresearch-finance-trading.md",
+      "type": "note",
+      "body": 7846
+    },
+    {
+      "from": "autoresearch-software-optimization.md",
+      "to": "wiki/concepts/autoresearch-software-optimization.md",
+      "type": "note",
+      "body": 5716
+    },
+    {
+      "from": "awesome-autoresearch-competitive-intelligence.md",
+      "to": "wiki/concepts/awesome-autoresearch-competitive-intelligence.md",
+      "type": "concept",
+      "body": 368
+    },
+    {
+      "from": "awesome-autoresearch-content-research.md",
+      "to": "wiki/concepts/awesome-autoresearch-content-research.md",
+      "type": "concept",
+      "body": 356
+    },
+    {
+      "from": "awesome-autoresearch-curation-skill.md",
+      "to": "wiki/concepts/awesome-autoresearch-curation-skill.md",
+      "type": "concept",
+      "body": 5771
+    },
+    {
+      "from": "awesome-autoresearch-customer-discovery.md",
+      "to": "wiki/concepts/awesome-autoresearch-customer-discovery.md",
+      "type": "concept",
+      "body": 363
+    },
+    {
+      "from": "awesome-autoresearch-evaluation-red-teaming.md",
+      "to": "wiki/concepts/awesome-autoresearch-evaluation-red-teaming.md",
+      "type": "concept",
+      "body": 7771
+    },
+    {
+      "from": "awesome-autoresearch-finance-trading.md",
+      "to": "wiki/concepts/awesome-autoresearch-finance-trading.md",
+      "type": "concept",
+      "body": 9964
+    },
+    {
+      "from": "awesome-autoresearch-infra-skills-forks.md",
+      "to": "wiki/concepts/awesome-autoresearch-infra-skills-forks.md",
+      "type": "concept",
+      "body": 39708
+    },
+    {
+      "from": "awesome-autoresearch-knowledge-base-rag-preparation.md",
+      "to": "wiki/concepts/awesome-autoresearch-knowledge-base-rag-preparation.md",
+      "type": "concept",
+      "body": 931
+    },
+    {
+      "from": "awesome-autoresearch-lead-generation.md",
+      "to": "wiki/concepts/awesome-autoresearch-lead-generation.md",
+      "type": "concept",
+      "body": 335
+    },
+    {
+      "from": "awesome-autoresearch-market-research.md",
+      "to": "wiki/concepts/awesome-autoresearch-market-research.md",
+      "type": "concept",
+      "body": 283
+    },
+    {
+      "from": "awesome-autoresearch-personal-knowledge-humanities.md",
+      "to": "wiki/concepts/awesome-autoresearch-personal-knowledge-humanities.md",
+      "type": "concept",
+      "body": 852
+    },
+    {
+      "from": "awesome-autoresearch-phase1-log.md",
+      "to": "wiki/concepts/awesome-autoresearch-phase1-log.md",
+      "type": "note",
+      "body": 3280
+    },
+    {
+      "from": "awesome-autoresearch-phase2-log.md",
+      "to": "wiki/concepts/awesome-autoresearch-phase2-log.md",
+      "type": "note",
+      "body": 4479
+    },
+    {
+      "from": "awesome-autoresearch-related-practices-discussions.md",
+      "to": "wiki/concepts/awesome-autoresearch-related-practices-discussions.md",
+      "type": "concept",
+      "body": 53780
+    },
+    {
+      "from": "awesome-autoresearch-scientific-research.md",
+      "to": "wiki/concepts/awesome-autoresearch-scientific-research.md",
+      "type": "concept",
+      "body": 24976
+    },
+    {
+      "from": "awesome-autoresearch-software-systems-optimization.md",
+      "to": "wiki/concepts/awesome-autoresearch-software-systems-optimization.md",
+      "type": "concept",
+      "body": 16284
+    },
+    {
+      "from": "awesome-autoresearch-source.md",
+      "to": "wiki/sources/awesome-autoresearch-source.md",
+      "type": "source",
+      "body": 2959
+    },
+    {
+      "from": "awesome-autoresearch-trend-monitoring.md",
+      "to": "wiki/concepts/awesome-autoresearch-trend-monitoring.md",
+      "type": "concept",
+      "body": 348
+    },
+    {
+      "from": "awesome-autoresearch-workflow-automation.md",
+      "to": "wiki/concepts/awesome-autoresearch-workflow-automation.md",
+      "type": "concept",
+      "body": 1485
+    },
+    {
+      "from": "being-mortal-atul-gawande_unified.md",
+      "to": "wiki/concepts/being-mortal-atul-gawande_unified.md",
+      "type": "concept",
+      "body": 2217
+    },
+    {
+      "from": "beyond-good-and-evil-friedrich-nietzsche_unified.md",
+      "to": "wiki/concepts/beyond-good-and-evil-friedrich-nietzsche_unified.md",
+      "type": "concept",
+      "body": 4252
+    },
+    {
+      "from": "bineval-vs-effort-router.md",
+      "to": "wiki/concepts/bineval-vs-effort-router.md",
+      "type": "note",
+      "body": 4667
+    },
+    {
+      "from": "blog/blog-spam-invoice-escalation.md",
+      "to": "wiki/concepts/blog-spam-invoice-escalation.md",
+      "type": "writing",
+      "body": 7180
+    },
+    {
+      "from": "blue-ocean-strategy-w.-chan-kim-renee-mauborgne_unified.md",
+      "to": "wiki/concepts/blue-ocean-strategy-w.-chan-kim-renee-mauborgne_unified.md",
+      "type": "concept",
+      "body": 2841
+    },
+    {
+      "from": "books/sources-of-power.md",
+      "to": "wiki/concepts/sources-of-power.md",
+      "type": "note",
+      "body": 6973
+    },
+    {
+      "from": "books/thinking-fast-and-slow.md",
+      "to": "wiki/concepts/thinking-fast-and-slow.md",
+      "type": "note",
+      "body": 2349
+    },
+    {
+      "from": "building-a-second-brain-tiago-forte_unified.md",
+      "to": "wiki/concepts/building-a-second-brain-tiago-forte_unified.md",
+      "type": "concept",
+      "body": 2989
+    },
+    {
+      "from": "cao-adoption-decision.md",
+      "to": "wiki/concepts/cao-adoption-decision.md",
+      "type": "note",
+      "body": 4918
+    },
+    {
+      "from": "cao-migration-log.md",
+      "to": "wiki/concepts/cao-migration-log.md",
+      "type": "note",
+      "body": 3903
+    },
+    {
+      "from": "clear-thinking_-turning-ordinary-moments-into-extraordinary-results-shane-parrish_unified.md",
+      "to": "wiki/concepts/clear-thinking_-turning-ordinary-moments-into-extraordinary-results-shane-parrish_unified.md",
+      "type": "concept",
+      "body": 10018
+    },
+    {
+      "from": "complications_-a-surgeons-notes-on-an-imperfect-science-atul-gawande_unified.md",
+      "to": "wiki/concepts/complications_-a-surgeons-notes-on-an-imperfect-science-atul-gawande_unified.md",
+      "type": "concept",
+      "body": 9312
+    },
+    {
+      "from": "concept/github-skill-discovery-loop.md",
+      "to": "wiki/concepts/github-skill-discovery-loop.md",
+      "type": "concept",
+      "body": 2504
+    },
+    {
+      "from": "concept/jcode-rust-coding-agent.md",
+      "to": "wiki/concepts/jcode-rust-coding-agent.md",
+      "type": "concept",
+      "body": 2339
+    },
+    {
+      "from": "concept/kelly-criterion-insights.md",
+      "to": "wiki/concepts/kelly-criterion-insights.md",
+      "type": "concept",
+      "body": 1384
+    },
+    {
+      "from": "concept/tencentdb-agent-memory.md",
+      "to": "wiki/concepts/tencentdb-agent-memory.md",
+      "type": "concept",
+      "body": 1061
+    },
+    {
+      "from": "concepts/adaptive-rl-metascheduling-runtime.md",
+      "to": "wiki/concepts/adaptive-rl-metascheduling-runtime.md",
+      "type": "concept",
+      "body": 2269
+    },
+    {
+      "from": "concepts/agentic-ai-principles.md",
+      "to": "wiki/concepts/agentic-ai-principles.md",
+      "type": "concept",
+      "body": 1062
+    },
+    {
+      "from": "concepts/better-self-improving-agents-need-better-solvers.md",
+      "to": "wiki/concepts/better-self-improving-agents-need-better-solvers.md",
+      "type": "note",
+      "body": 2748
+    },
+    {
+      "from": "concepts/deep-rl-mixed-criticality-scheduling.md",
+      "to": "wiki/concepts/deep-rl-mixed-criticality-scheduling.md",
+      "type": "concept",
+      "body": 1914
+    },
+    {
+      "from": "concepts/dynamic-algorithms-interval-scheduling.md",
+      "to": "wiki/concepts/dynamic-algorithms-interval-scheduling.md",
+      "type": "concept",
+      "body": 1921
+    },
+    {
+      "from": "concepts/dynamic-scheduling-eli5-overview.md",
+      "to": "wiki/concepts/dynamic-scheduling-eli5-overview.md",
+      "type": "concept",
+      "body": 4437
+    },
+    {
+      "from": "concepts/experiment-evolver-vs-solver-model-size.md",
+      "to": "wiki/concepts/experiment-evolver-vs-solver-model-size.md",
+      "type": "note",
+      "body": 4573
+    },
+    {
+      "from": "concepts/kelly-sharpe-alpha-factor-chain.md",
+      "to": "wiki/concepts/kelly-sharpe-alpha-factor-chain.md",
+      "type": "concept",
+      "body": 6725
+    },
+    {
+      "from": "concepts/kirk-won-investment-thesis.md",
+      "to": "wiki/concepts/kirk-won-investment-thesis.md",
+      "type": "concept",
+      "body": 1574
+    },
+    {
+      "from": "concepts/metrics-for-self-improving-claude.md",
+      "to": "wiki/concepts/metrics-for-self-improving-claude.md",
+      "type": "note",
+      "body": 9818
+    },
+    {
+      "from": "concepts/metrics-improvement-next-steps.md",
+      "to": "wiki/concepts/metrics-improvement-next-steps.md",
+      "type": "note",
+      "body": 8810
+    },
+    {
+      "from": "concepts/metrics-weekly-2026-w23.md",
+      "to": "wiki/concepts/metrics-weekly-2026-w23.md",
+      "type": "note",
+      "body": 578
+    },
+    {
+      "from": "concepts/metrics-weekly-report-plan.md",
+      "to": "wiki/concepts/metrics-weekly-report-plan.md",
+      "type": "note",
+      "body": 10308
+    },
+    {
+      "from": "concepts/reinforcement-learning-adaptive-resource-scheduling.md",
+      "to": "wiki/concepts/reinforcement-learning-adaptive-resource-scheduling.md",
+      "type": "concept",
+      "body": 1861
+    },
+    {
+      "from": "concepts/research-risk-management-leaps-delta-options.md",
+      "to": "wiki/concepts/research-risk-management-leaps-delta-options.md",
+      "type": "note",
+      "body": 16306
+    },
+    {
+      "from": "concepts/self-distilled-agentic-rl-sdar.md",
+      "to": "wiki/concepts/self-distilled-agentic-rl-sdar.md",
+      "type": "concept",
+      "body": 2982
+    },
+    {
+      "from": "concepts/sublinear-dynamic-interval-scheduling.md",
+      "to": "wiki/concepts/sublinear-dynamic-interval-scheduling.md",
+      "type": "concept",
+      "body": 2163
+    },
+    {
+      "from": "concepts/sycophantic-ai-human-interaction.md",
+      "to": "wiki/concepts/sycophantic-ai-human-interaction.md",
+      "type": "concept",
+      "body": 5651
+    },
+    {
+      "from": "concepts/test-project-alpha-concept-alpha.md",
+      "to": "wiki/concepts/test-project-alpha-concept-alpha.md",
+      "type": "concept",
+      "body": 1425
+    },
+    {
+      "from": "concepts/test-project-alpha-concept-beta.md",
+      "to": "wiki/concepts/test-project-alpha-concept-beta.md",
+      "type": "concept",
+      "body": 2133
+    },
+    {
+      "from": "concepts/test-project-beta-concept-delta.md",
+      "to": "wiki/concepts/test-project-beta-concept-delta.md",
+      "type": "concept",
+      "body": 2217
+    },
+    {
+      "from": "concepts/test-project-beta-concept-gamma.md",
+      "to": "wiki/concepts/test-project-beta-concept-gamma.md",
+      "type": "concept",
+      "body": 1970
+    },
+    {
+      "from": "cynefin-decision-master-integration.md",
+      "to": "wiki/concepts/cynefin-decision-master-integration.md",
+      "type": "note",
+      "body": 6211
+    },
+    {
+      "from": "cynefin-framework.md",
+      "to": "wiki/concepts/cynefin-framework.md",
+      "type": "note",
+      "body": 7551
+    },
+    {
+      "from": "deep-work-cal-newport_unified.md",
+      "to": "wiki/concepts/deep-work-cal-newport_unified.md",
+      "type": "concept",
+      "body": 2836
+    },
+    {
+      "from": "defrag-report-2026-08-17.md",
+      "to": "wiki/concepts/defrag-report-2026-08-17.md",
+      "type": "note",
+      "body": 12545
+    },
+    {
+      "from": "demoted/test-demotion-entry-synthetic-f9432b.md",
+      "to": "wiki/concepts/test-demotion-entry-synthetic-f9432b.md",
+      "type": "note",
+      "body": 122
+    },
+    {
+      "from": "effort-router.md",
+      "to": "wiki/concepts/effort-router.md",
+      "type": "note",
+      "body": 2996
+    },
+    {
+      "from": "evidence-q07-2026-07-18.md",
+      "to": "wiki/sources/evidence-q07-2026-07-18.md",
+      "type": "source",
+      "body": 933
+    },
+    {
+      "from": "graph-engineering.md",
+      "to": "wiki/concepts/graph-engineering.md",
+      "type": "concept",
+      "body": 1631
+    },
+    {
+      "from": "graph-of-thoughts.md",
+      "to": "wiki/concepts/graph-of-thoughts.md",
+      "type": "concept",
+      "body": 4837
+    },
+    {
+      "from": "graphwork.md",
+      "to": "wiki/concepts/graphwork.md",
+      "type": "concept",
+      "body": 3459
+    },
+    {
+      "from": "harness-gap.md",
+      "to": "wiki/concepts/harness-gap.md",
+      "type": "concept",
+      "body": 2830
+    },
+    {
+      "from": "hermes-buzz-integration.md",
+      "to": "wiki/concepts/hermes-buzz-integration.md",
+      "type": "concept",
+      "body": 3753
+    },
+    {
+      "from": "hermes-ecosystem-2026-07-03.md",
+      "to": "wiki/concepts/hermes-ecosystem-2026-07-03.md",
+      "type": "concept",
+      "body": 6838
+    },
+    {
+      "from": "hermes-v0180-delta-2026-07-03.md",
+      "to": "wiki/concepts/hermes-v0180-delta-2026-07-03.md",
+      "type": "concept",
+      "body": 7254
+    },
+    {
+      "from": "inbox/2026-07-19-1778aee0.md",
+      "to": "wiki/concepts/2026-07-19-1778aee0.md",
+      "type": "concept",
+      "body": 5149
+    },
+    {
+      "from": "inbox/2026-07-19-18bd0a79.md",
+      "to": "wiki/concepts/2026-07-19-18bd0a79.md",
+      "type": "concept",
+      "body": 5202
+    },
+    {
+      "from": "inbox/2026-07-19-443b5a97.md",
+      "to": "wiki/concepts/2026-07-19-443b5a97.md",
+      "type": "concept",
+      "body": 113
+    },
+    {
+      "from": "inbox/2026-07-19-48994a0c.md",
+      "to": "wiki/concepts/2026-07-19-48994a0c.md",
+      "type": "concept",
+      "body": 2319
+    },
+    {
+      "from": "inbox/2026-07-19-e8f9ff48.md",
+      "to": "wiki/concepts/2026-07-19-e8f9ff48.md",
+      "type": "note",
+      "body": 3642
+    },
+    {
+      "from": "inbox/2026-07-19-f040bd1e.md",
+      "to": "wiki/concepts/2026-07-19-f040bd1e.md",
+      "type": "concept",
+      "body": 4571
+    },
+    {
+      "from": "inbox/2026-07-19-f0e8ec80.md",
+      "to": "wiki/concepts/2026-07-19-f0e8ec80.md",
+      "type": "concept",
+      "body": 113
+    },
+    {
+      "from": "inbox/2026-07-20-3f7706cb.md",
+      "to": "wiki/concepts/2026-07-20-3f7706cb.md",
+      "type": "note",
+      "body": 12381
+    },
+    {
+      "from": "inbox/2026-07-21-004d7163.md",
+      "to": "wiki/concepts/2026-07-21-004d7163.md",
+      "type": "note",
+      "body": 1712
+    },
+    {
+      "from": "inbox/2026-07-21-24be9315.md",
+      "to": "wiki/concepts/2026-07-21-24be9315.md",
+      "type": "note",
+      "body": 203
+    },
+    {
+      "from": "inbox/2026-07-21-28a7e817.md",
+      "to": "wiki/concepts/2026-07-21-28a7e817.md",
+      "type": "note",
+      "body": 2234
+    },
+    {
+      "from": "inbox/2026-07-21-2c95e55d.md",
+      "to": "wiki/concepts/2026-07-21-2c95e55d.md",
+      "type": "note",
+      "body": 3203
+    },
+    {
+      "from": "inbox/2026-07-21-2e198aa1.md",
+      "to": "wiki/concepts/2026-07-21-2e198aa1.md",
+      "type": "note",
+      "body": 1611
+    },
+    {
+      "from": "inbox/2026-07-21-38d908c0.md",
+      "to": "wiki/concepts/2026-07-21-38d908c0.md",
+      "type": "note",
+      "body": 15328
+    },
+    {
+      "from": "inbox/2026-07-21-5083c16b.md",
+      "to": "wiki/concepts/2026-07-21-5083c16b.md",
+      "type": "note",
+      "body": 1827
+    },
+    {
+      "from": "inbox/2026-07-21-5bed0a87.md",
+      "to": "wiki/concepts/2026-07-21-5bed0a87.md",
+      "type": "note",
+      "body": 4721
+    },
+    {
+      "from": "inbox/2026-07-21-7ce3b774.md",
+      "to": "wiki/concepts/2026-07-21-7ce3b774.md",
+      "type": "note",
+      "body": 1971
+    },
+    {
+      "from": "inbox/2026-07-21-825a8338.md",
+      "to": "wiki/concepts/2026-07-21-825a8338.md",
+      "type": "note",
+      "body": 2228
+    },
+    {
+      "from": "inbox/2026-07-21-956a0de5.md",
+      "to": "wiki/concepts/2026-07-21-956a0de5.md",
+      "type": "note",
+      "body": 2530
+    },
+    {
+      "from": "inbox/2026-07-21-9a5a36ae.md",
+      "to": "wiki/concepts/2026-07-21-9a5a36ae.md",
+      "type": "note",
+      "body": 2587
+    },
+    {
+      "from": "inbox/2026-07-21-9f679d33.md",
+      "to": "wiki/concepts/2026-07-21-9f679d33.md",
+      "type": "note",
+      "body": 1547
+    },
+    {
+      "from": "inbox/2026-07-21-bc207713.md",
+      "to": "wiki/concepts/2026-07-21-bc207713.md",
+      "type": "note",
+      "body": 2327
+    },
+    {
+      "from": "inbox/2026-07-21-f0201424.md",
+      "to": "wiki/concepts/2026-07-21-f0201424.md",
+      "type": "note",
+      "body": 478
+    },
+    {
+      "from": "inbox/2026-07-22-441a7bb9.md",
+      "to": "wiki/concepts/2026-07-22-441a7bb9.md",
+      "type": "concept",
+      "body": 6385
+    },
+    {
+      "from": "inbox/2026-07-22-ecde4557.md",
+      "to": "wiki/sources/2026-07-22-ecde4557.md",
+      "type": "source",
+      "body": 3441
+    },
+    {
+      "from": "inbox/2026-07-23-16ca5af0.md",
+      "to": "wiki/concepts/2026-07-23-16ca5af0.md",
+      "type": "analysis",
+      "body": 597
+    },
+    {
+      "from": "inbox/2026-07-23-198106cc.md",
+      "to": "wiki/concepts/2026-07-23-198106cc.md",
+      "type": "analysis",
+      "body": 775
+    },
+    {
+      "from": "inbox/2026-07-23-8d84d54c.md",
+      "to": "wiki/concepts/2026-07-23-8d84d54c.md",
+      "type": "analysis",
+      "body": 644
+    },
+    {
+      "from": "inbox/2026-07-23-8e4d156c.md",
+      "to": "wiki/concepts/2026-07-23-8e4d156c.md",
+      "type": "analysis",
+      "body": 707
+    },
+    {
+      "from": "inbox/2026-07-23-c0972bb1.md",
+      "to": "wiki/concepts/2026-07-23-c0972bb1.md",
+      "type": "analysis",
+      "body": 607
+    },
+    {
+      "from": "inbox/2026-07-23-f39733e9.md",
+      "to": "wiki/concepts/2026-07-23-f39733e9.md",
+      "type": "analysis",
+      "body": 634
+    },
+    {
+      "from": "inbox/2026-07-26-cadb6833.md",
+      "to": "wiki/concepts/2026-07-26-cadb6833.md",
+      "type": "note",
+      "body": 2970
+    },
+    {
+      "from": "inbox/2026-07-27-13c095ed.md",
+      "to": "wiki/concepts/2026-07-27-13c095ed.md",
+      "type": "analysis",
+      "body": 826
+    },
+    {
+      "from": "inbox/2026-07-27-14e43b7b.md",
+      "to": "wiki/concepts/2026-07-27-14e43b7b.md",
+      "type": "analysis",
+      "body": 822
+    },
+    {
+      "from": "inbox/2026-07-27-1cae21a5.md",
+      "to": "wiki/concepts/2026-07-27-1cae21a5.md",
+      "type": "analysis",
+      "body": 882
+    },
+    {
+      "from": "inbox/2026-07-27-4abd0143.md",
+      "to": "wiki/concepts/2026-07-27-4abd0143.md",
+      "type": "analysis",
+      "body": 826
+    },
+    {
+      "from": "inbox/2026-07-27-5822d36c.md",
+      "to": "wiki/concepts/2026-07-27-5822d36c.md",
+      "type": "analysis",
+      "body": 988
+    },
+    {
+      "from": "inbox/2026-07-27-6b997b8b.md",
+      "to": "wiki/concepts/2026-07-27-6b997b8b.md",
+      "type": "analysis",
+      "body": 896
+    },
+    {
+      "from": "inbox/2026-07-27-92bb9920.md",
+      "to": "wiki/concepts/2026-07-27-92bb9920.md",
+      "type": "analysis",
+      "body": 789
+    },
+    {
+      "from": "inbox/2026-07-27-98ae738c.md",
+      "to": "wiki/concepts/2026-07-27-98ae738c.md",
+      "type": "analysis",
+      "body": 707
+    },
+    {
+      "from": "inbox/2026-07-27-b36eeaef.md",
+      "to": "wiki/concepts/2026-07-27-b36eeaef.md",
+      "type": "analysis",
+      "body": 753
+    },
+    {
+      "from": "inbox/2026-07-27-cb9b24e6.md",
+      "to": "wiki/concepts/2026-07-27-cb9b24e6.md",
+      "type": "analysis",
+      "body": 775
+    },
+    {
+      "from": "inbox/2026-07-27-e62126ea.md",
+      "to": "wiki/concepts/2026-07-27-e62126ea.md",
+      "type": "analysis",
+      "body": 769
+    },
+    {
+      "from": "inbox/2026-07-29-06cf1486.md",
+      "to": "wiki/concepts/2026-07-29-06cf1486.md",
+      "type": "note",
+      "body": 1477
+    },
+    {
+      "from": "inbox/2026-07-29-131f8f95.md",
+      "to": "wiki/concepts/2026-07-29-131f8f95.md",
+      "type": "note",
+      "body": 1888
+    },
+    {
+      "from": "inbox/2026-07-29-3d5244dd.md",
+      "to": "wiki/concepts/2026-07-29-3d5244dd.md",
+      "type": "note",
+      "body": 1409
+    },
+    {
+      "from": "inbox/2026-07-29-4d8d70cc.md",
+      "to": "wiki/concepts/2026-07-29-4d8d70cc.md",
+      "type": "note",
+      "body": 1544
+    },
+    {
+      "from": "inbox/2026-07-29-7cb1212f.md",
+      "to": "wiki/concepts/2026-07-29-7cb1212f.md",
+      "type": "note",
+      "body": 1313
+    },
+    {
+      "from": "inbox/2026-07-29-a0cac0f1.md",
+      "to": "wiki/concepts/2026-07-29-a0cac0f1.md",
+      "type": "note",
+      "body": 2810
+    },
+    {
+      "from": "inbox/2026-07-29-db20d895.md",
+      "to": "wiki/concepts/2026-07-29-db20d895.md",
+      "type": "note",
+      "body": 3798
+    },
+    {
+      "from": "inbox/2026-08-03-00fe84c4.md",
+      "to": "wiki/concepts/2026-08-03-00fe84c4.md",
+      "type": "analysis",
+      "body": 498
+    },
+    {
+      "from": "inbox/2026-08-03-0d6aa246.md",
+      "to": "wiki/concepts/2026-08-03-0d6aa246.md",
+      "type": "analysis",
+      "body": 691
+    },
+    {
+      "from": "inbox/2026-08-03-0fef2cb5.md",
+      "to": "wiki/concepts/2026-08-03-0fef2cb5.md",
+      "type": "analysis",
+      "body": 515
+    },
+    {
+      "from": "inbox/2026-08-03-13c095ed.md",
+      "to": "wiki/concepts/2026-08-03-13c095ed.md",
+      "type": "analysis",
+      "body": 826
+    },
+    {
+      "from": "inbox/2026-08-03-13c5f973.md",
+      "to": "wiki/concepts/2026-08-03-13c5f973.md",
+      "type": "analysis",
+      "body": 620
+    },
+    {
+      "from": "inbox/2026-08-03-14e43b7b.md",
+      "to": "wiki/concepts/2026-08-03-14e43b7b.md",
+      "type": "analysis",
+      "body": 822
+    },
+    {
+      "from": "inbox/2026-08-03-1534f7a1.md",
+      "to": "wiki/concepts/2026-08-03-1534f7a1.md",
+      "type": "analysis",
+      "body": 717
+    },
+    {
+      "from": "inbox/2026-08-03-16a097de.md",
+      "to": "wiki/concepts/2026-08-03-16a097de.md",
+      "type": "analysis",
+      "body": 803
+    },
+    {
+      "from": "inbox/2026-08-03-16ca5af0.md",
+      "to": "wiki/concepts/2026-08-03-16ca5af0.md",
+      "type": "analysis",
+      "body": 597
+    },
+    {
+      "from": "inbox/2026-08-03-1b093c4e.md",
+      "to": "wiki/concepts/2026-08-03-1b093c4e.md",
+      "type": "analysis",
+      "body": 1229
+    },
+    {
+      "from": "inbox/2026-08-03-20c14cc6.md",
+      "to": "wiki/concepts/2026-08-03-20c14cc6.md",
+      "type": "analysis",
+      "body": 3760
+    },
+    {
+      "from": "inbox/2026-08-03-283a5006.md",
+      "to": "wiki/concepts/2026-08-03-283a5006.md",
+      "type": "analysis",
+      "body": 748
+    },
+    {
+      "from": "inbox/2026-08-03-285ef780.md",
+      "to": "wiki/concepts/2026-08-03-285ef780.md",
+      "type": "analysis",
+      "body": 618
+    },
+    {
+      "from": "inbox/2026-08-03-3162579d.md",
+      "to": "wiki/concepts/2026-08-03-3162579d.md",
+      "type": "analysis",
+      "body": 604
+    },
+    {
+      "from": "inbox/2026-08-03-3225beed.md",
+      "to": "wiki/concepts/2026-08-03-3225beed.md",
+      "type": "analysis",
+      "body": 547
+    },
+    {
+      "from": "inbox/2026-08-03-334801f8.md",
+      "to": "wiki/concepts/2026-08-03-334801f8.md",
+      "type": "analysis",
+      "body": 581
+    },
+    {
+      "from": "inbox/2026-08-03-40a1c15a.md",
+      "to": "wiki/concepts/2026-08-03-40a1c15a.md",
+      "type": "analysis",
+      "body": 1779
+    },
+    {
+      "from": "inbox/2026-08-03-4922fbde.md",
+      "to": "wiki/concepts/2026-08-03-4922fbde.md",
+      "type": "analysis",
+      "body": 524
+    },
+    {
+      "from": "inbox/2026-08-03-4de6957d.md",
+      "to": "wiki/concepts/2026-08-03-4de6957d.md",
+      "type": "analysis",
+      "body": 592
+    },
+    {
+      "from": "inbox/2026-08-03-5822d36c.md",
+      "to": "wiki/concepts/2026-08-03-5822d36c.md",
+      "type": "analysis",
+      "body": 988
+    },
+    {
+      "from": "inbox/2026-08-03-5b16797d.md",
+      "to": "wiki/concepts/2026-08-03-5b16797d.md",
+      "type": "analysis",
+      "body": 796
+    },
+    {
+      "from": "inbox/2026-08-03-62a868fc.md",
+      "to": "wiki/concepts/2026-08-03-62a868fc.md",
+      "type": "analysis",
+      "body": 775
+    },
+    {
+      "from": "inbox/2026-08-03-72f79fcb.md",
+      "to": "wiki/concepts/2026-08-03-72f79fcb.md",
+      "type": "analysis",
+      "body": 661
+    },
+    {
+      "from": "inbox/2026-08-03-74444a6e.md",
+      "to": "wiki/concepts/2026-08-03-74444a6e.md",
+      "type": "analysis",
+      "body": 800
+    },
+    {
+      "from": "inbox/2026-08-03-790e0314.md",
+      "to": "wiki/concepts/2026-08-03-790e0314.md",
+      "type": "analysis",
+      "body": 707
+    },
+    {
+      "from": "inbox/2026-08-03-7a4452d3.md",
+      "to": "wiki/concepts/2026-08-03-7a4452d3.md",
+      "type": "analysis",
+      "body": 176
+    },
+    {
+      "from": "inbox/2026-08-03-826f5ec7.md",
+      "to": "wiki/concepts/2026-08-03-826f5ec7.md",
+      "type": "analysis",
+      "body": 791
+    },
+    {
+      "from": "inbox/2026-08-03-83c5ec85.md",
+      "to": "wiki/concepts/2026-08-03-83c5ec85.md",
+      "type": "analysis",
+      "body": 707
+    },
+    {
+      "from": "inbox/2026-08-03-87171466.md",
+      "to": "wiki/concepts/2026-08-03-87171466.md",
+      "type": "analysis",
+      "body": 629
+    },
+    {
+      "from": "inbox/2026-08-03-871c95fd.md",
+      "to": "wiki/concepts/2026-08-03-871c95fd.md",
+      "type": "analysis",
+      "body": 740
+    },
+    {
+      "from": "inbox/2026-08-03-8ced9702.md",
+      "to": "wiki/concepts/2026-08-03-8ced9702.md",
+      "type": "analysis",
+      "body": 914
+    },
+    {
+      "from": "inbox/2026-08-03-8d84d54c.md",
+      "to": "wiki/concepts/2026-08-03-8d84d54c.md",
+      "type": "analysis",
+      "body": 644
+    },
+    {
+      "from": "inbox/2026-08-03-92537542.md",
+      "to": "wiki/concepts/2026-08-03-92537542.md",
+      "type": "analysis",
+      "body": 895
+    },
+    {
+      "from": "inbox/2026-08-03-9524d5b5.md",
+      "to": "wiki/concepts/2026-08-03-9524d5b5.md",
+      "type": "analysis",
+      "body": 602
+    },
+    {
+      "from": "inbox/2026-08-03-97411d67.md",
+      "to": "wiki/concepts/2026-08-03-97411d67.md",
+      "type": "analysis",
+      "body": 826
+    },
+    {
+      "from": "inbox/2026-08-03-a63042eb.md",
+      "to": "wiki/concepts/2026-08-03-a63042eb.md",
+      "type": "analysis",
+      "body": 528
+    },
+    {
+      "from": "inbox/2026-08-03-b4b375f9.md",
+      "to": "wiki/concepts/2026-08-03-b4b375f9.md",
+      "type": "analysis",
+      "body": 753
+    },
+    {
+      "from": "inbox/2026-08-03-bc94ce07.md",
+      "to": "wiki/concepts/2026-08-03-bc94ce07.md",
+      "type": "analysis",
+      "body": 894
+    },
+    {
+      "from": "inbox/2026-08-03-c0972bb1.md",
+      "to": "wiki/concepts/2026-08-03-c0972bb1.md",
+      "type": "analysis",
+      "body": 607
+    },
+    {
+      "from": "inbox/2026-08-03-cb9b24e6.md",
+      "to": "wiki/concepts/2026-08-03-cb9b24e6.md",
+      "type": "analysis",
+      "body": 775
+    },
+    {
+      "from": "inbox/2026-08-03-cd3e7a3a.md",
+      "to": "wiki/concepts/2026-08-03-cd3e7a3a.md",
+      "type": "analysis",
+      "body": 771
+    },
+    {
+      "from": "inbox/2026-08-03-ea252bed.md",
+      "to": "wiki/concepts/2026-08-03-ea252bed.md",
+      "type": "analysis",
+      "body": 898
+    },
+    {
+      "from": "inbox/2026-08-03-f39733e9.md",
+      "to": "wiki/concepts/2026-08-03-f39733e9.md",
+      "type": "analysis",
+      "body": 634
+    },
+    {
+      "from": "inbox/2026-08-03-f70da802.md",
+      "to": "wiki/concepts/2026-08-03-f70da802.md",
+      "type": "analysis",
+      "body": 882
+    },
+    {
+      "from": "inbox/2026-08-03-ff937768.md",
+      "to": "wiki/concepts/2026-08-03-ff937768.md",
+      "type": "analysis",
+      "body": 712
+    },
+    {
+      "from": "inbox/2026-08-10-03af61a2.md",
+      "to": "wiki/concepts/2026-08-10-03af61a2.md",
+      "type": "analysis",
+      "body": 796
+    },
+    {
+      "from": "inbox/2026-08-10-4c2624ee.md",
+      "to": "wiki/concepts/2026-08-10-4c2624ee.md",
+      "type": "analysis",
+      "body": 822
+    },
+    {
+      "from": "inbox/2026-08-10-5e5831f7.md",
+      "to": "wiki/concepts/2026-08-10-5e5831f7.md",
+      "type": "analysis",
+      "body": 796
+    },
+    {
+      "from": "inbox/2026-08-10-737410bc.md",
+      "to": "wiki/concepts/2026-08-10-737410bc.md",
+      "type": "analysis",
+      "body": 803
+    },
+    {
+      "from": "inbox/2026-08-10-7fe9a92d.md",
+      "to": "wiki/concepts/2026-08-10-7fe9a92d.md",
+      "type": "analysis",
+      "body": 803
+    },
+    {
+      "from": "inbox/2026-08-10-8f712e44.md",
+      "to": "wiki/concepts/2026-08-10-8f712e44.md",
+      "type": "analysis",
+      "body": 803
+    },
+    {
+      "from": "inbox/2026-08-10-9c9a0e06.md",
+      "to": "wiki/concepts/2026-08-10-9c9a0e06.md",
+      "type": "analysis",
+      "body": 796
+    },
+    {
+      "from": "inbox/2026-08-10-f159e08c.md",
+      "to": "wiki/concepts/2026-08-10-f159e08c.md",
+      "type": "analysis",
+      "body": 822
+    },
+    {
+      "from": "inbox/2026-08-10-f68c9155.md",
+      "to": "wiki/concepts/2026-08-10-f68c9155.md",
+      "type": "analysis",
+      "body": 822
+    },
+    {
+      "from": "loop-engineering-got-integration.md",
+      "to": "wiki/concepts/loop-engineering-got-integration.md",
+      "type": "concept",
+      "body": 1987
+    },
+    {
+      "from": "markov-regime-detection.md",
+      "to": "wiki/concepts/markov-regime-detection.md",
+      "type": "concept",
+      "body": 1721
+    },
+    {
+      "from": "markovian-thinker-delethink.md",
+      "to": "wiki/concepts/markovian-thinker-delethink.md",
+      "type": "concept",
+      "body": 2146
+    },
+    {
+      "from": "mega-ipo-index-impact-2026.md",
+      "to": "wiki/concepts/mega-ipo-index-impact-2026.md",
+      "type": "concept",
+      "body": 9290
+    },
+    {
+      "from": "nlm-insights/2026-08-02-three-findings-actionable.md",
+      "to": "wiki/concepts/2026-08-02-three-findings-actionable.md",
+      "type": "analysis",
+      "body": 4136
+    },
+    {
+      "from": "papers/finacumen-self-evolving-memory-harness.md",
+      "to": "wiki/concepts/finacumen-self-evolving-memory-harness.md",
+      "type": "concept",
+      "body": 5077
+    },
+    {
+      "from": "pat-critical-reading.md",
+      "to": "wiki/concepts/pat-critical-reading.md",
+      "type": "note",
+      "body": 5656
+    },
+    {
+      "from": "raschka-reasoning-effort.md",
+      "to": "wiki/concepts/raschka-reasoning-effort.md",
+      "type": "note",
+      "body": 2059
+    },
+    {
+      "from": "research/academic-analysis-synthesis.md",
+      "to": "wiki/concepts/academic-analysis-synthesis.md",
+      "type": "analysis",
+      "body": 341
+    },
+    {
+      "from": "research/gittins-analysis.md",
+      "to": "wiki/concepts/gittins-analysis.md",
+      "type": "analysis",
+      "body": 307
+    },
+    {
+      "from": "research/research-grpo-training-for-llms-20260503.md",
+      "to": "wiki/concepts/research-grpo-training-for-llms-20260503.md",
+      "type": "analysis",
+      "body": 1035
+    },
+    {
+      "from": "research/research-grpo-training-methods-for-llms-20260511.md",
+      "to": "wiki/concepts/research-grpo-training-methods-for-llms-20260511.md",
+      "type": "note",
+      "body": 606
+    },
+    {
+      "from": "research/sutton-analysis.md",
+      "to": "wiki/concepts/sutton-analysis.md",
+      "type": "analysis",
+      "body": 312
+    },
+    {
+      "from": "resilience-build-ideas.md",
+      "to": "wiki/concepts/resilience-build-ideas.md",
+      "type": "concept",
+      "body": 9497
+    },
+    {
+      "from": "safety-reference.md",
+      "to": "wiki/concepts/safety-reference.md",
+      "type": "note",
+      "body": 17104
+    },
+    {
+      "from": "sessions/2026-05-08-morning-gbrain-system-build.md",
+      "to": "wiki/concepts/2026-05-08-morning-gbrain-system-build.md",
+      "type": "note",
+      "body": 6373
+    },
+    {
+      "from": "skill-governance-system.md",
+      "to": "wiki/concepts/skill-governance-system.md",
+      "type": "note",
+      "body": 5540
+    },
+    {
+      "from": "skillopt-auto-gate.md",
+      "to": "wiki/concepts/skillopt-auto-gate.md",
+      "type": "note",
+      "body": 4329
+    },
+    {
+      "from": "sources/email-2026-06-17-317949.md",
+      "to": "wiki/sources/email-2026-06-17-317949.md",
+      "type": "source",
+      "body": 249
+    },
+    {
+      "from": "sources/email-2026-06-18-318085.md",
+      "to": "wiki/sources/email-2026-06-18-318085.md",
+      "type": "source",
+      "body": 333
+    },
+    {
+      "from": "sources/email-2026-06-19-318189.md",
+      "to": "wiki/sources/email-2026-06-19-318189.md",
+      "type": "source",
+      "body": 330
+    },
+    {
+      "from": "sources/email-2026-06-20-318276.md",
+      "to": "wiki/sources/email-2026-06-20-318276.md",
+      "type": "source",
+      "body": 315
+    },
+    {
+      "from": "sources/email-2026-06-20-318283.md",
+      "to": "wiki/sources/email-2026-06-20-318283.md",
+      "type": "source",
+      "body": 305
+    },
+    {
+      "from": "sources/email-2026-06-20-318293.md",
+      "to": "wiki/sources/email-2026-06-20-318293.md",
+      "type": "source",
+      "body": 301
+    },
+    {
+      "from": "sources/email-2026-06-21-318313.md",
+      "to": "wiki/sources/email-2026-06-21-318313.md",
+      "type": "source",
+      "body": 315
+    },
+    {
+      "from": "sources/email-2026-06-21-318318.md",
+      "to": "wiki/sources/email-2026-06-21-318318.md",
+      "type": "source",
+      "body": 311
+    },
+    {
+      "from": "sources/email-2026-06-22-318451.md",
+      "to": "wiki/sources/email-2026-06-22-318451.md",
+      "type": "source",
+      "body": 328
+    },
+    {
+      "from": "sources/email-2026-06-22-318454.md",
+      "to": "wiki/sources/email-2026-06-22-318454.md",
+      "type": "source",
+      "body": 302
+    },
+    {
+      "from": "sources/email-2026-06-23-318481.md",
+      "to": "wiki/sources/email-2026-06-23-318481.md",
+      "type": "source",
+      "body": 324
+    },
+    {
+      "from": "sources/email-2026-06-24-318621.md",
+      "to": "wiki/sources/email-2026-06-24-318621.md",
+      "type": "source",
+      "body": 302
+    },
+    {
+      "from": "sources/email-2026-06-24-318660.md",
+      "to": "wiki/sources/email-2026-06-24-318660.md",
+      "type": "source",
+      "body": 315
+    },
+    {
+      "from": "sources/email-2026-06-24-318731.md",
+      "to": "wiki/sources/email-2026-06-24-318731.md",
+      "type": "source",
+      "body": 360
+    },
+    {
+      "from": "sources/email-2026-06-25-318754.md",
+      "to": "wiki/sources/email-2026-06-25-318754.md",
+      "type": "source",
+      "body": 317
+    },
+    {
+      "from": "sources/email-2026-06-25-318780.md",
+      "to": "wiki/sources/email-2026-06-25-318780.md",
+      "type": "source",
+      "body": 315
+    },
+    {
+      "from": "sources/email-2026-06-26-318946.md",
+      "to": "wiki/sources/email-2026-06-26-318946.md",
+      "type": "source",
+      "body": 305
+    },
+    {
+      "from": "sources/email-2026-06-26-318947.md",
+      "to": "wiki/sources/email-2026-06-26-318947.md",
+      "type": "source",
+      "body": 336
+    },
+    {
+      "from": "sources/email-2026-06-26-318959.md",
+      "to": "wiki/sources/email-2026-06-26-318959.md",
+      "type": "source",
+      "body": 312
+    },
+    {
+      "from": "sources/email-2026-06-27-318980.md",
+      "to": "wiki/sources/email-2026-06-27-318980.md",
+      "type": "source",
+      "body": 399
+    },
+    {
+      "from": "sources/email-2026-06-27-318998.md",
+      "to": "wiki/sources/email-2026-06-27-318998.md",
+      "type": "source",
+      "body": 368
+    },
+    {
+      "from": "sources/email-2026-06-27-319027.md",
+      "to": "wiki/sources/email-2026-06-27-319027.md",
+      "type": "source",
+      "body": 321
+    },
+    {
+      "from": "sources/email-2026-06-28-319085.md",
+      "to": "wiki/sources/email-2026-06-28-319085.md",
+      "type": "source",
+      "body": 317
+    },
+    {
+      "from": "sources/email-2026-06-30-319230.md",
+      "to": "wiki/sources/email-2026-06-30-319230.md",
+      "type": "source",
+      "body": 325
+    },
+    {
+      "from": "sources/email-2026-06-30-319274.md",
+      "to": "wiki/sources/email-2026-06-30-319274.md",
+      "type": "source",
+      "body": 326
+    },
+    {
+      "from": "sources/email-2026-06-30-319279.md",
+      "to": "wiki/sources/email-2026-06-30-319279.md",
+      "type": "source",
+      "body": 289
+    },
+    {
+      "from": "sources/email-2026-06-30-319299.md",
+      "to": "wiki/sources/email-2026-06-30-319299.md",
+      "type": "source",
+      "body": 404
+    },
+    {
+      "from": "sources/email-2026-06-30-319300.md",
+      "to": "wiki/sources/email-2026-06-30-319300.md",
+      "type": "source",
+      "body": 404
+    },
+    {
+      "from": "sources/email-2026-06-30-319301.md",
+      "to": "wiki/sources/email-2026-06-30-319301.md",
+      "type": "source",
+      "body": 306
+    },
+    {
+      "from": "sources/email-2026-07-01-319336.md",
+      "to": "wiki/sources/email-2026-07-01-319336.md",
+      "type": "source",
+      "body": 323
+    },
+    {
+      "from": "sources/email-2026-07-02-319480.md",
+      "to": "wiki/sources/email-2026-07-02-319480.md",
+      "type": "source",
+      "body": 322
+    },
+    {
+      "from": "sources/email-2026-07-02-319515.md",
+      "to": "wiki/sources/email-2026-07-02-319515.md",
+      "type": "source",
+      "body": 289
+    },
+    {
+      "from": "sources/email-2026-07-05-319514.md",
+      "to": "wiki/sources/email-2026-07-05-319514.md",
+      "type": "source",
+      "body": 326
+    },
+    {
+      "from": "sources/email-2026-07-05-319521.md",
+      "to": "wiki/sources/email-2026-07-05-319521.md",
+      "type": "source",
+      "body": 329
+    },
+    {
+      "from": "sources/email-2026-07-06-319513.md",
+      "to": "wiki/sources/email-2026-07-06-319513.md",
+      "type": "source",
+      "body": 326
+    },
+    {
+      "from": "sources/email-2026-07-06-319521.md",
+      "to": "wiki/sources/email-2026-07-06-319521.md",
+      "type": "source",
+      "body": 329
+    },
+    {
+      "from": "sources/email-2026-07-06-319560.md",
+      "to": "wiki/sources/email-2026-07-06-319560.md",
+      "type": "source",
+      "body": 307
+    },
+    {
+      "from": "sources/loop-engineering-roadmap.md",
+      "to": "wiki/sources/loop-engineering-roadmap.md",
+      "type": "source",
+      "body": 8818
+    },
+    {
+      "from": "spacex-spcx-deep-dive-scenarios.md",
+      "to": "wiki/concepts/spacex-spcx-deep-dive-scenarios.md",
+      "type": "concept",
+      "body": 8726
+    },
+    {
+      "from": "twitter-loop-engineering.md",
+      "to": "wiki/concepts/twitter-loop-engineering.md",
+      "type": "concept",
+      "body": 4093
+    }
+  ],
+  "review": [
+    {
+      "file": "divergent/.hermes/rollback/defrag-20260511_090935/wiki-personal/concepts/text-to-speech.md",
+      "slug": "text-to-speech",
+      "canonical": [
+        "wiki/concepts/text-to-speech.md"
+      ]
+    },
+    {
+      "file": "divergent/blog/README.md",
+      "slug": "readme",
+      "canonical": [
+        "wiki/sources/README.md"
+      ]
+    },
+    {
+      "file": "divergent/concepts/coffee-roasting.md",
+      "slug": "coffee-roasting",
+      "canonical": [
+        "wiki/concepts/coffee-roasting-\u5496\u5561\u70d8\u7119.md"
+      ]
+    },
+    {
+      "file": "divergent/concepts/training-free-looped-transformers.md",
+      "slug": "training-free-looped-transformers",
+      "canonical": [
+        "wiki/concepts/training-free-looped-transformers.md"
+      ]
+    },
+    {
+      "file": "divergent/loop-engineering.md",
+      "slug": "loop-engineering",
+      "canonical": [
+        "projects/loop-engineering.md"
+      ]
+    },
+    {
+      "file": "divergent/methodology/context-reduction-architecture.md",
+      "slug": "context-reduction-architecture",
+      "canonical": [
+        "concepts/context-reduction-architecture.md"
+      ]
+    },
+    {
+      "file": "divergent/papers/alphazero.md",
+      "slug": "alphazero",
+      "canonical": [
+        "papers/alphazero.md"
+      ]
+    },
+    {
+      "file": "divergent/papers/ornith-1-self-improving-coding.md",
+      "slug": "ornith-1-self-improving-coding",
+      "canonical": [
+        "papers/ornith-1-self-improving-coding.md"
+      ]
+    },
+    {
+      "file": "divergent/raw/loop-engineering-plan.md",
+      "slug": "loop-engineering-plan",
+      "canonical": [
+        "wiki/sources/loop-engineering-plan.md"
+      ]
+    },
+    {
+      "file": "divergent/six-thinking-hats.md",
+      "slug": "six-thinking-hats",
+      "canonical": [
+        "wiki/concepts/six-thinking-hats.md"
+      ]
+    },
+    {
+      "file": "divergent/wiki-personal.backup-/20260902-010127/questions/Q01-ai-ml-finance-skills-bridge.md",
+      "slug": "q01-ai-ml-finance-skills-bridge",
+      "canonical": [
+        "wiki/concepts/q01-ai-ml-finance-skills-bridge.md"
+      ]
+    },
+    {
+      "file": "divergent/wiki-personal.backup-/20260902-010127/questions/Q02-agent-self-improvement-models.md",
+      "slug": "q02-agent-self-improvement-models",
+      "canonical": [
+        "wiki/concepts/q02-agent-self-improvement-models.md"
+      ]
+    },
+    {
+      "file": "divergent/wiki-personal.backup-/20260902-010127/questions/Q03-accelerating-learning-in-systems.md",
+      "slug": "q03-accelerating-learning-in-systems",
+      "canonical": [
+        "wiki/concepts/q03-accelerating-learning-in-systems.md"
+      ]
+    },
+    {
+      "file": "divergent/wiki-personal.backup-/20260902-010127/questions/Q04-symbolic-energy-based-models.md",
+      "slug": "q04-symbolic-energy-based-models",
+      "canonical": [
+        "wiki/concepts/q04-symbolic-energy-based-models.md"
+      ]
+    },
+    {
+      "file": "divergent/wiki-personal.backup-/20260902-010127/questions/Q05-ai-finance-predictive-models.md",
+      "slug": "q05-ai-finance-predictive-models",
+      "canonical": [
+        "wiki/concepts/q05-ai-finance-predictive-models.md"
+      ]
+    },
+    {
+      "file": "divergent/wiki-personal.backup-/20260902-010127/questions/Q06-agent-harness-self-improvement.md",
+      "slug": "q06-agent-harness-self-improvement",
+      "canonical": [
+        "wiki/concepts/q06-agent-harness-self-improvement.md"
+      ]
+    }
+  ],
+  "provenance": [
+    {
+      "file": ".hermes/health-report-20260511.md",
+      "type": "(none)",
+      "body": 2332
+    },
+    {
+      "file": ".hermes/health-report-20260518.md",
+      "type": "(none)",
+      "body": 2158
+    },
+    {
+      "file": ".hermes/health-report-20260525.md",
+      "type": "(none)",
+      "body": 3737
+    },
+    {
+      "file": ".hermes/rollback/defrag-20260511_090935/ACCESS_POLICY.md",
+      "type": "(none)",
+      "body": 292
+    },
+    {
+      "file": ".hermes/rollback/defrag-20260511_090935/HEARTBEAT.md",
+      "type": "(none)",
+      "body": 302
+    },
+    {
+      "file": ".hermes/rollback/defrag-20260511_090935/SOUL.md",
+      "type": "(none)",
+      "body": 4315
+    },
+    {
+      "file": ".hermes/rollback/defrag-20260511_090935/USER.md",
+      "type": "(none)",
+      "body": 5353
+    },
+    {
+      "file": ".hermes/rollback/defrag-20260511_090935/research/research-grpo-training-for-llms-20260503.md",
+      "type": "(none)",
+      "body": 1035
+    },
+    {
+      "file": ".hermes/rollback/defrag-20260511_090935/wiki-personal/concepts/text-to-speech-wisdom.md",
+      "type": "(none)",
+      "body": 1636
+    },
+    {
+      "file": ".hermes/rollback/defrag-20260518_061355/research-grpo-training-methods-for-llms-20260511.md",
+      "type": "(none)",
+      "body": 606
+    },
+    {
+      "file": "2026-07-22-can-llms-correct-themselves.md",
+      "type": "(none)",
+      "body": 3441
+    },
+    {
+      "file": "ab-test-log.md",
+      "type": "(none)",
+      "body": 1738
+    },
+    {
+      "file": "agent-evaluation-methods.md",
+      "type": "(none)",
+      "body": 6385
+    },
+    {
+      "file": "concepts/Chain of Thought (CoT).md",
+      "type": "(none)",
+      "body": 270
+    },
+    {
+      "file": "concepts/Graph of Thoughts (GoT).md",
+      "type": "(none)",
+      "body": 271
+    },
+    {
+      "file": "concepts/Infinite Game Mindset.md",
+      "type": "(none)",
+      "body": 269
+    },
+    {
+      "file": "concepts/Model Context Protocol (MCP).md",
+      "type": "(none)",
+      "body": 276
+    },
+    {
+      "file": "concepts/Prompt Engineering.md",
+      "type": "(none)",
+      "body": 266
+    },
+    {
+      "file": "concepts/Self-Consistency.md",
+      "type": "(none)",
+      "body": 264
+    },
+    {
+      "file": "concepts/Tree of Thoughts (ToT).md",
+      "type": "(none)",
+      "body": 270
+    },
+    {
+      "file": "concepts/Zero-Sum vs Infinite Game.md",
+      "type": "(none)",
+      "body": 273
+    },
+    {
+      "file": "concepts/apple-silicon-mlx.md",
+      "type": "(none)",
+      "body": 265
+    },
+    {
+      "file": "concepts/beta-investing.md",
+      "type": "(none)",
+      "body": 262
+    },
+    {
+      "file": "concepts/compound-learning.md",
+      "type": "(none)",
+      "body": 265
+    },
+    {
+      "file": "concepts/evaluation-patterns.md",
+      "type": "(none)",
+      "body": 267
+    },
+    {
+      "file": "concepts/exploration-vs-exploitation.md",
+      "type": "(none)",
+      "body": 275
+    },
+    {
+      "file": "concepts/game-theory-in-life.md",
+      "type": "(none)",
+      "body": 117
+    },
+    {
+      "file": "concepts/gap1-simulation-design-decision.md",
+      "type": "(none)",
+      "body": 7351
+    },
+    {
+      "file": "concepts/gbrain-ecosystem.md",
+      "type": "(none)",
+      "body": 264
+    },
+    {
+      "file": "concepts/hermes-agent-skills.md",
+      "type": "(none)",
+      "body": 267
+    },
+    {
+      "file": "concepts/kelly-criterion.md",
+      "type": "(none)",
+      "body": 263
+    },
+    {
+      "file": "concepts/market-close-summary.md",
+      "type": "(none)",
+      "body": 268
+    },
+    {
+      "file": "concepts/minimax-algorithm.md",
+      "type": "(none)",
+      "body": 115
+    },
+    {
+      "file": "concepts/monte-carlo-tree-search.md",
+      "type": "(none)",
+      "body": 121
+    },
+    {
+      "file": "concepts/multi-arm-bandits.md",
+      "type": "(none)",
+      "body": 265
+    },
+    {
+      "file": "concepts/performance-optimization.md",
+      "type": "(none)",
+      "body": 272
+    },
+    {
+      "file": "concepts/premortem-skill.md",
+      "type": "(none)",
+      "body": 263
+    },
+    {
+      "file": "concepts/prisoners-dilemma.md",
+      "type": "(none)",
+      "body": 115
+    },
+    {
+      "file": "concepts/super-hermes-prisms.md",
+      "type": "(none)",
+      "body": 267
+    },
+    {
+      "file": "concepts/sutton-barto-analysis.md",
+      "type": "(none)",
+      "body": 269
+    },
+    {
+      "file": "concepts/systems-not-goals.md",
+      "type": "(none)",
+      "body": 265
+    },
+    {
+      "file": "decisions/architecture-safe-d001.md",
+      "type": "note",
+      "body": 141
+    },
+    {
+      "file": "decisions/architecture-safe-d037-001.md",
+      "type": "note",
+      "body": 173
+    },
+    {
+      "file": "harness-canon/2408.01055.md",
+      "type": "source",
+      "body": 2138
+    },
+    {
+      "file": "harness-canon/2411.13244.md",
+      "type": "source",
+      "body": 1980
+    },
+    {
+      "file": "harness-canon/2501.18653.md",
+      "type": "source",
+      "body": 1685
+    },
+    {
+      "file": "harness-canon/2502.03962.md",
+      "type": "source",
+      "body": 1729
+    },
+    {
+      "file": "harness-canon/2505.00212.md",
+      "type": "source",
+      "body": 1486
+    },
+    {
+      "file": "harness-canon/2505.18646.md",
+      "type": "source",
+      "body": 1679
+    },
+    {
+      "file": "harness-canon/2507.07957.md",
+      "type": "source",
+      "body": 2271
+    },
+    {
+      "file": "harness-canon/2508.04289.md",
+      "type": "source",
+      "body": 1475
+    },
+    {
+      "file": "harness-canon/2511.13646.md",
+      "type": "source",
+      "body": 2155
+    },
+    {
+      "file": "harness-canon/2511.20857.md",
+      "type": "source",
+      "body": 1921
+    },
+    {
+      "file": "harness-canon/2512.15813.md",
+      "type": "source",
+      "body": 1491
+    },
+    {
+      "file": "harness-canon/2601.06789.md",
+      "type": "source",
+      "body": 1422
+    },
+    {
+      "file": "harness-canon/2602.06052.md",
+      "type": "source",
+      "body": 2237
+    },
+    {
+      "file": "harness-canon/2603.03329.md",
+      "type": "source",
+      "body": 1715
+    },
+    {
+      "file": "harness-canon/2603.04257.md",
+      "type": "source",
+      "body": 2118
+    },
+    {
+      "file": "harness-canon/2603.13258.md",
+      "type": "source",
+      "body": 1864
+    },
+    {
+      "file": "harness-canon/2603.21430.md",
+      "type": "source",
+      "body": 2111
+    },
+    {
+      "file": "harness-canon/2603.25723.md",
+      "type": "source",
+      "body": 1437
+    },
+    {
+      "file": "harness-canon/2603.28052.md",
+      "type": "source",
+      "body": 1441
+    },
+    {
+      "file": "harness-canon/2604.25850.md",
+      "type": "source",
+      "body": 2244
+    },
+    {
+      "file": "harness-canon/2608.27454.md",
+      "type": "source",
+      "body": 1850
+    },
+    {
+      "file": "memory/agent-reach-channels.md",
+      "type": "note",
+      "body": 248
+    },
+    {
+      "file": "memory/cron-environment-systemic-fixes.md",
+      "type": "note",
+      "body": 1226
+    },
+    {
+      "file": "memory/dojo-config.md",
+      "type": "note",
+      "body": 183
+    },
+    {
+      "file": "memory/gateway-debugging.md",
+      "type": "note",
+      "body": 323
+    },
+    {
+      "file": "memory/graphwork-tooling.md",
+      "type": "note",
+      "body": 146
+    },
+    {
+      "file": "memory/iee-project.md",
+      "type": "note",
+      "body": 121
+    },
+    {
+      "file": "memory/lora-config.md",
+      "type": "note",
+      "body": 223
+    },
+    {
+      "file": "memory/mcp-environment-poisoning.md",
+      "type": "note",
+      "body": 318
+    },
+    {
+      "file": "memory/nlm-tool-details.md",
+      "type": "note",
+      "body": 256
+    },
+    {
+      "file": "memory/omd-salitrap-results.md",
+      "type": "note",
+      "body": 147
+    },
+    {
+      "file": "memory/research-pipeline-architecture.md",
+      "type": "note",
+      "body": 485
+    },
+    {
+      "file": "nlm-exports/nlm-aiml-analysis-20260802-105443.md",
+      "type": "source",
+      "body": 67987
+    },
+    {
+      "file": "nlm-exports/nlm-aiml-analysis-20260803-101134.md",
+      "type": "source",
+      "body": 77082
+    },
+    {
+      "file": "ornith-benchmark-report.md",
+      "type": "(none)",
+      "body": 4125
+    },
+    {
+      "file": "safety-frameworks-legal-regulatory.md",
+      "type": "(none)",
+      "body": 25588
+    }
+  ],
+  "counts": {
+    "merged": 243,
+    "review": 16,
+    "provenance": 79,
+    "skipped": 0
+  }
+}
