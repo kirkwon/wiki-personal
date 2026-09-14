@@ -1,4 +1,9 @@
-------
+---
+type: concept
+title: Hermes Profile Configuration
+created: 2026-08-21
+frontmatter_added: 2026-09-13
+---
 
 # Hermes Profile Configuration
 

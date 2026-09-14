@@ -12,6 +12,6 @@ ingested_via: put_page
 ingested_at: '2026-07-19T17:08:53.908Z'
 source_kind: put_page
 created: 2026-07-19
-source: brain/ (retired 2026-09-13)
+provenance: brain/ (retired 2026-09-13)
 ---
 Test demotion entry: This is a synthetic test of the fixed ingestion pipeline. Should appear in gbrain with date metadata.

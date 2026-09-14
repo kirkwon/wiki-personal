@@ -1,4 +1,9 @@
-------
+---
+type: concept
+title: Cron Failure Signatures
+created: 2026-09-09
+frontmatter_added: 2026-09-13
+---
 
 # Cron Failure Signatures
 

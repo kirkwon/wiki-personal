@@ -7,4 +7,4 @@ title: The Beginning Of Infinity   David Deutsch
 type: note
 created: '2026-05-14'
 updated: '2026-05-14'
-----
+---

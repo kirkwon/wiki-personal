@@ -18,5 +18,5 @@ tags:
 sources:
 - fooled
 - Flaw of Neglected Probability
-----randomness-by-nassim-nicholas-taleb.md"]
+connections: ["randomness-by-nassim-nicholas-taleb.md"]
 related: [expected-value-ev, probability-and-judgment-under-uncertainty, cognitive-biases-library, bet-sizing, kelly-criterion]

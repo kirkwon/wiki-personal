@@ -1,3 +1,4 @@
+---
 type: entity
 title: The 4-Hour Workweek - Timothy Ferriss
 description: "The 4-Hour Workweek - Timothy Ferriss"
@@ -19,7 +20,7 @@ dates:
     event: "First published"
   - date: "2009-12-15"
     event: "Expanded and updated edition"
----david-allen", "deep-work---Cal-Newport", "tools", "tools-of-titans---timothy-ferriss", "building-a-second-brain---tiago-forte"]
+connections: ["david-allen", "deep-work---Cal-Newport", "tools", "tools-of-titans---timothy-ferriss", "building-a-second-brain---tiago-forte"]
 ---
 # The 4-Hour Workweek - Timothy Ferriss
 

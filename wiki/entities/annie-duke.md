@@ -1,3 +1,4 @@
+---
 type: entity
 title: Annie Duke
 description: "Annie Duke is a former professional poker player, author, and decision-making expert."
@@ -20,7 +21,7 @@ dates:
     event: "Published Thinking in Bets"
   - date: "2022-09-27"
     event: "Published Quit: The Power of Knowing When to Walk Away"
----annie-duke", "thinking-in-bets", "kelly-criterion", "martingale-strategy", "prospect-theory", "dual-process-theory", "bayesian-thinking", "thinking-in-bets---annie-duke", "quit---annie-duke", "decision-tracking", "bet-sizing", "quit-the-power-of-knowing-when-to-walk-away", "experiences"]
+connections: ["annie-duke", "thinking-in-bets", "kelly-criterion", "martingale-strategy", "prospect-theory", "dual-process-theory", "bayesian-thinking", "thinking-in-bets---annie-duke", "quit---annie-duke", "decision-tracking", "bet-sizing", "quit-the-power-of-knowing-when-to-walk-away", "experiences"]
 ---
 
 # Annie Duke

@@ -1,4 +1,9 @@
-------
+---
+type: concept
+title: Decision Workflow Slop Assessment
+created: 2026-08-21
+frontmatter_added: 2026-09-13
+---
 
 # Decision Workflow Slop Assessment
 

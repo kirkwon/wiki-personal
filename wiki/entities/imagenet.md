@@ -14,7 +14,7 @@ sources: []
 ImageNet is a large visual database designed primarily for use in visual object recognition software research. It contains over 14 million labeled images across more than 20,000 categories, which can be likened to an extensive recipe book or photographic archive that helps algorithms 'learn' and identify various objects with high accuracy.
 
 
------
+---
 
 
 Instruction 2 (More Difficult - At least {5} additional constraints)

@@ -1,5 +1,9 @@
-------
-
+---
+type: concept
+title: Kelly Criterion (Bet Sizing)
+created: 2026-06-16
+frontmatter_added: 2026-09-13
+---
 
 # Kelly Criterion (Bet Sizing)
 

@@ -1,4 +1,4 @@
-------
+---
 
 # Hermes Agent Cognitive Stack
 

@@ -4,7 +4,7 @@ title: "Agentic AI Principles"
 tags: [agentic-ai, aphorisms, mental-models, leverage, systems-thinking]
 created: 2026-05-07
 source: "create-aphorisms skill"
-source: brain/ (retired 2026-09-13)
+provenance: brain/ (retired 2026-09-13)
 ---
 
 # Agentic AI Principles

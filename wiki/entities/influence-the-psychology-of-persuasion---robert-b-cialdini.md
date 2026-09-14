@@ -1,3 +1,4 @@
+---
 type: entity
 title: 'Influence: The Psychology of Persuasion'
 description: "Influence: The Psychology of Persuasion"
@@ -26,9 +27,8 @@ dates:
     event: "Revised edition published"
   - date: "2016-01-01"
     event: "New and updated edition"
----daniel-kahneman
+connections: [daniel-kahneman]
 ---
--
 # Influence: The Psychology of Persuasion
 
 *Influence: The Psychology of Persuasion* is a seminal book by psychologist Robert B. Cialdini, first published in 1984 and updated in subsequent editions. The book presents six universal principles that govern how people are persuaded and influenced in everyday interactions.

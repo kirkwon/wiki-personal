@@ -1,3 +1,4 @@
+---
 type: entity
 title: Atul Gawande
 description: "Atul Gawande is a surgeon, public health researcher, and author best known for his advocacy of checklists as a tool for improving reliability in complex professional environments and for exploring end."
@@ -17,7 +18,7 @@ dates:
     event: "Published The Checklist Manifesto"
   - date: "2014-10-07"
     event: "Published Being Mortal"
----atul-gawande, systematic-decision-making, being-mortal, care, building-checklists-guide, checklists-in-resource-limited-settings, checklists-and-change-management, the-wrongness-of-perfection]
+connections: [atul-gawande, systematic-decision-making, being-mortal, care, building-checklists-guide, checklists-in-resource-limited-settings, checklists-and-change-management, the-wrongness-of-perfection]
 ---
 # Atul Gawande
 

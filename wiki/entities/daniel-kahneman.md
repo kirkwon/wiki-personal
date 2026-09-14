@@ -1,3 +1,4 @@
+---
 title: Daniel Kahneman
 description: "Daniel Kahneman is an Israeli-American psychologist and Nobel laureate, widely regarded as the father of behavioral economics."
 created: 2026-05-03
@@ -29,7 +30,7 @@ dates:
     event: "Published Thinking, Fast and Slow"
   - date: "2024-03-27"
     event: "Died"
----daniel-kahneman", "noise-a-flaw-in-human-judgment---daniel-kahneman"]
+connections: ["daniel-kahneman", "noise-a-flaw-in-human-judgment---daniel-kahneman"]
 ---
 
 # Daniel Kahneman

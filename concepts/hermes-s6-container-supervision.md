@@ -1,4 +1,9 @@
-------
+---
+type: concept
+title: Hermes S6 Container Supervision
+created: 2026-08-21
+frontmatter_added: 2026-09-13
+---
 
 # Hermes S6 Container Supervision
 

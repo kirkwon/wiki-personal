@@ -14,7 +14,7 @@ tags:
   - p5
   - retrieval
 created: 2026-08-02
-source: brain/ (retired 2026-09-13)
+provenance: brain/ (retired 2026-09-13)
 ---
 # Three Findings From Today's NLM Export — Are They Actionable?
 

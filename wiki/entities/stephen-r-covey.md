@@ -1,3 +1,4 @@
+---
 type: entity
 title: Stephen R. Covey
 description: "Stephen R. Covey was an American educator, author, businessman, keynote speaker, and management consultant known for his work on personal development, effectiveness, and leadership."
@@ -27,7 +28,7 @@ dates:
     event: "Published The 8th Habit"
   - date: "2012-07-16"
     event: "Died"
----stephen-r-covey, the-index-card-rules, the-8th-habit---stephen-r-covey, the-7-habits-of-highly-effective-people-stephen-r-covey, ideas-mental-model, habits, the-7-habits-of-highly-effective-people, the-8th-habit, the-8th-habit-from-effectiveness-to-greatness---stephen-r-covey, habit, infinite-game-mindset]
+connections: [stephen-r-covey, the-index-card-rules, the-8th-habit---stephen-r-covey, the-7-habits-of-highly-effective-people-stephen-r-covey, ideas-mental-model, habits, the-7-habits-of-highly-effective-people, the-8th-habit, the-8th-habit-from-effectiveness-to-greatness---stephen-r-covey, habit, infinite-game-mindset]
 ---
 # Stephen R. Covey
 

@@ -12,7 +12,7 @@ tags:
   - performance
   - rust
 created: 2026-07-30
-source: brain/ (retired 2026-09-13)
+provenance: brain/ (retired 2026-09-13)
 ---
 # jcode: Rust-based Coding Agent Harness
 

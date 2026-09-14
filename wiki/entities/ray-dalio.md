@@ -1,3 +1,4 @@
+---
 type: entity
 title: Ray Dalio
 description: "Ray Dalio is an investor, author, and founder of Bridgewater Associates, one of the world's largest and most influential hedge funds."
@@ -29,16 +30,7 @@ dates:
     event: "Published Principles: Life and Work"
   - date: "2021-11-30"
     event: "Published Principles for Dealing with the Changing World Order"
----ray-dalio
-- scenario-planning
-- decision-making-under-uncertainty
-- how-the-economic-machine-works---ray-dalio
-- dalio-mental-model
-- radical-transparency
-- decision-making-frameworks
-- solutions-mental-model
-- tendency
-- reality-mental-model
+connections: [ray-dalio, scenario-planning, decision-making-under-uncertainty, how-the-economic-machine-works---ray-dalio, dalio-mental-model, radical-transparency, decision-making-frameworks, solutions-mental-model, tendency, reality-mental-model]
 sources:
 - principles---ray-dalio.md
 - principles-for-dealing-with-the-changing-world-order---ray-dalio.md

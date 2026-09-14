@@ -1,3 +1,4 @@
+---
 type: entity
 title: Cal Newport
 description: "Cal Newport is a computer scientist, professor at Georgetown University, and author known for his work on deep work, digital minimalism, slow productivity, and career strategy."
@@ -21,7 +22,7 @@ dates:
     event: "Published Digital Minimalism"
   - date: "2024-03-05"
     event: "Published Slow Productivity"
----cal-newport", "purposeful-use-principle", "digital-minimalism", "deliberate-practice", "skill-capital", "craft-capital-vs-career-capital", "newport-career-strategy", "paradox-of-choice", "grit-concept", "active-revision-techniques", "slow-productivity", "deep-focus", "the-paradox-of-busyness", "time-management-matrix", "the-infinite-game---simon-sinek", "slow-productivity---cal-newport", "strategic-batching", "saying-no-boundaries", "solitude-and-creativity", "deep-work", "environment", "planning", "stillness", "deep-work - Cal Newport", "slow-productivity - Cal Newport", "so-good-they-cant-ignore-you - Cal Newport", "quadrant-2-focus", "so-good-they-cant-ignore-you---cal-newport", "mastery", "so-good-they-can't-ignore-you---cal-newport"]
+connections: ["cal-newport", "purposeful-use-principle", "digital-minimalism", "deliberate-practice", "skill-capital", "craft-capital-vs-career-capital", "newport-career-strategy", "paradox-of-choice", "grit-concept", "active-revision-techniques", "slow-productivity", "deep-focus", "the-paradox-of-busyness", "time-management-matrix", "the-infinite-game---simon-sinek", "slow-productivity---cal-newport", "strategic-batching", "saying-no-boundaries", "solitude-and-creativity", "deep-work", "environment", "planning", "stillness", "deep-work - Cal Newport", "slow-productivity - Cal Newport", "so-good-they-cant-ignore-you - Cal Newport", "quadrant-2-focus", "so-good-they-cant-ignore-you---cal-newport", "mastery", "so-good-they-can't-ignore-you---cal-newport"]
 ---
 # Cal Newport
 

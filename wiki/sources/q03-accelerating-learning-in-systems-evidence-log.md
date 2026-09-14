@@ -3,11 +3,12 @@ tags:
 - evidence-log
 - permanent-question
 - provenance
-created: 2026-09-13
-date: 2026-09-13
+created: 2025-07-01
+date: 2026-09-01
 type: source
 description: "Aggregated evidence log for q03-accelerating-learning-in-systems (preserved from the retired brain repo; the canonical Q-page now tracks evidence per-paper under raw/papers/)"
 source: brain/ (retired 2026-09-13)
+assembled: 2026-09-13
 ---
 
 # q03-accelerating-learning-in-systems — Evidence Log

@@ -1,4 +1,9 @@
-------
+---
+type: concept
+title: Hermes Cron Management
+created: 2026-08-21
+frontmatter_added: 2026-09-13
+---
 
 # Hermes Cron Management
 

@@ -1,4 +1,10 @@
 ---
+type: concept
+title: Llm As Compiler
+created: 2026-06-21
+frontmatter_added: 2026-09-13
+---
+
 date: 2026-06-21
 
 type: concept

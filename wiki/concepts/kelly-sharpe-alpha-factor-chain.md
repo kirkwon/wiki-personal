@@ -5,7 +5,7 @@ tags: [finance, quantitative, risk-adjusted-returns, kelly-criterion, sharpe-rat
 source: "clawd/24.Risk-Adjusted-Returns/kelly_sharpe_alpha.md"
 generated: 2026-07-04
 created: 2026-07-04
-source: brain/ (retired 2026-09-13)
+provenance: brain/ (retired 2026-09-13)
 ---
 # Kelly-Sharpe-Alpha Factor Chain
 

@@ -1,3 +1,4 @@
+---
 type: entity
 title: Viktor Frankl
 description: "Viktor Frankl was an Austrian psychiatrist, neurologist, and philosopher who founded logotherapy, a psychotherapeutic approach centered on meaning-finding."
@@ -23,7 +24,7 @@ dates:
     event: "Published Man's Search for Meaning"
   - date: "1997-09-02"
     event: "Died in Vienna"
----mark-manson, man-s-search-for-meaning, growth-mindset, embracing-failure-for-personal-growth, meaning-finding-framework, world-disclosure, infinite-game-mindset]
+connections: [mark-manson, man-s-search-for-meaning, growth-mindset, embracing-failure-for-personal-growth, meaning-finding-framework, world-disclosure, infinite-game-mindset]
 ---
 # Viktor Frankl
 

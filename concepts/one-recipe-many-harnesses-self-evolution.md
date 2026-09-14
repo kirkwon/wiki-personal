@@ -1,4 +1,9 @@
-------
+---
+type: concept
+title: "One Recipe, Many Harnesses: What Self-Evolution Encodes Across Languages and Models"
+created: 2026-08-24
+frontmatter_added: 2026-09-13
+---
 
 # One Recipe, Many Harnesses: What Self-Evolution Encodes Across Languages and Models
 

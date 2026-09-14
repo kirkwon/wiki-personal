@@ -3,11 +3,12 @@ tags:
 - evidence-log
 - permanent-question
 - provenance
-created: 2026-09-13
-date: 2026-09-13
+created: 2025-07-11
+date: 2026-09-01
 type: source
 description: "Aggregated evidence log for q01-ai-ml-finance-skills-bridge (preserved from the retired brain repo; the canonical Q-page now tracks evidence per-paper under raw/papers/)"
 source: brain/ (retired 2026-09-13)
+assembled: 2026-09-13
 ---
 
 # q01-ai-ml-finance-skills-bridge — Evidence Log

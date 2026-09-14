@@ -1,3 +1,4 @@
+---
 type: entity
 title: Tiago Forte
 description: "Tiago Forte is a productivity consultant and expert in digital information management."
@@ -18,7 +19,7 @@ dates:
     event: "Published Building a Second Brain"
   - date: "2023-04-25"
     event: "Published The PARA Method"
----tiago-forte", "second-brain", "para-method", "the-para-method", "personal-knowledge-vault", "how-to-take-smart-notes---snke-ahrens", "getting-things-done---david-allen", "the-para-method-simplify-organize-and-master-your-digital-life---tiago-forte", "forte-mental-model", "para", "personal-knowledge-vault-readme", "tools", "the-4-hour-workweek---timothy-ferriss", "thinking-mental-model"]
+connections: ["tiago-forte", "second-brain", "para-method", "the-para-method", "personal-knowledge-vault", "how-to-take-smart-notes---snke-ahrens", "getting-things-done---david-allen", "the-para-method-simplify-organize-and-master-your-digital-life---tiago-forte", "forte-mental-model", "para", "personal-knowledge-vault-readme", "tools", "the-4-hour-workweek---timothy-ferriss", "thinking-mental-model"]
 ---
 # Tiago Forte
 
