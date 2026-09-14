@@ -10,6 +10,7 @@ tags:
   - ode
   - paper
   - transformers
+source: brain/ (retired 2026-09-13)
 ---
 
 # Training-Free Looped Transformers

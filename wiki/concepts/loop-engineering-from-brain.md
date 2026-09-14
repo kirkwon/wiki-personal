@@ -5,6 +5,7 @@ ingested_via: put_page
 ingested_at: '2026-06-24T00:59:00.926Z'
 source_kind: put_page
 created: 2026-06-24
+source: brain/ (retired 2026-09-13)
 ---
 # Loop Engineering
 

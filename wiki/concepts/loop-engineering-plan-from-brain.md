@@ -2,6 +2,7 @@
 type: note
 title: Implementation Plan
 created: 2026-08-10
+source: brain/ (retired 2026-09-13)
 ---
 # Implementation Plan
 

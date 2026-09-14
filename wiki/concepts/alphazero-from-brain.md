@@ -1,6 +1,7 @@
 ---
 created: 2026-07-27
 tags: [stub, auto-generated, defrag]
+source: brain/ (retired 2026-09-13)
 ---
 
 # Alphazero

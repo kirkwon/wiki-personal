@@ -1,6 +1,7 @@
 ---
 tags: ['index', 'blog']
 created: 2026-07-06
+source: brain/ (retired 2026-09-13)
 ---
 
 # Blog Drafts

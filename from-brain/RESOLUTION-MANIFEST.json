@@ -1,0 +1,27 @@
+{
+  "generated": "2026-09-13T22:31:04",
+  "done": {
+    "PROMOTE-NEW": [
+      "text-to-speech -> wiki/concepts/text-to-speech-from-brain.md",
+      "readme -> wiki/concepts/readme-from-brain.md",
+      "training-free-looped-transformers -> wiki/concepts/training-free-looped-transformers-from-brain.md",
+      "loop-engineering -> wiki/concepts/loop-engineering-from-brain.md",
+      "context-reduction-architecture -> wiki/concepts/context-reduction-architecture-from-brain.md",
+      "alphazero -> wiki/concepts/alphazero-from-brain.md",
+      "loop-engineering-plan -> wiki/concepts/loop-engineering-plan-from-brain.md",
+      "six-thinking-hats -> wiki/concepts/six-thinking-hats-from-brain.md"
+    ],
+    "EVIDENCE": [
+      "q01-ai-ml-finance-skills-bridge -> wiki/sources/q01-ai-ml-finance-skills-bridge-evidence-log.md (83923B log)",
+      "q02-agent-self-improvement-models -> wiki/sources/q02-agent-self-improvement-models-evidence-log.md (111937B log)",
+      "q03-accelerating-learning-in-systems -> wiki/sources/q03-accelerating-learning-in-systems-evidence-log.md (151855B log)",
+      "q04-symbolic-energy-based-models -> wiki/sources/q04-symbolic-energy-based-models-evidence-log.md (59109B log)",
+      "q05-ai-finance-predictive-models -> wiki/sources/q05-ai-finance-predictive-models-evidence-log.md (55817B log)",
+      "q06-agent-harness-self-improvement -> wiki/sources/q06-agent-harness-self-improvement-evidence-log.md (140522B log)"
+    ],
+    "SUPERSEDED": [
+      "coffee-roasting (canonical stands: wiki/concepts/coffee-roasting-\u5496\u5561\u70d8\u7119.md)",
+      "ornith-1-self-improving-coding (canonical stands: papers/ornith-1-self-improving-coding.md)"
+    ]
+  }
+}
