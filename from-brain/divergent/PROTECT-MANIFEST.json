@@ -1,0 +1,620 @@
+{
+  "generated": "2026-09-13T22:01:42",
+  "reason": "shared slugs where brain holds content absent from wiki",
+  "protected": [
+    {
+      "slug": "alphazero",
+      "class": "DIVERGENT",
+      "brain_path": "papers/alphazero.md",
+      "wiki_path": "papers/alphazero.md",
+      "brain_bytes": 174,
+      "wiki_bytes": 183,
+      "unique_bytes": 107
+    },
+    {
+      "slug": "coffee-roasting",
+      "class": "NEAR",
+      "brain_path": "concepts/coffee-roasting.md",
+      "wiki_path": "wiki/concepts/coffee-roasting-\u5496\u5561\u70d8\u7119.md",
+      "brain_bytes": 19085,
+      "wiki_bytes": 16900,
+      "unique_bytes": 2083
+    },
+    {
+      "slug": "context-reduction-architecture",
+      "class": "DIVERGENT",
+      "brain_path": "methodology/context-reduction-architecture.md",
+      "wiki_path": "concepts/context-reduction-architecture.md",
+      "brain_bytes": 5177,
+      "wiki_bytes": 1986,
+      "unique_bytes": 2935
+    },
+    {
+      "slug": "loop-engineering",
+      "class": "DIVERGENT",
+      "brain_path": "loop-engineering.md",
+      "wiki_path": "projects/loop-engineering.md",
+      "brain_bytes": 6497,
+      "wiki_bytes": 2302,
+      "unique_bytes": 4275
+    },
+    {
+      "slug": "loop-engineering-plan",
+      "class": "DIVERGENT",
+      "brain_path": "raw/loop-engineering-plan.md",
+      "wiki_path": "wiki/sources/loop-engineering-plan.md",
+      "brain_bytes": 6666,
+      "wiki_bytes": 1324,
+      "unique_bytes": 5482
+    },
+    {
+      "slug": "ornith-1-self-improving-coding",
+      "class": "NEAR",
+      "brain_path": "papers/ornith-1-self-improving-coding.md",
+      "wiki_path": "papers/ornith-1-self-improving-coding.md",
+      "brain_bytes": 3634,
+      "wiki_bytes": 3668,
+      "unique_bytes": 115
+    },
+    {
+      "slug": "q01-ai-ml-finance-skills-bridge",
+      "class": "DIVERGENT",
+      "brain_path": "wiki-personal.backup-/20260902-010127/questions/Q01-ai-ml-finance-skills-bridge.md",
+      "wiki_path": "wiki/concepts/q01-ai-ml-finance-skills-bridge.md",
+      "brain_bytes": 100235,
+      "wiki_bytes": 6438,
+      "unique_bytes": 93805
+    },
+    {
+      "slug": "q02-agent-self-improvement-models",
+      "class": "DIVERGENT",
+      "brain_path": "wiki-personal.backup-/20260902-010127/questions/Q02-agent-self-improvement-models.md",
+      "wiki_path": "wiki/concepts/q02-agent-self-improvement-models.md",
+      "brain_bytes": 126468,
+      "wiki_bytes": 4492,
+      "unique_bytes": 121966
+    },
+    {
+      "slug": "q03-accelerating-learning-in-systems",
+      "class": "DIVERGENT",
+      "brain_path": "wiki-personal.backup-/20260902-010127/questions/Q03-accelerating-learning-in-systems.md",
+      "wiki_path": "wiki/concepts/q03-accelerating-learning-in-systems.md",
+      "brain_bytes": 159466,
+      "wiki_bytes": 4896,
+      "unique_bytes": 154592
+    },
+    {
+      "slug": "q04-symbolic-energy-based-models",
+      "class": "DIVERGENT",
+      "brain_path": "wiki-personal.backup-/20260902-010127/questions/Q04-symbolic-energy-based-models.md",
+      "wiki_path": "wiki/concepts/q04-symbolic-energy-based-models.md",
+      "brain_bytes": 69369,
+      "wiki_bytes": 7602,
+      "unique_bytes": 61787
+    },
+    {
+      "slug": "q05-ai-finance-predictive-models",
+      "class": "DIVERGENT",
+      "brain_path": "wiki-personal.backup-/20260902-010127/questions/Q05-ai-finance-predictive-models.md",
+      "wiki_path": "wiki/concepts/q05-ai-finance-predictive-models.md",
+      "brain_bytes": 71875,
+      "wiki_bytes": 8329,
+      "unique_bytes": 63538
+    },
+    {
+      "slug": "q06-agent-harness-self-improvement",
+      "class": "DIVERGENT",
+      "brain_path": "wiki-personal.backup-/20260902-010127/questions/Q06-agent-harness-self-improvement.md",
+      "wiki_path": "wiki/concepts/q06-agent-harness-self-improvement.md",
+      "brain_bytes": 158391,
+      "wiki_bytes": 4965,
+      "unique_bytes": 153418
+    },
+    {
+      "slug": "readme",
+      "class": "DIVERGENT",
+      "brain_path": "blog/README.md",
+      "wiki_path": "wiki/sources/README.md",
+      "brain_bytes": 3613,
+      "wiki_bytes": 3172,
+      "unique_bytes": 536
+    },
+    {
+      "slug": "six-thinking-hats",
+      "class": "DIVERGENT",
+      "brain_path": "six-thinking-hats.md",
+      "wiki_path": "papers/six-thinking-hats.md",
+      "brain_bytes": 7322,
+      "wiki_bytes": 191,
+      "unique_bytes": 6665
+    },
+    {
+      "slug": "text-to-speech",
+      "class": "DIVERGENT",
+      "brain_path": ".hermes/rollback/defrag-20260511_090935/wiki-personal/concepts/text-to-speech.md",
+      "wiki_path": "wiki/concepts/text-to-speech.md",
+      "brain_bytes": 1281,
+      "wiki_bytes": 674,
+      "unique_bytes": 682
+    },
+    {
+      "slug": "training-free-looped-transformers",
+      "class": "DIVERGENT",
+      "brain_path": "concepts/training-free-looped-transformers.md",
+      "wiki_path": "wiki/concepts/training-free-looped-transformers.md",
+      "brain_bytes": 1778,
+      "wiki_bytes": 953,
+      "unique_bytes": 805
+    }
+  ],
+  "dropped_ok": [
+    {
+      "slug": "2507-07484",
+      "class": "NEAR",
+      "brain_bytes": 95992,
+      "wiki_bytes": 95993
+    },
+    {
+      "slug": "2606-09498",
+      "class": "DIVERGENT",
+      "brain_bytes": 224,
+      "wiki_bytes": 58582
+    },
+    {
+      "slug": "agent-self-organization-architecture",
+      "class": "NEAR",
+      "brain_bytes": 23045,
+      "wiki_bytes": 22594
+    },
+    {
+      "slug": "always-on-agents-survey",
+      "class": "DIVERGENT",
+      "brain_bytes": 3629,
+      "wiki_bytes": 8804
+    },
+    {
+      "slug": "asymmetry-hunter",
+      "class": "DIVERGENT",
+      "brain_bytes": 344,
+      "wiki_bytes": 2770
+    },
+    {
+      "slug": "autoresearch-pattern",
+      "class": "NEAR",
+      "brain_bytes": 2966,
+      "wiki_bytes": 2732
+    },
+    {
+      "slug": "autoresearch-tech-domain-matrix",
+      "class": "NEAR",
+      "brain_bytes": 6084,
+      "wiki_bytes": 5893
+    },
+    {
+      "slug": "awesome-autoresearch",
+      "class": "DIVERGENT",
+      "brain_bytes": 348,
+      "wiki_bytes": 3088
+    },
+    {
+      "slug": "babeltele-compressed-llm-representations",
+      "class": "DIVERGENT",
+      "brain_bytes": 966,
+      "wiki_bytes": 4239
+    },
+    {
+      "slug": "behavioral-game-theory",
+      "class": "DIVERGENT",
+      "brain_bytes": 187,
+      "wiki_bytes": 1762
+    },
+    {
+      "slug": "caramelization",
+      "class": "DIVERGENT",
+      "brain_bytes": 342,
+      "wiki_bytes": 1316
+    },
+    {
+      "slug": "charles-duhigg",
+      "class": "NEAR",
+      "brain_bytes": 7514,
+      "wiki_bytes": 6764
+    },
+    {
+      "slug": "co-failure-ceiling",
+      "class": "NEAR",
+      "brain_bytes": 3733,
+      "wiki_bytes": 3673
+    },
+    {
+      "slug": "code-world-models",
+      "class": "NEAR",
+      "brain_bytes": 3449,
+      "wiki_bytes": 3655
+    },
+    {
+      "slug": "code-world-models-general-game-playing",
+      "class": "NEAR",
+      "brain_bytes": 5903,
+      "wiki_bytes": 6037
+    },
+    {
+      "slug": "coffee",
+      "class": "DIVERGENT",
+      "brain_bytes": 334,
+      "wiki_bytes": 8859
+    },
+    {
+      "slug": "coffee-bean-processing",
+      "class": "DIVERGENT",
+      "brain_bytes": 356,
+      "wiki_bytes": 13624
+    },
+    {
+      "slug": "cwm-game-theory-application",
+      "class": "NEAR",
+      "brain_bytes": 5194,
+      "wiki_bytes": 5321
+    },
+    {
+      "slug": "dashboard-integration-plan",
+      "class": "NEAR",
+      "brain_bytes": 13403,
+      "wiki_bytes": 13544
+    },
+    {
+      "slug": "design",
+      "class": "NEAR",
+      "brain_bytes": 1931,
+      "wiki_bytes": 2140
+    },
+    {
+      "slug": "dojo-eval",
+      "class": "DIVERGENT",
+      "brain_bytes": 337,
+      "wiki_bytes": 2433
+    },
+    {
+      "slug": "evoevolution-long-context-embeddings",
+      "class": "NEAR",
+      "brain_bytes": 2815,
+      "wiki_bytes": 2710
+    },
+    {
+      "slug": "execution-log",
+      "class": "NEAR",
+      "brain_bytes": 8200,
+      "wiki_bytes": 8345
+    },
+    {
+      "slug": "fastcontext-coding-agent-explorer",
+      "class": "NEAR",
+      "brain_bytes": 2542,
+      "wiki_bytes": 2459
+    },
+    {
+      "slug": "final-summary",
+      "class": "NEAR",
+      "brain_bytes": 11276,
+      "wiki_bytes": 11428
+    },
+    {
+      "slug": "finance-recommendation-verification",
+      "class": "DIVERGENT",
+      "brain_bytes": 363,
+      "wiki_bytes": 2809
+    },
+    {
+      "slug": "game-theory-and-strategic-analysis",
+      "class": "DIVERGENT",
+      "brain_bytes": 199,
+      "wiki_bytes": 1684
+    },
+    {
+      "slug": "game-theory-gaps",
+      "class": "NEAR",
+      "brain_bytes": 5834,
+      "wiki_bytes": 5866
+    },
+    {
+      "slug": "george-polya",
+      "class": "NEAR",
+      "brain_bytes": 2365,
+      "wiki_bytes": 1806
+    },
+    {
+      "slug": "goa-raci-router",
+      "class": "DIVERGENT",
+      "brain_bytes": 679,
+      "wiki_bytes": 3461
+    },
+    {
+      "slug": "graphrag-retrieval-augmented-graphs",
+      "class": "DIVERGENT",
+      "brain_bytes": 200,
+      "wiki_bytes": 914
+    },
+    {
+      "slug": "headroom-integration",
+      "class": "DIVERGENT",
+      "brain_bytes": 759,
+      "wiki_bytes": 5909
+    },
+    {
+      "slug": "hermes-agent",
+      "class": "DIVERGENT",
+      "brain_bytes": 340,
+      "wiki_bytes": 9543
+    },
+    {
+      "slug": "hermes-agent-stack",
+      "class": "NEAR",
+      "brain_bytes": 13399,
+      "wiki_bytes": 14003
+    },
+    {
+      "slug": "hermes-system-overview",
+      "class": "NEAR",
+      "brain_bytes": 12375,
+      "wiki_bytes": 12336
+    },
+    {
+      "slug": "incremental-improvements",
+      "class": "NEAR",
+      "brain_bytes": 3895,
+      "wiki_bytes": 4048
+    },
+    {
+      "slug": "karpathy-autoresearch-loop",
+      "class": "NEAR",
+      "brain_bytes": 2444,
+      "wiki_bytes": 2230
+    },
+    {
+      "slug": "kelly-criterion-bet-sizing",
+      "class": "DIVERGENT",
+      "brain_bytes": 354,
+      "wiki_bytes": 1950
+    },
+    {
+      "slug": "knowledge-ingestion-processing-architecture",
+      "class": "NEAR",
+      "brain_bytes": 21530,
+      "wiki_bytes": 20995
+    },
+    {
+      "slug": "knowledge-metabolism",
+      "class": "DIVERGENT",
+      "brain_bytes": 348,
+      "wiki_bytes": 3482
+    },
+    {
+      "slug": "llm-as-compiler",
+      "class": "NEAR",
+      "brain_bytes": 2749,
+      "wiki_bytes": 2879
+    },
+    {
+      "slug": "maillard-reaction",
+      "class": "DIVERGENT",
+      "brain_bytes": 345,
+      "wiki_bytes": 6897
+    },
+    {
+      "slug": "may5-930",
+      "class": "NEAR",
+      "brain_bytes": 19057,
+      "wiki_bytes": 19214
+    },
+    {
+      "slug": "mean-variance-myopia-under-stochastic-volatility",
+      "class": "DIVERGENT",
+      "brain_bytes": 376,
+      "wiki_bytes": 5429
+    },
+    {
+      "slug": "memory-tiering",
+      "class": "DIVERGENT",
+      "brain_bytes": 179,
+      "wiki_bytes": 5839
+    },
+    {
+      "slug": "memphis-bbq",
+      "class": "NEAR",
+      "brain_bytes": 1254,
+      "wiki_bytes": 905
+    },
+    {
+      "slug": "modernization-roadmap",
+      "class": "NEAR",
+      "brain_bytes": 3310,
+      "wiki_bytes": 3509
+    },
+    {
+      "slug": "optimal-investment-stochastic-volatility-chiarella-hsiao",
+      "class": "DIVERGENT",
+      "brain_bytes": 384,
+      "wiki_bytes": 3256
+    },
+    {
+      "slug": "osworld2-computer-use-benchmark",
+      "class": "NEAR",
+      "brain_bytes": 2874,
+      "wiki_bytes": 2782
+    },
+    {
+      "slug": "overview",
+      "class": "NEAR",
+      "brain_bytes": 2293,
+      "wiki_bytes": 2318
+    },
+    {
+      "slug": "pca-random-matrix-theory-equity-markets",
+      "class": "DIVERGENT",
+      "brain_bytes": 367,
+      "wiki_bytes": 3110
+    },
+    {
+      "slug": "persistent-state-systems",
+      "class": "DIVERGENT",
+      "brain_bytes": 2677,
+      "wiki_bytes": 3538
+    },
+    {
+      "slug": "q07-post-60-40-portfolio-construction",
+      "class": "NEAR",
+      "brain_bytes": 13951,
+      "wiki_bytes": 15458
+    },
+    {
+      "slug": "quest-deep-research-agents",
+      "class": "NEAR",
+      "brain_bytes": 2275,
+      "wiki_bytes": 2192
+    },
+    {
+      "slug": "rate-of-rise-roasting",
+      "class": "DIVERGENT",
+      "brain_bytes": 604,
+      "wiki_bytes": 500
+    },
+    {
+      "slug": "reinforcement-learning",
+      "class": "DIVERGENT",
+      "brain_bytes": 350,
+      "wiki_bytes": 1306
+    },
+    {
+      "slug": "scaffold-optimization",
+      "class": "NEAR",
+      "brain_bytes": 2933,
+      "wiki_bytes": 2944
+    },
+    {
+      "slug": "schema",
+      "class": "NEAR",
+      "brain_bytes": 4782,
+      "wiki_bytes": 4948
+    },
+    {
+      "slug": "self-harness",
+      "class": "DIVERGENT",
+      "brain_bytes": 340,
+      "wiki_bytes": 2926
+    },
+    {
+      "slug": "self-harness-paradigm",
+      "class": "DIVERGENT",
+      "brain_bytes": 186,
+      "wiki_bytes": 5787
+    },
+    {
+      "slug": "self-maintaining-knowledge-base",
+      "class": "DIVERGENT",
+      "brain_bytes": 359,
+      "wiki_bytes": 4201
+    },
+    {
+      "slug": "sharpe-ratio",
+      "class": "DIVERGENT",
+      "brain_bytes": 340,
+      "wiki_bytes": 905
+    },
+    {
+      "slug": "skill-governance",
+      "class": "DIVERGENT",
+      "brain_bytes": 1108,
+      "wiki_bytes": 1929
+    },
+    {
+      "slug": "skill-utility-gating",
+      "class": "NEAR",
+      "brain_bytes": 3100,
+      "wiki_bytes": 2970
+    },
+    {
+      "slug": "skill-vetting",
+      "class": "DIVERGENT",
+      "brain_bytes": 341,
+      "wiki_bytes": 2282
+    },
+    {
+      "slug": "skills-dashboard-actionable",
+      "class": "NEAR",
+      "brain_bytes": 4789,
+      "wiki_bytes": 4943
+    },
+    {
+      "slug": "skills-dashboard-final-report",
+      "class": "NEAR",
+      "brain_bytes": 4488,
+      "wiki_bytes": 4627
+    },
+    {
+      "slug": "skills-dashboard-fixes",
+      "class": "NEAR",
+      "brain_bytes": 6674,
+      "wiki_bytes": 6828
+    },
+    {
+      "slug": "skills-dashboard-readme",
+      "class": "NEAR",
+      "brain_bytes": 4628,
+      "wiki_bytes": 4762
+    },
+    {
+      "slug": "state-governance-lifecycle",
+      "class": "DIVERGENT",
+      "brain_bytes": 2650,
+      "wiki_bytes": 5643
+    },
+    {
+      "slug": "strategic-decision-framework",
+      "class": "DIVERGENT",
+      "brain_bytes": 356,
+      "wiki_bytes": 4410
+    },
+    {
+      "slug": "structured-execution",
+      "class": "DIVERGENT",
+      "brain_bytes": 348,
+      "wiki_bytes": 2104
+    },
+    {
+      "slug": "tmax-terminal-agents",
+      "class": "NEAR",
+      "brain_bytes": 2047,
+      "wiki_bytes": 1982
+    },
+    {
+      "slug": "ux-improvement-stories",
+      "class": "NEAR",
+      "brain_bytes": 1931,
+      "wiki_bytes": 2079
+    },
+    {
+      "slug": "verifiable-planning",
+      "class": "NEAR",
+      "brain_bytes": 3406,
+      "wiki_bytes": 3541
+    },
+    {
+      "slug": "verification-before-completion",
+      "class": "DIVERGENT",
+      "brain_bytes": 358,
+      "wiki_bytes": 3432
+    },
+    {
+      "slug": "vibethinker-3b-reasoning",
+      "class": "NEAR",
+      "brain_bytes": 3013,
+      "wiki_bytes": 2933
+    },
+    {
+      "slug": "wave-execution-pattern",
+      "class": "DIVERGENT",
+      "brain_bytes": 350,
+      "wiki_bytes": 2287
+    }
+  ]
+}
