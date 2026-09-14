@@ -1,0 +1,3167 @@
+{
+  "generated": "2026-09-13T21:59:34",
+  "source": "/Users/kirkwon/brain",
+  "dest": "/Users/kirkwon/wiki-personal",
+  "min_body_chars": 100,
+  "exported": [
+    {
+      "slug": "2026-05-08-morning-gbrain-system-build",
+      "from": "sessions/2026-05-08-morning-gbrain-system-build.md",
+      "to": "from-brain/sessions/2026-05-08-morning-gbrain-system-build.md",
+      "body_chars": 6373
+    },
+    {
+      "slug": "2026-07-19-1778aee0",
+      "from": "inbox/2026-07-19-1778aee0.md",
+      "to": "from-brain/inbox/2026-07-19-1778aee0.md",
+      "body_chars": 5149
+    },
+    {
+      "slug": "2026-07-19-18bd0a79",
+      "from": "inbox/2026-07-19-18bd0a79.md",
+      "to": "from-brain/inbox/2026-07-19-18bd0a79.md",
+      "body_chars": 5202
+    },
+    {
+      "slug": "2026-07-19-443b5a97",
+      "from": "inbox/2026-07-19-443b5a97.md",
+      "to": "from-brain/inbox/2026-07-19-443b5a97.md",
+      "body_chars": 113
+    },
+    {
+      "slug": "2026-07-19-48994a0c",
+      "from": "inbox/2026-07-19-48994a0c.md",
+      "to": "from-brain/inbox/2026-07-19-48994a0c.md",
+      "body_chars": 2319
+    },
+    {
+      "slug": "2026-07-19-e8f9ff48",
+      "from": "inbox/2026-07-19-e8f9ff48.md",
+      "to": "from-brain/inbox/2026-07-19-e8f9ff48.md",
+      "body_chars": 3642
+    },
+    {
+      "slug": "2026-07-19-f040bd1e",
+      "from": "inbox/2026-07-19-f040bd1e.md",
+      "to": "from-brain/inbox/2026-07-19-f040bd1e.md",
+      "body_chars": 4571
+    },
+    {
+      "slug": "2026-07-19-f0e8ec80",
+      "from": "inbox/2026-07-19-f0e8ec80.md",
+      "to": "from-brain/inbox/2026-07-19-f0e8ec80.md",
+      "body_chars": 113
+    },
+    {
+      "slug": "2026-07-20-3f7706cb",
+      "from": "inbox/2026-07-20-3f7706cb.md",
+      "to": "from-brain/inbox/2026-07-20-3f7706cb.md",
+      "body_chars": 12381
+    },
+    {
+      "slug": "2026-07-21-004d7163",
+      "from": "inbox/2026-07-21-004d7163.md",
+      "to": "from-brain/inbox/2026-07-21-004d7163.md",
+      "body_chars": 1712
+    },
+    {
+      "slug": "2026-07-21-24be9315",
+      "from": "inbox/2026-07-21-24be9315.md",
+      "to": "from-brain/inbox/2026-07-21-24be9315.md",
+      "body_chars": 203
+    },
+    {
+      "slug": "2026-07-21-28a7e817",
+      "from": "inbox/2026-07-21-28a7e817.md",
+      "to": "from-brain/inbox/2026-07-21-28a7e817.md",
+      "body_chars": 2234
+    },
+    {
+      "slug": "2026-07-21-2c95e55d",
+      "from": "inbox/2026-07-21-2c95e55d.md",
+      "to": "from-brain/inbox/2026-07-21-2c95e55d.md",
+      "body_chars": 3203
+    },
+    {
+      "slug": "2026-07-21-2e198aa1",
+      "from": "inbox/2026-07-21-2e198aa1.md",
+      "to": "from-brain/inbox/2026-07-21-2e198aa1.md",
+      "body_chars": 1611
+    },
+    {
+      "slug": "2026-07-21-38d908c0",
+      "from": "inbox/2026-07-21-38d908c0.md",
+      "to": "from-brain/inbox/2026-07-21-38d908c0.md",
+      "body_chars": 15328
+    },
+    {
+      "slug": "2026-07-21-5083c16b",
+      "from": "inbox/2026-07-21-5083c16b.md",
+      "to": "from-brain/inbox/2026-07-21-5083c16b.md",
+      "body_chars": 1827
+    },
+    {
+      "slug": "2026-07-21-5bed0a87",
+      "from": "inbox/2026-07-21-5bed0a87.md",
+      "to": "from-brain/inbox/2026-07-21-5bed0a87.md",
+      "body_chars": 4721
+    },
+    {
+      "slug": "2026-07-21-7ce3b774",
+      "from": "inbox/2026-07-21-7ce3b774.md",
+      "to": "from-brain/inbox/2026-07-21-7ce3b774.md",
+      "body_chars": 1971
+    },
+    {
+      "slug": "2026-07-21-825a8338",
+      "from": "inbox/2026-07-21-825a8338.md",
+      "to": "from-brain/inbox/2026-07-21-825a8338.md",
+      "body_chars": 2228
+    },
+    {
+      "slug": "2026-07-21-956a0de5",
+      "from": "inbox/2026-07-21-956a0de5.md",
+      "to": "from-brain/inbox/2026-07-21-956a0de5.md",
+      "body_chars": 2530
+    },
+    {
+      "slug": "2026-07-21-9a5a36ae",
+      "from": "inbox/2026-07-21-9a5a36ae.md",
+      "to": "from-brain/inbox/2026-07-21-9a5a36ae.md",
+      "body_chars": 2587
+    },
+    {
+      "slug": "2026-07-21-9f679d33",
+      "from": "inbox/2026-07-21-9f679d33.md",
+      "to": "from-brain/inbox/2026-07-21-9f679d33.md",
+      "body_chars": 1547
+    },
+    {
+      "slug": "2026-07-21-bc207713",
+      "from": "inbox/2026-07-21-bc207713.md",
+      "to": "from-brain/inbox/2026-07-21-bc207713.md",
+      "body_chars": 2327
+    },
+    {
+      "slug": "2026-07-21-f0201424",
+      "from": "inbox/2026-07-21-f0201424.md",
+      "to": "from-brain/inbox/2026-07-21-f0201424.md",
+      "body_chars": 478
+    },
+    {
+      "slug": "2026-07-22-441a7bb9",
+      "from": "inbox/2026-07-22-441a7bb9.md",
+      "to": "from-brain/inbox/2026-07-22-441a7bb9.md",
+      "body_chars": 6385
+    },
+    {
+      "slug": "2026-07-22-can-llms-correct-themselves",
+      "from": "2026-07-22-can-llms-correct-themselves.md",
+      "to": "from-brain/2026-07-22-can-llms-correct-themselves.md",
+      "body_chars": 3441
+    },
+    {
+      "slug": "2026-07-22-ecde4557",
+      "from": "inbox/2026-07-22-ecde4557.md",
+      "to": "from-brain/inbox/2026-07-22-ecde4557.md",
+      "body_chars": 3441
+    },
+    {
+      "slug": "2026-07-23-16ca5af0",
+      "from": "inbox/2026-07-23-16ca5af0.md",
+      "to": "from-brain/inbox/2026-07-23-16ca5af0.md",
+      "body_chars": 597
+    },
+    {
+      "slug": "2026-07-23-198106cc",
+      "from": "inbox/2026-07-23-198106cc.md",
+      "to": "from-brain/inbox/2026-07-23-198106cc.md",
+      "body_chars": 775
+    },
+    {
+      "slug": "2026-07-23-8d84d54c",
+      "from": "inbox/2026-07-23-8d84d54c.md",
+      "to": "from-brain/inbox/2026-07-23-8d84d54c.md",
+      "body_chars": 644
+    },
+    {
+      "slug": "2026-07-23-8e4d156c",
+      "from": "inbox/2026-07-23-8e4d156c.md",
+      "to": "from-brain/inbox/2026-07-23-8e4d156c.md",
+      "body_chars": 707
+    },
+    {
+      "slug": "2026-07-23-c0972bb1",
+      "from": "inbox/2026-07-23-c0972bb1.md",
+      "to": "from-brain/inbox/2026-07-23-c0972bb1.md",
+      "body_chars": 607
+    },
+    {
+      "slug": "2026-07-23-f39733e9",
+      "from": "inbox/2026-07-23-f39733e9.md",
+      "to": "from-brain/inbox/2026-07-23-f39733e9.md",
+      "body_chars": 634
+    },
+    {
+      "slug": "2026-07-26-cadb6833",
+      "from": "inbox/2026-07-26-cadb6833.md",
+      "to": "from-brain/inbox/2026-07-26-cadb6833.md",
+      "body_chars": 2970
+    },
+    {
+      "slug": "2026-07-27-13c095ed",
+      "from": "inbox/2026-07-27-13c095ed.md",
+      "to": "from-brain/inbox/2026-07-27-13c095ed.md",
+      "body_chars": 826
+    },
+    {
+      "slug": "2026-07-27-14e43b7b",
+      "from": "inbox/2026-07-27-14e43b7b.md",
+      "to": "from-brain/inbox/2026-07-27-14e43b7b.md",
+      "body_chars": 822
+    },
+    {
+      "slug": "2026-07-27-1cae21a5",
+      "from": "inbox/2026-07-27-1cae21a5.md",
+      "to": "from-brain/inbox/2026-07-27-1cae21a5.md",
+      "body_chars": 882
+    },
+    {
+      "slug": "2026-07-27-4abd0143",
+      "from": "inbox/2026-07-27-4abd0143.md",
+      "to": "from-brain/inbox/2026-07-27-4abd0143.md",
+      "body_chars": 826
+    },
+    {
+      "slug": "2026-07-27-5822d36c",
+      "from": "inbox/2026-07-27-5822d36c.md",
+      "to": "from-brain/inbox/2026-07-27-5822d36c.md",
+      "body_chars": 988
+    },
+    {
+      "slug": "2026-07-27-6b997b8b",
+      "from": "inbox/2026-07-27-6b997b8b.md",
+      "to": "from-brain/inbox/2026-07-27-6b997b8b.md",
+      "body_chars": 896
+    },
+    {
+      "slug": "2026-07-27-92bb9920",
+      "from": "inbox/2026-07-27-92bb9920.md",
+      "to": "from-brain/inbox/2026-07-27-92bb9920.md",
+      "body_chars": 789
+    },
+    {
+      "slug": "2026-07-27-98ae738c",
+      "from": "inbox/2026-07-27-98ae738c.md",
+      "to": "from-brain/inbox/2026-07-27-98ae738c.md",
+      "body_chars": 707
+    },
+    {
+      "slug": "2026-07-27-b36eeaef",
+      "from": "inbox/2026-07-27-b36eeaef.md",
+      "to": "from-brain/inbox/2026-07-27-b36eeaef.md",
+      "body_chars": 753
+    },
+    {
+      "slug": "2026-07-27-cb9b24e6",
+      "from": "inbox/2026-07-27-cb9b24e6.md",
+      "to": "from-brain/inbox/2026-07-27-cb9b24e6.md",
+      "body_chars": 775
+    },
+    {
+      "slug": "2026-07-27-e62126ea",
+      "from": "inbox/2026-07-27-e62126ea.md",
+      "to": "from-brain/inbox/2026-07-27-e62126ea.md",
+      "body_chars": 769
+    },
+    {
+      "slug": "2026-07-29-06cf1486",
+      "from": "inbox/2026-07-29-06cf1486.md",
+      "to": "from-brain/inbox/2026-07-29-06cf1486.md",
+      "body_chars": 1477
+    },
+    {
+      "slug": "2026-07-29-131f8f95",
+      "from": "inbox/2026-07-29-131f8f95.md",
+      "to": "from-brain/inbox/2026-07-29-131f8f95.md",
+      "body_chars": 1888
+    },
+    {
+      "slug": "2026-07-29-3d5244dd",
+      "from": "inbox/2026-07-29-3d5244dd.md",
+      "to": "from-brain/inbox/2026-07-29-3d5244dd.md",
+      "body_chars": 1409
+    },
+    {
+      "slug": "2026-07-29-4d8d70cc",
+      "from": "inbox/2026-07-29-4d8d70cc.md",
+      "to": "from-brain/inbox/2026-07-29-4d8d70cc.md",
+      "body_chars": 1544
+    },
+    {
+      "slug": "2026-07-29-7cb1212f",
+      "from": "inbox/2026-07-29-7cb1212f.md",
+      "to": "from-brain/inbox/2026-07-29-7cb1212f.md",
+      "body_chars": 1313
+    },
+    {
+      "slug": "2026-07-29-a0cac0f1",
+      "from": "inbox/2026-07-29-a0cac0f1.md",
+      "to": "from-brain/inbox/2026-07-29-a0cac0f1.md",
+      "body_chars": 2810
+    },
+    {
+      "slug": "2026-07-29-db20d895",
+      "from": "inbox/2026-07-29-db20d895.md",
+      "to": "from-brain/inbox/2026-07-29-db20d895.md",
+      "body_chars": 3798
+    },
+    {
+      "slug": "2026-08-02-three-findings-actionable",
+      "from": "nlm-insights/2026-08-02-three-findings-actionable.md",
+      "to": "from-brain/nlm-insights/2026-08-02-three-findings-actionable.md",
+      "body_chars": 4136
+    },
+    {
+      "slug": "2026-08-03-00fe84c4",
+      "from": "inbox/2026-08-03-00fe84c4.md",
+      "to": "from-brain/inbox/2026-08-03-00fe84c4.md",
+      "body_chars": 498
+    },
+    {
+      "slug": "2026-08-03-0d6aa246",
+      "from": "inbox/2026-08-03-0d6aa246.md",
+      "to": "from-brain/inbox/2026-08-03-0d6aa246.md",
+      "body_chars": 691
+    },
+    {
+      "slug": "2026-08-03-0fef2cb5",
+      "from": "inbox/2026-08-03-0fef2cb5.md",
+      "to": "from-brain/inbox/2026-08-03-0fef2cb5.md",
+      "body_chars": 515
+    },
+    {
+      "slug": "2026-08-03-13c095ed",
+      "from": "inbox/2026-08-03-13c095ed.md",
+      "to": "from-brain/inbox/2026-08-03-13c095ed.md",
+      "body_chars": 826
+    },
+    {
+      "slug": "2026-08-03-13c5f973",
+      "from": "inbox/2026-08-03-13c5f973.md",
+      "to": "from-brain/inbox/2026-08-03-13c5f973.md",
+      "body_chars": 620
+    },
+    {
+      "slug": "2026-08-03-14e43b7b",
+      "from": "inbox/2026-08-03-14e43b7b.md",
+      "to": "from-brain/inbox/2026-08-03-14e43b7b.md",
+      "body_chars": 822
+    },
+    {
+      "slug": "2026-08-03-1534f7a1",
+      "from": "inbox/2026-08-03-1534f7a1.md",
+      "to": "from-brain/inbox/2026-08-03-1534f7a1.md",
+      "body_chars": 717
+    },
+    {
+      "slug": "2026-08-03-16a097de",
+      "from": "inbox/2026-08-03-16a097de.md",
+      "to": "from-brain/inbox/2026-08-03-16a097de.md",
+      "body_chars": 803
+    },
+    {
+      "slug": "2026-08-03-16ca5af0",
+      "from": "inbox/2026-08-03-16ca5af0.md",
+      "to": "from-brain/inbox/2026-08-03-16ca5af0.md",
+      "body_chars": 597
+    },
+    {
+      "slug": "2026-08-03-1b093c4e",
+      "from": "inbox/2026-08-03-1b093c4e.md",
+      "to": "from-brain/inbox/2026-08-03-1b093c4e.md",
+      "body_chars": 1229
+    },
+    {
+      "slug": "2026-08-03-20c14cc6",
+      "from": "inbox/2026-08-03-20c14cc6.md",
+      "to": "from-brain/inbox/2026-08-03-20c14cc6.md",
+      "body_chars": 3760
+    },
+    {
+      "slug": "2026-08-03-283a5006",
+      "from": "inbox/2026-08-03-283a5006.md",
+      "to": "from-brain/inbox/2026-08-03-283a5006.md",
+      "body_chars": 748
+    },
+    {
+      "slug": "2026-08-03-285ef780",
+      "from": "inbox/2026-08-03-285ef780.md",
+      "to": "from-brain/inbox/2026-08-03-285ef780.md",
+      "body_chars": 618
+    },
+    {
+      "slug": "2026-08-03-3162579d",
+      "from": "inbox/2026-08-03-3162579d.md",
+      "to": "from-brain/inbox/2026-08-03-3162579d.md",
+      "body_chars": 604
+    },
+    {
+      "slug": "2026-08-03-3225beed",
+      "from": "inbox/2026-08-03-3225beed.md",
+      "to": "from-brain/inbox/2026-08-03-3225beed.md",
+      "body_chars": 547
+    },
+    {
+      "slug": "2026-08-03-334801f8",
+      "from": "inbox/2026-08-03-334801f8.md",
+      "to": "from-brain/inbox/2026-08-03-334801f8.md",
+      "body_chars": 581
+    },
+    {
+      "slug": "2026-08-03-40a1c15a",
+      "from": "inbox/2026-08-03-40a1c15a.md",
+      "to": "from-brain/inbox/2026-08-03-40a1c15a.md",
+      "body_chars": 1779
+    },
+    {
+      "slug": "2026-08-03-4922fbde",
+      "from": "inbox/2026-08-03-4922fbde.md",
+      "to": "from-brain/inbox/2026-08-03-4922fbde.md",
+      "body_chars": 524
+    },
+    {
+      "slug": "2026-08-03-4de6957d",
+      "from": "inbox/2026-08-03-4de6957d.md",
+      "to": "from-brain/inbox/2026-08-03-4de6957d.md",
+      "body_chars": 592
+    },
+    {
+      "slug": "2026-08-03-5822d36c",
+      "from": "inbox/2026-08-03-5822d36c.md",
+      "to": "from-brain/inbox/2026-08-03-5822d36c.md",
+      "body_chars": 988
+    },
+    {
+      "slug": "2026-08-03-5b16797d",
+      "from": "inbox/2026-08-03-5b16797d.md",
+      "to": "from-brain/inbox/2026-08-03-5b16797d.md",
+      "body_chars": 796
+    },
+    {
+      "slug": "2026-08-03-62a868fc",
+      "from": "inbox/2026-08-03-62a868fc.md",
+      "to": "from-brain/inbox/2026-08-03-62a868fc.md",
+      "body_chars": 775
+    },
+    {
+      "slug": "2026-08-03-72f79fcb",
+      "from": "inbox/2026-08-03-72f79fcb.md",
+      "to": "from-brain/inbox/2026-08-03-72f79fcb.md",
+      "body_chars": 661
+    },
+    {
+      "slug": "2026-08-03-74444a6e",
+      "from": "inbox/2026-08-03-74444a6e.md",
+      "to": "from-brain/inbox/2026-08-03-74444a6e.md",
+      "body_chars": 800
+    },
+    {
+      "slug": "2026-08-03-790e0314",
+      "from": "inbox/2026-08-03-790e0314.md",
+      "to": "from-brain/inbox/2026-08-03-790e0314.md",
+      "body_chars": 707
+    },
+    {
+      "slug": "2026-08-03-7a4452d3",
+      "from": "inbox/2026-08-03-7a4452d3.md",
+      "to": "from-brain/inbox/2026-08-03-7a4452d3.md",
+      "body_chars": 176
+    },
+    {
+      "slug": "2026-08-03-826f5ec7",
+      "from": "inbox/2026-08-03-826f5ec7.md",
+      "to": "from-brain/inbox/2026-08-03-826f5ec7.md",
+      "body_chars": 791
+    },
+    {
+      "slug": "2026-08-03-83c5ec85",
+      "from": "inbox/2026-08-03-83c5ec85.md",
+      "to": "from-brain/inbox/2026-08-03-83c5ec85.md",
+      "body_chars": 707
+    },
+    {
+      "slug": "2026-08-03-87171466",
+      "from": "inbox/2026-08-03-87171466.md",
+      "to": "from-brain/inbox/2026-08-03-87171466.md",
+      "body_chars": 629
+    },
+    {
+      "slug": "2026-08-03-871c95fd",
+      "from": "inbox/2026-08-03-871c95fd.md",
+      "to": "from-brain/inbox/2026-08-03-871c95fd.md",
+      "body_chars": 740
+    },
+    {
+      "slug": "2026-08-03-8ced9702",
+      "from": "inbox/2026-08-03-8ced9702.md",
+      "to": "from-brain/inbox/2026-08-03-8ced9702.md",
+      "body_chars": 914
+    },
+    {
+      "slug": "2026-08-03-8d84d54c",
+      "from": "inbox/2026-08-03-8d84d54c.md",
+      "to": "from-brain/inbox/2026-08-03-8d84d54c.md",
+      "body_chars": 644
+    },
+    {
+      "slug": "2026-08-03-92537542",
+      "from": "inbox/2026-08-03-92537542.md",
+      "to": "from-brain/inbox/2026-08-03-92537542.md",
+      "body_chars": 895
+    },
+    {
+      "slug": "2026-08-03-9524d5b5",
+      "from": "inbox/2026-08-03-9524d5b5.md",
+      "to": "from-brain/inbox/2026-08-03-9524d5b5.md",
+      "body_chars": 602
+    },
+    {
+      "slug": "2026-08-03-97411d67",
+      "from": "inbox/2026-08-03-97411d67.md",
+      "to": "from-brain/inbox/2026-08-03-97411d67.md",
+      "body_chars": 826
+    },
+    {
+      "slug": "2026-08-03-a63042eb",
+      "from": "inbox/2026-08-03-a63042eb.md",
+      "to": "from-brain/inbox/2026-08-03-a63042eb.md",
+      "body_chars": 528
+    },
+    {
+      "slug": "2026-08-03-b4b375f9",
+      "from": "inbox/2026-08-03-b4b375f9.md",
+      "to": "from-brain/inbox/2026-08-03-b4b375f9.md",
+      "body_chars": 753
+    },
+    {
+      "slug": "2026-08-03-bc94ce07",
+      "from": "inbox/2026-08-03-bc94ce07.md",
+      "to": "from-brain/inbox/2026-08-03-bc94ce07.md",
+      "body_chars": 894
+    },
+    {
+      "slug": "2026-08-03-c0972bb1",
+      "from": "inbox/2026-08-03-c0972bb1.md",
+      "to": "from-brain/inbox/2026-08-03-c0972bb1.md",
+      "body_chars": 607
+    },
+    {
+      "slug": "2026-08-03-cb9b24e6",
+      "from": "inbox/2026-08-03-cb9b24e6.md",
+      "to": "from-brain/inbox/2026-08-03-cb9b24e6.md",
+      "body_chars": 775
+    },
+    {
+      "slug": "2026-08-03-cd3e7a3a",
+      "from": "inbox/2026-08-03-cd3e7a3a.md",
+      "to": "from-brain/inbox/2026-08-03-cd3e7a3a.md",
+      "body_chars": 771
+    },
+    {
+      "slug": "2026-08-03-ea252bed",
+      "from": "inbox/2026-08-03-ea252bed.md",
+      "to": "from-brain/inbox/2026-08-03-ea252bed.md",
+      "body_chars": 898
+    },
+    {
+      "slug": "2026-08-03-f39733e9",
+      "from": "inbox/2026-08-03-f39733e9.md",
+      "to": "from-brain/inbox/2026-08-03-f39733e9.md",
+      "body_chars": 634
+    },
+    {
+      "slug": "2026-08-03-f70da802",
+      "from": "inbox/2026-08-03-f70da802.md",
+      "to": "from-brain/inbox/2026-08-03-f70da802.md",
+      "body_chars": 882
+    },
+    {
+      "slug": "2026-08-03-ff937768",
+      "from": "inbox/2026-08-03-ff937768.md",
+      "to": "from-brain/inbox/2026-08-03-ff937768.md",
+      "body_chars": 712
+    },
+    {
+      "slug": "2026-08-10-03af61a2",
+      "from": "inbox/2026-08-10-03af61a2.md",
+      "to": "from-brain/inbox/2026-08-10-03af61a2.md",
+      "body_chars": 796
+    },
+    {
+      "slug": "2026-08-10-4c2624ee",
+      "from": "inbox/2026-08-10-4c2624ee.md",
+      "to": "from-brain/inbox/2026-08-10-4c2624ee.md",
+      "body_chars": 822
+    },
+    {
+      "slug": "2026-08-10-5e5831f7",
+      "from": "inbox/2026-08-10-5e5831f7.md",
+      "to": "from-brain/inbox/2026-08-10-5e5831f7.md",
+      "body_chars": 796
+    },
+    {
+      "slug": "2026-08-10-737410bc",
+      "from": "inbox/2026-08-10-737410bc.md",
+      "to": "from-brain/inbox/2026-08-10-737410bc.md",
+      "body_chars": 803
+    },
+    {
+      "slug": "2026-08-10-7fe9a92d",
+      "from": "inbox/2026-08-10-7fe9a92d.md",
+      "to": "from-brain/inbox/2026-08-10-7fe9a92d.md",
+      "body_chars": 803
+    },
+    {
+      "slug": "2026-08-10-8f712e44",
+      "from": "inbox/2026-08-10-8f712e44.md",
+      "to": "from-brain/inbox/2026-08-10-8f712e44.md",
+      "body_chars": 803
+    },
+    {
+      "slug": "2026-08-10-9c9a0e06",
+      "from": "inbox/2026-08-10-9c9a0e06.md",
+      "to": "from-brain/inbox/2026-08-10-9c9a0e06.md",
+      "body_chars": 796
+    },
+    {
+      "slug": "2026-08-10-f159e08c",
+      "from": "inbox/2026-08-10-f159e08c.md",
+      "to": "from-brain/inbox/2026-08-10-f159e08c.md",
+      "body_chars": 822
+    },
+    {
+      "slug": "2026-08-10-f68c9155",
+      "from": "inbox/2026-08-10-f68c9155.md",
+      "to": "from-brain/inbox/2026-08-10-f68c9155.md",
+      "body_chars": 822
+    },
+    {
+      "slug": "2408-01055",
+      "from": "harness-canon/2408.01055.md",
+      "to": "from-brain/harness-canon/2408.01055.md",
+      "body_chars": 2138
+    },
+    {
+      "slug": "2411-13244",
+      "from": "harness-canon/2411.13244.md",
+      "to": "from-brain/harness-canon/2411.13244.md",
+      "body_chars": 1980
+    },
+    {
+      "slug": "2501-18653",
+      "from": "harness-canon/2501.18653.md",
+      "to": "from-brain/harness-canon/2501.18653.md",
+      "body_chars": 1685
+    },
+    {
+      "slug": "2502-03962",
+      "from": "harness-canon/2502.03962.md",
+      "to": "from-brain/harness-canon/2502.03962.md",
+      "body_chars": 1729
+    },
+    {
+      "slug": "2505-00212",
+      "from": "harness-canon/2505.00212.md",
+      "to": "from-brain/harness-canon/2505.00212.md",
+      "body_chars": 1486
+    },
+    {
+      "slug": "2505-18646",
+      "from": "harness-canon/2505.18646.md",
+      "to": "from-brain/harness-canon/2505.18646.md",
+      "body_chars": 1679
+    },
+    {
+      "slug": "2507-07957",
+      "from": "harness-canon/2507.07957.md",
+      "to": "from-brain/harness-canon/2507.07957.md",
+      "body_chars": 2271
+    },
+    {
+      "slug": "2508-04289",
+      "from": "harness-canon/2508.04289.md",
+      "to": "from-brain/harness-canon/2508.04289.md",
+      "body_chars": 1475
+    },
+    {
+      "slug": "2511-13646",
+      "from": "harness-canon/2511.13646.md",
+      "to": "from-brain/harness-canon/2511.13646.md",
+      "body_chars": 2155
+    },
+    {
+      "slug": "2511-20857",
+      "from": "harness-canon/2511.20857.md",
+      "to": "from-brain/harness-canon/2511.20857.md",
+      "body_chars": 1921
+    },
+    {
+      "slug": "2512-15813",
+      "from": "harness-canon/2512.15813.md",
+      "to": "from-brain/harness-canon/2512.15813.md",
+      "body_chars": 1491
+    },
+    {
+      "slug": "2601-06789",
+      "from": "harness-canon/2601.06789.md",
+      "to": "from-brain/harness-canon/2601.06789.md",
+      "body_chars": 1422
+    },
+    {
+      "slug": "2602-06052",
+      "from": "harness-canon/2602.06052.md",
+      "to": "from-brain/harness-canon/2602.06052.md",
+      "body_chars": 2237
+    },
+    {
+      "slug": "2603-03329",
+      "from": "harness-canon/2603.03329.md",
+      "to": "from-brain/harness-canon/2603.03329.md",
+      "body_chars": 1715
+    },
+    {
+      "slug": "2603-04257",
+      "from": "harness-canon/2603.04257.md",
+      "to": "from-brain/harness-canon/2603.04257.md",
+      "body_chars": 2118
+    },
+    {
+      "slug": "2603-13258",
+      "from": "harness-canon/2603.13258.md",
+      "to": "from-brain/harness-canon/2603.13258.md",
+      "body_chars": 1864
+    },
+    {
+      "slug": "2603-21430",
+      "from": "harness-canon/2603.21430.md",
+      "to": "from-brain/harness-canon/2603.21430.md",
+      "body_chars": 2111
+    },
+    {
+      "slug": "2603-25723",
+      "from": "harness-canon/2603.25723.md",
+      "to": "from-brain/harness-canon/2603.25723.md",
+      "body_chars": 1437
+    },
+    {
+      "slug": "2603-28052",
+      "from": "harness-canon/2603.28052.md",
+      "to": "from-brain/harness-canon/2603.28052.md",
+      "body_chars": 1441
+    },
+    {
+      "slug": "2604-25850",
+      "from": "harness-canon/2604.25850.md",
+      "to": "from-brain/harness-canon/2604.25850.md",
+      "body_chars": 2244
+    },
+    {
+      "slug": "2608-27454",
+      "from": "harness-canon/2608.27454.md",
+      "to": "from-brain/harness-canon/2608.27454.md",
+      "body_chars": 1850
+    },
+    {
+      "slug": "ab-test-log",
+      "from": "ab-test-log.md",
+      "to": "from-brain/ab-test-log.md",
+      "body_chars": 1738
+    },
+    {
+      "slug": "academic-analysis-synthesis",
+      "from": "research/academic-analysis-synthesis.md",
+      "to": "from-brain/research/academic-analysis-synthesis.md",
+      "body_chars": 341
+    },
+    {
+      "slug": "access-policy",
+      "from": "ACCESS_POLICY.md",
+      "to": "from-brain/ACCESS_POLICY.md",
+      "body_chars": 292
+    },
+    {
+      "slug": "access-policy",
+      "from": ".hermes/rollback/defrag-20260511_090935/ACCESS_POLICY.md",
+      "to": "from-brain/.hermes/rollback/defrag-20260511_090935/ACCESS_POLICY.md",
+      "body_chars": 292
+    },
+    {
+      "slug": "adaptive-rl-metascheduling-runtime",
+      "from": "concepts/adaptive-rl-metascheduling-runtime.md",
+      "to": "from-brain/concepts/adaptive-rl-metascheduling-runtime.md",
+      "body_chars": 2269
+    },
+    {
+      "slug": "agent-evaluation-methods",
+      "from": "agent-evaluation-methods.md",
+      "to": "from-brain/agent-evaluation-methods.md",
+      "body_chars": 6385
+    },
+    {
+      "slug": "agent-reach-channels",
+      "from": "memory/agent-reach-channels.md",
+      "to": "from-brain/memory/agent-reach-channels.md",
+      "body_chars": 248
+    },
+    {
+      "slug": "agentic-ai-principles",
+      "from": "concepts/agentic-ai-principles.md",
+      "to": "from-brain/concepts/agentic-ai-principles.md",
+      "body_chars": 1062
+    },
+    {
+      "slug": "always-on-evaluation-protocol",
+      "from": "always-on-evaluation-protocol.md",
+      "to": "from-brain/always-on-evaluation-protocol.md",
+      "body_chars": 2582
+    },
+    {
+      "slug": "anthropic-gross-margin-cascade-model",
+      "from": "anthropic-gross-margin-cascade-model.md",
+      "to": "from-brain/anthropic-gross-margin-cascade-model.md",
+      "body_chars": 4241
+    },
+    {
+      "slug": "apple-silicon-mlx",
+      "from": "concepts/apple-silicon-mlx.md",
+      "to": "from-brain/concepts/apple-silicon-mlx.md",
+      "body_chars": 265
+    },
+    {
+      "slug": "architecture-safe-d001",
+      "from": "decisions/architecture-safe-d001.md",
+      "to": "from-brain/decisions/architecture-safe-d001.md",
+      "body_chars": 141
+    },
+    {
+      "slug": "architecture-safe-d037-001",
+      "from": "decisions/architecture-safe-d037-001.md",
+      "to": "from-brain/decisions/architecture-safe-d037-001.md",
+      "body_chars": 173
+    },
+    {
+      "slug": "atomic-habits-james-clear-unified",
+      "from": "atomic-habits-james-clear_unified.md",
+      "to": "from-brain/atomic-habits-james-clear_unified.md",
+      "body_chars": 4170
+    },
+    {
+      "slug": "autoresearch-core-harnesses",
+      "from": "autoresearch-core-harnesses.md",
+      "to": "from-brain/autoresearch-core-harnesses.md",
+      "body_chars": 6027
+    },
+    {
+      "slug": "autoresearch-evaluation-patterns",
+      "from": "autoresearch-evaluation-patterns.md",
+      "to": "from-brain/autoresearch-evaluation-patterns.md",
+      "body_chars": 6044
+    },
+    {
+      "slug": "autoresearch-finance-trading",
+      "from": "autoresearch-finance-trading.md",
+      "to": "from-brain/autoresearch-finance-trading.md",
+      "body_chars": 7846
+    },
+    {
+      "slug": "autoresearch-software-optimization",
+      "from": "autoresearch-software-optimization.md",
+      "to": "from-brain/autoresearch-software-optimization.md",
+      "body_chars": 5716
+    },
+    {
+      "slug": "awesome-autoresearch-competitive-intelligence",
+      "from": "awesome-autoresearch-competitive-intelligence.md",
+      "to": "from-brain/awesome-autoresearch-competitive-intelligence.md",
+      "body_chars": 368
+    },
+    {
+      "slug": "awesome-autoresearch-content-research",
+      "from": "awesome-autoresearch-content-research.md",
+      "to": "from-brain/awesome-autoresearch-content-research.md",
+      "body_chars": 356
+    },
+    {
+      "slug": "awesome-autoresearch-curation-skill",
+      "from": "awesome-autoresearch-curation-skill.md",
+      "to": "from-brain/awesome-autoresearch-curation-skill.md",
+      "body_chars": 5771
+    },
+    {
+      "slug": "awesome-autoresearch-customer-discovery",
+      "from": "awesome-autoresearch-customer-discovery.md",
+      "to": "from-brain/awesome-autoresearch-customer-discovery.md",
+      "body_chars": 363
+    },
+    {
+      "slug": "awesome-autoresearch-evaluation-red-teaming",
+      "from": "awesome-autoresearch-evaluation-red-teaming.md",
+      "to": "from-brain/awesome-autoresearch-evaluation-red-teaming.md",
+      "body_chars": 7771
+    },
+    {
+      "slug": "awesome-autoresearch-finance-trading",
+      "from": "awesome-autoresearch-finance-trading.md",
+      "to": "from-brain/awesome-autoresearch-finance-trading.md",
+      "body_chars": 9964
+    },
+    {
+      "slug": "awesome-autoresearch-infra-skills-forks",
+      "from": "awesome-autoresearch-infra-skills-forks.md",
+      "to": "from-brain/awesome-autoresearch-infra-skills-forks.md",
+      "body_chars": 39708
+    },
+    {
+      "slug": "awesome-autoresearch-knowledge-base-rag-preparation",
+      "from": "awesome-autoresearch-knowledge-base-rag-preparation.md",
+      "to": "from-brain/awesome-autoresearch-knowledge-base-rag-preparation.md",
+      "body_chars": 931
+    },
+    {
+      "slug": "awesome-autoresearch-lead-generation",
+      "from": "awesome-autoresearch-lead-generation.md",
+      "to": "from-brain/awesome-autoresearch-lead-generation.md",
+      "body_chars": 335
+    },
+    {
+      "slug": "awesome-autoresearch-market-research",
+      "from": "awesome-autoresearch-market-research.md",
+      "to": "from-brain/awesome-autoresearch-market-research.md",
+      "body_chars": 283
+    },
+    {
+      "slug": "awesome-autoresearch-personal-knowledge-humanities",
+      "from": "awesome-autoresearch-personal-knowledge-humanities.md",
+      "to": "from-brain/awesome-autoresearch-personal-knowledge-humanities.md",
+      "body_chars": 852
+    },
+    {
+      "slug": "awesome-autoresearch-phase1-log",
+      "from": "awesome-autoresearch-phase1-log.md",
+      "to": "from-brain/awesome-autoresearch-phase1-log.md",
+      "body_chars": 3280
+    },
+    {
+      "slug": "awesome-autoresearch-phase2-log",
+      "from": "awesome-autoresearch-phase2-log.md",
+      "to": "from-brain/awesome-autoresearch-phase2-log.md",
+      "body_chars": 4479
+    },
+    {
+      "slug": "awesome-autoresearch-related-practices-discussions",
+      "from": "awesome-autoresearch-related-practices-discussions.md",
+      "to": "from-brain/awesome-autoresearch-related-practices-discussions.md",
+      "body_chars": 53780
+    },
+    {
+      "slug": "awesome-autoresearch-scientific-research",
+      "from": "awesome-autoresearch-scientific-research.md",
+      "to": "from-brain/awesome-autoresearch-scientific-research.md",
+      "body_chars": 24976
+    },
+    {
+      "slug": "awesome-autoresearch-software-systems-optimization",
+      "from": "awesome-autoresearch-software-systems-optimization.md",
+      "to": "from-brain/awesome-autoresearch-software-systems-optimization.md",
+      "body_chars": 16284
+    },
+    {
+      "slug": "awesome-autoresearch-source",
+      "from": "awesome-autoresearch-source.md",
+      "to": "from-brain/awesome-autoresearch-source.md",
+      "body_chars": 2959
+    },
+    {
+      "slug": "awesome-autoresearch-trend-monitoring",
+      "from": "awesome-autoresearch-trend-monitoring.md",
+      "to": "from-brain/awesome-autoresearch-trend-monitoring.md",
+      "body_chars": 348
+    },
+    {
+      "slug": "awesome-autoresearch-workflow-automation",
+      "from": "awesome-autoresearch-workflow-automation.md",
+      "to": "from-brain/awesome-autoresearch-workflow-automation.md",
+      "body_chars": 1485
+    },
+    {
+      "slug": "being-mortal-atul-gawande-unified",
+      "from": "being-mortal-atul-gawande_unified.md",
+      "to": "from-brain/being-mortal-atul-gawande_unified.md",
+      "body_chars": 2217
+    },
+    {
+      "slug": "beta-investing",
+      "from": "concepts/beta-investing.md",
+      "to": "from-brain/concepts/beta-investing.md",
+      "body_chars": 262
+    },
+    {
+      "slug": "better-self-improving-agents-need-better-solvers",
+      "from": "concepts/better-self-improving-agents-need-better-solvers.md",
+      "to": "from-brain/concepts/better-self-improving-agents-need-better-solvers.md",
+      "body_chars": 2748
+    },
+    {
+      "slug": "beyond-good-and-evil-friedrich-nietzsche-unified",
+      "from": "beyond-good-and-evil-friedrich-nietzsche_unified.md",
+      "to": "from-brain/beyond-good-and-evil-friedrich-nietzsche_unified.md",
+      "body_chars": 4252
+    },
+    {
+      "slug": "bineval-vs-effort-router",
+      "from": "bineval-vs-effort-router.md",
+      "to": "from-brain/bineval-vs-effort-router.md",
+      "body_chars": 4667
+    },
+    {
+      "slug": "blog-spam-invoice-escalation",
+      "from": "blog/blog-spam-invoice-escalation.md",
+      "to": "from-brain/blog/blog-spam-invoice-escalation.md",
+      "body_chars": 7180
+    },
+    {
+      "slug": "blue-ocean-strategy-w-chan-kim-renee-mauborgne-unified",
+      "from": "blue-ocean-strategy-w.-chan-kim-renee-mauborgne_unified.md",
+      "to": "from-brain/blue-ocean-strategy-w.-chan-kim-renee-mauborgne_unified.md",
+      "body_chars": 2841
+    },
+    {
+      "slug": "building-a-second-brain-tiago-forte-unified",
+      "from": "building-a-second-brain-tiago-forte_unified.md",
+      "to": "from-brain/building-a-second-brain-tiago-forte_unified.md",
+      "body_chars": 2989
+    },
+    {
+      "slug": "cao-adoption-decision",
+      "from": "cao-adoption-decision.md",
+      "to": "from-brain/cao-adoption-decision.md",
+      "body_chars": 4918
+    },
+    {
+      "slug": "cao-migration-log",
+      "from": "cao-migration-log.md",
+      "to": "from-brain/cao-migration-log.md",
+      "body_chars": 3903
+    },
+    {
+      "slug": "chain-of-thought-cot",
+      "from": "concepts/Chain of Thought (CoT).md",
+      "to": "from-brain/concepts/Chain of Thought (CoT).md",
+      "body_chars": 270
+    },
+    {
+      "slug": "clear-thinking-turning-ordinary-moments-into-extraordinary-results-shane-parrish-unified",
+      "from": "clear-thinking_-turning-ordinary-moments-into-extraordinary-results-shane-parrish_unified.md",
+      "to": "from-brain/clear-thinking_-turning-ordinary-moments-into-extraordinary-results-shane-parrish_unified.md",
+      "body_chars": 10018
+    },
+    {
+      "slug": "complications-a-surgeons-notes-on-an-imperfect-science-atul-gawande-unified",
+      "from": "complications_-a-surgeons-notes-on-an-imperfect-science-atul-gawande_unified.md",
+      "to": "from-brain/complications_-a-surgeons-notes-on-an-imperfect-science-atul-gawande_unified.md",
+      "body_chars": 9312
+    },
+    {
+      "slug": "compound-learning",
+      "from": "concepts/compound-learning.md",
+      "to": "from-brain/concepts/compound-learning.md",
+      "body_chars": 265
+    },
+    {
+      "slug": "cron-environment-systemic-fixes",
+      "from": "memory/cron-environment-systemic-fixes.md",
+      "to": "from-brain/memory/cron-environment-systemic-fixes.md",
+      "body_chars": 1226
+    },
+    {
+      "slug": "cynefin-decision-master-integration",
+      "from": "cynefin-decision-master-integration.md",
+      "to": "from-brain/cynefin-decision-master-integration.md",
+      "body_chars": 6211
+    },
+    {
+      "slug": "cynefin-framework",
+      "from": "cynefin-framework.md",
+      "to": "from-brain/cynefin-framework.md",
+      "body_chars": 7551
+    },
+    {
+      "slug": "deep-rl-mixed-criticality-scheduling",
+      "from": "concepts/deep-rl-mixed-criticality-scheduling.md",
+      "to": "from-brain/concepts/deep-rl-mixed-criticality-scheduling.md",
+      "body_chars": 1914
+    },
+    {
+      "slug": "deep-work-cal-newport-unified",
+      "from": "deep-work-cal-newport_unified.md",
+      "to": "from-brain/deep-work-cal-newport_unified.md",
+      "body_chars": 2836
+    },
+    {
+      "slug": "defrag-report-2026-08-17",
+      "from": "defrag-report-2026-08-17.md",
+      "to": "from-brain/defrag-report-2026-08-17.md",
+      "body_chars": 12545
+    },
+    {
+      "slug": "dojo-config",
+      "from": "memory/dojo-config.md",
+      "to": "from-brain/memory/dojo-config.md",
+      "body_chars": 183
+    },
+    {
+      "slug": "dynamic-algorithms-interval-scheduling",
+      "from": "concepts/dynamic-algorithms-interval-scheduling.md",
+      "to": "from-brain/concepts/dynamic-algorithms-interval-scheduling.md",
+      "body_chars": 1921
+    },
+    {
+      "slug": "dynamic-scheduling-eli5-overview",
+      "from": "concepts/dynamic-scheduling-eli5-overview.md",
+      "to": "from-brain/concepts/dynamic-scheduling-eli5-overview.md",
+      "body_chars": 4437
+    },
+    {
+      "slug": "effort-router",
+      "from": "effort-router.md",
+      "to": "from-brain/effort-router.md",
+      "body_chars": 2996
+    },
+    {
+      "slug": "email-2026-06-17-317949",
+      "from": "sources/email-2026-06-17-317949.md",
+      "to": "from-brain/sources/email-2026-06-17-317949.md",
+      "body_chars": 249
+    },
+    {
+      "slug": "email-2026-06-18-318085",
+      "from": "sources/email-2026-06-18-318085.md",
+      "to": "from-brain/sources/email-2026-06-18-318085.md",
+      "body_chars": 333
+    },
+    {
+      "slug": "email-2026-06-19-318189",
+      "from": "sources/email-2026-06-19-318189.md",
+      "to": "from-brain/sources/email-2026-06-19-318189.md",
+      "body_chars": 330
+    },
+    {
+      "slug": "email-2026-06-20-318276",
+      "from": "sources/email-2026-06-20-318276.md",
+      "to": "from-brain/sources/email-2026-06-20-318276.md",
+      "body_chars": 315
+    },
+    {
+      "slug": "email-2026-06-20-318283",
+      "from": "sources/email-2026-06-20-318283.md",
+      "to": "from-brain/sources/email-2026-06-20-318283.md",
+      "body_chars": 305
+    },
+    {
+      "slug": "email-2026-06-20-318293",
+      "from": "sources/email-2026-06-20-318293.md",
+      "to": "from-brain/sources/email-2026-06-20-318293.md",
+      "body_chars": 301
+    },
+    {
+      "slug": "email-2026-06-21-318313",
+      "from": "sources/email-2026-06-21-318313.md",
+      "to": "from-brain/sources/email-2026-06-21-318313.md",
+      "body_chars": 315
+    },
+    {
+      "slug": "email-2026-06-21-318318",
+      "from": "sources/email-2026-06-21-318318.md",
+      "to": "from-brain/sources/email-2026-06-21-318318.md",
+      "body_chars": 311
+    },
+    {
+      "slug": "email-2026-06-22-318451",
+      "from": "sources/email-2026-06-22-318451.md",
+      "to": "from-brain/sources/email-2026-06-22-318451.md",
+      "body_chars": 328
+    },
+    {
+      "slug": "email-2026-06-22-318454",
+      "from": "sources/email-2026-06-22-318454.md",
+      "to": "from-brain/sources/email-2026-06-22-318454.md",
+      "body_chars": 302
+    },
+    {
+      "slug": "email-2026-06-23-318481",
+      "from": "sources/email-2026-06-23-318481.md",
+      "to": "from-brain/sources/email-2026-06-23-318481.md",
+      "body_chars": 324
+    },
+    {
+      "slug": "email-2026-06-24-318621",
+      "from": "sources/email-2026-06-24-318621.md",
+      "to": "from-brain/sources/email-2026-06-24-318621.md",
+      "body_chars": 302
+    },
+    {
+      "slug": "email-2026-06-24-318660",
+      "from": "sources/email-2026-06-24-318660.md",
+      "to": "from-brain/sources/email-2026-06-24-318660.md",
+      "body_chars": 315
+    },
+    {
+      "slug": "email-2026-06-24-318731",
+      "from": "sources/email-2026-06-24-318731.md",
+      "to": "from-brain/sources/email-2026-06-24-318731.md",
+      "body_chars": 360
+    },
+    {
+      "slug": "email-2026-06-25-318754",
+      "from": "sources/email-2026-06-25-318754.md",
+      "to": "from-brain/sources/email-2026-06-25-318754.md",
+      "body_chars": 317
+    },
+    {
+      "slug": "email-2026-06-25-318780",
+      "from": "sources/email-2026-06-25-318780.md",
+      "to": "from-brain/sources/email-2026-06-25-318780.md",
+      "body_chars": 315
+    },
+    {
+      "slug": "email-2026-06-26-318946",
+      "from": "sources/email-2026-06-26-318946.md",
+      "to": "from-brain/sources/email-2026-06-26-318946.md",
+      "body_chars": 305
+    },
+    {
+      "slug": "email-2026-06-26-318947",
+      "from": "sources/email-2026-06-26-318947.md",
+      "to": "from-brain/sources/email-2026-06-26-318947.md",
+      "body_chars": 336
+    },
+    {
+      "slug": "email-2026-06-26-318959",
+      "from": "sources/email-2026-06-26-318959.md",
+      "to": "from-brain/sources/email-2026-06-26-318959.md",
+      "body_chars": 312
+    },
+    {
+      "slug": "email-2026-06-27-318980",
+      "from": "sources/email-2026-06-27-318980.md",
+      "to": "from-brain/sources/email-2026-06-27-318980.md",
+      "body_chars": 399
+    },
+    {
+      "slug": "email-2026-06-27-318998",
+      "from": "sources/email-2026-06-27-318998.md",
+      "to": "from-brain/sources/email-2026-06-27-318998.md",
+      "body_chars": 368
+    },
+    {
+      "slug": "email-2026-06-27-319027",
+      "from": "sources/email-2026-06-27-319027.md",
+      "to": "from-brain/sources/email-2026-06-27-319027.md",
+      "body_chars": 321
+    },
+    {
+      "slug": "email-2026-06-28-319085",
+      "from": "sources/email-2026-06-28-319085.md",
+      "to": "from-brain/sources/email-2026-06-28-319085.md",
+      "body_chars": 317
+    },
+    {
+      "slug": "email-2026-06-30-319230",
+      "from": "sources/email-2026-06-30-319230.md",
+      "to": "from-brain/sources/email-2026-06-30-319230.md",
+      "body_chars": 325
+    },
+    {
+      "slug": "email-2026-06-30-319274",
+      "from": "sources/email-2026-06-30-319274.md",
+      "to": "from-brain/sources/email-2026-06-30-319274.md",
+      "body_chars": 326
+    },
+    {
+      "slug": "email-2026-06-30-319279",
+      "from": "sources/email-2026-06-30-319279.md",
+      "to": "from-brain/sources/email-2026-06-30-319279.md",
+      "body_chars": 289
+    },
+    {
+      "slug": "email-2026-06-30-319299",
+      "from": "sources/email-2026-06-30-319299.md",
+      "to": "from-brain/sources/email-2026-06-30-319299.md",
+      "body_chars": 404
+    },
+    {
+      "slug": "email-2026-06-30-319300",
+      "from": "sources/email-2026-06-30-319300.md",
+      "to": "from-brain/sources/email-2026-06-30-319300.md",
+      "body_chars": 404
+    },
+    {
+      "slug": "email-2026-06-30-319301",
+      "from": "sources/email-2026-06-30-319301.md",
+      "to": "from-brain/sources/email-2026-06-30-319301.md",
+      "body_chars": 306
+    },
+    {
+      "slug": "email-2026-07-01-319336",
+      "from": "sources/email-2026-07-01-319336.md",
+      "to": "from-brain/sources/email-2026-07-01-319336.md",
+      "body_chars": 323
+    },
+    {
+      "slug": "email-2026-07-02-319480",
+      "from": "sources/email-2026-07-02-319480.md",
+      "to": "from-brain/sources/email-2026-07-02-319480.md",
+      "body_chars": 322
+    },
+    {
+      "slug": "email-2026-07-02-319515",
+      "from": "sources/email-2026-07-02-319515.md",
+      "to": "from-brain/sources/email-2026-07-02-319515.md",
+      "body_chars": 289
+    },
+    {
+      "slug": "email-2026-07-05-319514",
+      "from": "sources/email-2026-07-05-319514.md",
+      "to": "from-brain/sources/email-2026-07-05-319514.md",
+      "body_chars": 326
+    },
+    {
+      "slug": "email-2026-07-05-319521",
+      "from": "sources/email-2026-07-05-319521.md",
+      "to": "from-brain/sources/email-2026-07-05-319521.md",
+      "body_chars": 329
+    },
+    {
+      "slug": "email-2026-07-06-319513",
+      "from": "sources/email-2026-07-06-319513.md",
+      "to": "from-brain/sources/email-2026-07-06-319513.md",
+      "body_chars": 326
+    },
+    {
+      "slug": "email-2026-07-06-319521",
+      "from": "sources/email-2026-07-06-319521.md",
+      "to": "from-brain/sources/email-2026-07-06-319521.md",
+      "body_chars": 329
+    },
+    {
+      "slug": "email-2026-07-06-319560",
+      "from": "sources/email-2026-07-06-319560.md",
+      "to": "from-brain/sources/email-2026-07-06-319560.md",
+      "body_chars": 307
+    },
+    {
+      "slug": "evaluation-patterns",
+      "from": "concepts/evaluation-patterns.md",
+      "to": "from-brain/concepts/evaluation-patterns.md",
+      "body_chars": 267
+    },
+    {
+      "slug": "evidence-q07-2026-07-18",
+      "from": "evidence-q07-2026-07-18.md",
+      "to": "from-brain/evidence-q07-2026-07-18.md",
+      "body_chars": 933
+    },
+    {
+      "slug": "experiment-evolver-vs-solver-model-size",
+      "from": "concepts/experiment-evolver-vs-solver-model-size.md",
+      "to": "from-brain/concepts/experiment-evolver-vs-solver-model-size.md",
+      "body_chars": 4573
+    },
+    {
+      "slug": "exploration-vs-exploitation",
+      "from": "concepts/exploration-vs-exploitation.md",
+      "to": "from-brain/concepts/exploration-vs-exploitation.md",
+      "body_chars": 275
+    },
+    {
+      "slug": "finacumen-self-evolving-memory-harness",
+      "from": "papers/finacumen-self-evolving-memory-harness.md",
+      "to": "from-brain/papers/finacumen-self-evolving-memory-harness.md",
+      "body_chars": 5077
+    },
+    {
+      "slug": "game-theory-in-life",
+      "from": "concepts/game-theory-in-life.md",
+      "to": "from-brain/concepts/game-theory-in-life.md",
+      "body_chars": 117
+    },
+    {
+      "slug": "gap1-simulation-design-decision",
+      "from": "concepts/gap1-simulation-design-decision.md",
+      "to": "from-brain/concepts/gap1-simulation-design-decision.md",
+      "body_chars": 7351
+    },
+    {
+      "slug": "gateway-debugging",
+      "from": "memory/gateway-debugging.md",
+      "to": "from-brain/memory/gateway-debugging.md",
+      "body_chars": 323
+    },
+    {
+      "slug": "gbrain-ecosystem",
+      "from": "concepts/gbrain-ecosystem.md",
+      "to": "from-brain/concepts/gbrain-ecosystem.md",
+      "body_chars": 264
+    },
+    {
+      "slug": "github-skill-discovery-loop",
+      "from": "concept/github-skill-discovery-loop.md",
+      "to": "from-brain/concept/github-skill-discovery-loop.md",
+      "body_chars": 2504
+    },
+    {
+      "slug": "gittins-analysis",
+      "from": "research/gittins-analysis.md",
+      "to": "from-brain/research/gittins-analysis.md",
+      "body_chars": 307
+    },
+    {
+      "slug": "graph-engineering",
+      "from": "graph-engineering.md",
+      "to": "from-brain/graph-engineering.md",
+      "body_chars": 1631
+    },
+    {
+      "slug": "graph-of-thoughts",
+      "from": "graph-of-thoughts.md",
+      "to": "from-brain/graph-of-thoughts.md",
+      "body_chars": 4837
+    },
+    {
+      "slug": "graph-of-thoughts-got",
+      "from": "concepts/Graph of Thoughts (GoT).md",
+      "to": "from-brain/concepts/Graph of Thoughts (GoT).md",
+      "body_chars": 271
+    },
+    {
+      "slug": "graphwork",
+      "from": "graphwork.md",
+      "to": "from-brain/graphwork.md",
+      "body_chars": 3459
+    },
+    {
+      "slug": "graphwork-tooling",
+      "from": "memory/graphwork-tooling.md",
+      "to": "from-brain/memory/graphwork-tooling.md",
+      "body_chars": 146
+    },
+    {
+      "slug": "harness-gap",
+      "from": "harness-gap.md",
+      "to": "from-brain/harness-gap.md",
+      "body_chars": 2830
+    },
+    {
+      "slug": "health-report-20260511",
+      "from": ".hermes/health-report-20260511.md",
+      "to": "from-brain/.hermes/health-report-20260511.md",
+      "body_chars": 2332
+    },
+    {
+      "slug": "health-report-20260518",
+      "from": ".hermes/health-report-20260518.md",
+      "to": "from-brain/.hermes/health-report-20260518.md",
+      "body_chars": 2158
+    },
+    {
+      "slug": "health-report-20260525",
+      "from": ".hermes/health-report-20260525.md",
+      "to": "from-brain/.hermes/health-report-20260525.md",
+      "body_chars": 3737
+    },
+    {
+      "slug": "heartbeat",
+      "from": "HEARTBEAT.md",
+      "to": "from-brain/HEARTBEAT.md",
+      "body_chars": 302
+    },
+    {
+      "slug": "heartbeat",
+      "from": ".hermes/rollback/defrag-20260511_090935/HEARTBEAT.md",
+      "to": "from-brain/.hermes/rollback/defrag-20260511_090935/HEARTBEAT.md",
+      "body_chars": 302
+    },
+    {
+      "slug": "hermes-agent-skills",
+      "from": "concepts/hermes-agent-skills.md",
+      "to": "from-brain/concepts/hermes-agent-skills.md",
+      "body_chars": 267
+    },
+    {
+      "slug": "hermes-buzz-integration",
+      "from": "hermes-buzz-integration.md",
+      "to": "from-brain/hermes-buzz-integration.md",
+      "body_chars": 3753
+    },
+    {
+      "slug": "hermes-ecosystem-2026-07-03",
+      "from": "hermes-ecosystem-2026-07-03.md",
+      "to": "from-brain/hermes-ecosystem-2026-07-03.md",
+      "body_chars": 6838
+    },
+    {
+      "slug": "hermes-v0180-delta-2026-07-03",
+      "from": "hermes-v0180-delta-2026-07-03.md",
+      "to": "from-brain/hermes-v0180-delta-2026-07-03.md",
+      "body_chars": 7254
+    },
+    {
+      "slug": "iee-project",
+      "from": "memory/iee-project.md",
+      "to": "from-brain/memory/iee-project.md",
+      "body_chars": 121
+    },
+    {
+      "slug": "infinite-game-mindset",
+      "from": "concepts/Infinite Game Mindset.md",
+      "to": "from-brain/concepts/Infinite Game Mindset.md",
+      "body_chars": 269
+    },
+    {
+      "slug": "jcode-rust-coding-agent",
+      "from": "concept/jcode-rust-coding-agent.md",
+      "to": "from-brain/concept/jcode-rust-coding-agent.md",
+      "body_chars": 2339
+    },
+    {
+      "slug": "kelly-criterion",
+      "from": "concepts/kelly-criterion.md",
+      "to": "from-brain/concepts/kelly-criterion.md",
+      "body_chars": 263
+    },
+    {
+      "slug": "kelly-criterion-insights",
+      "from": "concept/kelly-criterion-insights.md",
+      "to": "from-brain/concept/kelly-criterion-insights.md",
+      "body_chars": 1384
+    },
+    {
+      "slug": "kelly-sharpe-alpha-factor-chain",
+      "from": "concepts/kelly-sharpe-alpha-factor-chain.md",
+      "to": "from-brain/concepts/kelly-sharpe-alpha-factor-chain.md",
+      "body_chars": 6725
+    },
+    {
+      "slug": "kirk-won-investment-thesis",
+      "from": "concepts/kirk-won-investment-thesis.md",
+      "to": "from-brain/concepts/kirk-won-investment-thesis.md",
+      "body_chars": 1574
+    },
+    {
+      "slug": "loop-engineering-got-integration",
+      "from": "loop-engineering-got-integration.md",
+      "to": "from-brain/loop-engineering-got-integration.md",
+      "body_chars": 1987
+    },
+    {
+      "slug": "loop-engineering-roadmap",
+      "from": "sources/loop-engineering-roadmap.md",
+      "to": "from-brain/sources/loop-engineering-roadmap.md",
+      "body_chars": 8818
+    },
+    {
+      "slug": "lora-config",
+      "from": "memory/lora-config.md",
+      "to": "from-brain/memory/lora-config.md",
+      "body_chars": 223
+    },
+    {
+      "slug": "market-close-summary",
+      "from": "concepts/market-close-summary.md",
+      "to": "from-brain/concepts/market-close-summary.md",
+      "body_chars": 268
+    },
+    {
+      "slug": "markov-regime-detection",
+      "from": "markov-regime-detection.md",
+      "to": "from-brain/markov-regime-detection.md",
+      "body_chars": 1721
+    },
+    {
+      "slug": "markovian-thinker-delethink",
+      "from": "markovian-thinker-delethink.md",
+      "to": "from-brain/markovian-thinker-delethink.md",
+      "body_chars": 2146
+    },
+    {
+      "slug": "mcp-environment-poisoning",
+      "from": "memory/mcp-environment-poisoning.md",
+      "to": "from-brain/memory/mcp-environment-poisoning.md",
+      "body_chars": 318
+    },
+    {
+      "slug": "mega-ipo-index-impact-2026",
+      "from": "mega-ipo-index-impact-2026.md",
+      "to": "from-brain/mega-ipo-index-impact-2026.md",
+      "body_chars": 9290
+    },
+    {
+      "slug": "metrics-for-self-improving-claude",
+      "from": "concepts/metrics-for-self-improving-claude.md",
+      "to": "from-brain/concepts/metrics-for-self-improving-claude.md",
+      "body_chars": 9818
+    },
+    {
+      "slug": "metrics-improvement-next-steps",
+      "from": "concepts/metrics-improvement-next-steps.md",
+      "to": "from-brain/concepts/metrics-improvement-next-steps.md",
+      "body_chars": 8810
+    },
+    {
+      "slug": "metrics-weekly-2026-w23",
+      "from": "concepts/metrics-weekly-2026-w23.md",
+      "to": "from-brain/concepts/metrics-weekly-2026-w23.md",
+      "body_chars": 578
+    },
+    {
+      "slug": "metrics-weekly-report-plan",
+      "from": "concepts/metrics-weekly-report-plan.md",
+      "to": "from-brain/concepts/metrics-weekly-report-plan.md",
+      "body_chars": 10308
+    },
+    {
+      "slug": "minimax-algorithm",
+      "from": "concepts/minimax-algorithm.md",
+      "to": "from-brain/concepts/minimax-algorithm.md",
+      "body_chars": 115
+    },
+    {
+      "slug": "model-context-protocol-mcp",
+      "from": "concepts/Model Context Protocol (MCP).md",
+      "to": "from-brain/concepts/Model Context Protocol (MCP).md",
+      "body_chars": 276
+    },
+    {
+      "slug": "monte-carlo-tree-search",
+      "from": "concepts/monte-carlo-tree-search.md",
+      "to": "from-brain/concepts/monte-carlo-tree-search.md",
+      "body_chars": 121
+    },
+    {
+      "slug": "multi-arm-bandits",
+      "from": "concepts/multi-arm-bandits.md",
+      "to": "from-brain/concepts/multi-arm-bandits.md",
+      "body_chars": 265
+    },
+    {
+      "slug": "nlm-aiml-analysis-20260802-105443",
+      "from": "nlm-exports/nlm-aiml-analysis-20260802-105443.md",
+      "to": "from-brain/nlm-exports/nlm-aiml-analysis-20260802-105443.md",
+      "body_chars": 67987
+    },
+    {
+      "slug": "nlm-aiml-analysis-20260803-101134",
+      "from": "nlm-exports/nlm-aiml-analysis-20260803-101134.md",
+      "to": "from-brain/nlm-exports/nlm-aiml-analysis-20260803-101134.md",
+      "body_chars": 77082
+    },
+    {
+      "slug": "nlm-tool-details",
+      "from": "memory/nlm-tool-details.md",
+      "to": "from-brain/memory/nlm-tool-details.md",
+      "body_chars": 256
+    },
+    {
+      "slug": "omd-salitrap-results",
+      "from": "memory/omd-salitrap-results.md",
+      "to": "from-brain/memory/omd-salitrap-results.md",
+      "body_chars": 147
+    },
+    {
+      "slug": "ornith-benchmark-report",
+      "from": "ornith-benchmark-report.md",
+      "to": "from-brain/ornith-benchmark-report.md",
+      "body_chars": 4125
+    },
+    {
+      "slug": "pat-critical-reading",
+      "from": "pat-critical-reading.md",
+      "to": "from-brain/pat-critical-reading.md",
+      "body_chars": 5656
+    },
+    {
+      "slug": "performance-optimization",
+      "from": "concepts/performance-optimization.md",
+      "to": "from-brain/concepts/performance-optimization.md",
+      "body_chars": 272
+    },
+    {
+      "slug": "premortem-skill",
+      "from": "concepts/premortem-skill.md",
+      "to": "from-brain/concepts/premortem-skill.md",
+      "body_chars": 263
+    },
+    {
+      "slug": "prisoners-dilemma",
+      "from": "concepts/prisoners-dilemma.md",
+      "to": "from-brain/concepts/prisoners-dilemma.md",
+      "body_chars": 115
+    },
+    {
+      "slug": "prompt-engineering",
+      "from": "concepts/Prompt Engineering.md",
+      "to": "from-brain/concepts/Prompt Engineering.md",
+      "body_chars": 266
+    },
+    {
+      "slug": "raschka-reasoning-effort",
+      "from": "raschka-reasoning-effort.md",
+      "to": "from-brain/raschka-reasoning-effort.md",
+      "body_chars": 2059
+    },
+    {
+      "slug": "reinforcement-learning-adaptive-resource-scheduling",
+      "from": "concepts/reinforcement-learning-adaptive-resource-scheduling.md",
+      "to": "from-brain/concepts/reinforcement-learning-adaptive-resource-scheduling.md",
+      "body_chars": 1861
+    },
+    {
+      "slug": "research-grpo-training-for-llms-20260503",
+      "from": "research/research-grpo-training-for-llms-20260503.md",
+      "to": "from-brain/research/research-grpo-training-for-llms-20260503.md",
+      "body_chars": 1035
+    },
+    {
+      "slug": "research-grpo-training-for-llms-20260503",
+      "from": ".hermes/rollback/defrag-20260511_090935/research/research-grpo-training-for-llms-20260503.md",
+      "to": "from-brain/.hermes/rollback/defrag-20260511_090935/research/research-grpo-training-for-llms-20260503.md",
+      "body_chars": 1035
+    },
+    {
+      "slug": "research-grpo-training-methods-for-llms-20260511",
+      "from": "research/research-grpo-training-methods-for-llms-20260511.md",
+      "to": "from-brain/research/research-grpo-training-methods-for-llms-20260511.md",
+      "body_chars": 606
+    },
+    {
+      "slug": "research-grpo-training-methods-for-llms-20260511",
+      "from": ".hermes/rollback/defrag-20260518_061355/research-grpo-training-methods-for-llms-20260511.md",
+      "to": "from-brain/.hermes/rollback/defrag-20260518_061355/research-grpo-training-methods-for-llms-20260511.md",
+      "body_chars": 606
+    },
+    {
+      "slug": "research-pipeline-architecture",
+      "from": "memory/research-pipeline-architecture.md",
+      "to": "from-brain/memory/research-pipeline-architecture.md",
+      "body_chars": 485
+    },
+    {
+      "slug": "research-risk-management-leaps-delta-options",
+      "from": "concepts/research-risk-management-leaps-delta-options.md",
+      "to": "from-brain/concepts/research-risk-management-leaps-delta-options.md",
+      "body_chars": 16306
+    },
+    {
+      "slug": "resilience-build-ideas",
+      "from": "resilience-build-ideas.md",
+      "to": "from-brain/resilience-build-ideas.md",
+      "body_chars": 9497
+    },
+    {
+      "slug": "safety-frameworks-legal-regulatory",
+      "from": "safety-frameworks-legal-regulatory.md",
+      "to": "from-brain/safety-frameworks-legal-regulatory.md",
+      "body_chars": 25588
+    },
+    {
+      "slug": "safety-reference",
+      "from": "safety-reference.md",
+      "to": "from-brain/safety-reference.md",
+      "body_chars": 17104
+    },
+    {
+      "slug": "self-consistency",
+      "from": "concepts/Self-Consistency.md",
+      "to": "from-brain/concepts/Self-Consistency.md",
+      "body_chars": 264
+    },
+    {
+      "slug": "self-distilled-agentic-rl-sdar",
+      "from": "concepts/self-distilled-agentic-rl-sdar.md",
+      "to": "from-brain/concepts/self-distilled-agentic-rl-sdar.md",
+      "body_chars": 2982
+    },
+    {
+      "slug": "skill-governance-system",
+      "from": "skill-governance-system.md",
+      "to": "from-brain/skill-governance-system.md",
+      "body_chars": 5540
+    },
+    {
+      "slug": "skillopt-auto-gate",
+      "from": "skillopt-auto-gate.md",
+      "to": "from-brain/skillopt-auto-gate.md",
+      "body_chars": 4329
+    },
+    {
+      "slug": "soul",
+      "from": "SOUL.md",
+      "to": "from-brain/SOUL.md",
+      "body_chars": 4315
+    },
+    {
+      "slug": "soul",
+      "from": ".hermes/rollback/defrag-20260511_090935/SOUL.md",
+      "to": "from-brain/.hermes/rollback/defrag-20260511_090935/SOUL.md",
+      "body_chars": 4315
+    },
+    {
+      "slug": "sources-of-power",
+      "from": "books/sources-of-power.md",
+      "to": "from-brain/books/sources-of-power.md",
+      "body_chars": 6973
+    },
+    {
+      "slug": "spacex-spcx-deep-dive-scenarios",
+      "from": "spacex-spcx-deep-dive-scenarios.md",
+      "to": "from-brain/spacex-spcx-deep-dive-scenarios.md",
+      "body_chars": 8726
+    },
+    {
+      "slug": "sublinear-dynamic-interval-scheduling",
+      "from": "concepts/sublinear-dynamic-interval-scheduling.md",
+      "to": "from-brain/concepts/sublinear-dynamic-interval-scheduling.md",
+      "body_chars": 2163
+    },
+    {
+      "slug": "super-hermes-prisms",
+      "from": "concepts/super-hermes-prisms.md",
+      "to": "from-brain/concepts/super-hermes-prisms.md",
+      "body_chars": 267
+    },
+    {
+      "slug": "sutton-analysis",
+      "from": "research/sutton-analysis.md",
+      "to": "from-brain/research/sutton-analysis.md",
+      "body_chars": 312
+    },
+    {
+      "slug": "sutton-barto-analysis",
+      "from": "concepts/sutton-barto-analysis.md",
+      "to": "from-brain/concepts/sutton-barto-analysis.md",
+      "body_chars": 269
+    },
+    {
+      "slug": "sycophantic-ai-human-interaction",
+      "from": "concepts/sycophantic-ai-human-interaction.md",
+      "to": "from-brain/concepts/sycophantic-ai-human-interaction.md",
+      "body_chars": 5651
+    },
+    {
+      "slug": "systems-not-goals",
+      "from": "concepts/systems-not-goals.md",
+      "to": "from-brain/concepts/systems-not-goals.md",
+      "body_chars": 265
+    },
+    {
+      "slug": "tencentdb-agent-memory",
+      "from": "concept/tencentdb-agent-memory.md",
+      "to": "from-brain/concept/tencentdb-agent-memory.md",
+      "body_chars": 1061
+    },
+    {
+      "slug": "test-demotion-entry-synthetic-f9432b",
+      "from": "demoted/test-demotion-entry-synthetic-f9432b.md",
+      "to": "from-brain/demoted/test-demotion-entry-synthetic-f9432b.md",
+      "body_chars": 122
+    },
+    {
+      "slug": "test-project-alpha-concept-alpha",
+      "from": "concepts/test-project-alpha-concept-alpha.md",
+      "to": "from-brain/concepts/test-project-alpha-concept-alpha.md",
+      "body_chars": 1425
+    },
+    {
+      "slug": "test-project-alpha-concept-beta",
+      "from": "concepts/test-project-alpha-concept-beta.md",
+      "to": "from-brain/concepts/test-project-alpha-concept-beta.md",
+      "body_chars": 2133
+    },
+    {
+      "slug": "test-project-beta-concept-delta",
+      "from": "concepts/test-project-beta-concept-delta.md",
+      "to": "from-brain/concepts/test-project-beta-concept-delta.md",
+      "body_chars": 2217
+    },
+    {
+      "slug": "test-project-beta-concept-gamma",
+      "from": "concepts/test-project-beta-concept-gamma.md",
+      "to": "from-brain/concepts/test-project-beta-concept-gamma.md",
+      "body_chars": 1970
+    },
+    {
+      "slug": "text-to-speech-wisdom",
+      "from": ".hermes/rollback/defrag-20260511_090935/wiki-personal/concepts/text-to-speech-wisdom.md",
+      "to": "from-brain/.hermes/rollback/defrag-20260511_090935/wiki-personal/concepts/text-to-speech-wisdom.md",
+      "body_chars": 1636
+    },
+    {
+      "slug": "thinking-fast-and-slow",
+      "from": "books/thinking-fast-and-slow.md",
+      "to": "from-brain/books/thinking-fast-and-slow.md",
+      "body_chars": 2349
+    },
+    {
+      "slug": "tree-of-thoughts-tot",
+      "from": "concepts/Tree of Thoughts (ToT).md",
+      "to": "from-brain/concepts/Tree of Thoughts (ToT).md",
+      "body_chars": 270
+    },
+    {
+      "slug": "twitter-loop-engineering",
+      "from": "twitter-loop-engineering.md",
+      "to": "from-brain/twitter-loop-engineering.md",
+      "body_chars": 4093
+    },
+    {
+      "slug": "user",
+      "from": ".hermes/rollback/defrag-20260511_090935/USER.md",
+      "to": "from-brain/.hermes/rollback/defrag-20260511_090935/USER.md",
+      "body_chars": 5353
+    },
+    {
+      "slug": "zero-sum-vs-infinite-game",
+      "from": "concepts/Zero-Sum vs Infinite Game.md",
+      "to": "from-brain/concepts/Zero-Sum vs Infinite Game.md",
+      "body_chars": 273
+    }
+  ],
+  "dropped": [
+    {
+      "slug": "1-99-why-machines-learn-the-elegant-math-behind-0093",
+      "path": "_1_99__why_machines_learn__the_elegant_math_behind_0093.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "10-best-splash-page-examples-that-actually-work-in-0044",
+      "path": "10_best_splash_page_examples_that_actually_work_in_0044.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "1088-how-to-use-quickadd-for-obsidian-with-exa-0066",
+      "path": "_1088__how_to_use_quickadd_for_obsidian_-_with_exa_0066.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "2010-the-rise-of-deep-learning-0011",
+      "path": "2010__the_rise_of_deep_learning_0011.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "2016-alphago-and-the-triumph-of-deep-reinforcemen-0013",
+      "path": "2016__alphago_and_the_triumph_of_deep_reinforcemen_0013.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "2016-alphago-and-the-triumph-of-deep-reinforcemen-0020",
+      "path": "2016__alphago_and_the_triumph_of_deep_reinforcemen_0020.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "2020-gpt-3-and-the-power-of-few-shot-learning-0087",
+      "path": "2020__gpt-3_and_the_power_of_few-shot_learning_0087.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "2026-07-19-8828d130",
+      "path": "inbox/2026-07-19-8828d130.md",
+      "body_chars": 59
+    },
+    {
+      "slug": "2026-07-19-a3a8aad0",
+      "path": "inbox/2026-07-19-a3a8aad0.md",
+      "body_chars": 78
+    },
+    {
+      "slug": "2026-07-19-a70c3c99",
+      "path": "inbox/2026-07-19-a70c3c99.md",
+      "body_chars": 78
+    },
+    {
+      "slug": "2026-08-03-0190afbd",
+      "path": "inbox/2026-08-03-0190afbd.md",
+      "body_chars": 99
+    },
+    {
+      "slug": "2026-08-03-169d827f",
+      "path": "inbox/2026-08-03-169d827f.md",
+      "body_chars": 68
+    },
+    {
+      "slug": "2026-08-03-348dcb92",
+      "path": "inbox/2026-08-03-348dcb92.md",
+      "body_chars": 58
+    },
+    {
+      "slug": "2026-08-03-55dbe7a7",
+      "path": "inbox/2026-08-03-55dbe7a7.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "2026-08-03-e8d583e2",
+      "path": "inbox/2026-08-03-e8d583e2.md",
+      "body_chars": 62
+    },
+    {
+      "slug": "2026-08-03-fac4100b",
+      "path": "inbox/2026-08-03-fac4100b.md",
+      "body_chars": 88
+    },
+    {
+      "slug": "236-this-notebooklm-opus-4-7-trick-changes-eve-0009",
+      "path": "_236__this_notebooklm___opus_4_7_trick_changes_eve_0009.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "32-karpathy-s-llm-wiki-what-it-means-how-to-b-0000",
+      "path": "_32__karpathy_s_llm_wiki__what_it_means___how_to_b_0000.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "50-oz-amazon-basics-liquid-hand-soap-refill-mango-0037",
+      "path": "50-oz_amazon_basics_liquid_hand_soap_refill__mango_0037.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "about-kandji-apple-device-management-and-security-0091",
+      "path": "about_kandji__apple_device_management_and_security_0091.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "about-kirk-w-0002",
+      "path": "about_kirk_w__0002.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "about-terax-0015",
+      "path": "about_-_terax_0015.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "about-us-legend-0019",
+      "path": "about_us_-_legend_0019.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "account-overview-kubra-ez-pay-0007",
+      "path": "account_overview_-_kubra_ez-pay_0007.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "account-overview-kubra-ez-pay-0008",
+      "path": "account_overview_-_kubra_ez-pay_0008.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "account-overview-visible-0021",
+      "path": "account_overview___visible_0021.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "actionable-framework-the-lessons-learned-life-cyc-0083",
+      "path": "actionable_framework__the_lessons_learned_life-cyc_0083.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "affluenza-action-learning-framework-google-docs-0080",
+      "path": "affluenza_action-learning_framework_-_google_docs_0080.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "ai-history-blog-project-httpsai-history-omo7onrend",
+      "path": "ai-history-blog-project_httpsai-history-omo7onrend.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "ai-ml-concepts-analysis-2026-05-09-notebooklm-0001",
+      "path": "ai_ml_concepts_analysis_-_2026-05-09_-_notebooklm_0001.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "ai-ml-concepts-analysis-2026-05-09-notebooklm-0058",
+      "path": "ai_ml_concepts_analysis_-_2026-05-09_-_notebooklm_0058.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-amazon-basics-0073",
+      "path": "amazon_com__amazon_basics_0073.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-amazon-basics-foldable-storage-bins-w-0072",
+      "path": "amazon_com_-_amazon_basics_foldable_storage_bins_w_0072.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-amazon-basics-lightweight-pleated-bed-0023",
+      "path": "amazon_com__amazon_basics_lightweight_pleated_bed__0023.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-amazon-basics-lightweight-pleated-bed-0024",
+      "path": "amazon_com__amazon_basics_lightweight_pleated_bed__0024.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-amazon-basics-lightweight-pleated-bed-0077",
+      "path": "amazon_com__amazon_basics_lightweight_pleated_bed__0077.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-amazon-basics-lightweight-pleated-bed-0078",
+      "path": "amazon_com__amazon_basics_lightweight_pleated_bed__0078.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-amazon-basics-lightweight-pleated-bed-0079",
+      "path": "amazon_com__amazon_basics_lightweight_pleated_bed__0079.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-how-to-ai-cut-through-the-hype-maste-0104",
+      "path": "amazon_com__how_to_ai__cut_through_the_hype__maste_0104.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-same-as-ever-a-guide-to-what-never-ch-0102",
+      "path": "amazon_com__same_as_ever__a_guide_to_what_never_ch_0102.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-the-5-types-of-wealth-a-transformativ-0105",
+      "path": "amazon_com__the_5_types_of_wealth__a_transformativ_0105.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-com-the-great-mental-models-volume-1-gen-0070",
+      "path": "amazon_com__the_great_mental_models__volume_1__gen_0070.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "amazon-subscribe-save-httpswwwamazoncomauto-delive",
+      "path": "amazon-subscribe-save_httpswwwamazoncomauto-delive.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "auto-claude-guides-cli-usage-md-at-main-ruizrica-0042",
+      "path": "auto-claude_guides_cli-usage_md_at_main___ruizrica_0042.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "autoglm-public-oss-z-ai-autoclaw-md2html-index-htm",
+      "path": "autoglm-public-oss_z_ai_autoclaw_md2html_index_htm.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "autoglm-public-oss-z-ai-autoclaw-md2html-index-htm",
+      "path": "autoglm-public-oss.z.ai_autoclaw_md2html_index.htm.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "bankrate-high-yield-savory-accounts-httpswwwbankra",
+      "path": "bankrate-high-yield-savory-accounts_httpswwwbankra.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "bankrate-rmd-calculator-httpswwwbankratecomretirem",
+      "path": "bankrate-rmd-calculator_httpswwwbankratecomretirem.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "basb-workflow-framework-action-decision-learning-0084",
+      "path": "basb_workflow_framework__action-decision-learning__0084.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "bing-com-search-q-2bwhat-are-the-difference-for-ht",
+      "path": "bing.com_search_q_2bwhat_are_the_difference_for_ht.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "bing-com-search-q-how-do-i-enable-google-workspace",
+      "path": "bing.com_search_q_how_do_i_enable_google_workspace.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "bing-com-search-q-how-do-i-set-nvm-default-node-fo",
+      "path": "bing.com_search_q_how_do_i_set_nvm_default_node_fo.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "bing-com-search-q-what-20are-20the-20difference-20",
+      "path": "bing.com_search_q_what_20are_20the_20difference_20.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "bing-com-search-q-what-are-the-difference-for-http",
+      "path": "bing.com_search_q_what_are_the_difference_for_http.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "bing-com-search-q-what-is-autoclaw-402-status-code",
+      "path": "bing.com_search_q_what_is_autoclaw_402_status_code.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "carscom-sf-vehicle-search-httpswwwcarscomshopping",
+      "path": "carscom-sf-vehicle-search_httpswwwcarscomshopping.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "chatgpt-com-client-reported-search-source-safari-i",
+      "path": "chatgpt.com_client_reported_search_source_safari_i.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "chatgpt-com-client-reported-search-sourcesafari-io",
+      "path": "chatgpt_com_client_reported_search_sourcesafari_io.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "chatgpt-com-qibitclient-reported-search-sourcesafa",
+      "path": "chatgpt_com_qibitclient_reported_search_sourcesafa.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "civicplus-software-explanation-0004",
+      "path": "civicplus_software_explanation_0004.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "claudeai-httpsclaudeai",
+      "path": "claudeai_httpsclaudeai.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "club-room-men-s-regular-fit-tipped-100-cashmere-s-0043",
+      "path": "club_room_men_s_regular-fit_tipped_100__cashmere_s_0043.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "coding-guidelines-0074",
+      "path": "__coding_guidelines_0074.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "coding-guidelines-notion-0057",
+      "path": "__coding_guidelines___notion_0057.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "coffee-arabica",
+      "path": "concepts/coffee-arabica.md",
+      "body_chars": 78
+    },
+    {
+      "slug": "coffee-robusta",
+      "path": "concepts/coffee-robusta.md",
+      "body_chars": 78
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overview-chat-true-o",
+      "path": "console.cloud.google.com_auth_overview_chat_true_o.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overview-orgonly-tru",
+      "path": "console.cloud.google.com_auth_overview_orgonly_tru.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overview-project-cla",
+      "path": "console.cloud.google.com_auth_overview_project_cla.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overview-project-her",
+      "path": "console.cloud.google.com_auth_overview_project_her.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overview-project-qui",
+      "path": "console.cloud.google.com_auth_overview_project_qui.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overview-referrer-se",
+      "path": "console.cloud.google.com_auth_overview_referrer_se.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overviewchattrueorgo",
+      "path": "console_cloud_google_com_auth_overviewchattrueorgo.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overvieworgonlytruep",
+      "path": "console_cloud_google_com_auth_overvieworgonlytruep.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overviewprojectclaw",
+      "path": "console_cloud_google_com_auth_overviewprojectclaw-.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overviewprojectherme",
+      "path": "console_cloud_google_com_auth_overviewprojectherme.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overviewprojectquick",
+      "path": "console_cloud_google_com_auth_overviewprojectquick.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-auth-overviewreferrersear",
+      "path": "console_cloud_google_com_auth_overviewreferrersear.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-run-overview-chat-true-or",
+      "path": "console.cloud.google.com_run_overview_chat_true_or.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "console-cloud-google-com-run-overviewchattrueorgon",
+      "path": "console_cloud_google_com_run_overviewchattrueorgon.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "cynefin-framework-explanation-0003",
+      "path": "cynefin_framework_explanation_0003.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "dashboard-overview-retirement-income-empower-i-0010",
+      "path": "dashboard_overview_-_retirement_income___empower_i_0010.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "dashboard-overview-retirement-income-empower-i-0039",
+      "path": "dashboard_overview_-_retirement_income___empower_i_0039.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "database-api-builder-sqlite-example-search-0053",
+      "path": "database_api_builder_sqlite_example_-_search_0053.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "decision-making-action-learning-framework-google-0085",
+      "path": "decision-making_action-learning_framework_-_google_0085.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "deepwiki-com-nocodb-nocodb-1-3-core-concepts",
+      "path": "deepwiki.com_nocodb_nocodb-1_3-core-concepts.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "deepwiki-com-nocodb-nocodb-1-3-core-concepts",
+      "path": "deepwiki_com_nocodb_nocodb-1_3-core-concepts.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "docs-google-com-document-d-1ydin4dv9-6ywd7m5y5iwl5",
+      "path": "docs_google_com_document_d_1ydin4dv9_6ywd7m5y5iwl5.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "docs-z-ai-devpack-overview",
+      "path": "docs_z_ai_devpack_overview.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "docs-z-ai-devpack-tool-goose",
+      "path": "docs_z_ai_devpack_tool_goose.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "docs-z-ai-devpack-tool-goose",
+      "path": "docs.z.ai_devpack_tool_goose.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "docs-z-ai-devpack-tool-others-step-1-supported-too",
+      "path": "docs.z.ai_devpack_tool_others_step-1-supported-too.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "docs-z-ai-devpack-tool-othersstep-1-supported-tool",
+      "path": "docs_z_ai_devpack_tool_othersstep-1-supported-tool.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "docs-z-ai-devpack-transition",
+      "path": "docs_z_ai_devpack_transition.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "documents-dokumen-tips-0055",
+      "path": "documents___dokumen_tips_0055.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "dokumen-tips-dokumen-tips-discover-share-pre-0056",
+      "path": "dokumen_tips___dokumen_tips___discover__share__pre_0056.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "empower-retirement-portal-httpsiraempower-retireme",
+      "path": "empower-retirement-portal_httpsiraempower-retireme.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "example-domain-0025",
+      "path": "example_domain_0025.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "fiduciary-duties-explained-0006",
+      "path": "fiduciary_duties_explained_0006.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "getting-started-appflowy-0041",
+      "path": "getting_started___appflowy_0041.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "getting-started-installation-garrytan-gbrain-0032",
+      "path": "getting_started___installation___garrytan_gbrain___0032.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "getting-started-jacob-bd-notebooklm-cli-deepwi-0060",
+      "path": "getting_started___jacob-bd_notebooklm-cli___deepwi_0060.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-ada",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_ada.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-ada",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_ada.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-bet",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_bet.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-bet",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_bet.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-exp",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_exp.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-exp",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_exp.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-hea",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_hea.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-hea",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_hea.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-loo",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_loo.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-loo",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_loo.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-mem",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_mem.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-mem",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_mem.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-met",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_met.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-met",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_met.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-rei",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_rei.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-rei",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_rei.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-res",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_res.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-res",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_res.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-sel",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_sel.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-sel",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_sel.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-sub",
+      "path": "github.com_kirkwon_llm-wiki_blob_main_concepts_sub.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-blob-main-concepts-sub",
+      "path": "github_com_kirkwon_llm-wiki_blob_main_concepts_sub.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-projects",
+      "path": "github_com_kirkwon_llm-wiki_projects.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-kirkwon-llm-wiki-projects",
+      "path": "github.com_kirkwon_llm-wiki_projects.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-nocodb-nocodb-discussions-277",
+      "path": "github.com_nocodb_nocodb_discussions_277.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-nocodb-nocodb-discussions-277",
+      "path": "github_com_nocodb_nocodb_discussions_277.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-ogulcancelik-herdr",
+      "path": "github.com_ogulcancelik_herdr.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-ogulcancelik-herdr",
+      "path": "github_com_ogulcancelik_herdr.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-ogulcancelik-herdr-install",
+      "path": "github.com_ogulcancelik_herdr_install.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-com-ogulcancelik-herdrinstall",
+      "path": "github_com_ogulcancelik_herdrinstall.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-ogulcancelik-herdr-agent-multiplexer-tha-0014",
+      "path": "github_-_ogulcancelik_herdr__agent_multiplexer_tha_0014.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "github-ogulcancelik-herdr-agent-multiplexer-tha-0096",
+      "path": "github_-_ogulcancelik_herdr__agent_multiplexer_tha_0096.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "give-me-some-tips-on-recipe-formatting-google-do-0082",
+      "path": "give_me_some_tips_on_recipe_formatting_-_google_do_0082.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "gmail-ai-tagged-httpsmailgooglecommailu0inbox",
+      "path": "gmail-ai-tagged_httpsmailgooglecommailu0inbox.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "google-notebooklm-httpsnotebooklmgooglecom",
+      "path": "google-notebooklm_httpsnotebooklmgooglecom.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "google-pixel-10-pro-vs-pixel-9-pro-these-are-the-0076",
+      "path": "google_pixel_10_pro_vs_pixel_9_pro__these_are_the__0076.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "goose-docs-ai-docs-category-guides",
+      "path": "goose-docs_ai_docs_category_guides.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "goose-docs-ai-docs-category-guides",
+      "path": "goose-docs.ai_docs_category_guides.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "goose-overview-z-ai-developer-document-0048",
+      "path": "goose_-_overview_-_z_ai_developer_document_0048.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "hackmd-io",
+      "path": "hackmd_io_.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "hermes-agent-nousresearch-com-docs-user-guide-prof",
+      "path": "hermes-agent_nousresearch_com_docs_user-guide_prof.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-do-i-cofigure-exa-for-hermes-search-0059",
+      "path": "how_do_i_cofigure_exa_for_hermes_-_search_0059.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-do-i-enable-google-workspace-project-json-se-0097",
+      "path": "how_do_i_enable_google_workspace_project_json_-_se_0097.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-do-i-enable-google-workspace-project-json-se-0098",
+      "path": "how_do_i_enable_google_workspace_project_json_-_se_0098.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-do-i-use-gbrain-search-0034",
+      "path": "how_do_i_use_gbrain__-_search_0034.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-to-build-karpathy-s-llm-wiki-the-complete-gui-0012",
+      "path": "how_to_build_karpathy_s_llm_wiki__the_complete_gui_0012.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-to-get-visibility-search-images-0088",
+      "path": "how_to_get_visibility_-_search_images_0088.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-to-integrate-gmail-with-hermes-0029",
+      "path": "how_to_integrate_gmail_with_hermes_0029.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-to-make-the-best-coffee-at-home-sunday-times-0101",
+      "path": "how_to_make_the_best_coffee_at_home__sunday_times__0101.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-to-use-hermes-agent-complete-guide-to-the-sel-0033",
+      "path": "how_to_use_hermes_agent__complete_guide_to_the_sel_0033.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-to-use-nocodb-with-sqlite-and-docker-nocodb-0049",
+      "path": "how_to_use_nocodb_with_sqlite_and_docker___nocodb__0049.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "how-to-use-quickadd-for-obsidian-with-examples-0067",
+      "path": "how_to_use_quickadd_for_obsidian_-_with_examples_-_0067.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "i-am-a-cookbook-writer-how-do-i-write-recipes-th-0081",
+      "path": "i_am_a_cookbook_writer__how_do_i_write_recipes_th__0081.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "i-have-a-update-drive-on-my-mac-and-it-has-a-log-0061",
+      "path": "i_have_a_update_drive_on_my_mac_and_it_has_a_log___0061.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "i-have-a-update-drive-on-my-mac-and-it-has-a-log-0062",
+      "path": "i_have_a_update_drive_on_my_mac_and_it_has_a_log___0062.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "i-have-a-update-drive-on-my-mac-and-it-has-a-log-0063",
+      "path": "i_have_a_update_drive_on_my_mac_and_it_has_a_log___0063.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "ibit-bitcoin-etf-overview-0005",
+      "path": "ibit_bitcoin_etf_overview_0005.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "ibit-etf-explanation-0017",
+      "path": "ibit_etf_explanation_0017.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "indeed-sf-job-searches-httpswwwindeedcom",
+      "path": "indeed-sf-job-searches_httpswwwindeedcom.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "international-gallery-guide-exhibition-listings-0103",
+      "path": "international_gallery_guide___exhibition_listings__0103.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "ira-empower-retirement-com-participant-home-dashb",
+      "path": "ira_empower-retirement_com_participant_home__dashb.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "karpathys-llm-wiki-youtube-httpswwwyoutubecom",
+      "path": "karpathys-llm-wiki-youtube_httpswwwyoutubecom.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "kl-wine-merchants-jobs-indeed-httpswwwindeedcomcmp",
+      "path": "kl-wine-merchants-jobs-indeed_httpswwwindeedcomcmp.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "learn-about-the-new-neo-ml-agent-on-github-and-how-0054",
+      "path": "learn_about_the_new_neo_ml_agent_on_github_and_how_0054.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "legacy-plan-migration-notice-overview-z-ai-dev-0100",
+      "path": "legacy_plan_migration_notice_-_overview_-_z_ai_dev_0100.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "links-page",
+      "path": "links-page.md",
+      "body_chars": 87
+    },
+    {
+      "slug": "llm-wiki-concepts-experiment-evolver-vs-solver-mod-0027",
+      "path": "llm-wiki_concepts_experiment-evolver-vs-solver-mod_0027.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "local-ai-development-server-blog-httplocalhost4321",
+      "path": "local-ai-development-server-blog_httplocalhost4321.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "log-in-to-mimo-to-keep-learning-to-code-access-yo-0050",
+      "path": "log_in_to_mimo_to_keep_learning_to_code__access_yo_0050.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "mail-google-com-mail-u-0-all-fmfcgzqgmgkrkwkqmmgpf",
+      "path": "mail_google_com_mail_u_0_all_fmfcgzqgmgkrkwkqmmgpf.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "mail-google-com-mail-u-0-all-fmfcgzqgmgkrtvpmfcfcr",
+      "path": "mail_google_com_mail_u_0_all_fmfcgzqgmgkrtvpmfcfcr.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "mail-google-com-mail-u-0-all-fmfcgzqgmvmrntmdspfpw",
+      "path": "mail_google_com_mail_u_0_all_fmfcgzqgmvmrntmdspfpw.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "mail-google-com-mail-u-0-inbox-fmfcgzqgmgfpbzxrqnn",
+      "path": "mail_google_com_mail_u_0_inbox_fmfcgzqgmgfpbzxrqnn.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "mail-google-com-mail-u-0-inbox-fmfcgzqgmgfqfprzcpn",
+      "path": "mail_google_com_mail_u_0_inbox_fmfcgzqgmgfqfprzcpn.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "maoism-definition-origins-history-facts-b-0047",
+      "path": "maoism___definition__origins__history____facts___b_0047.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "mdo-app-mdo-health-guide-0090",
+      "path": "mdo_app___mdo_health_guide_0090.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "meta-skill-evolution-guide-google-docs-0016",
+      "path": "meta-skill_evolution_guide_-_google_docs_0016.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "mimo-org-web-login",
+      "path": "mimo.org_web_login.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "mimo-org-web-login",
+      "path": "mimo_org_web_login.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "modern-portfolio-theory-web-application-google-s-0092",
+      "path": "modern_portfolio_theory_web_application_-_google_s_0092.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "nanoclaw-config-examples-at-main-qwibitai-nanocl-0022",
+      "path": "nanoclaw_config-examples_at_main___qwibitai_nanocl_0022.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "nazdridoy-kokoro-tts-a-cli-text-to-speech-tool-us-0036",
+      "path": "nazdridoy_kokoro-tts__a_cli_text-to-speech_tool_us_0036.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "nk-eide-about-0026",
+      "path": "nk_eide_-_about_0026.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "nkeide-com-home-about",
+      "path": "nkeide.com_home_about.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "oauth-overview-google-auth-platform-pgmail-kw-0038",
+      "path": "oauth_overview___google_auth_platform___pgmail-kw__0038.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "omniroute-local-llm-gateway-httplocalhost20128home",
+      "path": "omniroute-local-llm-gateway_httplocalhost20128home.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "openrouter-ai-docs-quickstart",
+      "path": "openrouter.ai_docs_quickstart.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "openrouter-ai-docs-quickstart",
+      "path": "openrouter_ai_docs_quickstart.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "openrouter-quickstart-guide-0028",
+      "path": "openrouter_quickstart_guide_0028.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "openrouter-quickstart-guide-developer-documentat-0031",
+      "path": "openrouter_quickstart_guide___developer_documentat_0031.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "overview-directus-docs-0035",
+      "path": "overview___directus_docs_0035.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "overview-hackmd-0051",
+      "path": "overview_-_hackmd_0051.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "patrickziegler-clerk-helper-for-converting-bank-s-0030",
+      "path": "patrickziegler_clerk__helper_for_converting_bank_s_0030.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "pattern-language-systems",
+      "path": ".hermes/rollback/defrag-20260518_061355/pattern-language-systems.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "personal-finance-google-sheets-httpsdocsgooglecoms",
+      "path": "personal-finance-google-sheets_httpsdocsgooglecoms.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "personal-knowledge-ecosystem-overview-0018",
+      "path": "personal_knowledge_ecosystem___overview_0018.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "personal-knowledge-ecosystem-overview-0052",
+      "path": "personal_knowledge_ecosystem___overview_0052.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "ren-magritte-s-voice-of-space-1931-lends-its-0089",
+      "path": "ren\u00e9_magritte_s__voice_of_space___1931__lends_its__0089.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "senator-mitch-mcconnell-shares-details-about-his-h-0095",
+      "path": "senator_mitch_mcconnell_shares_details_about_his_h_0095.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "sf-property-tax-information-httpscounty-taxesnetca",
+      "path": "sf-property-tax-information_httpscounty-taxesnetca.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "sfist-com-2026-07-12-senator-mitch-mcconnell-share",
+      "path": "sfist.com_2026_07_12_senator-mitch-mcconnell-share.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "sfist-com-2026-07-12-senator-mitch-mcconnell-share",
+      "path": "sfist_com_2026_07_12_senator-mitch-mcconnell-share.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "support-pokemon-com-hc-en-us-articles-360050219032",
+      "path": "support_pokemon_com_hc_en-us_articles_360050219032.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "test-does-not-exist-slug",
+      "path": "inbox/test-does-not-exist-slug.md",
+      "body_chars": 12
+    },
+    {
+      "slug": "test-inbox-triage",
+      "path": "sources/test-inbox-triage.md",
+      "body_chars": 61
+    },
+    {
+      "slug": "test-roundtrip-check",
+      "path": "test-roundtrip-check.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "test-slug",
+      "path": "test-slug.md",
+      "body_chars": 4
+    },
+    {
+      "slug": "test-slug-probe",
+      "path": "test-slug-probe.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "test-slug-timing",
+      "path": "test-slug-timing.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "test-stdin-put-probe",
+      "path": "test-stdin-put-probe.md",
+      "body_chars": 40
+    },
+    {
+      "slug": "test123",
+      "path": "test123.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "the-cynefin-decision-action-learning-framework-g-0086",
+      "path": "the_cynefin_decision-action-learning_framework_-_g_0086.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "theretirementtrade-com-one-hour-8112-affid-bing-ex",
+      "path": "theretirementtrade.com_one-hour-8112_affid_bing_ex.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "theretirementtrade-com-one-hour-8112-affidbingexte",
+      "path": "theretirementtrade_com_one-hour-8112_affidbingexte.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "tiaa-portfolio-dashboard-local-httplocalhost8501",
+      "path": "tiaa-portfolio-dashboard-local_httplocalhost8501.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "tool-integration-overview-z-ai-developer-docum-0099",
+      "path": "tool_integration_-_overview_-_z_ai_developer_docum_0099.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "ucsf-health-jobs-indeed-httpswwwindeedcomcmpucsf-h",
+      "path": "ucsf-health-jobs-indeed_httpswwwindeedcomcmpucsf-h.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "video-content-summary-overview-this-video-p-0064",
+      "path": "___video_content_summary_____overview_this_video_p_0064.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "what-about-fiction-or-comics-if-you-enjoy-mr-peab-0065",
+      "path": "what_about_fiction_or_comics_if_you_enjoy_mr__peab_0065.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "what-are-the-difference-for-https-github-com-ga-0094",
+      "path": "_what_are_the_difference_for_https___github_com_ga_0094.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "what-is-a-per-diem-rate-mean-google-search-0069",
+      "path": "what_is_a_per_diem_rate_mean_-_google_search_0069.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "what-is-the-cost-of-buying-and-selling-ibit-goog-0075",
+      "path": "what_is_the_cost_of_buying_and_selling_ibit_-_goog_0075.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "what-is-the-demograpics-of-the-outer-sunset-goog-0068",
+      "path": "what_is_the_demograpics_of_the_outer_sunset_-_goog_0068.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "what-is-the-yeild-for-sgov-google-search-0071",
+      "path": "what_is_the_yeild_for_sgov_-_google_search_0071.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "workflows-basics-docs-0045",
+      "path": "workflows___basics___docs_0045.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "workflows-basics-docs-0046",
+      "path": "workflows___basics___docs_0046.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-amazon-com-dp-b09sfyzjy6lvshufredirecttruelink",
+      "path": "www_amazon_com_dp_b09sfyzjy6lvshufredirecttruelink.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-amazon-com-same-ever-guide-never-changes-ebook",
+      "path": "www_amazon_com_same-ever-guide-never-changes-ebook.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-bing-com-copilotsearchqthetool-callfunctionreq",
+      "path": "www_bing_com_copilotsearchqthetool_callfunctionreq.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-bing-com-searchq2bwhatarethedifferenceforhttps",
+      "path": "www_bing_com_searchq2bwhatarethedifferenceforhttps.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-bing-com-searchqhowdoienablegoogleworkspacepro",
+      "path": "www_bing_com_searchqhowdoienablegoogleworkspacepro.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-bing-com-searchqhowdoisetnvmdefaultnodeformapm",
+      "path": "www_bing_com_searchqhowdoisetnvmdefaultnodeformapm.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-bing-com-searchqthetool-callfunctionrequiresth",
+      "path": "www_bing_com_searchqthetool_callfunctionrequiresth.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-bing-com-searchqwhat20are20the20difference20fo",
+      "path": "www_bing_com_searchqwhat20are20the20difference20fo.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-bing-com-searchqwhatarethedifferenceforhttps3a",
+      "path": "www_bing_com_searchqwhatarethedifferenceforhttps3a.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-bing-com-searchqwhatisautoclaw402statuscodenob",
+      "path": "www_bing_com_searchqwhatisautoclaw402statuscodenob.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-docker-com-resources-what-container",
+      "path": "www_docker_com_resources_what-container_.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-galleriesnow-net",
+      "path": "www_galleriesnow_net_.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-nkeide-com-home-about",
+      "path": "www_nkeide_com_home_about.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-youtube-com-watchv6njreuqafdglistwlindex7",
+      "path": "www_youtube_com_watchv6njreuqafdglistwlindex7.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "www-youtube-com-watchv6yiruorqsoslistwlindex6",
+      "path": "www_youtube_com_watchv6yiruorqsoslistwlindex6.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "xtaci-smux-a-stream-multiplexing-library-for-gola-0040",
+      "path": "xtaci_smux__a_stream_multiplexing_library_for_gola_0040.md",
+      "body_chars": 0
+    },
+    {
+      "slug": "zai-advanced-chatbot-httpschatzai",
+      "path": "zai-advanced-chatbot_httpschatzai.md",
+      "body_chars": 0
+    }
+  ]
+}

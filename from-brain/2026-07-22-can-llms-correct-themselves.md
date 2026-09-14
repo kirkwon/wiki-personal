@@ -1,0 +1,59 @@
+---
+created: 2026-07-27
+tags: [auto-fixed, frontmatter]
+---
+
+# Can LLMs Correct Themselves? — 2025-10-17
+
+> **Paper:** Tie, G., Yuan, Z., Zhao, Z., Hu, C., Gu, T., Zhang, R., Zhang, S., Wu, J., Tu, X., Jin, M., Wen, Q., Chen, L., Zhou, P., Sun, L. (2025). *Can LLMs Correct Themselves? A Benchmark of Self-Correction in LLMs*. arXiv:2510.16062.
+> **Source:** [@leanxbt](https://x.com/leanxbt/status/2079647267493978521), Jul 21 2026
+> **Date ingested:** 2026-07-22
+
+## Core Claim
+
+Intrinsic self-correction — where a model critiques and rewrites its own answer using only internal capabilities — **does not improve reasoning accuracy** and sometimes **degrades it below the first-pass answer**. The entire value of self-correction loops comes from an external signal telling the model the answer is wrong.
+
+## 4-Step Blueprint (from the paper)
+
+1. **Let the model answer** — first-pass generation, no constraints
+2. **Ask it to critique itself** — internal self-evaluation
+3. **Let it rewrite** — second-pass based on self-critique
+4. **Measure without hinting the correct answer** — remove the oracle
+
+## Key Findings
+
+| Finding | Detail |
+|---------|--------|
+| Self-correction helps for complex reasoning | Especially commonsense and math tasks |
+| Mixed strategies beat single strategies | Combining intrinsic + external + fine-tuned approaches |
+| Reasoning LLMs (DeepSeek-R1) limited optimization | High time cost, marginal gain from additional self-correction |
+| Simple CoT baseline is competitive | Often matches or beats self-corrected outputs |
+| **Intrinsic self-correction alone fails** | Cannot locate its own errors without external feedback |
+| Multi-agent debate doesn't rescue it | At equal response counts, plain self-consistency wins |
+
+## The Oracle Problem
+
+Prior work's reported gains were partially an artifact: the ground-truth answer was leaking into the procedure, telling the model when to stop. When the oracle is removed:
+
+- Self-critique rounds **do not raise accuracy**
+- In some cases, accuracy **drops below the original answer**
+- The model cannot reliably identify its own mistakes
+
+## Implications for Agent Design
+
+This has direct consequences for Hermes loop engineering:
+
+1. **Self-critique loops without external feedback are theatrical** — they consume tokens without improving outcomes
+2. **The oracle is the entire value** — any correction loop needs a verification step external to the model (tests, ground truth, user feedback, tool checks)
+3. **DeepSeek-R1-style reasoning models still benefit from correction** — but the benefit comes from the external signal, not the internal process
+4. **Simpler is often better** — plain self-consistency (generate N, pick majority) beats multi-round self-correction at equal token cost
+
+## Connections
+
+- [[agent-evaluation-methods]] — this paper is empirical evidence for why trajectory eval + external verification matter
+- [[loop-engineering]] — self-correction is a common loop pattern; this paper defines its failure mode
+- [[dojo-eval]] — our tool unit tests and human review provide the oracle the paper says is necessary
+- [[skillopt-auto-gate]] — the judge/anchor system is the external signal; without it, optimization drifts
+- [[verification-before-completion]] — the general principle this paper validates empirically
+- [[autoresearch-evaluation-patterns]] — red teaming / eval patterns that provide the oracle
+- [[finance-recommendation-verification]] — backtest is the oracle that prevents $412K errors

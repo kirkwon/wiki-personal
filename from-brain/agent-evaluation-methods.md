@@ -1,0 +1,81 @@
+---
+created: 2026-07-27
+tags: [auto-fixed, frontmatter]
+---
+
+# Agent Evaluation Methods — 10-Type Taxonomy & System Mapping
+
+> Source: [@hanakoxbt "10 agent evals for AI engineers"](https://x.com/hanakoxbt/status/2079692306337153079) (Jul 2026)
+> Part of the Loop Engineering article series.
+> Core insight: "offline evals tell you it works. online evals tell you it still works. both sides matter."
+
+## The 10 Evaluation Types
+
+### Offline Evals (test before deploy)
+
+| # | Method | What It Does | When To Use |
+|---|--------|-------------|-------------|
+| 1 | **Golden Set** | Fixed test cases, never edited, run on every change | Baseline — did anything move? |
+| 2 | **LLM as Judge** | Second model scores output against written rubric | Open-ended answers with no string match |
+| 3 | **Rubric Scoring** | Per-dimension score (correctness, tone, safety, cost) | Single score hides which part degraded |
+| 4 | **Trajectory Eval** | Grade the *path* the agent took, not just the answer | Right answer for wrong reason = latent bug |
+| 5 | **Tool Unit Tests** | Test each tool independently with fixtures, no model | Most agent bugs are tool bugs in disguise |
+| 6 | **Regression Suite** | Replay past runs against new prompt/model, diff results | Prompts have no type system — catch drift |
+
+### Online Evals (monitor in production)
+
+| # | Method | What It Does | When To Use |
+|---|--------|-------------|-------------|
+| 7 | **A/B in Prod** | Split live traffic between versions, compare outcomes | When offline scores stopped predicting reality |
+| 8 | **Human Review** | Sample a slice of runs, person grades honestly | Calibrate the judge — unchecked judges drift |
+| 9 | **Shadow Run** | Candidate runs on real traffic in parallel, output hidden | Before risky rollout — one bad answer is expensive |
+| 10 | **Red Team** | Deliberately attack: jailbreaks, injection, exfil, tool abuse | Before external reach — not after |
+
+## Mapping to Our Systems
+
+### What We Already Have (6/10)
+
+| Method | Our Implementation | Coverage |
+|--------|-------------------|----------|
+| **1. Golden Set** | `SkillOpt` uses `test-skill-good.md` + `test-skill-bad.md` as fixed fixtures. Finance verification uses walk-forward backtest as golden set (`verify_regime.py`). Markov regime detection verified on SPY 10Y baseline (Sharpe 0.272). | ✅ Strong — fixtures exist for skill optimization and finance |
+| **2. LLM as Judge** | `SkillOpt` judge architecture: model scores skill quality on 0-10 scale, baseline vs optimized. Uses `glm-5` as judge. | ✅ Strong — but single-model judge, no cross-validation |
+| **3. Rubric Scoring** | `SkillOpt` multi-dimensional scoring: clarity, completeness, specificity, structure, accuracy — weighted average normalized to 0-10. | ✅ Strong — 5 dimensions, weighted |
+| **4. Trajectory Eval** | `dojo-eval` retry loop detection (argument-aware `_get_call_key()`). Detects same tool + same args repeated 3+ times. Also tracks tool call sequences per session. | ⚠️ Partial — detects retry pathology but doesn't grade trajectory quality |
+| **5. Tool Unit Tests** | Terminal verification after each script write (`python3 script.py --dry-run`). Hermes venv used as test runtime. Circuit breaker tracks tool success/failure rates. | ✅ Strong — circuit breaker is continuous tool unit testing |
+| **8. Human Review** | `dojo-eval` user correction detection ("No,", "wrong", "that's not" patterns). Thresholds calibrated to ~0.35 corrections/session. | ✅ Strong — automated detection + human feedback loop |
+
+### What We're Missing (4/10) — Priority Ranked
+
+| Method | Gap | Where It Would Help | Priority |
+|--------|-----|---------------------|----------|
+| **6. Regression Suite** | No prompt/skill regression testing. When we update SKILL.md, we don't replay old tasks to check for drift. | SkillOpt optimization could regress. Cron prompt changes could silently degrade. | 🔴 HIGH — prompts have no type system |
+| **9. Shadow Run** | No parallel execution of candidate vs current. Cron jobs swap instantly with no rollback signal. | Cron job updates, new model rollouts, skill changes. | 🟡 MEDIUM — high value for risky rollouts |
+| **10. Red Team** | `skill-vetting` skill exists but isn't systematically applied. `autoresearch-evaluation-patterns` covers red-teaming conceptually. | Before exposing agent to external surfaces (group chats, public APIs). | 🟡 MEDIUM — proactive security |
+| **7. A/B in Prod** | No traffic splitting between skill/prompt versions. | SkillOpt could A/B test optimized vs original on live tasks. | 🟢 LOW — complex to implement, smaller payoff |
+
+### Gap-to-System Wiring Recommendations
+
+**Regression Suite (highest ROI gap):**
+- Implement as a SkillOpt integration: before accepting an optimized skill, replay 5 canonical tasks from the golden set through BOTH old and new skill versions. Diff the outputs.
+- Store as `~/loop-state/regression/<skill-name>/` with fixture inputs and expected outputs.
+- The acceptance gate currently only checks score delta ≥ 0.5. Regression would add: "did the optimized skill still pass the golden set?"
+
+**Shadow Run for Cron Jobs:**
+- When updating a cron job, run the new version alongside the old for one cycle. Compare outputs silently. Only swap if outputs are consistent or improved.
+- Implement as: create shadow job with `deliver: local`, compare output to production job's output, promote or reject.
+
+**Red Team Integration:**
+- Run `skill-vetting` on every new skill before deployment.
+- Add injection-resistance testing to the dojo-eval pipeline: attempt prompt injection in tool outputs, verify agent doesn't comply.
+
+## Connections
+
+- `[[loop-engineering]]` — evals are the verification layer of agent loops
+- `[[skillopt-auto-gate]]` — implements methods 1, 2, 3 (golden set, LLM judge, rubric)
+- `[[dojo-eval]]` — implements methods 4, 5, 8 (trajectory, tool tests, human review)
+- `[[autoresearch-evaluation-patterns]]` — 23 eval/red-teaming patterns from autoresearch
+- `[[markov-regime-detection]]` — uses golden set (SPY 10Y baseline) and trajectory eval (walk-forward)
+- `[[finance-recommendation-verification]]` — implements regression (backtest = replay historical scenarios)
+- `[[verification-before-completion]]` — general principle underlying all 10 methods
+- `[[skill-vetting]]` — implements method 10 (red team) for agent skills
+- `[[twitter-loop-engineering]]` — the broader loop engineering context this taxonomy belongs to
